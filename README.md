@@ -1,6 +1,7 @@
 ## About
 ### exfortables_py: An EXFORTABLES-Inspired Structured Database Created by EXFOR_Parser
-This repository contains tabulated format (x, y, dx, dy) of a directory-structured projectile/nuclide/reaction/ database, `exfortables_py` which is inspired by [EXFORTABLES](https://nds.iaea.org/talys/tutorials/exfortables.pdf). The datasets are extracted from Experimental Nuclear Reaction Database, [EXFOR](https://nds.iaea.org/exfor/), by using [EXFOR_Parser](https://github.com/IAEA-NDS/exforparser) originating from [EXFOR Master Files](https://github.com/IAEA-NDS/exfor_master), for making retrieval and utilization of EXFOR data more straightforward for users. The new version of [IAEA Nuclear Reaction Dataexplorer](https://nds.iaea.org/dataexplorer/) will be built on top of this database.
+
+This repository contains tabulated format (x, dx, y, dy) of a directory-structured projectile/nuclide/reaction/ database, `exfortables_py` which is inspired by [EXFORTABLES](https://nds.iaea.org/talys/tutorials/exfortables.pdf). The datasets are extracted from Experimental Nuclear Reaction Database ([EXFOR](https://nds.iaea.org/exfor/)) using [EXFOR_Parser](https://github.com/IAEA-NDS/exforparser) originating from [EXFOR Master Files](https://github.com/IAEA-NDS/exfor_master) for making retrieval and utilization of EXFOR data more straightforward for users. The new version of [IAEA Nuclear Reaction Dataexplorer](https://nds.iaea.org/dataexplorer/) will be built on top of this database.
 
 ### Download formatted datasets
 
@@ -8,7 +9,9 @@ In order to download the entire repository from the terminal, you can invoke
 ```bash
 git clone https://github.com/IAEA-NDS/exfortables_py.git
 ```
-Since the repository contains large amount of files, it will take a while to get entire files to download. If you aim to clone a particular folder, i.e, projectile or projectile/nuclide, then the sparse-checkout command should be used. It works on git version above 2.25.0, so please make sure you have your git version updated. The following is the example to download n/Al-27 reaction data only.
+
+Since the repository contains large amount of files, it will take a while to get entire files to download. If you aim to clone a particular folder, i.e, projectile or projectile/nuclide, then the `sparse-checkout` command should be used. It works on git version above 2.25.0, so please make sure you have your git version updated. The following is the example to download n/Al-27 reaction datasets only.
+
 ```bash
 git clone --filter=blob:none --no-checkout https://github.com/IAEA-NDS/exfortables_py.git
 cd exfortables_py
@@ -18,18 +21,19 @@ git sparse-checkout set n/Al-27
 ```
 
 ### About Dataset
-The root directory's name corresponds to the projectile, with '0' indicating a spontaneous reaction involving the target nuclide, formatted as `Al-27`, for example. In this format, '0' represents the mass number of the target nuclide, such as `Ag-0`, indicating natural abundance. Currently, datasets are available solely for cross sections (`xs`), fission yields (`fission/yield`), and certain neutron observables (`neutron`). Below is a preview of the repository's directory structure. 
+The root directory's name corresponds to the projectile, with `0` indicating a spontaneous reaction involving the target nuclide, formatted as `Al-27`, for example. In this format, `0` represents the mass number of the target nuclide, such as `Ag-0`, indicating natural abundance. Currently, datasets are available only for cross sections (`xs`), fission yields (`fission/yield`), and certain neutron observables (`neutron`). Below is a preview of the repository's directory structure. 
 > Please note that the `angle` and `energy` directories contain the working versions of the datasets.
 ```
 exfortables_py
  ├──  0
  |     └── Pu-240
- |          └── 0-f/
+ |          └── 0-f
  |               └── fission
  |                   └── yield
  |                        ├── cumulative
  |                        ├── independent
  |                        |    ├── Pu-240_0-f_Bushuev-41499-002-0-2007.txt
+ │                        │    ├── ....
  |                        |    └── Pu-240_0-f_Laidler-21482-002-0-1962.txt
  |                        └── primary
  ├──  a
@@ -39,7 +43,7 @@ exfortables_py
  ├──  i
  ├──  n
  |    └── Al-27
- │         ├── n-el/
+ │         ├── n-el
  │         │    ├── angle
  │         │    └── xs
  │         └── n-inl-L1
