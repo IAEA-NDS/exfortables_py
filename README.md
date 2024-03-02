@@ -1,5 +1,5 @@
-## About
-### exfortables_py: An EXFORTABLES-Inspired Structured Database Created by EXFOR_Parser
+## exfortables_py: An EXFORTABLES-Inspired Structured Database Created by EXFOR_Parser
+### About
 
 This repository contains tabulated format (x, dx, y, dy) of a directory-structured projectile/nuclide/reaction/ database, `exfortables_py` which is inspired by [EXFORTABLES](https://nds.iaea.org/talys/tutorials/exfortables.pdf). The datasets are extracted from Experimental Nuclear Reaction Database ([EXFOR](https://nds.iaea.org/exfor/)) using [EXFOR_Parser](https://github.com/IAEA-NDS/exforparser) originating from [EXFOR Master Files](https://github.com/IAEA-NDS/exfor_master) for making retrieval and utilization of EXFOR data more straightforward for users. The new version of [IAEA Nuclear Reaction Dataexplorer](https://nds.iaea.org/dataexplorer/) will be built on top of this database.
 
@@ -46,7 +46,7 @@ exfortables_py
  │         ├── n-el
  │         │    ├── angle
  │         │    └── xs
- │         └── n-inl-L1
+ │         ├── n-inl-L1
  │         │    ├── angle
  │         │    └── xs
  │         │        ├── Al-27_n-inl-L1_Al27_Almen-Ramstrom-20788-002-0-1975.txt
@@ -94,10 +94,10 @@ An example of the file format for `n/Al-27/n-inl-L1/xs/Al-27_n-inl-L1_Almen-Rams
 
 ### Citations
 For this database:
-* **S. Okumura, G. Schnabel, and A. Koning** - “Development of an EXFORTABLES-Inspired Structured Database through EXFOR Parser” - [*Proceedings of the Joint Symposium on Nuclear Data and PHITS in 2023 November 15-17, 2023, Tokai, Japan*](https://jopss.jaea.go.jp) (Submitted)
+* **S. Okumura, G. Schnabel, and A. Koning** - “Development of an EXFORTABLES-Inspired Structured Database through EXFOR Parser” - [*Proceedings of the Joint Symposium on Nuclear Data and PHITS in 2023, November 15-17, 2023, Tokai, Japan*](https://jopss.jaea.go.jp) (Submitted)
 
 For [EXFOR_Parser](https://github.com/IAEA-NDS/exforparser) and [IAEA Nuclear Reaction Dataexplorer](https://nds.iaea.org/dataexplorer/):
-* **S. Okumura, G. Schnabel, and A. Koning** - “Developing a New Web Service for Experimental Nuclear Reaction Database (EXFOR) Using RESTful API and JSON” - [*EPJ Web of Conf.*](https://www.epj-conferences.org/) (Accepted)
+* **S. Okumura, G. Schnabel, and A. Koning** - “Developing a New Web Service for Experimental Nuclear Reaction Database (EXFOR) Using RESTful API and JSON” - [*Proceedings of the 16th International Conference on Nuclear Reaction Mechanisms, 11–16 Jun 2023, Varenna, Italy, EPJ Web of Conf.*](https://www.epj-conferences.org/) (Accepted)
 
 ### License and Disclaimer
 * This project is licensed under the CC BY-SA License - see the [LICENSE.md](LICENSE.md) file for details.
