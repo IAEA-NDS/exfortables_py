@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41614-147-0 
-# EXFOR reaction        : ['52-TE-126', ['N,2N'], '52-TE-125-M,,SIG'] 
+# EXFOR reaction        : (52-TE-126(N,2N)52-TE-125-M,,SIG) 
 # incident energy       : 1.3670e+01 MeV - 1.4670e+01 MeV 
 # target                : Te-126 
 # product               : Te-125-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,INDC(CCP)-0460,2016) 
 # year                  : 2016 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36700E+01      0.00000E+00      9.45000E-01      1.60650E-01
-      1.40600E+01      0.00000E+00      1.21400E+00      2.20948E-01
-      1.42800E+01      0.00000E+00      1.00900E+00      1.59422E-01
-      1.44600E+01      0.00000E+00      1.10700E+00      1.39482E-01
-      1.46700E+01      0.00000E+00      9.40000E-01      1.69200E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3670E+01        0.0000E+00        9.4500E-01        1.6065E-01
+        1.4060E+01        0.0000E+00        1.2140E+00        2.2095E-01
+        1.4280E+01        0.0000E+00        1.0090E+00        1.5942E-01
+        1.4460E+01        0.0000E+00        1.1070E+00        1.3948E-01
+        1.4670E+01        0.0000E+00        9.4000E-01        1.6920E-01

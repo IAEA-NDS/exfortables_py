@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0581-006-0 
-# EXFOR reaction        : ['29-CU-0', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (29-CU-0(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 5.4000e+02 MeV 
 # target                : Cu-0 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.H.Bieri 
+# first author          : Bieri 
 # institute             : (2SWTZUR): Zurich 
 # reference             : (J,HPA,35,553,1962) 
 # year                  : 1962 
@@ -13,5 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D05/D0581.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0581
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.40000E+02      0.00000E+00      3.40000E-01      3.40000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.4000E+02        0.0000E+00        4.0000E-02        4.0000E-03
+        5.4000E+02        0.0000E+00        3.4000E-01        3.4000E-02
+        5.4000E+02        0.0000E+00        3.0000E-04        3.0000E-05
+        5.4000E+02        0.0000E+00        3.3000E-04        3.3000E-05
+        5.4000E+02        0.0000E+00        2.4000E-04        2.4000E-05
+        5.4000E+02        0.0000E+00        3.0000E-03        3.0000E-04
+        5.4000E+02        0.0000E+00        1.8000E-03        1.8000E-04

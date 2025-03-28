@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4059-025-0 
-# EXFOR reaction        : ['39-Y-89', ['D,P'], '39-Y-90,,SIG'] 
+# EXFOR reaction        : (39-Y-89(D,P)39-Y-90,,SIG) 
 # incident energy       : 1.9500e+01 MeV 
 # target                : Y-89 
 # product               : Y-90 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : N.Baron 
+# first author          : Baron 
 # institute             : (1USAPUP): University of Pittsburgh, Pittsburgh, PA 
 # reference             : (J,PR,129,2636,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4059.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4059
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.95000E+01      0.00000E+00      1.03000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9500E+01        0.0000E+00        1.0300E-01        0.0000E+00

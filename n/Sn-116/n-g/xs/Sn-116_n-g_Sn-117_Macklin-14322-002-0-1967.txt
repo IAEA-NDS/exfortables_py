@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14322-002-0 
-# EXFOR reaction        : ['50-SN-116', ['N,G'], '50-SN-117,,SIG,,MXW'] 
+# EXFOR reaction        : (50-SN-116(N,G)50-SN-117,,SIG,,MXW) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Sn-116 
 # product               : Sn-117 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.L.Macklin 
+# first author          : Macklin 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,AJ,149,577,1967) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/143/14322.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14322
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      1.04000E-01      2.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        1.0400E-01        2.1000E-02

@@ -1,24 +1,24 @@
 # entry-subent-pointer  : 23112-004-0 
-# EXFOR reaction        : ['66-DY-161', ['N,G'], '66-DY-162,,SIG,,,DERIV'] 
+# EXFOR reaction        : (66-DY-161(N,G)66-DY-162,,SIG,,,DERIV) 
 # incident energy       : 1.4300e-01 MeV - 5.0300e-01 MeV 
 # target                : Dy-161 
 # product               : Dy-162 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : B.L.Goldblum 
-# institute             : (2NOROSL): University of Oslo, Oslo 
+# first author          : Goldblum 
+# institute             : (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
 # reference             : (J,PR/C,81,054606,2010) 
 # year                  : 2010 
 # facility              : (CYCLO): Cyclotron 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23112.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23112
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.43000E-01      1.20000E-01      1.95359E-01      4.55604E-02
-      1.43000E-01      1.20000E-01      4.59460E-01      3.33723E-01
-      2.63000E-01      1.20000E-01      1.24894E-01      2.75982E-02
-      2.63000E-01      1.20000E-01      3.24485E-01      2.23599E-01
-      3.83000E-01      1.20000E-01      8.13340E-02      1.96147E-02
-      3.83000E-01      1.20000E-01      2.03205E-01      9.68359E-02
-      5.03000E-01      1.20000E-01      5.16629E-02      1.56050E-02
-      5.03000E-01      1.20000E-01      1.51324E-01      6.00294E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4300E-01        1.2000E-01        1.9536E-01        4.5560E-02
+        1.4300E-01        1.2000E-01        4.5946E-01        3.3372E-01
+        2.6300E-01        1.2000E-01        1.2489E-01        2.7598E-02
+        2.6300E-01        1.2000E-01        3.2449E-01        2.2360E-01
+        3.8300E-01        1.2000E-01        8.1334E-02        1.9615E-02
+        3.8300E-01        1.2000E-01        2.0320E-01        9.6836E-02
+        5.0300E-01        1.2000E-01        5.1663E-02        1.5605E-02
+        5.0300E-01        1.2000E-01        1.5132E-01        6.0029E-02

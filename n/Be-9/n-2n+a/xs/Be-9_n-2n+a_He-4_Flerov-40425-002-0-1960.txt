@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40425-002-0 
-# EXFOR reaction        : ['4-BE-9', ['N,2N+A'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (4-BE-9(N,2N+A)2-HE-4,,SIG) 
 # incident energy       : 1.4000e+01 MeV 
 # target                : Be-9 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 24 
-# first author          : N.N.Flerov 
+# first author          : Flerov 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (J,JNE/A,11,174,1960) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/404/40425.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40425
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40000E+01      0.00000E+00      5.50000E-01      6.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        0.0000E+00        5.5000E-01        6.0000E-02

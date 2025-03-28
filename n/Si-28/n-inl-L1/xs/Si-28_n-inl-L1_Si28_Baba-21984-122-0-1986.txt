@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21984-122-0 
-# EXFOR reaction        : ['14-SI-28', ['N,INL'], '14-SI-28,PAR,SIG'] 
+# EXFOR reaction        : (14-SI-28(N,INL)14-SI-28,PAR,SIG) 
 # incident energy       : 1.4200e+01 MeV 
 # target                : Si-28 
 # product               : Si-28 
 # level energy          : 1.7790e+00 MeV 
 # MF-MT number          : 3 - 51 
-# first author          : M.Baba 
+# first author          : Baba 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (J,RE,92,223,1986) 
 # year                  : 1986 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21984.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21984
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+01      0.00000E+00      1.26900E-01      1.06000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        0.0000E+00        1.2690E-01        1.0600E-02

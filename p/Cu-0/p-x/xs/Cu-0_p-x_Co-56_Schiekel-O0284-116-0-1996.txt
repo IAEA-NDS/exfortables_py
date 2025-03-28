@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0284-116-0 
-# EXFOR reaction        : ['29-CU-0', ['P,X'], '27-CO-56,CUM,SIG'] 
+# EXFOR reaction        : (29-CU-0(P,X)27-CO-56,CUM,SIG) 
 # incident energy       : 2.2600e+02 MeV - 3.7500e+02 MeV 
 # target                : Cu-0 
 # product               : Co-56 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Th.Schiekel 
+# first author          : Schiekel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,114,91,1996) 
 # year                  : 1996 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0284.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0284
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.26000E+02      1.80000E+00      1.11000E-02      8.67000E-04
-      2.71000E+02      1.28000E+00      1.20000E-02      9.57000E-04
-      2.71000E+02      1.28000E+00      1.19000E-02      9.97000E-04
-      3.38000E+02      1.74000E+00      1.13000E-02      9.26000E-04
-      3.38000E+02      1.74000E+00      1.14000E-02      8.86000E-04
-      3.75000E+02      1.26000E+00      1.14000E-02      9.02000E-04
-      3.75000E+02      1.26000E+00      1.13000E-02      9.34000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2600E+02        1.8000E+00        1.1100E-02        8.6700E-04
+        2.7100E+02        1.2800E+00        1.2000E-02        9.5700E-04
+        2.7100E+02        1.2800E+00        1.1900E-02        9.9700E-04
+        3.3800E+02        1.7400E+00        1.1300E-02        9.2600E-04
+        3.3800E+02        1.7400E+00        1.1400E-02        8.8600E-04
+        3.7500E+02        1.2600E+00        1.1400E-02        9.0200E-04
+        3.7500E+02        1.2600E+00        1.1300E-02        9.3400E-04

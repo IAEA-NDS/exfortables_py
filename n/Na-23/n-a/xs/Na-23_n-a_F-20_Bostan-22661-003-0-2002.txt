@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22661-003-0 
-# EXFOR reaction        : ['11-NA-23', ['N,A'], '9-F-20,,SIG'] 
+# EXFOR reaction        : (11-NA-23(N,A)9-F-20,,SIG) 
 # incident energy       : 1.3600e+01 MeV - 1.4860e+01 MeV 
 # target                : Na-23 
 # product               : F-20 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : M.Bostan 
+# first author          : Bostan 
 # institute             : (2TUKSTU): Istanbul University 
 # reference             : (J,ANE,29,(10),2019,200210) 
 # year                  : 2002 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22661.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22661
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36000E+01      8.00000E-01      7.79000E-02      4.00000E-03
-      1.36800E+01      8.10000E-01      9.04000E-02      4.00000E-03
-      1.41000E+01      1.00000E-01      8.51000E-02      4.00000E-03
-      1.44600E+01      1.10000E-01      8.33000E-02      4.00000E-03
-      1.47200E+01      1.10000E-01      8.63000E-02      4.00000E-03
-      1.48600E+01      1.20000E-01      9.74000E-02      5.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3600E+01        8.0000E-01        7.7900E-02        4.0000E-03
+        1.3680E+01        8.1000E-01        9.0400E-02        4.0000E-03
+        1.4100E+01        1.0000E-01        8.5100E-02        4.0000E-03
+        1.4460E+01        1.1000E-01        8.3300E-02        4.0000E-03
+        1.4720E+01        1.1000E-01        8.6300E-02        4.0000E-03
+        1.4860E+01        1.2000E-01        9.7400E-02        5.0000E-03

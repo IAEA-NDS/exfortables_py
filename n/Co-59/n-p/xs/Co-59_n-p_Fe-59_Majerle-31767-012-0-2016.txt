@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31767-012-0 
-# EXFOR reaction        : ['27-CO-59', ['N,P'], '26-FE-59,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,P)26-FE-59,,SIG) 
 # incident energy       : 1.7300e+01 MeV - 3.5500e+01 MeV 
 # target                : Co-59 
 # product               : Fe-59 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.Majerle 
+# first author          : Majerle 
 # institute             : (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
 # reference             : (J,NP/A,953,139,2016) 
 # year                  : 2016 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31767.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31767
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.73000E+01      1.10000E+00      2.90000E-02      5.00000E-03
-      2.21000E+01      1.10000E+00      2.10000E-02      3.00000E-03
-      2.45000E+01      1.10000E+00      2.20000E-02      3.00000E-03
-      2.76000E+01      1.00000E+00      2.50000E-02      4.00000E-03
-      2.98000E+01      1.00000E+00      2.60000E-02      4.00000E-03
-      3.26000E+01      1.00000E+00      3.00000E-02      6.00000E-03
-      3.55000E+01      1.00000E+00      1.50000E-02      6.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7300E+01        1.1000E+00        2.9000E-02        5.0000E-03
+        2.2100E+01        1.1000E+00        2.1000E-02        3.0000E-03
+        2.4500E+01        1.1000E+00        2.2000E-02        3.0000E-03
+        2.7600E+01        1.0000E+00        2.5000E-02        4.0000E-03
+        2.9800E+01        1.0000E+00        2.6000E-02        4.0000E-03
+        3.2600E+01        1.0000E+00        3.0000E-02        6.0000E-03
+        3.5500E+01        1.0000E+00        1.5000E-02        6.0000E-03

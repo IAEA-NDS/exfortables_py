@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22703-010-0 
-# EXFOR reaction        : ['25-MN-55', ['N,4N'], '25-MN-52,,SIG'] 
+# EXFOR reaction        : (25-MN-55(N,4N)25-MN-52,,SIG) 
 # incident energy       : 3.3500e+01 MeV - 3.8500e+01 MeV 
 # target                : Mn-55 
 # product               : Mn-52 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : Y.Uwamino 
+# first author          : Uwamino 
 # institute             : (2JPNTOK): University of Tokyo, Tokyo 
 # reference             : (J,NSE,111,391,1992) 
 # year                  : 1992 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22703.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22703
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.35000E+01      0.00000E+00      7.90900E-06      4.20000E-06
-      3.45000E+01      0.00000E+00      1.83700E-04      8.20000E-05
-      3.55000E+01      0.00000E+00      1.01500E-03      3.30000E-04
-      3.65000E+01      0.00000E+00      2.43000E-03      7.40000E-04
-      3.75000E+01      0.00000E+00      4.70900E-03      9.30000E-04
-      3.85000E+01      0.00000E+00      8.29600E-03      3.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3500E+01        0.0000E+00        7.9090E-06        4.2000E-06
+        3.4500E+01        0.0000E+00        1.8370E-04        8.2000E-05
+        3.5500E+01        0.0000E+00        1.0150E-03        3.3000E-04
+        3.6500E+01        0.0000E+00        2.4300E-03        7.4000E-04
+        3.7500E+01        0.0000E+00        4.7090E-03        9.3000E-04
+        3.8500E+01        0.0000E+00        8.2960E-03        3.1000E-03

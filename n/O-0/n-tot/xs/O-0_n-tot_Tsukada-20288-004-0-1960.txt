@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20288-004-0 
-# EXFOR reaction        : ['8-O-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (8-O-0(N,TOT),,SIG) 
 # incident energy       : 3.7260e+00 MeV - 3.7760e+00 MeV 
 # target                : O-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : K.Tsukada 
+# first author          : Tsukada 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (J,JPJ,15,1994,6011) 
 # year                  : 1960 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20288.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20288
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.72600E+00      1.50000E-02      3.74000E+00      1.12200E-01
-      3.73300E+00      1.50000E-02      4.02000E+00      1.20600E-01
-      3.73900E+00      1.50000E-02      4.18000E+00      1.25400E-01
-      3.74500E+00      1.50000E-02      3.98000E+00      1.19400E-01
-      3.75100E+00      1.50000E-02      3.16000E+00      9.48000E-02
-      3.75800E+00      1.50000E-02      3.61000E+00      1.08300E-01
-      3.76400E+00      1.50000E-02      3.33000E+00      9.99000E-02
-      3.77000E+00      1.50000E-02      2.85000E+00      8.55000E-02
-      3.77600E+00      1.50000E-02      3.09000E+00      9.27000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.7260E+00        1.5000E-02        3.7400E+00        1.1220E-01
+        3.7330E+00        1.5000E-02        4.0200E+00        1.2060E-01
+        3.7390E+00        1.5000E-02        4.1800E+00        1.2540E-01
+        3.7450E+00        1.5000E-02        3.9800E+00        1.1940E-01
+        3.7510E+00        1.5000E-02        3.1600E+00        9.4800E-02
+        3.7580E+00        1.5000E-02        3.6100E+00        1.0830E-01
+        3.7640E+00        1.5000E-02        3.3300E+00        9.9900E-02
+        3.7700E+00        1.5000E-02        2.8500E+00        8.5500E-02
+        3.7760E+00        1.5000E-02        3.0900E+00        9.2700E-02

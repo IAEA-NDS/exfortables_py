@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12999-003-0 
-# EXFOR reaction        : ['28-NI-58', ['N,X'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (28-NI-58(N,X)2-HE-4,,SIG) 
 # incident energy       : 8.0000e+00 MeV - 1.1000e+01 MeV 
 # target                : Ni-58 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.L.Graham 
+# first author          : Graham 
 # institute             : (1USAOHO): Ohio University, Athens, OH 
 # reference             : (J,NSE,95,60,8701) 
 # year                  : 1987 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12999.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12999
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.00000E+00      0.00000E+00      6.80000E-02      1.20000E-02
-      9.40000E+00      0.00000E+00      8.50000E-02      1.60000E-02
-      1.10000E+01      0.00000E+00      9.20000E-02      1.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+00        0.0000E+00        6.8000E-02        1.2000E-02
+        9.4000E+00        0.0000E+00        8.5000E-02        1.6000E-02
+        1.1000E+01        0.0000E+00        9.2000E-02        1.7000E-02

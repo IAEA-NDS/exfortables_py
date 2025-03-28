@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21009-021-0 
-# EXFOR reaction        : ['30-ZN-67', ['N,HE3'], '28-NI-65,,SIG,,SPA'] 
+# EXFOR reaction        : (30-ZN-67(N,HE3)28-NI-65,,SIG,,SPA) 
 # incident energy       : 2.2500e+01 MeV 
 # target                : Zn-67 
 # product               : Ni-65 
 # level energy          : - 
 # MF-MT number          : 3 - 106 
-# first author          : C.H.Wu 
+# first author          : Wu 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,NP/A,329,63,197910) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21009.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21009
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.25000E+01      1.58000E+01      4.60000E-04      1.30000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2500E+01        1.5800E+01        4.6000E-04        1.3000E-04

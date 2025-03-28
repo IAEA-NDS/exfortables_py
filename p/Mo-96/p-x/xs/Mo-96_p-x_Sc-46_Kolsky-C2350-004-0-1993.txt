@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2350-004-0 
-# EXFOR reaction        : ['42-MO-96', ['P,X'], 'ELEM/MASS,IND,SIG'] 
+# EXFOR reaction        : (42-MO-96(P,X)ELEM/MASS,IND,SIG) 
 # incident energy       : 8.0000e+02 MeV 
 # target                : Mo-96 
 # product               : Sc-46 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : K.L.Kolsky 
+# first author          : Kolsky 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR/C,48,236,1993) 
 # year                  : 1993 
@@ -13,5 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2350.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2350
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.00000E+02      0.00000E+00      3.28000E-04      5.40000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+02        0.0000E+00        4.8800E-05        6.6000E-06
+        8.0000E+02        0.0000E+00        1.9500E-04        2.3000E-05
+        8.0000E+02        0.0000E+00        1.0700E-04        1.5000E-05
+        8.0000E+02        0.0000E+00        3.2800E-04        5.4000E-05
+        8.0000E+02        0.0000E+00        1.6700E-04        2.1000E-05
+        8.0000E+02        0.0000E+00        5.6100E-05        7.8000E-06

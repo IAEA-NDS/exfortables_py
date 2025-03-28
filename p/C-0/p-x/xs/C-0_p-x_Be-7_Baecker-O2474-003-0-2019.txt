@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2474-003-0 
-# EXFOR reaction        : ['6-C-0', ['P,X'], '4-BE-7,,SIG'] 
+# EXFOR reaction        : (6-C-0(P,X)4-BE-7,,SIG) 
 # incident energy       : 1.2000e+02 MeV - 2.2000e+02 MeV 
 # target                : C-0 
 # product               : Be-7 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : C.M.Baecker 
+# first author          : Baecker 
 # institute             : (2GERDOR): Dortmund University , F.R.Germany 
 # reference             : (J,NIM/B,454,50,2019) 
 # year                  : 2019 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O24/O2474.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2474
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.20000E+02      1.00000E+00      1.56000E-02      0.00000E+00
-      1.40000E+02      1.00000E+00      1.42000E-02      0.00000E+00
-      1.60000E+02      1.00000E+00      1.29000E-02      0.00000E+00
-      1.80000E+02      1.00000E+00      1.22000E-02      0.00000E+00
-      2.00000E+02      1.00000E+00      1.29000E-02      0.00000E+00
-      2.20000E+02      1.00000E+00      1.11000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E+02        1.0000E+00        1.5600E-02        0.0000E+00
+        1.4000E+02        1.0000E+00        1.4200E-02        0.0000E+00
+        1.6000E+02        1.0000E+00        1.2900E-02        0.0000E+00
+        1.8000E+02        1.0000E+00        1.2200E-02        0.0000E+00
+        2.0000E+02        1.0000E+00        1.2900E-02        0.0000E+00
+        2.2000E+02        1.0000E+00        1.1100E-02        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2000-013-0 
-# EXFOR reaction        : ['55-CS-133', ['P,X'], '53-I-126,,SIG'] 
+# EXFOR reaction        : (55-CS-133(P,X)53-I-126,,SIG) 
 # incident energy       : 6.0000e+01 MeV - 2.4000e+02 MeV 
 # target                : Cs-133 
 # product               : I-126 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.W.Fink 
+# first author          : Fink 
 # institute             : (1USAROC): University of Rochester, Rochester, NY 
 # reference             : (J,PR,96,185,1954) 
 # year                  : 1954 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C20/C2000.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2000
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+01      0.00000E+00      1.00000E-04      0.00000E+00
-      8.00000E+01      0.00000E+00      9.00000E-04      0.00000E+00
-      1.00000E+02      0.00000E+00      2.40000E-03      0.00000E+00
-      1.50000E+02      0.00000E+00      2.50000E-03      0.00000E+00
-      2.40000E+02      0.00000E+00      5.00000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+01        0.0000E+00        5.0000E-05        0.0000E+00
+        8.0000E+01        0.0000E+00        9.4000E-04        0.0000E+00
+        1.0000E+02        0.0000E+00        2.4000E-03        0.0000E+00
+        1.5000E+02        0.0000E+00        2.5000E-03        0.0000E+00
+        2.4000E+02        0.0000E+00        5.0000E-03        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40927-003-0 
-# EXFOR reaction        : ['92-U-235', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (92-U-235(N,F),,SIG) 
 # incident energy       : 1.8800e+00 MeV 
 # target                : U-235 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : V.A.Kalinin 
+# first author          : Kalinin 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : ((J,YK,,(4),3,1987)=(R,INDC(CCP)-284,3,1987)) 
 # year                  : 1987 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40927.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40927
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.88000E+00      0.00000E+00      1.26000E+00      3.17520E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8800E+00        0.0000E+00        1.2600E+00        3.1752E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0276-073-0 
-# EXFOR reaction        : ['26-FE-0', ['P,X'], '26-FE-52-G,CUM,SIG'] 
+# EXFOR reaction        : (26-FE-0(P,X)26-FE-52-G,CUM,SIG) 
 # incident energy       : 1.1400e+02 MeV - 1.7700e+02 MeV 
 # target                : Fe-0 
 # product               : Fe-52-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,129,153,1997) 
 # year                  : 1997 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0276
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.14000E+02      1.84000E+00      1.50000E-03      2.11000E-04
-      1.37000E+02      1.34000E+00      9.97000E-04      9.55000E-05
-      1.43000E+02      1.57000E+00      1.40000E-03      2.77000E-04
-      1.60000E+02      1.09000E+00      8.84000E-04      9.66000E-05
-      1.77000E+02      1.11000E+00      1.05000E-03      1.76000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1400E+02        1.8400E+00        1.5000E-03        2.1100E-04
+        1.3700E+02        1.3400E+00        9.9700E-04        9.5500E-05
+        1.4300E+02        1.5700E+00        1.4000E-03        2.7700E-04
+        1.6000E+02        1.0900E+00        8.8400E-04        9.6600E-05
+        1.7700E+02        1.1100E+00        1.0500E-03        1.7600E-04

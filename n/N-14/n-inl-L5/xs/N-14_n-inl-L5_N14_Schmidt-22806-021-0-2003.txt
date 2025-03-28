@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22806-021-0 
-# EXFOR reaction        : ['7-N-14', ['N,INL'], '7-N-14,PAR,SIG'] 
+# EXFOR reaction        : (7-N-14(N,INL)7-N-14,PAR,SIG) 
 # incident energy       : 8.8900e+00 MeV - 1.3850e+01 MeV 
 # target                : N-14 
 # product               : N-14 
 # level energy          : 5.6910e+00 MeV 
 # MF-MT number          : 3 - 55 
-# first author          : D.Schmidt 
+# first author          : Schmidt 
 # institute             : (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
 # reference             : (R,PTB-N-44,2003) 
 # year                  : 2003 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22806.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22806
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.89000E+00      1.41000E-01      3.49090E-02      2.59025E-03
-      9.88000E+00      1.21000E-01      4.32210E-02      1.59053E-03
-      1.08100E+01      1.21000E-01      3.70490E-02      1.45603E-03
-      1.17800E+01      1.21000E-01      3.51400E-02      1.43723E-03
-      1.27900E+01      1.21000E-01      2.75220E-02      1.45591E-03
-      1.38500E+01      1.21000E-01      3.76990E-02      1.70399E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.8900E+00        1.4100E-01        3.4909E-02        2.5902E-03
+        9.8800E+00        1.2100E-01        4.3221E-02        1.5905E-03
+        1.0810E+01        1.2100E-01        3.7049E-02        1.4560E-03
+        1.1780E+01        1.2100E-01        3.5140E-02        1.4372E-03
+        1.2790E+01        1.2100E-01        2.7522E-02        1.4559E-03
+        1.3850E+01        1.2100E-01        3.7699E-02        1.7040E-03

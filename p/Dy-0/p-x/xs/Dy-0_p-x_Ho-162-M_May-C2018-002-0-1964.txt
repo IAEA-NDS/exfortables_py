@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2018-002-0 
-# EXFOR reaction        : ['66-DY-0', ['P,X'], '67-HO-162-M,,SIG'] 
+# EXFOR reaction        : (66-DY-0(P,X)67-HO-162-M,,SIG) 
 # incident energy       : 9.0000e+00 MeV - 3.3000e+01 MeV 
 # target                : Dy-0 
 # product               : Ho-162-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.May 
+# first author          : May 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,JIN,26,479,1964) 
 # year                  : 1964 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C20/C2018.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2018
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.00000E+00      0.00000E+00      2.70000E-02      0.00000E+00
-      1.30000E+01      0.00000E+00      7.70000E-02      0.00000E+00
-      1.80000E+01      0.00000E+00      5.60000E-02      0.00000E+00
-      2.30000E+01      0.00000E+00      4.60000E-02      0.00000E+00
-      2.60000E+01      0.00000E+00      4.80000E-02      0.00000E+00
-      3.30000E+01      0.00000E+00      2.00000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.0000E+00        0.0000E+00        2.7000E-02        0.0000E+00
+        1.3000E+01        0.0000E+00        7.7000E-02        0.0000E+00
+        1.8000E+01        0.0000E+00        5.6000E-02        0.0000E+00
+        2.3000E+01        0.0000E+00        4.6000E-02        0.0000E+00
+        2.6000E+01        0.0000E+00        4.8000E-02        0.0000E+00
+        3.3000E+01        0.0000E+00        2.0000E-02        0.0000E+00

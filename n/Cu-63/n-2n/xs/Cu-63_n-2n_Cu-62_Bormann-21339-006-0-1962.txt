@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21339-006-0 
-# EXFOR reaction        : ['29-CU-63', ['N,2N'], '29-CU-62,,SIG'] 
+# EXFOR reaction        : (29-CU-63(N,2N)29-CU-62,,SIG) 
 # incident energy       : 1.3200e+01 MeV - 1.9600e+01 MeV 
 # target                : Cu-63 
 # product               : Cu-62 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : M.Bormann 
+# first author          : Bormann 
 # institute             : (2GERHAM): Hamburg, Universitaet 
 # reference             : (J,ZP,166,477,1962) 
 # year                  : 1962 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21339.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21339
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.32000E+01      3.00000E-01      7.66000E-01      7.66000E-02
-      1.41000E+01      4.00000E-01      4.78000E-01      5.25800E-02
-      1.52000E+01      4.00000E-01      6.27000E-01      5.64300E-02
-      1.60000E+01      4.00000E-01      7.51000E-01      6.75900E-02
-      1.71000E+01      4.00000E-01      8.49000E-01      7.64100E-02
-      1.80000E+01      4.00000E-01      9.20000E-01      7.36000E-02
-      1.94000E+01      3.00000E-01      8.60000E-01      6.88000E-02
-      1.96000E+01      3.00000E-01      8.54000E-01      6.83200E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3200E+01        3.0000E-01        7.6600E-01        7.6600E-02
+        1.4100E+01        4.0000E-01        4.7800E-01        5.2580E-02
+        1.5200E+01        4.0000E-01        6.2700E-01        5.6430E-02
+        1.6000E+01        4.0000E-01        7.5100E-01        6.7590E-02
+        1.7100E+01        4.0000E-01        8.4900E-01        7.6410E-02
+        1.8000E+01        4.0000E-01        9.2000E-01        7.3600E-02
+        1.9400E+01        3.0000E-01        8.6000E-01        6.8800E-02
+        1.9600E+01        3.0000E-01        8.5400E-01        6.8320E-02

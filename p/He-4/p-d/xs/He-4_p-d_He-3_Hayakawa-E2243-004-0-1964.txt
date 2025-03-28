@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E2243-004-0 
-# EXFOR reaction        : ['2-HE-4', ['P,D'], '2-HE-3,,SIG'] 
+# EXFOR reaction        : (2-HE-4(P,D)2-HE-3,,SIG) 
 # incident energy       : 5.5000e+01 MeV 
 # target                : He-4 
 # product               : He-3 
 # level energy          : - 
 # MF-MT number          : 3 - 104 
-# first author          : S.Hayakawa 
+# first author          : Hayakawa 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : (J,JPJ,19,2004,1964) 
 # year                  : 1964 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E22/E2243.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E2243
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.50000E+01      5.00000E-01      4.00000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.5000E+01        5.0000E-01        4.0000E-02        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2330-005-2 
-# EXFOR reaction        : ['49-IN-115', ['P,G'], '50-SN-116,,SIG,,SFC'] 
+# EXFOR reaction        : (49-IN-115(P,G)50-SN-116,,SIG,,SFC) 
 # incident energy       : 1.9550e+00 MeV - 2.9520e+00 MeV 
 # target                : In-115 
 # product               : Sn-116 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.Harissopulos 
+# first author          : Harissopulos 
 # institute             : (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
 # reference             : (J,PR/C,93,025804,2016) 
 # year                  : 2016 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2330.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2330
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.95500E+00      0.00000E+00      6.60000E+13      7.00000E+12
-      2.15500E+00      0.00000E+00      5.60000E+13      5.00000E+12
-      2.35400E+00      0.00000E+00      3.60000E+13      2.00000E+12
-      2.55400E+00      0.00000E+00      2.70000E+13      2.00000E+12
-      2.75300E+00      0.00000E+00      2.00000E+13      1.00000E+12
-      2.95200E+00      0.00000E+00      1.80000E+13      1.00000E+12
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9550E+00        0.0000E+00        6.6000E+13        7.0000E+12
+        2.1550E+00        0.0000E+00        5.6000E+13        5.0000E+12
+        2.3540E+00        0.0000E+00        3.6000E+13        2.0000E+12
+        2.5540E+00        0.0000E+00        2.7000E+13        2.0000E+12
+        2.7530E+00        0.0000E+00        2.0000E+13        1.0000E+12
+        2.9520E+00        0.0000E+00        1.8000E+13        1.0000E+12

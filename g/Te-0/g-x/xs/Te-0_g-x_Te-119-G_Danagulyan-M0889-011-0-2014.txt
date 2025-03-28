@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M0889-011-0 
-# EXFOR reaction        : ['52-TE-0', ['G,X'], '52-TE-119-G,,SIG,,BRA'] 
+# EXFOR reaction        : (52-TE-0(G,X)52-TE-119-G,,SIG,,BRA) 
 # incident energy       : 4.0000e+01 MeV 
 # target                : Te-0 
 # product               : Te-119-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.S.Danagulyan 
+# first author          : Danagulyan 
 # institute             : (4ARMJSU): Yerevan State University , Yerevan 
 # reference             : (J,YF,77,1378,2014) 
 # year                  : 2014 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M08/M0889.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M0889
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+01      0.00000E+00      7.50000E-04      7.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+01        0.0000E+00        7.5000E-04        7.0000E-05

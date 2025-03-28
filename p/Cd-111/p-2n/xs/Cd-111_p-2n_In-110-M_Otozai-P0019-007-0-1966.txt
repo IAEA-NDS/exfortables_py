@@ -1,11 +1,11 @@
 # entry-subent-pointer  : P0019-007-0 
-# EXFOR reaction        : ['48-CD-111', ['P,2N'], '49-IN-110-M,,SIG'] 
+# EXFOR reaction        : (48-CD-111(P,2N)49-IN-110-M,,SIG) 
 # incident energy       : 1.3100e+01 MeV - 1.4700e+01 MeV 
 # target                : Cd-111 
 # product               : In-110-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : K.Otozai 
+# first author          : Otozai 
 # institute             : (2JPNOSA): Osaka University , Osaka 
 # reference             : (J,NP,80,335,1966) 
 # year                  : 1966 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P00/P0019.x4 
 # nds                   : https://nds.iaea.org/EXFOR/P0019
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.31000E+01      0.00000E+00      2.70000E-01      2.00000E-02
-      1.47000E+01      0.00000E+00      5.90000E-01      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3100E+01        0.0000E+00        2.7000E-01        2.0000E-02
+        1.4700E+01        0.0000E+00        5.9000E-01        3.0000E-02

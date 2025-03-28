@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20522-011-0 
-# EXFOR reaction        : ['42-MO-92', ['N,T'], '41-NB-90,,SIG'] 
+# EXFOR reaction        : (42-MO-92(N,T)41-NB-90,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Mo-92 
 # product               : Nb-90 
 # level energy          : - 
 # MF-MT number          : 3 - 105 
-# first author          : S.M.Qaim 
+# first author          : Qaim 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,JIN,35,19,1973) 
 # year                  : 1973 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20522.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20522
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      4.00000E-01      5.00000E-05      2.30000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        4.0000E-01        5.0000E-05        2.3000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22637-026-0 
-# EXFOR reaction        : ['37-RB-87', ['N,2N'], '37-RB-86,,SIG'] 
+# EXFOR reaction        : (37-RB-87(N,2N)37-RB-86,,SIG) 
 # incident energy       : 1.3330e+01 MeV - 1.4940e+01 MeV 
 # target                : Rb-87 
 # product               : Rb-86 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : C.Konno 
+# first author          : Konno 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (R,JAERI-1329,1993) 
 # year                  : 1993 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22637.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22637
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49400E+01      0.00000E+00      1.19200E+00      5.70000E-02
-      1.46700E+01      0.00000E+00      1.21100E+00      6.10000E-02
-      1.44300E+01      0.00000E+00      1.17900E+00      6.10000E-02
-      1.42200E+01      0.00000E+00      1.10900E+00      5.60000E-02
-      1.39800E+01      0.00000E+00      1.10200E+00      5.20000E-02
-      1.37500E+01      0.00000E+00      1.05000E+00      5.60000E-02
-      1.35700E+01      0.00000E+00      1.02500E+00      5.30000E-02
-      1.33300E+01      0.00000E+00      1.06300E+00      5.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4940E+01        0.0000E+00        1.1920E+00        5.7000E-02
+        1.4670E+01        0.0000E+00        1.2110E+00        6.1000E-02
+        1.4430E+01        0.0000E+00        1.1790E+00        6.1000E-02
+        1.4220E+01        0.0000E+00        1.1090E+00        5.6000E-02
+        1.3980E+01        0.0000E+00        1.1020E+00        5.2000E-02
+        1.3750E+01        0.0000E+00        1.0500E+00        5.6000E-02
+        1.3570E+01        0.0000E+00        1.0250E+00        5.3000E-02
+        1.3330E+01        0.0000E+00        1.0630E+00        5.6000E-02

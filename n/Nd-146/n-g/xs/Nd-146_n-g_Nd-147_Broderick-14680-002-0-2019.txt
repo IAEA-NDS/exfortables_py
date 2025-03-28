@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14680-002-0 
-# EXFOR reaction        : ['60-ND-146', ['N,G'], '60-ND-147,,SIG,,SPA'] 
+# EXFOR reaction        : (60-ND-146(N,G)60-ND-147,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Nd-146 
 # product               : Nd-147 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : K.Broderick 
+# first author          : Broderick 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,ARI,144,54,2019) 
 # year                  : 2019 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/146/14680.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14680
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.57000E+00      1.60000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.5700E+00        1.6000E-01

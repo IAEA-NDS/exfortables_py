@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20249-004-0 
-# EXFOR reaction        : ['7-N-14', ['N,NON'], ',,SIG,,,DERIV'] 
+# EXFOR reaction        : (7-N-14(N,NON),,SIG,,,DERIV) 
 # incident energy       : 5.9000e+00 MeV - 6.9000e+00 MeV 
 # target                : N-14 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : G.Nystroem 
+# first author          : Nystroem 
 # institute             : (2SWDFOA): Research Institute for National Defence, Stockholm 
 # reference             : (J,PS,5,175,1972) 
 # year                  : 1972 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20249.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20249
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.90000E+00      2.00000E-01      2.46000E-01      1.50000E-02
-      6.90000E+00      2.00000E-01      1.74000E-01      1.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.9000E+00        2.0000E-01        2.4600E-01        1.5000E-02
+        6.9000E+00        2.0000E-01        1.7400E-01        1.6000E-02

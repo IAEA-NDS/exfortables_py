@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21820-007-0 
-# EXFOR reaction        : ['46-PD-105', ['N,A'], '44-RU-102,PAR,SIG,,MXW'] 
+# EXFOR reaction        : (46-PD-105(N,A)44-RU-102,PAR,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Pd-105 
 # product               : Ru-102 
 # level energy          : 6.0900e+00 MeV 
-# MF-MT number          : 3 - 91 
-# first author          : P.D'Hondt 
+# MF-MT number          : 3 - 848 
+# first author          : D'Hondt 
 # institute             : (2FR ILL): Institut Laue-Langevin, Grenoble 
 # reference             : (C,82ANTWER,,147,1982) 
 # year                  : 1982 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21820.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21820
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      5.40000E-07      1.80000E-07
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        5.4000E-07        1.8000E-07

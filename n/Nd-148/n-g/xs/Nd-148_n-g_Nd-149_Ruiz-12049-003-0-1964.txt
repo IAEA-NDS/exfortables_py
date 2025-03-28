@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12049-003-0 
-# EXFOR reaction        : ['60-ND-148', ['N,G'], '60-ND-149,,SIG,,MXW'] 
+# EXFOR reaction        : (60-ND-148(N,G)60-ND-149,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Nd-148 
 # product               : Nd-149 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : C.P.Ruiz 
+# first author          : Ruiz 
 # institute             : (1USAGEV): General Electric, Vallecitos Atomic Laboratory , CA 
 # reference             : (J,ANS,7,270,64) 
 # year                  : 1964 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12049.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12049
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.54000E+00      1.80000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.5400E+00        1.8000E-01

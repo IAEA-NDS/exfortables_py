@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20673-026-0 
-# EXFOR reaction        : ['47-AG-107', ['N,2N'], '47-AG-106-G,,SIG'] 
+# EXFOR reaction        : (47-AG-107(N,2N)47-AG-106-G,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Ag-107 
 # product               : Ag-106-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : M.Valkonen 
+# first author          : Valkonen 
 # institute             : (2SF JYV): University of Jyvaskyla, Jyvaskyla 
 # reference             : ((R,JU-RR-1/1976,1976)=(T,VALKONEN,197603)) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20673.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20673
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      3.00000E-01      7.00000E-01      7.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        7.0000E-01        7.0000E-02

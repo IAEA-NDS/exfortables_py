@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2327-035-0 
-# EXFOR reaction        : ['41-NB-93', ['P,4N'], '42-MO-90,,SIG'] 
+# EXFOR reaction        : (41-NB-93(P,4N)42-MO-90,,SIG) 
 # incident energy       : 4.0340e+01 MeV - 8.9370e+01 MeV 
 # target                : Nb-93 
 # product               : Mo-90 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : A.S.Voyles 
+# first author          : Voyles 
 # institute             : (1USAUCX): University of California, Berkeley, CA 
 # reference             : (J,NIM/B,429,53,2018) 
 # year                  : 2018 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2327.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2327
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.03400E+01      0.00000E+00      2.42000E-02      1.50000E-03
-      5.15100E+01      0.00000E+00      1.22000E-01      6.10000E-03
-      6.10700E+01      0.00000E+00      6.19000E-02      3.10000E-03
-      6.97000E+01      0.00000E+00      3.45000E-02      1.60000E-03
-      7.95500E+01      0.00000E+00      2.64000E-02      1.30000E-03
-      8.93700E+01      0.00000E+00      2.13000E-02      1.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0340E+01        0.0000E+00        2.4200E-02        1.5000E-03
+        5.1510E+01        0.0000E+00        1.2200E-01        6.1000E-03
+        6.1070E+01        0.0000E+00        6.1900E-02        3.1000E-03
+        6.9700E+01        0.0000E+00        3.4500E-02        1.6000E-03
+        7.9550E+01        0.0000E+00        2.6400E-02        1.3000E-03
+        8.9370E+01        0.0000E+00        2.1300E-02        1.1000E-03

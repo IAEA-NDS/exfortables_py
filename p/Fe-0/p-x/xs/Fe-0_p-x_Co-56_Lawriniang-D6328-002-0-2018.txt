@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D6328-002-0 
-# EXFOR reaction        : ['26-FE-0', ['P,X'], '27-CO-56,,SIG'] 
+# EXFOR reaction        : (26-FE-0(P,X)27-CO-56,,SIG) 
 # incident energy       : 5.8900e+00 MeV - 1.9990e+01 MeV 
 # target                : Fe-0 
 # product               : Co-56 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : B.Lawriniang 
+# first author          : Lawriniang 
 # institute             : (3INDNEH): North Eastern Hill University, Meghalaya 
 # reference             : (J,EPJ/A,54,141,2018) 
 # year                  : 2018 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D63/D6328.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D6328
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.89000E+00      1.71000E+00      3.31300E-02      0.00000E+00
-      9.73000E+00      1.11000E+00      3.42650E-01      0.00000E+00
-      1.37400E+01      8.90000E-01      4.27270E-01      0.00000E+00
-      1.69500E+01      8.80000E-01      1.64210E-01      0.00000E+00
-      1.99900E+01      6.80000E-01      6.02900E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.8900E+00        1.7100E+00        3.3130E-02        0.0000E+00
+        9.7300E+00        1.1100E+00        3.4265E-01        0.0000E+00
+        1.3740E+01        8.9000E-01        4.2727E-01        0.0000E+00
+        1.6950E+01        8.8000E-01        1.6421E-01        0.0000E+00
+        1.9990E+01        6.8000E-01        6.0290E-02        0.0000E+00

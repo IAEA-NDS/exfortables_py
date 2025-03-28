@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40226-013-0 
-# EXFOR reaction        : ['28-NI-60', ['N,P'], '27-CO-60,,SIG'] 
+# EXFOR reaction        : (28-NI-60(N,P)27-CO-60,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Ni-60 
 # product               : Co-60 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : V.N.Levkovskii 
+# first author          : Levkovskii 
 # institute             : (4KASKAZ): Institute Yadernoi Fiziki, Almaty 
 # reference             : (J,SNP,10,25,1970) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40226.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40226
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      1.30000E-01      4.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        1.3000E-01        4.0000E-02

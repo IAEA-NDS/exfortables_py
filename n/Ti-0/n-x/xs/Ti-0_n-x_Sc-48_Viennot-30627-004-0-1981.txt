@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30627-004-0 
-# EXFOR reaction        : ['22-TI-0', ['N,X'], '21-SC-48,,SIG'] 
+# EXFOR reaction        : (22-TI-0(N,X)21-SC-48,,SIG) 
 # incident energy       : 1.3750e+01 MeV - 1.4860e+01 MeV 
 # target                : Ti-0 
 # product               : Sc-48 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Viennot 
+# first author          : Viennot 
 # institute             : (3MORMOH): University Mohammed V, Rabat 
 # reference             : (P,MOH-4,12,1981) 
 # year                  : 1981 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30627.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30627
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.37500E+01      0.00000E+00      4.90000E-02      0.00000E+00
-      1.39200E+01      0.00000E+00      5.30000E-02      0.00000E+00
-      1.41100E+01      0.00000E+00      5.40000E-02      0.00000E+00
-      1.43100E+01      0.00000E+00      5.34000E-02      0.00000E+00
-      1.44900E+01      0.00000E+00      5.52000E-02      0.00000E+00
-      1.47600E+01      0.00000E+00      5.70000E-02      0.00000E+00
-      1.48600E+01      0.00000E+00      5.74000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3750E+01        0.0000E+00        4.9000E-02        0.0000E+00
+        1.3920E+01        0.0000E+00        5.3000E-02        0.0000E+00
+        1.4110E+01        0.0000E+00        5.4000E-02        0.0000E+00
+        1.4310E+01        0.0000E+00        5.3400E-02        0.0000E+00
+        1.4490E+01        0.0000E+00        5.5200E-02        0.0000E+00
+        1.4760E+01        0.0000E+00        5.7000E-02        0.0000E+00
+        1.4860E+01        0.0000E+00        5.7400E-02        0.0000E+00

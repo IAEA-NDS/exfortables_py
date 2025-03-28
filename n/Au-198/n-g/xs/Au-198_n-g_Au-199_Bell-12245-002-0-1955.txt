@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12245-002-0 
-# EXFOR reaction        : ['79-AU-198', ['N,G'], '79-AU-199,,SIG,,MXW'] 
+# EXFOR reaction        : (79-AU-198(N,G)79-AU-199,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Au-198 
 # product               : Au-199 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.E.Bell 
+# first author          : Bell 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (J,CJP,33,457,55) 
 # year                  : 1955 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12245.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12245
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.60000E+04      1.20000E+03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.6000E+04        1.2000E+03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23267-040-2 
-# EXFOR reaction        : ['78-PT-198', ['N,G'], '78-PT-199,,SIG,,SPA'] 
+# EXFOR reaction        : (78-PT-198(N,G)78-PT-199,,SIG,,SPA) 
 # incident energy       : 1.0600e-01 MeV 
 # target                : Pt-198 
 # product               : Pt-199 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.Marganiec 
+# first author          : Marganiec 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,90,065801,2014) 
 # year                  : 2014 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23267.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23267
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.06000E-01      0.00000E+00      1.03700E-01      4.45910E-03
-      1.06000E-01      0.00000E+00      9.92200E-02      4.46490E-03
-      1.06000E-01      0.00000E+00      9.88500E-02      4.25055E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0600E-01        0.0000E+00        1.0370E-01        4.4591E-03
+        1.0600E-01        0.0000E+00        9.9220E-02        4.4649E-03
+        1.0600E-01        0.0000E+00        9.8850E-02        4.2505E-03

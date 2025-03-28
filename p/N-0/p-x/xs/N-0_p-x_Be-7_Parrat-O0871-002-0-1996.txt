@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0871-002-0 
-# EXFOR reaction        : ['7-N-0', ['P,X'], '4-BE-7,,SIG'] 
+# EXFOR reaction        : (7-N-0(P,X)4-BE-7,,SIG) 
 # incident energy       : 4.0400e+01 MeV - 5.9600e+01 MeV 
 # target                : N-0 
 # product               : Be-7 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Y.Parrat 
+# first author          : Parrat 
 # institute             : (2SWTPSI): Paul Scherrer Institute , Villigen 
 # reference             : (J,NIM/B,113,470,1996) 
 # year                  : 1996 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O08/O0871.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0871
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.04000E+01      5.00000E-01      6.99000E-03      7.30000E-04
-      5.96000E+01      4.00000E-01      8.72000E-03      8.80000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0400E+01        5.0000E-01        6.9900E-03        7.3000E-04
+        5.9600E+01        4.0000E-01        8.7200E-03        8.8000E-04

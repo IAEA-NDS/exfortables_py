@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12969-002-0 
-# EXFOR reaction        : ['13-AL-27', ['N,P'], '12-MG-27,,SIG'] 
+# EXFOR reaction        : (13-AL-27(N,P)12-MG-27,,SIG) 
 # incident energy       : 1.4740e+01 MeV 
 # target                : Al-27 
 # product               : Mg-27 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : J.W.Meadows 
+# first author          : Meadows 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,ANE,14,489,1987) 
 # year                  : 1987 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12969.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12969
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47400E+01      0.00000E+00      6.38800E-02      3.38564E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4740E+01        0.0000E+00        6.3880E-02        3.3856E-03

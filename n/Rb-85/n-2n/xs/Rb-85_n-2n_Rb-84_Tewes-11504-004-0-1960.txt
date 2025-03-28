@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11504-004-0 
-# EXFOR reaction        : ['37-RB-85', ['N,2N'], '37-RB-84,,SIG'] 
+# EXFOR reaction        : (37-RB-85(N,2N)37-RB-84,,SIG) 
 # incident energy       : 1.0350e+01 MeV - 1.4500e+01 MeV 
 # target                : Rb-85 
 # product               : Rb-84 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : H.A.Tewes 
+# first author          : Tewes 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (R,UCRL-6028-T,196006) 
 # year                  : 1960 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11504.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11504
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.03500E+01      2.00000E-01      4.60000E-02      1.84000E-02
-      1.15000E+01      2.00000E-01      2.84000E-01      1.13600E-01
-      1.23000E+01      2.00000E-01      8.70000E-01      3.48000E-01
-      1.38500E+01      2.00000E-01      1.45000E+00      5.80000E-01
-      1.45000E+01      2.00000E-01      1.87000E+00      7.48000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0350E+01        2.0000E-01        4.6000E-02        1.8400E-02
+        1.1500E+01        2.0000E-01        2.8400E-01        1.1360E-01
+        1.2300E+01        2.0000E-01        8.7000E-01        3.4800E-01
+        1.3850E+01        2.0000E-01        1.4500E+00        5.8000E-01
+        1.4500E+01        2.0000E-01        1.8700E+00        7.4800E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23002-003-0 
-# EXFOR reaction        : ['6-C-12', ['N,G'], '6-C-13,,SIG'] 
+# EXFOR reaction        : (6-C-12(N,G)6-C-13,,SIG) 
 # incident energy       : 2.1000e-02 MeV - 1.9900e-01 MeV 
 # target                : C-12 
 # product               : C-13 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : T.Ohsaki 
+# first author          : Ohsaki 
 # institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
 # reference             : (J,AJ,422,912,199402) 
 # year                  : 1994 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23002.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23002
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.10000E-02      0.00000E+00      1.19000E-05      2.20000E-06
-      4.00000E-02      0.00000E+00      1.12000E-05      1.70000E-06
-      5.00000E-02      0.00000E+00      1.31000E-05      1.60000E-06
-      6.00000E-02      0.00000E+00      1.59000E-05      3.40000E-06
-      9.70000E-02      0.00000E+00      1.52000E-05      1.70000E-06
-      1.99000E-01      0.00000E+00      2.16000E-05      4.10000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1000E-02        0.0000E+00        1.1900E-05        2.2000E-06
+        4.0000E-02        0.0000E+00        1.1200E-05        1.7000E-06
+        5.0000E-02        0.0000E+00        1.3100E-05        1.6000E-06
+        6.0000E-02        0.0000E+00        1.5900E-05        3.4000E-06
+        9.7000E-02        0.0000E+00        1.5200E-05        1.7000E-06
+        1.9900E-01        0.0000E+00        2.1600E-05        4.1000E-06

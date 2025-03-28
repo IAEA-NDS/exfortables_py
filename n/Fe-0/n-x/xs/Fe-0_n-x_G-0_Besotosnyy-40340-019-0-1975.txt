@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40340-019-0 
-# EXFOR reaction        : ['26-FE-0', ['N,X'], '0-G-0,,SIG'] 
+# EXFOR reaction        : (26-FE-0(N,X)0-G-0,,SIG) 
 # incident energy       : 1.4000e+01 MeV 
 # target                : Fe-0 
 # product               : G-0 
 # level energy          : - 
 # MF-MT number          : 12 - 10 
-# first author          : V.M.Besotosnyy 
+# first author          : Besotosnyy 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : ((R,YK-19,77,1975)=(R,INDC(CCP)-68,77,1975)) 
 # year                  : 1975 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/403/40340.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40340
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40000E+01      0.00000E+00      4.52000E+00      8.50000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        0.0000E+00        4.5200E+00        8.5000E-01

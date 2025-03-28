@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30482-006-0 
-# EXFOR reaction        : ['77-IR-193', ['N,G'], '77-IR-194,,SIG'] 
+# EXFOR reaction        : (77-IR-193(N,G)77-IR-194,,SIG) 
 # incident energy       : 5.3000e-01 MeV - 1.3100e+00 MeV 
 # target                : Ir-193 
 # product               : Ir-194 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.Herman 
+# first author          : Herman 
 # institute             : (3POLIBJ): Institute Badan Jadr., Swierk and Warszawa 
 # reference             : ((P,INR-1773/I/PL/A,17,1978)=(P,INDC(POL)-9,17,197809)) 
 # year                  : 1978 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30482.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30482
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.30000E-01      1.40000E-01      2.07000E-01      2.20000E-02
-      8.60000E-01      2.10000E-01      1.67000E-01      1.80000E-02
-      1.20000E+00      1.50000E-01      1.42000E-01      1.50000E-02
-      1.31000E+00      7.00000E-01      1.00000E-01      1.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.3000E-01        1.4000E-01        2.0700E-01        2.2000E-02
+        8.6000E-01        2.1000E-01        1.6700E-01        1.8000E-02
+        1.2000E+00        1.5000E-01        1.4200E-01        1.5000E-02
+        1.3100E+00        7.0000E-01        1.0000E-01        1.5000E-02

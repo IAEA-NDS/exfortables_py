@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0575-022-0 
-# EXFOR reaction        : ['92-U-238', ['P,F'], '54-XE-133,IND,SIG,,,CALC'] 
+# EXFOR reaction        : (92-U-238(P,F)54-XE-133,IND,SIG,,,CALC) 
 # incident energy       : 3.0000e+01 MeV - 8.5000e+01 MeV 
 # target                : U-238 
 # product               : Xe-133 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : M.Diksic 
+# first author          : Diksic 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,JIN,36,7,1974) 
 # year                  : 1974 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0575.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0575
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+01      0.00000E+00      5.60000E-03      0.00000E+00
-      4.00000E+01      0.00000E+00      1.22000E-02      0.00000E+00
-      5.00000E+01      0.00000E+00      1.90000E-02      0.00000E+00
-      6.00000E+01      0.00000E+00      2.15000E-02      0.00000E+00
-      7.00000E+01      0.00000E+00      2.20000E-02      0.00000E+00
-      8.50000E+01      0.00000E+00      1.86000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+01        0.0000E+00        5.6000E-03        0.0000E+00
+        4.0000E+01        0.0000E+00        1.2200E-02        0.0000E+00
+        5.0000E+01        0.0000E+00        1.9000E-02        0.0000E+00
+        6.0000E+01        0.0000E+00        2.1500E-02        0.0000E+00
+        7.0000E+01        0.0000E+00        2.2000E-02        0.0000E+00
+        8.5000E+01        0.0000E+00        1.8600E-02        0.0000E+00

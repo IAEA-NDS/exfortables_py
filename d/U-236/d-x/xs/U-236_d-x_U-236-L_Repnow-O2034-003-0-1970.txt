@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2034-003-0 
-# EXFOR reaction        : ['92-U-236', ['D,X'], '92-U-236-L,,SIG'] 
+# EXFOR reaction        : (92-U-236(D,X)92-U-236-L,,SIG) 
 # incident energy       : 1.1040e+01 MeV - 2.0060e+01 MeV 
 # target                : U-236 
 # product               : U-236-L 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Repnow 
+# first author          : Repnow 
 # institute             : (2GERMPH): Max-Planck-Institut fuer Kernphysik, Heidelberg 
 # reference             : (J,NP/A,147,183,1970) 
 # year                  : 1970 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2034.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2034
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.10400E+01      0.00000E+00      1.09100E-08      7.60600E-09
-      1.20200E+01      0.00000E+00      2.17600E-08      1.07300E-08
-      1.40400E+01      0.00000E+00      1.81200E-07      4.32300E-08
-      1.60300E+01      0.00000E+00      3.50600E-07      5.90200E-08
-      1.79900E+01      0.00000E+00      5.04300E-07      5.35300E-08
-      2.00600E+01      0.00000E+00      6.91400E-07      1.39000E-07
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1040E+01        0.0000E+00        1.0910E-08        7.6060E-09
+        1.2020E+01        0.0000E+00        2.1760E-08        1.0730E-08
+        1.4040E+01        0.0000E+00        1.8120E-07        4.3230E-08
+        1.6030E+01        0.0000E+00        3.5060E-07        5.9020E-08
+        1.7990E+01        0.0000E+00        5.0430E-07        5.3530E-08
+        2.0060E+01        0.0000E+00        6.9140E-07        1.3900E-07

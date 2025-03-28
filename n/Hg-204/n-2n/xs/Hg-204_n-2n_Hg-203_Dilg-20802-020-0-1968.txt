@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20802-020-0 
-# EXFOR reaction        : ['80-HG-204', ['N,2N'], '80-HG-203,,SIG'] 
+# EXFOR reaction        : (80-HG-204(N,2N)80-HG-203,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Hg-204 
 # product               : Hg-203 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : W.Dilg 
+# first author          : Dilg 
 # institute             : (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
 # reference             : (J,NP/A,118,9,196809) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20802.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20802
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      1.50000E-01      2.30000E+00      1.60000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        1.5000E-01        2.3000E+00        1.6000E-01

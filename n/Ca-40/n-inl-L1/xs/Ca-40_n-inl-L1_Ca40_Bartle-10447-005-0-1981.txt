@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10447-005-0 
-# EXFOR reaction        : ['20-CA-40', ['N,INL'], '20-CA-40,PAR,SIG'] 
+# EXFOR reaction        : (20-CA-40(N,INL)20-CA-40,PAR,SIG) 
 # incident energy       : 3.5100e+00 MeV - 4.3800e+00 MeV 
 # target                : Ca-40 
 # product               : Ca-40 
 # level energy          : 3.3500e+00 MeV 
 # MF-MT number          : 3 - 51 
-# first author          : C.M.Bartle 
+# first author          : Bartle 
 # institute             : (1USAWIS): University of Wisconsin, Madison, WI 
 # reference             : (J,ANE,8,43,1981) 
 # year                  : 1981 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10447.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10447
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.51000E+00      0.00000E+00      2.20000E-02      1.00000E-03
-      3.75000E+00      0.00000E+00      3.40000E-02      2.00000E-03
-      4.06000E+00      0.00000E+00      3.70000E-02      3.00000E-03
-      4.38000E+00      0.00000E+00      4.60000E-02      3.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5100E+00        0.0000E+00        2.2000E-02        1.0000E-03
+        3.7500E+00        0.0000E+00        3.4000E-02        2.0000E-03
+        4.0600E+00        0.0000E+00        3.7000E-02        3.0000E-03
+        4.3800E+00        0.0000E+00        4.6000E-02        3.0000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11813-003-0 
-# EXFOR reaction        : ['30-ZN-64', ['N,G'], '30-ZN-65,,SIG,,SPA'] 
+# EXFOR reaction        : (30-ZN-64(N,G)30-ZN-65,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Zn-64 
 # product               : Zn-65 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : G.H.E.Sims 
+# first author          : Sims 
 # institute             : (1CANCPO): A.E.C.L. Commercial Products, Ottawa, Ontario 
 # reference             : (J,JIN,29,2853,67) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11813.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11813
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      8.39000E-01      1.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        8.3900E-01        1.1000E-02

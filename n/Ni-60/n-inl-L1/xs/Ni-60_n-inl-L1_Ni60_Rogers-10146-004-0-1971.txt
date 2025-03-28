@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10146-004-0 
-# EXFOR reaction        : ['28-NI-60', ['N,INL'], '28-NI-60,PAR,SIG'] 
+# EXFOR reaction        : (28-NI-60(N,INL)28-NI-60,PAR,SIG) 
 # incident energy       : 1.3400e+00 MeV - 1.7900e+00 MeV 
 # target                : Ni-60 
 # product               : Ni-60 
 # level energy          : 1.3320e+00 MeV 
 # MF-MT number          : 3 - 51 
-# first author          : V.C.Rogers 
+# first author          : Rogers 
 # institute             : (1USAMIT): Massachusetts Institute of Technology, Cambridge, MA 
 # reference             : (J,NSE,45,297,197109) 
 # year                  : 1971 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10146.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10146
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34000E+00      0.00000E+00      1.50000E-02      1.95000E-03
-      1.42000E+00      0.00000E+00      1.65000E-01      2.14500E-02
-      1.51000E+00      0.00000E+00      3.06000E-01      3.97800E-02
-      1.69000E+00      0.00000E+00      3.91000E-01      5.08300E-02
-      1.79000E+00      0.00000E+00      5.16000E-01      6.70800E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3400E+00        0.0000E+00        1.5000E-02        1.9500E-03
+        1.4200E+00        0.0000E+00        1.6500E-01        2.1450E-02
+        1.5100E+00        0.0000E+00        3.0600E-01        3.9780E-02
+        1.6900E+00        0.0000E+00        3.9100E-01        5.0830E-02
+        1.7900E+00        0.0000E+00        5.1600E-01        6.7080E-02

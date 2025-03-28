@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22089-096-0 
-# EXFOR reaction        : ['50-SN-120', ['N,A'], '48-CD-117-G,,SIG'] 
+# EXFOR reaction        : (50-SN-120(N,A)48-CD-117-G,,SIG) 
 # incident energy       : 1.3400e+01 MeV - 1.4970e+01 MeV 
 # target                : Sn-120 
 # product               : Cd-117-G 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : Y.Ikeda 
+# first author          : Ikeda 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (R,JAERI-1312,1988) 
 # year                  : 1988 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22089.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22089
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49700E+01      0.00000E+00      3.19000E-04      5.70000E-05
-      1.46900E+01      0.00000E+00      2.27000E-04      7.90000E-05
-      1.44500E+01      0.00000E+00      1.96000E-04      5.10000E-05
-      1.42400E+01      0.00000E+00      1.66000E-04      4.90000E-05
-      1.39900E+01      0.00000E+00      1.68000E-04      3.80000E-05
-      1.37700E+01      0.00000E+00      1.48000E-04      3.70000E-05
-      1.36000E+01      0.00000E+00      1.11000E-04      2.50000E-05
-      1.34000E+01      0.00000E+00      7.60000E-05      2.40000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4970E+01        0.0000E+00        3.1900E-04        5.7000E-05
+        1.4690E+01        0.0000E+00        2.2700E-04        7.9000E-05
+        1.4450E+01        0.0000E+00        1.9600E-04        5.1000E-05
+        1.4240E+01        0.0000E+00        1.6600E-04        4.9000E-05
+        1.3990E+01        0.0000E+00        1.6800E-04        3.8000E-05
+        1.3770E+01        0.0000E+00        1.4800E-04        3.7000E-05
+        1.3600E+01        0.0000E+00        1.1100E-04        2.5000E-05
+        1.3400E+01        0.0000E+00        7.6000E-05        2.4000E-05

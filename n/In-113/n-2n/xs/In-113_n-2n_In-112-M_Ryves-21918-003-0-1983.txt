@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21918-003-0 
-# EXFOR reaction        : ['49-IN-113', ['N,2N'], '49-IN-112-M,,SIG'] 
+# EXFOR reaction        : (49-IN-113(N,2N)49-IN-112-M,,SIG) 
 # incident energy       : 1.4300e+01 MeV 
 # target                : In-113 
 # product               : In-112-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : T.B.Ryves 
+# first author          : Ryves 
 # institute             : (2UK NPL): National Physics Laboratory , Teddington 
 # reference             : (J,JP/G,9,1549,198312) 
 # year                  : 1983 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21918.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21918
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.43000E+01      1.00000E-01      1.10700E+00      6.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4300E+01        1.0000E-01        1.1070E+00        6.2000E-02

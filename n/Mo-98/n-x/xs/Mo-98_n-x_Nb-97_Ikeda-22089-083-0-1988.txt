@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22089-083-0 
-# EXFOR reaction        : ['42-MO-98', ['N,X'], '41-NB-97,,SIG'] 
+# EXFOR reaction        : (42-MO-98(N,X)41-NB-97,,SIG) 
 # incident energy       : 1.3500e+01 MeV - 1.4980e+01 MeV 
 # target                : Mo-98 
 # product               : Nb-97 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Y.Ikeda 
+# first author          : Ikeda 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (R,JAERI-1312,1988) 
 # year                  : 1988 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22089.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22089
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49800E+01      0.00000E+00      2.57000E-03      1.90000E-04
-      1.47000E+01      0.00000E+00      2.21000E-03      1.90000E-04
-      1.44600E+01      0.00000E+00      1.82000E-03      2.00000E-04
-      1.42400E+01      0.00000E+00      1.26000E-03      2.00000E-04
-      1.39900E+01      0.00000E+00      9.80000E-04      2.00000E-04
-      1.37700E+01      0.00000E+00      5.70000E-04      1.40000E-04
-      1.36200E+01      0.00000E+00      7.20000E-04      1.10000E-04
-      1.35000E+01      0.00000E+00      4.90000E-04      1.10000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4980E+01        0.0000E+00        2.5700E-03        1.9000E-04
+        1.4700E+01        0.0000E+00        2.2100E-03        1.9000E-04
+        1.4460E+01        0.0000E+00        1.8200E-03        2.0000E-04
+        1.4240E+01        0.0000E+00        1.2600E-03        2.0000E-04
+        1.3990E+01        0.0000E+00        9.8000E-04        2.0000E-04
+        1.3770E+01        0.0000E+00        5.7000E-04        1.4000E-04
+        1.3620E+01        0.0000E+00        7.2000E-04        1.1000E-04
+        1.3500E+01        0.0000E+00        4.9000E-04        1.1000E-04

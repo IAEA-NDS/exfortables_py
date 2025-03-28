@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21151-004-0 
-# EXFOR reaction        : ['11-NA-23', ['N,INL'], '11-NA-23,PAR,SIG'] 
+# EXFOR reaction        : (11-NA-23(N,INL)11-NA-23,PAR,SIG) 
 # incident energy       : 2.5300e+00 MeV - 2.9900e+00 MeV 
 # target                : Na-23 
 # product               : Na-23 
 # level energy          : 2.3900e+00 MeV 
 # MF-MT number          : 3 - 53 
-# first author          : J.M.Freeman 
+# first author          : Freeman 
 # institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 # reference             : (J,NP,9,181,195812) 
 # year                  : 1958 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/211/21151.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21151
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E+00      5.00000E-02      1.00000E-02      0.00000E+00
-      2.63000E+00      5.00000E-02      1.10000E-02      0.00000E+00
-      2.68000E+00      5.00000E-02      2.20000E-02      0.00000E+00
-      2.76000E+00      5.00000E-02      6.10000E-02      0.00000E+00
-      2.82500E+00      5.00000E-02      3.40000E-02      0.00000E+00
-      2.87500E+00      5.00000E-02      6.00000E-02      0.00000E+00
-      2.95000E+00      5.00000E-02      1.07000E-01      0.00000E+00
-      2.99000E+00      5.00000E-02      8.90000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E+00        5.0000E-02        1.0000E-02        0.0000E+00
+        2.6300E+00        5.0000E-02        1.1000E-02        0.0000E+00
+        2.6800E+00        5.0000E-02        2.2000E-02        0.0000E+00
+        2.7600E+00        5.0000E-02        6.1000E-02        0.0000E+00
+        2.8250E+00        5.0000E-02        3.4000E-02        0.0000E+00
+        2.8750E+00        5.0000E-02        6.0000E-02        0.0000E+00
+        2.9500E+00        5.0000E-02        1.0700E-01        0.0000E+00
+        2.9900E+00        5.0000E-02        8.9000E-02        0.0000E+00

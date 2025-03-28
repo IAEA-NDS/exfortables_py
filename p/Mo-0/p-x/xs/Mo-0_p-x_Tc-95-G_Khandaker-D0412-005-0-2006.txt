@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0412-005-0 
-# EXFOR reaction        : ['42-MO-0', ['P,X'], '43-TC-95-G,,SIG'] 
+# EXFOR reaction        : (42-MO-0(P,X)43-TC-95-G,,SIG) 
 # incident energy       : 1.1755e+01 MeV - 2.6235e+01 MeV 
 # target                : Mo-0 
 # product               : Tc-95-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.U.Khandaker 
+# first author          : Khandaker 
 # institute             : (3KORPUE): Pohang University of Science and Technology, Pohang 
 # reference             : (J,KPS,48,821,2006) 
 # year                  : 2006 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D04/D0412.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0412
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.62350E+01      0.00000E+00      1.48300E-01      1.19200E-02
-      2.32520E+01      0.00000E+00      1.55600E-01      1.26800E-02
-      1.99310E+01      0.00000E+00      1.38600E-01      1.14500E-02
-      1.63110E+01      0.00000E+00      1.19400E-01      1.03400E-02
-      1.17550E+01      0.00000E+00      7.00000E-02      7.74000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6235E+01        0.0000E+00        1.4830E-01        1.1920E-02
+        2.3252E+01        0.0000E+00        1.5560E-01        1.2680E-02
+        1.9931E+01        0.0000E+00        1.3860E-01        1.1450E-02
+        1.6311E+01        0.0000E+00        1.1940E-01        1.0340E-02
+        1.1755E+01        0.0000E+00        7.0000E-02        7.7400E-03

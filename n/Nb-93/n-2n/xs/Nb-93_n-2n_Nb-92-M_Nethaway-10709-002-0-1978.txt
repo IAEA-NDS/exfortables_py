@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10709-002-0 
-# EXFOR reaction        : ['41-NB-93', ['N,2N'], '41-NB-92-M,,SIG'] 
+# EXFOR reaction        : (41-NB-93(N,2N)41-NB-92-M,,SIG) 
 # incident energy       : 1.3870e+01 MeV - 1.4680e+01 MeV 
 # target                : Nb-93 
 # product               : Nb-92-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : D.R.Nethaway 
+# first author          : Nethaway 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,JIN,40,1285,1978) 
 # year                  : 1978 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10709.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10709
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.38700E+01      0.00000E+00      4.59000E-01      1.83600E-02
-      1.39000E+01      0.00000E+00      4.42000E-01      1.76800E-02
-      1.41000E+01      0.00000E+00      4.58000E-01      1.83200E-02
-      1.41000E+01      0.00000E+00      4.70000E-01      1.88000E-02
-      1.42100E+01      0.00000E+00      4.63000E-01      1.85200E-02
-      1.45800E+01      0.00000E+00      4.70000E-01      1.88000E-02
-      1.46800E+01      0.00000E+00      4.62000E-01      1.84800E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3870E+01        0.0000E+00        4.5900E-01        1.8360E-02
+        1.3900E+01        0.0000E+00        4.4200E-01        1.7680E-02
+        1.4100E+01        0.0000E+00        4.5800E-01        1.8320E-02
+        1.4100E+01        0.0000E+00        4.7000E-01        1.8800E-02
+        1.4210E+01        0.0000E+00        4.6300E-01        1.8520E-02
+        1.4580E+01        0.0000E+00        4.7000E-01        1.8800E-02
+        1.4680E+01        0.0000E+00        4.6200E-01        1.8480E-02

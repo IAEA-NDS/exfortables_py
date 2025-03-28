@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30090-003-0 
-# EXFOR reaction        : ['31-GA-71', ['N,2N'], '31-GA-70,,SIG'] 
+# EXFOR reaction        : (31-GA-71(N,2N)31-GA-70,,SIG) 
 # incident energy       : 1.2320e+01 MeV 
 # target                : Ga-71 
 # product               : Ga-70 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.Csikai 
+# first author          : Csikai 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,AK,8,79,196606) 
 # year                  : 1966 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30090.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30090
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.23200E+01      0.00000E+00      8.06000E-01      1.20900E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2320E+01        0.0000E+00        8.0600E-01        1.2090E-01

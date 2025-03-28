@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1618-004-0 
-# EXFOR reaction        : ['6-C-13', ['P,G'], '7-N-14,PAR,SIG,,SFC'] 
+# EXFOR reaction        : (6-C-13(P,G)7-N-14,PAR,SIG,,SFC) 
 # incident energy       : 1.2000e-01 MeV 
 # target                : C-13 
 # product               : N-14 
 # level energy          : 7.6500e+00 MeV 
-# MF-MT number          : 3 - 610 
-# first author          : R.E.Hester 
+# MF-MT number          : 3 - 10 
+# first author          : Hester 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,121,584,1961) 
 # year                  : 1961 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C16/C1618.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1618
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.20000E-01      0.00000E+00      1.06000E+04      1.50000E+03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E-01        0.0000E+00        1.0600E+04        1.5000E+03

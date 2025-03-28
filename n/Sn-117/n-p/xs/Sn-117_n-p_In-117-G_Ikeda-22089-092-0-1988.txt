@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22089-092-0 
-# EXFOR reaction        : ['50-SN-117', ['N,P'], '49-IN-117-G,,SIG'] 
+# EXFOR reaction        : (50-SN-117(N,P)49-IN-117-G,,SIG) 
 # incident energy       : 1.3350e+01 MeV - 1.4950e+01 MeV 
 # target                : Sn-117 
 # product               : In-117-G 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : Y.Ikeda 
+# first author          : Ikeda 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (R,JAERI-1312,1988) 
 # year                  : 1988 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22089.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22089
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49500E+01      0.00000E+00      1.33000E-02      7.10000E-04
-      1.46800E+01      0.00000E+00      1.08100E-02      5.70000E-04
-      1.44400E+01      0.00000E+00      1.06100E-02      5.60000E-04
-      1.42300E+01      0.00000E+00      9.27000E-03      4.90000E-04
-      1.39900E+01      0.00000E+00      8.55000E-03      4.60000E-04
-      1.37600E+01      0.00000E+00      8.35000E-03      4.40000E-04
-      1.35800E+01      0.00000E+00      7.74000E-03      4.00000E-04
-      1.33500E+01      0.00000E+00      7.14000E-03      3.70000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4950E+01        0.0000E+00        1.3300E-02        7.1000E-04
+        1.4680E+01        0.0000E+00        1.0810E-02        5.7000E-04
+        1.4440E+01        0.0000E+00        1.0610E-02        5.6000E-04
+        1.4230E+01        0.0000E+00        9.2700E-03        4.9000E-04
+        1.3990E+01        0.0000E+00        8.5500E-03        4.6000E-04
+        1.3760E+01        0.0000E+00        8.3500E-03        4.4000E-04
+        1.3580E+01        0.0000E+00        7.7400E-03        4.0000E-04
+        1.3350E+01        0.0000E+00        7.1400E-03        3.7000E-04

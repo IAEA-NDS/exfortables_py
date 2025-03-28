@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0024-015-0 
-# EXFOR reaction        : ['39-Y-89', ['P,3N'], '40-ZR-87-G,M+,SIG,,,EXP'] 
+# EXFOR reaction        : (39-Y-89(P,3N)40-ZR-87-G,M+,SIG,,,EXP) 
 # incident energy       : 4.0000e+02 MeV 
 # target                : Y-89 
 # product               : Zr-87-G 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : L.B.Church 
+# first author          : Church 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,PR,178,1732,1969) 
 # year                  : 1969 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0024.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0024
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+02      0.00000E+00      3.85000E-03      7.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+02        0.0000E+00        3.8500E-03        7.0000E-04

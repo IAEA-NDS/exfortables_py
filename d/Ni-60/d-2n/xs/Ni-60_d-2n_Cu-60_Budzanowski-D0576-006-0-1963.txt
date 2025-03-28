@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0576-006-0 
-# EXFOR reaction        : ['28-NI-60', ['D,2N'], '29-CU-60,,SIG'] 
+# EXFOR reaction        : (28-NI-60(D,2N)29-CU-60,,SIG) 
 # incident energy       : 1.2800e+01 MeV 
 # target                : Ni-60 
 # product               : Cu-60 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.Budzanowski 
+# first author          : Budzanowski 
 # institute             : (3POLIFJ): Niewodniczanski Institute of Nuclear Physics, Krakow 
 # reference             : (J,NP,49,144,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D05/D0576.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0576
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.28000E+01      1.50000E-01      1.20000E-01      1.80000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2800E+01        1.5000E-01        1.2000E-01        1.8000E-02

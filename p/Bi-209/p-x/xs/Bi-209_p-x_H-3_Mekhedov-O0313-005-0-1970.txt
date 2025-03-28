@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0313-005-0 
-# EXFOR reaction        : ['83-BI-209', ['P,X'], '1-H-3,,SIG'] 
+# EXFOR reaction        : (83-BI-209(P,X)1-H-3,,SIG) 
 # incident energy       : 3.0000e+03 MeV - 1.0000e+04 MeV 
 # target                : Bi-209 
 # product               : H-3 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : B.N.Mekhedov 
+# first author          : Mekhedov 
 # institute             : (4RUSRUS): Russia 
 # reference             : (J,YF,11,708,1970) 
 # year                  : 1970 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O03/O0313.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0313
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+03      0.00000E+00      2.90000E-01      3.00000E-02
-      6.00000E+03      0.00000E+00      4.92000E-01      5.00000E-02
-      1.00000E+04      0.00000E+00      4.00000E-01      4.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+03        0.0000E+00        2.9000E-01        3.0000E-02
+        6.0000E+03        0.0000E+00        4.9200E-01        5.0000E-02
+        1.0000E+04        0.0000E+00        4.0000E-01        4.0000E-02

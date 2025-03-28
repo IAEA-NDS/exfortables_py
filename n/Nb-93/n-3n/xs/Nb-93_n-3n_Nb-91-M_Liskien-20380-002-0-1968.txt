@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20380-002-0 
-# EXFOR reaction        : ['41-NB-93', ['N,3N'], '41-NB-91-M,,SIG'] 
+# EXFOR reaction        : (41-NB-93(N,3N)41-NB-91-M,,SIG) 
 # incident energy       : 1.9500e+01 MeV 
 # target                : Nb-93 
 # product               : Nb-91-M 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : H.Liskien 
+# first author          : Liskien 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,NP/A,118,379,6810) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20380.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20380
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.95000E+01      2.00000E-01      6.00000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9500E+01        2.0000E-01        6.0000E-02        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41428-037-0 
-# EXFOR reaction        : ['79-AU-197', ['N,2N'], '79-AU-196,,SIG'] 
+# EXFOR reaction        : (79-AU-197(N,2N)79-AU-196,,SIG) 
 # incident energy       : 1.3640e+01 MeV - 1.4820e+01 MeV 
 # target                : Au-197 
 # product               : Au-196 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,RI-259,2003) 
 # year                  : 2003 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41428.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41428
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36400E+01      0.00000E+00      2.18000E+00      9.50000E-02
-      1.38800E+01      0.00000E+00      2.15000E+00      1.00000E-01
-      1.42800E+01      0.00000E+00      2.16500E+00      9.00000E-02
-      1.44700E+01      0.00000E+00      2.18400E+00      1.00000E-01
-      1.46800E+01      0.00000E+00      2.23400E+00      9.50000E-02
-      1.48200E+01      0.00000E+00      2.20200E+00      1.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3640E+01        0.0000E+00        2.1800E+00        9.5000E-02
+        1.3880E+01        0.0000E+00        2.1500E+00        1.0000E-01
+        1.4280E+01        0.0000E+00        2.1650E+00        9.0000E-02
+        1.4470E+01        0.0000E+00        2.1840E+00        1.0000E-01
+        1.4680E+01        0.0000E+00        2.2340E+00        9.5000E-02
+        1.4820E+01        0.0000E+00        2.2020E+00        1.0000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0625-003-0 
-# EXFOR reaction        : ['57-LA-139', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (57-LA-139(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 6.6000e+02 MeV 
 # target                : La-139 
 # product               : Ni-65 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.K.Lavrukhina 
+# first author          : Lavrukhina 
 # institute             : (4RUSGAC): Institute for Geo- and Analytical Chemistry, Moscow 
 # reference             : (J,DOK,119,56,1958) 
 # year                  : 1958 
@@ -13,5 +13,17 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0625.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0625
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.60000E+02      0.00000E+00      1.00000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6000E+02        0.0000E+00        4.0000E-06        0.0000E+00
+        6.6000E+02        0.0000E+00        2.0000E-05        0.0000E+00
+        6.6000E+02        0.0000E+00        1.0000E-05        0.0000E+00
+        6.6000E+02        0.0000E+00        1.0000E-04        0.0000E+00
+        6.6000E+02        0.0000E+00        3.0000E-05        0.0000E+00
+        6.6000E+02        0.0000E+00        6.0000E-05        0.0000E+00
+        6.6000E+02        0.0000E+00        1.0000E-04        0.0000E+00
+        6.6000E+02        0.0000E+00        1.0000E-05        0.0000E+00
+        6.6000E+02        0.0000E+00        2.0000E-05        0.0000E+00
+        6.6000E+02        0.0000E+00        4.0000E-05        0.0000E+00
+        6.6000E+02        0.0000E+00        1.5000E-05        0.0000E+00
+        6.6000E+02        0.0000E+00        5.0000E-05        0.0000E+00
+        6.6000E+02        0.0000E+00        3.0000E-05        0.0000E+00

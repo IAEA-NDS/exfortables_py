@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4398-006-0 
-# EXFOR reaction        : ['25-MN-55', ['D,X'], '23-V-48,', ['CUM'], ',SIG'] 
+# EXFOR reaction        : (25-MN-55(D,X)23-V-48,(CUM),SIG) 
 # incident energy       : 4.1500e+01 MeV - 4.9900e+01 MeV 
 # target                : Mn-55 
 # product               : V-48 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,JRN,320,145,2019) 
 # year                  : 2019 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4398.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4398
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.99000E+01      3.00000E-01      2.80000E-04      6.00000E-05
-      4.79000E+01      3.00000E-01      1.80000E-04      5.00000E-05
-      4.58000E+01      4.00000E-01      1.00000E-04      9.00000E-05
-      4.15000E+01      4.00000E-01      1.30000E-04      7.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.9900E+01        3.0000E-01        2.8000E-04        6.0000E-05
+        4.7900E+01        3.0000E-01        1.8000E-04        5.0000E-05
+        4.5800E+01        4.0000E-01        1.0000E-04        9.0000E-05
+        4.1500E+01        4.0000E-01        1.3000E-04        7.0000E-05

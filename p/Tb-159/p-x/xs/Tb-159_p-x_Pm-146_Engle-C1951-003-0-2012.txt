@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1951-003-0 
-# EXFOR reaction        : ['65-TB-159', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (65-TB-159(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 7.9540e+02 MeV 
 # target                : Tb-159 
 # product               : Pm-146 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.W.Engle 
+# first author          : Engle 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,NP/A,893,87,2012) 
 # year                  : 2012 
@@ -13,5 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C19/C1951.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1951
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.95400E+02      5.00000E-01      5.10000E-04      3.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.9540E+02        5.0000E-01        8.0000E-03        5.0000E-04
+        7.9540E+02        5.0000E-01        1.1000E-04        1.0000E-05
+        7.9540E+02        5.0000E-01        5.1000E-04        3.0000E-05
+        7.9540E+02        5.0000E-01        2.3000E-03        2.0000E-04
+        7.9540E+02        5.0000E-01        3.4400E-02        1.0600E-02
+        7.9540E+02        5.0000E-01        5.3000E-04        4.0000E-05

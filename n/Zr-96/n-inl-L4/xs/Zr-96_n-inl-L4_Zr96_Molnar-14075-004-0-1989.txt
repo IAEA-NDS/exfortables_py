@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14075-004-0 
-# EXFOR reaction        : ['40-ZR-96', ['N,INL'], '40-ZR-96,PAR,SIG'] 
+# EXFOR reaction        : (40-ZR-96(N,INL)40-ZR-96,PAR,SIG) 
 # incident energy       : 3.0000e+00 MeV - 4.0000e+00 MeV 
 # target                : Zr-96 
 # product               : Zr-96 
 # level energy          : 2.2260e+00 MeV 
 # MF-MT number          : 3 - 54 
-# first author          : G.Molnar 
+# first author          : Molnar 
 # institute             : (1USAKTY): University of Kentucky, Lexington, KY 
 # reference             : (J,NP/A,500,43,1989) 
 # year                  : 1989 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/140/14075.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14075
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+00      0.00000E+00      2.77000E-01      1.80000E-02
-      3.50000E+00      0.00000E+00      1.77000E-01      1.30000E-02
-      4.00000E+00      0.00000E+00      1.35000E-01      1.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+00        0.0000E+00        2.7700E-01        1.8000E-02
+        3.5000E+00        0.0000E+00        1.7700E-01        1.3000E-02
+        4.0000E+00        0.0000E+00        1.3500E-01        1.1000E-02

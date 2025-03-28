@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40083-009-0 
-# EXFOR reaction        : ['75-RE-0', ['N,G'], ',,SIG,,SPA'] 
+# EXFOR reaction        : (75-RE-0(N,G),,SIG,,SPA) 
 # incident energy       : 6.0000e-01 MeV - 8.0000e-01 MeV 
 # target                : Re-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.A.Druzhinin 
+# first author          : Druzhinin 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (J,SNP,5,13,1967) 
 # year                  : 1967 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40083.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40083
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E-01      0.00000E+00      3.30000E-01      4.00000E-02
-      8.00000E-01      0.00000E+00      2.70000E-01      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E-01        0.0000E+00        3.3000E-01        4.0000E-02
+        8.0000E-01        0.0000E+00        2.7000E-01        3.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M1042-003-0 
-# EXFOR reaction        : ['28-NI-58', ['G,P'], '27-CO-57,,SIG,,BRA'] 
+# EXFOR reaction        : (28-NI-58(G,P)27-CO-57,,SIG,,BRA) 
 # incident energy       : 2.0000e+01 MeV - 3.7000e+01 MeV 
 # target                : Ni-58 
 # product               : Co-57 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.V.Zheltonozhskaya 
+# first author          : Zheltonozhskaya 
 # institute             : (4RUSMOS): Moscow State University , Moscow 
 # reference             : (J,PAN,85,813,2022) 
 # year                  : 2022 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M10/M1042.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M1042
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+01      0.00000E+00      1.15000E-02      0.00000E+00
-      3.70000E+01      0.00000E+00      1.68000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+01        0.0000E+00        1.1500E-02        0.0000E+00
+        3.7000E+01        0.0000E+00        1.6800E-02        0.0000E+00

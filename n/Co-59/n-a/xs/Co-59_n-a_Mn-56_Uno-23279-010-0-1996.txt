@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23279-010-0 
-# EXFOR reaction        : ['27-CO-59', ['N,A'], '25-MN-56,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,A)25-MN-56,,SIG) 
 # incident energy       : 1.7550e+01 MeV - 3.0090e+01 MeV 
 # target                : Co-59 
 # product               : Mn-56 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : Y.Uno 
+# first author          : Uno 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (C,96PRAHA,,465,1996) 
 # year                  : 1996 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23279.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23279
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.75500E+01      0.00000E+00      2.05000E-02      8.00000E-04
-      1.98400E+01      0.00000E+00      1.06000E-02      4.00000E-04
-      2.77900E+01      0.00000E+00      3.00000E-03      1.00000E-04
-      3.00900E+01      0.00000E+00      1.30000E-03      1.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7550E+01        0.0000E+00        2.0500E-02        8.0000E-04
+        1.9840E+01        0.0000E+00        1.0600E-02        4.0000E-04
+        2.7790E+01        0.0000E+00        3.0000E-03        1.0000E-04
+        3.0090E+01        0.0000E+00        1.3000E-03        1.0000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12046-003-0 
-# EXFOR reaction        : ['54-XE-124', ['N,G'], '54-XE-125,,SIG,,MXW'] 
+# EXFOR reaction        : (54-XE-124(N,G)54-XE-125,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Xe-124 
 # product               : Xe-125 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : P.V.Harper 
+# first author          : Harper 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (P,ACRH-15,92,1961) 
 # year                  : 1961 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12046.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12046
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.15000E+02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.1500E+02        0.0000E+00

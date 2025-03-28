@@ -1,11 +1,11 @@
 # entry-subent-pointer  : K2005-003-0 
-# EXFOR reaction        : ['2-HE-3', ['G,N+P'], '1-H-1,,SIG'] 
+# EXFOR reaction        : (2-HE-3(G,N+P)1-H-1,,SIG) 
 # incident energy       : 1.0200e+01 MeV - 1.6000e+01 MeV 
 # target                : He-3 
 # product               : H-1 
 # level energy          : - 
 # MF-MT number          : 3 - 28 
-# first author          : S.Naito 
+# first author          : Naito 
 # institute             : (2JPNOSA): Osaka University , Osaka 
 # reference             : (J,PR/C,73,(3),034003,200603) 
 # year                  : 2006 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K20/K2005.x4 
 # nds                   : https://nds.iaea.org/EXFOR/K2005
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.02000E+01      3.50000E-01      1.50000E-04      5.00000E-05
-      1.60000E+01      8.60000E-01      9.10000E-04      6.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0200E+01        3.5000E-01        1.5000E-04        5.0000E-05
+        1.6000E+01        8.6000E-01        9.1000E-04        6.0000E-05

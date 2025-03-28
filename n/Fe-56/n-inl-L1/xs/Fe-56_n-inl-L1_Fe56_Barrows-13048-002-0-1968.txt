@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13048-002-0 
-# EXFOR reaction        : ['26-FE-56', ['N,INL'], '26-FE-56,PAR,SIG'] 
+# EXFOR reaction        : (26-FE-56(N,INL)26-FE-56,PAR,SIG) 
 # incident energy       : 2.9000e+00 MeV 
 # target                : Fe-56 
 # product               : Fe-56 
 # level energy          : 8.4500e-01 MeV 
 # MF-MT number          : 3 - 51 
-# first author          : A.W.Barrows 
+# first author          : Barrows 
 # institute             : (1USAKTY): University of Kentucky, Lexington, KY 
 # reference             : (J,NP/A,107,153,68) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/130/13048.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13048
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.90000E+00      0.00000E+00      9.64000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9000E+00        0.0000E+00        9.6400E-01        0.0000E+00

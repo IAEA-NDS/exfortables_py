@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13023-013-0 
-# EXFOR reaction        : ['22-TI-47', ['N,P'], '21-SC-47,,SIG,,FIS'] 
+# EXFOR reaction        : (22-TI-47(N,P)21-SC-47,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Ti-47 
 # product               : Sc-47 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : J.D.Jenkins 
+# first author          : Jenkins 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,ANS,14,381,7106) 
 # year                  : 1971 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/130/13023.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13023
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      1.36000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.3600E-02        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40995-002-0 
-# EXFOR reaction        : ['93-NP-236', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (93-NP-236(N,F),,SIG) 
 # incident energy       : 2.5300e-08 MeV - 3.0000e-07 MeV 
 # target                : Np-236 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : G.V.Val'Skiy 
+# first author          : Val'Skiy 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (C,87KIEV,3,99,1987) 
 # year                  : 1987 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40995.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40995
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      5.00000E-10      2.77000E+03      2.60000E+02
-      1.01000E-07      4.00000E-09      1.43000E+03      9.00000E+01
-      1.62000E-07      8.00000E-09      1.26000E+03      8.00000E+01
-      2.28000E-07      1.40000E-08      1.22000E+03      8.00000E+01
-      3.00000E-07      2.00000E-08      9.00000E+02      7.00000E+01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        5.0000E-10        2.7700E+03        2.6000E+02
+        1.0100E-07        4.0000E-09        1.4300E+03        9.0000E+01
+        1.6200E-07        8.0000E-09        1.2600E+03        8.0000E+01
+        2.2800E-07        1.4000E-08        1.2200E+03        8.0000E+01
+        3.0000E-07        2.0000E-08        9.0000E+02        7.0000E+01

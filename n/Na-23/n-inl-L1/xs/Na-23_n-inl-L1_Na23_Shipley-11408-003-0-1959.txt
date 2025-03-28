@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11408-003-0 
-# EXFOR reaction        : ['11-NA-23', ['N,INL'], '11-NA-23,PAR,SIG'] 
+# EXFOR reaction        : (11-NA-23(N,INL)11-NA-23,PAR,SIG) 
 # incident energy       : 3.4900e+00 MeV - 4.0000e+00 MeV 
 # target                : Na-23 
 # product               : Na-23 
 # level energy          : 4.3900e-01 MeV 
 # MF-MT number          : 3 - 51 
-# first author          : E.N.Shipley 
+# first author          : Shipley 
 # institute             : (1USAJHU): Johns Hopkins University, Baltimore, MD 
 # reference             : (J,PR,115,122,1959) 
 # year                  : 1959 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11408.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11408
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.49000E+00      9.50000E-02      3.70000E-01      1.20000E-01
-      3.75000E+00      7.50000E-02      2.70000E-01      9.00000E-02
-      4.00000E+00      5.50000E-02      2.80000E-01      9.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.4900E+00        9.5000E-02        3.7000E-01        1.2000E-01
+        3.7500E+00        7.5000E-02        2.7000E-01        9.0000E-02
+        4.0000E+00        5.5000E-02        2.8000E-01        9.0000E-02

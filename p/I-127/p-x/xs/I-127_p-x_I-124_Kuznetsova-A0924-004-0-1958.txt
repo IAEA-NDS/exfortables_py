@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0924-004-0 
-# EXFOR reaction        : ['53-I-127', ['P,X'], '53-I-124,,SIG'] 
+# EXFOR reaction        : (53-I-127(P,X)53-I-124,,SIG) 
 # incident energy       : 1.0000e+02 MeV - 6.6000e+02 MeV 
 # target                : I-127 
 # product               : I-124 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Ja.Kuznetsova 
+# first author          : Kuznetsova 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (J,ZET,34,1096,1958) 
 # year                  : 1958 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0924.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0924
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+02      0.00000E+00      5.00000E-02      7.00000E-03
-      1.70000E+02      0.00000E+00      5.40000E-02      1.20000E-02
-      3.00000E+02      0.00000E+00      2.80000E-02      1.00000E-02
-      4.80000E+02      0.00000E+00      1.95000E-02      4.60000E-03
-      6.60000E+02      0.00000E+00      1.73000E-02      3.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+02        0.0000E+00        5.0000E-02        7.0000E-03
+        1.7000E+02        0.0000E+00        5.4000E-02        1.2000E-02
+        3.0000E+02        0.0000E+00        2.8000E-02        1.0000E-02
+        4.8000E+02        0.0000E+00        1.9500E-02        4.6000E-03
+        6.6000E+02        0.0000E+00        1.7300E-02        3.0000E-03

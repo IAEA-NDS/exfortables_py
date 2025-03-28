@@ -1,17 +1,17 @@
 # entry-subent-pointer  : 11215-018-0 
-# EXFOR reaction        : ['26-FE-0', ['N,EL'], '26-FE-0,,SIG'] 
+# EXFOR reaction        : (26-FE-0(N,EL)26-FE-0,,SIG) 
 # incident energy       : 4.1000e+00 MeV 
 # target                : Fe-0 
 # product               : Fe-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : M.Walt 
+# first author          : Walt 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
-# reference             : (J,PR,98,677,5505) 
+# reference             : (J,PR,98,677,1955) 
 # year                  : 1955 
-# facility              : None 
+# facility              : (VDG): Van de Graaff 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11215.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11215
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.10000E+00      8.00000E-02      2.10000E+00      2.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.1000E+00        8.0000E-02        2.1000E+00        0.0000E+00

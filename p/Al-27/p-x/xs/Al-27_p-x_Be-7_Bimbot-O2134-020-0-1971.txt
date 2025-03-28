@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2134-020-0 
-# EXFOR reaction        : ['13-AL-27', ['P,X'], '4-BE-7,,SIG'] 
+# EXFOR reaction        : (13-AL-27(P,X)4-BE-7,,SIG) 
 # incident energy       : 5.0000e+01 MeV - 1.5300e+02 MeV 
 # target                : Al-27 
 # product               : Be-7 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Bimbot 
+# first author          : Bimbot 
 # institute             : (2FR PAR): Universite de Paris 
 # reference             : (J,CR/B,273,1054,1971) 
 # year                  : 1971 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2134.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2134
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.00000E+01      5.00000E+00      3.00000E-04      6.00000E-05
-      1.00000E+02      5.00000E+00      5.80000E-04      1.80000E-04
-      1.53000E+02      3.00000E+00      1.18000E-03      1.50000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+01        5.0000E+00        3.0000E-04        6.0000E-05
+        1.0000E+02        5.0000E+00        5.8000E-04        1.8000E-04
+        1.5300E+02        3.0000E+00        1.1800E-03        1.5000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2103-010-0 
-# EXFOR reaction        : ['40-ZR-90', ['P,X'], '40-ZR-89,,SIG'] 
+# EXFOR reaction        : (40-ZR-90(P,X)40-ZR-89,,SIG) 
 # incident energy       : 1.1200e+01 MeV 
 # target                : Zr-90 
 # product               : Zr-89 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.Delaunay-Olkowsky 
+# first author          : Delaunay-Olkowsky 
 # institute             : (2FR SAC): CEA/Saclay 
 # reference             : (J,NP,47,266,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2103.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2103
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.12000E+01      0.00000E+00      2.00000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1200E+01        0.0000E+00        2.0000E-03        0.0000E+00

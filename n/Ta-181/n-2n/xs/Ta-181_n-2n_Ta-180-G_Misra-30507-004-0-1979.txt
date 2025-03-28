@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30507-004-0 
-# EXFOR reaction        : ['73-TA-181', ['N,2N'], '73-TA-180-G,,SIG'] 
+# EXFOR reaction        : (73-TA-181(N,2N)73-TA-180-G,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Ta-181 
 # product               : Ta-180-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.C.Misra 
+# first author          : Misra 
 # institute             : (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
 # reference             : (J,JP/G,5,(6),855,197906) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30507.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30507
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      0.00000E+00      9.00000E-01      4.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        9.0000E-01        4.7000E-02

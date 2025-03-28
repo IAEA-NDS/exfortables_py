@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30832-003-0 
-# EXFOR reaction        : ['22-TI-47', ['N,P'], '21-SC-47,,SIG,,FIS'] 
+# EXFOR reaction        : (22-TI-47(N,P)21-SC-47,,SIG,,FIS) 
 # incident energy       : 1.3200e+00 MeV 
 # target                : Ti-47 
 # product               : Sc-47 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.S.Son 
+# first author          : Son 
 # institute             : (3KORKOR): Republic of Korea 
 # reference             : (J,KPS,1,51,1968) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/308/30832.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30832
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.32000E+00      0.00000E+00      1.97000E-02      1.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3200E+00        0.0000E+00        1.9700E-02        1.0000E-03

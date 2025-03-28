@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21782-008-0 
-# EXFOR reaction        : ['90-TH-232', ['N,EL'], '90-TH-232,,SIG'] 
+# EXFOR reaction        : (90-TH-232(N,EL)90-TH-232,,SIG) 
 # incident energy       : 7.0000e-01 MeV - 3.4000e+00 MeV 
 # target                : Th-232 
 # product               : Th-232 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : G.Haouat 
+# first author          : Haouat 
 # institute             : (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
 # reference             : (J,NSE,81,(4),491,1982) 
 # year                  : 1982 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21782.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21782
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.00000E-01      0.00000E+00      5.19690E+00      1.61100E-01
-      1.50000E+00      0.00000E+00      3.68390E+00      1.98930E-01
-      2.50000E+00      0.00000E+00      3.73500E+00      1.26990E-01
-      3.40000E+00      0.00000E+00      4.21930E+00      5.10540E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0000E-01        0.0000E+00        5.1969E+00        1.6110E-01
+        1.5000E+00        0.0000E+00        3.6839E+00        1.9893E-01
+        2.5000E+00        0.0000E+00        3.7350E+00        1.2699E-01
+        3.4000E+00        0.0000E+00        4.2193E+00        5.1054E-01

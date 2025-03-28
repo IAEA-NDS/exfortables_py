@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12282-002-0 
-# EXFOR reaction        : ['88-RA-226', ['N,G'], '88-RA-227,,SIG,,SPA'] 
+# EXFOR reaction        : (88-RA-226(N,G)88-RA-227,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ra-226 
 # product               : Ra-227 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.Peterson 
+# first author          : Peterson 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : ((B,TRANSU.EL.,2,1393,49)=(R,ANL-4042,49)) 
 # year                  : 1949 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12282.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12282
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.90000E+01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.9000E+01        0.0000E+00

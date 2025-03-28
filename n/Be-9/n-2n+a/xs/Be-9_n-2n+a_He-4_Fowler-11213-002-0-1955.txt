@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11213-002-0 
-# EXFOR reaction        : ['4-BE-9', ['N,2N+A'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (4-BE-9(N,2N+A)2-HE-4,,SIG) 
 # incident energy       : 3.7000e+00 MeV 
 # target                : Be-9 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 24 
-# first author          : J.M.Fowler 
+# first author          : Fowler 
 # institute             : (1USAJHU): Johns Hopkins University, Baltimore, MD 
 # reference             : (J,PR,98,249(X5),195504) 
 # year                  : 1955 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11213.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11213
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.70000E+00      0.00000E+00      3.20000E-01      8.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.7000E+00        0.0000E+00        3.2000E-01        8.0000E-02

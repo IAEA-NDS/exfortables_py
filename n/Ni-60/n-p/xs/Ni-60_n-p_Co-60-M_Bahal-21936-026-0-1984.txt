@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21936-026-0 
-# EXFOR reaction        : ['28-NI-60', ['N,P'], '27-CO-60-M,,SIG'] 
+# EXFOR reaction        : (28-NI-60(N,P)27-CO-60-M,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Ni-60 
 # product               : Co-60-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : B.M.Bahal 
+# first author          : Bahal 
 # institute             : (2GERKIG): GKSS, Geesthacht 
 # reference             : ((P,INDC(GER)-27,28,1984)=(P,NEANDC(E)-252,(5),28,1984)) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21936.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21936
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      3.00000E-01      1.09000E-01      5.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        1.0900E-01        5.0000E-03

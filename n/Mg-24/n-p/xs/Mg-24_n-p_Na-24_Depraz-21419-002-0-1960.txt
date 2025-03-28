@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21419-002-0 
-# EXFOR reaction        : ['12-MG-24', ['N,P'], '11-NA-24,,SIG'] 
+# EXFOR reaction        : (12-MG-24(N,P)11-NA-24,,SIG) 
 # incident energy       : 1.5000e+01 MeV 
 # target                : Mg-24 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.J.Depraz 
+# first author          : Depraz 
 # institute             : (2FR LYO): Universite de Lyon 
 # reference             : (J,JPR,21,377,6005) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/214/21419.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21419
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+01      4.00000E-01      2.03000E-01      1.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+01        4.0000E-01        2.0300E-01        1.1000E-02

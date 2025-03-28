@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22414-023-0 
-# EXFOR reaction        : ['56-BA-138', ['N,2N'], '56-BA-137-M,,SIG'] 
+# EXFOR reaction        : (56-BA-138(N,2N)56-BA-137-M,,SIG) 
 # incident energy       : 1.6075e+01 MeV - 2.0325e+01 MeV 
 # target                : Ba-138 
 # product               : Ba-137-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.Fessler 
+# first author          : Fessler 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,NSE,134,(2),171,2000) 
 # year                  : 2000 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22414.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22414
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.60750E+01      0.00000E+00      9.93270E-01      5.38100E-02
-      1.70360E+01      0.00000E+00      1.06048E+00      5.61300E-02
-      1.77910E+01      0.00000E+00      1.11041E+00      6.33000E-02
-      1.91150E+01      0.00000E+00      9.41230E-01      6.00100E-02
-      2.03250E+01      0.00000E+00      6.71410E-01      5.06800E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6075E+01        0.0000E+00        9.9327E-01        5.3810E-02
+        1.7036E+01        0.0000E+00        1.0605E+00        5.6130E-02
+        1.7791E+01        0.0000E+00        1.1104E+00        6.3300E-02
+        1.9115E+01        0.0000E+00        9.4123E-01        6.0010E-02
+        2.0325E+01        0.0000E+00        6.7141E-01        5.0680E-02

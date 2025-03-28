@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22603-008-3 
-# EXFOR reaction        : ['63-EU-151', ['N,G'], '63-EU-152-M1,,SIG,,MXW,DERIV'] 
+# EXFOR reaction        : (63-EU-151(N,G)63-EU-152-M1,,SIG,,MXW,DERIV) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Eu-151 
 # product               : Eu-152-M1 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.Beer 
+# first author          : Beer 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,AJ,278,388,1984) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22603.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22603
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      1.77500E+00      1.91000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        1.7750E+00        1.9100E-01

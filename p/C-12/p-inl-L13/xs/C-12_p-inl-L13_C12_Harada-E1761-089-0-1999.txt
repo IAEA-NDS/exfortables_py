@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1761-089-0 
-# EXFOR reaction        : ['6-C-12', ['P,INL'], '6-C-12,PAR,SIG'] 
+# EXFOR reaction        : (6-C-12(P,INL)6-C-12,PAR,SIG) 
 # incident energy       : 2.6000e+01 MeV 
 # target                : C-12 
 # product               : C-12 
 # level energy          : 1.4100e+01 MeV 
 # MF-MT number          : 3 - 613 
-# first author          : M.Harada 
+# first author          : Harada 
 # institute             : (2JPNKYU): Kyushu University , Fukuoka 
 # reference             : (J,NST,36,(4),313,199904) 
 # year                  : 1999 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E17/E1761.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1761
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.60000E+01      0.00000E+00      5.90000E-03      2.95000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6000E+01        0.0000E+00        5.9000E-03        2.9500E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20416-083-0 
-# EXFOR reaction        : ['34-SE-76', ['N,2N'], '34-SE-75,,SIG'] 
+# EXFOR reaction        : (34-SE-76(N,2N)34-SE-75,,SIG) 
 # incident energy       : 1.1880e+01 MeV - 1.4760e+01 MeV 
 # target                : Se-76 
 # product               : Se-75 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.Frehaut 
+# first author          : Frehaut 
 # institute             : (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
 # reference             : ((S,INDC(USA)-84,(1),399,1980)=(S,BNL-NCS-51245,(1),399,1980)) 
 # year                  : 1980 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20416.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20416
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.18800E+01      8.50000E-02      1.00000E-01      1.20000E-02
-      1.23600E+01      8.50000E-02      2.18000E-01      2.40000E-02
-      1.28500E+01      8.00000E-02      3.79000E-01      3.60000E-02
-      1.33300E+01      7.50000E-02      5.46000E-01      4.90000E-02
-      1.38000E+01      7.50000E-02      6.80000E-01      5.60000E-02
-      1.42800E+01      7.00000E-02      7.25000E-01      5.90000E-02
-      1.47600E+01      6.50000E-02      8.06000E-01      6.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1880E+01        8.5000E-02        1.0000E-01        1.2000E-02
+        1.2360E+01        8.5000E-02        2.1800E-01        2.4000E-02
+        1.2850E+01        8.0000E-02        3.7900E-01        3.6000E-02
+        1.3330E+01        7.5000E-02        5.4600E-01        4.9000E-02
+        1.3800E+01        7.5000E-02        6.8000E-01        5.6000E-02
+        1.4280E+01        7.0000E-02        7.2500E-01        5.9000E-02
+        1.4760E+01        6.5000E-02        8.0600E-01        6.3000E-02

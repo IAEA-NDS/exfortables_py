@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33126-002-0 
-# EXFOR reaction        : ['90-TH-232', ['N,G'], '90-TH-233,,SIG,,SPA'] 
+# EXFOR reaction        : (90-TH-232(N,G)90-TH-233,,SIG,,SPA) 
 # incident energy       : 5.0800e+00 MeV - 1.6630e+01 MeV 
 # target                : Th-232 
 # product               : Th-233 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.Mukherjee 
+# first author          : Mukherjee 
 # institute             : (3INDBDA): M.S. University of Baroda, Baroda 
 # reference             : (J,ARI,143,72,2019) 
 # year                  : 2019 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33126.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33126
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.08000E+00      1.70000E-01      2.26000E-03      3.70000E-04
-      8.96000E+00      7.70000E-01      1.46000E-03      2.10000E-04
-      1.24700E+01      8.30000E-01      1.33000E-03      2.60000E-04
-      1.66300E+01      9.50000E-01      7.80000E-04      1.20000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0800E+00        1.7000E-01        2.2600E-03        3.7000E-04
+        8.9600E+00        7.7000E-01        1.4600E-03        2.1000E-04
+        1.2470E+01        8.3000E-01        1.3300E-03        2.6000E-04
+        1.6630E+01        9.5000E-01        7.8000E-04        1.2000E-04

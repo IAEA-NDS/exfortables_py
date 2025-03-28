@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30042-002-0 
-# EXFOR reaction        : ['1-H-1', ['N,G'], '1-H-2,,SIG'] 
+# EXFOR reaction        : (1-H-1(N,G)1-H-2,,SIG) 
 # incident energy       : 1.4400e+01 MeV 
 # target                : H-1 
 # product               : H-2 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : I.Slaus 
+# first author          : Slaus 
 # institute             : (3CRORBZ): Institute Rudjer Boskovic, Zagreb 
 # reference             : (C,64PARIS,2,244,196407) 
 # year                  : 1964 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30042.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30042
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.44000E+01      0.00000E+00      3.38000E-05      1.90000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4400E+01        0.0000E+00        3.3800E-05        1.9000E-06

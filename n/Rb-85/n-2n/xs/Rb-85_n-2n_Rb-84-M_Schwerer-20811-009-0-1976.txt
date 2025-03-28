@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20811-009-0 
-# EXFOR reaction        : ['37-RB-85', ['N,2N'], '37-RB-84-M,,SIG'] 
+# EXFOR reaction        : (37-RB-85(N,2N)37-RB-84-M,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Rb-85 
 # product               : Rb-84-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : O.Schwerer 
+# first author          : Schwerer 
 # institute             : (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
 # reference             : (J,OSA,113,153,7606) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20811.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20811
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      2.00000E-01      5.06000E-01      5.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        2.0000E-01        5.0600E-01        5.0000E-02

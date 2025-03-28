@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20556-002-0 
-# EXFOR reaction        : ['60-ND-147', ['N,G'], '60-ND-148,,SIG,,SPA'] 
+# EXFOR reaction        : (60-ND-147(N,G)60-ND-148,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Nd-147 
 # product               : Nd-148 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : D.Heck 
+# first author          : Heck 
 # institute             : (2FR GRE): Universite Joseph Fourier, Grenoble 
 # reference             : (J,AKE,24,141,74) 
 # year                  : 1974 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20556.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20556
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      4.40000E+02      1.50000E+02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        4.4000E+02        1.5000E+02

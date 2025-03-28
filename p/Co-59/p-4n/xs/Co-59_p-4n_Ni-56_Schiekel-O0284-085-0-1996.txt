@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0284-085-0 
-# EXFOR reaction        : ['27-CO-59', ['P,4N'], '28-NI-56,,SIG'] 
+# EXFOR reaction        : (27-CO-59(P,4N)28-NI-56,,SIG) 
 # incident energy       : 2.7800e+02 MeV - 3.8000e+02 MeV 
 # target                : Co-59 
 # product               : Ni-56 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : Th.Schiekel 
+# first author          : Schiekel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,114,91,1996) 
 # year                  : 1996 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0284.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0284
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.78000E+02      1.19000E+00      8.63000E-05      2.40000E-05
-      3.44000E+02      1.68000E+00      6.42000E-05      2.58000E-05
-      3.80000E+02      1.16000E+00      8.81000E-05      2.06000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7800E+02        1.1900E+00        8.6300E-05        2.4000E-05
+        3.4400E+02        1.6800E+00        6.4200E-05        2.5800E-05
+        3.8000E+02        1.1600E+00        8.8100E-05        2.0600E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30061-005-0 
-# EXFOR reaction        : ['31-GA-69', ['N,2N'], '31-GA-68,,SIG'] 
+# EXFOR reaction        : (31-GA-69(N,2N)31-GA-68,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Ga-69 
 # product               : Ga-68 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.Chatterjee 
+# first author          : Chatterjee 
 # institute             : (3INDBOS): Bose Institute, Kolkata 
 # reference             : (P,BARC-305,30,196710) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30061.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30061
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      1.00000E-01      9.50000E-01      9.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        1.0000E-01        9.5000E-01        9.5000E-02

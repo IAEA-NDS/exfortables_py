@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23171-002-0 
-# EXFOR reaction        : ['26-FE-54', ['N,X'], '25-MN-53,,SIG'] 
+# EXFOR reaction        : (26-FE-54(N,X)25-MN-53,,SIG) 
 # incident energy       : 1.3489e+01 MeV - 1.4650e+01 MeV 
 # target                : Fe-54 
 # product               : Mn-53 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.Wallner 
+# first author          : Wallner 
 # institute             : (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
 # reference             : (J,KPS,59,(2),1378,2011) 
 # year                  : 2011 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23171.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23171
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34890E+01      1.00000E-03      5.55000E-01      1.01000E-01
-      1.46500E+01      1.00000E-03      7.39000E-01      1.01000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3489E+01        1.0000E-03        5.5500E-01        1.0100E-01
+        1.4650E+01        1.0000E-03        7.3900E-01        1.0100E-01

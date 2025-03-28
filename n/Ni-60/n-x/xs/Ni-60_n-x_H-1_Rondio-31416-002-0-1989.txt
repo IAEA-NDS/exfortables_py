@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31416-002-0 
-# EXFOR reaction        : ['28-NI-60', ['N,X'], '1-H-1,,SIG'] 
+# EXFOR reaction        : (28-NI-60(N,X)1-H-1,,SIG) 
 # incident energy       : 1.7300e+01 MeV 
 # target                : Ni-60 
 # product               : H-1 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.Rondio 
+# first author          : Rondio 
 # institute             : (3POLIPJ): Narodowe Centrum Badan Jadrowych, Swierk+Warszawa 
 # reference             : (J,APP/B,20,(7),627,198907) 
 # year                  : 1989 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31416.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31416
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.73000E+01      0.00000E+00      5.27000E-01      7.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7300E+01        0.0000E+00        5.2700E-01        7.0000E-02

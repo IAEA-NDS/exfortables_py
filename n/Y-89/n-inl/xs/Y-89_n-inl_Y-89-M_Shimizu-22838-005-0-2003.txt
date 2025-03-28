@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22838-005-0 
-# EXFOR reaction        : ['39-Y-89', ['N,INL'], '39-Y-89-M,,SIG'] 
+# EXFOR reaction        : (39-Y-89(N,INL)39-Y-89-M,,SIG) 
 # incident energy       : 2.0900e+00 MeV - 3.0900e+00 MeV 
 # target                : Y-89 
 # product               : Y-89-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : T.Shimizu 
+# first author          : Shimizu 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : ((S,JAERI-C-2003-006,138,2003)=(S,INDC(JPN)-191/U,138,2003)) 
 # year                  : 2003 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22838.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22838
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.09000E+00      0.00000E+00      4.75000E-01      2.51750E-02
-      2.90000E+00      0.00000E+00      4.30000E-01      2.70900E-02
-      2.69000E+00      0.00000E+00      4.38000E-01      2.80320E-02
-      2.46000E+00      0.00000E+00      2.90000E-01      1.79800E-02
-      2.27000E+00      0.00000E+00      2.71000E-01      1.84280E-02
-      2.09000E+00      0.00000E+00      2.05000E-01      1.51700E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0900E+00        0.0000E+00        4.7500E-01        2.5175E-02
+        2.9000E+00        0.0000E+00        4.3000E-01        2.7090E-02
+        2.6900E+00        0.0000E+00        4.3800E-01        2.8032E-02
+        2.4600E+00        0.0000E+00        2.9000E-01        1.7980E-02
+        2.2700E+00        0.0000E+00        2.7100E-01        1.8428E-02
+        2.0900E+00        0.0000E+00        2.0500E-01        1.5170E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0362-002-0 
-# EXFOR reaction        : ['92-U-0', ['P,X'], 'ELEM/MASS,CUM,SIG'] 
+# EXFOR reaction        : (92-U-0(P,X)ELEM/MASS,CUM,SIG) 
 # incident energy       : 3.0000e+03 MeV 
 # target                : U-0 
 # product               : Cd-115 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : N.T.Porile 
+# first author          : Porile 
 # institute             : (1USAPUR): Purdue University, West Lafayette, IN 
 # reference             : (J,PR,148,1235,1966) 
 # year                  : 1966 
@@ -13,5 +13,18 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0362.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0362
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+03      0.00000E+00      1.42000E-02      9.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+03        0.0000E+00        8.8000E-04        1.2000E-04
+        3.0000E+03        0.0000E+00        2.0000E-03        1.0000E-04
+        3.0000E+03        0.0000E+00        3.6000E-03        2.0000E-04
+        3.0000E+03        0.0000E+00        2.1400E-02        2.5000E-03
+        3.0000E+03        0.0000E+00        5.5000E-03        3.0000E-04
+        3.0000E+03        0.0000E+00        1.6900E-02        1.5000E-03
+        3.0000E+03        0.0000E+00        1.4200E-02        9.0000E-04
+        3.0000E+03        0.0000E+00        6.6000E-03        7.0000E-04
+        3.0000E+03        0.0000E+00        1.9000E-03        1.0000E-04
+        3.0000E+03        0.0000E+00        2.5000E-03        1.0000E-04
+        3.0000E+03        0.0000E+00        4.6000E-03        1.0000E-04
+        3.0000E+03        0.0000E+00        4.8000E-04        3.0000E-05
+        3.0000E+03        0.0000E+00        7.8000E-03        9.0000E-04
+        3.0000E+03        0.0000E+00        3.1000E-03        7.0000E-04

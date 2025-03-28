@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12019-003-0 
-# EXFOR reaction        : ['56-BA-132', ['N,G'], '56-BA-133-G,,SIG,,SPA'] 
+# EXFOR reaction        : (56-BA-132(N,G)56-BA-133-G,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ba-132 
 # product               : Ba-133-G 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : W.S.Lyon 
+# first author          : Lyon 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,JIN,25,1079,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12019.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12019
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      6.50000E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        6.5000E+00        0.0000E+00

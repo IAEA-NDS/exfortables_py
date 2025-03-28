@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21345-003-0 
-# EXFOR reaction        : ['25-MN-55', ['N,A'], '23-V-52,,SIG'] 
+# EXFOR reaction        : (25-MN-55(N,A)23-V-52,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Mn-55 
 # product               : V-52 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : B.Minetti 
+# first author          : Minetti 
 # institute             : (2ITYTUR): Universita degli Studi di Torino + INFN Torino 
 # reference             : (J,ZP,199,275,6701) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21345.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21345
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      0.00000E+00      2.70000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        0.0000E+00        2.7000E-02        2.0000E-03

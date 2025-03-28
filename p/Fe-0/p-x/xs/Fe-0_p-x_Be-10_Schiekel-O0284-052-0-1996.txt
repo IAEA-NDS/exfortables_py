@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0284-052-0 
-# EXFOR reaction        : ['26-FE-0', ['P,X'], '4-BE-10,,SIG'] 
+# EXFOR reaction        : (26-FE-0(P,X)4-BE-10,,SIG) 
 # incident energy       : 2.3600e+02 MeV - 3.8300e+02 MeV 
 # target                : Fe-0 
 # product               : Be-10 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Th.Schiekel 
+# first author          : Schiekel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,114,91,1996) 
 # year                  : 1996 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0284.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0284
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.36000E+02      0.00000E+00      8.80000E-05      9.00000E-06
-      2.80000E+02      0.00000E+00      1.01000E-04      1.00000E-05
-      3.46000E+02      0.00000E+00      1.87000E-04      1.90000E-05
-      3.83000E+02      0.00000E+00      2.09000E-04      2.20000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3600E+02        0.0000E+00        8.8000E-05        9.0000E-06
+        2.8000E+02        0.0000E+00        1.0100E-04        1.0000E-05
+        3.4600E+02        0.0000E+00        1.8700E-04        1.9000E-05
+        3.8300E+02        0.0000E+00        2.0900E-04        2.2000E-05

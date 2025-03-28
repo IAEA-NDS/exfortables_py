@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21352-005-0 
-# EXFOR reaction        : ['26-FE-54', ['N,A'], '24-CR-51,,SIG'] 
+# EXFOR reaction        : (26-FE-54(N,A)24-CR-51,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Fe-54 
 # product               : Cr-51 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : H.Pollehn 
+# first author          : Pollehn 
 # institute             : (2GERHAM): Hamburg, Universitaet 
 # reference             : (J,ZN/A,16,227,1961) 
 # year                  : 1961 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21352.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21352
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      0.00000E+00      1.31000E-01      2.35800E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        1.3100E-01        2.3580E-02

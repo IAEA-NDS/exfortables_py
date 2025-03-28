@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0627-006-0 
-# EXFOR reaction        : ['76-OS-190', ['P,F'], ',,SIG,,,EXP'] 
+# EXFOR reaction        : (76-OS-190(P,F),,SIG,,,EXP) 
 # incident energy       : 2.5600e+01 MeV - 2.9600e+01 MeV 
 # target                : Os-190 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : V.N.Okolovich 
+# first author          : Okolovich 
 # institute             : (4KASKAZ): Institute Yadernoi Fiziki, Almaty 
 # reference             : (R,IYFK-P-112,1974) 
 # year                  : 1974 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0627.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0627
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.56000E+01      2.00000E-01      1.80000E-07      1.08000E-08
-      2.66000E+01      2.00000E-01      2.60000E-07      1.56000E-08
-      2.76000E+01      2.00000E-01      4.68000E-07      2.80800E-08
-      2.81000E+01      2.00000E-01      8.23000E-07      4.93800E-08
-      2.86000E+01      2.00000E-01      8.65000E-07      5.19000E-08
-      2.91000E+01      2.00000E-01      1.14000E-06      6.84000E-08
-      2.96000E+01      2.00000E-01      1.55000E-06      9.30000E-08
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5600E+01        2.0000E-01        1.8000E-07        1.0800E-08
+        2.6600E+01        2.0000E-01        2.6000E-07        1.5600E-08
+        2.7600E+01        2.0000E-01        4.6800E-07        2.8080E-08
+        2.8100E+01        2.0000E-01        8.2300E-07        4.9380E-08
+        2.8600E+01        2.0000E-01        8.6500E-07        5.1900E-08
+        2.9100E+01        2.0000E-01        1.1400E-06        6.8400E-08
+        2.9600E+01        2.0000E-01        1.5500E-06        9.3000E-08

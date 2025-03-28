@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40997-003-0 
-# EXFOR reaction        : ['92-U-238', ['N,2N'], '92-U-237,,SIG'] 
+# EXFOR reaction        : (92-U-238(N,2N)92-U-237,,SIG) 
 # incident energy       : 1.4760e+01 MeV 
 # target                : U-238 
 # product               : U-237 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : V.Ya.Golovnya 
+# first author          : Golovnya 
 # institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
 # reference             : (C,87KIEV,3,281,1987) 
 # year                  : 1987 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40997.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40997
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47600E+01      2.50000E-01      7.04000E-01      6.40000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4760E+01        2.5000E-01        7.0400E-01        6.4000E-02

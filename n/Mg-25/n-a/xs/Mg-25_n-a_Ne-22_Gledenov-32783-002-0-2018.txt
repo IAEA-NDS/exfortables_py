@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 32783-002-0 
-# EXFOR reaction        : ['12-MG-25', ['N,A'], '10-NE-22,,SIG'] 
+# EXFOR reaction        : (12-MG-25(N,A)10-NE-22,,SIG) 
 # incident energy       : 4.0000e+00 MeV - 6.0000e+00 MeV 
 # target                : Mg-25 
 # product               : Ne-22 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : Yu.M.Gledenov 
+# first author          : Gledenov 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (J,PR/C,98,034605,2018) 
 # year                  : 2018 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32783.x4 
 # nds                   : https://nds.iaea.org/EXFOR/32783
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+00      2.00000E-01      2.23200E-02      3.03000E-03
-      4.50000E+00      2.00000E-01      2.67100E-02      2.62000E-03
-      5.00000E+00      1.00000E-01      2.93100E-02      6.09000E-03
-      5.50000E+00      1.00000E-01      3.74700E-02      2.79000E-03
-      6.00000E+00      1.00000E-01      3.94600E-02      3.18000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+00        2.0000E-01        2.2320E-02        3.0300E-03
+        4.5000E+00        2.0000E-01        2.6710E-02        2.6200E-03
+        5.0000E+00        1.0000E-01        2.9310E-02        6.0900E-03
+        5.5000E+00        1.0000E-01        3.7470E-02        2.7900E-03
+        6.0000E+00        1.0000E-01        3.9460E-02        3.1800E-03

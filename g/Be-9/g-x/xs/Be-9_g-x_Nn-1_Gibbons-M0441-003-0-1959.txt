@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M0441-003-0 
-# EXFOR reaction        : ['4-BE-9', ['G,X'], '0-NN-1,,SIG'] 
+# EXFOR reaction        : (4-BE-9(G,X)0-NN-1,,SIG) 
 # incident energy       : 1.6900e+00 MeV 
 # target                : Be-9 
 # product               : Nn-1 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.H.Gibbons 
+# first author          : Gibbons 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,PR,114,1319,1959) 
 # year                  : 1959 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M04/M0441.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M0441
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.69000E+00      0.00000E+00      1.26200E-03      6.90000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6900E+00        0.0000E+00        1.2620E-03        6.9000E-05

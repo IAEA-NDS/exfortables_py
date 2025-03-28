@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12983-002-0 
-# EXFOR reaction        : ['4-BE-9', ['N,G'], '4-BE-10,,SIG'] 
+# EXFOR reaction        : (4-BE-9(N,G)4-BE-10,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Be-9 
 # product               : Be-10 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : C.M.Conneely 
+# first author          : Conneely 
 # institute             : (1CANMCM): McMaster University, Hamilton, Ontario 
 # reference             : (J,NIM/A,248,416,1986) 
 # year                  : 1986 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12983.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12983
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      8.49000E-03      3.40000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        8.4900E-03        3.4000E-04

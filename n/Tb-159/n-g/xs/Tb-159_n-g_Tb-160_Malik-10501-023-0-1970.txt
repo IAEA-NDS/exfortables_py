@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10501-023-0 
-# EXFOR reaction        : ['65-TB-159', ['N,G'], '65-TB-160,,SIG'] 
+# EXFOR reaction        : (65-TB-159(N,G)65-TB-160,,SIG) 
 # incident energy       : 3.3000e-08 MeV - 2.7000e-07 MeV 
 # target                : Tb-159 
 # product               : Tb-160 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.S.Malik 
+# first author          : Malik 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,NIM,86,83,1970) 
 # year                  : 1970 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10501.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10501
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.30000E-08      0.00000E+00      2.33200E+01      7.00000E-01
-      7.50000E-08      0.00000E+00      1.56100E+01      5.00000E-01
-      1.15000E-07      0.00000E+00      1.13200E+01      5.00000E-01
-      2.70000E-07      0.00000E+00      7.25000E+00      4.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3000E-08        0.0000E+00        2.3320E+01        7.0000E-01
+        7.5000E-08        0.0000E+00        1.5610E+01        5.0000E-01
+        1.1500E-07        0.0000E+00        1.1320E+01        5.0000E-01
+        2.7000E-07        0.0000E+00        7.2500E+00        4.0000E-01

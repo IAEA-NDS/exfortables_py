@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21879-007-0 
-# EXFOR reaction        : ['79-AU-197', ['N,G'], '79-AU-198,,SIG'] 
+# EXFOR reaction        : (79-AU-197(N,G)79-AU-198,,SIG) 
 # incident energy       : 2.1160e+00 MeV - 3.5860e+00 MeV 
 # target                : Au-197 
 # product               : Au-198 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.A.Hussain 
+# first author          : Hussain 
 # institute             : (2UK BIA): University of Aston, Birmingham 
 # reference             : (J,ARI,34,731,1983) 
 # year                  : 1983 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21879.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21879
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.11600E+00      8.00000E-02      5.39000E-02      4.58150E-03
-      2.26600E+00      8.00000E-02      4.52000E-02      3.84200E-03
-      2.34100E+00      8.00000E-02      4.10000E-02      3.48500E-03
-      2.44200E+00      9.00000E-02      3.71000E-02      3.15350E-03
-      2.87100E+00      2.70000E-01      2.62000E-02      2.22700E-03
-      3.23700E+00      4.00000E-01      2.10000E-02      1.78500E-03
-      3.58600E+00      5.60000E-01      2.07000E-02      1.75950E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1160E+00        8.0000E-02        5.3900E-02        4.5815E-03
+        2.2660E+00        8.0000E-02        4.5200E-02        3.8420E-03
+        2.3410E+00        8.0000E-02        4.1000E-02        3.4850E-03
+        2.4420E+00        9.0000E-02        3.7100E-02        3.1535E-03
+        2.8710E+00        2.7000E-01        2.6200E-02        2.2270E-03
+        3.2370E+00        4.0000E-01        2.1000E-02        1.7850E-03
+        3.5860E+00        5.6000E-01        2.0700E-02        1.7595E-03

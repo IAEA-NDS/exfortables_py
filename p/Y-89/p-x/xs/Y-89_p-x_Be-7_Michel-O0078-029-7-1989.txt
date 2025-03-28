@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0078-029-7 
-# EXFOR reaction        : ['39-Y-89', ['P,X'], '4-BE-7,,SIG'] 
+# EXFOR reaction        : (39-Y-89(P,X)4-BE-7,,SIG) 
 # incident energy       : 6.0000e+02 MeV 
 # target                : Y-89 
 # product               : Be-7 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERUH): University Hannover (previously Tech.University Hannover) 
 # reference             : (J,ANA,114,287,1989) 
 # year                  : 1989 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0078.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0078
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+02      0.00000E+00      1.95000E-03      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+02        0.0000E+00        1.9500E-03        2.0000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14053-003-0 
-# EXFOR reaction        : ['94-PU-239', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (94-PU-239(N,F),,SIG) 
 # incident energy       : 1.4000e-01 MeV - 9.6400e-01 MeV 
 # target                : Pu-239 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : G.F.Knoll 
+# first author          : Knoll 
 # institute             : (1USAMHG): University of Michigan, Ann Arbor, MI 
 # reference             : (C,77NBS,,304,1977) 
 # year                  : 1977 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/140/14053.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14053
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40000E-01      0.00000E+00      1.46900E+00      4.10000E-02
-      2.65000E-01      0.00000E+00      1.51500E+00      3.50000E-02
-      7.70000E-01      0.00000E+00      1.67000E+00      3.70000E-02
-      9.64000E-01      0.00000E+00      1.64300E+00      3.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E-01        0.0000E+00        1.4690E+00        4.1000E-02
+        2.6500E-01        0.0000E+00        1.5150E+00        3.5000E-02
+        7.7000E-01        0.0000E+00        1.6700E+00        3.7000E-02
+        9.6400E-01        0.0000E+00        1.6430E+00        3.3000E-02

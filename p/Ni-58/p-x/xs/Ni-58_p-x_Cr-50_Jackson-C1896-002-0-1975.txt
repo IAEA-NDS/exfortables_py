@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1896-002-0 
-# EXFOR reaction        : ['28-NI-58', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (28-NI-58(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 2.0000e+02 MeV 
 # target                : Ni-58 
 # product               : Cr-50 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.E.Jackson 
+# first author          : Jackson 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,PRL,35,(10),641,1975) 
 # year                  : 1975 
@@ -13,5 +13,19 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C18/C1896.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1896
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+02      0.00000E+00      2.60000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+02        0.0000E+00        4.6000E-02        0.0000E+00
+        2.0000E+02        0.0000E+00        1.3000E-02        0.0000E+00
+        2.0000E+02        0.0000E+00        3.8000E-02        0.0000E+00
+        2.0000E+02        0.0000E+00        3.4000E-02        0.0000E+00
+        2.0000E+02        0.0000E+00        2.2000E-02        5.0000E-03
+        2.0000E+02        0.0000E+00        7.1000E-02        0.0000E+00
+        2.0000E+02        0.0000E+00        4.4000E-02        0.0000E+00
+        2.0000E+02        0.0000E+00        1.0000E-02        0.0000E+00
+        2.0000E+02        0.0000E+00        1.7000E-02        0.0000E+00
+        2.0000E+02        0.0000E+00        2.6000E-02        0.0000E+00
+        2.0000E+02        0.0000E+00        9.0000E-03        0.0000E+00
+        2.0000E+02        0.0000E+00        5.0000E-03        2.0000E-03
+        2.0000E+02        0.0000E+00        1.0000E-02        0.0000E+00
+        2.0000E+02        0.0000E+00        9.0000E-03        0.0000E+00
+        2.0000E+02        0.0000E+00        2.0000E-03        0.0000E+00

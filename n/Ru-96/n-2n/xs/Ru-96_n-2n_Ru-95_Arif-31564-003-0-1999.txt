@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31564-003-0 
-# EXFOR reaction        : ['44-RU-96', ['N,2N'], '44-RU-95,,SIG,,FIS'] 
+# EXFOR reaction        : (44-RU-96(N,2N)44-RU-95,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Ru-96 
 # product               : Ru-95 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : M.Arif 
+# first author          : Arif 
 # institute             : (3PAKNIL): PINSTECH, Nilore, Rawalpindi 
 # reference             : (J,RCA,85,9,1999) 
 # year                  : 1999 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31564.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31564
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      3.10000E-04      6.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        3.1000E-04        6.0000E-05

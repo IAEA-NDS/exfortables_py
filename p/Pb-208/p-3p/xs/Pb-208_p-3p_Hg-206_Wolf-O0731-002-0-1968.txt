@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0731-002-0 
-# EXFOR reaction        : ['82-PB-208', ['P,3P'], '80-HG-206,IND,SIG'] 
+# EXFOR reaction        : (82-PB-208(P,3P)80-HG-206,IND,SIG) 
 # incident energy       : 5.9000e+02 MeV - 1.9000e+04 MeV 
 # target                : Pb-208 
 # product               : Hg-206 
 # level energy          : - 
 # MF-MT number          : 3 - 197 
-# first author          : G.K.Wolf 
+# first author          : Wolf 
 # institute             : (2ZZZCER): European Org. for Nuclear Research (CERN), Geneva 
 # reference             : (J,NP/A,116,387,1968) 
 # year                  : 1968 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0731.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0731
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.90000E+02      0.00000E+00      6.00000E-04      1.80000E-04
-      1.90000E+04      0.00000E+00      2.60000E-04      8.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.9000E+02        0.0000E+00        6.0000E-04        1.8000E-04
+        1.9000E+04        0.0000E+00        2.6000E-04        8.0000E-05

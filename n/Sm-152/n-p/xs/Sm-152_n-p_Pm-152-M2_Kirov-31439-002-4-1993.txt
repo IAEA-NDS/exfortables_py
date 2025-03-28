@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31439-002-4 
-# EXFOR reaction        : ['62-SM-152', ['N,P'], '61-PM-152-M2,,SIG'] 
+# EXFOR reaction        : (62-SM-152(N,P)61-PM-152-M2,,SIG) 
 # incident energy       : 1.4540e+01 MeV 
 # target                : Sm-152 
 # product               : Pm-152-M2 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : A.Kirov 
+# first author          : Kirov 
 # institute             : (3BULBUL): Bulgaria 
 # reference             : (J,ZP/A,345,285,1993) 
 # year                  : 1993 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31439.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31439
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45400E+01      2.40000E-01      2.00000E-05      4.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4540E+01        2.4000E-01        2.0000E-05        4.0000E-06

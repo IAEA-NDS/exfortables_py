@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22823-008-0 
-# EXFOR reaction        : ['31-GA-69', ['N,P'], '30-ZN-69-G,,SIG'] 
+# EXFOR reaction        : (31-GA-69(N,P)30-ZN-69-G,,SIG) 
 # incident energy       : 6.3200e+00 MeV - 1.2060e+01 MeV 
 # target                : Ga-69 
 # product               : Zn-69-G 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : C.D.Nesaraja 
+# first author          : Nesaraja 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,PR/C,68,(2),024603,2003) 
 # year                  : 2003 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22823.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22823
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.32000E+00      4.10000E-01      3.00000E-03      6.00000E-04
-      7.33000E+00      4.80000E-01      2.90000E-03      5.00000E-04
-      8.01000E+00      5.30000E-01      3.80000E-03      6.00000E-04
-      9.09000E+00      6.20000E-01      5.00000E-03      1.33000E-03
-      1.01300E+01      7.40000E-01      6.80000E-03      1.60000E-03
-      1.12400E+01      8.40000E-01      8.20000E-03      1.60000E-03
-      1.20600E+01      9.30000E-01      8.70000E-03      1.70000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.3200E+00        4.1000E-01        3.0000E-03        6.0000E-04
+        7.3300E+00        4.8000E-01        2.9000E-03        5.0000E-04
+        8.0100E+00        5.3000E-01        3.8000E-03        6.0000E-04
+        9.0900E+00        6.2000E-01        5.0000E-03        1.3300E-03
+        1.0130E+01        7.4000E-01        6.8000E-03        1.6000E-03
+        1.1240E+01        8.4000E-01        8.2000E-03        1.6000E-03
+        1.2060E+01        9.3000E-01        8.7000E-03        1.7000E-03

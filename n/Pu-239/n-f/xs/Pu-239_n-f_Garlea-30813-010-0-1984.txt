@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30813-010-0 
-# EXFOR reaction        : ['94-PU-239', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (94-PU-239(N,F),,SIG) 
 # incident energy       : 1.4750e+01 MeV 
 # target                : Pu-239 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : I.Garlea 
+# first author          : Garlea 
 # institute             : (3RUMPIT): Institute of Nuclear Power Reactors (I.R.N.E.) 
 # reference             : (J,RRP,29,421,1984) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/308/30813.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30813
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47500E+01      0.00000E+00      2.67000E+00      8.03670E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4750E+01        0.0000E+00        2.6700E+00        8.0367E-02

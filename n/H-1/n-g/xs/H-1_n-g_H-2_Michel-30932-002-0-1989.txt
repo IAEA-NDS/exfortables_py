@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30932-002-0 
-# EXFOR reaction        : ['1-H-1', ['N,G'], '1-H-2,,SIG'] 
+# EXFOR reaction        : (1-H-1(N,G)1-H-2,,SIG) 
 # incident energy       : 2.5600e+01 MeV 
 # target                : H-1 
 # product               : H-2 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : P.Michel 
+# first author          : Michel 
 # institute             : (3DDRROS): Zentralinstitut fuer Kernforschung (ZFK), Rossendorf 
 # reference             : (J,JP/G,15,1025,1989) 
 # year                  : 1989 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30932.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30932
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.56000E+01      2.80000E+00      2.42000E-05      7.00000E-07
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5600E+01        2.8000E+00        2.4200E-05        7.0000E-07

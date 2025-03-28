@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21886-002-0 
-# EXFOR reaction        : ['12-MG-24', ['N,P'], '11-NA-24,,SIG'] 
+# EXFOR reaction        : (12-MG-24(N,P)11-NA-24,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Mg-24 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.Hyvoenen-Dabek 
+# first author          : Hyvoenen-Dabek 
 # institute             : (2SF HLS): University of Helsinki, Helsinki 
 # reference             : (J,JRC,46,357,78) 
 # year                  : 1978 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21886.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21886
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      2.00000E-01      1.87000E-01      7.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        2.0000E-01        1.8700E-01        7.0000E-03

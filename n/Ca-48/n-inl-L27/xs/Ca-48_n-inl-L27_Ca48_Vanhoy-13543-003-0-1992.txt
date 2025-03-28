@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13543-003-0 
-# EXFOR reaction        : ['20-CA-48', ['N,INL'], '20-CA-48,PAR,SIG'] 
+# EXFOR reaction        : (20-CA-48(N,INL)20-CA-48,PAR,SIG) 
 # incident energy       : 8.0000e+00 MeV 
 # target                : Ca-48 
 # product               : Ca-48 
 # level energy          : 7.2980e+00 MeV 
 # MF-MT number          : 3 - 77 
-# first author          : J.R.Vanhoy 
+# first author          : Vanhoy 
 # institute             : (1USAKTY): University of Kentucky, Lexington, KY 
 # reference             : (J,PR/C,45,1628,199204) 
 # year                  : 1992 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/135/13543.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13543
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.00000E+00      0.00000E+00      1.22000E-02      8.00000E-04
-      8.00000E+00      0.00000E+00      1.07000E-02      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+00        0.0000E+00        1.2200E-02        8.0000E-04
+        8.0000E+00        0.0000E+00        1.0700E-02        2.0000E-04

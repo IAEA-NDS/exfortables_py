@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31611-005-0 
-# EXFOR reaction        : ['46-PD-106', ['N,G'], '46-PD-107,PAR,SIG,,SPA'] 
+# EXFOR reaction        : (46-PD-106(N,G)46-PD-107,PAR,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Pd-106 
 # product               : Pd-107 
 # level energy          : 3.9241e-01 MeV 
-# MF-MT number          : 3 - 57 
-# first author          : M.Krticka 
+# MF-MT number          : 3 - 7 
+# first author          : Krticka 
 # institute             : (3CZRCHU): Charles University , Prague 
 # reference             : (J,PR/C,77,054615,2008) 
 # year                  : 2008 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31611.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31611
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.50000E-02      6.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.5000E-02        6.0000E-03

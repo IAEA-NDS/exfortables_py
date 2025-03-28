@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31562-010-0 
-# EXFOR reaction        : ['50-SN-120', ['N,A'], '48-CD-117-M,,SIG,,FIS'] 
+# EXFOR reaction        : (50-SN-120(N,A)48-CD-117-M,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Sn-120 
 # product               : Cd-117-M 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : M.Arif 
+# first author          : Arif 
 # institute             : (3PAKNIL): PINSTECH, Nilore, Rawalpindi 
 # reference             : (J,RCA,75,175,1996) 
 # year                  : 1996 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31562.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31562
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      3.30000E-04      2.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        3.3000E-04        2.0000E-05

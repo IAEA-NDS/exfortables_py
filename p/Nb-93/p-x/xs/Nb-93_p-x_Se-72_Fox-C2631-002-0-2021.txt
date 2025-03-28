@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2631-002-0 
-# EXFOR reaction        : ['41-NB-93', ['P,X'], '34-SE-72,CUM,SIG'] 
+# EXFOR reaction        : (41-NB-93(P,X)34-SE-72,CUM,SIG) 
 # incident energy       : 1.7711e+02 MeV - 1.9238e+02 MeV 
 # target                : Nb-93 
 # product               : Se-72 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.B.Fox 
+# first author          : Fox 
 # institute             : (1USAUCX): University of California, Berkeley, CA 
 # reference             : (J,PR/C,103,034601,2021) 
 # year                  : 2021 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2631.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2631
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.92380E+02      7.30000E-01      6.60000E-05      1.30000E-05
-      1.77110E+02      7.70000E-01      1.93000E-05      2.60000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9238E+02        7.3000E-01        6.6000E-05        1.3000E-05
+        1.7711E+02        7.7000E-01        1.9300E-05        2.6000E-06

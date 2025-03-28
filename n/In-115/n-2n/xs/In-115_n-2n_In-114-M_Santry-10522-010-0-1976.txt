@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10522-010-0 
-# EXFOR reaction        : ['49-IN-115', ['N,2N'], '49-IN-114-M,,SIG'] 
+# EXFOR reaction        : (49-IN-115(N,2N)49-IN-114-M,,SIG) 
 # incident energy       : 1.0030e+01 MeV - 1.3580e+01 MeV 
 # target                : In-115 
 # product               : In-114-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : D.C.Santry 
+# first author          : Santry 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (J,CJP,54,757,1976) 
 # year                  : 1976 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10522.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10522
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00300E+01      1.10000E-01      1.74000E-01      2.00000E-02
-      1.05000E+01      1.10000E-01      3.93000E-01      4.00000E-02
-      1.10000E+01      1.10000E-01      6.72000E-01      4.40000E-02
-      1.18000E+01      1.10000E-01      1.00500E+00      9.00000E-02
-      1.21000E+01      1.10000E-01      1.05500E+00      9.80000E-02
-      1.26000E+01      1.10000E-01      1.22800E+00      8.00000E-02
-      1.30800E+01      1.10000E-01      1.35700E+00      1.10000E-01
-      1.35800E+01      1.00000E-01      1.39500E+00      8.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0030E+01        1.1000E-01        1.7400E-01        2.0000E-02
+        1.0500E+01        1.1000E-01        3.9300E-01        4.0000E-02
+        1.1000E+01        1.1000E-01        6.7200E-01        4.4000E-02
+        1.1800E+01        1.1000E-01        1.0050E+00        9.0000E-02
+        1.2100E+01        1.1000E-01        1.0550E+00        9.8000E-02
+        1.2600E+01        1.1000E-01        1.2280E+00        8.0000E-02
+        1.3080E+01        1.1000E-01        1.3570E+00        1.1000E-01
+        1.3580E+01        1.0000E-01        1.3950E+00        8.0000E-02

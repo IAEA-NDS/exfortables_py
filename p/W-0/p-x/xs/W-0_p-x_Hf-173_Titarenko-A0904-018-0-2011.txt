@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0904-018-0 
-# EXFOR reaction        : ['74-W-0', ['P,X'], '72-HF-173,CUM,SIG'] 
+# EXFOR reaction        : (74-W-0(P,X)72-HF-173,CUM,SIG) 
 # incident energy       : 1.4900e+02 MeV - 2.6050e+03 MeV 
 # target                : W-0 
 # product               : Hf-173 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Yu.E.Titarenko 
+# first author          : Titarenko 
 # institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
 # reference             : (J,PAN,74,551,2011) 
 # year                  : 2011 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0904.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0904
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49000E+02      1.00000E+00      1.01000E-01      1.20000E-02
-      2.49000E+02      1.00000E+00      1.13000E-01      1.30000E-02
-      4.00000E+02      2.00000E+00      8.80000E-02      1.20000E-02
-      6.00000E+02      2.00000E+00      7.99000E-02      8.10000E-03
-      7.99000E+02      2.00000E+00      5.60000E-02      6.80000E-03
-      1.19900E+03      3.00000E+00      4.83000E-02      5.10000E-03
-      1.59900E+03      4.00000E+00      3.77000E-02      3.80000E-03
-      2.60500E+03      8.00000E+00      3.34000E-02      3.60000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4900E+02        1.0000E+00        1.0100E-01        1.2000E-02
+        2.4900E+02        1.0000E+00        1.1300E-01        1.3000E-02
+        4.0000E+02        2.0000E+00        8.8000E-02        1.2000E-02
+        6.0000E+02        2.0000E+00        7.9900E-02        8.1000E-03
+        7.9900E+02        2.0000E+00        5.6000E-02        6.8000E-03
+        1.1990E+03        3.0000E+00        4.8300E-02        5.1000E-03
+        1.5990E+03        4.0000E+00        3.7700E-02        3.8000E-03
+        2.6050E+03        8.0000E+00        3.3400E-02        3.6000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10009-003-0 
-# EXFOR reaction        : ['92-U-238', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (92-U-238(N,TOT),,SIG) 
 # incident energy       : 6.0667e-01 MeV - 1.2041e+00 MeV 
 # target                : U-238 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : J.F.Whalen 
+# first author          : Whalen 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (P,ANL-7710,9,197101) 
 # year                  : 1971 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10009.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10009
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.06670E-01      2.00000E-02      8.07300E+00      1.60000E-01
-      8.05740E-01      2.00000E-02      7.23000E+00      1.71000E-01
-      1.00480E+00      2.00000E-02      6.98300E+00      1.98000E-01
-      1.20410E+00      2.00000E-02      6.41180E+00      2.11000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0667E-01        2.0000E-02        8.0730E+00        1.6000E-01
+        8.0574E-01        2.0000E-02        7.2300E+00        1.7100E-01
+        1.0048E+00        2.0000E-02        6.9830E+00        1.9800E-01
+        1.2041E+00        2.0000E-02        6.4118E+00        2.1100E-01

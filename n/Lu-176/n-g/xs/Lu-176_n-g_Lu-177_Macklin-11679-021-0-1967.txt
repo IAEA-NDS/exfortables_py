@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11679-021-0 
-# EXFOR reaction        : ['71-LU-176', ['N,G'], '71-LU-177,,SIG'] 
+# EXFOR reaction        : (71-LU-176(N,G)71-LU-177,,SIG) 
 # incident energy       : 3.0000e-02 MeV - 2.0000e-01 MeV 
 # target                : Lu-176 
 # product               : Lu-177 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.L.Macklin 
+# first author          : Macklin 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,PR,159,1007,67) 
 # year                  : 1967 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11679.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11679
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      1.00000E-02      2.24560E+00      1.70000E-01
-      5.00000E-02      1.00000E-02      1.58830E+00      1.21000E-01
-      7.00000E-02      1.90000E-02      1.17960E+00      9.30000E-02
-      8.50000E-02      1.70000E-02      1.07510E+00      8.10000E-02
-      1.04000E-01      1.50000E-02      9.27700E-01      7.38000E-02
-      1.25000E-01      2.30000E-02      8.25200E-01      6.71000E-02
-      1.57000E-01      2.10000E-02      7.57700E-01      8.15000E-02
-      2.00000E-01      2.00000E-02      7.69000E-01      8.51000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        1.0000E-02        2.2456E+00        1.7000E-01
+        5.0000E-02        1.0000E-02        1.5883E+00        1.2100E-01
+        7.0000E-02        1.9000E-02        1.1796E+00        9.3000E-02
+        8.5000E-02        1.7000E-02        1.0751E+00        8.1000E-02
+        1.0400E-01        1.5000E-02        9.2770E-01        7.3800E-02
+        1.2500E-01        2.3000E-02        8.2520E-01        6.7100E-02
+        1.5700E-01        2.1000E-02        7.5770E-01        8.1500E-02
+        2.0000E-01        2.0000E-02        7.6900E-01        8.5100E-02

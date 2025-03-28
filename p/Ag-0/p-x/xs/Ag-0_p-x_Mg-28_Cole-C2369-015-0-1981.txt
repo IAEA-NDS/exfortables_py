@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2369-015-0 
-# EXFOR reaction        : ['47-AG-0', ['P,X'], 'ELEM/MASS,CUM,SIG'] 
+# EXFOR reaction        : (47-AG-0(P,X)ELEM/MASS,CUM,SIG) 
 # incident energy       : 4.0000e+05 MeV 
 # target                : Ag-0 
 # product               : Mg-28 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : G.D.Cole 
+# first author          : Cole 
 # institute             : (1USAPUR): Purdue University, West Lafayette, IN 
 # reference             : (J,PR/C,24,2038,1981) 
 # year                  : 1981 
@@ -13,5 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2369.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2369
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+05      0.00000E+00      7.00000E-04      2.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+05        0.0000E+00        5.1500E-03        2.3000E-04
+        4.0000E+05        0.0000E+00        7.0000E-04        2.0000E-05
+        4.0000E+05        0.0000E+00        3.3100E-03        1.6000E-04

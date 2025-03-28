@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0299-006-0 
-# EXFOR reaction        : ['18-AR-0', ['P,X'], '12-MG-28,,SIG'] 
+# EXFOR reaction        : (18-AR-0(P,X)12-MG-28,,SIG) 
 # incident energy       : 5.4860e+01 MeV - 1.6437e+02 MeV 
 # target                : Ar-0 
 # product               : Mg-28 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Lundqvist 
+# first author          : Lundqvist 
 # institute             : (2SWDUPP): Uppsala University , Uppsala 
 # reference             : (J,ARI,30,33,1979) 
 # year                  : 1979 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0299.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0299
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.48600E+01      1.10000E-01      1.35000E-05      0.00000E+00
-      7.79500E+01      1.10000E-01      3.45000E-05      0.00000E+00
-      9.63600E+01      1.10000E-01      4.42000E-05      0.00000E+00
-      1.14040E+02      1.10000E-01      8.90000E-05      0.00000E+00
-      1.28280E+02      1.10000E-01      1.20600E-04      0.00000E+00
-      1.41050E+02      1.10000E-01      1.52900E-04      0.00000E+00
-      1.53570E+02      1.10000E-01      1.79000E-04      0.00000E+00
-      1.64120E+02      1.10000E-01      2.02600E-04      0.00000E+00
-      1.64370E+02      1.10000E-01      2.19300E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.4860E+01        1.1000E-01        1.3500E-05        0.0000E+00
+        7.7950E+01        1.1000E-01        3.4500E-05        0.0000E+00
+        9.6360E+01        1.1000E-01        4.4200E-05        0.0000E+00
+        1.1404E+02        1.1000E-01        8.9000E-05        0.0000E+00
+        1.2828E+02        1.1000E-01        1.2100E-04        0.0000E+00
+        1.4105E+02        1.1000E-01        1.5300E-04        0.0000E+00
+        1.5357E+02        1.1000E-01        1.7900E-04        0.0000E+00
+        1.6412E+02        1.1000E-01        2.0300E-04        0.0000E+00
+        1.6437E+02        1.1000E-01        2.1900E-04        0.0000E+00

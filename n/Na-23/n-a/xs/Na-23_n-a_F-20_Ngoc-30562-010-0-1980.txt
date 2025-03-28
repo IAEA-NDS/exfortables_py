@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30562-010-0 
-# EXFOR reaction        : ['11-NA-23', ['N,A'], '9-F-20,,SIG'] 
+# EXFOR reaction        : (11-NA-23(N,A)9-F-20,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Na-23 
 # product               : F-20 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : P.N.Ngoc 
+# first author          : Ngoc 
 # institute             : (3HUNELU): Eotvos Lorand University , Budapest 
 # reference             : (T,NGOC,1980) 
 # year                  : 1980 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30562.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30562
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      2.00000E-01      1.11000E-01      9.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        2.0000E-01        1.1100E-01        9.0000E-03

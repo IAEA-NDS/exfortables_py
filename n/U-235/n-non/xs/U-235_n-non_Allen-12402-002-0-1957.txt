@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12402-002-0 
-# EXFOR reaction        : ['92-U-235', ['N,NON'], ',,SIG'] 
+# EXFOR reaction        : (92-U-235(N,NON),,SIG) 
 # incident energy       : 2.5000e-01 MeV - 1.0000e+00 MeV 
 # target                : U-235 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : R.C.Allen 
+# first author          : Allen 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,NSE,2,787,5711) 
 # year                  : 1957 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/124/12402.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12402
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-01      0.00000E+00      2.86000E+00      0.00000E+00
-      5.00000E-01      0.00000E+00      2.68000E+00      0.00000E+00
-      5.00000E-01      0.00000E+00      2.35000E+00      3.50000E-01
-      1.00000E+00      0.00000E+00      2.65000E+00      3.50000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-01        0.0000E+00        2.8600E+00        0.0000E+00
+        5.0000E-01        0.0000E+00        2.6800E+00        0.0000E+00
+        5.0000E-01        0.0000E+00        2.3500E+00        3.5000E-01
+        1.0000E+00        0.0000E+00        2.6500E+00        3.5000E-01

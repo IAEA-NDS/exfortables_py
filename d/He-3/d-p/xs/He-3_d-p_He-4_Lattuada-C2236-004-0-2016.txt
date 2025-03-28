@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2236-004-0 
-# EXFOR reaction        : ['2-HE-3', ['D,P'], '2-HE-4,,SIG,,SFC/AV'] 
+# EXFOR reaction        : (2-HE-3(D,P)2-HE-4,,SIG,,SFC/AV) 
 # incident energy       : 3.9560e-02 MeV - 8.6190e-02 MeV 
 # target                : He-3 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : D.Lattuada 
+# first author          : Lattuada 
 # institute             : (2ITYITY): Italy 
 # reference             : (J,PR/C,93,045808,2016) 
 # year                  : 2016 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C22/C2236.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2236
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.95605E-02      2.35320E-03      6.86000E+06      1.10000E+06
-      4.30255E-02      6.94000E-04      6.98000E+06      1.20000E+06
-      5.36625E-02      5.43130E-03      7.48000E+06      1.10000E+06
-      6.58945E-02      4.20430E-03      7.81000E+06      1.10000E+06
-      8.61895E-02      1.24040E-02      8.97000E+06      1.60000E+06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.9560E-02        2.3532E-03        6.8600E+06        1.1000E+06
+        4.3026E-02        6.9400E-04        6.9800E+06        1.2000E+06
+        5.3663E-02        5.4313E-03        7.4800E+06        1.1000E+06
+        6.5894E-02        4.2043E-03        7.8100E+06        1.1000E+06
+        8.6190E-02        1.2404E-02        8.9700E+06        1.6000E+06

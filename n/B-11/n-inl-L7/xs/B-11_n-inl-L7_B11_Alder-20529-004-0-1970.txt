@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20529-004-0 
-# EXFOR reaction        : ['5-B-11', ['N,INL'], '5-B-11,PAR,SIG'] 
+# EXFOR reaction        : (5-B-11(N,INL)5-B-11,PAR,SIG) 
 # incident energy       : 1.4150e+01 MeV 
 # target                : B-11 
 # product               : B-11 
 # level energy          : 8.0000e+00 MeV 
 # MF-MT number          : 3 - 57 
-# first author          : J.C.Alder 
+# first author          : Alder 
 # institute             : (2SWTLAU): University of Lausanne 
 # reference             : (J,NP/A,147,657,197006) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20529.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20529
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41500E+01      1.00000E-01      5.00000E-03      1.50000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4150E+01        1.0000E-01        5.0000E-03        1.5000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31114-002-0 
-# EXFOR reaction        : ['49-IN-0', ['N,X'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (49-IN-0(N,X)2-HE-4,,SIG) 
 # incident energy       : 1.4000e+01 MeV 
 # target                : In-0 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : B.Sen 
+# first author          : Sen 
 # institute             : (3INDSAH): Saha Institute of Nuclear Physics, Kolkata 
 # reference             : (J,NP,38,601,1962) 
 # year                  : 1962 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/311/31114.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31114
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40000E+01      0.00000E+00      7.14000E-03      7.14000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        0.0000E+00        7.1400E-03        7.1400E-04

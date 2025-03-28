@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10493-013-0 
-# EXFOR reaction        : ['40-ZR-90', ['N,2N'], '40-ZR-89-G,,SIG'] 
+# EXFOR reaction        : (40-ZR-90(N,2N)40-ZR-89-G,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Zr-90 
 # product               : Zr-89-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : P.K.Eapen 
+# first author          : Eapen 
 # institute             : (1USASMU): Southern Methodist University, Dallas, TX 
 # reference             : (J,JIN,37,1121,197505) 
 # year                  : 1975 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10493.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10493
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      9.32000E-01      7.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        9.3200E-01        7.5000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1837-002-0 
-# EXFOR reaction        : ['83-BI-209', ['P,F'], ',,SIG'] 
+# EXFOR reaction        : (83-BI-209(P,F),,SIG) 
 # incident energy       : 4.7500e+01 MeV - 1.7730e+02 MeV 
 # target                : Bi-209 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : A.N.Smirnov 
+# first author          : Smirnov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (C,2004SANTA,,637,2004) 
 # year                  : 2004 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O18/O1837.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1837
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.75000E+01      5.00000E-01      1.03000E-02      1.03000E-03
-      4.92000E+01      5.00000E-01      1.26000E-02      1.26000E-03
-      9.75000E+01      2.00000E+00      9.40000E-02      9.40000E-03
-      1.77300E+02      1.20000E+00      1.62000E-01      1.62000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.7500E+01        5.0000E-01        1.0300E-02        1.0300E-03
+        4.9200E+01        5.0000E-01        1.2600E-02        1.2600E-03
+        9.7500E+01        2.0000E+00        9.4000E-02        9.4000E-03
+        1.7730E+02        1.2000E+00        1.6200E-01        1.6200E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1291-003-0 
-# EXFOR reaction        : ['46-PD-105', ['P,G'], '47-AG-106,,SIG'] 
+# EXFOR reaction        : (46-PD-105(P,G)47-AG-106,,SIG) 
 # incident energy       : 2.8100e+00 MeV - 4.9440e+00 MeV 
 # target                : Pd-105 
 # product               : Ag-106 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.Spyrou 
+# first author          : Spyrou 
 # institute             : (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
 # reference             : (J,PR/C,77,065801,2008) 
 # year                  : 2008 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O12/O1291.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1291
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.81000E+00      0.00000E+00      1.40000E-05      3.00000E-06
-      3.05900E+00      0.00000E+00      3.20000E-05      8.00000E-06
-      3.30700E+00      0.00000E+00      5.90000E-05      1.40000E-05
-      3.55000E+00      0.00000E+00      1.10000E-04      2.00000E-05
-      3.80300E+00      0.00000E+00      1.50000E-04      3.00000E-05
-      4.05100E+00      0.00000E+00      1.90000E-04      4.00000E-05
-      4.29900E+00      0.00000E+00      2.10000E-04      5.00000E-05
-      4.54200E+00      0.00000E+00      3.60000E-04      8.00000E-05
-      4.94400E+00      0.00000E+00      3.90000E-04      9.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.8100E+00        0.0000E+00        1.4000E-05        3.0000E-06
+        3.0590E+00        0.0000E+00        3.2000E-05        8.0000E-06
+        3.3070E+00        0.0000E+00        5.9000E-05        1.4000E-05
+        3.5500E+00        0.0000E+00        1.1000E-04        2.0000E-05
+        3.8030E+00        0.0000E+00        1.5000E-04        3.0000E-05
+        4.0510E+00        0.0000E+00        1.9000E-04        4.0000E-05
+        4.2990E+00        0.0000E+00        2.1000E-04        5.0000E-05
+        4.5420E+00        0.0000E+00        3.6000E-04        8.0000E-05
+        4.9440E+00        0.0000E+00        3.9000E-04        9.0000E-05

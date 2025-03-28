@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41600-006-3 
-# EXFOR reaction        : ['99-ES-253', ['N,G'], '99-ES-254,,SIG,,SPA'] 
+# EXFOR reaction        : (99-ES-253(N,G)99-ES-254,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Es-253 
 # product               : Es-254 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.A.Anufriev 
+# first author          : Anufriev 
 # institute             : (4RUSNIR): NIIAR Dimitrovgrad 
 # reference             : (J,AE,36,(4),286,1974) 
 # year                  : 1974 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41600.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41600
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      9.80000E+02      9.00000E+01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        9.8000E+02        9.0000E+01

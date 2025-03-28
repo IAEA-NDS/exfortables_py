@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2146-002-0 
-# EXFOR reaction        : ['1-H-2', ['D,P'], '1-H-3,,SIG,,SFC,DERIV'] 
+# EXFOR reaction        : (1-H-2(D,P)1-H-3,,SIG,,SFC,DERIV) 
 # incident energy       : 7.5000e-02 MeV - 8.2500e-01 MeV 
 # target                : H-2 
 # product               : H-3 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : R.G.Pizzone 
+# first author          : Pizzone 
 # institute             : (2ITYLNS): INFN Laboratori Nazionali del Sud, Catania 
 # reference             : (J,PR/C,87,025805,2013) 
 # year                  : 2013 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2146.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2146
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.50000E-02      0.00000E+00      8.65000E+04      0.00000E+00
-      2.25000E-01      0.00000E+00      1.22500E+05      0.00000E+00
-      3.75000E-01      0.00000E+00      1.25000E+05      0.00000E+00
-      5.25000E-01      0.00000E+00      1.45000E+05      0.00000E+00
-      6.75000E-01      0.00000E+00      2.13000E+05      0.00000E+00
-      8.25000E-01      0.00000E+00      2.10000E+05      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.5000E-02        0.0000E+00        8.6500E+04        0.0000E+00
+        2.2500E-01        0.0000E+00        1.2250E+05        0.0000E+00
+        3.7500E-01        0.0000E+00        1.2500E+05        0.0000E+00
+        5.2500E-01        0.0000E+00        1.4500E+05        0.0000E+00
+        6.7500E-01        0.0000E+00        2.1300E+05        0.0000E+00
+        8.2500E-01        0.0000E+00        2.1000E+05        0.0000E+00

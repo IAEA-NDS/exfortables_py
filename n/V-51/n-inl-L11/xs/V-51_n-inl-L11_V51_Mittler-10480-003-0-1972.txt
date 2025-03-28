@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10480-003-0 
-# EXFOR reaction        : ['23-V-51', ['N,INL'], '23-V-51,PAR,SIG'] 
+# EXFOR reaction        : (23-V-51(N,INL)23-V-51,PAR,SIG) 
 # incident energy       : 2.9000e+00 MeV - 4.5000e+00 MeV 
 # target                : V-51 
 # product               : V-51 
 # level energy          : 2.6990e+00 MeV 
 # MF-MT number          : 3 - 61 
-# first author          : A.Mittler 
+# first author          : Mittler 
 # institute             : (1USALTI): University of Massachusetts at Lowell, MA 
 # reference             : (J,BAP,17,555(HE4),197204) 
 # year                  : 1972 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10480.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10480
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.90000E+00      0.00000E+00      1.92000E-02      4.80000E-03
-      3.10000E+00      0.00000E+00      2.00000E-02      5.00000E-03
-      3.30000E+00      0.00000E+00      4.00000E-02      1.20000E-02
-      3.50000E+00      0.00000E+00      2.10000E-02      5.00000E-03
-      3.70000E+00      0.00000E+00      2.70000E-02      7.00000E-03
-      3.90000E+00      0.00000E+00      3.90000E-02      1.00000E-02
-      4.10000E+00      0.00000E+00      3.40000E-02      9.00000E-03
-      4.30000E+00      0.00000E+00      4.00000E-02      1.00000E-02
-      4.50000E+00      0.00000E+00      3.40000E-02      8.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9000E+00        0.0000E+00        1.9200E-02        4.8000E-03
+        3.1000E+00        0.0000E+00        2.0000E-02        5.0000E-03
+        3.3000E+00        0.0000E+00        4.0000E-02        1.2000E-02
+        3.5000E+00        0.0000E+00        2.1000E-02        5.0000E-03
+        3.7000E+00        0.0000E+00        2.7000E-02        7.0000E-03
+        3.9000E+00        0.0000E+00        3.9000E-02        1.0000E-02
+        4.1000E+00        0.0000E+00        3.4000E-02        9.0000E-03
+        4.3000E+00        0.0000E+00        4.0000E-02        1.0000E-02
+        4.5000E+00        0.0000E+00        3.4000E-02        8.0000E-03

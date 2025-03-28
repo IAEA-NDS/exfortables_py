@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10835-023-0 
-# EXFOR reaction        : ['75-RE-185', ['N,P'], '74-W-185-M,,SIG'] 
+# EXFOR reaction        : (75-RE-185(N,P)74-W-185-M,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Re-185 
 # product               : W-185-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : S.Sothras 
+# first author          : Sothras 
 # institute             : (1USASMU): Southern Methodist University, Dallas, TX 
 # reference             : (T,SOTHRAS,1977) 
 # year                  : 1977 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10835.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10835
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      6.20000E-02      6.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        6.2000E-02        6.0000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4370-015-0 
-# EXFOR reaction        : ['65-TB-159', ['P,X'], '64-GD-151,CUM,SIG'] 
+# EXFOR reaction        : (65-TB-159(P,X)64-GD-151,CUM,SIG) 
 # incident energy       : 3.9890e+01 MeV - 6.4950e+01 MeV 
 # target                : Tb-159 
 # product               : Gd-151 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,ARI,127,7,2017) 
 # year                  : 2017 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4370.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4370
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.49500E+01      2.00000E-01      5.46000E-03      6.80000E-04
-      6.07100E+01      3.40000E-01      6.41000E-03      8.20000E-04
-      5.61600E+01      5.00000E-01      6.34000E-03      7.70000E-04
-      5.40100E+01      5.70000E-01      6.49000E-03      8.30000E-04
-      4.87700E+01      7.50000E-01      5.76000E-03      7.50000E-04
-      3.98900E+01      1.05000E+00      5.07000E-03      6.60000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.4950E+01        2.0000E-01        5.4600E-03        6.8000E-04
+        6.0710E+01        3.4000E-01        6.4100E-03        8.2000E-04
+        5.6160E+01        5.0000E-01        6.3400E-03        7.7000E-04
+        5.4010E+01        5.7000E-01        6.4900E-03        8.3000E-04
+        4.8770E+01        7.5000E-01        5.7600E-03        7.5000E-04
+        3.9890E+01        1.0500E+00        5.0700E-03        6.6000E-04

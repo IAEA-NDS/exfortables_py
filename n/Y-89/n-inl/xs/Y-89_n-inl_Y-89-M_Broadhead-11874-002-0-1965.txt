@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11874-002-0 
-# EXFOR reaction        : ['39-Y-89', ['N,INL'], '39-Y-89-M,,SIG'] 
+# EXFOR reaction        : (39-Y-89(N,INL)39-Y-89-M,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Y-89 
 # product               : Y-89-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : K.G.Broadhead 
+# first author          : Broadhead 
 # institute             : (1USAREN): Reno Metallurgical Research Center, Reno, NV 
 # reference             : (J,PR,139,B1525,1965) 
 # year                  : 1965 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11874.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11874
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      3.00000E-01      4.00000E-01      4.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        3.0000E-01        4.0000E-01        4.7000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21248-004-0 
-# EXFOR reaction        : ['25-MN-55', ['N,T'], '24-CR-53,,SIG,,FIS'] 
+# EXFOR reaction        : (25-MN-55(N,T)24-CR-53,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Mn-55 
 # product               : Cr-53 
 # level energy          : - 
 # MF-MT number          : 3 - 105 
-# first author          : F.Heinrich 
+# first author          : Heinrich 
 # institute             : (2SWTETH): Eidgenossische Technische Hochschule, Zuerich 
 # reference             : (J,HPA,36,298,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21248.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21248
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      1.70000E-07      3.00000E-08
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.7000E-07        3.0000E-08

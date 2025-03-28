@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10205-003-0 
-# EXFOR reaction        : ['22-TI-46', ['N,P'], '21-SC-46,,SIG'] 
+# EXFOR reaction        : (22-TI-46(N,P)21-SC-46,,SIG) 
 # incident energy       : 6.0100e+00 MeV - 7.0400e+00 MeV 
 # target                : Ti-46 
 # product               : Sc-46 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : Y.Lukic 
+# first author          : Lukic 
 # institute             : (1USAFLA): University of Florida, Gainesville, FL 
 # reference             : (J,NSE,43,233,1971) 
 # year                  : 1971 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10205.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10205
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.01000E+00      0.00000E+00      1.39000E-01      2.10000E-02
-      6.53000E+00      0.00000E+00      1.97000E-01      3.30000E-02
-      7.04000E+00      0.00000E+00      2.05000E-01      3.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0100E+00        0.0000E+00        1.3900E-01        2.1000E-02
+        6.5300E+00        0.0000E+00        1.9700E-01        3.3000E-02
+        7.0400E+00        0.0000E+00        2.0500E-01        3.1000E-02

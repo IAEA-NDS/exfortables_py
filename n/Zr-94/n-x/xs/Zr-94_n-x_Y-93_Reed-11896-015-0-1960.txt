@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11896-015-0 
-# EXFOR reaction        : ['40-ZR-94', ['N,X'], '39-Y-93,,SIG'] 
+# EXFOR reaction        : (40-ZR-94(N,X)39-Y-93,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Zr-94 
 # product               : Y-93 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : C.H.Reed 
+# first author          : Reed 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : ((R,TID-11929,1960)=(T,REED,1960)) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11896.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11896
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      0.00000E+00      8.00000E-04      1.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        8.0000E-04        1.0000E-04

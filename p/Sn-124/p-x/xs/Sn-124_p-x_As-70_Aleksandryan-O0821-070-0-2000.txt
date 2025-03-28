@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0821-070-0 
-# EXFOR reaction        : ['50-SN-124', ['P,X'], '33-AS-70,CUM,SIG'] 
+# EXFOR reaction        : (50-SN-124(P,X)33-AS-70,CUM,SIG) 
 # incident energy       : 1.0000e+03 MeV - 8.1000e+03 MeV 
 # target                : Sn-124 
 # product               : As-70 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : V.Aleksandryan 
+# first author          : Aleksandryan 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (J,NP/A,674,539,2000) 
 # year                  : 2000 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O08/O0821.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0821
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+03      0.00000E+00      2.50000E-04      5.00000E-05
-      8.10000E+03      0.00000E+00      8.50000E-04      1.50000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+03        0.0000E+00        2.5000E-04        5.0000E-05
+        8.1000E+03        0.0000E+00        8.5000E-04        1.5000E-04

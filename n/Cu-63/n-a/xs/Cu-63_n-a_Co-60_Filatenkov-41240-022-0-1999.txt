@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41240-022-0 
-# EXFOR reaction        : ['29-CU-63', ['N,A'], '27-CO-60,,SIG'] 
+# EXFOR reaction        : (29-CU-63(N,A)27-CO-60,,SIG) 
 # incident energy       : 1.3470e+01 MeV - 1.4860e+01 MeV 
 # target                : Cu-63 
 # product               : Co-60 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,RI-252,1999) 
 # year                  : 1999 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41240.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41240
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34700E+01      0.00000E+00      4.75000E-02      2.70000E-03
-      1.36400E+01      0.00000E+00      4.56000E-02      1.60000E-03
-      1.38800E+01      0.00000E+00      4.56000E-02      2.50000E-03
-      1.40500E+01      0.00000E+00      4.55000E-02      1.40000E-03
-      1.42800E+01      0.00000E+00      4.58000E-02      1.40000E-03
-      1.44400E+01      0.00000E+00      4.61000E-02      1.70000E-03
-      1.46300E+01      0.00000E+00      4.32000E-02      1.50000E-03
-      1.48600E+01      0.00000E+00      4.23000E-02      1.30000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3470E+01        0.0000E+00        4.7500E-02        2.7000E-03
+        1.3640E+01        0.0000E+00        4.5600E-02        1.6000E-03
+        1.3880E+01        0.0000E+00        4.5600E-02        2.5000E-03
+        1.4050E+01        0.0000E+00        4.5500E-02        1.4000E-03
+        1.4280E+01        0.0000E+00        4.5800E-02        1.4000E-03
+        1.4440E+01        0.0000E+00        4.6100E-02        1.7000E-03
+        1.4630E+01        0.0000E+00        4.3200E-02        1.5000E-03
+        1.4860E+01        0.0000E+00        4.2300E-02        1.3000E-03

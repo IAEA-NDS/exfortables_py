@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22140-015-0 
-# EXFOR reaction        : ['22-TI-50', ['N,A'], '20-CA-47,,SIG,,FIS'] 
+# EXFOR reaction        : (22-TI-50(N,A)20-CA-47,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Ti-50 
 # product               : Ca-47 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : O.Horibe 
+# first author          : Horibe 
 # institute             : (2JPNKNK): Kinki University ,Higashi Osaka 
 # reference             : (C,89WASH,2,923,1989) 
 # year                  : 1989 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22140.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22140
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      2.10000E-05      2.10000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        2.1000E-05        2.1000E-06

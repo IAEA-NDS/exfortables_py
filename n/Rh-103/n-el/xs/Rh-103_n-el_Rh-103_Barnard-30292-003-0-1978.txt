@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30292-003-0 
-# EXFOR reaction        : ['45-RH-103', ['N,EL'], '45-RH-103,,SIG'] 
+# EXFOR reaction        : (45-RH-103(N,EL)45-RH-103,,SIG) 
 # incident energy       : 2.0000e-01 MeV - 1.3000e+00 MeV 
 # target                : Rh-103 
 # product               : Rh-103 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : E.Barnard 
+# first author          : Barnard 
 # institute             : (3SAFPEL): Atomic Energy Corp.of South Africa, Pelindaba 
 # reference             : (J,NP/A,303,27,1978) 
 # year                  : 1978 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/302/30292.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30292
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-01      0.00000E+00      1.20000E+01      9.60000E-01
-      4.00000E-01      0.00000E+00      1.01100E+01      8.10000E-01
-      6.00000E-01      0.00000E+00      6.67000E+00      5.30000E-01
-      8.00000E-01      0.00000E+00      6.03000E+00      4.80000E-01
-      9.00000E-01      0.00000E+00      5.56000E+00      4.50000E-01
-      1.00000E+00      0.00000E+00      5.22000E+00      4.20000E-01
-      1.10000E+00      0.00000E+00      4.85000E+00      3.90000E-01
-      1.20000E+00      0.00000E+00      4.53000E+00      3.60000E-01
-      1.30000E+00      0.00000E+00      4.22000E+00      3.40000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-01        0.0000E+00        1.2000E+01        9.6000E-01
+        4.0000E-01        0.0000E+00        1.0110E+01        8.1000E-01
+        6.0000E-01        0.0000E+00        6.6700E+00        5.3000E-01
+        8.0000E-01        0.0000E+00        6.0300E+00        4.8000E-01
+        9.0000E-01        0.0000E+00        5.5600E+00        4.5000E-01
+        1.0000E+00        0.0000E+00        5.2200E+00        4.2000E-01
+        1.1000E+00        0.0000E+00        4.8500E+00        3.9000E-01
+        1.2000E+00        0.0000E+00        4.5300E+00        3.6000E-01
+        1.3000E+00        0.0000E+00        4.2200E+00        3.4000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1130-003-0 
-# EXFOR reaction        : ['56-BA-0', ['P,X'], '54-XE-126,,SIG'] 
+# EXFOR reaction        : (56-BA-0(P,X)54-XE-126,,SIG) 
 # incident energy       : 7.3000e+02 MeV 
 # target                : Ba-0 
 # product               : Xe-126 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Funk 
+# first author          : Funk 
 # institute             : (1USAUCX): University of California, Berkeley, CA 
 # reference             : (J,EPL,3,193,1967) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C11/C1130.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1130
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.30000E+02      0.00000E+00      4.30000E-02      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.3000E+02        0.0000E+00        4.3000E-02        1.0000E-02

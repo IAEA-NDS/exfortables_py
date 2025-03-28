@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40221-003-0 
-# EXFOR reaction        : ['4-BE-9', ['N,EL'], '4-BE-9,,SIG'] 
+# EXFOR reaction        : (4-BE-9(N,EL)4-BE-9,,SIG) 
 # incident energy       : 4.0000e+00 MeV 
 # target                : Be-9 
 # product               : Be-9 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : G.V.Gorlov 
+# first author          : Gorlov 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (J,SPD,9,806,1965) 
 # year                  : 1965 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40221.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40221
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+00      5.00000E-02      1.37000E+00      9.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+00        5.0000E-02        1.3700E+00        9.0000E-02

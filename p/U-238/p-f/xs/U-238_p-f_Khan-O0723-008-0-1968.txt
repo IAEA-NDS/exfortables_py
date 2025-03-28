@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0723-008-0 
-# EXFOR reaction        : ['92-U-238', ['P,F'], '31-GA-70,IND,SIG'] 
+# EXFOR reaction        : (92-U-238(P,F)31-GA-70,IND,SIG) 
 # incident energy       : 7.0000e+01 MeV - 8.5000e+01 MeV 
 # target                : U-238 
 # product               : Ga-70 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : A.H.Khan 
+# first author          : Khan 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,CJC,46,3565,1968) 
 # year                  : 1968 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0723.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0723
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.00000E+01      0.00000E+00      3.70000E-04      0.00000E+00
-      7.70000E+01      0.00000E+00      5.20000E-04      0.00000E+00
-      8.50000E+01      0.00000E+00      8.20000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0000E+01        0.0000E+00        3.7000E-04        0.0000E+00
+        7.7000E+01        0.0000E+00        5.2000E-04        0.0000E+00
+        8.5000E+01        0.0000E+00        8.2000E-04        0.0000E+00

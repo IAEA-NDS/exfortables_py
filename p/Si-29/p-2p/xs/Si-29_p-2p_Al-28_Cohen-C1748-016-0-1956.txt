@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1748-016-0 
-# EXFOR reaction        : ['14-SI-29', ['P,2P'], '13-AL-28,,SIG'] 
+# EXFOR reaction        : (14-SI-29(P,2P)13-AL-28,,SIG) 
 # incident energy       : 1.8710e+01 MeV - 2.8766e+01 MeV 
 # target                : Si-29 
 # product               : Al-28 
 # level energy          : - 
 # MF-MT number          : 3 - 111 
-# first author          : B.L.Cohen 
+# first author          : Cohen 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,PR,102,453,1956) 
 # year                  : 1956 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C17/C1748.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1748
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.87100E+01      0.00000E+00      5.67900E-02      0.00000E+00
-      2.49090E+01      0.00000E+00      1.73700E-01      0.00000E+00
-      2.65380E+01      0.00000E+00      1.77200E-01      0.00000E+00
-      2.87660E+01      0.00000E+00      1.62100E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8710E+01        0.0000E+00        5.6790E-02        0.0000E+00
+        2.4909E+01        0.0000E+00        1.7370E-01        0.0000E+00
+        2.6538E+01        0.0000E+00        1.7720E-01        0.0000E+00
+        2.8766E+01        0.0000E+00        1.6210E-01        0.0000E+00

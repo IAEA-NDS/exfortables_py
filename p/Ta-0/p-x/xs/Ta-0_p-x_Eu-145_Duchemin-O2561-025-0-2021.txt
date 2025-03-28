@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2561-025-0 
-# EXFOR reaction        : ['73-TA-0', ['P,X'], '63-EU-145,CUM,SIG'] 
+# EXFOR reaction        : (73-TA-0(P,X)63-EU-145,CUM,SIG) 
 # incident energy       : 5.0000e+02 MeV - 1.7000e+03 MeV 
 # target                : Ta-0 
 # product               : Eu-145 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : C.Duchemin 
+# first author          : Duchemin 
 # institute             : (2ITYITY): Italy 
 # reference             : (J,ARI,178,109983,2021) 
 # year                  : 2021 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O25/O2561.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2561
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.00000E+02      0.00000E+00      3.78000E-03      6.10000E-04
-      6.00000E+02      0.00000E+00      7.55000E-03      1.00000E-03
-      7.00000E+02      0.00000E+00      1.23000E-02      1.60000E-03
-      9.00000E+02      0.00000E+00      1.71000E-02      2.60000E-03
-      1.00000E+03      0.00000E+00      2.35000E-02      3.20000E-03
-      1.10000E+03      0.00000E+00      2.64000E-02      4.50000E-03
-      1.30000E+03      0.00000E+00      2.82000E-02      3.00000E-03
-      1.70000E+03      0.00000E+00      2.49000E-02      3.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+02        0.0000E+00        3.7800E-03        6.1000E-04
+        6.0000E+02        0.0000E+00        7.5500E-03        1.0000E-03
+        7.0000E+02        0.0000E+00        1.2300E-02        1.6000E-03
+        9.0000E+02        0.0000E+00        1.7100E-02        2.6000E-03
+        1.0000E+03        0.0000E+00        2.3500E-02        3.2000E-03
+        1.1000E+03        0.0000E+00        2.6400E-02        4.5000E-03
+        1.3000E+03        0.0000E+00        2.8200E-02        3.0000E-03
+        1.7000E+03        0.0000E+00        2.4900E-02        3.1000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M0968-005-0 
-# EXFOR reaction        : ['42-MO-98', ['G,3N'], '42-MO-95,,SIG,,,EVAL'] 
+# EXFOR reaction        : (42-MO-98(G,3N)42-MO-95,,SIG,,,EVAL) 
 # incident energy       : 2.5560e+01 MeV - 2.6760e+01 MeV 
 # target                : Mo-98 
 # product               : Mo-95 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : V.V.Varlamov 
+# first author          : Varlamov 
 # institute             : (4RUSMOS): Moscow State University , Moscow 
 # reference             : (J,VMU,1,68,2018) 
 # year                  : 2018 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M09/M0968.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M0968
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.55600E+01      0.00000E+00      7.20000E-04      1.10000E-04
-      2.61600E+01      0.00000E+00      2.79000E-03      4.40000E-04
-      2.67600E+01      0.00000E+00      3.57000E-03      7.70000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5560E+01        0.0000E+00        7.2000E-04        1.1000E-04
+        2.6160E+01        0.0000E+00        2.7900E-03        4.4000E-04
+        2.6760E+01        0.0000E+00        3.5700E-03        7.7000E-04

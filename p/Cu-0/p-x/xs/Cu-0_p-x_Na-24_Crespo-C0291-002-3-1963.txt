@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0291-002-3 
-# EXFOR reaction        : ['29-CU-0', ['P,X'], '11-NA-24,,SIG'] 
+# EXFOR reaction        : (29-CU-0(P,X)11-NA-24,,SIG) 
 # incident energy       : 7.0000e+02 MeV 
 # target                : Cu-0 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : V.P.Crespo 
+# first author          : Crespo 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,131,1765,6308) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0291.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0291
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.00000E+02      0.00000E+00      3.68000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0000E+02        0.0000E+00        3.6800E-04        0.0000E+00

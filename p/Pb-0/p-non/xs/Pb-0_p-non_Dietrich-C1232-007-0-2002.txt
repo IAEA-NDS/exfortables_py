@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1232-007-0 
-# EXFOR reaction        : ['82-PB-0', ['P,NON'], ',,SIG'] 
+# EXFOR reaction        : (82-PB-0(P,NON),,SIG) 
 # incident energy       : 5.3410e+02 MeV - 3.5120e+03 MeV 
 # target                : Pb-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : F.S.Dietrich 
+# first author          : Dietrich 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,NSTS,2,(1),269,2002) 
 # year                  : 2002 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C12/C1232.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1232
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.34100E+02      0.00000E+00      1.70000E+00      5.01000E-02
-      8.06000E+02      0.00000E+00      1.81000E+00      5.19000E-02
-      1.09100E+03      0.00000E+00      1.82000E+00      5.37000E-02
-      1.37100E+03      0.00000E+00      1.86000E+00      5.73000E-02
-      1.66300E+03      0.00000E+00      1.84000E+00      5.37000E-02
-      2.65200E+03      0.00000E+00      1.85000E+00      5.55000E-02
-      3.51200E+03      0.00000E+00      1.86000E+00      5.19000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.3410E+02        0.0000E+00        1.7000E+00        5.0100E-02
+        8.0600E+02        0.0000E+00        1.8100E+00        5.1900E-02
+        1.0910E+03        0.0000E+00        1.8200E+00        5.3700E-02
+        1.3710E+03        0.0000E+00        1.8600E+00        5.7300E-02
+        1.6630E+03        0.0000E+00        1.8400E+00        5.3700E-02
+        2.6520E+03        0.0000E+00        1.8500E+00        5.5500E-02
+        3.5120E+03        0.0000E+00        1.8600E+00        5.1900E-02

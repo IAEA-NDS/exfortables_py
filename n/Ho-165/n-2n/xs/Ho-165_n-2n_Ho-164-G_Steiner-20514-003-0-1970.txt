@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20514-003-0 
-# EXFOR reaction        : ['67-HO-165', ['N,2N'], '67-HO-164-G,,SIG'] 
+# EXFOR reaction        : (67-HO-165(N,2N)67-HO-164-G,,SIG) 
 # incident energy       : 1.2600e+01 MeV - 1.8500e+01 MeV 
 # target                : Ho-165 
 # product               : Ho-164-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : E.Steiner 
+# first author          : Steiner 
 # institute             : (2SWTBAS): University of Basel, Basel 
 # reference             : (J,HPA,43,17,1970) 
 # year                  : 1970 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20514.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20514
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.26000E+01      5.00000E-02      3.50000E-01      7.00000E-02
-      1.47000E+01      5.00000E-02      6.00000E-01      1.20000E-01
-      1.66000E+01      5.00000E-02      3.00000E-01      6.00000E-02
-      1.80000E+01      5.00000E-02      2.80000E-01      6.00000E-02
-      1.85000E+01      5.00000E-02      3.90000E-01      8.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2600E+01        5.0000E-02        3.5000E-01        7.0000E-02
+        1.4700E+01        5.0000E-02        6.0000E-01        1.2000E-01
+        1.6600E+01        5.0000E-02        3.0000E-01        6.0000E-02
+        1.8000E+01        5.0000E-02        2.8000E-01        6.0000E-02
+        1.8500E+01        5.0000E-02        3.9000E-01        8.0000E-02

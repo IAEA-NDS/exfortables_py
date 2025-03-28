@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22414-016-0 
-# EXFOR reaction        : ['25-MN-55', ['N,A'], '23-V-52,,SIG'] 
+# EXFOR reaction        : (25-MN-55(N,A)23-V-52,,SIG) 
 # incident energy       : 1.6065e+01 MeV - 2.0313e+01 MeV 
 # target                : Mn-55 
 # product               : V-52 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : A.Fessler 
+# first author          : Fessler 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,NSE,134,(2),171,2000) 
 # year                  : 2000 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22414.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22414
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.60650E+01      0.00000E+00      2.22200E-02      1.38000E-03
-      1.70280E+01      0.00000E+00      1.96400E-02      1.21000E-03
-      1.77770E+01      0.00000E+00      1.76400E-02      1.09000E-03
-      1.91010E+01      0.00000E+00      1.33300E-02      9.40000E-04
-      2.03130E+01      0.00000E+00      8.44000E-03      7.30000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6065E+01        0.0000E+00        2.2220E-02        1.3800E-03
+        1.7028E+01        0.0000E+00        1.9640E-02        1.2100E-03
+        1.7777E+01        0.0000E+00        1.7640E-02        1.0900E-03
+        1.9101E+01        0.0000E+00        1.3330E-02        9.4000E-04
+        2.0313E+01        0.0000E+00        8.4400E-03        7.3000E-04

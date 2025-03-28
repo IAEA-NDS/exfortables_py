@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20254-003-0 
-# EXFOR reaction        : ['80-HG-196', ['N,G'], '80-HG-197-M,,SIG'] 
+# EXFOR reaction        : (80-HG-196(N,G)80-HG-197-M,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Hg-196 
 # product               : Hg-197-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.I.Kim 
+# first author          : Kim 
 # institute             : (2BLGGHT): Universiteit Gent, Gent 
 # reference             : (J,RCA,8,165,6712) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20254.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20254
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.06700E+02      1.28000E+01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.0670E+02        1.2800E+01

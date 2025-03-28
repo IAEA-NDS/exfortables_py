@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13032-002-0 
-# EXFOR reaction        : ['27-CO-59', ['N,2N'], '27-CO-58,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,2N)27-CO-58,,SIG) 
 # incident energy       : 1.2620e+01 MeV - 1.6750e+01 MeV 
 # target                : Co-59 
 # product               : Co-58 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : B.D.Kern 
+# first author          : Kern 
 # institute             : (1USAKTY): University of Kentucky, Lexington, KY 
 # reference             : (P,A-KTY-59/60,3,6002) 
 # year                  : 1960 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/130/13032.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13032
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.26200E+01      0.00000E+00      3.50000E-01      0.00000E+00
-      1.67500E+01      0.00000E+00      7.00000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2620E+01        0.0000E+00        3.5000E-01        0.0000E+00
+        1.6750E+01        0.0000E+00        7.0000E-01        0.0000E+00

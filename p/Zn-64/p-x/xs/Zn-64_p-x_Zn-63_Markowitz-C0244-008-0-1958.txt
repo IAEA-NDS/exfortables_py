@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0244-008-0 
-# EXFOR reaction        : ['30-ZN-64', ['P,X'], '30-ZN-63,,SIG'] 
+# EXFOR reaction        : (30-ZN-64(P,X)30-ZN-63,,SIG) 
 # incident energy       : 4.0000e+02 MeV - 3.0000e+03 MeV 
 # target                : Zn-64 
 # product               : Zn-63 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.S.Markowitz 
+# first author          : Markowitz 
 # institute             : (1USAPTN): Princeton University, Princeton, NJ 
 # reference             : (J,PR,112,1295,1958) 
 # year                  : 1958 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0244.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0244
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+02      0.00000E+00      7.10000E-02      7.10000E-03
-      4.00000E+02      0.00000E+00      6.60000E-02      6.60000E-03
-      3.00000E+03      0.00000E+00      6.40000E-02      6.40000E-03
-      3.00000E+03      0.00000E+00      7.20000E-02      7.20000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+02        0.0000E+00        7.1000E-02        7.1000E-03
+        4.0000E+02        0.0000E+00        6.6000E-02        6.6000E-03
+        3.0000E+03        0.0000E+00        6.4000E-02        6.4000E-03
+        3.0000E+03        0.0000E+00        7.2000E-02        7.2000E-03

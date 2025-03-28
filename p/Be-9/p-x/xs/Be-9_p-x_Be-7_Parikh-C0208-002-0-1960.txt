@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0208-002-0 
-# EXFOR reaction        : ['4-BE-9', ['P,X'], '4-BE-7,,SIG'] 
+# EXFOR reaction        : (4-BE-9(P,X)4-BE-7,,SIG) 
 # incident energy       : 3.5200e+02 MeV 
 # target                : Be-9 
 # product               : Be-7 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : V.Parikh 
+# first author          : Parikh 
 # institute             : (2UK LVP): University of Liverpool, England 
 # reference             : (J,NP,18,646,1960) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0208.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0208
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.52000E+02      1.50000E+01      1.20000E-02      4.80000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5200E+02        1.5000E+01        1.2000E-02        4.8000E-04

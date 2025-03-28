@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23734-035-0 
-# EXFOR reaction        : ['26-FE-57', ['N,G'], '26-FE-58,,SIG,,MXW'] 
+# EXFOR reaction        : (26-FE-57(N,G)26-FE-58,,SIG,,MXW) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Fe-57 
 # product               : Fe-58 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : G.Giubrone 
+# first author          : Giubrone 
 # institute             : (2SPNVAL): Universidad de Valencia, Valencia 
 # reference             : (J,NDS,119,117,2014) 
 # year                  : 2014 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/237/23734.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23734
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      2.68000E-02      4.40000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        2.6800E-02        4.4000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23005-005-2 
-# EXFOR reaction        : ['8-O-16', ['N,A'], '6-C-13,PAR,SIG'] 
+# EXFOR reaction        : (8-O-16(N,A)6-C-13,PAR,SIG) 
 # incident energy       : 1.3700e+01 MeV - 1.5000e+01 MeV 
 # target                : O-16 
 # product               : C-13 
 # level energy          : 1.0000e-06 MeV 
 # MF-MT number          : 3 - 801 
-# first author          : T.Sanami 
+# first author          : Sanami 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (J,NIM/A,440,403,2000) 
 # year                  : 2000 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23005.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23005
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.37000E+01      0.00000E+00      1.57400E-01      1.15900E-02
-      1.41000E+01      0.00000E+00      1.13300E-01      1.51000E-02
-      1.50000E+01      0.00000E+00      7.58000E-02      4.17000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3700E+01        0.0000E+00        1.5740E-01        1.1590E-02
+        1.4100E+01        0.0000E+00        1.1330E-01        1.5100E-02
+        1.5000E+01        0.0000E+00        7.5800E-02        4.1700E-03

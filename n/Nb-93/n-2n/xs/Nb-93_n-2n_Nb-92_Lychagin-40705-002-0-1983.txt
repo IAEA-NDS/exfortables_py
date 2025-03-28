@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40705-002-0 
-# EXFOR reaction        : ['41-NB-93', ['N,2N'], '41-NB-92,,SIG'] 
+# EXFOR reaction        : (41-NB-93(N,2N)41-NB-92,,SIG) 
 # incident energy       : 1.4300e+01 MeV 
 # target                : Nb-93 
 # product               : Nb-92 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Lychagin 
+# first author          : Lychagin 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (R,FEI-1385,1983) 
 # year                  : 1983 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/407/40705.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40705
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.43000E+01      0.00000E+00      1.37000E+00      1.10000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4300E+01        0.0000E+00        1.3700E+00        1.1000E-01

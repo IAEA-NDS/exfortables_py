@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0378-002-0 
-# EXFOR reaction        : ['92-U-238', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (92-U-238(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 2.8000e+04 MeV 
 # target                : U-238 
 # product               : Sr-92 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Y.Y.Chu 
+# first author          : Chu 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,NP/B,40,428,1972) 
 # year                  : 1972 
@@ -13,5 +13,15 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0378.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0378
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.80000E+04      0.00000E+00      1.55000E-02      9.20000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.8000E+04        0.0000E+00        3.3200E-03        1.9000E-04
+        2.8000E+04        0.0000E+00        1.7050E-02        1.0000E-03
+        2.8000E+04        0.0000E+00        1.5500E-02        9.2000E-04
+        2.8000E+04        0.0000E+00        1.3100E-03        7.0000E-05
+        2.8000E+04        0.0000E+00        1.8520E-02        1.0400E-03
+        2.8000E+04        0.0000E+00        6.0400E-03        3.3000E-04
+        2.8000E+04        0.0000E+00        1.0010E-02        5.6000E-04
+        2.8000E+04        0.0000E+00        5.7600E-03        3.1000E-04
+        2.8000E+04        0.0000E+00        2.6900E-03        1.5000E-04
+        2.8000E+04        0.0000E+00        1.1200E-03        1.2000E-04
+        2.8000E+04        0.0000E+00        5.6000E-04        3.0000E-05

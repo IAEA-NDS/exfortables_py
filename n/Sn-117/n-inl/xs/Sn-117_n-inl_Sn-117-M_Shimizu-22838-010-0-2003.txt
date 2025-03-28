@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22838-010-0 
-# EXFOR reaction        : ['50-SN-117', ['N,INL'], '50-SN-117-M,,SIG'] 
+# EXFOR reaction        : (50-SN-117(N,INL)50-SN-117-M,,SIG) 
 # incident energy       : 2.0900e+00 MeV - 3.0900e+00 MeV 
 # target                : Sn-117 
 # product               : Sn-117-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : T.Shimizu 
+# first author          : Shimizu 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : ((S,JAERI-C-2003-006,138,2003)=(S,INDC(JPN)-191/U,138,2003)) 
 # year                  : 2003 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22838.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22838
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.09000E+00      0.00000E+00      4.27000E-01      2.43390E-02
-      2.90000E+00      0.00000E+00      3.99000E-01      2.27430E-02
-      2.69000E+00      0.00000E+00      3.45000E-01      1.86300E-02
-      2.46000E+00      0.00000E+00      3.12000E-01      1.68480E-02
-      2.27000E+00      0.00000E+00      2.85000E-01      1.53900E-02
-      2.09000E+00      0.00000E+00      2.38000E-01      1.33280E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0900E+00        0.0000E+00        4.2700E-01        2.4339E-02
+        2.9000E+00        0.0000E+00        3.9900E-01        2.2743E-02
+        2.6900E+00        0.0000E+00        3.4500E-01        1.8630E-02
+        2.4600E+00        0.0000E+00        3.1200E-01        1.6848E-02
+        2.2700E+00        0.0000E+00        2.8500E-01        1.5390E-02
+        2.0900E+00        0.0000E+00        2.3800E-01        1.3328E-02

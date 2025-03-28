@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22015-002-0 
-# EXFOR reaction        : ['42-MO-92', ['N,N+A'], '40-ZR-88,,SIG'] 
+# EXFOR reaction        : (42-MO-92(N,N+A)40-ZR-88,,SIG) 
 # incident energy       : 1.4100e+01 MeV - 1.4600e+01 MeV 
 # target                : Mo-92 
 # product               : Zr-88 
 # level energy          : - 
 # MF-MT number          : 3 - 22 
-# first author          : K.Kawade 
+# first author          : Kawade 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : (J,NST,22,851,1985) 
 # year                  : 1985 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22015.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22015
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      1.00000E-01      4.90000E-05      8.00000E-06
-      1.46000E+01      1.00000E-01      1.80000E-04      5.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        1.0000E-01        4.9000E-05        8.0000E-06
+        1.4600E+01        1.0000E-01        1.8000E-04        5.0000E-05

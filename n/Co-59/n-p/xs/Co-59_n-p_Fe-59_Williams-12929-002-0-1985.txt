@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12929-002-0 
-# EXFOR reaction        : ['27-CO-59', ['N,P'], '26-FE-59,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,P)26-FE-59,,SIG) 
 # incident energy       : 1.4200e+01 MeV - 1.8200e+01 MeV 
 # target                : Co-59 
 # product               : Fe-59 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : J.R.Williams 
+# first author          : Williams 
 # institute             : (1USAAUB): Auburn University, Auburn, AL 
 # reference             : ((J,RE,92,215,1986)=(C,85SANTA,1,215,1985)) 
 # year                  : 1985 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12929.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12929
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+01      2.00000E-01      5.28000E-02      3.40000E-03
-      1.52000E+01      2.00000E-01      4.74000E-02      3.30000E-03
-      1.62000E+01      2.00000E-01      4.22000E-02      3.00000E-03
-      1.72000E+01      2.00000E-01      4.01000E-02      3.00000E-03
-      1.82000E+01      2.00000E-01      3.95000E-02      3.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        2.0000E-01        5.2800E-02        3.4000E-03
+        1.5200E+01        2.0000E-01        4.7400E-02        3.3000E-03
+        1.6200E+01        2.0000E-01        4.2200E-02        3.0000E-03
+        1.7200E+01        2.0000E-01        4.0100E-02        3.0000E-03
+        1.8200E+01        2.0000E-01        3.9500E-02        3.0000E-03

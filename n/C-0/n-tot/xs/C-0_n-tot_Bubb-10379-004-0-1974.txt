@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10379-004-0 
-# EXFOR reaction        : ['6-C-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (6-C-0(N,TOT),,SIG) 
 # incident energy       : 2.2900e+01 MeV - 4.4150e+01 MeV 
 # target                : C-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : I.F.Bubb 
+# first author          : Bubb 
 # institute             : (1CANMNA): University of Manitoba, Cyclotron Laboratory , Winnipeg, Manitoba 
 # reference             : (J,CJP,52,648,197404) 
 # year                  : 1974 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/103/10379.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10379
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.29000E+01      0.00000E+00      1.40700E+00      1.30000E-02
-      2.91000E+01      0.00000E+00      1.33000E+00      1.30000E-02
-      3.52000E+01      0.00000E+00      1.24700E+00      8.00000E-03
-      4.12000E+01      0.00000E+00      1.14400E+00      8.00000E-03
-      4.41500E+01      0.00000E+00      1.06300E+00      8.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2900E+01        0.0000E+00        1.4070E+00        1.3000E-02
+        2.9100E+01        0.0000E+00        1.3300E+00        1.3000E-02
+        3.5200E+01        0.0000E+00        1.2470E+00        8.0000E-03
+        4.1200E+01        0.0000E+00        1.1440E+00        8.0000E-03
+        4.4150E+01        0.0000E+00        1.0630E+00        8.0000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22336-003-0 
-# EXFOR reaction        : ['29-CU-63', ['N,X'], '1-H-1,,SIG'] 
+# EXFOR reaction        : (29-CU-63(N,X)1-H-1,,SIG) 
 # incident energy       : 2.0000e+00 MeV - 1.5500e+01 MeV 
 # target                : Cu-63 
 # product               : H-1 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : C.Tsabaris 
+# first author          : Tsabaris 
 # institute             : (2GRCGRC): Greece 
 # reference             : (C,94GATLIN,,282,9405) 
 # year                  : 1994 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22336.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22336
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+00      5.00000E-02      1.80000E-02      1.60000E-03
-      3.00000E+00      5.00000E-02      4.28000E-02      2.90000E-03
-      5.50000E+00      5.00000E-02      6.29000E-02      4.10000E-03
-      6.50000E+00      5.00000E-02      6.85000E-02      4.70000E-03
-      8.00000E+00      5.00000E-02      7.57000E-02      3.70000E-03
-      9.00000E+00      5.00000E-02      1.21600E-01      6.70000E-03
-      1.55000E+01      5.00000E-02      3.51100E-01      3.41000E-02
-      1.55000E+01      5.00000E-02      3.52700E-01      3.54000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+00        5.0000E-02        1.8000E-02        1.6000E-03
+        3.0000E+00        5.0000E-02        4.2800E-02        2.9000E-03
+        5.5000E+00        5.0000E-02        6.2900E-02        4.1000E-03
+        6.5000E+00        5.0000E-02        6.8500E-02        4.7000E-03
+        8.0000E+00        5.0000E-02        7.5700E-02        3.7000E-03
+        9.0000E+00        5.0000E-02        1.2160E-01        6.7000E-03
+        1.5500E+01        5.0000E-02        3.5110E-01        3.4100E-02
+        1.5500E+01        5.0000E-02        3.5270E-01        3.5400E-02

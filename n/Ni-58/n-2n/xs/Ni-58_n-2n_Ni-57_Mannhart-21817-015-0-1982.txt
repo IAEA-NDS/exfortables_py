@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21817-015-0 
-# EXFOR reaction        : ['28-NI-58', ['N,2N'], '28-NI-57,,SIG,,FIS'] 
+# EXFOR reaction        : (28-NI-58(N,2N)28-NI-57,,SIG,,FIS) 
 # incident energy       : 1.4200e+00 MeV 
 # target                : Ni-58 
 # product               : Ni-57 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : W.Mannhart 
+# first author          : Mannhart 
 # institute             : (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
 # reference             : (C,82ANTWER,,429,1982) 
 # year                  : 1982 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21817.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21817
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+00      0.00000E+00      1.01000E-05      1.20000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+00        0.0000E+00        1.0100E-05        1.2000E-05

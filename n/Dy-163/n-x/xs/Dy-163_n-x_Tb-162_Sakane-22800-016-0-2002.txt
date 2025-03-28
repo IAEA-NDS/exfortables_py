@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22800-016-0 
-# EXFOR reaction        : ['66-DY-163', ['N,X'], '65-TB-162,,SIG'] 
+# EXFOR reaction        : (66-DY-163(N,X)65-TB-162,,SIG) 
 # incident energy       : 1.3400e+01 MeV - 1.4870e+01 MeV 
 # target                : Dy-163 
 # product               : Tb-162 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Sakane 
+# first author          : Sakane 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : (J,ANE,29,53,2002) 
 # year                  : 2002 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22800.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22800
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48700E+01      0.00000E+00      6.80000E-04      1.02000E-04
-      1.45800E+01      0.00000E+00      6.70000E-04      1.13900E-04
-      1.42800E+01      0.00000E+00      5.00000E-04      1.15000E-04
-      1.38800E+01      0.00000E+00      2.30000E-04      8.97000E-05
-      1.36500E+01      0.00000E+00      1.70000E-04      9.35000E-05
-      1.34000E+01      0.00000E+00      1.20000E-04      7.92000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4870E+01        0.0000E+00        6.8000E-04        1.0200E-04
+        1.4580E+01        0.0000E+00        6.7000E-04        1.1390E-04
+        1.4280E+01        0.0000E+00        5.0000E-04        1.1500E-04
+        1.3880E+01        0.0000E+00        2.3000E-04        8.9700E-05
+        1.3650E+01        0.0000E+00        1.7000E-04        9.3500E-05
+        1.3400E+01        0.0000E+00        1.2000E-04        7.9200E-05

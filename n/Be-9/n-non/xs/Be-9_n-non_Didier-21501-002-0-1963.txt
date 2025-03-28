@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21501-002-0 
-# EXFOR reaction        : ['4-BE-9', ['N,NON'], ',,SIG'] 
+# EXFOR reaction        : (4-BE-9(N,NON),,SIG) 
 # incident energy       : 1.4200e+01 MeV 
 # target                : Be-9 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : D.Didier 
+# first author          : Didier 
 # institute             : (2FR SAC): CEA/Saclay 
 # reference             : (J,JPR,24,805,196311) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/215/21501.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21501
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+01      1.00000E-01      5.00000E-01      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        1.0000E-01        5.0000E-01        1.0000E-02

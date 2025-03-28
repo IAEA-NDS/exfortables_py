@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21340-006-0 
-# EXFOR reaction        : ['28-NI-61', ['N,A'], '26-FE-58,,SIG,,MXW'] 
+# EXFOR reaction        : (28-NI-61(N,A)26-FE-58,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ni-61 
 # product               : Fe-58 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : F.Muennich 
+# first author          : Muennich 
 # institute             : (2GERUEN): University of Erlangen-Nuernberg 
 # reference             : (J,ZP,153,106,195810) 
 # year                  : 1958 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21340.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21340
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      4.50000E-02      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        4.5000E-02        2.0000E-02

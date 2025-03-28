@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0605-007-0 
-# EXFOR reaction        : ['82-PB-0', ['P,F'], ',,SIG'] 
+# EXFOR reaction        : (82-PB-0(P,F),,SIG) 
 # incident energy       : 5.9000e+02 MeV - 2.3000e+04 MeV 
 # target                : Pb-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : R.Brandt 
+# first author          : Brandt 
 # institute             : (2ZZZCER): European Org. for Nuclear Research (CERN), Geneva 
 # reference             : (J,RPA,7,243,1972) 
 # year                  : 1972 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0605.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0605
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.90000E+02      0.00000E+00      1.44000E-01      0.00000E+00
-      2.90000E+03      0.00000E+00      1.49000E-01      0.00000E+00
-      1.80000E+04      0.00000E+00      1.32000E-01      0.00000E+00
-      2.30000E+04      0.00000E+00      1.05000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.9000E+02        0.0000E+00        1.4400E-01        0.0000E+00
+        2.9000E+03        0.0000E+00        1.4900E-01        0.0000E+00
+        1.8000E+04        0.0000E+00        1.3200E-01        0.0000E+00
+        2.3000E+04        0.0000E+00        1.0500E-01        0.0000E+00

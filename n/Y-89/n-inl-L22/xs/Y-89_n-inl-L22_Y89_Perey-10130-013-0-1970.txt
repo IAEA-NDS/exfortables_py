@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10130-013-0 
-# EXFOR reaction        : ['39-Y-89', ['N,INL'], '39-Y-89,PAR,SIG'] 
+# EXFOR reaction        : (39-Y-89(N,INL)39-Y-89,PAR,SIG) 
 # incident energy       : 5.0000e+00 MeV 
 # target                : Y-89 
 # product               : Y-89 
 # level energy          : 3.7200e+00 MeV 
 # MF-MT number          : 3 - 72 
-# first author          : F.G.Perey 
+# first author          : Perey 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (R,ORNL-4552,1970) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10130.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10130
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.00000E+00      5.00000E-02      2.48590E-01      6.28933E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+00        5.0000E-02        2.4859E-01        6.2893E-02

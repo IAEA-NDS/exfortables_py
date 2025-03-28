@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20815-017-0 
-# EXFOR reaction        : ['29-CU-65', ['N,2N'], '29-CU-64,,SIG'] 
+# EXFOR reaction        : (29-CU-65(N,2N)29-CU-64,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Cu-65 
 # product               : Cu-64 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : H.K.Vonach 
+# first author          : Vonach 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (C,68WASH,2,885,1968) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20815.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20815
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      7.50000E-02      8.66000E-01      3.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        7.5000E-02        8.6600E-01        3.5000E-02

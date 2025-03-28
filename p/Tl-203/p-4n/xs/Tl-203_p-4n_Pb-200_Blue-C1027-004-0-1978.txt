@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1027-004-0 
-# EXFOR reaction        : ['81-TL-203', ['P,4N'], '82-PB-200,,SIG'] 
+# EXFOR reaction        : (81-TL-203(P,4N)82-PB-200,,SIG) 
 # incident energy       : 2.7910e+01 MeV - 3.5110e+01 MeV 
 # target                : Tl-203 
 # product               : Pb-200 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : J.W.Blue 
+# first author          : Blue 
 # institute             : (1USALRC): NASA-Lewis Research Center, Cleveland, OH 
 # reference             : (J,MED,5,532,1978) 
 # year                  : 1978 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C10/C1027.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1027
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.79100E+01      5.00000E-02      1.84400E-02      0.00000E+00
-      2.92300E+01      5.00000E-02      6.84300E-02      0.00000E+00
-      3.04200E+01      5.00000E-02      1.84100E-01      0.00000E+00
-      3.16700E+01      5.00000E-02      3.33300E-01      0.00000E+00
-      3.29700E+01      5.00000E-02      4.68100E-01      0.00000E+00
-      3.51100E+01      5.00000E-02      9.54800E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7910E+01        5.0000E-02        1.8440E-02        0.0000E+00
+        2.9230E+01        5.0000E-02        6.8430E-02        0.0000E+00
+        3.0420E+01        5.0000E-02        1.8410E-01        0.0000E+00
+        3.1670E+01        5.0000E-02        3.3330E-01        0.0000E+00
+        3.2970E+01        5.0000E-02        4.6810E-01        0.0000E+00
+        3.5110E+01        5.0000E-02        9.5480E-01        0.0000E+00

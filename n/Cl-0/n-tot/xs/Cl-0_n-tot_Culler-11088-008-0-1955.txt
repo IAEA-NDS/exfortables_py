@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11088-008-0 
-# EXFOR reaction        : ['17-CL-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (17-CL-0(N,TOT),,SIG) 
 # incident energy       : 7.6700e+01 MeV - 1.0680e+02 MeV 
 # target                : Cl-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : V.Culler 
+# first author          : Culler 
 # institute             : (1USAHRV): Harvard University, Cambridge, MA 
 # reference             : (J,PR,99,740,1955) 
 # year                  : 1955 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11088.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11088
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.67000E+01      5.00000E-01      1.42000E+00      8.50000E-02
-      8.12000E+01      1.00000E+00      1.59700E+00      5.90000E-02
-      8.55000E+01      5.00000E-01      1.37100E+00      5.90000E-02
-      9.34000E+01      5.00000E-01      1.38200E+00      5.80000E-02
-      9.72000E+01      1.00000E+00      1.33600E+00      4.00000E-02
-      9.94000E+01      4.00000E+00      1.33200E+00      1.90000E-02
-      1.01100E+02      5.00000E-01      1.38000E+00      7.50000E-02
-      1.06800E+02      2.00000E+00      1.26000E+00      9.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.6700E+01        5.0000E-01        1.4200E+00        8.5000E-02
+        8.1200E+01        1.0000E+00        1.5970E+00        5.9000E-02
+        8.5500E+01        5.0000E-01        1.3710E+00        5.9000E-02
+        9.3400E+01        5.0000E-01        1.3820E+00        5.8000E-02
+        9.7200E+01        1.0000E+00        1.3360E+00        4.0000E-02
+        9.9400E+01        4.0000E+00        1.3320E+00        1.9000E-02
+        1.0110E+02        5.0000E-01        1.3800E+00        7.5000E-02
+        1.0680E+02        2.0000E+00        1.2600E+00        9.0000E-02

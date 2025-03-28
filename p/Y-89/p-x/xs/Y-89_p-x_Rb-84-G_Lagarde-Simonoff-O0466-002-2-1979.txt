@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0466-002-2 
-# EXFOR reaction        : ['39-Y-89', ['P,X'], '37-RB-84-G,M+,SIG'] 
+# EXFOR reaction        : (39-Y-89(P,X)37-RB-84-G,M+,SIG) 
 # incident energy       : 6.0000e+02 MeV - 1.0500e+04 MeV 
 # target                : Y-89 
 # product               : Rb-84-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Lagarde-Simonoff 
+# first author          : Lagarde-Simonoff 
 # institute             : (2FR GRA): Centre d'Etudes Nucleaires de Bordeaux-Gradignan 
 # reference             : (J,PR/C,20,1498,1979) 
 # year                  : 1979 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O04/O0466.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0466
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+02      0.00000E+00      1.13000E-02      1.50000E-03
-      1.05000E+04      0.00000E+00      1.09000E-02      8.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+02        0.0000E+00        1.1300E-02        1.5000E-03
+        1.0500E+04        0.0000E+00        1.0900E-02        8.0000E-04

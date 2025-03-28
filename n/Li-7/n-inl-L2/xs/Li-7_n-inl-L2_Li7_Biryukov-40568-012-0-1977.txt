@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40568-012-0 
-# EXFOR reaction        : ['3-LI-7', ['N,INL'], '3-LI-7,PAR,SIG'] 
+# EXFOR reaction        : (3-LI-7(N,INL)3-LI-7,PAR,SIG) 
 # incident energy       : 9.1000e+00 MeV 
 # target                : Li-7 
 # product               : Li-7 
 # level energy          : 4.6300e+00 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : N.S.Biryukov 
+# first author          : Biryukov 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (J,SJA,43,804,1977) 
 # year                  : 1977 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40568.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40568
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.10000E+00      2.00000E-01      1.16000E-01      1.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.1000E+00        2.0000E-01        1.1600E-01        1.1000E-02

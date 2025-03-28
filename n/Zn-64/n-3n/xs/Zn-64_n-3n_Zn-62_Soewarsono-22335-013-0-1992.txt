@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22335-013-0 
-# EXFOR reaction        : ['30-ZN-64', ['N,3N'], '30-ZN-62,,SIG'] 
+# EXFOR reaction        : (30-ZN-64(N,3N)30-ZN-62,,SIG) 
 # incident energy       : 2.7580e+01 MeV - 3.8260e+01 MeV 
 # target                : Zn-64 
 # product               : Zn-62 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : T.S.Soewarsono 
+# first author          : Soewarsono 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (S,JAERI-M-92-027,354,1992) 
 # year                  : 1992 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22335.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22335
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.75800E+01      1.64000E+00      1.41000E-02      5.50000E-03
-      3.28000E+01      1.44000E+00      4.48000E-02      2.24000E-02
-      3.82600E+01      1.22000E+00      4.99000E-02      1.31000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7580E+01        1.6400E+00        1.4100E-02        5.5000E-03
+        3.2800E+01        1.4400E+00        4.4800E-02        2.2400E-02
+        3.8260E+01        1.2200E+00        4.9900E-02        1.3100E-02

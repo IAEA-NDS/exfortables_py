@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0696-002-0 
-# EXFOR reaction        : ['28-NI-58', ['P,G'], '29-CU-59,,SIG'] 
-# incident energy       : 1.3200e+00 MeV - 2.7400e+00 MeV 
+# EXFOR reaction        : (28-NI-58(P,G)29-CU-59,,SIG) 
+# incident energy       : 1.3200e+00 MeV - 2.9500e+00 MeV 
 # target                : Ni-58 
 # product               : Cu-59 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : G.A.Krivonosov 
+# first author          : Krivonosov 
 # institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
 # reference             : (C,74KHARKV,,352,1974) 
 # year                  : 1974 
@@ -13,12 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A06/A0696.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0696
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.32000E+00      0.00000E+00      4.40000E-06      4.40000E-07
-      1.52000E+00      0.00000E+00      9.12000E-06      9.12000E-07
-      1.73000E+00      0.00000E+00      4.02000E-06      4.02000E-07
-      1.93000E+00      0.00000E+00      1.54000E-05      1.54000E-06
-      2.14000E+00      0.00000E+00      2.39000E-05      2.39000E-06
-      2.34000E+00      0.00000E+00      2.39000E-05      2.39000E-06
-      2.54000E+00      0.00000E+00      3.14000E-05      3.14000E-06
-      2.74000E+00      0.00000E+00      1.89000E-05      1.89000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3200E+00        0.0000E+00        4.4000E-06        0.0000E+00
+        1.5200E+00        0.0000E+00        9.1200E-06        0.0000E+00
+        1.7300E+00        0.0000E+00        4.0200E-06        0.0000E+00
+        1.9300E+00        0.0000E+00        1.5400E-05        0.0000E+00
+        2.1400E+00        0.0000E+00        2.3900E-05        0.0000E+00
+        2.3400E+00        0.0000E+00        2.3900E-05        0.0000E+00
+        2.5400E+00        0.0000E+00        3.1400E-05        0.0000E+00
+        2.7400E+00        0.0000E+00        1.8900E-05        0.0000E+00
+        2.9500E+00        0.0000E+00        5.7800E-05        0.0000E+00

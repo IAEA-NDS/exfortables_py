@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33080-002-0 
-# EXFOR reaction        : ['34-SE-78', ['N,P'], '33-AS-78,,SIG'] 
+# EXFOR reaction        : (34-SE-78(N,P)33-AS-78,,SIG) 
 # incident energy       : 1.3730e+01 MeV - 1.4770e+01 MeV 
 # target                : Se-78 
 # product               : As-78 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : F.M.D.Attar 
+# first author          : Attar 
 # institute             : (3INDIND): India 
 # reference             : (J,PR/C,90,064609,2014) 
 # year                  : 2014 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33080.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33080
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.37300E+01      0.00000E+00      1.56000E-02      1.50000E-03
-      1.40700E+01      0.00000E+00      1.70000E-02      1.60000E-03
-      1.44200E+01      0.00000E+00      1.86000E-02      1.60000E-03
-      1.46800E+01      0.00000E+00      2.04000E-02      1.70000E-03
-      1.47700E+01      0.00000E+00      2.20000E-02      1.70000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3730E+01        0.0000E+00        1.5600E-02        1.5000E-03
+        1.4070E+01        0.0000E+00        1.7000E-02        1.6000E-03
+        1.4420E+01        0.0000E+00        1.8600E-02        1.6000E-03
+        1.4680E+01        0.0000E+00        2.0400E-02        1.7000E-03
+        1.4770E+01        0.0000E+00        2.2000E-02        1.7000E-03

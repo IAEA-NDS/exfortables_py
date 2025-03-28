@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41226-004-0 
-# EXFOR reaction        : ['3-LI-6', ['N,N+D'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (3-LI-6(N,N+D)2-HE-4,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Li-6 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 32 
-# first author          : K.M.Mikhailina 
+# first author          : Mikhailina 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (B,NEJTRONFIZ,,249,1961) 
 # year                  : 1961 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41226.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41226
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      0.00000E+00      7.00000E-02      1.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        7.0000E-02        1.2000E-02

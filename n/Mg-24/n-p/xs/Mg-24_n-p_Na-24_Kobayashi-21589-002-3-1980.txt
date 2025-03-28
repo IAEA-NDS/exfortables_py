@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21589-002-3 
-# EXFOR reaction        : ['12-MG-24', ['N,P'], '11-NA-24,,SIG,,FIS'] 
+# EXFOR reaction        : (12-MG-24(N,P)11-NA-24,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Mg-24 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : K.Kobayashi 
+# first author          : Kobayashi 
 # institute             : (2JPNKTO): Kyoto University , Kyoto 
 # reference             : (S,EUR-6813,1004,1980) 
 # year                  : 1980 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/215/21589.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21589
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      1.95000E-03      1.20000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.9500E-03        1.2000E-04

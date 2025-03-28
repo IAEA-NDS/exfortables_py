@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0285-003-0 
-# EXFOR reaction        : ['29-CU-0', ['P,X'], '9-F-18,,SIG'] 
+# EXFOR reaction        : (29-CU-0(P,X)9-F-18,,SIG) 
 # incident energy       : 3.7000e+02 MeV 
 # target                : Cu-0 
 # product               : F-18 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : D.H.Greenberg 
+# first author          : Greenberg 
 # institute             : (1USACOL): Columbia University, New York, NY 
 # reference             : (J,PR,84,845,51) 
 # year                  : 1951 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0285.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0285
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.70000E+02      0.00000E+00      3.00000E-05      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.7000E+02        0.0000E+00        3.0000E-05        0.0000E+00

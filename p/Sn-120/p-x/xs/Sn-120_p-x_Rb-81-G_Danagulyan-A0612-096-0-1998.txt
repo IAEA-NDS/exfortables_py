@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0612-096-0 
-# EXFOR reaction        : ['50-SN-120', ['P,X'], '37-RB-81-G,CUM,SIG'] 
+# EXFOR reaction        : (50-SN-120(P,X)37-RB-81-G,CUM,SIG) 
 # incident energy       : 8.1100e+03 MeV 
 # target                : Sn-120 
 # product               : Rb-81-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.S.Danagulyan 
+# first author          : Danagulyan 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (C,98MOSCOW,,219,199806) 
 # year                  : 1998 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A06/A0612.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0612
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.11000E+03      0.00000E+00      6.70000E-03      7.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.1100E+03        0.0000E+00        6.7000E-03        7.0000E-04

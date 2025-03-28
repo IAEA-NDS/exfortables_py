@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1882-014-0 
-# EXFOR reaction        : ['26-FE-0', ['P,X'], '22-TI-44,CUM,SIG'] 
+# EXFOR reaction        : (26-FE-0(P,X)22-TI-44,CUM,SIG) 
 # incident energy       : 2.7800e+02 MeV - 2.6000e+03 MeV 
 # target                : Fe-0 
 # product               : Ti-44 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.Neumann 
+# first author          : Neumann 
 # institute             : (2GERUH): University Hannover (previously Tech.University Hannover) 
 # reference             : (T,NEUMANN,1999) 
 # year                  : 1999 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O18/O1882.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1882
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.78000E+02      1.00000E+00      1.01000E-03      1.40000E-04
-      2.99000E+02      1.00000E+00      1.13000E-03      1.50000E-04
-      3.99000E+02      1.00000E+00      1.45000E-03      1.90000E-04
-      9.59000E+02      2.00000E+00      1.91000E-03      3.20000E-04
-      1.20000E+03      1.00000E+00      1.59000E-03      2.10000E-04
-      1.36100E+03      2.00000E+00      1.70000E-03      2.70000E-04
-      1.60000E+03      2.00000E+00      1.38000E-03      2.00000E-04
-      2.60000E+03      1.00000E+00      1.16000E-03      1.70000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7800E+02        1.0000E+00        1.0100E-03        1.4000E-04
+        2.9900E+02        1.0000E+00        1.1300E-03        1.5000E-04
+        3.9900E+02        1.0000E+00        1.4500E-03        1.9000E-04
+        9.5900E+02        2.0000E+00        1.9100E-03        3.2000E-04
+        1.2000E+03        1.0000E+00        1.5900E-03        2.1000E-04
+        1.3610E+03        2.0000E+00        1.7000E-03        2.7000E-04
+        1.6000E+03        2.0000E+00        1.3800E-03        2.0000E-04
+        2.6000E+03        1.0000E+00        1.1600E-03        1.7000E-04

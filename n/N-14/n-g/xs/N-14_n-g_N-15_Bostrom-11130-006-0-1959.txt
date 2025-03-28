@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11130-006-0 
-# EXFOR reaction        : ['7-N-14', ['N,G'], '7-N-15,,SIG'] 
+# EXFOR reaction        : (7-N-14(N,G)7-N-15,,SIG) 
 # incident energy       : 6.5000e-02 MeV 
 # target                : N-14 
 # product               : N-15 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : N.A.Bostrom 
+# first author          : Bostrom 
 # institute             : (1USATNC): Texas Nuclear Corp., Austin, TX 
 # reference             : (R,WADC-TN-59-107,59) 
 # year                  : 1959 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/111/11130.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11130
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.50000E-02      1.50000E-02      2.00000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.5000E-02        1.5000E-02        2.0000E-04        0.0000E+00

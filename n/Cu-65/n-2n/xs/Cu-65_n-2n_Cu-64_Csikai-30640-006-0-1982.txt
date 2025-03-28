@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30640-006-0 
-# EXFOR reaction        : ['29-CU-65', ['N,2N'], '29-CU-64,,SIG'] 
+# EXFOR reaction        : (29-CU-65(N,2N)29-CU-64,,SIG) 
 # incident energy       : 1.3500e+01 MeV - 1.4780e+01 MeV 
 # target                : Cu-65 
 # product               : Cu-64 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.Csikai 
+# first author          : Csikai 
 # institute             : (3HUNKOS): University of Debrecen, Debrecen 
 # reference             : (C,82ANTWER,,414,1982) 
 # year                  : 1982 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30640.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30640
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35000E+01      0.00000E+00      8.40000E-01      5.00000E-02
-      1.37700E+01      0.00000E+00      8.62000E-01      5.20000E-02
-      1.41000E+01      0.00000E+00      9.05000E-01      5.40000E-02
-      1.43900E+01      0.00000E+00      9.55000E-01      5.70000E-02
-      1.46600E+01      0.00000E+00      9.75000E-01      5.90000E-02
-      1.47800E+01      0.00000E+00      9.80000E-01      5.90000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3500E+01        0.0000E+00        8.4000E-01        5.0000E-02
+        1.3770E+01        0.0000E+00        8.6200E-01        5.2000E-02
+        1.4100E+01        0.0000E+00        9.0500E-01        5.4000E-02
+        1.4390E+01        0.0000E+00        9.5500E-01        5.7000E-02
+        1.4660E+01        0.0000E+00        9.7500E-01        5.9000E-02
+        1.4780E+01        0.0000E+00        9.8000E-01        5.9000E-02

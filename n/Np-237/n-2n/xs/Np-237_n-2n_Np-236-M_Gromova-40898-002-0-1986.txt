@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40898-002-0 
-# EXFOR reaction        : ['93-NP-237', ['N,2N'], '93-NP-236-M,,SIG,,FIS'] 
+# EXFOR reaction        : (93-NP-237(N,2N)93-NP-236-M,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Np-237 
 # product               : Np-236-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : E.A.Gromova 
+# first author          : Gromova 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (J,SJA,60,95,1986) 
 # year                  : 1986 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40898.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40898
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      4.66000E-03      4.66000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        4.6600E-03        4.6600E-04

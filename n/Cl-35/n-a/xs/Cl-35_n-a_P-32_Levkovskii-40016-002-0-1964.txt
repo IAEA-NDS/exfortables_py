@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40016-002-0 
-# EXFOR reaction        : ['17-CL-35', ['N,A'], '15-P-32,,SIG'] 
+# EXFOR reaction        : (17-CL-35(N,A)15-P-32,,SIG) 
 # incident energy       : 1.4000e+01 MeV 
 # target                : Cl-35 
 # product               : P-32 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : V.N.Levkovskii 
+# first author          : Levkovskii 
 # institute             : (4KASKAZ): Institute Yadernoi Fiziki, Almaty 
 # reference             : (J,JET,18,213,1964) 
 # year                  : 1964 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40016.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40016
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40000E+01      0.00000E+00      1.00000E-01      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        0.0000E+00        1.0000E-01        2.0000E-02

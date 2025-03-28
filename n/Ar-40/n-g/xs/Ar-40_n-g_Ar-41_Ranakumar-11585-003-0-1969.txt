@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11585-003-0 
-# EXFOR reaction        : ['18-AR-40', ['N,G'], '18-AR-41,,SIG,,MXW'] 
+# EXFOR reaction        : (18-AR-40(N,G)18-AR-41,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ar-40 
 # product               : Ar-41 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : N.Ranakumar 
+# first author          : Ranakumar 
 # institute             : (1USAGIT): Georgia Institute of Technology, Atlanta, GA 
 # reference             : (J,NP/A,128,333,1969) 
 # year                  : 1969 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11585.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11585
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      5.10000E-01      2.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        5.1000E-01        2.5000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12812-006-0 
-# EXFOR reaction        : ['26-FE-54', ['N,P'], '25-MN-54,,SIG'] 
+# EXFOR reaction        : (26-FE-54(N,P)25-MN-54,,SIG) 
 # incident energy       : 8.0000e+00 MeV 
 # target                : Fe-54 
 # product               : Mn-54 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : S.K.Saraf 
+# first author          : Saraf 
 # institute             : (1USAOHO): Ohio University, Athens, OH 
 # reference             : (J,NSE,107,365,9104) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12812.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12812
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.00000E+00      0.00000E+00      5.21000E-01      1.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+00        0.0000E+00        5.2100E-01        1.7000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0108-045-0 
-# EXFOR reaction        : ['28-NI-64', ['P,X'], '1-PN-0,,SIG'] 
+# EXFOR reaction        : (28-NI-64(P,X)1-PN-0,,SIG) 
 # incident energy       : 2.0100e+02 MeV 
 # target                : Ni-64 
 # product               : Pn-0 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.Badala 
+# first author          : Badala 
 # institute             : (2ITYCAT): Universita degli Studi di Catania + INFN Catania 
 # reference             : (J,PR/C,46,604,1992) 
 # year                  : 1992 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0108.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0108
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.01000E+02      0.00000E+00      3.40000E-05      3.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0100E+02        0.0000E+00        3.4000E-05        3.0000E-06

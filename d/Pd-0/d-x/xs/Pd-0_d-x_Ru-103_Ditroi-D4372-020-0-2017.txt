@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4372-020-0 
-# EXFOR reaction        : ['46-PD-0', ['D,X'], '44-RU-103,,SIG'] 
+# EXFOR reaction        : (46-PD-0(D,X)44-RU-103,,SIG) 
 # incident energy       : 4.0000e+01 MeV - 4.8630e+01 MeV 
 # target                : Pd-0 
 # product               : Ru-103 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Ditroi 
+# first author          : Ditroi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,ARI,128,297,2017) 
 # year                  : 2017 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4372.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4372
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.86300E+01      2.00000E-01      8.90000E-04      1.30000E-04
-      4.65900E+01      2.90000E-01      6.70000E-04      1.60000E-04
-      4.00000E+01      5.90000E-01      3.20000E-04      1.20000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.8630E+01        2.0000E-01        8.9000E-04        1.3000E-04
+        4.6590E+01        2.9000E-01        6.7000E-04        1.6000E-04
+        4.0000E+01        5.9000E-01        3.2000E-04        1.2000E-04

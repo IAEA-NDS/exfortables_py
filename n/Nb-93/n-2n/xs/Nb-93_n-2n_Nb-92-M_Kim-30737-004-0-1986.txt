@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30737-004-0 
-# EXFOR reaction        : ['41-NB-93', ['N,2N'], '41-NB-92-M,,SIG'] 
+# EXFOR reaction        : (41-NB-93(N,2N)41-NB-92-M,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Nb-93 
 # product               : Nb-92-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : Y.S.Kim 
+# first author          : Kim 
 # institute             : (3KORKOR): Republic of Korea 
 # reference             : (J,KNS,18,(2),92,198606) 
 # year                  : 1986 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30737.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30737
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      4.00000E-01      4.55000E-01      1.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        4.0000E-01        4.5500E-01        1.1000E-02

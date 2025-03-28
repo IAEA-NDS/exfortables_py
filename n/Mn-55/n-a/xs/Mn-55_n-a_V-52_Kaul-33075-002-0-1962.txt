@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33075-002-0 
-# EXFOR reaction        : ['25-MN-55', ['N,A'], '23-V-52,,SIG'] 
+# EXFOR reaction        : (25-MN-55(N,A)23-V-52,,SIG) 
 # incident energy       : 1.4000e+01 MeV 
 # target                : Mn-55 
 # product               : V-52 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : O.N.Kaul 
+# first author          : Kaul 
 # institute             : (3INDSAH): Saha Institute of Nuclear Physics, Kolkata 
 # reference             : (J,NP,39,325,1962) 
 # year                  : 1962 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33075.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33075
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40000E+01      0.00000E+00      8.90000E-02      8.90000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        0.0000E+00        8.9000E-02        8.9000E-03

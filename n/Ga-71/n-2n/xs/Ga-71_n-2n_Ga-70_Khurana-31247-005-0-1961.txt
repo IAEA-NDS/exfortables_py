@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31247-005-0 
-# EXFOR reaction        : ['31-GA-71', ['N,2N'], '31-GA-70,,SIG'] 
+# EXFOR reaction        : (31-GA-71(N,2N)31-GA-70,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Ga-71 
 # product               : Ga-70 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : C.S.Khurana 
+# first author          : Khurana 
 # institute             : (3INDMUA): Aligarh Muslim University , Aligarh 
 # reference             : (J,NP,28,560,1961) 
 # year                  : 1961 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/312/31247.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31247
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      5.00000E-01      2.18000E+00      2.18000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        5.0000E-01        2.1800E+00        2.1800E-01

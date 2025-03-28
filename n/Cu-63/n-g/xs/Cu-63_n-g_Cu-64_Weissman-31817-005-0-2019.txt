@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31817-005-0 
-# EXFOR reaction        : ['29-CU-63', ['N,G'], '29-CU-64,,SIG,,MXW'] 
+# EXFOR reaction        : (29-CU-63(N,G)29-CU-64,,SIG,,MXW) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Cu-63 
 # product               : Cu-64 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : L.Weissman 
+# first author          : Weissman 
 # institute             : (3ISLSOR): Soreq Research Centre, Yavne 
 # reference             : (J,PR/C,100,065804,2019) 
 # year                  : 2019 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31817.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31817
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      7.04000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        7.0400E-02        0.0000E+00

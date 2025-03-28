@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20788-008-0 
-# EXFOR reaction        : ['26-FE-56', ['N,INL'], '26-FE-56,PAR,SIG'] 
+# EXFOR reaction        : (26-FE-56(N,INL)26-FE-56,PAR,SIG) 
 # incident energy       : 3.5200e+00 MeV - 4.5000e+00 MeV 
 # target                : Fe-56 
 # product               : Fe-56 
 # level energy          : 2.6580e+00 MeV 
 # MF-MT number          : 3 - 53 
-# first author          : E.Almen-Ramstrom 
+# first author          : Almen-Ramstrom 
 # institute             : (2SWDAE ): Studsvik Energiteknik AB 
 # reference             : (R,AE-503,197504) 
 # year                  : 1975 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20788.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20788
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.52000E+00      0.00000E+00      1.98000E-01      4.00000E-02
-      3.78000E+00      0.00000E+00      2.06000E-01      3.10000E-02
-      4.02000E+00      0.00000E+00      1.50000E-01      2.30000E-02
-      4.26000E+00      0.00000E+00      1.36000E-01      2.00000E-02
-      4.50000E+00      0.00000E+00      1.13000E-01      1.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5200E+00        0.0000E+00        1.9800E-01        4.0000E-02
+        3.7800E+00        0.0000E+00        2.0600E-01        3.1000E-02
+        4.0200E+00        0.0000E+00        1.5000E-01        2.3000E-02
+        4.2600E+00        0.0000E+00        1.3600E-01        2.0000E-02
+        4.5000E+00        0.0000E+00        1.1300E-01        1.7000E-02

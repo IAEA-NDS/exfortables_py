@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30488-006-0 
-# EXFOR reaction        : ['48-CD-113', ['N,G'], '48-CD-114,,SIG,,MXW'] 
+# EXFOR reaction        : (48-CD-113(N,G)48-CD-114,,SIG,,MXW) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Cd-113 
 # product               : Cd-114 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.R.De L.Musgrove 
+# first author          : Musgrove 
 # institute             : (3AULAUA): Australian Nuclear Sci.and Techn.Org., Lucas Heights,NSW 
 # reference             : (C,78HARWELL,,449,1978) 
 # year                  : 1978 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30488.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30488
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      7.15000E-01      8.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        7.1500E-01        8.0000E-02

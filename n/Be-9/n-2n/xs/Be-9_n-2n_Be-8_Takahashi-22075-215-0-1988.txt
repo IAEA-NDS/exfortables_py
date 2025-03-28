@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22075-215-0 
-# EXFOR reaction        : ['4-BE-9', ['N,2N'], '4-BE-8,,SIG'] 
+# EXFOR reaction        : (4-BE-9(N,2N)4-BE-8,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Be-9 
 # product               : Be-8 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.Takahashi 
+# first author          : Takahashi 
 # institute             : (2JPNOSA): Osaka University , Osaka 
 # reference             : ((S,JAERI-M-88-065,279,1988)=(S,INDC(JPN)-113,279,1988)) 
 # year                  : 1988 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22075.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22075
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      2.00000E-01      9.56000E-01      2.90000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        2.0000E-01        9.5600E-01        2.9000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11013-004-0 
-# EXFOR reaction        : ['26-FE-0', ['N,EL'], '26-FE-0,,SIG'] 
+# EXFOR reaction        : (26-FE-0(N,EL)26-FE-0,,SIG) 
 # incident energy       : 7.2400e-08 MeV 
 # target                : Fe-0 
 # product               : Fe-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : D.G.Hurst 
+# first author          : Hurst 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (J,CJP,29,36,51) 
 # year                  : 1951 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11013.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11013
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.24000E-08      0.00000E+00      1.26000E+01      5.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.2400E-08        0.0000E+00        1.2600E+01        5.0000E-01

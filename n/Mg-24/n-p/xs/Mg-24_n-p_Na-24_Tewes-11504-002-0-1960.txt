@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11504-002-0 
-# EXFOR reaction        : ['12-MG-24', ['N,P'], '11-NA-24,,SIG'] 
+# EXFOR reaction        : (12-MG-24(N,P)11-NA-24,,SIG) 
 # incident energy       : 1.0100e+01 MeV - 1.4000e+01 MeV 
 # target                : Mg-24 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : H.A.Tewes 
+# first author          : Tewes 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (R,UCRL-6028-T,196006) 
 # year                  : 1960 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11504.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11504
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.01000E+01      2.00000E-01      8.80000E-02      3.52000E-02
-      1.15000E+01      2.00000E-01      1.06000E-01      4.24000E-02
-      1.23000E+01      2.00000E-01      1.09000E-01      4.36000E-02
-      1.28000E+01      2.00000E-01      1.16000E-01      4.64000E-02
-      1.40000E+01      2.00000E-01      1.34000E-01      5.36000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0100E+01        2.0000E-01        8.8000E-02        3.5200E-02
+        1.1500E+01        2.0000E-01        1.0600E-01        4.2400E-02
+        1.2300E+01        2.0000E-01        1.0900E-01        4.3600E-02
+        1.2800E+01        2.0000E-01        1.1600E-01        4.6400E-02
+        1.4000E+01        2.0000E-01        1.3400E-01        5.3600E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0411-010-4 
-# EXFOR reaction        : ['31-GA-0', ['P,X'], '26-FE-52,CUM,SIG'] 
+# EXFOR reaction        : (31-GA-0(P,X)26-FE-52,CUM,SIG) 
 # incident energy       : 1.5300e+02 MeV 
 # target                : Ga-0 
 # product               : Fe-52 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : I.B.Haller 
+# first author          : Haller 
 # institute             : (2SWDUPP): Uppsala University , Uppsala 
 # reference             : (J,JIN,19,1,1961) 
 # year                  : 1961 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O04/O0411.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0411
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.53000E+02      8.00000E+00      3.90000E-05      5.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5300E+02        8.0000E+00        3.9000E-05        5.0000E-06

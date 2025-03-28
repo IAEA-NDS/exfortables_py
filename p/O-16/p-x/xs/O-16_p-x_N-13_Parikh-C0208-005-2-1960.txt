@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0208-005-2 
-# EXFOR reaction        : ['8-O-16', ['P,X'], '7-N-13,,SIG'] 
+# EXFOR reaction        : (8-O-16(P,X)7-N-13,,SIG) 
 # incident energy       : 3.6200e+02 MeV 
 # target                : O-16 
 # product               : N-13 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : V.Parikh 
+# first author          : Parikh 
 # institute             : (2UK LVP): University of Liverpool, England 
 # reference             : (J,NP,18,646,1960) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0208.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0208
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.62000E+02      1.50000E+01      1.00000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6200E+02        1.5000E+01        1.0000E-03        0.0000E+00

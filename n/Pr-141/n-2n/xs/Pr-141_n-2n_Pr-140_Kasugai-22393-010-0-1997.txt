@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22393-010-0 
-# EXFOR reaction        : ['59-PR-141', ['N,2N'], '59-PR-140,,SIG'] 
+# EXFOR reaction        : (59-PR-141(N,2N)59-PR-140,,SIG) 
 # incident energy       : 1.3380e+01 MeV - 1.4660e+01 MeV 
 # target                : Pr-141 
 # product               : Pr-140 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : Y.Kasugai 
+# first author          : Kasugai 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (C,97TRIEST,1,635,199705) 
 # year                  : 1997 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22393.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22393
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.33800E+01      0.00000E+00      1.30000E+00      6.00000E-02
-      1.37000E+01      0.00000E+00      1.32000E+00      5.00000E-02
-      1.40300E+01      0.00000E+00      1.36000E+00      6.00000E-02
-      1.43600E+01      0.00000E+00      1.45000E+00      7.00000E-02
-      1.46600E+01      0.00000E+00      1.42000E+00      6.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3380E+01        0.0000E+00        1.3000E+00        6.0000E-02
+        1.3700E+01        0.0000E+00        1.3200E+00        5.0000E-02
+        1.4030E+01        0.0000E+00        1.3600E+00        6.0000E-02
+        1.4360E+01        0.0000E+00        1.4500E+00        7.0000E-02
+        1.4660E+01        0.0000E+00        1.4200E+00        6.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12188-003-0 
-# EXFOR reaction        : ['82-PB-208', ['N,2N'], '82-PB-207-M,,SIG'] 
+# EXFOR reaction        : (82-PB-208(N,2N)82-PB-207-M,,SIG) 
 # incident energy       : 8.0000e+00 MeV - 1.4000e+01 MeV 
 # target                : Pb-208 
 # product               : Pb-207-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : E.R.Shunk 
+# first author          : Shunk 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,BAP,7,334(TA9),6204) 
 # year                  : 1962 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12188.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12188
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.00000E+00      0.00000E+00      1.80000E-03      0.00000E+00
-      9.00000E+00      0.00000E+00      4.50000E-03      0.00000E+00
-      1.00000E+01      0.00000E+00      1.73700E-01      1.38960E-02
-      1.10000E+01      0.00000E+00      5.04200E-01      4.03360E-02
-      1.40000E+01      0.00000E+00      1.31350E+00      1.05080E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+00        0.0000E+00        1.8000E-03        0.0000E+00
+        9.0000E+00        0.0000E+00        4.5000E-03        0.0000E+00
+        1.0000E+01        0.0000E+00        1.7370E-01        1.3896E-02
+        1.1000E+01        0.0000E+00        5.0420E-01        4.0336E-02
+        1.4000E+01        0.0000E+00        1.3135E+00        1.0508E-01

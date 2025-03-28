@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33091-003-0 
-# EXFOR reaction        : ['90-TH-232', ['N,2N'], '90-TH-231,,SIG'] 
+# EXFOR reaction        : (90-TH-232(N,2N)90-TH-231,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Th-232 
 # product               : Th-231 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : H.Naik 
+# first author          : Naik 
 # institute             : (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
 # reference             : (J,JRN,303,2497,2015) 
 # year                  : 2015 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33091.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33091
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      1.00000E-01      1.67400E+00      9.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        1.0000E-01        1.6740E+00        9.2000E-02

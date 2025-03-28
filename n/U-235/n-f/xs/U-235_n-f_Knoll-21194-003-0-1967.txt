@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21194-003-0 
-# EXFOR reaction        : ['92-U-235', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (92-U-235(N,F),,SIG) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : U-235 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : G.F.Knoll 
+# first author          : Knoll 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,JNE,21,643,196708) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/211/21194.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21194
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      2.28800E+00      1.30000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        2.2880E+00        1.3000E-01

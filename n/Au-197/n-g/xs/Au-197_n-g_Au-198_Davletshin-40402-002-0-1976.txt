@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40402-002-0 
-# EXFOR reaction        : ['79-AU-197', ['N,G'], '79-AU-198,,SIG'] 
+# EXFOR reaction        : (79-AU-197(N,G)79-AU-198,,SIG) 
 # incident energy       : 5.9000e-01 MeV - 5.9700e-01 MeV 
 # target                : Au-197 
 # product               : Au-198 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.N.Davletshin 
+# first author          : Davletshin 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : ((C,75KIEV,4,99,1976)=(R,INDC(CCP)-099,(4),99,1976)) 
 # year                  : 1976 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/404/40402.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40402
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.90000E-01      2.30000E-02      1.21200E-01      4.12080E-03
-      5.97000E-01      1.60000E-02      1.25500E-01      4.14150E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.9000E-01        2.3000E-02        1.2120E-01        4.1208E-03
+        5.9700E-01        1.6000E-02        1.2550E-01        4.1415E-03

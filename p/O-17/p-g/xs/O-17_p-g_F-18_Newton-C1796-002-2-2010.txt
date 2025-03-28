@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1796-002-2 
-# EXFOR reaction        : ['8-O-17', ['P,G'], '9-F-18,,SIG,,SFC'] 
+# EXFOR reaction        : (8-O-17(P,G)9-F-18,,SIG,,SFC) 
 # incident energy       : 2.5710e-01 MeV - 4.6990e-01 MeV 
 # target                : O-17 
 # product               : F-18 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.R.Newton 
+# first author          : Newton 
 # institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
 # reference             : (J,PR/C,81,045801,2010) 
 # year                  : 2010 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C17/C1796.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1796
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.69900E-01      5.00000E-04      1.79000E+04      1.80000E+03
-      4.22600E-01      5.00000E-04      1.08000E+04      1.40000E+03
-      3.75200E-01      5.00000E-04      8.13000E+03      9.40000E+02
-      3.04300E-01      5.00000E-04      6.70000E+03      1.10000E+03
-      2.80700E-01      5.00000E-04      6.50000E+03      1.20000E+03
-      2.57100E-01      5.00000E-04      7.00000E+03      1.50000E+03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.6990E-01        5.0000E-04        1.7900E+04        1.8000E+03
+        4.2260E-01        5.0000E-04        1.0800E+04        1.4000E+03
+        3.7520E-01        5.0000E-04        8.1300E+03        9.4000E+02
+        3.0430E-01        5.0000E-04        6.7000E+03        1.1000E+03
+        2.8070E-01        5.0000E-04        6.5000E+03        1.2000E+03
+        2.5710E-01        5.0000E-04        7.0000E+03        1.5000E+03

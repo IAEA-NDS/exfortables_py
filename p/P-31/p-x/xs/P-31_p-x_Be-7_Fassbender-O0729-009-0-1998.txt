@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0729-009-0 
-# EXFOR reaction        : ['15-P-31', ['P,X'], '4-BE-7,IND,SIG'] 
+# EXFOR reaction        : (15-P-31(P,X)4-BE-7,IND,SIG) 
 # incident energy       : 1.3790e+02 MeV - 1.7210e+02 MeV 
 # target                : P-31 
 # product               : Be-7 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Fassbender 
+# first author          : Fassbender 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,RCA,81,1,1998) 
 # year                  : 1998 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0729.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0729
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.72100E+02      2.00000E-01      1.50000E-03      6.00000E-04
-      1.65300E+02      2.00000E-01      1.50000E-03      6.00000E-04
-      1.57300E+02      2.00000E-01      1.60000E-03      7.00000E-04
-      1.43400E+02      2.00000E-01      1.80000E-03      8.00000E-04
-      1.37900E+02      2.00000E-01      1.40000E-03      6.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7210E+02        2.0000E-01        1.5000E-03        6.0000E-04
+        1.6530E+02        2.0000E-01        1.5000E-03        6.0000E-04
+        1.5730E+02        2.0000E-01        1.6000E-03        7.0000E-04
+        1.4340E+02        2.0000E-01        1.8000E-03        8.0000E-04
+        1.3790E+02        2.0000E-01        1.4000E-03        6.0000E-04

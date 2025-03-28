@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41428-075-0 
-# EXFOR reaction        : ['79-AU-197', ['N,P'], '78-PT-197-M,,SIG,,,DERIV'] 
+# EXFOR reaction        : (79-AU-197(N,P)78-PT-197-M,,SIG,,,DERIV) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : Au-197 
 # product               : Pt-197-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,RI-259,2003) 
 # year                  : 2003 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41428.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41428
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      0.00000E+00      1.36300E-03      6.80000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        0.0000E+00        1.3630E-03        6.8000E-05

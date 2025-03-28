@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M1007-004-0 
-# EXFOR reaction        : ['83-BI-209', ['G,F'], ',,SIG,,BRS'] 
+# EXFOR reaction        : (83-BI-209(G,F),,SIG,,BRS) 
 # incident energy       : 8.9420e+01 MeV - 2.4000e+02 MeV 
 # target                : Bi-209 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : E.V.Minarik 
+# first author          : Minarik 
 # institute             : (4RUSLEB): Fiz.Institute Lebedev (FIAN), Moskva 
 # reference             : (J,ZET,32,241,1957) 
 # year                  : 1957 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M10/M1007.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M1007
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.94200E+01      0.00000E+00      1.64000E-04      4.50000E-05
-      1.11310E+02      0.00000E+00      2.94000E-04      4.80000E-05
-      1.37770E+02      0.00000E+00      6.02000E-04      5.70000E-05
-      1.64230E+02      0.00000E+00      1.21000E-03      1.13000E-04
-      1.89780E+02      0.00000E+00      1.71900E-03      2.04000E-04
-      2.14920E+02      0.00000E+00      2.61300E-03      4.07000E-04
-      2.40000E+02      0.00000E+00      4.01600E-03      4.98000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.9420E+01        0.0000E+00        1.6400E-04        4.5000E-05
+        1.1131E+02        0.0000E+00        2.9400E-04        4.8000E-05
+        1.3777E+02        0.0000E+00        6.0200E-04        5.7000E-05
+        1.6423E+02        0.0000E+00        1.2100E-03        1.1300E-04
+        1.8978E+02        0.0000E+00        1.7190E-03        2.0400E-04
+        2.1492E+02        0.0000E+00        2.6130E-03        4.0700E-04
+        2.4000E+02        0.0000E+00        4.0160E-03        4.9800E-04

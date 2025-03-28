@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2613-002-0 
-# EXFOR reaction        : ['65-TB-159', ['P,3N'], '66-DY-157,,SIG'] 
+# EXFOR reaction        : (65-TB-159(P,3N)66-DY-157,,SIG) 
 # incident energy       : 2.0060e+01 MeV - 3.4699e+01 MeV 
 # target                : Tb-159 
 # product               : Dy-157 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : E.Lebowitz 
+# first author          : Lebowitz 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,ARI,22,789,1971) 
 # year                  : 1971 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2613.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2613
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00600E+01      1.79500E+00      3.00000E-01      2.79600E-02
-      2.51060E+01      1.28100E+00      7.17900E-01      7.68900E-02
-      2.72210E+01      1.02600E+00      9.09300E-01      8.05000E-02
-      2.90610E+01      8.06000E-01      9.75200E-01      9.84600E-02
-      2.92540E+01      7.69000E-01      1.06800E+00      5.64500E-02
-      3.09710E+01      1.06200E+00      1.02300E+00      5.03600E-02
-      3.12820E+01      8.79000E-01      8.71700E-01      9.06900E-02
-      3.34860E+01      6.96000E-01      6.73400E-01      5.75100E-02
-      3.46990E+01      4.03000E-01      5.14200E-01      4.30800E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0060E+01        1.7950E+00        3.0000E-01        2.7960E-02
+        2.5106E+01        1.2810E+00        7.1790E-01        7.6890E-02
+        2.7221E+01        1.0260E+00        9.0930E-01        8.0500E-02
+        2.9061E+01        8.0600E-01        9.7520E-01        9.8460E-02
+        2.9254E+01        7.6900E-01        1.0680E+00        5.6450E-02
+        3.0971E+01        1.0620E+00        1.0230E+00        5.0360E-02
+        3.1282E+01        8.7900E-01        8.7170E-01        9.0690E-02
+        3.3486E+01        6.9600E-01        6.7340E-01        5.7510E-02
+        3.4699E+01        4.0300E-01        5.1420E-01        4.3080E-02

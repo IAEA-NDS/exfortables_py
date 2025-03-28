@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11287-002-0 
-# EXFOR reaction        : ['6-C-12', ['N,EL'], '6-C-12,,SIG'] 
+# EXFOR reaction        : (6-C-12(N,EL)6-C-12,,SIG) 
 # incident energy       : 6.0400e+00 MeV 
 # target                : C-12 
 # product               : C-12 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : R.M.Wilenzick 
+# first author          : Wilenzick 
 # institute             : (1USADKE): Duke University, Durham, NC 
 # reference             : (J,NP,62,511,1965) 
 # year                  : 1965 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11287.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11287
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.04000E+00      2.30000E-01      8.90000E-01      9.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0400E+00        2.3000E-01        8.9000E-01        9.0000E-02

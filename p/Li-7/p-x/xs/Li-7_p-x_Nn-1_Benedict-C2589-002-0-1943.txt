@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2589-002-0 
-# EXFOR reaction        : ['3-LI-7', ['P,X'], '0-NN-1,,SIG'] 
+# EXFOR reaction        : (3-LI-7(P,X)0-NN-1,,SIG) 
 # incident energy       : 2.7000e-01 MeV - 1.1000e+00 MeV 
 # target                : Li-7 
 # product               : Nn-1 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : D.L.Benedict 
+# first author          : Benedict 
 # institute             : (1USAWIS): University of Wisconsin, Madison, WI 
 # reference             : (R,CF-638,1943) 
 # year                  : 1943 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C25/C2589.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2589
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.70000E-01      0.00000E+00      1.34000E+00      0.00000E+00
-      1.10000E+00      0.00000E+00      1.29000E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7000E-01        0.0000E+00        1.3400E+00        0.0000E+00
+        1.1000E+00        0.0000E+00        1.2900E+00        0.0000E+00

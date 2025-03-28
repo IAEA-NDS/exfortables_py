@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0605-004-0 
-# EXFOR reaction        : ['92-U-235', ['P,F'], ',,SIG'] 
+# EXFOR reaction        : (92-U-235(P,F),,SIG) 
 # incident energy       : 5.9000e+02 MeV - 2.3000e+04 MeV 
 # target                : U-235 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : R.Brandt 
+# first author          : Brandt 
 # institute             : (2ZZZCER): European Org. for Nuclear Research (CERN), Geneva 
 # reference             : (J,RPA,7,243,1972) 
 # year                  : 1972 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0605.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0605
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.90000E+02      0.00000E+00      1.60000E+00      0.00000E+00
-      1.80000E+04      0.00000E+00      1.05000E+00      0.00000E+00
-      2.30000E+04      0.00000E+00      8.50000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.9000E+02        0.0000E+00        1.6000E+00        0.0000E+00
+        1.8000E+04        0.0000E+00        1.0500E+00        0.0000E+00
+        2.3000E+04        0.0000E+00        8.5000E-01        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21923-003-0 
-# EXFOR reaction        : ['26-FE-56', ['N,P'], '25-MN-56,,SIG'] 
+# EXFOR reaction        : (26-FE-56(N,P)25-MN-56,,SIG) 
 # incident energy       : 1.4000e+01 MeV - 1.9870e+01 MeV 
 # target                : Fe-56 
 # product               : Mn-56 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : K.Kudo 
+# first author          : Kudo 
 # institute             : (2JPNTSU): University of Tsukuba, Tsukuba 
 # reference             : (W,KUDO,84) 
 # year                  : 1984 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21923.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21923
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40000E+01      5.00000E-02      1.16400E-01      2.00000E-03
-      1.46000E+01      1.00000E-01      1.10000E-01      1.50000E-03
-      1.48000E+01      1.00000E-01      1.06200E-01      1.60000E-03
-      1.52100E+01      2.80000E-01      1.00000E-01      2.20000E-03
-      1.58800E+01      1.40000E-01      9.14000E-02      2.20000E-03
-      1.69800E+01      1.00000E-01      7.56000E-02      1.90000E-03
-      1.80400E+01      1.10000E-01      6.44000E-02      1.70000E-03
-      1.98700E+01      1.50000E-01      4.79000E-02      2.70000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        5.0000E-02        1.1640E-01        2.0000E-03
+        1.4600E+01        1.0000E-01        1.1000E-01        1.5000E-03
+        1.4800E+01        1.0000E-01        1.0620E-01        1.6000E-03
+        1.5210E+01        2.8000E-01        1.0000E-01        2.2000E-03
+        1.5880E+01        1.4000E-01        9.1400E-02        2.2000E-03
+        1.6980E+01        1.0000E-01        7.5600E-02        1.9000E-03
+        1.8040E+01        1.1000E-01        6.4400E-02        1.7000E-03
+        1.9870E+01        1.5000E-01        4.7900E-02        2.7000E-03

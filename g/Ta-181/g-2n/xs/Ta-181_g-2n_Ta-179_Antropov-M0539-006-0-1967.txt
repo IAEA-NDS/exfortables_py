@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M0539-006-0 
-# EXFOR reaction        : ['73-TA-181', ['G,2N'], '73-TA-179,,SIG,,BRS,DERIV'] 
+# EXFOR reaction        : (73-TA-181(G,2N)73-TA-179,,SIG,,BRS,DERIV) 
 # incident energy       : 1.4000e+01 MeV - 1.9500e+01 MeV 
 # target                : Ta-181 
 # product               : Ta-179 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : G.P.Antropov 
+# first author          : Antropov 
 # institute             : (4RUSFTI): Fiz.-Tekhnicheskiy Institute Ioffe, St.Petersburg+Gatchina 
 # reference             : (J,IZV,31,336,1967) 
 # year                  : 1967 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M05/M0539.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M0539
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40000E+01      0.00000E+00      7.29000E-02      0.00000E+00
-      1.50000E+01      0.00000E+00      2.13900E-01      0.00000E+00
-      1.60000E+01      0.00000E+00      2.52800E-01      0.00000E+00
-      1.70000E+01      0.00000E+00      2.04200E-01      0.00000E+00
-      1.80000E+01      0.00000E+00      1.31300E-01      0.00000E+00
-      1.90000E+01      0.00000E+00      9.72000E-02      0.00000E+00
-      1.95000E+01      0.00000E+00      7.78000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        0.0000E+00        7.2900E-02        0.0000E+00
+        1.5000E+01        0.0000E+00        2.1390E-01        0.0000E+00
+        1.6000E+01        0.0000E+00        2.5280E-01        0.0000E+00
+        1.7000E+01        0.0000E+00        2.0420E-01        0.0000E+00
+        1.8000E+01        0.0000E+00        1.3130E-01        0.0000E+00
+        1.9000E+01        0.0000E+00        9.7200E-02        0.0000E+00
+        1.9500E+01        0.0000E+00        7.7800E-02        0.0000E+00

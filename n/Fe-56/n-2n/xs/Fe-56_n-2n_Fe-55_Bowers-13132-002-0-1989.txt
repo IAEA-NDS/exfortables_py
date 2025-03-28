@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13132-002-0 
-# EXFOR reaction        : ['26-FE-56', ['N,2N'], '26-FE-55,,SIG'] 
+# EXFOR reaction        : (26-FE-56(N,2N)26-FE-55,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Fe-56 
 # product               : Fe-55 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : D.L.Bowers 
+# first author          : Bowers 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (S,ASTM-STP-1001,508,1989) 
 # year                  : 1989 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13132.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13132
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      4.00000E-01      4.54000E-01      3.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        4.0000E-01        4.5400E-01        3.5000E-02

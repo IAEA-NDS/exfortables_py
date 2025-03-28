@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11148-003-0 
-# EXFOR reaction        : ['2-HE-3', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (2-HE-3(N,TOT),,SIG) 
 # incident energy       : 1.4000e-09 MeV - 3.1900e-08 MeV 
 # target                : He-3 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : L.D.P.King 
+# first author          : King 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,PR,75,1366,1949) 
 # year                  : 1949 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/111/11148.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11148
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40000E-09      0.00000E+00      2.20700E+04      0.00000E+00
-      1.73000E-09      0.00000E+00      1.81900E+04      0.00000E+00
-      1.83000E-09      0.00000E+00      1.86800E+04      0.00000E+00
-      5.27000E-09      0.00000E+00      1.09900E+04      0.00000E+00
-      2.13000E-08      0.00000E+00      5.37300E+03      0.00000E+00
-      2.97000E-08      0.00000E+00      4.79200E+03      0.00000E+00
-      3.19000E-08      0.00000E+00      4.66000E+03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E-09        0.0000E+00        2.2070E+04        0.0000E+00
+        1.7300E-09        0.0000E+00        1.8190E+04        0.0000E+00
+        1.8300E-09        0.0000E+00        1.8680E+04        0.0000E+00
+        5.2700E-09        0.0000E+00        1.0990E+04        0.0000E+00
+        2.1300E-08        0.0000E+00        5.3730E+03        0.0000E+00
+        2.9700E-08        0.0000E+00        4.7920E+03        0.0000E+00
+        3.1900E-08        0.0000E+00        4.6600E+03        0.0000E+00

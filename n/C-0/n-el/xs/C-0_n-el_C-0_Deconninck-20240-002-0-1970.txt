@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20240-002-0 
-# EXFOR reaction        : ['6-C-0', ['N,EL'], '6-C-0,,SIG'] 
+# EXFOR reaction        : (6-C-0(N,EL)6-C-0,,SIG) 
 # incident energy       : 1.7270e+01 MeV - 1.9880e+01 MeV 
 # target                : C-0 
 # product               : C-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : G.Deconninck 
+# first author          : Deconninck 
 # institute             : (2BLGLVN): Catholic University of Louvain, Louvain-la-Neuve 
 # reference             : (J,PR/C,1,1326,197004) 
 # year                  : 1970 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20240.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20240
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.72700E+01      5.60000E-01      8.84000E-01      0.00000E+00
-      1.82500E+01      3.40000E-01      8.99000E-01      0.00000E+00
-      1.98800E+01      2.10000E-01      1.04400E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7270E+01        5.6000E-01        8.8400E-01        0.0000E+00
+        1.8250E+01        3.4000E-01        8.9900E-01        0.0000E+00
+        1.9880E+01        2.1000E-01        1.0440E+00        0.0000E+00

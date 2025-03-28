@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22877-016-0 
-# EXFOR reaction        : ['74-W-184', ['N,X'], '73-TA-183,,SIG'] 
+# EXFOR reaction        : (74-W-184(N,X)73-TA-183,,SIG) 
 # incident energy       : 1.5300e+01 MeV - 1.9000e+01 MeV 
 # target                : W-184 
 # product               : Ta-183 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : V.Semkova 
+# first author          : Semkova 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (C,2007NICE,1,559,2007) 
 # year                  : 2007 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22877.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22877
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.53000E+01      2.00000E-01      1.20000E-03      2.00000E-04
-      1.64000E+01      3.00000E-01      2.47000E-03      4.10000E-04
-      1.80000E+01      2.00000E-01      7.40000E-03      1.00000E-03
-      1.90000E+01      2.00000E-01      1.06000E-02      1.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5300E+01        2.0000E-01        1.2000E-03        2.0000E-04
+        1.6400E+01        3.0000E-01        2.4700E-03        4.1000E-04
+        1.8000E+01        2.0000E-01        7.4000E-03        1.0000E-03
+        1.9000E+01        2.0000E-01        1.0600E-02        1.0000E-03

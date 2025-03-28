@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M1041-002-0 
-# EXFOR reaction        : ['23-V-51', ['G,3N'], '23-V-48,,SIG,,BRA'] 
+# EXFOR reaction        : (23-V-51(G,3N)23-V-48,,SIG,,BRA) 
 # incident energy       : 4.0000e+01 MeV - 7.0000e+01 MeV 
 # target                : V-51 
 # product               : V-48 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : A.R.Balabekyan 
+# first author          : Balabekyan 
 # institute             : (4ARMJSU): Yerevan State University , Yerevan 
 # reference             : (J,RPC,204,110651,2023) 
 # year                  : 2023 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M10/M1041.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M1041
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+01      0.00000E+00      1.42000E-04      0.00000E+00
-      7.00000E+01      0.00000E+00      2.20000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+01        0.0000E+00        1.4200E-04        0.0000E+00
+        7.0000E+01        0.0000E+00        2.2000E-04        0.0000E+00

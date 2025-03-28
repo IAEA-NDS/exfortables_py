@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0676-011-0 
-# EXFOR reaction        : ['60-ND-0', ['P,X'], '60-ND-140,CUM,SIG'] 
+# EXFOR reaction        : (60-ND-0(P,X)60-ND-140,CUM,SIG) 
 # incident energy       : 2.3630e+01 MeV - 2.9040e+01 MeV 
 # target                : Nd-0 
 # product               : Nd-140 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : O.Lebeda 
+# first author          : Lebeda 
 # institute             : (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
 # reference             : (J,PR/C,85,014602,2012) 
 # year                  : 2012 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D06/D0676.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0676
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.90400E+01      2.00000E-01      7.55000E-02      8.30000E-03
-      2.76600E+01      2.00000E-01      2.90000E-02      3.20000E-03
-      2.62200E+01      2.00000E-01      4.67000E-03      5.60000E-04
-      2.51800E+01      2.00000E-01      1.94000E-03      3.40000E-04
-      2.36300E+01      2.00000E-01      1.20000E-03      2.30000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9040E+01        2.0000E-01        7.5500E-02        8.3000E-03
+        2.7660E+01        2.0000E-01        2.9000E-02        3.2000E-03
+        2.6220E+01        2.0000E-01        4.6700E-03        5.6000E-04
+        2.5180E+01        2.0000E-01        1.9400E-03        3.4000E-04
+        2.3630E+01        2.0000E-01        1.2000E-03        2.3000E-04

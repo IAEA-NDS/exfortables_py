@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40531-112-0 
-# EXFOR reaction        : ['30-ZN-68', ['N,INL'], '30-ZN-68,PAR,SIG'] 
+# EXFOR reaction        : (30-ZN-68(N,INL)30-ZN-68,PAR,SIG) 
 # incident energy       : 1.5000e+00 MeV - 3.0000e+00 MeV 
 # target                : Zn-68 
 # product               : Zn-68 
 # level energy          : 1.0800e+00 MeV 
 # MF-MT number          : 3 - 51 
-# first author          : I.A.Korzh 
+# first author          : Korzh 
 # institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
 # reference             : ((C,75KIEV,4,220,1975)=(R,INDC(CCP)-099,(4),220,1975)) 
 # year                  : 1975 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40531.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40531
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      6.04000E-01      3.40000E-02
-      2.00000E+00      0.00000E+00      6.65000E-01      2.60000E-02
-      2.50000E+00      0.00000E+00      6.38000E-01      2.20000E-02
-      3.00000E+00      0.00000E+00      5.22000E-01      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        6.0400E-01        3.4000E-02
+        2.0000E+00        0.0000E+00        6.6500E-01        2.6000E-02
+        2.5000E+00        0.0000E+00        6.3800E-01        2.2000E-02
+        3.0000E+00        0.0000E+00        5.2200E-01        2.0000E-02

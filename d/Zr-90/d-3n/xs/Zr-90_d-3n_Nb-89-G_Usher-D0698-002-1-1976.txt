@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0698-002-1 
-# EXFOR reaction        : ['40-ZR-90', ['D,3N'], '41-NB-89-G,,SIG'] 
+# EXFOR reaction        : (40-ZR-90(D,3N)41-NB-89-G,,SIG) 
 # incident energy       : 2.0250e+01 MeV - 2.7380e+01 MeV 
 # target                : Zr-90 
 # product               : Nb-89-G 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : O.H.Usher 
+# first author          : Usher 
 # institute             : (3ARGCNE): Comision Nacional de Energia Atomica, Buenos Aires 
 # reference             : (J,RCA,23,159,1976) 
 # year                  : 1976 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D06/D0698.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0698
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.73800E+01      0.00000E+00      5.37600E-02      2.63424E-03
-      2.64300E+01      0.00000E+00      5.07200E-02      1.97808E-03
-      2.55200E+01      0.00000E+00      3.79300E-02      1.82064E-03
-      2.45000E+01      0.00000E+00      2.48800E-02      1.86600E-03
-      2.35400E+01      0.00000E+00      1.63500E-02      1.68405E-03
-      2.24600E+01      0.00000E+00      3.93200E-03      1.21106E-03
-      2.14000E+01      0.00000E+00      9.35000E-04      4.20750E-04
-      2.02500E+01      0.00000E+00      7.10000E-04      3.55000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7380E+01        0.0000E+00        5.3760E-02        2.6342E-03
+        2.6430E+01        0.0000E+00        5.0720E-02        1.9781E-03
+        2.5520E+01        0.0000E+00        3.7930E-02        1.8206E-03
+        2.4500E+01        0.0000E+00        2.4880E-02        1.8660E-03
+        2.3540E+01        0.0000E+00        1.6350E-02        1.6841E-03
+        2.2460E+01        0.0000E+00        3.9320E-03        1.2111E-03
+        2.1400E+01        0.0000E+00        9.3500E-04        4.2075E-04
+        2.0250E+01        0.0000E+00        7.1000E-04        3.5500E-04

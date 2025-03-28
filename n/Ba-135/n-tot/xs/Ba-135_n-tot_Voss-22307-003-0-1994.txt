@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22307-003-0 
-# EXFOR reaction        : ['56-BA-135', ['N,TOT'], ',,SIG,,AV'] 
+# EXFOR reaction        : (56-BA-135(N,TOT),,SIG,,AV) 
 # incident energy       : 1.2500e-02 MeV - 1.7500e-01 MeV 
 # target                : Ba-135 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : F.Voss 
+# first author          : Voss 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,50,2582,1994) 
 # year                  : 1994 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22307.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22307
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.25000E-02      0.00000E+00      1.20000E+01      1.09200E+00
-      1.75000E-02      0.00000E+00      1.14000E+01      1.03740E+00
-      2.50000E-02      0.00000E+00      1.00000E+01      9.10000E-01
-      3.50000E-02      0.00000E+00      8.70000E+00      7.91700E-01
-      5.00000E-02      0.00000E+00      7.90000E+00      7.18900E-01
-      7.00000E-02      0.00000E+00      6.40000E+00      5.82400E-01
-      9.00000E-02      0.00000E+00      5.80000E+00      5.27800E-01
-      1.25000E-01      0.00000E+00      7.30000E+00      6.64300E-01
-      1.75000E-01      0.00000E+00      5.60000E+00      5.09600E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2500E-02        0.0000E+00        1.2000E+01        1.0920E+00
+        1.7500E-02        0.0000E+00        1.1400E+01        1.0374E+00
+        2.5000E-02        0.0000E+00        1.0000E+01        9.1000E-01
+        3.5000E-02        0.0000E+00        8.7000E+00        7.9170E-01
+        5.0000E-02        0.0000E+00        7.9000E+00        7.1890E-01
+        7.0000E-02        0.0000E+00        6.4000E+00        5.8240E-01
+        9.0000E-02        0.0000E+00        5.8000E+00        5.2780E-01
+        1.2500E-01        0.0000E+00        7.3000E+00        6.6430E-01
+        1.7500E-01        0.0000E+00        5.6000E+00        5.0960E-01

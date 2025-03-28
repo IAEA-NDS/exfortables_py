@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0213-014-N 
-# EXFOR reaction        : ['11-NA-23', ['P,NON'], ',,SIG,,,CALC'] 
+# EXFOR reaction        : (11-NA-23(P,NON),,SIG,,,CALC) 
 # incident energy       : 2.3600e+02 MeV - 5.6700e+02 MeV 
 # target                : Na-23 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : P.U.Renberg 
+# first author          : Renberg 
 # institute             : (2ZZZCER): European Org. for Nuclear Research (CERN), Geneva 
 # reference             : (J,NP/A,183,81,72) 
 # year                  : 1972 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0213.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0213
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.67000E+02      0.00000E+00      3.79000E-01      1.00000E-02
-      4.97000E+02      0.00000E+00      3.76000E-01      1.00000E-02
-      4.12000E+02      0.00000E+00      3.66000E-01      1.00000E-02
-      3.46000E+02      0.00000E+00      3.59000E-01      1.00000E-02
-      2.36000E+02      0.00000E+00      3.57000E-01      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.6700E+02        0.0000E+00        3.7900E-01        1.0000E-02
+        4.9700E+02        0.0000E+00        3.7600E-01        1.0000E-02
+        4.1200E+02        0.0000E+00        3.6600E-01        1.0000E-02
+        3.4600E+02        0.0000E+00        3.5900E-01        1.0000E-02
+        2.3600E+02        0.0000E+00        3.5700E-01        1.0000E-02

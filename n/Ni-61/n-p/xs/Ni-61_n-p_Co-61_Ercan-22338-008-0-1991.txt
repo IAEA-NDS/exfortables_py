@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22338-008-0 
-# EXFOR reaction        : ['28-NI-61', ['N,P'], '27-CO-61,,SIG'] 
+# EXFOR reaction        : (28-NI-61(N,P)27-CO-61,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Ni-61 
 # product               : Co-61 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : A.Ercan 
+# first author          : Ercan 
 # institute             : (2TUKCNA): Cekmece Nuclear Research Centre, Istanbul 
 # reference             : (C,91JUELIC,,376,199105) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22338.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22338
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      1.00000E-01      1.44000E-01      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        1.0000E-01        1.4400E-01        1.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21943-002-0 
-# EXFOR reaction        : ['92-U-238', ['N,F'], ',,SIG,,MXW'] 
+# EXFOR reaction        : (92-U-238(N,F),,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : U-238 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : P.D'Hondt 
+# first author          : D'Hondt 
 # institute             : (2BLGGHT): Universiteit Gent, Gent 
 # reference             : (J,ANE,11,(10),485,1984) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21943.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21943
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.10000E-05      2.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.1000E-05        2.0000E-06

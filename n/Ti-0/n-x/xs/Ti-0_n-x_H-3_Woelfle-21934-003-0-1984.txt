@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21934-003-0 
-# EXFOR reaction        : ['22-TI-0', ['N,X'], '1-H-3,,SIG,,SPA'] 
+# EXFOR reaction        : (22-TI-0(N,X)1-H-3,,SIG,,SPA) 
 # incident energy       : 1.2000e+01 MeV 
 # target                : Ti-0 
 # product               : H-3 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Woelfle 
+# first author          : Woelfle 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,NP/A,423,130,198401) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21934.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21934
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.20000E+01      0.00000E+00      4.80000E-04      1.40000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E+01        0.0000E+00        4.8000E-04        1.4000E-04

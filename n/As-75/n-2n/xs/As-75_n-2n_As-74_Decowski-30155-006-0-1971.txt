@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30155-006-0 
-# EXFOR reaction        : ['33-AS-75', ['N,2N'], '33-AS-74,,SIG'] 
+# EXFOR reaction        : (33-AS-75(N,2N)33-AS-74,,SIG) 
 # incident energy       : 1.3020e+01 MeV - 1.7780e+01 MeV 
 # target                : As-75 
 # product               : As-74 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : P.Decowski 
+# first author          : Decowski 
 # institute             : (3POLIPJ): Narodowe Centrum Badan Jadrowych, Swierk+Warszawa 
 # reference             : (P,INR-1318,8,1971) 
 # year                  : 1971 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30155.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30155
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.30200E+01      1.40000E-01      9.55000E-01      1.50000E-02
-      1.33600E+01      1.40000E-01      8.90000E-01      6.00000E-03
-      1.39000E+01      9.00000E-02      9.55000E-01      2.10000E-02
-      1.44700E+01      1.10000E-01      1.02700E+00      1.00000E-02
-      1.50600E+01      1.70000E-01      1.10900E+00      1.40000E-02
-      1.58800E+01      1.90000E-01      1.29900E+00      1.90000E-02
-      1.65100E+01      1.10000E-01      1.31200E+00      2.00000E-02
-      1.73200E+01      2.00000E-01      1.24500E+00      1.86000E-01
-      1.77800E+01      1.50000E-01      1.32100E+00      1.22000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3020E+01        1.4000E-01        9.5500E-01        1.5000E-02
+        1.3360E+01        1.4000E-01        8.9000E-01        6.0000E-03
+        1.3900E+01        9.0000E-02        9.5500E-01        2.1000E-02
+        1.4470E+01        1.1000E-01        1.0270E+00        1.0000E-02
+        1.5060E+01        1.7000E-01        1.1090E+00        1.4000E-02
+        1.5880E+01        1.9000E-01        1.2990E+00        1.9000E-02
+        1.6510E+01        1.1000E-01        1.3120E+00        2.0000E-02
+        1.7320E+01        2.0000E-01        1.2450E+00        1.8600E-01
+        1.7780E+01        1.5000E-01        1.3210E+00        1.2200E-01

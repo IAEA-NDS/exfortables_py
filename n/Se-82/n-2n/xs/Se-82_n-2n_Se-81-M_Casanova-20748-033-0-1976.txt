@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20748-033-0 
-# EXFOR reaction        : ['34-SE-82', ['N,2N'], '34-SE-81-M,,SIG'] 
+# EXFOR reaction        : (34-SE-82(N,2N)34-SE-81-M,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Se-82 
 # product               : Se-81-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.L.Casanova 
+# first author          : Casanova 
 # institute             : (2SPNVLD): Universidad de Valladolid 
 # reference             : (J,ARS,72,(3),186,197607) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20748.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20748
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      0.00000E+00      9.60000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        9.6000E-01        0.0000E+00

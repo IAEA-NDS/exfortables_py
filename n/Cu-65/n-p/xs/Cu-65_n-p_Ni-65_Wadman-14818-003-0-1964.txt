@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14818-003-0 
-# EXFOR reaction        : ['29-CU-65', ['N,P'], '28-NI-65,,SIG'] 
+# EXFOR reaction        : (29-CU-65(N,P)28-NI-65,,SIG) 
 # incident energy       : 2.2220e+00 MeV - 1.4824e+01 MeV 
 # target                : Cu-65 
 # product               : Ni-65 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : W.W.Wadman 
+# first author          : Wadman 
 # institute             : (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
 # reference             : (R,UCRL-11375,1964) 
 # year                  : 1964 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/148/14818.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14818
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.22200E+00      0.00000E+00      3.10300E-03      0.00000E+00
-      1.39240E+01      0.00000E+00      1.94500E-02      0.00000E+00
-      1.39440E+01      0.00000E+00      2.86900E-02      0.00000E+00
-      1.41400E+01      0.00000E+00      1.82800E-02      0.00000E+00
-      1.47420E+01      0.00000E+00      2.61400E-02      0.00000E+00
-      1.47460E+01      0.00000E+00      2.83700E-02      0.00000E+00
-      1.48240E+01      0.00000E+00      3.11000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2220E+00        0.0000E+00        3.1030E-03        0.0000E+00
+        1.3924E+01        0.0000E+00        1.9450E-02        0.0000E+00
+        1.3944E+01        0.0000E+00        2.8690E-02        0.0000E+00
+        1.4140E+01        0.0000E+00        1.8280E-02        0.0000E+00
+        1.4742E+01        0.0000E+00        2.6140E-02        0.0000E+00
+        1.4746E+01        0.0000E+00        2.8370E-02        0.0000E+00
+        1.4824E+01        0.0000E+00        3.1100E-02        0.0000E+00

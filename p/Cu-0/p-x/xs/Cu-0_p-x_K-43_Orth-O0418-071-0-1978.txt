@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0418-071-0 
-# EXFOR reaction        : ['29-CU-0', ['P,X'], '19-K-43,CUM,SIG'] 
+# EXFOR reaction        : (29-CU-0(P,X)19-K-43,CUM,SIG) 
 # incident energy       : 3.5000e+02 MeV 
 # target                : Cu-0 
 # product               : K-43 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : C.J.Orth 
+# first author          : Orth 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,PR/C,18,1426,1978) 
 # year                  : 1978 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O04/O0418.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0418
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.50000E+02      0.00000E+00      2.00000E-04      5.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5000E+02        0.0000E+00        2.0000E-04        5.0000E-05

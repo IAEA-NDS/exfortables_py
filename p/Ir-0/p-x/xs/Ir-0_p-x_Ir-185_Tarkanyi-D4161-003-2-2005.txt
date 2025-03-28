@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4161-003-2 
-# EXFOR reaction        : ['77-IR-0', ['P,X'], '77-IR-185,CUM,SIG,,,EXP'] 
+# EXFOR reaction        : (77-IR-0(P,X)77-IR-185,CUM,SIG,,,EXP) 
 # incident energy       : 5.7900e+01 MeV - 6.6400e+01 MeV 
 # target                : Ir-0 
 # product               : Ir-185 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,NIM/B,239,293,2005) 
 # year                  : 2005 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4161.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4161
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.79000E+01      1.00000E+00      5.50000E-03      2.00000E-03
-      6.64000E+01      4.00000E-01      4.14000E-02      1.24000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.7900E+01        1.0000E+00        5.5000E-03        2.0000E-03
+        6.6400E+01        4.0000E-01        4.1400E-02        1.2400E-02

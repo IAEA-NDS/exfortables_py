@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20867-003-0 
-# EXFOR reaction        : ['9-F-19', ['N,2N'], '9-F-18,,SIG'] 
+# EXFOR reaction        : (9-F-19(N,2N)9-F-18,,SIG) 
 # incident energy       : 1.4650e+01 MeV - 1.9000e+01 MeV 
 # target                : F-19 
 # product               : F-18 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : T.B.Ryves 
+# first author          : Ryves 
 # institute             : (2UK NPL): National Physics Laboratory , Teddington 
 # reference             : (J,JP/G,4,(11),1783,78) 
 # year                  : 1978 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20867.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20867
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46500E+01      1.00000E-01      4.69000E-02      1.60000E-03
-      1.60600E+01      3.00000E-01      6.46000E-02      2.10000E-03
-      1.65100E+01      2.50000E-01      6.92000E-02      2.20000E-03
-      1.73500E+01      2.00000E-01      7.60000E-02      2.50000E-03
-      1.80600E+01      1.90000E-01      8.15000E-02      2.50000E-03
-      1.90000E+01      1.90000E-01      8.28000E-02      4.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4650E+01        1.0000E-01        4.6900E-02        1.6000E-03
+        1.6060E+01        3.0000E-01        6.4600E-02        2.1000E-03
+        1.6510E+01        2.5000E-01        6.9200E-02        2.2000E-03
+        1.7350E+01        2.0000E-01        7.6000E-02        2.5000E-03
+        1.8060E+01        1.9000E-01        8.1500E-02        2.5000E-03
+        1.9000E+01        1.9000E-01        8.2800E-02        4.0000E-03

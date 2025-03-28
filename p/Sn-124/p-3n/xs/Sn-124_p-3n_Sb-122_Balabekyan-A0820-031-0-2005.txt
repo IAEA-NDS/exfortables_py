@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0820-031-0 
-# EXFOR reaction        : ['50-SN-124', ['P,3N'], '51-SB-122,,SIG'] 
+# EXFOR reaction        : (50-SN-124(P,3N)51-SB-122,,SIG) 
 # incident energy       : 3.6500e-06 MeV 
 # target                : Sn-124 
 # product               : Sb-122 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : A.R.Balabekyan 
+# first author          : Balabekyan 
 # institute             : (4ARMJSU): Yerevan State University , Yerevan 
 # reference             : (J,YF,68,195,2005) 
 # year                  : 2005 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A08/A0820.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0820
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.65000E-06      0.00000E+00      3.90000E-03      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6500E-06        0.0000E+00        3.9000E-03        2.0000E-04

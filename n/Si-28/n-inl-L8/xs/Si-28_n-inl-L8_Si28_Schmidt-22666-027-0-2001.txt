@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22666-027-0 
-# EXFOR reaction        : ['14-SI-28', ['N,INL'], '14-SI-28,PAR,SIG'] 
+# EXFOR reaction        : (14-SI-28(N,INL)14-SI-28,PAR,SIG) 
 # incident energy       : 9.8800e+00 MeV - 1.3850e+01 MeV 
 # target                : Si-28 
 # product               : Si-28 
 # level energy          : 7.4150e+00 MeV 
 # MF-MT number          : 3 - 58 
-# first author          : D.Schmidt 
+# first author          : Schmidt 
 # institute             : (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
 # reference             : (R,PTB-N-43,2001) 
 # year                  : 2001 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22666.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22666
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.88000E+00      1.21000E-01      7.75930E-02      1.34158E-02
-      1.03500E+01      1.21000E-01      1.00710E-01      5.32756E-03
-      1.08100E+01      1.21000E-01      6.29110E-02      3.78724E-03
-      1.17800E+01      1.21000E-01      2.47530E-02      4.43079E-03
-      1.27900E+01      1.21000E-01      2.67480E-02      5.72407E-03
-      1.38500E+01      1.21000E-01      2.38440E-02      3.00434E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.8800E+00        1.2100E-01        7.7593E-02        1.3416E-02
+        1.0350E+01        1.2100E-01        1.0071E-01        5.3276E-03
+        1.0810E+01        1.2100E-01        6.2911E-02        3.7872E-03
+        1.1780E+01        1.2100E-01        2.4753E-02        4.4308E-03
+        1.2790E+01        1.2100E-01        2.6748E-02        5.7241E-03
+        1.3850E+01        1.2100E-01        2.3844E-02        3.0043E-03

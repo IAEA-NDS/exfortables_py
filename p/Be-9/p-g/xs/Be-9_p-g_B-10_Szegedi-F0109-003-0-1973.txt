@@ -1,11 +1,11 @@
 # entry-subent-pointer  : F0109-003-0 
-# EXFOR reaction        : ['4-BE-9', ['P,G'], '5-B-10,,SIG,,,DERIV'] 
+# EXFOR reaction        : (4-BE-9(P,G)5-B-10,,SIG,,,DERIV) 
 # incident energy       : 3.3000e-01 MeV - 5.0000e-01 MeV 
 # target                : Be-9 
 # product               : B-10 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.Szegedi 
+# first author          : Szegedi 
 # institute             : (3HUNKOS): University of Debrecen, Debrecen 
 # reference             : (J,AHP,34,215,1973) 
 # year                  : 1973 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F01/F0109.x4 
 # nds                   : https://nds.iaea.org/EXFOR/F0109
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.30000E-01      0.00000E+00      1.79000E-05      1.79000E-06
-      5.00000E-01      0.00000E+00      2.17000E-05      2.17000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3000E-01        0.0000E+00        1.7900E-05        1.7900E-06
+        5.0000E-01        0.0000E+00        2.1700E-05        2.1700E-06

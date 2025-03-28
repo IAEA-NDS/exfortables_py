@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21709-007-0 
-# EXFOR reaction        : ['69-TM-169', ['N,2N'], '69-TM-168,,SIG'] 
+# EXFOR reaction        : (69-TM-169(N,2N)69-TM-168,,SIG) 
 # incident energy       : 1.4100e+01 MeV - 1.4800e+01 MeV 
 # target                : Tm-169 
 # product               : Tm-168 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.Laurec 
+# first author          : Laurec 
 # institute             : (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
 # reference             : (R,CEA-R-5109,198106) 
 # year                  : 1981 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21709.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21709
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      1.00000E-01      2.02400E+00      1.30000E-01
-      1.48000E+01      3.00000E-01      2.01600E+00      1.30000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        1.0000E-01        2.0240E+00        1.3000E-01
+        1.4800E+01        3.0000E-01        2.0160E+00        1.3000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0500-030-0 
-# EXFOR reaction        : ['82-PB-0', ['P,X'], '40-ZR-97,CUM,SIG'] 
+# EXFOR reaction        : (82-PB-0(P,X)40-ZR-97,CUM,SIG) 
 # incident energy       : 9.5600e+01 MeV - 1.3700e+02 MeV 
 # target                : Pb-0 
 # product               : Zr-97 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Gloris 
+# first author          : Gloris 
 # institute             : (2GERUH): University Hannover (previously Tech.University Hannover) 
 # reference             : (J,NIM/A,463,593,2001) 
 # year                  : 2001 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0500.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0500
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.56000E+01      1.20000E+00      1.51000E-03      3.00000E-04
-      1.13000E+02      1.00000E+00      1.32000E-03      3.70000E-04
-      1.22000E+02      1.00000E+00      1.77000E-03      3.10000E-04
-      1.29000E+02      1.00000E+00      1.64000E-03      3.40000E-04
-      1.37000E+02      1.00000E+00      1.81000E-03      5.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.5600E+01        1.2000E+00        1.5100E-03        3.0000E-04
+        1.1300E+02        1.0000E+00        1.3200E-03        3.7000E-04
+        1.2200E+02        1.0000E+00        1.7700E-03        3.1000E-04
+        1.2900E+02        1.0000E+00        1.6400E-03        3.4000E-04
+        1.3700E+02        1.0000E+00        1.8100E-03        5.0000E-04

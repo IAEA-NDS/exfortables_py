@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11504-013-0 
-# EXFOR reaction        : ['50-SN-112', ['N,2N'], '50-SN-111,,SIG'] 
+# EXFOR reaction        : (50-SN-112(N,2N)50-SN-111,,SIG) 
 # incident energy       : 1.1800e+01 MeV - 1.3850e+01 MeV 
 # target                : Sn-112 
 # product               : Sn-111 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : H.A.Tewes 
+# first author          : Tewes 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (R,UCRL-6028-T,196006) 
 # year                  : 1960 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11504.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11504
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.18000E+01      2.00000E-01      1.09000E-01      2.18000E-02
-      1.28000E+01      2.00000E-01      5.12000E-01      1.02400E-01
-      1.38500E+01      2.00000E-01      7.26000E-01      1.45200E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1800E+01        2.0000E-01        1.0900E-01        2.1800E-02
+        1.2800E+01        2.0000E-01        5.1200E-01        1.0240E-01
+        1.3850E+01        2.0000E-01        7.2600E-01        1.4520E-01

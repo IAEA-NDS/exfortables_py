@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20198-023-0 
-# EXFOR reaction        : ['76-OS-188', ['N,P'], '75-RE-188,,SIG'] 
+# EXFOR reaction        : (76-OS-188(N,P)75-RE-188,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Os-188 
 # product               : Re-188 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : W.Nagel 
+# first author          : Nagel 
 # institute             : (2NEDAMS): University of Amsterdam, Amsterdam 
 # reference             : (T,NAGEL,196612) 
 # year                  : 1966 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20198.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20198
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      2.00000E-01      8.00000E-03      1.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        2.0000E-01        8.0000E-03        1.0000E-03

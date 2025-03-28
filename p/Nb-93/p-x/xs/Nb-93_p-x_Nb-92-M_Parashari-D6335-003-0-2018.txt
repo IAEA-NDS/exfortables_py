@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D6335-003-0 
-# EXFOR reaction        : ['41-NB-93', ['P,X'], '41-NB-92-M,,SIG'] 
+# EXFOR reaction        : (41-NB-93(P,X)41-NB-92-M,,SIG) 
 # incident energy       : 1.1590e+01 MeV - 2.1850e+01 MeV 
 # target                : Nb-93 
 # product               : Nb-92-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.Parashari 
+# first author          : Parashari 
 # institute             : (3INDBDA): M.S. University of Baroda, Baroda 
 # reference             : (J,NP/A,978,160,2018) 
 # year                  : 2018 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D63/D6335.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D6335
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.15900E+01      4.60000E-01      1.13000E-04      6.00000E-06
-      1.41300E+01      4.00000E-01      5.56000E-03      2.50000E-04
-      1.69800E+01      3.50000E-01      4.13600E-02      2.93000E-03
-      1.95300E+01      3.20000E-01      7.52500E-02      3.37000E-03
-      2.18500E+01      2.90000E-01      9.11700E-02      5.74000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1590E+01        4.6000E-01        1.1300E-04        6.0000E-06
+        1.4130E+01        4.0000E-01        5.5600E-03        2.5000E-04
+        1.6980E+01        3.5000E-01        4.1360E-02        2.9300E-03
+        1.9530E+01        3.2000E-01        7.5250E-02        3.3700E-03
+        2.1850E+01        2.9000E-01        9.1170E-02        5.7400E-03

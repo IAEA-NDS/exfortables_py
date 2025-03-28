@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13133-002-0 
-# EXFOR reaction        : ['22-TI-47', ['N,P'], '21-SC-47,,SIG'] 
+# EXFOR reaction        : (22-TI-47(N,P)21-SC-47,,SIG) 
 # incident energy       : 1.4300e+01 MeV - 1.9100e+01 MeV 
 # target                : Ti-47 
 # product               : Sc-47 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : W.V.Hecker 
+# first author          : Hecker 
 # institute             : (1USAAUB): Auburn University, Auburn, AL 
 # reference             : (J,NIM/B,40-41,478,1989) 
 # year                  : 1989 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13133.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13133
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.43000E+01      3.00000E-01      1.58000E-01      9.00000E-03
-      1.49000E+01      6.00000E-01      1.42000E-01      1.20000E-02
-      1.62000E+01      2.00000E-01      1.31000E-01      7.00000E-03
-      1.71000E+01      1.00000E-01      1.03000E-01      6.00000E-03
-      1.82000E+01      1.00000E-01      1.25000E-01      1.00000E-02
-      1.91000E+01      1.00000E-01      1.22000E-01      9.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4300E+01        3.0000E-01        1.5800E-01        9.0000E-03
+        1.4900E+01        6.0000E-01        1.4200E-01        1.2000E-02
+        1.6200E+01        2.0000E-01        1.3100E-01        7.0000E-03
+        1.7100E+01        1.0000E-01        1.0300E-01        6.0000E-03
+        1.8200E+01        1.0000E-01        1.2500E-01        1.0000E-02
+        1.9100E+01        1.0000E-01        1.2200E-01        9.0000E-03

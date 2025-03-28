@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33177-003-0 
-# EXFOR reaction        : ['34-SE-82', ['N,2N'], '34-SE-81-M,,SIG,,SPA'] 
+# EXFOR reaction        : (34-SE-82(N,2N)34-SE-81-M,,SIG,,SPA) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Se-82 
 # product               : Se-81-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : N.S.Tawade 
+# first author          : Tawade 
 # institute             : (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
 # reference             : (J,EPJ/A,58,80,2022) 
 # year                  : 2022 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33177.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33177
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      3.00000E-01      1.03000E+00      7.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        3.0000E-01        1.0300E+00        7.0000E-02

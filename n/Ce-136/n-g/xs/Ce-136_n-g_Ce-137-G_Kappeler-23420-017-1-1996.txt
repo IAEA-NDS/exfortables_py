@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23420-017-1 
-# EXFOR reaction        : ['58-CE-136', ['N,G'], '58-CE-137-G,,SIG,,MXW'] 
+# EXFOR reaction        : (58-CE-136(N,G)58-CE-137-G,,SIG,,MXW) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : Ce-136 
 # product               : Ce-137-G 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : F.Kappeler 
+# first author          : Kappeler 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,53,1397,1996) 
 # year                  : 1996 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/234/23420.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23420
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      0.00000E+00      3.59000E-01      2.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        3.5900E-01        2.3000E-02

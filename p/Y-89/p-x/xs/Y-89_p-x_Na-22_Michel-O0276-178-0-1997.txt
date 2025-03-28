@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0276-178-0 
-# EXFOR reaction        : ['39-Y-89', ['P,X'], '11-NA-22,CUM,SIG'] 
+# EXFOR reaction        : (39-Y-89(P,X)11-NA-22,CUM,SIG) 
 # incident energy       : 7.7200e+02 MeV - 1.6000e+03 MeV 
 # target                : Y-89 
 # product               : Na-22 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,129,153,1997) 
 # year                  : 1997 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0276
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.72000E+02      1.23000E+00      1.97000E-04      6.97000E-05
-      1.60000E+03      2.00000E+01      4.75000E-04      3.95000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.7200E+02        1.2300E+00        1.9700E-04        6.9700E-05
+        1.6000E+03        2.0000E+01        4.7500E-04        3.9500E-05

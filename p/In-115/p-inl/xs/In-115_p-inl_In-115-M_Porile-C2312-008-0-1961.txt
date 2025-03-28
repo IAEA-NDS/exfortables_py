@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2312-008-0 
-# EXFOR reaction        : ['49-IN-115', ['P,INL'], '49-IN-115-M,,SIG'] 
+# EXFOR reaction        : (49-IN-115(P,INL)49-IN-115-M,,SIG) 
 # incident energy       : 6.3150e+00 MeV - 9.9370e+00 MeV 
 # target                : In-115 
 # product               : In-115-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : N.T.Porile 
+# first author          : Porile 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR,121,184,1961) 
 # year                  : 1961 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2312.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2312
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.31500E+00      0.00000E+00      3.10400E-05      0.00000E+00
-      7.81700E+00      0.00000E+00      2.03900E-04      0.00000E+00
-      9.04500E+00      0.00000E+00      6.14900E-04      0.00000E+00
-      9.93700E+00      0.00000E+00      1.36100E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.3150E+00        0.0000E+00        3.1040E-05        0.0000E+00
+        7.8170E+00        0.0000E+00        2.0390E-04        0.0000E+00
+        9.0450E+00        0.0000E+00        6.1490E-04        0.0000E+00
+        9.9370E+00        0.0000E+00        1.3610E-03        0.0000E+00

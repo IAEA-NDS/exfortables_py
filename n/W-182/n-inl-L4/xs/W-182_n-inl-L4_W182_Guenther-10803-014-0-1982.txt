@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10803-014-0 
-# EXFOR reaction        : ['74-W-182', ['N,INL'], '74-W-182,PAR,SIG'] 
+# EXFOR reaction        : (74-W-182(N,INL)74-W-182,PAR,SIG) 
 # incident energy       : 1.9000e+00 MeV - 3.0000e+00 MeV 
 # target                : W-182 
 # product               : W-182 
 # level energy          : 1.1380e+00 MeV 
 # MF-MT number          : 3 - 54 
-# first author          : P.T.Guenther 
+# first author          : Guenther 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,PR/C,26,2433,198212) 
 # year                  : 1982 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10803.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10803
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.90000E+00      0.00000E+00      1.12000E-01      4.50000E-02
-      2.10000E+00      0.00000E+00      1.52000E-01      4.50000E-02
-      2.30000E+00      0.00000E+00      1.37000E-01      4.00000E-02
-      2.50000E+00      0.00000E+00      5.10000E-02      3.00000E-02
-      2.60000E+00      0.00000E+00      7.00000E-02      3.00000E-02
-      2.70000E+00      0.00000E+00      6.40000E-02      2.50000E-02
-      3.00000E+00      0.00000E+00      3.20000E-02      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9000E+00        0.0000E+00        1.1200E-01        4.5000E-02
+        2.1000E+00        0.0000E+00        1.5200E-01        4.5000E-02
+        2.3000E+00        0.0000E+00        1.3700E-01        4.0000E-02
+        2.5000E+00        0.0000E+00        5.1000E-02        3.0000E-02
+        2.6000E+00        0.0000E+00        7.0000E-02        3.0000E-02
+        2.7000E+00        0.0000E+00        6.4000E-02        2.5000E-02
+        3.0000E+00        0.0000E+00        3.2000E-02        2.0000E-02

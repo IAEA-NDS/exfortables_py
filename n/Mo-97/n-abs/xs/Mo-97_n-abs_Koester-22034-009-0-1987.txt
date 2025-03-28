@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22034-009-0 
-# EXFOR reaction        : ['42-MO-97', ['N,ABS'], ',,SIG'] 
+# EXFOR reaction        : (42-MO-97(N,ABS),,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Mo-97 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 27 
-# first author          : L.Koester 
+# first author          : Koester 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (J,ZP/A,326,227,1987) 
 # year                  : 1987 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22034.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22034
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.50000E+00      2.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.5000E+00        2.0000E-01

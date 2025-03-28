@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22338-042-0 
-# EXFOR reaction        : ['25-MN-55', ['N,P'], '24-CR-55,,SIG'] 
+# EXFOR reaction        : (25-MN-55(N,P)24-CR-55,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Mn-55 
 # product               : Cr-55 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : A.Ercan 
+# first author          : Ercan 
 # institute             : (2TUKCNA): Cekmece Nuclear Research Centre, Istanbul 
 # reference             : (C,91JUELIC,,376,199105) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22338.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22338
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      1.00000E-01      6.30000E-02      9.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        1.0000E-01        6.3000E-02        9.0000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41614-231-0 
-# EXFOR reaction        : ['79-AU-197', ['N,2N'], '79-AU-196,,SIG'] 
+# EXFOR reaction        : (79-AU-197(N,2N)79-AU-196,,SIG) 
 # incident energy       : 1.3480e+01 MeV - 1.4830e+01 MeV 
 # target                : Au-197 
 # product               : Au-196 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,INDC(CCP)-0460,2016) 
 # year                  : 2016 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34800E+01      0.00000E+00      2.24200E+00      9.64060E-02
-      1.36600E+01      0.00000E+00      2.18400E+00      9.28200E-02
-      1.38800E+01      0.00000E+00      2.18300E+00      9.38690E-02
-      1.40600E+01      0.00000E+00      2.25200E+00      1.07420E-01
-      1.42800E+01      0.00000E+00      2.17300E+00      8.86584E-02
-      1.44700E+01      0.00000E+00      2.21300E+00      9.38312E-02
-      1.46800E+01      0.00000E+00      2.24300E+00      9.33088E-02
-      1.48300E+01      0.00000E+00      2.22000E+00      9.43500E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3480E+01        0.0000E+00        2.2420E+00        9.6406E-02
+        1.3660E+01        0.0000E+00        2.1840E+00        9.2820E-02
+        1.3880E+01        0.0000E+00        2.1830E+00        9.3869E-02
+        1.4060E+01        0.0000E+00        2.2520E+00        1.0742E-01
+        1.4280E+01        0.0000E+00        2.1730E+00        8.8658E-02
+        1.4470E+01        0.0000E+00        2.2130E+00        9.3831E-02
+        1.4680E+01        0.0000E+00        2.2430E+00        9.3309E-02
+        1.4830E+01        0.0000E+00        2.2200E+00        9.4350E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23295-005-0 
-# EXFOR reaction        : ['6-C-13', ['N,G'], '6-C-14,,SIG,,SPA'] 
+# EXFOR reaction        : (6-C-13(N,G)6-C-14,,SIG,,SPA) 
 # incident energy       : 1.2800e-01 MeV - 1.8200e-01 MeV 
 # target                : C-13 
 # product               : C-14 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.Wallner 
+# first author          : Wallner 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,93,045803,2016) 
 # year                  : 2016 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23295.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23295
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.28000E-01      3.00000E-02      1.36000E-04      1.10000E-05
-      1.82000E-01      3.00000E-02      9.90000E-05      1.20000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2800E-01        3.0000E-02        1.3600E-04        1.1000E-05
+        1.8200E-01        3.0000E-02        9.9000E-05        1.2000E-05

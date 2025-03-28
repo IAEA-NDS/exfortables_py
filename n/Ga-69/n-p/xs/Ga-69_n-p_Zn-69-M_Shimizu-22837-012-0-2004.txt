@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22837-012-0 
-# EXFOR reaction        : ['31-GA-69', ['N,P'], '30-ZN-69-M,,SIG'] 
+# EXFOR reaction        : (31-GA-69(N,P)30-ZN-69-M,,SIG) 
 # incident energy       : 2.2700e+00 MeV - 3.0900e+00 MeV 
 # target                : Ga-69 
 # product               : Zn-69-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : T.Shimizu 
+# first author          : Shimizu 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : (J,ANE,31,975,2004) 
 # year                  : 2004 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22837.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22837
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.09000E+00      0.00000E+00      5.60000E-04      4.00000E-05
-      2.90000E+00      0.00000E+00      3.30000E-04      6.00000E-05
-      2.69000E+00      0.00000E+00      2.35000E-04      2.80000E-05
-      2.46000E+00      0.00000E+00      1.45000E-04      2.50000E-05
-      2.27000E+00      0.00000E+00      5.80000E-04      2.10000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0900E+00        0.0000E+00        5.6000E-04        4.0000E-05
+        2.9000E+00        0.0000E+00        3.3000E-04        6.0000E-05
+        2.6900E+00        0.0000E+00        2.3500E-04        2.8000E-05
+        2.4600E+00        0.0000E+00        1.4500E-04        2.5000E-05
+        2.2700E+00        0.0000E+00        5.8000E-04        2.1000E-05

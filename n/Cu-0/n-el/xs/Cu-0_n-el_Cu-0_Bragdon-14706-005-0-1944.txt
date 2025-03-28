@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14706-005-0 
-# EXFOR reaction        : ['29-CU-0', ['N,EL'], '29-CU-0,,SIG,,SPA'] 
+# EXFOR reaction        : (29-CU-0(N,EL)29-CU-0,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Cu-0 
 # product               : Cu-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : E.Bragdon 
+# first author          : Bragdon 
 # institute             : (1USACHI): University of Chicago, IL 
 # reference             : (R,CP-1827,10,1944) 
 # year                  : 1944 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/147/14706.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14706
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      6.90000E+00      1.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        6.9000E+00        1.0000E-01

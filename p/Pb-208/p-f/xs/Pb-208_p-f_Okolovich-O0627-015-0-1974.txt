@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0627-015-0 
-# EXFOR reaction        : ['82-PB-208', ['P,F'], ',,SIG,,,EXP'] 
+# EXFOR reaction        : (82-PB-208(P,F),,SIG,,,EXP) 
 # incident energy       : 2.3600e+01 MeV - 2.9600e+01 MeV 
 # target                : Pb-208 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : V.N.Okolovich 
+# first author          : Okolovich 
 # institute             : (4KASKAZ): Institute Yadernoi Fiziki, Almaty 
 # reference             : (R,IYFK-P-112,1974) 
 # year                  : 1974 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0627.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0627
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.36000E+01      2.00000E-01      6.40000E-07      3.84000E-08
-      2.46000E+01      2.00000E-01      1.21000E-06      7.26000E-08
-      2.56000E+01      2.00000E-01      3.04000E-06      1.82400E-07
-      2.66000E+01      2.00000E-01      9.11000E-06      5.46600E-07
-      2.76000E+01      2.00000E-01      1.51000E-05      9.06000E-07
-      2.81000E+01      2.00000E-01      1.81000E-05      1.08600E-06
-      2.86000E+01      2.00000E-01      2.54000E-05      1.52400E-06
-      2.91000E+01      2.00000E-01      3.21000E-05      1.92600E-06
-      2.96000E+01      2.00000E-01      3.81000E-05      2.28600E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3600E+01        2.0000E-01        6.4000E-07        3.8400E-08
+        2.4600E+01        2.0000E-01        1.2100E-06        7.2600E-08
+        2.5600E+01        2.0000E-01        3.0400E-06        1.8240E-07
+        2.6600E+01        2.0000E-01        9.1100E-06        5.4660E-07
+        2.7600E+01        2.0000E-01        1.5100E-05        9.0600E-07
+        2.8100E+01        2.0000E-01        1.8100E-05        1.0860E-06
+        2.8600E+01        2.0000E-01        2.5400E-05        1.5240E-06
+        2.9100E+01        2.0000E-01        3.2100E-05        1.9260E-06
+        2.9600E+01        2.0000E-01        3.8100E-05        2.2860E-06

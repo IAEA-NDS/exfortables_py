@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21362-022-0 
-# EXFOR reaction        : ['25-MN-55', ['N,G'], '25-MN-56,,SIG,,MXW'] 
+# EXFOR reaction        : (25-MN-55(N,G)25-MN-56,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Mn-55 
 # product               : Mn-56 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : F.C.W.Colmer 
+# first author          : Colmer 
 # institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 # reference             : (J,PPS/A,63,1175,195006) 
 # year                  : 1950 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21362.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21362
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.28000E+01      8.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.2800E+01        8.0000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12681-002-0 
-# EXFOR reaction        : ['26-FE-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (26-FE-0(N,TOT),,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Fe-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : G.T.Western 
+# first author          : Western 
 # institute             : (1USAGDT): General Dynamics, Fort Worth, TX 
 # reference             : (R,WL-TR-64-140,1965) 
 # year                  : 1965 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/126/12681.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12681
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      2.00000E-01      2.49000E+00      5.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        2.0000E-01        2.4900E+00        5.0000E-02

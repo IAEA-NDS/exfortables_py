@@ -1,11 +1,11 @@
 # entry-subent-pointer  : F1083-004-0 
-# EXFOR reaction        : ['1-H-2', ['P,G'], '2-HE-3,,SIG,,SFC'] 
+# EXFOR reaction        : (1-H-2(P,G)2-HE-3,,SIG,,SFC) 
 # incident energy       : 3.2707e-03 MeV - 4.8843e-03 MeV 
 # target                : H-2 
 # product               : He-3 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.M.Bystritsky 
+# first author          : Bystritsky 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (J,IZV,74,563,2010) 
 # year                  : 2010 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F10/F1083.x4 
 # nds                   : https://nds.iaea.org/EXFOR/F1083
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.27070E-03      2.78000E-05      2.45670E-01      7.02270E-02
-      4.50370E-03      2.78000E-05      2.74420E-01      6.22210E-02
-      4.88430E-03      2.78000E-05      2.95840E-01      6.48940E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.2707E-03        2.7800E-05        2.4567E-01        7.0227E-02
+        4.5037E-03        2.7800E-05        2.7442E-01        6.2221E-02
+        4.8843E-03        2.7800E-05        2.9584E-01        6.4894E-02

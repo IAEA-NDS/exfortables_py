@@ -1,11 +1,11 @@
 # entry-subent-pointer  : R0038-006-0 
-# EXFOR reaction        : ['30-ZN-67', ['D,N+A'], '29-CU-64,,SIG'] 
+# EXFOR reaction        : (30-ZN-67(D,N+A)29-CU-64,,SIG) 
 # incident energy       : 1.0000e+01 MeV - 1.5500e+01 MeV 
 # target                : Zn-67 
 # product               : Cu-64 
 # level energy          : - 
 # MF-MT number          : 3 - 22 
-# first author          : D.C.Williams 
+# first author          : Williams 
 # institute             : (1USAMIT): Massachusetts Institute of Technology, Cambridge, MA 
 # reference             : (J,PR,130,(1),265,196304) 
 # year                  : 1963 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/R00/R0038.x4 
 # nds                   : https://nds.iaea.org/EXFOR/R0038
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+01      0.00000E+00      1.10000E-02      0.00000E+00
-      1.09000E+01      0.00000E+00      2.85000E-02      0.00000E+00
-      1.25000E+01      0.00000E+00      5.31000E-02      0.00000E+00
-      1.40000E+01      0.00000E+00      6.13000E-02      0.00000E+00
-      1.55000E+01      0.00000E+00      7.01000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+01        0.0000E+00        1.1000E-02        0.0000E+00
+        1.0900E+01        0.0000E+00        2.8500E-02        0.0000E+00
+        1.2500E+01        0.0000E+00        5.3100E-02        0.0000E+00
+        1.4000E+01        0.0000E+00        6.1300E-02        0.0000E+00
+        1.5500E+01        0.0000E+00        7.0100E-02        0.0000E+00

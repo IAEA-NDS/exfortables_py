@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12024-002-0 
-# EXFOR reaction        : ['53-I-129', ['N,ABS'], ',,SIG,,,DERIV'] 
+# EXFOR reaction        : (53-I-129(N,ABS),,SIG,,,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : I-129 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 27 
-# first author          : R.C.Block 
+# first author          : Block 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,NSE,8,112,1960) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12024.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12024
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      3.10000E+01      4.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        3.1000E+01        4.0000E+00

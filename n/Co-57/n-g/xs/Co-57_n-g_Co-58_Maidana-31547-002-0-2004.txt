@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31547-002-0 
-# EXFOR reaction        : ['27-CO-57', ['N,G'], '27-CO-58,,SIG,,MXW'] 
+# EXFOR reaction        : (27-CO-57(N,G)27-CO-58,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Co-57 
 # product               : Co-58 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : N.L.Maidana 
+# first author          : Maidana 
 # institute             : (3BZLUSP): University de Sao Paulo, Sao Paulo 
 # reference             : (J,PR/C,70,014602,2004) 
 # year                  : 2004 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31547.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31547
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      5.10000E+01      5.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        5.1000E+01        5.0000E+00

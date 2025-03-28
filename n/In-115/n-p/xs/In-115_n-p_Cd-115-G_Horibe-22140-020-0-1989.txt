@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22140-020-0 
-# EXFOR reaction        : ['49-IN-115', ['N,P'], '48-CD-115-G,,SIG,,FIS'] 
+# EXFOR reaction        : (49-IN-115(N,P)48-CD-115-G,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : In-115 
 # product               : Cd-115-G 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : O.Horibe 
+# first author          : Horibe 
 # institute             : (2JPNKNK): Kinki University ,Higashi Osaka 
 # reference             : (C,89WASH,2,923,1989) 
 # year                  : 1989 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22140.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22140
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      9.38000E-06      1.04000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        9.3800E-06        1.0400E-06

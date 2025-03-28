@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22752-006-0 
-# EXFOR reaction        : ['39-Y-89', ['N,2N'], '39-Y-88,,SIG'] 
+# EXFOR reaction        : (39-Y-89(N,2N)39-Y-88,,SIG) 
 # incident energy       : 1.2693e+01 MeV - 1.9427e+01 MeV 
 # target                : Y-89 
 # product               : Y-88 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.Iwasaki 
+# first author          : Iwasaki 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (C,94GATLIN,1,305,1994) 
 # year                  : 1994 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22752.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22752
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.26930E+01      1.27840E-02      3.76700E-01      0.00000E+00
-      1.34360E+01      1.27840E-02      7.36140E-01      0.00000E+00
-      1.45420E+01      1.27840E-02      9.81160E-01      0.00000E+00
-      1.58080E+01      1.27840E-02      1.04790E+00      0.00000E+00
-      1.68670E+01      1.27840E-02      1.22210E+00      0.00000E+00
-      1.82080E+01      1.27840E-02      1.19230E+00      0.00000E+00
-      1.91280E+01      1.27840E-02      1.21340E+00      0.00000E+00
-      1.94270E+01      1.27840E-02      1.24030E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2693E+01        1.2784E-02        3.7670E-01        0.0000E+00
+        1.3436E+01        1.2784E-02        7.3614E-01        0.0000E+00
+        1.4542E+01        1.2784E-02        9.8116E-01        0.0000E+00
+        1.5808E+01        1.2784E-02        1.0479E+00        0.0000E+00
+        1.6867E+01        1.2784E-02        1.2221E+00        0.0000E+00
+        1.8208E+01        1.2784E-02        1.1923E+00        0.0000E+00
+        1.9128E+01        1.2784E-02        1.2134E+00        0.0000E+00
+        1.9427E+01        1.2784E-02        1.2403E+00        0.0000E+00

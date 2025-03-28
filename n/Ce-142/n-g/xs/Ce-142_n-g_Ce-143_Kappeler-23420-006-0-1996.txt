@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23420-006-0 
-# EXFOR reaction        : ['58-CE-142', ['N,G'], '58-CE-143,,SIG,,MXW'] 
+# EXFOR reaction        : (58-CE-142(N,G)58-CE-143,,SIG,,MXW) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : Ce-142 
 # product               : Ce-143 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : F.Kappeler 
+# first author          : Kappeler 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,53,1397,1996) 
 # year                  : 1996 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/234/23420.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23420
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      0.00000E+00      3.11000E-02      1.30000E-03
-      2.50000E-02      0.00000E+00      3.16000E-02      1.10000E-03
-      2.50000E-02      0.00000E+00      3.17000E-02      1.30000E-03
-      2.50000E-02      0.00000E+00      2.91000E-02      1.20000E-03
-      2.50000E-02      0.00000E+00      3.08000E-02      1.20000E-03
-      2.50000E-02      0.00000E+00      3.04000E-02      1.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        3.1100E-02        1.3000E-03
+        2.5000E-02        0.0000E+00        3.1600E-02        1.1000E-03
+        2.5000E-02        0.0000E+00        3.1700E-02        1.3000E-03
+        2.5000E-02        0.0000E+00        2.9100E-02        1.2000E-03
+        2.5000E-02        0.0000E+00        3.0800E-02        1.2000E-03
+        2.5000E-02        0.0000E+00        3.0400E-02        1.0000E-03

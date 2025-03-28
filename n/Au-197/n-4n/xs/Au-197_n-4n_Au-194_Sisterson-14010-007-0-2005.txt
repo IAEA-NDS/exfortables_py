@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14010-007-0 
-# EXFOR reaction        : ['79-AU-197', ['N,4N'], '79-AU-194,,SIG,,SPA'] 
+# EXFOR reaction        : (79-AU-197(N,4N)79-AU-194,,SIG,,SPA) 
 # incident energy       : 3.7535e+02 MeV - 3.7625e+02 MeV 
 # target                : Au-197 
 # product               : Au-194 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : J.M.Sisterson 
+# first author          : Sisterson 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,NIM/B,234,419,2005) 
 # year                  : 2005 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/140/14010.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14010
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.75350E+02      0.00000E+00      1.31000E-01      1.50000E-02
-      3.75625E+02      0.00000E+00      1.13000E-01      1.30000E-02
-      3.76250E+02      0.00000E+00      1.45000E-01      1.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.7535E+02        0.0000E+00        1.3100E-01        1.5000E-02
+        3.7562E+02        0.0000E+00        1.1300E-01        1.3000E-02
+        3.7625E+02        0.0000E+00        1.4500E-01        1.7000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0347-018-0 
-# EXFOR reaction        : ['53-I-127', ['P,X'], '51-SB-127,,SIG'] 
+# EXFOR reaction        : (53-I-127(P,X)51-SB-127,,SIG) 
 # incident energy       : 2.5000e+02 MeV - 6.2000e+03 MeV 
 # target                : I-127 
 # product               : Sb-127 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : I.-M.Ladenbauer 
+# first author          : Ladenbauer 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,119,1368,1960) 
 # year                  : 1960 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0347.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0347
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E+02      0.00000E+00      1.00000E-05      2.50000E-06
-      5.00000E+02      0.00000E+00      1.00000E-04      2.50000E-05
-      7.20000E+02      0.00000E+00      1.40000E-05      3.50000E-06
-      1.00000E+03      0.00000E+00      9.00000E-06      2.25000E-06
-      2.00000E+03      0.00000E+00      1.90000E-05      4.75000E-06
-      4.00000E+03      0.00000E+00      4.00000E-04      1.00000E-04
-      6.20000E+03      0.00000E+00      9.00000E-06      2.25000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+02        0.0000E+00        1.0000E-05        2.5000E-06
+        5.0000E+02        0.0000E+00        1.0000E-04        2.5000E-05
+        7.2000E+02        0.0000E+00        1.4000E-05        3.5000E-06
+        1.0000E+03        0.0000E+00        9.0000E-06        2.2500E-06
+        2.0000E+03        0.0000E+00        1.9000E-05        4.7500E-06
+        4.0000E+03        0.0000E+00        4.0000E-04        1.0000E-04
+        6.2000E+03        0.0000E+00        9.0000E-06        2.2500E-06

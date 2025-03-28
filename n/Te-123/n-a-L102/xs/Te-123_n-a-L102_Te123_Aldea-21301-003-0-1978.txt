@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21301-003-0 
-# EXFOR reaction        : ['52-TE-123', ['N,A'], '50-SN-120,PAR,SIG,,MXW'] 
+# EXFOR reaction        : (52-TE-123(N,A)50-SN-120,PAR,SIG,,MXW) 
 # incident energy       : 2.5100e-08 MeV 
 # target                : Te-123 
 # product               : Sn-120 
-# level energy          : 7.3000e+00 MeV 
-# MF-MT number          : 3 - 91 
-# first author          : L.Aldea 
+# level energy          : 6.1000e+00 MeV 
+# MF-MT number          : 3 - 848 
+# first author          : Aldea 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (C,78BNL,529,780918) 
 # year                  : 1978 
@@ -13,5 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21301.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21301
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.51000E-08      0.00000E+00      4.20000E-05      7.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5100E-08        0.0000E+00        1.2000E-05        5.0000E-06
+        2.5100E-08        0.0000E+00        4.2000E-05        7.0000E-06

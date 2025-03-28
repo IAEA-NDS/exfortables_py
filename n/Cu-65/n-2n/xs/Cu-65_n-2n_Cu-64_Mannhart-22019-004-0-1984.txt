@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22019-004-0 
-# EXFOR reaction        : ['29-CU-65', ['N,2N'], '29-CU-64,,SIG,,FIS'] 
+# EXFOR reaction        : (29-CU-65(N,2N)29-CU-64,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Cu-65 
 # product               : Cu-64 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : W.Mannhart 
+# first author          : Mannhart 
 # institute             : (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
 # reference             : (C,84GEESTH,2,801,8409) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22019.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22019
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      6.65000E-04      2.30000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        6.6500E-04        2.3000E-05

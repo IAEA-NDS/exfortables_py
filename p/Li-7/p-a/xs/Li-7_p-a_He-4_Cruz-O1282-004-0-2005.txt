@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1282-004-0 
-# EXFOR reaction        : ['3-LI-7', ['P,A'], '2-HE-4,,SIG,,SFC'] 
+# EXFOR reaction        : (3-LI-7(P,A)2-HE-4,,SIG,,SFC) 
 # incident energy       : 3.2000e-02 MeV - 8.3300e-02 MeV 
 # target                : Li-7 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : J.Cruz 
+# first author          : Cruz 
 # institute             : (2PRTLIS): Universidade de Lisboa, Lisboa 
 # reference             : (J,PL/B,624,181,2005) 
 # year                  : 2005 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O12/O1282.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1282
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.20000E-02      0.00000E+00      1.30700E+05      5.60000E+03
-      4.04000E-02      0.00000E+00      1.10400E+05      6.10000E+03
-      4.90000E-02      0.00000E+00      1.04700E+05      4.80000E+03
-      5.75000E-02      0.00000E+00      9.75000E+04      4.80000E+03
-      6.60000E-02      0.00000E+00      8.61000E+04      6.60000E+03
-      7.46000E-02      0.00000E+00      7.83000E+04      6.50000E+03
-      8.33000E-02      0.00000E+00      7.46000E+04      4.20000E+03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.2000E-02        0.0000E+00        1.3070E+05        5.6000E+03
+        4.0400E-02        0.0000E+00        1.1040E+05        6.1000E+03
+        4.9000E-02        0.0000E+00        1.0470E+05        4.8000E+03
+        5.7500E-02        0.0000E+00        9.7500E+04        4.8000E+03
+        6.6000E-02        0.0000E+00        8.6100E+04        6.6000E+03
+        7.4600E-02        0.0000E+00        7.8300E+04        6.5000E+03
+        8.3300E-02        0.0000E+00        7.4600E+04        4.2000E+03

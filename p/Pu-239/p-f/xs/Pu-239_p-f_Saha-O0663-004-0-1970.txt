@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0663-004-0 
-# EXFOR reaction        : ['94-PU-239', ['P,F'], '55-CS-131,IND,SIG'] 
+# EXFOR reaction        : (94-PU-239(P,F)55-CS-131,IND,SIG) 
 # incident energy       : 4.0000e+01 MeV - 8.5000e+01 MeV 
 # target                : Pu-239 
 # product               : Cs-131 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : G.B.Saha 
+# first author          : Saha 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,JIN,32,745,1970) 
 # year                  : 1970 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0663.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0663
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+01      0.00000E+00      3.00000E-04      2.00000E-04
-      5.00000E+01      0.00000E+00      1.60000E-03      8.00000E-04
-      6.00000E+01      0.00000E+00      2.70000E-03      1.30000E-03
-      7.00000E+01      0.00000E+00      1.50000E-03      8.00000E-04
-      7.70000E+01      0.00000E+00      3.50000E-03      1.80000E-03
-      8.50000E+01      0.00000E+00      2.70000E-03      1.40000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+01        0.0000E+00        3.0000E-04        2.0000E-04
+        5.0000E+01        0.0000E+00        1.6000E-03        8.0000E-04
+        6.0000E+01        0.0000E+00        2.7000E-03        1.3000E-03
+        7.0000E+01        0.0000E+00        1.5000E-03        8.0000E-04
+        7.7000E+01        0.0000E+00        3.5000E-03        1.8000E-03
+        8.5000E+01        0.0000E+00        2.7000E-03        1.4000E-03

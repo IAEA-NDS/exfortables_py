@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2350-006-0 
-# EXFOR reaction        : ['52-TE-130', ['P,X'], 'ELEM/MASS,IND,SIG'] 
+# EXFOR reaction        : (52-TE-130(P,X)ELEM/MASS,IND,SIG) 
 # incident energy       : 8.0000e+02 MeV 
 # target                : Te-130 
 # product               : Sc-46 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : K.L.Kolsky 
+# first author          : Kolsky 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR/C,48,236,1993) 
 # year                  : 1993 
@@ -13,5 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2350.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2350
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.00000E+02      0.00000E+00      5.12000E-05      1.66000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+02        0.0000E+00        5.6000E-06        1.5000E-06
+        8.0000E+02        0.0000E+00        2.1900E-05        2.6000E-06
+        8.0000E+02        0.0000E+00        1.0000E-05        1.5000E-06
+        8.0000E+02        0.0000E+00        5.1200E-05        1.6600E-05
+        8.0000E+02        0.0000E+00        3.1900E-05        4.6000E-06
+        8.0000E+02        0.0000E+00        1.6500E-05        2.9000E-06

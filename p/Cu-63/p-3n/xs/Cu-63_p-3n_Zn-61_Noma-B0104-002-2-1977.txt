@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0104-002-2 
-# EXFOR reaction        : ['29-CU-63', ['P,3N'], '30-ZN-61,,SIG,,,EXP'] 
+# EXFOR reaction        : (29-CU-63(P,3N)30-ZN-61,,SIG,,,EXP) 
 # incident energy       : 3.0200e+01 MeV - 4.7200e+01 MeV 
 # target                : Cu-63 
 # product               : Zn-61 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : H.Noma 
+# first author          : Noma 
 # institute             : (2JPNHIR): Hiroshima University , Hiroshima and Higashi-Hiroshima 
 # reference             : (J,JIN,39,1923,1977) 
 # year                  : 1977 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0104.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0104
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.02000E+01      0.00000E+00      1.20000E-03      2.50000E-04
-      3.18000E+01      0.00000E+00      1.60000E-03      2.50000E-04
-      3.55000E+01      0.00000E+00      4.80000E-03      7.20000E-04
-      3.88000E+01      0.00000E+00      5.80000E-03      7.40000E-04
-      4.18000E+01      0.00000E+00      4.10000E-03      8.30000E-04
-      4.44000E+01      0.00000E+00      5.00000E-03      9.00000E-04
-      4.72000E+01      0.00000E+00      3.60000E-03      5.80000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0200E+01        0.0000E+00        1.2000E-03        2.5000E-04
+        3.1800E+01        0.0000E+00        1.6000E-03        2.5000E-04
+        3.5500E+01        0.0000E+00        4.8000E-03        7.2000E-04
+        3.8800E+01        0.0000E+00        5.8000E-03        7.4000E-04
+        4.1800E+01        0.0000E+00        4.1000E-03        8.3000E-04
+        4.4400E+01        0.0000E+00        5.0000E-03        9.0000E-04
+        4.7200E+01        0.0000E+00        3.6000E-03        5.8000E-04

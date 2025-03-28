@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11884-021-0 
-# EXFOR reaction        : ['54-XE-132', ['N,2N'], '54-XE-131-M,,SIG'] 
+# EXFOR reaction        : (54-XE-132(N,2N)54-XE-131-M,,SIG) 
 # incident energy       : 1.4400e+01 MeV 
 # target                : Xe-132 
 # product               : Xe-131-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : E.Kondaiah 
+# first author          : Kondaiah 
 # institute             : (1USAGIT): Georgia Institute of Technology, Atlanta, GA 
 # reference             : (J,NP/A,120,337,6811) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11884.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11884
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.44000E+01      3.00000E-01      7.75000E-01      6.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4400E+01        3.0000E-01        7.7500E-01        6.5000E-02

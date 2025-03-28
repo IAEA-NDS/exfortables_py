@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20836-026-0 
-# EXFOR reaction        : ['34-SE-74', ['N,2N'], '34-SE-73-M,,SIG'] 
+# EXFOR reaction        : (34-SE-74(N,2N)34-SE-73-M,,SIG) 
 # incident energy       : 1.2950e+01 MeV - 1.9600e+01 MeV 
 # target                : Se-74 
 # product               : Se-73-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : M.Bormann 
+# first author          : Bormann 
 # institute             : (2GERHAM): Hamburg, Universitaet 
 # reference             : (J,ZN/A,21,988,1966) 
 # year                  : 1966 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20836.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20836
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.29500E+01      0.00000E+00      2.03000E-02      3.80000E-03
-      1.41000E+01      0.00000E+00      4.17000E-02      4.60000E-03
-      1.49000E+01      0.00000E+00      7.80000E-02      3.10000E-02
-      1.63000E+01      0.00000E+00      6.06000E-02      1.13000E-02
-      1.72000E+01      0.00000E+00      8.10000E-02      1.60000E-02
-      1.80000E+01      0.00000E+00      7.30000E-02      1.40000E-02
-      1.96000E+01      0.00000E+00      7.25000E-02      1.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2950E+01        0.0000E+00        2.0300E-02        3.8000E-03
+        1.4100E+01        0.0000E+00        4.1700E-02        4.6000E-03
+        1.4900E+01        0.0000E+00        7.8000E-02        3.1000E-02
+        1.6300E+01        0.0000E+00        6.0600E-02        1.1300E-02
+        1.7200E+01        0.0000E+00        8.1000E-02        1.6000E-02
+        1.8000E+01        0.0000E+00        7.3000E-02        1.4000E-02
+        1.9600E+01        0.0000E+00        7.2500E-02        1.3000E-02

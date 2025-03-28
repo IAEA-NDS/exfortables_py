@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0578-010-0 
-# EXFOR reaction        : ['92-U-0', ['P,F'], '62-SM-155,CUM,SIG'] 
+# EXFOR reaction        : (92-U-0(P,F)62-SM-155,CUM,SIG) 
 # incident energy       : 2.0000e+01 MeV - 8.5000e+01 MeV 
 # target                : U-0 
 # product               : Sm-155 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : J.L.Galinier 
+# first author          : Galinier 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,JIN,39,1497,1977) 
 # year                  : 1977 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0578.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0578
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+01      2.00000E+00      2.20000E-03      4.00000E-04
-      2.50000E+01      2.00000E+00      2.40000E-03      5.00000E-04
-      3.00000E+01      2.00000E+00      3.70000E-03      5.00000E-04
-      4.00000E+01      2.00000E+00      3.10000E-03      3.00000E-04
-      5.00000E+01      2.00000E+00      3.00000E-03      2.00000E-04
-      6.00000E+01      2.00000E+00      3.20000E-03      5.00000E-04
-      7.00000E+01      2.00000E+00      1.90000E-03      4.00000E-04
-      7.70000E+01      2.00000E+00      2.40000E-03      5.00000E-04
-      8.50000E+01      2.00000E+00      1.70000E-03      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+01        2.0000E+00        2.2000E-03        4.0000E-04
+        2.5000E+01        2.0000E+00        2.4000E-03        5.0000E-04
+        3.0000E+01        2.0000E+00        3.7000E-03        5.0000E-04
+        4.0000E+01        2.0000E+00        3.1000E-03        3.0000E-04
+        5.0000E+01        2.0000E+00        3.0000E-03        2.0000E-04
+        6.0000E+01        2.0000E+00        3.2000E-03        5.0000E-04
+        7.0000E+01        2.0000E+00        1.9000E-03        4.0000E-04
+        7.7000E+01        2.0000E+00        2.4000E-03        5.0000E-04
+        8.5000E+01        2.0000E+00        1.7000E-03        2.0000E-04

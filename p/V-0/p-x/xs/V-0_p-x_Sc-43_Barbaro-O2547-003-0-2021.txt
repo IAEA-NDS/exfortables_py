@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2547-003-0 
-# EXFOR reaction        : ['23-V-0', ['P,X'], '21-SC-43,,SIG'] 
+# EXFOR reaction        : (23-V-0(P,X)21-SC-43,,SIG) 
 # incident energy       : 4.8100e+01 MeV - 7.0000e+01 MeV 
 # target                : V-0 
 # product               : Sc-43 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Barbaro 
+# first author          : Barbaro 
 # institute             : (2ITYUPV): Universita degli Studi di Padova + INFN Padova 
 # reference             : (J,PR/C,104,044619,2021) 
 # year                  : 2021 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O25/O2547.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2547
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.00000E+01      6.00000E-01      4.00000E-04      1.00000E-04
-      6.78000E+01      7.00000E-01      3.00000E-04      1.00000E-04
-      6.55000E+01      8.00000E-01      1.00000E-04      1.00000E-04
-      6.07000E+01      6.00000E-01      3.00000E-04      3.00000E-04
-      5.83000E+01      7.00000E-01      1.00000E-04      1.00000E-04
-      5.57000E+01      8.00000E-01      5.00000E-05      3.00000E-05
-      5.36000E+01      6.00000E-01      7.00000E-05      4.00000E-05
-      5.10000E+01      7.00000E-01      1.00000E-04      1.00000E-04
-      4.81000E+01      8.00000E-01      4.00000E-04      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0000E+01        6.0000E-01        4.0000E-04        1.0000E-04
+        6.7800E+01        7.0000E-01        3.0000E-04        1.0000E-04
+        6.5500E+01        8.0000E-01        1.0000E-04        1.0000E-04
+        6.0700E+01        6.0000E-01        3.0000E-04        3.0000E-04
+        5.8300E+01        7.0000E-01        1.0000E-04        1.0000E-04
+        5.5700E+01        8.0000E-01        5.0000E-05        3.0000E-05
+        5.3600E+01        6.0000E-01        7.0000E-05        4.0000E-05
+        5.1000E+01        7.0000E-01        1.0000E-04        1.0000E-04
+        4.8100E+01        8.0000E-01        4.0000E-04        2.0000E-04

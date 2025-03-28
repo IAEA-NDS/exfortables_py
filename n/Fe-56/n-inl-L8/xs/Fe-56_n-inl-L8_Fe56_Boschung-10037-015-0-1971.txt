@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10037-015-0 
-# EXFOR reaction        : ['26-FE-56', ['N,INL'], '26-FE-56,PAR,SIG'] 
+# EXFOR reaction        : (26-FE-56(N,INL)26-FE-56,PAR,SIG) 
 # incident energy       : 5.0500e+00 MeV - 5.5800e+00 MeV 
 # target                : Fe-56 
 # product               : Fe-56 
 # level energy          : 3.4500e+00 MeV 
 # MF-MT number          : 3 - 58 
-# first author          : P.Boschung 
+# first author          : Boschung 
 # institute             : (1USACSE): Case Western Reserve University, Cleveland, OH 
 # reference             : (J,NP/A,161,593,1971) 
 # year                  : 1971 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10037.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10037
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.05000E+00      1.00000E-02      2.13000E-01      1.10000E-02
-      5.58000E+00      1.00000E-02      1.50000E-01      1.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0500E+00        1.0000E-02        2.1300E-01        1.1000E-02
+        5.5800E+00        1.0000E-02        1.5000E-01        1.1000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22434-005-0 
-# EXFOR reaction        : ['24-CR-54', ['N,A'], '22-TI-51,,SIG'] 
+# EXFOR reaction        : (24-CR-54(N,A)22-TI-51,,SIG) 
 # incident energy       : 1.3400e+01 MeV - 1.4870e+01 MeV 
 # target                : Cr-54 
 # product               : Ti-51 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : Y.Kasugai 
+# first author          : Kasugai 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : (J,ANE,25,(18),1485,1998) 
 # year                  : 1998 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22434.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22434
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34000E+01      0.00000E+00      1.03000E-02      4.32600E-04
-      1.36500E+01      0.00000E+00      1.10000E-02      4.73000E-04
-      1.38800E+01      0.00000E+00      1.17000E-02      4.91400E-04
-      1.42800E+01      0.00000E+00      1.21000E-02      5.68700E-04
-      1.45800E+01      0.00000E+00      1.28000E-02      5.37600E-04
-      1.48700E+01      0.00000E+00      1.32000E-02      5.41200E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3400E+01        0.0000E+00        1.0300E-02        4.3260E-04
+        1.3650E+01        0.0000E+00        1.1000E-02        4.7300E-04
+        1.3880E+01        0.0000E+00        1.1700E-02        4.9140E-04
+        1.4280E+01        0.0000E+00        1.2100E-02        5.6870E-04
+        1.4580E+01        0.0000E+00        1.2800E-02        5.3760E-04
+        1.4870E+01        0.0000E+00        1.3200E-02        5.4120E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0364-003-0 
-# EXFOR reaction        : ['83-BI-209', ['P,X'], 'ELEM/MASS,CUM,SIG'] 
+# EXFOR reaction        : (83-BI-209(P,X)ELEM/MASS,CUM,SIG) 
 # incident energy       : 3.8000e+02 MeV 
 # target                : Bi-209 
 # product               : Bi-199 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : E.T.Hunter 
+# first author          : Hunter 
 # institute             : (1USACOL): Columbia University, New York, NY 
 # reference             : (J,PR,115,1053,1959) 
 # year                  : 1959 
@@ -13,5 +13,15 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0364.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0364
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.80000E+02      0.00000E+00      6.86000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.8000E+02        0.0000E+00        6.8600E-02        0.0000E+00
+        3.8000E+02        0.0000E+00        6.0100E-02        0.0000E+00
+        3.8000E+02        0.0000E+00        1.2500E-02        0.0000E+00
+        3.8000E+02        0.0000E+00        6.2500E-02        1.8400E-02
+        3.8000E+02        0.0000E+00        6.2300E-02        1.5200E-02
+        3.8000E+02        0.0000E+00        2.2000E-02        0.0000E+00
+        3.8000E+02        0.0000E+00        2.1900E-02        0.0000E+00
+        3.8000E+02        0.0000E+00        3.9800E-02        0.0000E+00
+        3.8000E+02        0.0000E+00        1.0500E-03        0.0000E+00
+        3.8000E+02        0.0000E+00        2.0800E-02        5.9000E-03
+        3.8000E+02        0.0000E+00        2.8100E-02        0.0000E+00

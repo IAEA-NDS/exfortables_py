@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0904-002-0 
-# EXFOR reaction        : ['46-PD-102', ['P,G'], '47-AG-103,,SIG,,SFC'] 
+# EXFOR reaction        : (46-PD-102(P,G)47-AG-103,,SIG,,SFC) 
 # incident energy       : 2.5270e+00 MeV - 4.1710e+00 MeV 
 # target                : Pd-102 
 # product               : Ag-103 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : N.Ozkan 
+# first author          : Ozkan 
 # institute             : (1USAOSU): Ohio State University, Columbus, OH 
 # reference             : (J,NP/A,710,469,2002) 
 # year                  : 2002 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C09/C0904.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0904
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.52700E+00      0.00000E+00      3.88550E+14      6.64421E+13
-      2.62600E+00      0.00000E+00      2.60560E+14      7.24357E+13
-      2.72500E+00      0.00000E+00      2.85420E+14      5.42298E+13
-      2.92400E+00      0.00000E+00      2.39320E+14      4.78640E+13
-      3.17300E+00      0.00000E+00      1.74140E+14      2.71658E+13
-      3.42200E+00      0.00000E+00      1.38840E+14      2.38805E+13
-      3.67200E+00      0.00000E+00      8.55600E+13      1.48019E+13
-      3.91900E+00      0.00000E+00      9.90100E+13      1.44555E+13
-      4.17100E+00      0.00000E+00      8.15600E+13      9.62408E+12
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5270E+00        0.0000E+00        3.8855E+14        6.6442E+13
+        2.6260E+00        0.0000E+00        2.6056E+14        7.2436E+13
+        2.7250E+00        0.0000E+00        2.8542E+14        5.4230E+13
+        2.9240E+00        0.0000E+00        2.3932E+14        4.7864E+13
+        3.1730E+00        0.0000E+00        1.7414E+14        2.7166E+13
+        3.4220E+00        0.0000E+00        1.3884E+14        2.3880E+13
+        3.6720E+00        0.0000E+00        8.5560E+13        1.4802E+13
+        3.9190E+00        0.0000E+00        9.9010E+13        1.4455E+13
+        4.1710E+00        0.0000E+00        8.1560E+13        9.6241E+12

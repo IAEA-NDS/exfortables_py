@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22685-010-2 
-# EXFOR reaction        : ['44-RU-104', ['N,G'], '44-RU-105,,SIG,,MXW'] 
+# EXFOR reaction        : (44-RU-104(N,G)44-RU-105,,SIG,,MXW) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : Ru-104 
 # product               : Ru-105 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : W.Rapp 
+# first author          : Rapp 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,66,015803,2002) 
 # year                  : 2002 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22685.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22685
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      0.00000E+00      1.78000E-01      8.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        1.7800E-01        8.0000E-03

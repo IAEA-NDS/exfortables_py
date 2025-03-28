@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0324-002-0 
-# EXFOR reaction        : ['73-TA-0', ['P,X'], 'ELEM/MASS,CUM,SIG'] 
+# EXFOR reaction        : (73-TA-0(P,X)ELEM/MASS,CUM,SIG) 
 # incident energy       : 5.8000e+02 MeV 
 # target                : Ta-0 
 # product               : Tm-165 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : B.Neidhart 
+# first author          : Neidhart 
 # institute             : (2GERTHD): Technische Universitaet Darmstadt 
 # reference             : (J,JIN,33,2751,1971) 
 # year                  : 1971 
@@ -13,5 +13,21 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0324.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0324
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.80000E+02      0.00000E+00      5.39000E-02      2.60000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.8000E+02        0.0000E+00        3.9000E-04        8.0000E-05
+        5.8000E+02        0.0000E+00        6.4000E-04        6.0000E-05
+        5.8000E+02        0.0000E+00        1.2900E-03        6.0000E-05
+        5.8000E+02        0.0000E+00        2.1800E-03        2.1000E-04
+        5.8000E+02        0.0000E+00        5.9500E-03        3.3000E-04
+        5.8000E+02        0.0000E+00        6.4600E-03        3.2000E-04
+        5.8000E+02        0.0000E+00        1.0400E-02        3.6000E-04
+        5.8000E+02        0.0000E+00        1.0400E-02        4.2000E-04
+        5.8000E+02        0.0000E+00        1.2000E-02        6.0000E-04
+        5.8000E+02        0.0000E+00        1.4200E-02        5.0000E-04
+        5.8000E+02        0.0000E+00        1.6930E-02        7.0000E-04
+        5.8000E+02        0.0000E+00        4.2200E-02        4.1000E-03
+        5.8000E+02        0.0000E+00        5.3900E-02        2.6000E-03
+        5.8000E+02        0.0000E+00        5.6000E-02        3.1000E-03
+        5.8000E+02        0.0000E+00        4.4300E-02        3.4000E-03
+        5.8000E+02        0.0000E+00        5.2300E-02        3.5000E-03
+        5.8000E+02        0.0000E+00        4.7800E-02        4.2000E-03

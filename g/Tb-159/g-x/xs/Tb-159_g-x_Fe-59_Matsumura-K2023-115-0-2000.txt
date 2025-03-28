@@ -1,11 +1,11 @@
 # entry-subent-pointer  : K2023-115-0 
-# EXFOR reaction        : ['65-TB-159', ['G,X'], '26-FE-59,CUM,SIG,,BRA'] 
+# EXFOR reaction        : (65-TB-159(G,X)26-FE-59,CUM,SIG,,BRA) 
 # incident energy       : 8.0000e+02 MeV 
 # target                : Tb-159 
 # product               : Fe-59 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Matsumura 
+# first author          : Matsumura 
 # institute             : (2JPNKNZ): Kanazawa University , Kanazawa 
 # reference             : (J,RCA,88,(6),313,200006) 
 # year                  : 2000 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K20/K2023.x4 
 # nds                   : https://nds.iaea.org/EXFOR/K2023
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.00000E+02      0.00000E+00      1.10000E-06      2.00000E-07
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+02        0.0000E+00        1.1000E-06        2.0000E-07

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : K2025-006-0 
-# EXFOR reaction        : ['13-AL-27', ['G,X'], '4-BE-10,IND,SIG,,BRA'] 
+# EXFOR reaction        : (13-AL-27(G,X)4-BE-10,IND,SIG,,BRA) 
 # incident energy       : 5.0000e+02 MeV - 1.0500e+03 MeV 
 # target                : Al-27 
 # product               : Be-10 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.Shibata 
+# first author          : Shibata 
 # institute             : (2JPNTOK): University of Tokyo, Tokyo 
 # reference             : (J,RCA,80,(4),181,1998) 
 # year                  : 1998 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K20/K2025.x4 
 # nds                   : https://nds.iaea.org/EXFOR/K2025
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.05000E+03      0.00000E+00      4.68000E-05      6.70000E-06
-      1.00000E+03      0.00000E+00      4.08000E-05      9.20000E-06
-      9.00000E+02      0.00000E+00      3.72000E-05      1.06000E-05
-      8.50000E+02      0.00000E+00      4.61000E-05      6.90000E-06
-      8.00000E+02      0.00000E+00      4.59000E-05      1.05000E-05
-      7.00000E+02      0.00000E+00      3.64000E-05      9.00000E-06
-      6.00000E+02      0.00000E+00      2.45000E-05      5.40000E-06
-      5.50000E+02      0.00000E+00      2.14000E-05      5.50000E-06
-      5.00000E+02      0.00000E+00      2.74000E-05      7.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0500E+03        0.0000E+00        4.6800E-05        6.7000E-06
+        1.0000E+03        0.0000E+00        4.0800E-05        9.2000E-06
+        9.0000E+02        0.0000E+00        3.7200E-05        1.0600E-05
+        8.5000E+02        0.0000E+00        4.6100E-05        6.9000E-06
+        8.0000E+02        0.0000E+00        4.5900E-05        1.0500E-05
+        7.0000E+02        0.0000E+00        3.6400E-05        9.0000E-06
+        6.0000E+02        0.0000E+00        2.4500E-05        5.4000E-06
+        5.5000E+02        0.0000E+00        2.1400E-05        5.5000E-06
+        5.0000E+02        0.0000E+00        2.7400E-05        7.0000E-06

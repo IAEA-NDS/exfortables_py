@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22434-013-0 
-# EXFOR reaction        : ['48-CD-112', ['N,A'], '46-PD-109-M,,SIG'] 
+# EXFOR reaction        : (48-CD-112(N,A)46-PD-109-M,,SIG) 
 # incident energy       : 1.3400e+01 MeV - 1.4870e+01 MeV 
 # target                : Cd-112 
 # product               : Pd-109-M 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : Y.Kasugai 
+# first author          : Kasugai 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : (J,ANE,25,(18),1485,1998) 
 # year                  : 1998 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22434.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22434
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34000E+01      0.00000E+00      3.80000E-04      9.50000E-05
-      1.36500E+01      0.00000E+00      3.70000E-04      1.03600E-04
-      1.38800E+01      0.00000E+00      5.20000E-04      1.04000E-04
-      1.42800E+01      0.00000E+00      5.20000E-04      1.19600E-04
-      1.45800E+01      0.00000E+00      5.90000E-04      1.59300E-04
-      1.48700E+01      0.00000E+00      6.10000E-04      1.83000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3400E+01        0.0000E+00        3.8000E-04        9.5000E-05
+        1.3650E+01        0.0000E+00        3.7000E-04        1.0360E-04
+        1.3880E+01        0.0000E+00        5.2000E-04        1.0400E-04
+        1.4280E+01        0.0000E+00        5.2000E-04        1.1960E-04
+        1.4580E+01        0.0000E+00        5.9000E-04        1.5930E-04
+        1.4870E+01        0.0000E+00        6.1000E-04        1.8300E-04

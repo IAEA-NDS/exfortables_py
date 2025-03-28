@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0512-067-0 
-# EXFOR reaction        : ['32-GE-0', ['P,X'], '19-K-42,IND,SIG'] 
+# EXFOR reaction        : (32-GE-0(P,X)19-K-42,,SIG) 
 # incident energy       : 6.6000e+02 MeV 
 # target                : Ge-0 
 # product               : K-42 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Yu.V.Aleksandrov 
+# first author          : Aleksandrov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (C,91MINSK,,472,1991) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0512.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0512
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.60000E+02      0.00000E+00      6.60000E-04      7.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6000E+02        0.0000E+00        6.6000E-04        7.0000E-05

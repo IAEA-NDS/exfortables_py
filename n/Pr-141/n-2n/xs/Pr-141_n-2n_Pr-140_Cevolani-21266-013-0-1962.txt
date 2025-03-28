@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21266-013-0 
-# EXFOR reaction        : ['59-PR-141', ['N,2N'], '59-PR-140,,SIG'] 
+# EXFOR reaction        : (59-PR-141(N,2N)59-PR-140,,SIG) 
 # incident energy       : 1.4130e+01 MeV 
 # target                : Pr-141 
 # product               : Pr-140 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : M.Cevolani 
+# first author          : Cevolani 
 # institute             : (2ITYBOL): ENEA Centro Ricerche Energia di Bologna 
 # reference             : (J,NC,26,1328,6212) 
 # year                  : 1962 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21266.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21266
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41300E+01      1.00000E-01      1.24000E+00      7.40000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4130E+01        1.0000E-01        1.2400E+00        7.4000E-02

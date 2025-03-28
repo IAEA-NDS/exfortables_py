@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14340-005-0 
-# EXFOR reaction        : ['56-BA-132', ['N,G'], '56-BA-133-G,,SIG,,MXW'] 
+# EXFOR reaction        : (56-BA-132(N,G)56-BA-133-G,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ba-132 
 # product               : Ba-133-G 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.Y.Dauenhauer 
+# first author          : Dauenhauer 
 # institute             : (1USAORU): Oregon State University, Corvallis, OR 
 # reference             : (J,PR/C,85,064301,2012) 
 # year                  : 2012 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/143/14340.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14340
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      7.51000E+00      3.20000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        7.5100E+00        3.2000E-01

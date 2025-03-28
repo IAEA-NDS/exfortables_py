@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30106-009-0 
-# EXFOR reaction        : ['39-Y-89', ['N,2P'], '37-RB-88,,SIG'] 
+# EXFOR reaction        : (39-Y-89(N,2P)37-RB-88,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Y-89 
 # product               : Rb-88 
 # level energy          : - 
 # MF-MT number          : 3 - 111 
-# first author          : S.Lulic 
+# first author          : Lulic 
 # institute             : (3CRORBZ): Institute Rudjer Boskovic, Zagreb 
 # reference             : (J,NP/A,154,273,1970) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30106.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30106
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      2.00000E-01      5.00000E-05      4.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        2.0000E-01        5.0000E-05        4.0000E-05

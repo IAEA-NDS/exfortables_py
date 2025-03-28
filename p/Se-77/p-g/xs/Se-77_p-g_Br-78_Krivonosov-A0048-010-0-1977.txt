@@ -1,26 +1,26 @@
 # entry-subent-pointer  : A0048-010-0 
-# EXFOR reaction        : ['34-SE-77', ['P,G'], '35-BR-78,,SIG'] 
+# EXFOR reaction        : (34-SE-77(P,G)35-BR-78,,SIG) 
 # incident energy       : 1.5500e+00 MeV - 2.9700e+00 MeV 
 # target                : Se-77 
 # product               : Br-78 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : G.A.Krivonosov 
+# first author          : Krivonosov 
 # institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
-# reference             : (J,IZV,41,(10),2196,1977) 
+# reference             : (J,BAS,41,(10),175,1977) 
 # year                  : 1977 
 # facility              : (VDG): Van de Graaff 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A00/A0048.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0048
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.55000E+00      0.00000E+00      4.00000E-05      2.90000E-05
-      1.75000E+00      0.00000E+00      9.80000E-05      3.00000E-05
-      1.95000E+00      0.00000E+00      2.70000E-04      8.60000E-05
-      2.05000E+00      0.00000E+00      6.70000E-04      1.40000E-05
-      2.16000E+00      0.00000E+00      7.70000E-04      1.50000E-04
-      2.26000E+00      0.00000E+00      7.10000E-04      1.30000E-04
-      2.36000E+00      0.00000E+00      5.80000E-04      9.80000E-05
-      2.56000E+00      0.00000E+00      3.60000E-04      5.40000E-05
-      2.77000E+00      0.00000E+00      5.60000E-04      8.40000E-05
-      2.97000E+00      0.00000E+00      8.80000E-04      1.30000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5500E+00        0.0000E+00        4.0000E-05        2.9000E-05
+        1.7500E+00        0.0000E+00        9.8000E-05        3.0000E-05
+        1.9500E+00        0.0000E+00        2.7000E-04        8.6000E-05
+        2.0500E+00        0.0000E+00        6.7000E-04        1.4000E-05
+        2.1600E+00        0.0000E+00        7.7000E-04        1.5000E-04
+        2.2600E+00        0.0000E+00        7.1000E-04        1.3000E-04
+        2.3600E+00        0.0000E+00        5.8000E-04        9.8000E-05
+        2.5600E+00        0.0000E+00        3.6000E-04        5.4000E-05
+        2.7700E+00        0.0000E+00        5.6000E-04        8.4000E-05
+        2.9700E+00        0.0000E+00        8.8000E-04        1.3000E-04

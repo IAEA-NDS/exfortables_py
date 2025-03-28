@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31496-024-0 
-# EXFOR reaction        : ['50-SN-120', ['N,A'], '48-CD-117-G,,SIG'] 
+# EXFOR reaction        : (50-SN-120(N,A)48-CD-117-G,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Sn-120 
 # product               : Cd-117-G 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : A.Grallert 
+# first author          : Grallert 
 # institute             : (3HUNKOS): University of Debrecen, Debrecen 
 # reference             : (R,INDC(NDS)-286,131,1993) 
 # year                  : 1993 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31496.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31496
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      1.20000E-01      2.60000E-04      3.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        1.2000E-01        2.6000E-04        3.0000E-05

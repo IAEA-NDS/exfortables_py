@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20908-007-0 
-# EXFOR reaction        : ['5-B-10', ['N,TOT'], ',,SIG,,,DERIV'] 
+# EXFOR reaction        : (5-B-10(N,TOT),,SIG,,,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : B-10 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : K.M.Diment 
+# first author          : Diment 
 # institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 # reference             : (R,AERE-R-5224,,6702) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20908.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20908
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      3.83900E+03      2.00000E+01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        3.8390E+03        2.0000E+01

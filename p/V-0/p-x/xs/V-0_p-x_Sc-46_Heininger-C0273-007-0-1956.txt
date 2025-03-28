@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0273-007-0 
-# EXFOR reaction        : ['23-V-0', ['P,X'], '21-SC-46,,SIG'] 
+# EXFOR reaction        : (23-V-0(P,X)21-SC-46,,SIG) 
 # incident energy       : 6.0000e+01 MeV - 2.4000e+02 MeV 
 # target                : V-0 
 # product               : Sc-46 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : C.G.Heininger 
+# first author          : Heininger 
 # institute             : (1USAROC): University of Rochester, Rochester, NY 
 # reference             : (J,PR,101,1074,56) 
 # year                  : 1956 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0273.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0273
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+01      0.00000E+00      1.10000E-02      6.00000E-03
-      1.00000E+02      0.00000E+00      1.00000E-02      2.00000E-03
-      1.75000E+02      0.00000E+00      6.40000E-03      3.00000E-03
-      2.40000E+02      0.00000E+00      8.40000E-03      2.30000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+01        0.0000E+00        1.1000E-02        6.0000E-03
+        1.0000E+02        0.0000E+00        1.0000E-02        2.0000E-03
+        1.7500E+02        0.0000E+00        6.4000E-03        3.0000E-03
+        2.4000E+02        0.0000E+00        8.4000E-03        2.3000E-03

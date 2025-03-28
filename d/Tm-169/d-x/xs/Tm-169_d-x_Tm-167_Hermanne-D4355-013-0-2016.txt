@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4355-013-0 
-# EXFOR reaction        : ['69-TM-169', ['D,X'], '69-TM-167,CUM,SIG'] 
+# EXFOR reaction        : (69-TM-169(D,X)69-TM-167,CUM,SIG) 
 # incident energy       : 3.4900e+01 MeV - 4.9800e+01 MeV 
 # target                : Tm-169 
 # product               : Tm-167 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.Hermanne 
+# first author          : Hermanne 
 # institute             : (2BLGVUB): Vrije Universiteit Brussels, Brussels 
 # reference             : (J,NIM/B,383,81,2016) 
 # year                  : 2016 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4355.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4355
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.98000E+01      2.00000E-01      6.61000E-01      7.90000E-02
-      4.76000E+01      2.00000E-01      6.76000E-01      8.10000E-02
-      4.55000E+01      3.00000E-01      5.54000E-01      6.70000E-02
-      4.35000E+01      4.00000E-01      6.10000E-01      7.30000E-02
-      4.14000E+01      5.00000E-01      7.28000E-01      8.70000E-02
-      3.93000E+01      6.00000E-01      6.62000E-01      7.90000E-02
-      3.71000E+01      7.00000E-01      8.48000E-01      1.02000E-01
-      3.49000E+01      8.00000E-01      8.71000E-01      1.05000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.9800E+01        2.0000E-01        6.6100E-01        7.9000E-02
+        4.7600E+01        2.0000E-01        6.7600E-01        8.1000E-02
+        4.5500E+01        3.0000E-01        5.5400E-01        6.7000E-02
+        4.3500E+01        4.0000E-01        6.1000E-01        7.3000E-02
+        4.1400E+01        5.0000E-01        7.2800E-01        8.7000E-02
+        3.9300E+01        6.0000E-01        6.6200E-01        7.9000E-02
+        3.7100E+01        7.0000E-01        8.4800E-01        1.0200E-01
+        3.4900E+01        8.0000E-01        8.7100E-01        1.0500E-01

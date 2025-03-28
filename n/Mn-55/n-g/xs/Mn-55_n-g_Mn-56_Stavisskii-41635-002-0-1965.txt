@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41635-002-0 
-# EXFOR reaction        : ['25-MN-55', ['N,G'], '25-MN-56,,SIG,,MXW'] 
+# EXFOR reaction        : (25-MN-55(N,G)25-MN-56,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Mn-55 
 # product               : Mn-56 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : Yu.Ya.Stavisskii 
+# first author          : Stavisskii 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (J,AE,19,(3),292,1965) 
 # year                  : 1965 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41635.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41635
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.33000E+01      2.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.3300E+01        2.0000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11053-002-0 
-# EXFOR reaction        : ['1-H-1', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (1-H-1(N,TOT),,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : H-1 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : H.L.Poss 
+# first author          : Poss 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR,87,11,52) 
 # year                  : 1952 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11053.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11053
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      5.00000E-02      6.89000E-01      5.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        5.0000E-02        6.8900E-01        5.0000E-03

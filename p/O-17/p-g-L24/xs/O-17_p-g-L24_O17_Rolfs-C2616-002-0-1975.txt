@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2616-002-0 
-# EXFOR reaction        : ['8-O-17', ['P,G'], '9-F-18,PAR,SIG'] 
+# EXFOR reaction        : (8-O-17(P,G)9-F-18,PAR,SIG) 
 # incident energy       : 1.5050e+00 MeV 
 # target                : O-17 
 # product               : F-18 
 # level energy          : 5.6030e+00 MeV 
 # MF-MT number          : 3 - 24 
-# first author          : C.Rolfs 
+# first author          : Rolfs 
 # institute             : (1USACAL): California Institute of Technology, Pasadena, CA 
 # reference             : (J,NP/A,250,295,1975) 
 # year                  : 1975 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2616.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2616
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50500E+00      0.00000E+00      3.00000E-10      0.00000E+00
-      1.50500E+00      0.00000E+00      3.00000E-10      0.00000E+00
-      1.50500E+00      0.00000E+00      1.00000E-10      0.00000E+00
-      1.50500E+00      0.00000E+00      5.00000E-10      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5050E+00        0.0000E+00        3.0000E-10        0.0000E+00
+        1.5050E+00        0.0000E+00        3.0000E-10        0.0000E+00
+        1.5050E+00        0.0000E+00        1.0000E-10        0.0000E+00
+        1.5050E+00        0.0000E+00        5.0000E-10        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22383-005-0 
-# EXFOR reaction        : ['5-B-11', ['N,G'], '5-B-12,,SIG'] 
+# EXFOR reaction        : (5-B-11(N,G)5-B-12,,SIG) 
 # incident energy       : 2.3000e-02 MeV - 6.1000e-02 MeV 
 # target                : B-11 
 # product               : B-12 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.Igashira 
+# first author          : Igashira 
 # institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
 # reference             : (C,94BOLOGN,,269,199411) 
 # year                  : 1994 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22383.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22383
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.30000E-02      0.00000E+00      2.38000E-04      1.30000E-05
-      4.00000E-02      0.00000E+00      1.98000E-05      1.50000E-06
-      6.10000E-02      0.00000E+00      1.78000E-05      2.80000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3000E-02        0.0000E+00        2.3800E-04        1.3000E-05
+        4.0000E-02        0.0000E+00        1.9800E-05        1.5000E-06
+        6.1000E-02        0.0000E+00        1.7800E-05        2.8000E-06

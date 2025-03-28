@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1299-004-0 
-# EXFOR reaction        : ['39-Y-89', ['P,3N'], '40-ZR-87,,SIG'] 
+# EXFOR reaction        : (39-Y-89(P,3N)40-ZR-87,,SIG) 
 # incident energy       : 1.0000e+02 MeV - 2.4000e+02 MeV 
 # target                : Y-89 
 # product               : Zr-87 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : A.A.Caretto 
+# first author          : Caretto 
 # institute             : (1USAROC): University of Rochester, Rochester, NY 
 # reference             : (J,PR,115,1238,1959) 
 # year                  : 1959 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C12/C1299.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1299
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+02      0.00000E+00      4.40000E-02      5.00000E-03
-      1.50000E+02      0.00000E+00      1.50000E-02      3.00000E-03
-      2.40000E+02      0.00000E+00      9.20000E-03      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+02        0.0000E+00        4.4000E-02        5.0000E-03
+        1.5000E+02        0.0000E+00        1.5000E-02        3.0000E-03
+        2.4000E+02        0.0000E+00        9.2000E-03        2.0000E-04

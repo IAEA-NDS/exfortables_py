@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2110-002-0 
-# EXFOR reaction        : ['23-V-51', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (23-V-51(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 2.9000e+04 MeV 
 # target                : V-51 
 # product               : Sc-48 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.Katcoff 
+# first author          : Katcoff 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PRL,30,1221,1973) 
 # year                  : 1973 
@@ -13,5 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C21/C2110.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2110
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.90000E+04      0.00000E+00      4.26000E-03      3.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9000E+04        0.0000E+00        4.2600E-03        3.0000E-04
+        2.9000E+04        0.0000E+00        1.3900E-02        1.0000E-03
+        2.9000E+04        0.0000E+00        4.3800E-03        3.1000E-04
+        2.9000E+04        0.0000E+00        9.3400E-03        6.8000E-04

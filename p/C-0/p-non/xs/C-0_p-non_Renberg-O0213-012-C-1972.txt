@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0213-012-C 
-# EXFOR reaction        : ['6-C-0', ['P,NON'], ',,SIG,,,CALC'] 
+# EXFOR reaction        : (6-C-0(P,NON),,SIG,,,CALC) 
 # incident energy       : 2.3500e+02 MeV - 5.6500e+02 MeV 
 # target                : C-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : P.U.Renberg 
+# first author          : Renberg 
 # institute             : (2ZZZCER): European Org. for Nuclear Research (CERN), Geneva 
 # reference             : (J,NP/A,183,81,72) 
 # year                  : 1972 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0213.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0213
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.65000E+02      0.00000E+00      2.34000E-01      5.00000E-03
-      4.97000E+02      0.00000E+00      2.31000E-01      5.00000E-03
-      4.10000E+02      0.00000E+00      2.27000E-01      5.00000E-03
-      3.45000E+02      0.00000E+00      2.24000E-01      5.00000E-03
-      2.35000E+02      0.00000E+00      2.19000E-01      5.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.6500E+02        0.0000E+00        2.3400E-01        5.0000E-03
+        4.9700E+02        0.0000E+00        2.3100E-01        5.0000E-03
+        4.1000E+02        0.0000E+00        2.2700E-01        5.0000E-03
+        3.4500E+02        0.0000E+00        2.2400E-01        5.0000E-03
+        2.3500E+02        0.0000E+00        2.1900E-01        5.0000E-03

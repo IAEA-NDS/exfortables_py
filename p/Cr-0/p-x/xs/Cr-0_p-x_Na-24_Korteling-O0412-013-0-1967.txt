@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0412-013-0 
-# EXFOR reaction        : ['24-CR-0', ['P,X'], '11-NA-24,CUM,SIG'] 
+# EXFOR reaction        : (24-CR-0(P,X)11-NA-24,CUM,SIG) 
 # incident energy       : 4.0000e+02 MeV 
 # target                : Cr-0 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.G.Korteling 
+# first author          : Korteling 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,JIN,29,2863,1967) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O04/O0412.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0412
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+02      5.00000E-01      2.79000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+02        5.0000E-01        2.7900E-04        0.0000E+00

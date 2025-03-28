@@ -1,11 +1,11 @@
 # entry-subent-pointer  : G3135-003-0 
-# EXFOR reaction        : ['39-Y-89', ['G,2N'], '39-Y-87,,SIG,,BRA'] 
+# EXFOR reaction        : (39-Y-89(G,2N)39-Y-87,,SIG,,BRA) 
 # incident energy       : 5.0000e+01 MeV - 6.5000e+01 MeV 
 # target                : Y-89 
 # product               : Y-87 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : M.Zaman 
+# first author          : Zaman 
 # institute             : (3KORKNU): Kyungpook National University, Daegu 
 # reference             : (J,KPS,67,1482,2015) 
 # year                  : 2015 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G31/G3135.x4 
 # nds                   : https://nds.iaea.org/EXFOR/G3135
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.00000E+01      0.00000E+00      6.36100E-03      8.20000E-04
-      6.00000E+01      0.00000E+00      6.34100E-03      9.65000E-04
-      6.50000E+01      0.00000E+00      5.32800E-03      7.06000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+01        0.0000E+00        6.3610E-03        8.2000E-04
+        6.0000E+01        0.0000E+00        6.3410E-03        9.6500E-04
+        6.5000E+01        0.0000E+00        5.3280E-03        7.0600E-04

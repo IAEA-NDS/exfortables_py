@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M0153-005-0 
-# EXFOR reaction        : ['17-CL-0', ['G,X'], '11-NA-24,,SIG,,BRA'] 
+# EXFOR reaction        : (17-CL-0(G,X)11-NA-24,,SIG,,BRA) 
 # incident energy       : 2.0000e+03 MeV - 4.5000e+03 MeV 
 # target                : Cl-0 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.S.Danagulyan 
+# first author          : Danagulyan 
 # institute             : (4ARMJER): A.I. Alikhanyan National Sci. Laboratory (YerPhI), Yerevan 
 # reference             : (J,YF,24,681,1976) 
 # year                  : 1976 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M01/M0153.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M0153
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+03      0.00000E+00      2.80000E-04      0.00000E+00
-      3.00000E+03      0.00000E+00      3.00000E-04      0.00000E+00
-      4.50000E+03      0.00000E+00      2.80000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+03        0.0000E+00        2.8000E-04        0.0000E+00
+        3.0000E+03        0.0000E+00        3.0000E-04        0.0000E+00
+        4.5000E+03        0.0000E+00        2.8000E-04        0.0000E+00

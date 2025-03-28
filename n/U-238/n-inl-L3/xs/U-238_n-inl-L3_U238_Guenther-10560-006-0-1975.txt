@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10560-006-0 
-# EXFOR reaction        : ['92-U-238', ['N,INL'], '92-U-238,PAR,SIG'] 
+# EXFOR reaction        : (92-U-238(N,INL)92-U-238,PAR,SIG) 
 # incident energy       : 8.4000e-01 MeV - 1.4000e+00 MeV 
 # target                : U-238 
 # product               : U-238 
 # level energy          : 3.0800e-01 MeV 
 # MF-MT number          : 3 - 53 
-# first author          : P.Guenther 
+# first author          : Guenther 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (R,ANL-NDM-16,197509) 
 # year                  : 1975 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10560.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10560
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.40000E-01      0.00000E+00      2.50000E-02      1.20000E-02
-      9.55000E-01      0.00000E+00      3.70000E-02      1.80000E-02
-      1.10000E+00      0.00000E+00      7.00000E-02      3.00000E-02
-      1.15000E+00      0.00000E+00      6.90000E-02      3.00000E-02
-      1.20000E+00      0.00000E+00      7.20000E-02      5.00000E-02
-      1.40000E+00      0.00000E+00      3.80000E-02      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.4000E-01        0.0000E+00        2.5000E-02        1.2000E-02
+        9.5500E-01        0.0000E+00        3.7000E-02        1.8000E-02
+        1.1000E+00        0.0000E+00        7.0000E-02        3.0000E-02
+        1.1500E+00        0.0000E+00        6.9000E-02        3.0000E-02
+        1.2000E+00        0.0000E+00        7.2000E-02        5.0000E-02
+        1.4000E+00        0.0000E+00        3.8000E-02        2.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20094-004-0 
-# EXFOR reaction        : ['70-YB-168', ['N,G'], '70-YB-169,,SIG,,MXW'] 
+# EXFOR reaction        : (70-YB-168(N,G)70-YB-169,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Yb-168 
 # product               : Yb-169 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.Alstad 
+# first author          : Alstad 
 # institute             : (2NOROSL): University of Oslo, Oslo 
 # reference             : (P,INDC(NOR)-1,1(2),1972) 
 # year                  : 1972 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20094.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20094
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      4.40000E+03      2.00000E+02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        4.4000E+03        2.0000E+02

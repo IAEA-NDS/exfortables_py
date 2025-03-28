@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41648-003-0 
-# EXFOR reaction        : ['4-BE-9', ['N,G'], '4-BE-10,,SIG,,MXW'] 
+# EXFOR reaction        : (4-BE-9(N,G)4-BE-10,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Be-9 
 # product               : Be-10 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : Yu.A.Prokhorov 
+# first author          : Prokhorov 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (T,PROKHOROV,1956) 
 # year                  : 1956 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41648.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41648
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.80000E-02      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.8000E-02        1.0000E-02

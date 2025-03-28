@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22451-043-1 
-# EXFOR reaction        : ['50-SN-120', ['N,G'], '50-SN-121,,SIG'] 
+# EXFOR reaction        : (50-SN-120(N,G)50-SN-121,,SIG) 
 # incident energy       : 5.5300e-10 MeV 
 # target                : Sn-120 
 # product               : Sn-121 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : K.Knopf 
+# first author          : Knopf 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (J,ZN/A,52,270,1997) 
 # year                  : 1997 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22451.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22451
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.53000E-10      0.00000E+00      3.70000E+00      4.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.5300E-10        0.0000E+00        3.7000E+00        4.0000E-01

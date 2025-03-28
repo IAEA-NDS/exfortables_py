@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22342-002-0 
-# EXFOR reaction        : ['55-CS-135', ['N,G'], '55-CS-136,,SIG'] 
+# EXFOR reaction        : (55-CS-135(N,G)55-CS-136,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Cs-135 
 # product               : Cs-136 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : T.Katoh 
+# first author          : Katoh 
 # institute             : (2JPNPNC): Power Reactor and Nuclear Fuel Devel. Corp., Tokai 
 # reference             : ((S,INDC(JPN)-179,222,1997)=(S,JAERI-C-97-005,222,1997)) 
 # year                  : 1997 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22342.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22342
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      8.30000E+00      3.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        8.3000E+00        3.0000E-01

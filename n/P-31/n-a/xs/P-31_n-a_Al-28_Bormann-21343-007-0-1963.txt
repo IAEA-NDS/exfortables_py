@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21343-007-0 
-# EXFOR reaction        : ['15-P-31', ['N,A'], '13-AL-28,,SIG'] 
+# EXFOR reaction        : (15-P-31(N,A)13-AL-28,,SIG) 
 # incident energy       : 1.3200e+01 MeV - 1.9700e+01 MeV 
 # target                : P-31 
 # product               : Al-28 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : M.Bormann 
+# first author          : Bormann 
 # institute             : (2GERHAM): Hamburg, Universitaet 
 # reference             : (J,ZP,174,1,196302) 
 # year                  : 1963 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21343.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21343
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.32000E+01      3.00000E-01      1.22500E-01      1.75000E-02
-      1.41000E+01      4.00000E-01      1.18000E-01      1.60000E-02
-      1.52000E+01      3.00000E-01      1.05000E-01      1.10000E-02
-      1.60000E+01      4.00000E-01      8.30000E-02      9.50000E-03
-      1.72000E+01      4.00000E-01      6.50000E-02      5.00000E-03
-      1.88000E+01      3.00000E-01      4.15000E-02      4.50000E-03
-      1.97000E+01      3.00000E-01      3.10000E-02      4.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3200E+01        3.0000E-01        1.2250E-01        1.7500E-02
+        1.4100E+01        4.0000E-01        1.1800E-01        1.6000E-02
+        1.5200E+01        3.0000E-01        1.0500E-01        1.1000E-02
+        1.6000E+01        4.0000E-01        8.3000E-02        9.5000E-03
+        1.7200E+01        4.0000E-01        6.5000E-02        5.0000E-03
+        1.8800E+01        3.0000E-01        4.1500E-02        4.5000E-03
+        1.9700E+01        3.0000E-01        3.1000E-02        4.0000E-03

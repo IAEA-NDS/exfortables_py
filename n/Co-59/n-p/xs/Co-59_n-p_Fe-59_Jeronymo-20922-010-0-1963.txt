@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20922-010-0 
-# EXFOR reaction        : ['27-CO-59', ['N,P'], '26-FE-59,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,P)26-FE-59,,SIG) 
 # incident energy       : 1.2550e+01 MeV - 2.1000e+01 MeV 
 # target                : Co-59 
 # product               : Fe-59 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : J.M.F.Jeronymo 
+# first author          : Jeronymo 
 # institute             : (2FR SAC): CEA/Saclay 
 # reference             : (J,NP,47,157,1963) 
 # year                  : 1963 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20922.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20922
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.25500E+01      2.00000E-01      6.89260E-02      1.22030E-02
-      1.35500E+01      2.00000E-01      6.01920E-02      9.86320E-03
-      1.49000E+01      2.00000E-01      5.52780E-02      7.98550E-03
-      1.65000E+01      2.00000E-01      4.28790E-02      7.59320E-03
-      1.81500E+01      2.00000E-01      4.58270E-02      8.41920E-03
-      1.96000E+01      2.00000E-01      3.59570E-02      7.57370E-03
-      2.06000E+01      2.00000E-01      3.88750E-02      7.14080E-03
-      2.10000E+01      2.00000E-01      2.69720E-02      5.68030E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2550E+01        2.0000E-01        6.8926E-02        1.2203E-02
+        1.3550E+01        2.0000E-01        6.0192E-02        9.8632E-03
+        1.4900E+01        2.0000E-01        5.5278E-02        7.9855E-03
+        1.6500E+01        2.0000E-01        4.2879E-02        7.5932E-03
+        1.8150E+01        2.0000E-01        4.5827E-02        8.4192E-03
+        1.9600E+01        2.0000E-01        3.5957E-02        7.5737E-03
+        2.0600E+01        2.0000E-01        3.8875E-02        7.1408E-03
+        2.1000E+01        2.0000E-01        2.6972E-02        5.6803E-03

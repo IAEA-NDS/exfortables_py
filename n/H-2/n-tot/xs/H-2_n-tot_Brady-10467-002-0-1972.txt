@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10467-002-0 
-# EXFOR reaction        : ['1-H-2', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (1-H-2(N,TOT),,SIG) 
 # incident energy       : 2.4630e+01 MeV - 5.9350e+01 MeV 
 # target                : H-2 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : F.P.Brady 
+# first author          : Brady 
 # institute             : (1USADAV): University of California, Davis, CA 
 # reference             : (J,PR/C,6,1150,197210) 
 # year                  : 1972 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10467.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10467
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.46300E+01      0.00000E+00      5.01200E-01      3.20000E-03
-      2.92500E+01      0.00000E+00      4.16600E-01      2.60000E-03
-      3.63400E+01      0.00000E+00      3.28600E-01      3.20000E-03
-      3.95600E+01      0.00000E+00      3.02200E-01      2.70000E-03
-      4.60600E+01      0.00000E+00      2.56200E-01      2.30000E-03
-      4.91800E+01      0.00000E+00      2.31600E-01      2.00000E-03
-      5.43700E+01      0.00000E+00      2.05700E-01      1.60000E-03
-      5.93500E+01      0.00000E+00      1.87500E-01      1.90000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4630E+01        0.0000E+00        5.0120E-01        3.2000E-03
+        2.9250E+01        0.0000E+00        4.1660E-01        2.6000E-03
+        3.6340E+01        0.0000E+00        3.2860E-01        3.2000E-03
+        3.9560E+01        0.0000E+00        3.0220E-01        2.7000E-03
+        4.6060E+01        0.0000E+00        2.5620E-01        2.3000E-03
+        4.9180E+01        0.0000E+00        2.3160E-01        2.0000E-03
+        5.4370E+01        0.0000E+00        2.0570E-01        1.6000E-03
+        5.9350E+01        0.0000E+00        1.8750E-01        1.9000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20794-005-0 
-# EXFOR reaction        : ['3-LI-6', ['N,2N'], '3-LI-5,,SIG'] 
+# EXFOR reaction        : (3-LI-6(N,2N)3-LI-5,,SIG) 
 # incident energy       : 1.4060e+01 MeV 
 # target                : Li-6 
 # product               : Li-5 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : D.S.Mather 
+# first author          : Mather 
 # institute             : (2UK ALD): Atomic Weapons Establishment (AWE), Aldermaston 
 # reference             : (R,AWRE-O-47/69,196908) 
 # year                  : 1969 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20794.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20794
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40600E+01      0.00000E+00      7.81000E-02      4.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4060E+01        0.0000E+00        7.8100E-02        4.1000E-03

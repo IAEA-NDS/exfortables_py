@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31113-002-0 
-# EXFOR reaction        : ['1-H-1', ['N,INL'], '1-H-1,,SIG'] 
+# EXFOR reaction        : (1-H-1(N,INL)1-H-1,,SIG) 
 # incident energy       : 3.0000e+04 MeV 
 # target                : H-1 
 # product               : H-1 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : G.Bozoki 
+# first author          : Bozoki 
 # institute             : (3HUNKFI): Centre for Energy Research (EK), Budapest 
 # reference             : (J,NP,33,236,1962) 
 # year                  : 1962 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/311/31113.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31113
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+04      0.00000E+00      3.50000E-02      1.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+04        0.0000E+00        3.5000E-02        1.1000E-02

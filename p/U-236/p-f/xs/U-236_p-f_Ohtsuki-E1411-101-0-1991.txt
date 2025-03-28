@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1411-101-0 
-# EXFOR reaction        : ['92-U-236', ['P,F'], '53-I-131,', ['CUM'], ',SIG'] 
+# EXFOR reaction        : (92-U-236(P,F)53-I-131,(CUM),SIG) 
 # incident energy       : 9.0000e+00 MeV - 1.5600e+01 MeV 
 # target                : U-236 
 # product               : I-131 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : T.Ohtsuki 
+# first author          : Ohtsuki 
 # institute             : (2JPNTMU): Tokyo Metropolitan University , Hachioji, Tokyo 
 # reference             : (J,PR/C,44,1405,1991) 
 # year                  : 1991 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E14/E1411.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1411
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.00000E+00      0.00000E+00      1.40000E-04      2.00000E-05
-      1.02000E+01      0.00000E+00      1.26000E-03      9.00000E-05
-      1.12000E+01      0.00000E+00      3.26000E-03      2.20000E-04
-      1.21000E+01      0.00000E+00      6.27000E-03      4.40000E-04
-      1.31000E+01      0.00000E+00      1.10500E-02      6.20000E-04
-      1.40000E+01      0.00000E+00      1.55800E-02      9.30000E-04
-      1.48000E+01      0.00000E+00      1.79100E-02      1.25000E-03
-      1.56000E+01      0.00000E+00      3.16500E-02      1.19000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.0000E+00        0.0000E+00        1.4000E-04        2.0000E-05
+        1.0200E+01        0.0000E+00        1.2600E-03        9.0000E-05
+        1.1200E+01        0.0000E+00        3.2600E-03        2.2000E-04
+        1.2100E+01        0.0000E+00        6.2700E-03        4.4000E-04
+        1.3100E+01        0.0000E+00        1.1050E-02        6.2000E-04
+        1.4000E+01        0.0000E+00        1.5580E-02        9.3000E-04
+        1.4800E+01        0.0000E+00        1.7910E-02        1.2500E-03
+        1.5600E+01        0.0000E+00        3.1650E-02        1.1900E-03

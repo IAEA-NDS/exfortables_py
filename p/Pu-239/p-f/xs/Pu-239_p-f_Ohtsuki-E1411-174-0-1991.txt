@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1411-174-0 
-# EXFOR reaction        : ['94-PU-239', ['P,F'], '53-I-135,', ['CUM'], ',SIG'] 
+# EXFOR reaction        : (94-PU-239(P,F)53-I-135,(CUM),SIG) 
 # incident energy       : 9.8000e+00 MeV - 1.5500e+01 MeV 
 # target                : Pu-239 
 # product               : I-135 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : T.Ohtsuki 
+# first author          : Ohtsuki 
 # institute             : (2JPNTMU): Tokyo Metropolitan University , Hachioji, Tokyo 
 # reference             : (J,PR/C,44,1405,1991) 
 # year                  : 1991 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E14/E1411.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1411
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.80000E+00      0.00000E+00      3.50000E-04      1.10000E-04
-      1.12000E+01      0.00000E+00      2.45000E-03      3.90000E-04
-      1.22000E+01      0.00000E+00      7.12000E-03      3.10000E-04
-      1.30000E+01      0.00000E+00      9.35000E-03      5.50000E-04
-      1.39000E+01      0.00000E+00      1.25300E-02      3.70000E-04
-      1.46000E+01      0.00000E+00      1.80700E-02      1.03000E-03
-      1.55000E+01      0.00000E+00      1.92900E-02      1.66000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.8000E+00        0.0000E+00        3.5000E-04        1.1000E-04
+        1.1200E+01        0.0000E+00        2.4500E-03        3.9000E-04
+        1.2200E+01        0.0000E+00        7.1200E-03        3.1000E-04
+        1.3000E+01        0.0000E+00        9.3500E-03        5.5000E-04
+        1.3900E+01        0.0000E+00        1.2530E-02        3.7000E-04
+        1.4600E+01        0.0000E+00        1.8070E-02        1.0300E-03
+        1.5500E+01        0.0000E+00        1.9290E-02        1.6600E-03

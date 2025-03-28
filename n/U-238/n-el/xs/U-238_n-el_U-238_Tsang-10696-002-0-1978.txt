@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10696-002-0 
-# EXFOR reaction        : ['92-U-238', ['N,EL'], '92-U-238,,SIG'] 
+# EXFOR reaction        : (92-U-238(N,EL)92-U-238,,SIG) 
 # incident energy       : 1.4400e-01 MeV 
 # target                : U-238 
 # product               : U-238 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : F.Y.Tsang 
+# first author          : Tsang 
 # institute             : (1USAMIS): University of Missouri, Columbia, MO 
 # reference             : (J,NSE,65,70,197801) 
 # year                  : 1978 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/106/10696.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10696
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.44000E-01      1.30000E-02      1.06600E+01      8.50000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4400E-01        1.3000E-02        1.0660E+01        8.5000E-01

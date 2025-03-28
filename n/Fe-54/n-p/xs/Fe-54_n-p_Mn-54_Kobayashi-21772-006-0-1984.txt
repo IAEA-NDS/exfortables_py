@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21772-006-0 
-# EXFOR reaction        : ['26-FE-54', ['N,P'], '25-MN-54,,SIG,,FIS'] 
+# EXFOR reaction        : (26-FE-54(N,P)25-MN-54,,SIG,,FIS) 
 # incident energy       : 1.4200e+00 MeV 
 # target                : Fe-54 
 # product               : Mn-54 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : K.Kobayashi 
+# first author          : Kobayashi 
 # institute             : (2JPNKTO): Kyoto University , Kyoto 
 # reference             : ((P,INDC(JPN)-92,41,1984)=(P,NEANDC(J)-106,41,1984)) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21772.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21772
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+00      0.00000E+00      8.76300E-02      4.35521E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+00        0.0000E+00        8.7630E-02        4.3552E-03

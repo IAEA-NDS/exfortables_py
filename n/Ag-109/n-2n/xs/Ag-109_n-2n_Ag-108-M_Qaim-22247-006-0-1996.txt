@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22247-006-0 
-# EXFOR reaction        : ['47-AG-109', ['N,2N'], '47-AG-108-M,,SIG'] 
+# EXFOR reaction        : (47-AG-109(N,2N)47-AG-108-M,,SIG) 
 # incident energy       : 1.0860e+01 MeV - 1.4500e+01 MeV 
 # target                : Ag-109 
 # product               : Ag-108-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.M.Qaim 
+# first author          : Qaim 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,ARI,47,569,1996) 
 # year                  : 1996 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22247.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22247
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.08600E+01      3.60000E-01      2.76000E-01      3.60000E-02
-      1.21700E+01      3.00000E-01      4.51000E-01      5.80000E-02
-      1.45000E+01      2.50000E-01      6.97000E-01      6.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0860E+01        3.6000E-01        2.7600E-01        3.6000E-02
+        1.2170E+01        3.0000E-01        4.5100E-01        5.8000E-02
+        1.4500E+01        2.5000E-01        6.9700E-01        6.0000E-02

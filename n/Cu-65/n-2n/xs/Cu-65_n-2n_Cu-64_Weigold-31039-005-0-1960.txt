@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31039-005-0 
-# EXFOR reaction        : ['29-CU-65', ['N,2N'], '29-CU-64,,SIG'] 
+# EXFOR reaction        : (29-CU-65(N,2N)29-CU-64,,SIG) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : Cu-65 
 # product               : Cu-64 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : E.Weigold 
+# first author          : Weigold 
 # institute             : (3AULCBR): Australian National University, Canberra 
 # reference             : (J,AUJ,13,186,1960) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/310/31039.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31039
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      5.00000E-01      1.03000E+00      9.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        5.0000E-01        1.0300E+00        9.5000E-02

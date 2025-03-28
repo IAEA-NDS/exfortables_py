@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21609-011-0 
-# EXFOR reaction        : ['48-CD-106', ['N,X'], '47-AG-105,CUM,SIG'] 
+# EXFOR reaction        : (48-CD-106(N,X)47-AG-105,CUM,SIG) 
 # incident energy       : 1.4200e+01 MeV 
 # target                : Cd-106 
 # product               : Ag-105 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Weigel 
+# first author          : Weigel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,RCA,22,11,1975) 
 # year                  : 1975 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21609.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21609
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+01      5.00000E-01      1.29000E+00      1.20000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        5.0000E-01        1.2900E+00        1.2000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22177-002-2 
-# EXFOR reaction        : ['39-Y-89', ['N,G'], '39-Y-90,,SIG,,MXW,DERIV'] 
+# EXFOR reaction        : (39-Y-89(N,G)39-Y-90,,SIG,,MXW,DERIV) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Y-89 
 # product               : Y-90 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : F.Kaeppeler 
+# first author          : Kaeppeler 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,AJ,355,348,1990) 
 # year                  : 1990 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22177.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22177
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      1.90000E-02      6.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        1.9000E-02        6.0000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12789-004-0 
-# EXFOR reaction        : ['48-CD-111', ['N,INL'], '48-CD-111-M,,SIG'] 
+# EXFOR reaction        : (48-CD-111(N,INL)48-CD-111-M,,SIG) 
 # incident energy       : 4.3300e-01 MeV - 1.5530e+00 MeV 
 # target                : Cd-111 
 # product               : Cd-111-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : D.L.Smith 
+# first author          : Smith 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,NP/A,388,37,8208) 
 # year                  : 1982 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/127/12789.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12789
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.33000E-01      5.50000E-02      3.73500E-05      9.63630E-06
-      4.90000E-01      4.10000E-02      2.21100E-04      2.32155E-05
-      5.78000E-01      6.40000E-02      7.24500E-04      6.81030E-05
-      6.84000E-01      5.00000E-02      2.93100E-03      2.54997E-04
-      7.89000E-01      4.10000E-02      3.04000E-02      2.24960E-03
-      8.93000E-01      4.60000E-02      5.55900E-02      4.05807E-03
-      1.49300E+00      3.80000E-02      2.21700E-01      1.57407E-02
-      1.55300E+00      4.50000E-02      2.34600E-01      1.66566E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.3300E-01        5.5000E-02        3.7350E-05        9.6363E-06
+        4.9000E-01        4.1000E-02        2.2110E-04        2.3215E-05
+        5.7800E-01        6.4000E-02        7.2450E-04        6.8103E-05
+        6.8400E-01        5.0000E-02        2.9310E-03        2.5500E-04
+        7.8900E-01        4.1000E-02        3.0400E-02        2.2496E-03
+        8.9300E-01        4.6000E-02        5.5590E-02        4.0581E-03
+        1.4930E+00        3.8000E-02        2.2170E-01        1.5741E-02
+        1.5530E+00        4.5000E-02        2.3460E-01        1.6657E-02

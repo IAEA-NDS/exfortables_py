@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20280-008-0 
-# EXFOR reaction        : ['42-MO-92', ['N,2N'], '42-MO-91-G,,SIG'] 
+# EXFOR reaction        : (42-MO-92(N,2N)42-MO-91-G,,SIG) 
 # incident energy       : 1.3510e+01 MeV - 1.4800e+01 MeV 
 # target                : Mo-92 
 # product               : Mo-91-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.Yasumi 
+# first author          : Yasumi 
 # institute             : (2JPNKON): Konan University , Kobe 
 # reference             : (J,JPJ,12,443,5705) 
 # year                  : 1957 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20280.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20280
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35100E+01      1.10000E-01      6.01000E-02      1.08180E-02
-      1.37600E+01      1.80000E-01      1.00000E-01      1.80000E-02
-      1.41400E+01      1.80000E-01      1.32000E-01      2.11200E-02
-      1.48000E+01      1.30000E-01      1.80000E-01      3.06000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3510E+01        1.1000E-01        6.0100E-02        1.0818E-02
+        1.3760E+01        1.8000E-01        1.0000E-01        1.8000E-02
+        1.4140E+01        1.8000E-01        1.3200E-01        2.1120E-02
+        1.4800E+01        1.3000E-01        1.8000E-01        3.0600E-02

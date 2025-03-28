@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0077-007-0 
-# EXFOR reaction        : ['11-NA-23', ['D,P'], '11-NA-24,PAR,SIG'] 
+# EXFOR reaction        : (11-NA-23(D,P)11-NA-24,PAR,SIG) 
 # incident energy       : 1.5030e+00 MeV - 2.4980e+00 MeV 
 # target                : Na-23 
 # product               : Na-24 
 # level energy          : 2.5628e+00 MeV 
 # MF-MT number          : 3 - 611 
-# first author          : A.Z.El-Behay 
+# first author          : El-Behay 
 # institute             : (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
 # reference             : (J,NP,74,225,1965) 
 # year                  : 1965 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D00/D0077.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0077
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50300E+00      2.00000E-03      4.60890E-02      0.00000E+00
-      1.60430E+00      2.00000E-03      5.47210E-02      0.00000E+00
-      1.70520E+00      2.00000E-03      6.80500E-02      0.00000E+00
-      1.80050E+00      2.00000E-03      7.19700E-02      0.00000E+00
-      1.90150E+00      2.00000E-03      8.39560E-02      0.00000E+00
-      2.20000E+00      2.00000E-03      9.94370E-02      0.00000E+00
-      2.30210E+00      2.00000E-03      9.96820E-02      0.00000E+00
-      2.40120E+00      2.00000E-03      1.08640E-01      0.00000E+00
-      2.49800E+00      2.00000E-03      1.19610E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5030E+00        2.0000E-03        4.6089E-02        0.0000E+00
+        1.6043E+00        2.0000E-03        5.4721E-02        0.0000E+00
+        1.7052E+00        2.0000E-03        6.8050E-02        0.0000E+00
+        1.8005E+00        2.0000E-03        7.1970E-02        0.0000E+00
+        1.9015E+00        2.0000E-03        8.3956E-02        0.0000E+00
+        2.2000E+00        2.0000E-03        9.9437E-02        0.0000E+00
+        2.3021E+00        2.0000E-03        9.9682E-02        0.0000E+00
+        2.4012E+00        2.0000E-03        1.0864E-01        0.0000E+00
+        2.4980E+00        2.0000E-03        1.1961E-01        0.0000E+00

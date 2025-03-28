@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20341-017-0 
-# EXFOR reaction        : ['14-SI-0', ['N,EL'], '14-SI-0,,SIG'] 
+# EXFOR reaction        : (14-SI-0(N,EL)14-SI-0,,SIG) 
 # incident energy       : 3.5000e+00 MeV - 4.8000e+00 MeV 
 # target                : Si-0 
 # product               : Si-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : K.Tsukada 
+# first author          : Tsukada 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (C,61VIENNA,1,75(18/12),1961) 
 # year                  : 1961 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20341.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20341
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.50000E+00      0.00000E+00      9.70000E-01      1.10000E-01
-      3.85000E+00      0.00000E+00      1.48000E+00      1.60000E-01
-      4.20000E+00      0.00000E+00      1.50000E+00      1.50000E-01
-      4.50000E+00      0.00000E+00      1.22500E+00      1.30000E-01
-      4.80000E+00      0.00000E+00      1.47000E+00      1.50000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5000E+00        0.0000E+00        9.7000E-01        1.1000E-01
+        3.8500E+00        0.0000E+00        1.4800E+00        1.6000E-01
+        4.2000E+00        0.0000E+00        1.5000E+00        1.5000E-01
+        4.5000E+00        0.0000E+00        1.2250E+00        1.3000E-01
+        4.8000E+00        0.0000E+00        1.4700E+00        1.5000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4104-003-0 
-# EXFOR reaction        : ['12-MG-0', ['P,X'], '12-MG-22,,SIG'] 
+# EXFOR reaction        : (12-MG-0(P,X)12-MG-22,,SIG) 
 # incident energy       : 2.6500e+01 MeV 
 # target                : Mg-0 
 # product               : Mg-22 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.L.Wilson 
+# first author          : Wilson 
 # institute             : (1USACLU): University of Colorado, Boulder, CO 
 # reference             : (J,PR/C,13,976,1976) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4104.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4104
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.65000E+01      0.00000E+00      2.10000E-04      1.10000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6500E+01        0.0000E+00        2.1000E-04        1.1000E-04

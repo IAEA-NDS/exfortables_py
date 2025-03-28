@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12063-003-0 
-# EXFOR reaction        : ['58-CE-138', ['N,G'], '58-CE-139-M,,SIG,,SPA'] 
+# EXFOR reaction        : (58-CE-138(N,G)58-CE-139-M,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ce-138 
 # product               : Ce-139-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : B.H.Ketelle 
+# first author          : Ketelle 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,PR,103,190,56) 
 # year                  : 1956 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12063.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12063
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      7.00000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        7.0000E-03        0.0000E+00

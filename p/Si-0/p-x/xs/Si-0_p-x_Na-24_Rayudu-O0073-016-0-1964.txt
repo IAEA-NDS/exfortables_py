@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0073-016-0 
-# EXFOR reaction        : ['14-SI-0', ['P,X'], '11-NA-24,,SIG'] 
+# EXFOR reaction        : (14-SI-0(P,X)11-NA-24,,SIG) 
 # incident energy       : 1.3000e+02 MeV - 3.9600e+02 MeV 
 # target                : Si-0 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : G.V.S.Rayudu 
+# first author          : Rayudu 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,CJC,42,1149,1964) 
 # year                  : 1964 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0073.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0073
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.30000E+02      1.30000E+01      3.37800E-03      6.60000E-04
-      2.08000E+02      2.08000E+01      3.66200E-03      3.66000E-04
-      2.97000E+02      1.48500E+01      4.74000E-03      4.74000E-04
-      3.96000E+02      1.98000E+01      4.78000E-03      4.78000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3000E+02        1.3000E+01        3.3780E-03        6.6000E-04
+        2.0800E+02        2.0800E+01        3.6620E-03        3.6600E-04
+        2.9700E+02        1.4850E+01        4.7400E-03        4.7400E-04
+        3.9600E+02        1.9800E+01        4.7800E-03        4.7800E-04

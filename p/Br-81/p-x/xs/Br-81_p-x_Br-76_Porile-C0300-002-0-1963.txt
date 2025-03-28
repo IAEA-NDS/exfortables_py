@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0300-002-0 
-# EXFOR reaction        : ['35-BR-81', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (35-BR-81(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 2.9000e+03 MeV 
 # target                : Br-81 
 # product               : Br-76 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : N.T.Porile 
+# first author          : Porile 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR,132,397,63) 
 # year                  : 1963 
@@ -13,5 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0300.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0300
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.90000E+03      0.00000E+00      9.30000E-03      1.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9000E+03        0.0000E+00        1.4500E-02        2.4000E-03
+        2.9000E+03        0.0000E+00        1.0000E-02        2.1000E-03
+        2.9000E+03        0.0000E+00        9.3000E-03        1.0000E-03
+        2.9000E+03        0.0000E+00        2.3000E-03        5.0000E-04

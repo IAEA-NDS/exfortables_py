@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22466-004-0 
-# EXFOR reaction        : ['30-ZN-67', ['N,P'], '29-CU-67,,SIG'] 
+# EXFOR reaction        : (30-ZN-67(N,P)29-CU-67,,SIG) 
 # incident energy       : 6.2400e+00 MeV - 1.2080e+01 MeV 
 # target                : Zn-67 
 # product               : Cu-67 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : C.Nesaraja 
+# first author          : Nesaraja 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,RCA,86,(1),1,1999) 
 # year                  : 1999 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22466.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22466
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.24000E+00      4.20000E-01      5.51000E-03      7.00000E-04
-      7.16000E+00      4.80000E-01      7.84000E-03      8.00000E-04
-      8.16000E+00      5.60000E-01      1.31200E-02      1.40000E-03
-      9.28000E+00      3.20000E-01      1.34500E-02      1.50000E-03
-      1.02300E+01      3.40000E-01      1.53300E-02      2.10000E-03
-      1.11500E+01      4.00000E-01      2.26400E-02      3.52000E-03
-      1.20800E+01      9.30000E-01      2.64900E-02      5.27000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.2400E+00        4.2000E-01        5.5100E-03        7.0000E-04
+        7.1600E+00        4.8000E-01        7.8400E-03        8.0000E-04
+        8.1600E+00        5.6000E-01        1.3120E-02        1.4000E-03
+        9.2800E+00        3.2000E-01        1.3450E-02        1.5000E-03
+        1.0230E+01        3.4000E-01        1.5330E-02        2.1000E-03
+        1.1150E+01        4.0000E-01        2.2640E-02        3.5200E-03
+        1.2080E+01        9.3000E-01        2.6490E-02        5.2700E-03

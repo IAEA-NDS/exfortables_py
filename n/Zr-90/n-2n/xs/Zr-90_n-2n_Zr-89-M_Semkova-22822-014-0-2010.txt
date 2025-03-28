@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22822-014-0 
-# EXFOR reaction        : ['40-ZR-90', ['N,2N'], '40-ZR-89-M,,SIG'] 
+# EXFOR reaction        : (40-ZR-90(N,2N)40-ZR-89-M,,SIG) 
 # incident energy       : 1.4800e+01 MeV - 2.0600e+01 MeV 
 # target                : Zr-90 
 # product               : Zr-89-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : V.Semkova 
+# first author          : Semkova 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,NP/A,832,149,2010) 
 # year                  : 2010 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22822.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22822
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      2.00000E-01      1.56000E-01      1.50000E-02
-      1.53000E+01      2.00000E-01      1.90000E-01      2.00000E-02
-      1.63000E+01      2.00000E-01      2.20000E-01      2.00000E-02
-      1.78000E+01      2.00000E-01      2.24000E-01      1.50000E-02
-      1.81000E+01      2.00000E-01      2.40000E-01      2.00000E-02
-      1.93000E+01      2.00000E-01      2.30000E-01      2.00000E-02
-      1.94000E+01      2.00000E-01      2.20000E-01      2.00000E-02
-      1.99000E+01      2.00000E-01      2.05000E-01      1.40000E-02
-      2.06000E+01      1.00000E-01      2.10000E-01      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        2.0000E-01        1.5600E-01        1.5000E-02
+        1.5300E+01        2.0000E-01        1.9000E-01        2.0000E-02
+        1.6300E+01        2.0000E-01        2.2000E-01        2.0000E-02
+        1.7800E+01        2.0000E-01        2.2400E-01        1.5000E-02
+        1.8100E+01        2.0000E-01        2.4000E-01        2.0000E-02
+        1.9300E+01        2.0000E-01        2.3000E-01        2.0000E-02
+        1.9400E+01        2.0000E-01        2.2000E-01        2.0000E-02
+        1.9900E+01        2.0000E-01        2.0500E-01        1.4000E-02
+        2.0600E+01        1.0000E-01        2.1000E-01        2.0000E-02

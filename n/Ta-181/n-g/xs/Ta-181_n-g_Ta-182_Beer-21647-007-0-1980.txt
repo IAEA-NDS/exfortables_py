@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21647-007-0 
-# EXFOR reaction        : ['73-TA-181', ['N,G'], '73-TA-182,,SIG,,SPA'] 
+# EXFOR reaction        : (73-TA-181(N,G)73-TA-182,,SIG,,SPA) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : Ta-181 
 # product               : Ta-182 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.Beer 
+# first author          : Beer 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,21,534,1980) 
 # year                  : 1980 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21647.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21647
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      0.00000E+00      1.19200E+00      6.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        1.1920E+00        6.2000E-02

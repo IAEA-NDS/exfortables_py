@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41032-032-1 
-# EXFOR reaction        : ['50-SN-122', ['N,A'], '48-CD-119-G,,SIG'] 
+# EXFOR reaction        : (50-SN-122(N,A)48-CD-119-G,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Sn-122 
 # product               : Cd-119-G 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : P.M.Gopych 
+# first author          : Gopych 
 # institute             : (4UKRKHU): Kharkivsky Natsionalny University "V.N. Karazin", Kharkiv 
 # reference             : (C,87KIEV,3,295,1987) 
 # year                  : 1987 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/410/41032.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41032
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      2.00000E-01      1.50000E-04      4.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        2.0000E-01        1.5000E-04        4.0000E-05

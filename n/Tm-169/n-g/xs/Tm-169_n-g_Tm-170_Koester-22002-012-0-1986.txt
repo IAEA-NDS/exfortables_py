@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22002-012-0 
-# EXFOR reaction        : ['69-TM-169', ['N,G'], '69-TM-170,,SIG,,,DERIV'] 
+# EXFOR reaction        : (69-TM-169(N,G)69-TM-170,,SIG,,,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Tm-169 
 # product               : Tm-170 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : L.Koester 
+# first author          : Koester 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (J,ZP/A,323,367,86) 
 # year                  : 1986 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22002.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22002
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.00000E+02      2.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.0000E+02        2.0000E+00

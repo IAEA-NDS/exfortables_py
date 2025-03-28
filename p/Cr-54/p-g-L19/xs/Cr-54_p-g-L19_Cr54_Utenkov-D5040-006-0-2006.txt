@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D5040-006-0 
-# EXFOR reaction        : ['24-CR-54', ['P,G'], '25-MN-55,PAR,SIG'] 
+# EXFOR reaction        : (24-CR-54(P,G)25-MN-55,PAR,SIG) 
 # incident energy       : 1.5356e+00 MeV - 2.3237e+00 MeV 
 # target                : Cr-54 
 # product               : Mn-55 
 # level energy          : 2.5640e+00 MeV 
 # MF-MT number          : 3 - 19 
-# first author          : S.N.Utenkov 
+# first author          : Utenkov 
 # institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
 # reference             : (J,BAS,70,1859,2006) 
 # year                  : 2006 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D50/D5040.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D5040
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.53560E+00      2.00000E-03      6.08540E-06      1.66310E-06
-      1.65170E+00      2.00000E-03      1.28290E-05      3.09010E-06
-      1.77720E+00      2.00000E-03      1.17380E-05      2.73230E-06
-      1.89060E+00      2.00000E-03      2.26380E-05      5.10960E-06
-      1.94700E+00      2.00000E-03      1.98300E-05      4.04050E-06
-      2.01010E+00      2.00000E-03      5.06520E-05      8.67350E-06
-      2.13460E+00      2.00000E-03      4.45700E-05      6.89010E-06
-      2.17610E+00      2.00000E-03      3.97310E-05      7.00890E-06
-      2.32370E+00      2.00000E-03      2.46370E-05      5.94120E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5356E+00        2.0000E-03        6.0854E-06        1.6631E-06
+        1.6517E+00        2.0000E-03        1.2829E-05        3.0901E-06
+        1.7772E+00        2.0000E-03        1.1738E-05        2.7323E-06
+        1.8906E+00        2.0000E-03        2.2638E-05        5.1096E-06
+        1.9470E+00        2.0000E-03        1.9830E-05        4.0405E-06
+        2.0101E+00        2.0000E-03        5.0652E-05        8.6735E-06
+        2.1346E+00        2.0000E-03        4.4570E-05        6.8901E-06
+        2.1761E+00        2.0000E-03        3.9731E-05        7.0089E-06
+        2.3237E+00        2.0000E-03        2.4637E-05        5.9412E-06

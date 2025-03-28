@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21536-002-0 
-# EXFOR reaction        : ['1-H-1', ['N,G'], '1-H-2,,SIG'] 
+# EXFOR reaction        : (1-H-1(N,G)1-H-2,,SIG) 
 # incident energy       : 3.7000e+01 MeV - 7.2600e+01 MeV 
 # target                : H-1 
 # product               : H-2 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.Bosman 
+# first author          : Bosman 
 # institute             : (2BLGLVN): Catholic University of Louvain, Louvain-la-Neuve 
 # reference             : (J,PL/B,82,2,212,790326) 
 # year                  : 1979 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/215/21536.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21536
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.70000E+01      1.40000E+00      2.12000E-05      1.60000E-06
-      4.22000E+01      1.30000E+00      2.06000E-05      1.40000E-06
-      4.73000E+01      1.20000E+00      1.70000E-05      7.00000E-07
-      5.24000E+01      1.10000E+00      1.76000E-05      9.00000E-07
-      5.74000E+01      1.00000E+00      1.58000E-05      1.10000E-06
-      6.25000E+01      1.00000E+00      1.46000E-05      1.10000E-06
-      7.26000E+01      9.00000E-01      1.47000E-05      1.10000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.7000E+01        1.4000E+00        2.1200E-05        1.6000E-06
+        4.2200E+01        1.3000E+00        2.0600E-05        1.4000E-06
+        4.7300E+01        1.2000E+00        1.7000E-05        7.0000E-07
+        5.2400E+01        1.1000E+00        1.7600E-05        9.0000E-07
+        5.7400E+01        1.0000E+00        1.5800E-05        1.1000E-06
+        6.2500E+01        1.0000E+00        1.4600E-05        1.1000E-06
+        7.2600E+01        9.0000E-01        1.4700E-05        1.1000E-06

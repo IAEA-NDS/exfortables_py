@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21789-003-0 
-# EXFOR reaction        : ['8-O-16', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (8-O-16(N,TOT),,SIG) 
 # incident energy       : 1.0900e+02 MeV - 1.6300e+02 MeV 
 # target                : O-16 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : R.Alphonce 
+# first author          : Alphonce 
 # institute             : (2SWDUPP): Uppsala University , Uppsala 
 # reference             : (J,PM,46,295,55) 
 # year                  : 1955 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21789.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21789
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.09000E+02      2.00000E+00      6.56000E-01      6.00000E-03
-      1.17000E+02      2.00000E+00      5.98000E-01      6.00000E-03
-      1.32000E+02      2.00000E+00      5.18000E-01      6.00000E-03
-      1.49000E+02      2.00000E+00      4.73000E-01      6.00000E-03
-      1.63000E+02      3.00000E+00      4.31000E-01      6.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0900E+02        2.0000E+00        6.5600E-01        6.0000E-03
+        1.1700E+02        2.0000E+00        5.9800E-01        6.0000E-03
+        1.3200E+02        2.0000E+00        5.1800E-01        6.0000E-03
+        1.4900E+02        2.0000E+00        4.7300E-01        6.0000E-03
+        1.6300E+02        3.0000E+00        4.3100E-01        6.0000E-03

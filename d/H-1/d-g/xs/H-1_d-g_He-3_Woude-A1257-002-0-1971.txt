@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A1257-002-0 
-# EXFOR reaction        : ['1-H-1', ['D,G'], '2-HE-3,,SIG,,,EXP'] 
+# EXFOR reaction        : (1-H-1(D,G)2-HE-3,,SIG,,,EXP) 
 # incident energy       : 1.9800e+01 MeV - 4.5200e+01 MeV 
 # target                : H-1 
 # product               : He-3 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.Woude 
+# first author          : Woude 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,PRL,26,(15),909,197104) 
 # year                  : 1971 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A12/A1257.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A1257
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.98000E+01      0.00000E+00      1.12000E-05      8.00000E-07
-      2.96000E+01      0.00000E+00      1.02000E-05      7.00000E-07
-      4.11000E+01      0.00000E+00      1.10000E-05      8.00000E-07
-      4.52000E+01      0.00000E+00      1.36000E-05      1.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9800E+01        0.0000E+00        1.1200E-05        8.0000E-07
+        2.9600E+01        0.0000E+00        1.0200E-05        7.0000E-07
+        4.1100E+01        0.0000E+00        1.1000E-05        8.0000E-07
+        4.5200E+01        0.0000E+00        1.3600E-05        1.0000E-06

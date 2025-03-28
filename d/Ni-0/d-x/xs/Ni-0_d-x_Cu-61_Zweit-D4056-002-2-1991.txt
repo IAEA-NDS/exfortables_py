@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4056-002-2 
-# EXFOR reaction        : ['28-NI-0', ['D,X'], '29-CU-61,,SIG'] 
+# EXFOR reaction        : (28-NI-0(D,X)29-CU-61,,SIG) 
 # incident energy       : 7.2000e+00 MeV - 1.8900e+01 MeV 
 # target                : Ni-0 
 # product               : Cu-61 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.Zweit 
+# first author          : Zweit 
 # institute             : (2UK MAN): University of Manchester, England 
 # reference             : (J,ARI,42,193,1991) 
 # year                  : 1991 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4056.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4056
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.20000E+00      0.00000E+00      9.60000E-02      9.00000E-03
-      9.40000E+00      0.00000E+00      6.40000E-02      6.00000E-03
-      1.13000E+01      0.00000E+00      3.60000E-02      4.10000E-03
-      1.30000E+01      0.00000E+00      2.70000E-02      2.80000E-03
-      1.46000E+01      0.00000E+00      2.10000E-02      2.40000E-03
-      1.62000E+01      0.00000E+00      1.96000E-02      2.00000E-03
-      1.76000E+01      0.00000E+00      1.86000E-02      2.00000E-03
-      1.89000E+01      0.00000E+00      1.61000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.2000E+00        0.0000E+00        9.6000E-02        9.0000E-03
+        9.4000E+00        0.0000E+00        6.4000E-02        6.0000E-03
+        1.1300E+01        0.0000E+00        3.6000E-02        4.1000E-03
+        1.3000E+01        0.0000E+00        2.7000E-02        2.8000E-03
+        1.4600E+01        0.0000E+00        2.1000E-02        2.4000E-03
+        1.6200E+01        0.0000E+00        1.9600E-02        2.0000E-03
+        1.7600E+01        0.0000E+00        1.8600E-02        2.0000E-03
+        1.8900E+01        0.0000E+00        1.6100E-02        2.0000E-03

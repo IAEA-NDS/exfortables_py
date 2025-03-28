@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D7023-003-0 
-# EXFOR reaction        : ['46-PD-0', ['P,X'], '45-RH-102-G,M+,SIG'] 
+# EXFOR reaction        : (46-PD-0(P,X)45-RH-102-G,M+,SIG) 
 # incident energy       : 2.1090e+01 MeV - 4.2610e+01 MeV 
 # target                : Pd-0 
 # product               : Rh-102-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : T.H.Nguyen 
+# first author          : Nguyen 
 # institute             : (3VN VN): Vietnam 
 # reference             : (J,NIM/B,429,1,2018) 
 # year                  : 2018 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D70/D7023.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D7023
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.10900E+01      8.10000E-01      3.47000E-03      4.20000E-04
-      2.56100E+01      6.90000E-01      4.19000E-03      5.10000E-04
-      2.96000E+01      6.50000E-01      3.74000E-03      4.50000E-04
-      3.32300E+01      5.70000E-01      3.50000E-03      4.00000E-04
-      3.65400E+01      5.40000E-01      4.77000E-03      5.60000E-04
-      3.97000E+01      5.10000E-01      4.49000E-03      5.10000E-04
-      4.26100E+01      4.90000E-01      5.87000E-03      7.10000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1090E+01        8.1000E-01        3.4700E-03        4.2000E-04
+        2.5610E+01        6.9000E-01        4.1900E-03        5.1000E-04
+        2.9600E+01        6.5000E-01        3.7400E-03        4.5000E-04
+        3.3230E+01        5.7000E-01        3.5000E-03        4.0000E-04
+        3.6540E+01        5.4000E-01        4.7700E-03        5.6000E-04
+        3.9700E+01        5.1000E-01        4.4900E-03        5.1000E-04
+        4.2610E+01        4.9000E-01        5.8700E-03        7.1000E-04

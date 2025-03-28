@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1241-004-0 
-# EXFOR reaction        : ['74-W-0', ['P,X'], 'ELEM/MASS,IND,SIG'] 
+# EXFOR reaction        : (74-W-0(P,X)ELEM/MASS,IND,SIG) 
 # incident energy       : 5.0000e+02 MeV 
 # target                : W-0 
 # product               : Lu-172 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Y.Asano 
+# first author          : Asano 
 # institute             : (2JPNTSU): University of Tsukuba, Tsukuba 
 # reference             : (J,JPJ,54,(10),3734,198510) 
 # year                  : 1985 
@@ -13,5 +13,15 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E12/E1241.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1241
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.00000E+02      0.00000E+00      4.30000E-03      5.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+02        0.0000E+00        1.0000E-04        2.0000E-05
+        5.0000E+02        0.0000E+00        3.0000E-04        7.0000E-05
+        5.0000E+02        0.0000E+00        1.2000E-04        5.0000E-05
+        5.0000E+02        0.0000E+00        2.1000E-03        3.0000E-04
+        5.0000E+02        0.0000E+00        1.5000E-03        4.0000E-04
+        5.0000E+02        0.0000E+00        5.7000E-02        4.0000E-03
+        5.0000E+02        0.0000E+00        4.3000E-03        5.0000E-04
+        5.0000E+02        0.0000E+00        4.3000E-02        4.0000E-03
+        5.0000E+02        0.0000E+00        6.0000E-04        1.0000E-04
+        5.0000E+02        0.0000E+00        1.5000E-03        2.0000E-04
+        5.0000E+02        0.0000E+00        4.0000E-04        1.0000E-04

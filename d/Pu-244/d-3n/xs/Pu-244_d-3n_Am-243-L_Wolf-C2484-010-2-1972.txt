@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2484-010-2 
-# EXFOR reaction        : ['94-PU-244', ['D,3N'], '95-AM-243-L,,SIG'] 
+# EXFOR reaction        : (94-PU-244(D,3N)95-AM-243-L,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Pu-244 
 # product               : Am-243-L 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : K.L.Wolf 
+# first author          : Wolf 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,PL/B,38,405,1972) 
 # year                  : 1972 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C24/C2484.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2484
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      1.63000E-05      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        1.6300E-05        0.0000E+00

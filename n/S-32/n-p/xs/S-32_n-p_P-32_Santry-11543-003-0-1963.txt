@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11543-003-0 
-# EXFOR reaction        : ['16-S-32', ['N,P'], '15-P-32,,SIG'] 
+# EXFOR reaction        : (16-S-32(N,P)15-P-32,,SIG) 
 # incident energy       : 1.0400e+01 MeV - 1.1600e+01 MeV 
 # target                : S-32 
 # product               : P-32 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : D.C.Santry 
+# first author          : Santry 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (J,CJC,41,123,1963) 
 # year                  : 1963 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11543.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11543
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.04000E+01      5.00000E-02      4.22000E-01      2.50000E-02
-      1.10000E+01      4.00000E-02      3.71000E-01      2.20000E-02
-      1.16000E+01      4.00000E-02      4.22000E-01      2.40000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0400E+01        5.0000E-02        4.2200E-01        2.5000E-02
+        1.1000E+01        4.0000E-02        3.7100E-01        2.2000E-02
+        1.1600E+01        4.0000E-02        4.2200E-01        2.4000E-02

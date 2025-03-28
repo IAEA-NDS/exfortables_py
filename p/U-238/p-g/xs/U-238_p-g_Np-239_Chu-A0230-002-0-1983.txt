@@ -1,17 +1,17 @@
 # entry-subent-pointer  : A0230-002-0 
-# EXFOR reaction        : ['92-U-238', ['P,G'], '93-NP-239,,SIG'] 
+# EXFOR reaction        : (92-U-238(P,G)93-NP-239,,SIG) 
 # incident energy       : 2.0000e+02 MeV 
 # target                : U-238 
 # product               : Np-239 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : Y.Y.Chu 
+# first author          : Chu 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,IRE,30,1153,1983) 
 # year                  : 1983 
-# facility              : None 
+# facility              : (LINAC): Linear accelerator 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0230.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0230
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+02      0.00000E+00      2.70000E-04      7.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+02        0.0000E+00        2.7000E-04        7.0000E-05

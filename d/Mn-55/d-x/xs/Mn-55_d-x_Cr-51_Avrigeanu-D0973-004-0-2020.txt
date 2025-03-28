@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0973-004-0 
-# EXFOR reaction        : ['25-MN-55', ['D,X'], '24-CR-51,,SIG'] 
+# EXFOR reaction        : (25-MN-55(D,X)24-CR-51,,SIG) 
 # incident energy       : 1.8200e+01 MeV - 1.9220e+01 MeV 
 # target                : Mn-55 
 # product               : Cr-51 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Avrigeanu 
+# first author          : Avrigeanu 
 # institute             : (3RUMBUC): Horia Hulubei National Institute (IFIN-HH), Magurele 
 # reference             : (J,PR/C,101,024605,2020) 
 # year                  : 2020 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D09/D0973.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0973
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.92200E+01      2.80000E-01      3.53000E-04      4.40000E-05
-      1.82000E+01      2.80000E-01      1.19000E-04      4.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9220E+01        2.8000E-01        3.5300E-04        4.4000E-05
+        1.8200E+01        2.8000E-01        1.1900E-04        4.0000E-05

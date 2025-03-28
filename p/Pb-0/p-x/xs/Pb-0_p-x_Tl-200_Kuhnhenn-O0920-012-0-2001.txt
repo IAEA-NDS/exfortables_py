@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0920-012-0 
-# EXFOR reaction        : ['82-PB-0', ['P,X'], '81-TL-200,CUM,SIG'] 
+# EXFOR reaction        : (82-PB-0(P,X)81-TL-200,CUM,SIG) 
 # incident energy       : 4.2800e+01 MeV - 6.9000e+01 MeV 
 # target                : Pb-0 
 # product               : Tl-200 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.Kuhnhenn 
+# first author          : Kuhnhenn 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (T,KUHNHENN,2001) 
 # year                  : 2001 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O09/O0920.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0920
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.28000E+01      6.00000E-01      2.46000E-03      6.70000E-04
-      4.30000E+01      6.00000E-01      3.27000E-03      2.20000E-04
-      4.35000E+01      6.00000E-01      4.50000E-03      3.10000E-04
-      5.32000E+01      8.00000E-01      3.25000E-02      7.10000E-03
-      5.57000E+01      8.00000E-01      2.23000E-02      1.90000E-03
-      6.22000E+01      7.00000E-01      5.46000E-02      1.05000E-02
-      6.44000E+01      7.00000E-01      9.42000E-02      1.88000E-02
-      6.66000E+01      6.00000E-01      1.12000E-01      7.00000E-03
-      6.90000E+01      6.00000E-01      1.56000E-01      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.2800E+01        6.0000E-01        2.4600E-03        6.7000E-04
+        4.3000E+01        6.0000E-01        3.2700E-03        2.2000E-04
+        4.3500E+01        6.0000E-01        4.5000E-03        3.1000E-04
+        5.3200E+01        8.0000E-01        3.2500E-02        7.1000E-03
+        5.5700E+01        8.0000E-01        2.2300E-02        1.9000E-03
+        6.2200E+01        7.0000E-01        5.4600E-02        1.0500E-02
+        6.4400E+01        7.0000E-01        9.4200E-02        1.8800E-02
+        6.6600E+01        6.0000E-01        1.1200E-01        7.0000E-03
+        6.9000E+01        6.0000E-01        1.5600E-01        1.0000E-02

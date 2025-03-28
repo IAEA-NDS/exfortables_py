@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0081-005-0 
-# EXFOR reaction        : ['53-I-127', ['P,6N'], '54-XE-122,,SIG,,,EXP'] 
+# EXFOR reaction        : (53-I-127(P,6N)54-XE-122,,SIG,,,EXP) 
 # incident energy       : 5.5000e+01 MeV - 8.5000e+01 MeV 
 # target                : I-127 
 # product               : Xe-122 
 # level energy          : - 
 # MF-MT number          : 3 - 153 
-# first author          : M.Diksic 
+# first author          : Diksic 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,JIN,39,1299,1977) 
 # year                  : 1977 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0081.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0081
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.50000E+01      0.00000E+00      5.80000E-03      9.00000E-04
-      6.00000E+01      0.00000E+00      3.90000E-02      5.00000E-03
-      6.50000E+01      0.00000E+00      7.20000E-02      9.00000E-03
-      7.00000E+01      0.00000E+00      1.14000E-01      1.60000E-02
-      7.50000E+01      0.00000E+00      1.03000E-01      1.80000E-02
-      8.50000E+01      0.00000E+00      6.90000E-02      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.5000E+01        0.0000E+00        5.8000E-03        9.0000E-04
+        6.0000E+01        0.0000E+00        3.9000E-02        5.0000E-03
+        6.5000E+01        0.0000E+00        7.2000E-02        9.0000E-03
+        7.0000E+01        0.0000E+00        1.1400E-01        1.6000E-02
+        7.5000E+01        0.0000E+00        1.0300E-01        1.8000E-02
+        8.5000E+01        0.0000E+00        6.9000E-02        1.0000E-02

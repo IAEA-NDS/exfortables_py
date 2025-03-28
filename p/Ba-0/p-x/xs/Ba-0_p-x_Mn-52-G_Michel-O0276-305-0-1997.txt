@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0276-305-0 
-# EXFOR reaction        : ['56-BA-0', ['P,X'], '25-MN-52-G,CUM,SIG'] 
+# EXFOR reaction        : (56-BA-0(P,X)25-MN-52-G,CUM,SIG) 
 # incident energy       : 8.0000e+02 MeV - 2.6000e+03 MeV 
 # target                : Ba-0 
 # product               : Mn-52-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,129,153,1997) 
 # year                  : 1997 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0276
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.00000E+02      0.00000E+00      6.21000E-05      9.38000E-06
-      1.20000E+03      0.00000E+00      1.59000E-04      3.32000E-05
-      1.60000E+03      0.00000E+00      1.64000E-04      2.06000E-05
-      2.60000E+03      0.00000E+00      4.77000E-04      5.65000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+02        0.0000E+00        6.2100E-05        9.3800E-06
+        1.2000E+03        0.0000E+00        1.5900E-04        3.3200E-05
+        1.6000E+03        0.0000E+00        1.6400E-04        2.0600E-05
+        2.6000E+03        0.0000E+00        4.7700E-04        5.6500E-05

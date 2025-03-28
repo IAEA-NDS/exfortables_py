@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0241-002-0 
-# EXFOR reaction        : ['92-U-235', ['P,F'], ',,SIG'] 
+# EXFOR reaction        : (92-U-235(P,F),,SIG) 
 # incident energy       : 1.0000e+00 MeV - 4.0000e+00 MeV 
 # target                : U-235 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : N.N.Ajitanand 
+# first author          : Ajitanand 
 # institute             : (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
 # reference             : (J,PRL,58,1520,1987) 
 # year                  : 1987 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0241.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0241
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      3.00000E-10      6.00000E-11
-      1.50000E+00      0.00000E+00      9.00000E-10      1.80000E-10
-      2.00000E+00      0.00000E+00      1.80000E-09      3.60000E-10
-      2.50000E+00      0.00000E+00      2.70000E-09      5.40000E-10
-      3.00000E+00      0.00000E+00      7.00000E-09      1.40000E-09
-      3.50000E+00      0.00000E+00      1.32000E-08      2.64000E-09
-      4.00000E+00      0.00000E+00      3.87000E-08      7.74000E-09
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        3.0000E-10        6.0000E-11
+        1.5000E+00        0.0000E+00        9.0000E-10        1.8000E-10
+        2.0000E+00        0.0000E+00        1.8000E-09        3.6000E-10
+        2.5000E+00        0.0000E+00        2.7000E-09        5.4000E-10
+        3.0000E+00        0.0000E+00        7.0000E-09        1.4000E-09
+        3.5000E+00        0.0000E+00        1.3200E-08        2.6400E-09
+        4.0000E+00        0.0000E+00        3.8700E-08        7.7400E-09

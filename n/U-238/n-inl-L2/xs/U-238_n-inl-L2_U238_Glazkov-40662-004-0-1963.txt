@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40662-004-0 
-# EXFOR reaction        : ['92-U-238', ['N,INL'], '92-U-238,PAR,SIG'] 
+# EXFOR reaction        : (92-U-238(N,INL)92-U-238,PAR,SIG) 
 # incident energy       : 4.0000e-01 MeV - 1.0000e+00 MeV 
 # target                : U-238 
 # product               : U-238 
 # level energy          : 1.4500e-01 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : N.P.Glazkov 
+# first author          : Glazkov 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (J,AE,14,400,1963) 
 # year                  : 1963 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40662.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40662
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E-01      0.00000E+00      2.00000E-01      4.00000E-02
-      6.00000E-01      0.00000E+00      3.50000E-01      4.00000E-02
-      8.00000E-01      0.00000E+00      3.50000E-01      7.00000E-02
-      1.00000E+00      0.00000E+00      3.00000E-01      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E-01        0.0000E+00        2.0000E-01        4.0000E-02
+        6.0000E-01        0.0000E+00        3.5000E-01        4.0000E-02
+        8.0000E-01        0.0000E+00        3.5000E-01        7.0000E-02
+        1.0000E+00        0.0000E+00        3.0000E-01        3.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41186-039-0 
-# EXFOR reaction        : ['27-CO-59', ['N,INL'], '27-CO-59,PAR,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,INL)27-CO-59,PAR,SIG) 
 # incident energy       : 4.8700e+00 MeV 
 # target                : Co-59 
 # product               : Co-59 
 # level energy          : 1.7410e+00 MeV 
 # MF-MT number          : 3 - 57 
-# first author          : A.I.Lashuk 
+# first author          : Lashuk 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (J,YK,,(1),26,1994) 
 # year                  : 1994 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41186.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41186
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.87000E+00      0.00000E+00      2.39000E-01      2.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.8700E+00        0.0000E+00        2.3900E-01        2.5000E-02

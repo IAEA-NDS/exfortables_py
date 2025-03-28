@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2221-021-0 
-# EXFOR reaction        : ['1-H-3', ['T,D'], '1-H-4,,SIG'] 
+# EXFOR reaction        : (1-H-3(T,D)1-H-4,,SIG) 
 # incident energy       : 1.6410e+01 MeV - 1.9140e+01 MeV 
 # target                : H-3 
 # product               : H-4 
 # level energy          : - 
 # MF-MT number          : 3 - 104 
-# first author          : M.Drosg 
+# first author          : Drosg 
 # institute             : (2AUSVIE): Universitaet Wien, Vienna 
 # reference             : (J,NSE,184,114,2016) 
 # year                  : 2016 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C22/C2221.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2221
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.64100E+01      0.00000E+00      1.30000E-02      0.00000E+00
-      1.91400E+01      0.00000E+00      6.20000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6410E+01        0.0000E+00        1.3000E-02        0.0000E+00
+        1.9140E+01        0.0000E+00        6.2000E-02        0.0000E+00

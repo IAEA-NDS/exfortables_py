@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0822-002-0 
-# EXFOR reaction        : ['72-HF-0', ['P,X'], 'ELEM/MASS,IND,SIG'] 
+# EXFOR reaction        : (72-HF-0(P,X)ELEM/MASS,IND,SIG) 
 # incident energy       : 2.3500e+02 MeV 
 # target                : Hf-0 
 # product               : Mn-54 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.A.Karamian 
+# first author          : Karamian 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (J,NIM/A,600,488,2009) 
 # year                  : 2009 
@@ -13,5 +13,26 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A08/A0822.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0822
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.35000E+02      0.00000E+00      4.80000E-05      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3500E+02        0.0000E+00        3.3000E-04        0.0000E+00
+        2.3500E+02        0.0000E+00        1.5000E-04        0.0000E+00
+        2.3500E+02        0.0000E+00        4.9000E-04        0.0000E+00
+        2.3500E+02        0.0000E+00        1.3200E-02        0.0000E+00
+        2.3500E+02        0.0000E+00        7.4000E-03        0.0000E+00
+        2.3500E+02        0.0000E+00        2.4000E-02        0.0000E+00
+        2.3500E+02        0.0000E+00        1.5000E-03        0.0000E+00
+        2.3500E+02        0.0000E+00        1.5000E-05        0.0000E+00
+        2.3500E+02        0.0000E+00        3.4000E-03        0.0000E+00
+        2.3500E+02        0.0000E+00        3.0000E-05        0.0000E+00
+        2.3500E+02        0.0000E+00        2.5000E-05        0.0000E+00
+        2.3500E+02        0.0000E+00        5.8000E-05        0.0000E+00
+        2.3500E+02        0.0000E+00        2.4000E-05        0.0000E+00
+        2.3500E+02        0.0000E+00        3.5000E-05        0.0000E+00
+        2.3500E+02        0.0000E+00        5.8000E-05        0.0000E+00
+        2.3500E+02        0.0000E+00        2.1000E-04        0.0000E+00
+        2.3500E+02        0.0000E+00        5.3000E-04        0.0000E+00
+        2.3500E+02        0.0000E+00        1.6000E-04        0.0000E+00
+        2.3500E+02        0.0000E+00        1.4000E-04        0.0000E+00
+        2.3500E+02        0.0000E+00        1.6000E-05        0.0000E+00
+        2.3500E+02        0.0000E+00        4.8000E-05        0.0000E+00
+        2.3500E+02        0.0000E+00        5.8000E-05        0.0000E+00

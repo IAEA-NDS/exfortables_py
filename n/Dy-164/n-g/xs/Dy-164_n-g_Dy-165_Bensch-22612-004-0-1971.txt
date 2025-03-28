@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22612-004-0 
-# EXFOR reaction        : ['66-DY-164', ['N,G'], '66-DY-165,,SIG'] 
+# EXFOR reaction        : (66-DY-164(N,G)66-DY-165,,SIG) 
 # incident energy       : 2.4000e-02 MeV - 9.7400e-01 MeV 
 # target                : Dy-164 
 # product               : Dy-165 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : F.Bensch 
+# first author          : Bensch 
 # institute             : (2AUSATI): Atominstitut der Technischen Universitaet Wien,Vienna 
 # reference             : (P,EANDC(OR)-105,1,197108) 
 # year                  : 1971 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22612.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22612
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.40000E-02      0.00000E+00      3.86000E-01      2.31600E-02
-      1.38000E-01      0.00000E+00      1.60000E-01      3.12000E-02
-      2.64000E-01      0.00000E+00      1.45000E-01      1.23250E-02
-      3.78000E-01      0.00000E+00      1.99000E-01      5.57200E-02
-      9.74000E-01      0.00000E+00      1.02000E-01      1.63200E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4000E-02        0.0000E+00        3.8600E-01        2.3160E-02
+        1.3800E-01        0.0000E+00        1.6000E-01        3.1200E-02
+        2.6400E-01        0.0000E+00        1.4500E-01        1.2325E-02
+        3.7800E-01        0.0000E+00        1.9900E-01        5.5720E-02
+        9.7400E-01        0.0000E+00        1.0200E-01        1.6320E-02

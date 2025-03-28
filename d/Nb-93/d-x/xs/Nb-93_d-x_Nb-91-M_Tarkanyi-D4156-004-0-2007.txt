@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4156-004-0 
-# EXFOR reaction        : ['41-NB-93', ['D,X'], '41-NB-91-M,CUM,SIG'] 
+# EXFOR reaction        : (41-NB-93(D,X)41-NB-91-M,CUM,SIG) 
 # incident energy       : 2.7910e+01 MeV - 3.8240e+01 MeV 
 # target                : Nb-93 
 # product               : Nb-91-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,NIM/B,255,297,2007) 
 # year                  : 2007 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4156.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4156
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.79100E+01      9.70000E-01      1.90000E-03      1.50000E-03
-      3.01900E+01      8.20000E-01      1.72000E-02      5.40000E-03
-      3.23400E+01      6.80000E-01      2.75000E-02      8.70000E-03
-      3.43900E+01      5.50000E-01      4.10000E-02      7.30000E-03
-      3.63600E+01      4.20000E-01      4.37000E-02      8.60000E-03
-      3.82400E+01      3.00000E-01      3.15000E-02      9.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7910E+01        9.7000E-01        1.9000E-03        1.5000E-03
+        3.0190E+01        8.2000E-01        1.7200E-02        5.4000E-03
+        3.2340E+01        6.8000E-01        2.7500E-02        8.7000E-03
+        3.4390E+01        5.5000E-01        4.1000E-02        7.3000E-03
+        3.6360E+01        4.2000E-01        4.3700E-02        8.6000E-03
+        3.8240E+01        3.0000E-01        3.1500E-02        9.0000E-03

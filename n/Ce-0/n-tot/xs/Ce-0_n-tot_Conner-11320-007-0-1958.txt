@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11320-007-0 
-# EXFOR reaction        : ['58-CE-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (58-CE-0(N,TOT),,SIG) 
 # incident energy       : 1.3140e+01 MeV - 1.5600e+01 MeV 
 # target                : Ce-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : J.P.Conner 
+# first author          : Conner 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,PR,109,1268,1958) 
 # year                  : 1958 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11320.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11320
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.31400E+01      5.00000E-02      4.99000E+00      8.00000E-02
-      1.41000E+01      4.00000E-02      5.01000E+00      7.00000E-02
-      1.56000E+01      1.30000E-01      5.00000E+00      9.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3140E+01        5.0000E-02        4.9900E+00        8.0000E-02
+        1.4100E+01        4.0000E-02        5.0100E+00        7.0000E-02
+        1.5600E+01        1.3000E-01        5.0000E+00        9.0000E-02

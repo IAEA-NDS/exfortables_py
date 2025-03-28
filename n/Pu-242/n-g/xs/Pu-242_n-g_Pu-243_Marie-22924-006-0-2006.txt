@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22924-006-0 
-# EXFOR reaction        : ['94-PU-242', ['N,G'], '94-PU-243,,SIG,,MXW'] 
+# EXFOR reaction        : (94-PU-242(N,G)94-PU-243,,SIG,,MXW) 
 # incident energy       : 2.5000e-08 MeV 
 # target                : Pu-242 
 # product               : Pu-243 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : F.Marie 
+# first author          : Marie 
 # institute             : (2FR SAC): CEA/Saclay 
 # reference             : (J,NIM/A,556,547,2006) 
 # year                  : 2006 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22924.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22924
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-08      0.00000E+00      2.25000E+01      1.10000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-08        0.0000E+00        2.2500E+01        1.1000E+00

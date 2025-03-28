@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20693-007-0 
-# EXFOR reaction        : ['29-CU-63', ['N,2N'], '29-CU-62,,SIG,,FIS'] 
+# EXFOR reaction        : (29-CU-63(N,2N)29-CU-62,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Cu-63 
 # product               : Cu-62 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : K.Kobayashi 
+# first author          : Kobayashi 
 # institute             : (2JPNKTO): Kyoto University , Kyoto 
 # reference             : ((P,NEANDC(J)-42,31,1975)=(P,INDC(JAP)-28,31,1975)) 
 # year                  : 1975 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20693.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20693
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      1.16000E-04      1.60000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.1600E-04        1.6000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2055-003-0 
-# EXFOR reaction        : ['6-C-13', ['D,P'], '6-C-14,,SIG'] 
+# EXFOR reaction        : (6-C-13(D,P)6-C-14,,SIG) 
 # incident energy       : 2.8200e-01 MeV - 6.3700e-01 MeV 
 # target                : C-13 
 # product               : C-14 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : B.Koudijs 
+# first author          : Koudijs 
 # institute             : (2NEDUTR): University of Utrecht 
 # reference             : (J,PHY,19,1133,1953) 
 # year                  : 1953 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2055.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2055
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.82000E-01      0.00000E+00      1.50000E-05      2.25000E-06
-      3.84000E-01      0.00000E+00      1.10000E-04      1.65000E-05
-      4.85000E-01      0.00000E+00      3.00000E-04      4.50000E-05
-      5.36000E-01      0.00000E+00      5.40000E-04      8.10000E-05
-      5.86000E-01      0.00000E+00      7.30000E-04      1.09500E-04
-      6.37000E-01      0.00000E+00      8.40000E-04      1.26000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.8200E-01        0.0000E+00        1.5000E-05        2.2500E-06
+        3.8400E-01        0.0000E+00        1.1000E-04        1.6500E-05
+        4.8500E-01        0.0000E+00        3.0000E-04        4.5000E-05
+        5.3600E-01        0.0000E+00        5.4000E-04        8.1000E-05
+        5.8600E-01        0.0000E+00        7.3000E-04        1.0950E-04
+        6.3700E-01        0.0000E+00        8.4000E-04        1.2600E-04

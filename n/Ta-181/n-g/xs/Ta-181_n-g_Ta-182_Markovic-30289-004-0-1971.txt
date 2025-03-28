@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30289-004-0 
-# EXFOR reaction        : ['73-TA-181', ['N,G'], '73-TA-182,,SIG,,MXW'] 
+# EXFOR reaction        : (73-TA-181(N,G)73-TA-182,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ta-181 
 # product               : Ta-182 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.Markovic 
+# first author          : Markovic 
 # institute             : (3SRBBKB): Institut za Nuklearne Nauke "Vinca", Beograd 
 # reference             : (J,BKN,22,(1),1,1971) 
 # year                  : 1971 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/302/30289.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30289
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.47000E+01      2.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.4700E+01        2.0000E-01

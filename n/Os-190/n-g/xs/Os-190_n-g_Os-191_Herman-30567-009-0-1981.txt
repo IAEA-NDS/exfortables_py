@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30567-009-0 
-# EXFOR reaction        : ['76-OS-190', ['N,G'], '76-OS-191,,SIG'] 
+# EXFOR reaction        : (76-OS-190(N,G)76-OS-191,,SIG) 
 # incident energy       : 5.3000e-01 MeV - 1.3100e+00 MeV 
 # target                : Os-190 
 # product               : Os-191 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.Herman 
+# first author          : Herman 
 # institute             : (3POLIBJ): Institute Badan Jadr., Swierk and Warszawa 
 # reference             : (J,NP/A,357,1,198103) 
 # year                  : 1981 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30567.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30567
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.30000E-01      1.40000E-01      1.29000E-01      1.50000E-02
-      8.60000E-01      2.10000E-01      1.25000E-01      1.50000E-02
-      1.20000E+00      1.50000E-01      1.05000E-01      1.20000E-02
-      1.31000E+00      7.00000E-02      9.90000E-02      1.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.3000E-01        1.4000E-01        1.2900E-01        1.5000E-02
+        8.6000E-01        2.1000E-01        1.2500E-01        1.5000E-02
+        1.2000E+00        1.5000E-01        1.0500E-01        1.2000E-02
+        1.3100E+00        7.0000E-02        9.9000E-02        1.1000E-02

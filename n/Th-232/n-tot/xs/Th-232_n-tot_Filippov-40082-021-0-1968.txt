@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40082-021-0 
-# EXFOR reaction        : ['90-TH-232', ['N,TOT'], ',,SIG,,AV'] 
+# EXFOR reaction        : (90-TH-232(N,TOT),,SIG,,AV) 
 # incident energy       : 2.0000e-02 MeV - 3.5000e-01 MeV 
 # target                : Th-232 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : V.V.Filippov 
+# first author          : Filippov 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (C,68DUBNA,,(ASS-68/17),1968) 
 # year                  : 1968 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40082.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40082
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-02      1.00000E-02      1.35000E+01      4.00000E-01
-      4.00000E-02      2.00000E-02      1.36000E+01      8.00000E-01
-      5.50000E-02      2.00000E-02      1.31000E+01      3.00000E-01
-      8.00000E-02      2.00000E-02      1.28000E+01      4.00000E-01
-      1.30000E-01      4.00000E-02      1.14000E+01      8.00000E-01
-      2.10000E-01      4.00000E-02      1.08900E+01      1.30000E-01
-      2.70000E-01      4.00000E-02      1.02000E+01      6.00000E-01
-      3.50000E-01      4.00000E-02      9.50000E+00      5.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-02        1.0000E-02        1.3500E+01        4.0000E-01
+        4.0000E-02        2.0000E-02        1.3600E+01        8.0000E-01
+        5.5000E-02        2.0000E-02        1.3100E+01        3.0000E-01
+        8.0000E-02        2.0000E-02        1.2800E+01        4.0000E-01
+        1.3000E-01        4.0000E-02        1.1400E+01        8.0000E-01
+        2.1000E-01        4.0000E-02        1.0890E+01        1.3000E-01
+        2.7000E-01        4.0000E-02        1.0200E+01        6.0000E-01
+        3.5000E-01        4.0000E-02        9.5000E+00        5.0000E-01

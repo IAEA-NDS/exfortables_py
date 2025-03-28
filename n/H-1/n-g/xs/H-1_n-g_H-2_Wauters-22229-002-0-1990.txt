@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22229-002-0 
-# EXFOR reaction        : ['1-H-1', ['N,G'], '1-H-2,,SIG'] 
+# EXFOR reaction        : (1-H-1(N,G)1-H-2,,SIG) 
 # incident energy       : 3.8500e+01 MeV - 7.6200e+01 MeV 
 # target                : H-1 
 # product               : H-2 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : P.Wauters 
+# first author          : Wauters 
 # institute             : (2BLGLVN): Catholic University of Louvain, Louvain-la-Neuve 
 # reference             : (J,FBS,8,1,90) 
 # year                  : 1990 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22229.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22229
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.85000E+01      1.90000E+00      2.06200E-05      0.00000E+00
-      6.08000E+01      2.50000E+00      1.66200E-05      0.00000E+00
-      7.62000E+01      2.10000E+00      1.41300E-05      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.8500E+01        1.9000E+00        2.0620E-05        0.0000E+00
+        6.0800E+01        2.5000E+00        1.6620E-05        0.0000E+00
+        7.6200E+01        2.1000E+00        1.4130E-05        0.0000E+00

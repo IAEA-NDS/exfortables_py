@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31742-002-0 
-# EXFOR reaction        : ['42-MO-98', ['N,G'], '42-MO-99,,SIG,,SPA'] 
+# EXFOR reaction        : (42-MO-98(N,G)42-MO-99,,SIG,,SPA) 
 # incident energy       : 3.0000e-04 MeV 
 # target                : Mo-98 
 # product               : Mo-99 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.R.Jokar 
+# first author          : Jokar 
 # institute             : (3IRNIRN): Iran 
 # reference             : (J,ANE,63,653,2014) 
 # year                  : 2014 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31742.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31742
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-04      0.00000E+00      5.26000E-01      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-04        0.0000E+00        5.2600E-01        2.0000E-02

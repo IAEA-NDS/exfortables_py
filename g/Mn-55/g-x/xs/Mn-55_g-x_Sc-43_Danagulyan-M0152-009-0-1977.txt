@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M0152-009-0 
-# EXFOR reaction        : ['25-MN-55', ['G,X'], 'ELEM/MASS,CUM,SIG,,BRA'] 
+# EXFOR reaction        : (25-MN-55(G,X)ELEM/MASS,CUM,SIG,,BRA) 
 # incident energy       : 5.0000e+03 MeV 
 # target                : Mn-55 
 # product               : Sc-43 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.S.Danagulyan 
+# first author          : Danagulyan 
 # institute             : (4ARMJER): A.I. Alikhanyan National Sci. Laboratory (YerPhI), Yerevan 
 # reference             : (J,NP/A,285,482,1977) 
 # year                  : 1977 
@@ -13,5 +13,24 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M01/M0152.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M0152
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.00000E+03      0.00000E+00      3.10000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+03        0.0000E+00        4.3000E-02        0.0000E+00
+        5.0000E+03        0.0000E+00        5.5000E-04        0.0000E+00
+        5.0000E+03        0.0000E+00        4.8000E-04        0.0000E+00
+        5.0000E+03        0.0000E+00        3.9000E-03        0.0000E+00
+        5.0000E+03        0.0000E+00        2.6000E-04        0.0000E+00
+        5.0000E+03        0.0000E+00        2.7000E-05        0.0000E+00
+        5.0000E+03        0.0000E+00        1.3400E-03        0.0000E+00
+        5.0000E+03        0.0000E+00        1.3400E-04        0.0000E+00
+        5.0000E+03        0.0000E+00        5.5000E-04        0.0000E+00
+        5.0000E+03        0.0000E+00        1.2000E-03        0.0000E+00
+        5.0000E+03        0.0000E+00        4.8000E-04        0.0000E+00
+        5.0000E+03        0.0000E+00        5.5000E-04        0.0000E+00
+        5.0000E+03        0.0000E+00        3.1000E-04        0.0000E+00
+        5.0000E+03        0.0000E+00        6.5000E-05        0.0000E+00
+        5.0000E+03        0.0000E+00        2.1400E-04        0.0000E+00
+        5.0000E+03        0.0000E+00        3.4000E-04        0.0000E+00
+        5.0000E+03        0.0000E+00        6.6000E-05        0.0000E+00
+        5.0000E+03        0.0000E+00        5.7000E-05        0.0000E+00
+        5.0000E+03        0.0000E+00        1.1000E-04        0.0000E+00
+        5.0000E+03        0.0000E+00        8.8000E-05        0.0000E+00

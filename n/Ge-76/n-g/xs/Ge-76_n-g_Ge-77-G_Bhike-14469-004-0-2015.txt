@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14469-004-0 
-# EXFOR reaction        : ['32-GE-76', ['N,G'], '32-GE-77-G,M+,SIG'] 
+# EXFOR reaction        : (32-GE-76(N,G)32-GE-77-G,M+,SIG) 
 # incident energy       : 1.4810e+01 MeV 
 # target                : Ge-76 
 # product               : Ge-77-G 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.Bhike 
+# first author          : Bhike 
 # institute             : (1USATNL): Triangle Universities Nuclear Laboratory , Durham, NC 
 # reference             : (J,PL/B,741,150,2015) 
 # year                  : 2015 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/144/14469.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14469
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48100E+01      8.00000E-02      6.20000E-04      4.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4810E+01        8.0000E-02        6.2000E-04        4.0000E-05

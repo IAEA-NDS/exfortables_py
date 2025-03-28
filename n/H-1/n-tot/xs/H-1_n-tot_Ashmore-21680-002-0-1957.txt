@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21680-002-0 
-# EXFOR reaction        : ['1-H-1', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (1-H-1(N,TOT),,SIG) 
 # incident energy       : 3.5120e+02 MeV 
 # target                : H-1 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : A.Ashmore 
+# first author          : Ashmore 
 # institute             : (2UK LVP): University of Liverpool, England 
 # reference             : (J,PPS/A,70,745,57) 
 # year                  : 1957 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21680.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21680
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.51200E+02      2.00000E+00      3.56000E-02      7.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5120E+02        2.0000E+00        3.5600E-02        7.0000E-04

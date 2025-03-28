@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21573-002-0 
-# EXFOR reaction        : ['1-H-1', ['N,EL'], '1-H-1,,SIG'] 
+# EXFOR reaction        : (1-H-1(N,EL)1-H-1,,SIG) 
 # incident energy       : 2.7100e+01 MeV - 7.2700e+01 MeV 
 # target                : H-1 
 # product               : H-1 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : A.Bol 
+# first author          : Bol 
 # institute             : (2BLGLVN): Catholic University of Louvain, Louvain-la-Neuve 
 # reference             : (W,LELEUX,800620) 
 # year                  : 1980 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/215/21573.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21573
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.27000E+01      6.00000E-01      1.03100E-01      6.00000E-04
-      6.27000E+01      7.00000E-01      1.22000E-01      7.00000E-04
-      3.89000E+01      1.00000E+00      2.21200E-01      8.00000E-04
-      2.71000E+01      1.30000E+00      3.47600E-01      1.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.2700E+01        6.0000E-01        1.0310E-01        6.0000E-04
+        6.2700E+01        7.0000E-01        1.2200E-01        7.0000E-04
+        3.8900E+01        1.0000E+00        2.2120E-01        8.0000E-04
+        2.7100E+01        1.3000E+00        3.4760E-01        1.1000E-03

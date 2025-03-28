@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0501-003-2 
-# EXFOR reaction        : ['13-AL-27', ['P,X'], '12-MG-28,CUM,SIG'] 
+# EXFOR reaction        : (13-AL-27(P,X)12-MG-28,CUM,SIG) 
 # incident energy       : 1.1800e+02 MeV - 8.0000e+02 MeV 
 # target                : Al-27 
 # product               : Mg-28 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.R.Heydegger 
+# first author          : Heydegger 
 # institute             : (1USAPUR): Purdue University, West Lafayette, IN 
 # reference             : (J,PR/C,14,1506,1976) 
 # year                  : 1976 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0501.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0501
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.18000E+02      1.00000E+01      2.00000E-07      3.00000E-08
-      2.18000E+02      1.40000E+01      3.00000E-07      4.50000E-08
-      3.84000E+02      2.10000E+01      3.00000E-07      4.50000E-08
-      4.34000E+02      2.40000E+01      4.00000E-07      6.00000E-08
-      8.00000E+02      5.00000E+00      2.00000E-05      3.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1800E+02        1.0000E+01        2.0000E-07        3.0000E-08
+        2.1800E+02        1.4000E+01        3.0000E-07        4.5000E-08
+        3.8400E+02        2.1000E+01        3.0000E-07        4.5000E-08
+        4.3400E+02        2.4000E+01        4.0000E-07        6.0000E-08
+        8.0000E+02        5.0000E+00        2.0000E-05        3.0000E-06

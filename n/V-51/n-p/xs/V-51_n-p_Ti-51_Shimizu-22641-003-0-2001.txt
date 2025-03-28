@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22641-003-0 
-# EXFOR reaction        : ['23-V-51', ['N,P'], '22-TI-51,,SIG'] 
+# EXFOR reaction        : (23-V-51(N,P)22-TI-51,,SIG) 
 # incident energy       : 3.0000e+00 MeV - 3.2000e+00 MeV 
 # target                : V-51 
 # product               : Ti-51 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : T.Shimizu 
+# first author          : Shimizu 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : ((S,JAERI-C-2001-006,194,2001)=(S,INDC(JPN)-188,194,2001)) 
 # year                  : 2001 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22641.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22641
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.20000E+00      0.00000E+00      2.90000E-05      7.00000E-06
-      3.00000E+00      0.00000E+00      1.40000E-05      8.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.2000E+00        0.0000E+00        2.9000E-05        7.0000E-06
+        3.0000E+00        0.0000E+00        1.4000E-05        8.0000E-06

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10214-021-0 
-# EXFOR reaction        : ['44-RU-0', ['N,X'], '43-TC-99-M,,SIG'] 
+# EXFOR reaction        : (44-RU-0(N,X)43-TC-99-M,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Ru-0 
 # product               : Tc-99-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.K.Temperley 
+# first author          : Temperley 
 # institute             : (1USABRL): Ballistic Research Labs, Aberdeen Proving Grounds, MD 
 # reference             : (R,BRL-R-1491,1970) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10214.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10214
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      5.00000E-01      1.00000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        5.0000E-01        1.0000E-02        2.0000E-03

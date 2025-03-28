@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1882-003-0 
-# EXFOR reaction        : ['41-NB-93', ['P,X'], 'ELEM/MASS,CUM,SIG'] 
+# EXFOR reaction        : (41-NB-93(P,X)ELEM/MASS,CUM,SIG) 
 # incident energy       : 1.2000e+04 MeV 
 # target                : Nb-93 
 # product               : Kr-76 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : T.Tominaka 
+# first author          : Tominaka 
 # institute             : (2JPNLEP): National laboratory for High Energy Physics, Oho, Ibaraki 
 # reference             : (J,NP/A,414,(3),385,198402) 
 # year                  : 1984 
@@ -13,5 +13,24 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E18/E1882.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1882
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.20000E+04      0.00000E+00      1.55000E-03      6.20000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E+04        0.0000E+00        3.6400E-03        2.3000E-04
+        1.2000E+04        0.0000E+00        1.0200E-03        1.2000E-04
+        1.2000E+04        0.0000E+00        1.1800E-03        2.7000E-04
+        1.2000E+04        0.0000E+00        8.0800E-03        8.9000E-04
+        1.2000E+04        0.0000E+00        8.4000E-03        5.3000E-04
+        1.2000E+04        0.0000E+00        8.5700E-03        7.4000E-04
+        1.2000E+04        0.0000E+00        6.8100E-03        1.9400E-03
+        1.2000E+04        0.0000E+00        4.8200E-03        4.3000E-04
+        1.2000E+04        0.0000E+00        4.6400E-03        6.0000E-04
+        1.2000E+04        0.0000E+00        1.5500E-03        6.2000E-04
+        1.2000E+04        0.0000E+00        2.2400E-03        1.7000E-04
+        1.2000E+04        0.0000E+00        1.1900E-02        9.1000E-04
+        1.2000E+04        0.0000E+00        1.6400E-02        2.5000E-03
+        1.2000E+04        0.0000E+00        6.6300E-03        8.8000E-04
+        1.2000E+04        0.0000E+00        1.1800E-02        1.3000E-03
+        1.2000E+04        0.0000E+00        2.2300E-03        2.9000E-04
+        1.2000E+04        0.0000E+00        2.2800E-02        4.0000E-03
+        1.2000E+04        0.0000E+00        3.5600E-03        2.4000E-04
+        1.2000E+04        0.0000E+00        1.3600E-02        3.8000E-03
+        1.2000E+04        0.0000E+00        3.1800E-02        2.3000E-03

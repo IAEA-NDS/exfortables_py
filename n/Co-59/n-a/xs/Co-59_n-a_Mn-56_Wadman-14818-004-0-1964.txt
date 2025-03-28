@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14818-004-0 
-# EXFOR reaction        : ['27-CO-59', ['N,A'], '25-MN-56,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,A)25-MN-56,,SIG) 
 # incident energy       : 1.3379e+01 MeV - 1.5655e+01 MeV 
 # target                : Co-59 
 # product               : Mn-56 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : W.W.Wadman 
+# first author          : Wadman 
 # institute             : (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
 # reference             : (R,UCRL-11375,1964) 
 # year                  : 1964 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/148/14818.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14818
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.33790E+01      0.00000E+00      1.27700E-01      0.00000E+00
-      1.43830E+01      0.00000E+00      1.46100E-01      0.00000E+00
-      1.51590E+01      0.00000E+00      1.48700E-01      0.00000E+00
-      1.56550E+01      0.00000E+00      1.53000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3379E+01        0.0000E+00        1.2770E-01        0.0000E+00
+        1.4383E+01        0.0000E+00        1.4610E-01        0.0000E+00
+        1.5159E+01        0.0000E+00        1.4870E-01        0.0000E+00
+        1.5655E+01        0.0000E+00        1.5300E-01        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11810-004-0 
-# EXFOR reaction        : ['31-GA-69', ['N,INL'], '31-GA-69,PAR,SIG'] 
+# EXFOR reaction        : (31-GA-69(N,INL)31-GA-69,PAR,SIG) 
 # incident energy       : 8.0000e-01 MeV - 2.5000e+00 MeV 
 # target                : Ga-69 
 # product               : Ga-69 
 # level energy          : 5.7300e-01 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : D.E.Velkley 
+# first author          : Velkley 
 # institute             : (1USAKTY): University of Kentucky, Lexington, KY 
 # reference             : (J,PR,179,1090,69) 
 # year                  : 1969 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11810.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11810
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.00000E-01      0.00000E+00      1.27000E-01      0.00000E+00
-      1.50000E+00      0.00000E+00      2.09000E-01      0.00000E+00
-      1.78000E+00      0.00000E+00      2.55000E-01      0.00000E+00
-      2.50000E+00      0.00000E+00      3.38000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E-01        0.0000E+00        1.2700E-01        0.0000E+00
+        1.5000E+00        0.0000E+00        2.0900E-01        0.0000E+00
+        1.7800E+00        0.0000E+00        2.5500E-01        0.0000E+00
+        2.5000E+00        0.0000E+00        3.3800E-01        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0314-018-0 
-# EXFOR reaction        : ['28-NI-60', ['D,NON'], ',,SIG'] 
+# EXFOR reaction        : (28-NI-60(D,NON),,SIG) 
 # incident energy       : 1.0060e+01 MeV - 1.1100e+01 MeV 
 # target                : Ni-60 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : K.Bearpark 
+# first author          : Bearpark 
 # institute             : (2UK OXF): University of Oxford, Oxford 
 # reference             : (J,NP,73,206,1965) 
 # year                  : 1965 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D03/D0314.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0314
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00600E+01      4.40000E-01      1.44100E+00      6.00000E-02
-      1.11000E+01      4.00000E-01      1.50800E+00      6.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0060E+01        4.4000E-01        1.4410E+00        6.0000E-02
+        1.1100E+01        4.0000E-01        1.5080E+00        6.3000E-02

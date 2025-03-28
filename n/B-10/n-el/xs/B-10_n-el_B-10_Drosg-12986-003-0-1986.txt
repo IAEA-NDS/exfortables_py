@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12986-003-0 
-# EXFOR reaction        : ['5-B-10', ['N,EL'], '5-B-10,,SIG'] 
+# EXFOR reaction        : (5-B-10(N,EL)5-B-10,,SIG) 
 # incident energy       : 6.0000e+00 MeV - 1.0000e+01 MeV 
 # target                : B-10 
 # product               : B-10 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : M.Drosg 
+# first author          : Drosg 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (R,LA-10665-MS,8605) 
 # year                  : 1986 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12986.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12986
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+00      1.50000E-01      8.98000E-01      0.00000E+00
-      1.00000E+01      1.00000E-01      8.34000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+00        1.5000E-01        8.9800E-01        0.0000E+00
+        1.0000E+01        1.0000E-01        8.3400E-01        0.0000E+00

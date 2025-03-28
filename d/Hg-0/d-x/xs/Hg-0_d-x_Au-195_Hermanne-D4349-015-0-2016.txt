@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4349-015-0 
-# EXFOR reaction        : ['80-HG-0', ['D,X'], '79-AU-195,CUM,SIG'] 
+# EXFOR reaction        : (80-HG-0(D,X)79-AU-195,CUM,SIG) 
 # incident energy       : 3.8000e+01 MeV - 4.9700e+01 MeV 
 # target                : Hg-0 
 # product               : Au-195 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.Hermanne 
+# first author          : Hermanne 
 # institute             : (2BLGVUB): Vrije Universiteit Brussels, Brussels 
 # reference             : (J,JRN,308,221,2016) 
 # year                  : 2016 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4349.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4349
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.80000E+01      5.00000E-01      1.90000E-02      2.00000E-03
-      4.00000E+01      4.00000E-01      6.50000E-02      8.00000E-03
-      4.20000E+01      4.00000E-01      1.04000E-01      1.20000E-02
-      4.38000E+01      3.00000E-01      1.54000E-01      1.90000E-02
-      4.57000E+01      3.00000E-01      1.90000E-01      2.30000E-02
-      4.74000E+01      2.00000E-01      2.28000E-01      2.70000E-02
-      4.97000E+01      2.00000E-01      2.78000E-01      3.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.8000E+01        5.0000E-01        1.9000E-02        2.0000E-03
+        4.0000E+01        4.0000E-01        6.5000E-02        8.0000E-03
+        4.2000E+01        4.0000E-01        1.0400E-01        1.2000E-02
+        4.3800E+01        3.0000E-01        1.5400E-01        1.9000E-02
+        4.5700E+01        3.0000E-01        1.9000E-01        2.3000E-02
+        4.7400E+01        2.0000E-01        2.2800E-01        2.7000E-02
+        4.9700E+01        2.0000E-01        2.7800E-01        3.3000E-02

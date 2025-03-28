@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10660-004-0 
-# EXFOR reaction        : ['42-MO-94', ['N,G'], '42-MO-95,PAR,SIG'] 
+# EXFOR reaction        : (42-MO-94(N,G)42-MO-95,PAR,SIG) 
 # incident energy       : 2.4300e-02 MeV 
 # target                : Mo-94 
 # product               : Mo-95 
 # level energy          : 5.7690e+00 MeV 
-# MF-MT number          : 3 - 91 
-# first author          : K.Rimawi 
+# MF-MT number          : 3 - 101 
+# first author          : Rimawi 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR/C,15,1271,197704) 
 # year                  : 1977 
@@ -13,7 +13,14 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/106/10660.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10660
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.43000E-02      2.00000E-03      1.80000E-03      5.00000E-04
-      2.43000E-02      2.00000E-03      2.00000E-03      3.00000E-04
-      2.43000E-02      2.00000E-03      1.00000E-03      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4300E-02        2.0000E-03        1.8000E-03        5.0000E-04
+        2.4300E-02        2.0000E-03        2.0000E-03        3.0000E-04
+        2.4300E-02        2.0000E-03        1.0000E-03        2.0000E-04
+        2.4300E-02        2.0000E-03        1.0000E-04        2.0000E-04
+        2.4300E-02        2.0000E-03        4.0000E-03        6.0000E-04
+        2.4300E-02        2.0000E-03        4.5000E-03        6.0000E-04
+        2.4300E-02        2.0000E-03        4.0000E-03        5.0000E-04
+        2.4300E-02        2.0000E-03        4.8000E-03        6.0000E-04
+        2.4300E-02        2.0000E-03        9.1000E-03        1.1000E-03
+        2.4300E-02        2.0000E-03        1.0900E-02        1.0000E-03

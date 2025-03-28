@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10367-003-0 
-# EXFOR reaction        : ['81-TL-205', ['N,INL'], '81-TL-205,PAR,SIG'] 
+# EXFOR reaction        : (81-TL-205(N,INL)81-TL-205,PAR,SIG) 
 # incident energy       : 1.1950e+00 MeV - 2.7540e+00 MeV 
 # target                : Tl-205 
 # product               : Tl-205 
 # level energy          : 6.2000e-01 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : N.Ahmed 
+# first author          : Ahmed 
 # institute             : (1CANALA): University of Alberta, Edmonton, Alberta 
 # reference             : (J,PR/C,11,869,197503) 
 # year                  : 1975 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/103/10367.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10367
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.19500E+00      0.00000E+00      2.96000E-01      0.00000E+00
-      1.40000E+00      0.00000E+00      1.95000E-01      0.00000E+00
-      1.65500E+00      0.00000E+00      2.39000E-01      0.00000E+00
-      1.94600E+00      0.00000E+00      2.86000E-01      0.00000E+00
-      2.32500E+00      0.00000E+00      2.41000E-01      0.00000E+00
-      2.53900E+00      0.00000E+00      3.14000E-01      0.00000E+00
-      2.75400E+00      0.00000E+00      2.71000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1950E+00        0.0000E+00        2.9600E-01        0.0000E+00
+        1.4000E+00        0.0000E+00        1.9500E-01        0.0000E+00
+        1.6550E+00        0.0000E+00        2.3900E-01        0.0000E+00
+        1.9460E+00        0.0000E+00        2.8600E-01        0.0000E+00
+        2.3250E+00        0.0000E+00        2.4100E-01        0.0000E+00
+        2.5390E+00        0.0000E+00        3.1400E-01        0.0000E+00
+        2.7540E+00        0.0000E+00        2.7100E-01        0.0000E+00

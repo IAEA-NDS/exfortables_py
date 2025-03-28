@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40179-008-0 
-# EXFOR reaction        : ['27-CO-59', ['N,EL'], '27-CO-59,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,EL)27-CO-59,,SIG) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Co-59 
 # product               : Co-59 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : I.A.Korzh 
+# first author          : Korzh 
 # institute             : (4UKRIFU): Institute Fiziki Ukrainskoi A.N., Kiev 
 # reference             : (J,BAS,35,757,1972) 
 # year                  : 1972 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40179.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40179
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      2.65000E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        2.6500E+00        0.0000E+00

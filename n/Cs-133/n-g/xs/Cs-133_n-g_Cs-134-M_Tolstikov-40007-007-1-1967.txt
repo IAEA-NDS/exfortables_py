@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40007-007-1 
-# EXFOR reaction        : ['55-CS-133', ['N,G'], '55-CS-134-M,,SIG'] 
+# EXFOR reaction        : (55-CS-133(N,G)55-CS-134-M,,SIG) 
 # incident energy       : 2.0000e-02 MeV - 1.0000e-01 MeV 
 # target                : Cs-133 
 # product               : Cs-134-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.A.Tolstikov 
+# first author          : Tolstikov 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (J,AE,23,566,1967) 
 # year                  : 1967 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40007.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40007
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-02      0.00000E+00      9.00000E-02      0.00000E+00
-      5.00000E-02      0.00000E+00      5.90000E-02      0.00000E+00
-      1.00000E-01      0.00000E+00      4.30000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-02        0.0000E+00        9.0000E-02        0.0000E+00
+        5.0000E-02        0.0000E+00        5.9000E-02        0.0000E+00
+        1.0000E-01        0.0000E+00        4.3000E-02        0.0000E+00

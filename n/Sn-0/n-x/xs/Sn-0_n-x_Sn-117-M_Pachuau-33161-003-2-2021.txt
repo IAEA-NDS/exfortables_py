@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33161-003-2 
-# EXFOR reaction        : ['50-SN-0', ['N,X'], '50-SN-117-M,,SIG'] 
+# EXFOR reaction        : (50-SN-0(N,X)50-SN-117-M,,SIG) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : Sn-0 
 # product               : Sn-117-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Pachuau 
+# first author          : Pachuau 
 # institute             : (3INDIND): India 
 # reference             : (J,EPJ/A,57,268,2021) 
 # year                  : 2021 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33161.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33161
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      4.00000E-01      2.62260E-01      1.20200E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        4.0000E-01        2.6226E-01        1.2020E-02

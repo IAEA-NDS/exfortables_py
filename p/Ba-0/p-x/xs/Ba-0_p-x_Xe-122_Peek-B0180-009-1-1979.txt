@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0180-009-1 
-# EXFOR reaction        : ['56-BA-0', ['P,X'], '54-XE-122,CUM,SIG,,,EXP'] 
+# EXFOR reaction        : (56-BA-0(P,X)54-XE-122,CUM,SIG,,,EXP) 
 # incident energy       : 3.6800e+02 MeV - 5.9100e+02 MeV 
 # target                : Ba-0 
 # product               : Xe-122 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : N.F.Peek 
+# first author          : Peek 
 # institute             : (1USACLA): University of California, Los Angeles, CA 
 # reference             : (J,ARI,30,631,1979) 
 # year                  : 1979 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0180.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0180
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.68000E+02      0.00000E+00      1.89000E-02      0.00000E+00
-      4.17000E+02      0.00000E+00      1.93000E-02      0.00000E+00
-      4.62000E+02      0.00000E+00      2.09000E-02      0.00000E+00
-      5.07000E+02      0.00000E+00      1.86000E-02      0.00000E+00
-      5.40000E+02      0.00000E+00      1.94000E-02      2.50000E-03
-      5.49000E+02      0.00000E+00      1.94000E-02      0.00000E+00
-      5.91000E+02      0.00000E+00      2.15000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6800E+02        0.0000E+00        1.8900E-02        0.0000E+00
+        4.1700E+02        0.0000E+00        1.9300E-02        0.0000E+00
+        4.6200E+02        0.0000E+00        2.0900E-02        0.0000E+00
+        5.0700E+02        0.0000E+00        1.8600E-02        0.0000E+00
+        5.4000E+02        0.0000E+00        1.9400E-02        2.5000E-03
+        5.4900E+02        0.0000E+00        1.9400E-02        0.0000E+00
+        5.9100E+02        0.0000E+00        2.1500E-02        0.0000E+00

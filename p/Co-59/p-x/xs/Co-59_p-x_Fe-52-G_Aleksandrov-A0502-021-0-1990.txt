@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0502-021-0 
-# EXFOR reaction        : ['27-CO-59', ['P,X'], '26-FE-52-G,CUM,SIG'] 
+# EXFOR reaction        : (27-CO-59(P,X)26-FE-52-G,CUM,SIG) 
 # incident energy       : 6.6000e+02 MeV 
 # target                : Co-59 
 # product               : Fe-52-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Yu.V.Aleksandrov 
+# first author          : Aleksandrov 
 # institute             : (4RUSRI ): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (C,90LENING,,498,1990) 
 # year                  : 1990 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0502.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0502
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.60000E+02      0.00000E+00      2.19000E-04      7.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6000E+02        0.0000E+00        2.1900E-04        7.0000E-06

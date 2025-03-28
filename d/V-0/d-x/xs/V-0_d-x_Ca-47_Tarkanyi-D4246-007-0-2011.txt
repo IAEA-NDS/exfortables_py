@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4246-007-0 
-# EXFOR reaction        : ['23-V-0', ['D,X'], '20-CA-47,,SIG'] 
+# EXFOR reaction        : (23-V-0(D,X)20-CA-47,,SIG) 
 # incident energy       : 3.5900e+01 MeV - 3.9700e+01 MeV 
 # target                : V-0 
 # product               : Ca-47 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,NIM/B,269,1792,2011) 
 # year                  : 2011 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4246.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4246
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.59000E+01      4.00000E-01      1.02300E-04      8.30000E-05
-      3.78000E+01      4.00000E-01      1.14600E-04      7.50000E-05
-      3.97000E+01      3.00000E-01      1.33600E-04      7.50000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5900E+01        4.0000E-01        1.0230E-04        8.3000E-05
+        3.7800E+01        4.0000E-01        1.1460E-04        7.5000E-05
+        3.9700E+01        3.0000E-01        1.3360E-04        7.5000E-05

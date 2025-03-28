@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0295-003-0 
-# EXFOR reaction        : ['23-V-51', ['D,X'], '23-V-49,,SIG'] 
+# EXFOR reaction        : (23-V-51(D,X)23-V-49,,SIG) 
 # incident energy       : 1.7790e+01 MeV - 2.4880e+01 MeV 
 # target                : V-51 
 # product               : V-49 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Klewe-Nebenius 
+# first author          : Klewe-Nebenius 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,RCA,33,177,1983) 
 # year                  : 1983 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0295.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0295
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.77900E+01      2.20000E-01      2.24000E-04      1.12000E-05
-      2.08600E+01      2.20000E-01      1.53000E-03      7.65000E-05
-      2.40000E+01      2.20000E-01      3.99000E-03      1.99500E-04
-      2.48800E+01      2.20000E-01      5.33000E-03      2.66500E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7790E+01        2.2000E-01        2.2400E-04        1.1200E-05
+        2.0860E+01        2.2000E-01        1.5300E-03        7.6500E-05
+        2.4000E+01        2.2000E-01        3.9900E-03        1.9950E-04
+        2.4880E+01        2.2000E-01        5.3300E-03        2.6650E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21405-003-0 
-# EXFOR reaction        : ['88-RA-226', ['N,3N'], '88-RA-224,,SIG'] 
+# EXFOR reaction        : (88-RA-226(N,3N)88-RA-224,,SIG) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : Ra-226 
 # product               : Ra-224 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : L.P.O'Connor 
+# first author          : O'Connor 
 # institute             : (2UK ALD): Atomic Weapons Establishment (AWE), Aldermaston 
 # reference             : (J,JIN,13,5,60) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/214/21405.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21405
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      3.00000E-01      6.30000E-01      7.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        3.0000E-01        6.3000E-01        7.0000E-02

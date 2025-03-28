@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20868-002-2 
-# EXFOR reaction        : ['49-IN-115', ['N,G'], '49-IN-116-M1+M2,,SIG,,SPA'] 
+# EXFOR reaction        : (49-IN-115(N,G)49-IN-116-M1+M2,,SIG,,SPA) 
 # incident energy       : 4.5000e+00 MeV 
 # target                : In-115 
 # product               : In-116-M1+M2 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.Pauw 
+# first author          : Pauw 
 # institute             : (2NEDAMS): University of Amsterdam, Amsterdam 
 # reference             : ((R,INDC(NED)-3,1970)=(R,INDC-430,1970)) 
 # year                  : 1970 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20868.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20868
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.50000E+00      0.00000E+00      8.34000E-02      3.10000E-03
-      4.50000E+00      0.00000E+00      7.70000E-02      3.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5000E+00        0.0000E+00        8.3400E-02        3.1000E-03
+        4.5000E+00        0.0000E+00        7.7000E-02        3.0000E-03

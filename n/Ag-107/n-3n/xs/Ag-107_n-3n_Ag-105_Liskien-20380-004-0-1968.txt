@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20380-004-0 
-# EXFOR reaction        : ['47-AG-107', ['N,3N'], '47-AG-105,,SIG'] 
+# EXFOR reaction        : (47-AG-107(N,3N)47-AG-105,,SIG) 
 # incident energy       : 1.8940e+01 MeV - 1.9500e+01 MeV 
 # target                : Ag-107 
 # product               : Ag-105 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : H.Liskien 
+# first author          : Liskien 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,NP/A,118,379,6810) 
 # year                  : 1968 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20380.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20380
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.89400E+01      2.90000E-01      1.60000E-02      4.00000E-03
-      1.91900E+01      2.30000E-01      2.90000E-02      4.00000E-03
-      1.94200E+01      2.00000E-01      3.60000E-02      4.00000E-03
-      1.95000E+01      2.00000E-01      5.60000E-02      5.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8940E+01        2.9000E-01        1.6000E-02        4.0000E-03
+        1.9190E+01        2.3000E-01        2.9000E-02        4.0000E-03
+        1.9420E+01        2.0000E-01        3.6000E-02        4.0000E-03
+        1.9500E+01        2.0000E-01        5.6000E-02        5.0000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30836-002-0 
-# EXFOR reaction        : ['83-BI-209', ['N,4N'], '83-BI-206,,SIG,,SPA'] 
+# EXFOR reaction        : (83-BI-209(N,4N)83-BI-206,,SIG,,SPA) 
 # incident energy       : 2.6400e+01 MeV - 3.7200e+01 MeV 
 # target                : Bi-209 
 # product               : Bi-206 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : M.Zaman 
+# first author          : Zaman 
 # institute             : (3KORKNU): Kyungpook National University, Daegu 
 # reference             : (J,EPJ/A,51,104,2015) 
 # year                  : 2015 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/308/30836.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30836
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.64000E+01      2.77000E+00      3.23340E-01      3.55400E-02
-      3.72000E+01      2.20000E+00      8.29950E-01      1.31240E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6400E+01        2.7700E+00        3.2334E-01        3.5540E-02
+        3.7200E+01        2.2000E+00        8.2995E-01        1.3124E-01

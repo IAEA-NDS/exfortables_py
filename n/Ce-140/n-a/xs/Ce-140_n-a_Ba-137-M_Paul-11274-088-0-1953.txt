@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11274-088-0 
-# EXFOR reaction        : ['58-CE-140', ['N,A'], '56-BA-137-M,,SIG'] 
+# EXFOR reaction        : (58-CE-140(N,A)56-BA-137-M,,SIG) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : Ce-140 
 # product               : Ba-137-M 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : E.B.Paul 
+# first author          : Paul 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (J,CJP,31,267,1953) 
 # year                  : 1953 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11274.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11274
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      0.00000E+00      1.21000E-02      6.05000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        0.0000E+00        1.2100E-02        6.0500E-03

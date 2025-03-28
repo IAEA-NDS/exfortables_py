@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 32220-002-0 
-# EXFOR reaction        : ['40-ZR-92', ['N,P'], '39-Y-92,,SIG'] 
+# EXFOR reaction        : (40-ZR-92(N,P)39-Y-92,,SIG) 
 # incident energy       : 1.3560e+01 MeV - 1.4530e+01 MeV 
 # target                : Zr-92 
 # product               : Y-92 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : S.V.Begun 
+# first author          : Begun 
 # institute             : (4UKRKGU): Kyivsky Natsionalny University "Taras Shevchenko", Kyiv 
 # reference             : (J,YFE,8,(3/21),42,2007) 
 # year                  : 2007 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/322/32220.x4 
 # nds                   : https://nds.iaea.org/EXFOR/32220
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35600E+01      0.00000E+00      1.43000E-02      2.30000E-03
-      1.45300E+01      0.00000E+00      1.98000E-02      2.20000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3560E+01        0.0000E+00        1.4300E-02        2.3000E-03
+        1.4530E+01        0.0000E+00        1.9800E-02        2.2000E-03

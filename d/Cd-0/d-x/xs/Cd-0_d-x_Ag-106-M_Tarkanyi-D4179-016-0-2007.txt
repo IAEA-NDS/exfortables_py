@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4179-016-0 
-# EXFOR reaction        : ['48-CD-0', ['D,X'], '47-AG-106-M,,SIG'] 
+# EXFOR reaction        : (48-CD-0(D,X)47-AG-106-M,,SIG) 
 # incident energy       : 1.4600e+01 MeV - 3.9800e+01 MeV 
 # target                : Cd-0 
 # product               : Ag-106-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,NIM/B,259,817,2007) 
 # year                  : 2007 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4179.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4179
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      1.40000E+00      2.79000E-04      8.20000E-05
-      1.95000E+01      1.20000E+00      2.50000E-04      1.10000E-04
-      2.37000E+01      1.00000E+00      7.70000E-04      1.80000E-04
-      2.74000E+01      9.00000E-01      1.83000E-03      7.40000E-04
-      3.08000E+01      7.00000E-01      3.74000E-03      9.20000E-04
-      3.40000E+01      6.00000E-01      5.70000E-03      1.10000E-03
-      3.70000E+01      4.00000E-01      7.02000E-03      8.80000E-04
-      3.98000E+01      3.00000E-01      8.40000E-03      1.50000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        1.4000E+00        2.7900E-04        8.2000E-05
+        1.9500E+01        1.2000E+00        2.5000E-04        1.1000E-04
+        2.3700E+01        1.0000E+00        7.7000E-04        1.8000E-04
+        2.7400E+01        9.0000E-01        1.8300E-03        7.4000E-04
+        3.0800E+01        7.0000E-01        3.7400E-03        9.2000E-04
+        3.4000E+01        6.0000E-01        5.7000E-03        1.1000E-03
+        3.7000E+01        4.0000E-01        7.0200E-03        8.8000E-04
+        3.9800E+01        3.0000E-01        8.4000E-03        1.5000E-03

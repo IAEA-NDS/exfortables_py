@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0062-011-0 
-# EXFOR reaction        : ['6-C-12', ['P,X'], '6-C-11,,SIG'] 
+# EXFOR reaction        : (6-C-12(P,X)6-C-11,,SIG) 
 # incident energy       : 5.7000e+03 MeV 
 # target                : C-12 
 # product               : C-11 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : L.Valentin 
+# first author          : Valentin 
 # institute             : (2FR PAR): Universite de Paris 
 # reference             : (J,NP,62,81,1965) 
 # year                  : 1965 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C00/C0062.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0062
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.70000E+03      1.00000E+00      2.98000E-02      1.60000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.7000E+03        1.0000E+00        2.9800E-02        1.6000E-03

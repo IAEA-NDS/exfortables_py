@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2463-005-0 
-# EXFOR reaction        : ['88-RA-226', ['D,F'], ',,SIG'] 
+# EXFOR reaction        : (88-RA-226(D,F),,SIG) 
 # incident energy       : 1.6009e+01 MeV - 1.9022e+01 MeV 
 # target                : Ra-226 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : D.G.Perry 
+# first author          : Perry 
 # institute             : (1USAWAU): University of Washington, Seattle, WA 
 # reference             : (J,PR/C,4,977,1971) 
 # year                  : 1971 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C24/C2463.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2463
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.60090E+01      0.00000E+00      1.09900E-01      7.70900E-03
-      1.70310E+01      0.00000E+00      1.33500E-01      1.01100E-02
-      1.80260E+01      0.00000E+00      1.58300E-01      1.11000E-02
-      1.90220E+01      0.00000E+00      1.79900E-01      1.26100E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6009E+01        0.0000E+00        1.0990E-01        7.7090E-03
+        1.7031E+01        0.0000E+00        1.3350E-01        1.0110E-02
+        1.8026E+01        0.0000E+00        1.5830E-01        1.1100E-02
+        1.9022E+01        0.0000E+00        1.7990E-01        1.2610E-02

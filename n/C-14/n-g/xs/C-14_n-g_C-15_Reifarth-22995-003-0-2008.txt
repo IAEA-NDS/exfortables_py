@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22995-003-0 
-# EXFOR reaction        : ['6-C-14', ['N,G'], '6-C-15,,SIG,,SPA'] 
+# EXFOR reaction        : (6-C-14(N,G)6-C-15,,SIG,,SPA) 
 # incident energy       : 1.5000e-01 MeV - 7.5000e-01 MeV 
 # target                : C-14 
 # product               : C-15 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.Reifarth 
+# first author          : Reifarth 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,77,015804,2008) 
 # year                  : 2008 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22995.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22995
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E-01      9.00000E-02      1.07000E-05      1.20000E-06
-      5.00000E-01      1.30000E-01      1.70000E-05      1.50000E-06
-      7.50000E-01      1.50000E-01      1.58000E-05      1.60000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E-01        9.0000E-02        1.0700E-05        1.2000E-06
+        5.0000E-01        1.3000E-01        1.7000E-05        1.5000E-06
+        7.5000E-01        1.5000E-01        1.5800E-05        1.6000E-06

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20737-003-0 
-# EXFOR reaction        : ['74-W-183', ['N,P'], '73-TA-183,,SIG,,FIS'] 
+# EXFOR reaction        : (74-W-183(N,P)73-TA-183,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : W-183 
 # product               : Ta-183 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : J.Rivier 
+# first author          : Rivier 
 # institute             : (2FR GRE): Universite Joseph Fourier, Grenoble 
 # reference             : (J,RCA,8,196,6712) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20737.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20737
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      2.80000E-06      5.00000E-07
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        2.8000E-06        5.0000E-07

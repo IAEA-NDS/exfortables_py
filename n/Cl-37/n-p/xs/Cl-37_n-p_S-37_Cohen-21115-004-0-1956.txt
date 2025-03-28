@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21115-004-0 
-# EXFOR reaction        : ['17-CL-37', ['N,P'], '16-S-37,,SIG'] 
+# EXFOR reaction        : (17-CL-37(N,P)16-S-37,,SIG) 
 # incident energy       : 1.3100e+01 MeV - 1.6100e+01 MeV 
 # target                : Cl-37 
 # product               : S-37 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : A.V.Cohen 
+# first author          : Cohen 
 # institute             : (2UK LON): University of London, London, England 
 # reference             : (J,NP,1,73,5602) 
 # year                  : 1956 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/211/21115.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21115
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.31000E+01      1.00000E-01      8.00000E-03      8.50000E-03
-      1.39000E+01      1.50000E-01      1.85000E-02      7.00000E-03
-      1.44500E+01      1.50000E-01      3.80000E-02      8.00000E-03
-      1.50500E+01      2.50000E-01      3.10000E-02      6.00000E-03
-      1.54500E+01      3.50000E-01      4.70000E-02      7.50000E-03
-      1.61000E+01      3.50000E-01      6.95000E-02      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3100E+01        1.0000E-01        8.0000E-03        8.5000E-03
+        1.3900E+01        1.5000E-01        1.8500E-02        7.0000E-03
+        1.4450E+01        1.5000E-01        3.8000E-02        8.0000E-03
+        1.5050E+01        2.5000E-01        3.1000E-02        6.0000E-03
+        1.5450E+01        3.5000E-01        4.7000E-02        7.5000E-03
+        1.6100E+01        3.5000E-01        6.9500E-02        1.0000E-02

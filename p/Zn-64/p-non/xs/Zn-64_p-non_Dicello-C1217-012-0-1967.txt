@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1217-012-0 
-# EXFOR reaction        : ['30-ZN-64', ['P,NON'], ',,SIG'] 
+# EXFOR reaction        : (30-ZN-64(P,NON),,SIG) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : Zn-64 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : J.F.Dicello 
+# first author          : Dicello 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,PR,157,1001,1967) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C12/C1217.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1217
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      0.00000E+00      9.65000E-01      1.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        0.0000E+00        9.6500E-01        1.6000E-02

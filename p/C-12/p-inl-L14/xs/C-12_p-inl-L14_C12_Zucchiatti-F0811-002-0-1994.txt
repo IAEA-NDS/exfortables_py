@@ -1,11 +1,11 @@
 # entry-subent-pointer  : F0811-002-0 
-# EXFOR reaction        : ['6-C-12', ['P,INL'], '6-C-12,PAR,SIG'] 
-# incident energy       : 4.0836e+01 MeV - 5.4889e+01 MeV 
+# EXFOR reaction        : (6-C-12(P,INL)6-C-12,PAR,SIG) 
+# incident energy       : 4.0840e+01 MeV - 5.4890e+01 MeV 
 # target                : C-12 
 # product               : C-12 
 # level energy          : 1.5110e+01 MeV 
 # MF-MT number          : 3 - 614 
-# first author          : A.Zucchiatti 
+# first author          : Zucchiatti 
 # institute             : (3SAFWIT): University of the Witwatersrand, Johannesburg 
 # reference             : (J,NP/A,575,317,1994) 
 # year                  : 1994 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F08/F0811.x4 
 # nds                   : https://nds.iaea.org/EXFOR/F0811
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.08360E+01      5.00000E-02      1.87160E-03      2.29820E-04
-      4.55360E+01      5.00000E-02      1.14140E-03      1.02140E-04
-      4.66930E+01      5.00000E-02      1.47850E-03      1.32790E-04
-      4.75300E+01      5.00000E-02      1.49910E-03      1.32790E-04
-      4.85340E+01      5.00000E-02      1.32540E-03      1.22570E-04
-      5.05420E+01      5.00000E-02      1.20800E-03      1.22570E-04
-      5.25390E+01      5.00000E-02      1.37660E-03      1.37890E-04
-      5.48890E+01      5.00000E-02      9.98740E-04      8.68220E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0840E+01        5.0000E-02        1.8720E-03        2.3000E-04
+        4.5540E+01        5.0000E-02        1.1410E-03        1.0200E-04
+        4.6690E+01        5.0000E-02        1.4780E-03        1.3300E-04
+        4.7530E+01        5.0000E-02        1.4990E-03        1.3300E-04
+        4.8530E+01        5.0000E-02        1.3250E-03        1.2300E-04
+        5.0540E+01        5.0000E-02        1.2080E-03        1.2300E-04
+        5.2540E+01        5.0000E-02        1.3770E-03        1.3800E-04
+        5.4890E+01        5.0000E-02        9.9900E-04        8.7000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14706-004-0 
-# EXFOR reaction        : ['28-NI-0', ['N,EL'], '28-NI-0,,SIG,,SPA'] 
+# EXFOR reaction        : (28-NI-0(N,EL)28-NI-0,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ni-0 
 # product               : Ni-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : E.Bragdon 
+# first author          : Bragdon 
 # institute             : (1USACHI): University of Chicago, IL 
 # reference             : (R,CP-1827,10,1944) 
 # year                  : 1944 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/147/14706.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14706
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.59000E+01      3.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.5900E+01        3.0000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1927-002-0 
-# EXFOR reaction        : ['47-AG-0', ['P,X'], '46-PD-103,CUM,SIG'] 
+# EXFOR reaction        : (47-AG-0(P,X)46-PD-103,CUM,SIG) 
 # incident energy       : 5.0910e+01 MeV - 7.8120e+01 MeV 
 # target                : Ag-0 
 # product               : Pd-103 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.S.Uddin 
+# first author          : Uddin 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (J,ARI,62,(4),533,200504) 
 # year                  : 2005 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1927.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1927
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.09100E+01      0.00000E+00      1.18770E-01      2.00000E-02
-      5.50300E+01      0.00000E+00      1.89730E-01      3.21400E-02
-      5.82300E+01      0.00000E+00      1.85890E-01      3.32100E-02
-      6.18900E+01      0.00000E+00      2.23910E-01      4.12300E-02
-      6.33500E+01      0.00000E+00      1.85000E-01      3.40400E-02
-      6.49800E+01      0.00000E+00      1.81880E-01      4.01000E-02
-      6.86100E+01      0.00000E+00      8.86100E-02      2.01400E-02
-      7.34000E+01      0.00000E+00      7.91400E-02      1.82300E-02
-      7.81200E+01      0.00000E+00      5.36100E-02      1.23500E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0910E+01        0.0000E+00        1.1877E-01        2.0000E-02
+        5.5030E+01        0.0000E+00        1.8973E-01        3.2140E-02
+        5.8230E+01        0.0000E+00        1.8589E-01        3.3210E-02
+        6.1890E+01        0.0000E+00        2.2391E-01        4.1230E-02
+        6.3350E+01        0.0000E+00        1.8500E-01        3.4040E-02
+        6.4980E+01        0.0000E+00        1.8188E-01        4.0100E-02
+        6.8610E+01        0.0000E+00        8.8610E-02        2.0140E-02
+        7.3400E+01        0.0000E+00        7.9140E-02        1.8230E-02
+        7.8120E+01        0.0000E+00        5.3610E-02        1.2350E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41614-084-0 
-# EXFOR reaction        : ['45-RH-103', ['N,N+A'], '43-TC-99-M,,SIG'] 
+# EXFOR reaction        : (45-RH-103(N,N+A)43-TC-99-M,,SIG) 
 # incident energy       : 1.3680e+01 MeV - 1.4860e+01 MeV 
 # target                : Rh-103 
 # product               : Tc-99-M 
 # level energy          : - 
 # MF-MT number          : 3 - 22 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,INDC(CCP)-0460,2016) 
 # year                  : 2016 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36800E+01      0.00000E+00      5.00000E-05      4.54500E-06
-      1.38800E+01      0.00000E+00      6.80000E-05      5.79360E-06
-      1.40500E+01      0.00000E+00      1.09000E-04      1.11180E-05
-      1.44700E+01      0.00000E+00      1.47000E-04      1.01724E-05
-      1.48600E+01      0.00000E+00      2.38000E-04      1.43990E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3680E+01        0.0000E+00        5.0000E-05        4.5450E-06
+        1.3880E+01        0.0000E+00        6.8000E-05        5.7936E-06
+        1.4050E+01        0.0000E+00        1.0900E-04        1.1118E-05
+        1.4470E+01        0.0000E+00        1.4700E-04        1.0172E-05
+        1.4860E+01        0.0000E+00        2.3800E-04        1.4399E-05

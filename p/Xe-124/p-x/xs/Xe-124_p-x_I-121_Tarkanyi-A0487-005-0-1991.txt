@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0487-005-0 
-# EXFOR reaction        : ['54-XE-124', ['P,X'], '53-I-121,CUM,SIG'] 
+# EXFOR reaction        : (54-XE-124(P,X)53-I-121,CUM,SIG) 
 # incident energy       : 3.5600e+01 MeV - 4.4000e+01 MeV 
 # target                : Xe-124 
 # product               : I-121 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,ARI,42,229,1991) 
 # year                  : 1991 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0487.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0487
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.40000E+01      0.00000E+00      1.89500E-01      2.91000E-02
-      4.24000E+01      0.00000E+00      1.04800E-01      1.61000E-02
-      3.97000E+01      0.00000E+00      3.24000E-02      5.10000E-03
-      3.63000E+01      0.00000E+00      3.10000E-03      8.00000E-04
-      3.56000E+01      0.00000E+00      1.90000E-03      7.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.4000E+01        0.0000E+00        1.8950E-01        2.9100E-02
+        4.2400E+01        0.0000E+00        1.0480E-01        1.6100E-02
+        3.9700E+01        0.0000E+00        3.2400E-02        5.1000E-03
+        3.6300E+01        0.0000E+00        3.1000E-03        8.0000E-04
+        3.5600E+01        0.0000E+00        1.9000E-03        7.0000E-04

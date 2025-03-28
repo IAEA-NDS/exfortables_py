@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40244-086-0 
-# EXFOR reaction        : ['12-MG-26', ['N,G'], '12-MG-27,,SIG'] 
+# EXFOR reaction        : (12-MG-26(N,G)12-MG-27,,SIG) 
 # incident energy       : 2.7000e+00 MeV - 4.0000e+00 MeV 
 # target                : Mg-26 
 # product               : Mg-27 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.I.Leipunskiy 
+# first author          : Leipunskiy 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (C,58GENEVA,15,50,1958) 
 # year                  : 1958 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40244.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40244
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.70000E+00      0.00000E+00      3.50000E-04      9.00000E-05
-      4.00000E+00      0.00000E+00      2.50000E-04      5.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7000E+00        0.0000E+00        3.5000E-04        9.0000E-05
+        4.0000E+00        0.0000E+00        2.5000E-04        5.0000E-05

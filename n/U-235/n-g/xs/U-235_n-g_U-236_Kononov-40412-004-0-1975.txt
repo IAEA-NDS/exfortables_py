@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40412-004-0 
-# EXFOR reaction        : ['92-U-235', ['N,G'], '92-U-236,,SIG,,AV'] 
+# EXFOR reaction        : (92-U-235(N,G)92-U-236,,SIG,,AV) 
 # incident energy       : 1.5000e-02 MeV - 7.5000e-02 MeV 
 # target                : U-235 
 # product               : U-236 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.N.Kononov 
+# first author          : Kononov 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (J,AE,38,82,1975) 
 # year                  : 1975 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/404/40412.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40412
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E-02      0.00000E+00      1.04700E+00      2.32000E-01
-      2.50000E-02      0.00000E+00      7.39000E-01      9.30000E-02
-      3.50000E-02      0.00000E+00      7.36000E-01      8.30000E-02
-      4.50000E-02      0.00000E+00      6.27000E-01      7.00000E-02
-      5.50000E-02      0.00000E+00      5.69000E-01      6.20000E-02
-      6.50000E-02      0.00000E+00      5.23000E-01      5.60000E-02
-      7.50000E-02      0.00000E+00      4.75000E-01      5.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E-02        0.0000E+00        1.0470E+00        2.3200E-01
+        2.5000E-02        0.0000E+00        7.3900E-01        9.3000E-02
+        3.5000E-02        0.0000E+00        7.3600E-01        8.3000E-02
+        4.5000E-02        0.0000E+00        6.2700E-01        7.0000E-02
+        5.5000E-02        0.0000E+00        5.6900E-01        6.2000E-02
+        6.5000E-02        0.0000E+00        5.2300E-01        5.6000E-02
+        7.5000E-02        0.0000E+00        4.7500E-01        5.1000E-02

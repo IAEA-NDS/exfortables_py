@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0594-008-0 
-# EXFOR reaction        : ['92-U-235', ['P,F'], '38-SR-91,CUM,SIG'] 
+# EXFOR reaction        : (92-U-235(P,F)38-SR-91,CUM,SIG) 
 # incident energy       : 2.0000e+01 MeV - 8.5000e+01 MeV 
 # target                : U-235 
 # product               : Sr-91 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : A.H.Khan 
+# first author          : Khan 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,CJC,48,1924,1970) 
 # year                  : 1970 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0594.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0594
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+01      0.00000E+00      4.30000E-02      7.00000E-03
-      3.00000E+01      0.00000E+00      4.00000E-02      7.00000E-03
-      4.00000E+01      0.00000E+00      6.90000E-02      1.30000E-02
-      5.00000E+01      0.00000E+00      7.00000E-02      1.20000E-02
-      6.00000E+01      0.00000E+00      7.20000E-02      1.30000E-02
-      7.00000E+01      0.00000E+00      7.80000E-02      1.60000E-02
-      7.70000E+01      0.00000E+00      7.50000E-02      1.30000E-02
-      8.50000E+01      0.00000E+00      7.40000E-02      1.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+01        0.0000E+00        4.3000E-02        7.0000E-03
+        3.0000E+01        0.0000E+00        4.0000E-02        7.0000E-03
+        4.0000E+01        0.0000E+00        6.9000E-02        1.3000E-02
+        5.0000E+01        0.0000E+00        7.0000E-02        1.2000E-02
+        6.0000E+01        0.0000E+00        7.2000E-02        1.3000E-02
+        7.0000E+01        0.0000E+00        7.8000E-02        1.6000E-02
+        7.7000E+01        0.0000E+00        7.5000E-02        1.3000E-02
+        8.5000E+01        0.0000E+00        7.4000E-02        1.2000E-02

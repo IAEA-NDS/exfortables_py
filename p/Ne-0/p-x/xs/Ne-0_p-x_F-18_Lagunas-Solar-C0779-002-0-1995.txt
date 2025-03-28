@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0779-002-0 
-# EXFOR reaction        : ['10-NE-0', ['P,X'], '9-F-18,,SIG'] 
+# EXFOR reaction        : (10-NE-0(P,X)9-F-18,,SIG) 
 # incident energy       : 2.3800e+01 MeV - 6.6900e+01 MeV 
 # target                : Ne-0 
 # product               : F-18 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.C.Lagunas-Solar 
+# first author          : Lagunas-Solar 
 # institute             : (1USADAV): University of California, Davis, CA 
 # reference             : (J,ARI,46,833,1995) 
 # year                  : 1995 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C07/C0779.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0779
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.38000E+01      2.60000E-01      3.17000E-02      9.51000E-04
-      2.89000E+01      2.60000E-01      4.82000E-02      1.44600E-03
-      3.40000E+01      2.60000E-01      2.32000E-02      6.96000E-04
-      3.91000E+01      2.60000E-01      1.80000E-02      5.40000E-04
-      4.42000E+01      2.60000E-01      2.40000E-02      7.20000E-04
-      4.92000E+01      2.60000E-01      2.16000E-02      6.48000E-04
-      5.43000E+01      2.60000E-01      2.27000E-02      6.81000E-04
-      5.93000E+01      2.60000E-01      1.68000E-02      5.04000E-04
-      6.69000E+01      2.60000E-01      2.11000E-02      6.33000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3800E+01        2.6000E-01        3.1700E-02        9.5100E-04
+        2.8900E+01        2.6000E-01        4.8200E-02        1.4460E-03
+        3.4000E+01        2.6000E-01        2.3200E-02        6.9600E-04
+        3.9100E+01        2.6000E-01        1.8000E-02        5.4000E-04
+        4.4200E+01        2.6000E-01        2.4000E-02        7.2000E-04
+        4.9200E+01        2.6000E-01        2.1600E-02        6.4800E-04
+        5.4300E+01        2.6000E-01        2.2700E-02        6.8100E-04
+        5.9300E+01        2.6000E-01        1.6800E-02        5.0400E-04
+        6.6900E+01        2.6000E-01        2.1100E-02        6.3300E-04

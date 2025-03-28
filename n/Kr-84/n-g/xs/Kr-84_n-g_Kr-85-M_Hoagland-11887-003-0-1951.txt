@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11887-003-0 
-# EXFOR reaction        : ['36-KR-84', ['N,G'], '36-KR-85-M,,SIG,,SPA'] 
+# EXFOR reaction        : (36-KR-84(N,G)36-KR-85-M,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Kr-84 
 # product               : Kr-85-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : E.Hoagland 
+# first author          : Hoagland 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (B,RCS,,642(70),1951) 
 # year                  : 1951 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11887.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11887
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      9.60000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        9.6000E-02        0.0000E+00

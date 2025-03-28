@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41190-007-0 
-# EXFOR reaction        : ['50-SN-124', ['N,G'], '50-SN-125-M,,SIG'] 
+# EXFOR reaction        : (50-SN-124(N,G)50-SN-125-M,,SIG) 
 # incident energy       : 4.8700e-01 MeV - 6.9300e-01 MeV 
 # target                : Sn-124 
 # product               : Sn-125-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.A.Tolstikov 
+# first author          : Tolstikov 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (J,YK,,(3-4),46,1995) 
 # year                  : 1995 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41190.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41190
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.87000E-01      4.10000E-02      3.52000E-03      1.58400E-04
-      5.40000E-01      4.10000E-02      3.54000E-03      1.34520E-04
-      5.94000E-01      4.00000E-02      3.68000E-03      1.28800E-04
-      6.47000E-01      4.00000E-02      3.64000E-03      1.38320E-04
-      6.93000E-01      4.40000E-02      3.87000E-03      1.47060E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.8700E-01        4.1000E-02        3.5200E-03        1.5840E-04
+        5.4000E-01        4.1000E-02        3.5400E-03        1.3452E-04
+        5.9400E-01        4.0000E-02        3.6800E-03        1.2880E-04
+        6.4700E-01        4.0000E-02        3.6400E-03        1.3832E-04
+        6.9300E-01        4.4000E-02        3.8700E-03        1.4706E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11097-005-0 
-# EXFOR reaction        : ['4-BE-9', ['N,X'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (4-BE-9(N,X)2-HE-4,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Be-9 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : V.J.Ashby 
+# first author          : Ashby 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,111,616,1958) 
 # year                  : 1958 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11097.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11097
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      0.00000E+00      5.20000E-01      4.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        5.2000E-01        4.0000E-02

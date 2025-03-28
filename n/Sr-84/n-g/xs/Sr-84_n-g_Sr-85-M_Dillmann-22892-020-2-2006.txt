@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22892-020-2 
-# EXFOR reaction        : ['38-SR-84', ['N,G'], '38-SR-85-M,,SIG,,MXW'] 
+# EXFOR reaction        : (38-SR-84(N,G)38-SR-85-M,,SIG,,MXW) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : Sr-84 
 # product               : Sr-85-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : I.Dillmann 
+# first author          : Dillmann 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,73,015803,2006) 
 # year                  : 2006 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22892.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22892
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      5.00000E-04      2.01000E-01      1.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        5.0000E-04        2.0100E-01        1.1000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13109-003-0 
-# EXFOR reaction        : ['19-K-39', ['N,P'], '18-AR-39,,SIG'] 
+# EXFOR reaction        : (19-K-39(N,P)18-AR-39,,SIG) 
 # incident energy       : 1.4580e+01 MeV 
 # target                : K-39 
 # product               : Ar-39 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : K.A.Foland 
+# first author          : Foland 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,NSE,95,128,8702) 
 # year                  : 1987 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13109.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13109
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45800E+01      0.00000E+00      1.25000E-01      4.25000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4580E+01        0.0000E+00        1.2500E-01        4.2500E-03

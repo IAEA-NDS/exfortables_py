@@ -1,23 +1,23 @@
 # entry-subent-pointer  : 40883-004-0 
-# EXFOR reaction        : ['41-NB-93', ['N,TOT'], ',,SIG,,AV'] 
+# EXFOR reaction        : (41-NB-93(N,TOT),,SIG,,AV) 
 # incident energy       : 3.3500e-02 MeV - 1.9500e+00 MeV 
 # target                : Nb-93 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : V.V.Filippov 
-# institute             : (4CCPFEI): Fiziko-Energeticheskii Institute , Obninsk 
-# reference             : (C,83KIEV,3,107,8310) 
+# first author          : Filippov 
+# institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+# reference             : ((C,83KIEV,3,107,1983)=(R,INDC(CCP)-235,(3),107,1983)) 
 # year                  : 1983 
 # facility              : (VDG): Van de Graaff 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40883.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40883
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.95000E+00      0.00000E+00      4.80000E+00      0.00000E+00
-      1.10000E+00      0.00000E+00      6.55000E+00      0.00000E+00
-      6.00000E-01      0.00000E+00      8.90000E+00      0.00000E+00
-      3.00000E-01      0.00000E+00      9.80000E+00      0.00000E+00
-      1.50000E-01      0.00000E+00      9.90000E+00      0.00000E+00
-      7.30000E-02      0.00000E+00      9.70000E+00      0.00000E+00
-      3.35000E-02      0.00000E+00      9.50000E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9500E+00        0.0000E+00        4.8000E+00        0.0000E+00
+        1.1000E+00        0.0000E+00        6.5500E+00        0.0000E+00
+        6.0000E-01        0.0000E+00        8.9000E+00        0.0000E+00
+        3.0000E-01        0.0000E+00        9.8000E+00        0.0000E+00
+        1.5000E-01        0.0000E+00        9.9000E+00        0.0000E+00
+        7.3000E-02        0.0000E+00        9.7000E+00        0.0000E+00
+        3.3500E-02        0.0000E+00        9.5000E+00        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12040-003-0 
-# EXFOR reaction        : ['90-TH-232', ['N,G'], '90-TH-233,,SIG,,MXW'] 
+# EXFOR reaction        : (90-TH-232(N,G)90-TH-233,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Th-232 
 # product               : Th-233 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : W.E.Grumitt 
+# first author          : Grumitt 
 # institute             : (1CANMON): University of Montreal, Montreal, Quebec 
 # reference             : (R,MC-70,44) 
 # year                  : 1944 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12040.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12040
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      7.75000E+00      3.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        7.7500E+00        3.0000E-01

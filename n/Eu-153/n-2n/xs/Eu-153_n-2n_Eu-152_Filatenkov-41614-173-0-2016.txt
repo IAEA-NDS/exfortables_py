@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41614-173-0 
-# EXFOR reaction        : ['63-EU-153', ['N,2N'], '63-EU-152,,SIG'] 
+# EXFOR reaction        : (63-EU-153(N,2N)63-EU-152,,SIG) 
 # incident energy       : 1.3560e+01 MeV - 1.4780e+01 MeV 
 # target                : Eu-153 
 # product               : Eu-152 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,INDC(CCP)-0460,2016) 
 # year                  : 2016 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35600E+01      0.00000E+00      1.75900E+00      7.91550E-02
-      1.37400E+01      0.00000E+00      1.81100E+00      8.13139E-02
-      1.39600E+01      0.00000E+00      1.80900E+00      7.50735E-02
-      1.41900E+01      0.00000E+00      1.79100E+00      8.34606E-02
-      1.44200E+01      0.00000E+00      1.72400E+00      7.55112E-02
-      1.46100E+01      0.00000E+00      1.81900E+00      7.13048E-02
-      1.47800E+01      0.00000E+00      1.73000E+00      6.76430E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3560E+01        0.0000E+00        1.7590E+00        7.9155E-02
+        1.3740E+01        0.0000E+00        1.8110E+00        8.1314E-02
+        1.3960E+01        0.0000E+00        1.8090E+00        7.5074E-02
+        1.4190E+01        0.0000E+00        1.7910E+00        8.3461E-02
+        1.4420E+01        0.0000E+00        1.7240E+00        7.5511E-02
+        1.4610E+01        0.0000E+00        1.8190E+00        7.1305E-02
+        1.4780E+01        0.0000E+00        1.7300E+00        6.7643E-02

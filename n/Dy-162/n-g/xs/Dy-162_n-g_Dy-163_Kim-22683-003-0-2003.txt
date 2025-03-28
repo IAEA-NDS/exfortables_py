@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22683-003-0 
-# EXFOR reaction        : ['66-DY-162', ['N,G'], '66-DY-163,,SIG,,AV'] 
+# EXFOR reaction        : (66-DY-162(N,G)66-DY-163,,SIG,,AV) 
 # incident energy       : 2.0000e-02 MeV - 6.6500e-02 MeV 
 # target                : Dy-162 
 # product               : Dy-163 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : G.Kim 
+# first author          : Kim 
 # institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
 # reference             : ((S,ISINN-10,249,2003)=(S,JINR-E3-2003-10,249,2003)) 
 # year                  : 2003 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22683.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22683
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-02      0.00000E+00      6.27000E-01      3.50000E-02
-      2.75000E-02      0.00000E+00      5.27000E-01      2.60000E-02
-      4.25000E-02      0.00000E+00      4.27000E-01      1.90000E-02
-      6.65000E-02      0.00000E+00      3.53000E-01      1.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-02        0.0000E+00        6.2700E-01        3.5000E-02
+        2.7500E-02        0.0000E+00        5.2700E-01        2.6000E-02
+        4.2500E-02        0.0000E+00        4.2700E-01        1.9000E-02
+        6.6500E-02        0.0000E+00        3.5300E-01        1.5000E-02

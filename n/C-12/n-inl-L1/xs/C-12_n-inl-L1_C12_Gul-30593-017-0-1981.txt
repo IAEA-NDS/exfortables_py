@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30593-017-0 
-# EXFOR reaction        : ['6-C-12', ['N,INL'], '6-C-12,PAR,SIG'] 
+# EXFOR reaction        : (6-C-12(N,INL)6-C-12,PAR,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : C-12 
 # product               : C-12 
 # level energy          : 4.4300e+00 MeV 
 # MF-MT number          : 3 - 51 
-# first author          : K.Gul 
+# first author          : Gul 
 # institute             : (3PAKNIL): PINSTECH, Nilore, Rawalpindi 
 # reference             : (J,PR/C,24,(6),2458,198112) 
 # year                  : 1981 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30593.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30593
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      0.00000E+00      2.14000E-01      8.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        0.0000E+00        2.1400E-01        8.0000E-03

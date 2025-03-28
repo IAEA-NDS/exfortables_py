@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0276-434-0 
-# EXFOR reaction        : ['79-AU-197', ['P,X'], '74-W-178,CUM,SIG'] 
+# EXFOR reaction        : (79-AU-197(P,X)74-W-178,CUM,SIG) 
 # incident energy       : 3.2500e+02 MeV - 7.6000e+02 MeV 
 # target                : Au-197 
 # product               : W-178 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,129,153,1997) 
 # year                  : 1997 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0276
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.25000E+02      1.67000E+00      3.14000E-02      5.06000E-03
-      5.55000E+02      1.59000E+00      4.62000E-02      4.83000E-03
-      7.60000E+02      1.55000E+00      4.16000E-02      4.88000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.2500E+02        1.6700E+00        3.1400E-02        5.0600E-03
+        5.5500E+02        1.5900E+00        4.6200E-02        4.8300E-03
+        7.6000E+02        1.5500E+00        4.1600E-02        4.8800E-03

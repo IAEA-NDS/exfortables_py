@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21829-002-4 
-# EXFOR reaction        : ['80-HG-199', ['N,INL'], '80-HG-199-M,,SIG'] 
+# EXFOR reaction        : (80-HG-199(N,INL)80-HG-199-M,,SIG) 
 # incident energy       : 7.8400e-01 MeV - 4.9200e+00 MeV 
 # target                : Hg-199 
 # product               : Hg-199-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : K.Sakurai 
+# first author          : Sakurai 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (J,NST,19,(10),775,198210) 
 # year                  : 1982 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21829.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21829
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.84000E-01      0.00000E+00      5.23000E-02      4.20000E-03
-      9.94000E-01      0.00000E+00      7.30000E-02      5.20000E-03
-      1.20000E+00      0.00000E+00      9.96000E-02      5.60000E-03
-      1.82000E+00      0.00000E+00      2.50000E-01      1.40000E-02
-      4.92000E+00      0.00000E+00      6.11000E-01      3.90000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.8400E-01        0.0000E+00        5.2300E-02        4.2000E-03
+        9.9400E-01        0.0000E+00        7.3000E-02        5.2000E-03
+        1.2000E+00        0.0000E+00        9.9600E-02        5.6000E-03
+        1.8200E+00        0.0000E+00        2.5000E-01        1.4000E-02
+        4.9200E+00        0.0000E+00        6.1100E-01        3.9000E-02

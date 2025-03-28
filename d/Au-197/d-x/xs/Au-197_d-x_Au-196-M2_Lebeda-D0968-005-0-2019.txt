@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0968-005-0 
-# EXFOR reaction        : ['79-AU-197', ['D,X'], '79-AU-196-M2,,SIG'] 
+# EXFOR reaction        : (79-AU-197(D,X)79-AU-196-M2,,SIG) 
 # incident energy       : 1.4130e+01 MeV - 1.9730e+01 MeV 
 # target                : Au-197 
 # product               : Au-196-M2 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : O.Lebeda 
+# first author          : Lebeda 
 # institute             : (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
 # reference             : (J,NIM/B,461,105,2019) 
 # year                  : 2019 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D09/D0968.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0968
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.97300E+01      0.00000E+00      2.85000E-04      3.10000E-05
-      1.88000E+01      0.00000E+00      1.88000E-04      2.50000E-05
-      1.78300E+01      0.00000E+00      1.20000E-04      1.90000E-05
-      1.68300E+01      0.00000E+00      8.50000E-05      2.80000E-05
-      1.57600E+01      0.00000E+00      9.30000E-05      2.80000E-05
-      1.41300E+01      0.00000E+00      8.80000E-05      2.70000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9730E+01        0.0000E+00        2.8500E-04        3.1000E-05
+        1.8800E+01        0.0000E+00        1.8800E-04        2.5000E-05
+        1.7830E+01        0.0000E+00        1.2000E-04        1.9000E-05
+        1.6830E+01        0.0000E+00        8.5000E-05        2.8000E-05
+        1.5760E+01        0.0000E+00        9.3000E-05        2.8000E-05
+        1.4130E+01        0.0000E+00        8.8000E-05        2.7000E-05

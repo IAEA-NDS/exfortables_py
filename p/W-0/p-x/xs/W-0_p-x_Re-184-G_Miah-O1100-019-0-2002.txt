@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1100-019-0 
-# EXFOR reaction        : ['74-W-0', ['P,X'], '75-RE-184-G,,SIG'] 
+# EXFOR reaction        : (74-W-0(P,X)75-RE-184-G,,SIG) 
 # incident energy       : 5.2100e+01 MeV - 6.8900e+01 MeV 
 # target                : W-0 
 # product               : Re-184-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.H.Miah 
+# first author          : Miah 
 # institute             : (3BANBAN): Bangladesh 
 # reference             : (J,NSTS,2,369,2002) 
 # year                  : 2002 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O11/O1100.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1100
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.21000E+01      9.04000E-01      2.47000E-02      9.58800E-04
-      5.54000E+01      8.70000E-01      2.23600E-02      8.88500E-04
-      5.86000E+01      8.33000E-01      2.07100E-02      9.73900E-04
-      6.32000E+01      7.59000E-01      1.84800E-02      7.38700E-04
-      6.61000E+01      7.12000E-01      1.77700E-02      7.63100E-04
-      6.89000E+01      6.62000E-01      1.69000E-02      7.32600E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.2100E+01        9.0400E-01        2.4700E-02        9.5880E-04
+        5.5400E+01        8.7000E-01        2.2360E-02        8.8850E-04
+        5.8600E+01        8.3300E-01        2.0710E-02        9.7390E-04
+        6.3200E+01        7.5900E-01        1.8480E-02        7.3870E-04
+        6.6100E+01        7.1200E-01        1.7770E-02        7.6310E-04
+        6.8900E+01        6.6200E-01        1.6900E-02        7.3260E-04

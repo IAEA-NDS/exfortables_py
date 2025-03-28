@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33143-002-0 
-# EXFOR reaction        : ['28-NI-58', ['N,P'], '27-CO-58,,SIG'] 
+# EXFOR reaction        : (28-NI-58(N,P)27-CO-58,,SIG) 
 # incident energy       : 1.4540e+01 MeV 
 # target                : Ni-58 
 # product               : Co-58 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : I.Pasha 
+# first author          : Pasha 
 # institute             : (3INDBGL): Bangalore University, Bengaluru 
 # reference             : (J,IPA,58,241,2020) 
 # year                  : 2020 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33143.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33143
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45400E+01      2.40000E-01      3.46900E-01      2.77700E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4540E+01        2.4000E-01        3.4690E-01        2.7770E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23097-002-0 
-# EXFOR reaction        : ['34-SE-80', ['N,G'], '34-SE-81-M,,SIG,,MXW'] 
+# EXFOR reaction        : (34-SE-80(N,G)34-SE-81-M,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Se-80 
 # product               : Se-81-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.Nakamura 
+# first author          : Nakamura 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (J,NST,45,(2),116,2008) 
 # year                  : 2008 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23097.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23097
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      5.70000E-02      3.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        5.7000E-02        3.0000E-03

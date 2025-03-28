@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30640-010-0 
-# EXFOR reaction        : ['79-AU-197', ['N,2N'], '79-AU-196,,SIG'] 
+# EXFOR reaction        : (79-AU-197(N,2N)79-AU-196,,SIG) 
 # incident energy       : 1.3500e+01 MeV - 1.4780e+01 MeV 
 # target                : Au-197 
 # product               : Au-196 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.Csikai 
+# first author          : Csikai 
 # institute             : (3HUNKOS): University of Debrecen, Debrecen 
 # reference             : (C,82ANTWER,,414,1982) 
 # year                  : 1982 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30640.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30640
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35000E+01      0.00000E+00      2.05600E+00      1.40000E-01
-      1.37700E+01      0.00000E+00      2.08700E+00      1.42000E-01
-      1.41000E+01      0.00000E+00      2.07900E+00      1.41000E-01
-      1.43900E+01      0.00000E+00      2.09200E+00      1.42000E-01
-      1.46600E+01      0.00000E+00      2.08700E+00      1.42000E-01
-      1.47800E+01      0.00000E+00      2.09400E+00      1.42000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3500E+01        0.0000E+00        2.0560E+00        1.4000E-01
+        1.3770E+01        0.0000E+00        2.0870E+00        1.4200E-01
+        1.4100E+01        0.0000E+00        2.0790E+00        1.4100E-01
+        1.4390E+01        0.0000E+00        2.0920E+00        1.4200E-01
+        1.4660E+01        0.0000E+00        2.0870E+00        1.4200E-01
+        1.4780E+01        0.0000E+00        2.0940E+00        1.4200E-01

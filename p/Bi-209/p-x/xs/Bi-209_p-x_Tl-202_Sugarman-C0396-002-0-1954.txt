@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0396-002-0 
-# EXFOR reaction        : ['83-BI-209', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (83-BI-209(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 2.2000e+03 MeV 
 # target                : Bi-209 
 # product               : Tl-202 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : N.Sugarman 
+# first author          : Sugarman 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR,95,1704,54) 
 # year                  : 1954 
@@ -13,5 +13,23 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0396.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0396
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.20000E+03      0.00000E+00      3.00000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2000E+03        0.0000E+00        2.6000E-02        0.0000E+00
+        2.2000E+03        0.0000E+00        3.0000E-03        0.0000E+00
+        2.2000E+03        0.0000E+00        2.0000E-02        0.0000E+00
+        2.2000E+03        0.0000E+00        1.2000E-02        0.0000E+00
+        2.2000E+03        0.0000E+00        2.7000E-02        0.0000E+00
+        2.2000E+03        0.0000E+00        1.5000E-02        0.0000E+00
+        2.2000E+03        0.0000E+00        6.2000E-04        0.0000E+00
+        2.2000E+03        0.0000E+00        1.7700E-03        0.0000E+00
+        2.2000E+03        0.0000E+00        9.5000E-04        0.0000E+00
+        2.2000E+03        0.0000E+00        5.5000E-03        0.0000E+00
+        2.2000E+03        0.0000E+00        1.9000E-03        0.0000E+00
+        2.2000E+03        0.0000E+00        4.3000E-03        0.0000E+00
+        2.2000E+03        0.0000E+00        4.8000E-04        0.0000E+00
+        2.2000E+03        0.0000E+00        1.4000E-03        0.0000E+00
+        2.2000E+03        0.0000E+00        2.2000E-04        0.0000E+00
+        2.2000E+03        0.0000E+00        7.0000E-05        0.0000E+00
+        2.2000E+03        0.0000E+00        5.3000E-04        0.0000E+00
+        2.2000E+03        0.0000E+00        6.5000E-04        0.0000E+00
+        2.2000E+03        0.0000E+00        1.7000E-04        0.0000E+00

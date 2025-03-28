@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22292-008-0 
-# EXFOR reaction        : ['25-MN-55', ['N,P'], '24-CR-55,,SIG'] 
+# EXFOR reaction        : (25-MN-55(N,P)24-CR-55,,SIG) 
 # incident energy       : 6.3300e+00 MeV - 1.1970e+01 MeV 
 # target                : Mn-55 
 # product               : Cr-55 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.Bostan 
+# first author          : Bostan 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,PR/C,49,266,1994) 
 # year                  : 1994 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22292.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22292
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.33000E+00      1.30000E-01      5.65000E-03      1.20000E-03
-      7.18000E+00      1.30000E-01      9.56000E-03      1.90000E-03
-      8.00000E+00      1.30000E-01      1.01600E-02      2.00000E-03
-      9.05000E+00      1.40000E-01      1.35500E-02      2.80000E-03
-      1.01000E+01      1.50000E-01      2.03000E-02      4.10000E-03
-      1.11400E+01      1.60000E-01      2.93000E-02      6.20000E-03
-      1.19700E+01      1.80000E-01      3.25000E-02      7.20000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.3300E+00        1.3000E-01        5.6500E-03        1.2000E-03
+        7.1800E+00        1.3000E-01        9.5600E-03        1.9000E-03
+        8.0000E+00        1.3000E-01        1.0160E-02        2.0000E-03
+        9.0500E+00        1.4000E-01        1.3550E-02        2.8000E-03
+        1.0100E+01        1.5000E-01        2.0300E-02        4.1000E-03
+        1.1140E+01        1.6000E-01        2.9300E-02        6.2000E-03
+        1.1970E+01        1.8000E-01        3.2500E-02        7.2000E-03

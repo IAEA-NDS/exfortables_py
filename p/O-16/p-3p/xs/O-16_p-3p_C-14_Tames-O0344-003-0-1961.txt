@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0344-003-0 
-# EXFOR reaction        : ['8-O-16', ['P,3P'], '6-C-14,,SIG'] 
+# EXFOR reaction        : (8-O-16(P,3P)6-C-14,,SIG) 
 # incident energy       : 4.1000e+01 MeV - 1.0000e+02 MeV 
 # target                : O-16 
 # product               : C-14 
 # level energy          : - 
 # MF-MT number          : 3 - 197 
-# first author          : M.A.Tames 
+# first author          : Tames 
 # institute             : (2FR PAR): Universite de Paris 
 # reference             : (J,CR,253,1202,1961) 
 # year                  : 1961 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O03/O0344.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0344
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+02      0.00000E+00      2.80000E-03      7.00000E-04
-      7.30000E+01      0.00000E+00      2.60000E-03      6.50000E-04
-      5.20000E+01      0.00000E+00      2.20000E-03      5.50000E-04
-      4.10000E+01      0.00000E+00      1.00000E-03      2.50000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+02        0.0000E+00        2.8000E-03        7.0000E-04
+        7.3000E+01        0.0000E+00        2.6000E-03        6.5000E-04
+        5.2000E+01        0.0000E+00        2.2000E-03        5.5000E-04
+        4.1000E+01        0.0000E+00        1.0000E-03        2.5000E-04

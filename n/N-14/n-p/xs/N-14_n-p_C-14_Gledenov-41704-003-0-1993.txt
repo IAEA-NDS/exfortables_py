@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41704-003-0 
-# EXFOR reaction        : ['7-N-14', ['N,P'], '6-C-14,,SIG,,SPA'] 
+# EXFOR reaction        : (7-N-14(N,P)6-C-14,,SIG,,SPA) 
 # incident energy       : 7.1265e-07 MeV 
 # target                : N-14 
 # product               : C-14 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : Y.M.Gledenov 
+# first author          : Gledenov 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (J,ZP/A,346,307,1993) 
 # year                  : 1993 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/417/41704.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41704
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.12650E-07      0.00000E+00      1.95000E+00      1.20000E-01
-      7.12650E-07      0.00000E+00      1.85000E+00      1.50000E-01
-      7.12650E-07      0.00000E+00      1.76000E+00      9.00000E-02
-      7.12650E-07      0.00000E+00      1.66000E+00      1.80000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.1265E-07        0.0000E+00        1.9500E+00        1.2000E-01
+        7.1265E-07        0.0000E+00        1.8500E+00        1.5000E-01
+        7.1265E-07        0.0000E+00        1.7600E+00        9.0000E-02
+        7.1265E-07        0.0000E+00        1.6600E+00        1.8000E-01

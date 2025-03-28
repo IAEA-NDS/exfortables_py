@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14237-005-0 
-# EXFOR reaction        : ['33-AS-75', ['N,G'], '33-AS-76,,SIG,,SPA'] 
+# EXFOR reaction        : (33-AS-75(N,G)33-AS-76,,SIG,,SPA) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : As-75 
 # product               : As-76 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.Marganiec 
+# first author          : Marganiec 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,79,065802,2009) 
 # year                  : 2009 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/142/14237.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14237
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      0.00000E+00      3.94200E-01      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        3.9420E-01        2.0000E-02

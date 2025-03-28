@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40606-002-0 
-# EXFOR reaction        : ['63-EU-152-M1', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (63-EU-152-M1(N,TOT),,SIG) 
 # incident energy       : 2.5000e-08 MeV 
 # target                : Eu-152-m1 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : V.A.Pshenichnyj 
+# first author          : Pshenichnyj 
 # institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
 # reference             : ((J,YK,,(5/49),13,1982)=(R,INDC(CCP)-197,13,1982)) 
 # year                  : 1982 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40606.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40606
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-08      0.00000E+00      7.00000E+04      1.50000E+04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-08        0.0000E+00        7.0000E+04        1.5000E+04

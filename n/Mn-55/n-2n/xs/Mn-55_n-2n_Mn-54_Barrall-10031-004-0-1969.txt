@@ -1,17 +1,17 @@
 # entry-subent-pointer  : 10031-004-0 
-# EXFOR reaction        : ['25-MN-55', ['N,2N'], '25-MN-54,,SIG'] 
+# EXFOR reaction        : (25-MN-55(N,2N)25-MN-54,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Mn-55 
 # product               : Mn-54 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : R.C.Barrall 
+# first author          : Barrall 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
-# reference             : (J,NP/A,138,387,196912) 
+# reference             : (J,NP/A,138,387,1969) 
 # year                  : 1969 
 # facility              : (ICTR): Insulated core transformer accelerator 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10031.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10031
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      2.00000E-01      7.50000E-01      6.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        2.0000E-01        7.5000E-01        6.0000E-02

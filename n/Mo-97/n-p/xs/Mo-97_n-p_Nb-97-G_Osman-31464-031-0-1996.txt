@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31464-031-0 
-# EXFOR reaction        : ['42-MO-97', ['N,P'], '41-NB-97-G,,SIG'] 
+# EXFOR reaction        : (42-MO-97(N,P)41-NB-97-G,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Mo-97 
 # product               : Nb-97-G 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : K.T.Osman 
+# first author          : Osman 
 # institute             : (3SUDKHA): University of Khartoum 
 # reference             : (R,INDC(SUD)-001,1996) 
 # year                  : 1996 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31464.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31464
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      0.00000E+00      1.70000E-02      4.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        0.0000E+00        1.7000E-02        4.0000E-04

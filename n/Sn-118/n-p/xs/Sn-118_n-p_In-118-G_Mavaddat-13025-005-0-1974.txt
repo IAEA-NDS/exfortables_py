@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13025-005-0 
-# EXFOR reaction        : ['50-SN-118', ['N,P'], '49-IN-118-G,,SIG'] 
+# EXFOR reaction        : (50-SN-118(N,P)49-IN-118-G,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Sn-118 
 # product               : In-118-G 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : T.Mavaddat 
+# first author          : Mavaddat 
 # institute             : (1USAARK): University of Arkansas, Fayetteville, AR 
 # reference             : (J,JIN,36,953,197405) 
 # year                  : 1974 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/130/13025.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13025
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      2.00000E-01      1.50000E-03      1.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        2.0000E-01        1.5000E-03        1.1000E-03

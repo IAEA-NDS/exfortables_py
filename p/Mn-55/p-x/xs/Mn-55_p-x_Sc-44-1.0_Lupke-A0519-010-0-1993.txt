@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0519-010-0 
-# EXFOR reaction        : ['25-MN-55', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (25-MN-55(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 1.6000e+03 MeV 
 # target                : Mn-55 
 # product               : Sc-44-1.0 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Lupke 
+# first author          : Lupke 
 # institute             : (2GERUH): University Hannover (previously Tech.University Hannover) 
 # reference             : (P,INDC(GER)-037/LN,50,1993) 
 # year                  : 1993 
@@ -13,5 +13,14 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0519.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0519
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.60000E+03      0.00000E+00      7.80000E-03      6.40000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6000E+03        0.0000E+00        5.8500E-03        5.6000E-04
+        1.6000E+03        0.0000E+00        7.3700E-03        6.4000E-04
+        1.6000E+03        0.0000E+00        2.7900E-03        2.3000E-04
+        1.6000E+03        0.0000E+00        7.8000E-03        6.4000E-04
+        1.6000E+03        0.0000E+00        1.2400E-02        1.0000E-03
+        1.6000E+03        0.0000E+00        1.3100E-02        1.1000E-03
+        1.6000E+03        0.0000E+00        3.3800E-04        4.7000E-05
+        1.6000E+03        0.0000E+00        3.2100E-02        2.8000E-03
+        1.6000E+03        0.0000E+00        3.6700E-03        3.8000E-04
+        1.6000E+03        0.0000E+00        3.4000E-02        3.7000E-03

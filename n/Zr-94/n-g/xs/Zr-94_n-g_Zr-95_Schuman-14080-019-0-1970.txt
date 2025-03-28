@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14080-019-0 
-# EXFOR reaction        : ['40-ZR-94', ['N,G'], '40-ZR-95,,SIG'] 
+# EXFOR reaction        : (40-ZR-94(N,G)40-ZR-95,,SIG) 
 # incident energy       : 2.0000e-03 MeV 
 # target                : Zr-94 
 # product               : Zr-95 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.P.Schuman 
+# first author          : Schuman 
 # institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
 # reference             : (P,IN-1317,39,1970) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/140/14080.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14080
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-03      7.00000E-04      9.50000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-03        7.0000E-04        9.5000E-02        0.0000E+00

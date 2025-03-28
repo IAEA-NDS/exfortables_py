@@ -1,11 +1,11 @@
 # entry-subent-pointer  : R0042-006-0 
-# EXFOR reaction        : ['30-ZN-66', ['D,2N'], '31-GA-66,,SIG'] 
+# EXFOR reaction        : (30-ZN-66(D,2N)31-GA-66,,SIG) 
 # incident energy       : 8.8000e+00 MeV - 1.1600e+01 MeV 
 # target                : Zn-66 
 # product               : Ga-66 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.L.Gilly 
+# first author          : Gilly 
 # institute             : (2BLGBLG): Belgium 
 # reference             : (J,PR,131,(4),1727,196308) 
 # year                  : 1963 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/R00/R0042.x4 
 # nds                   : https://nds.iaea.org/EXFOR/R0042
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.80000E+00      0.00000E+00      3.00000E-02      1.00000E-02
-      9.20000E+00      0.00000E+00      6.00000E-02      1.10000E-02
-      9.60000E+00      0.00000E+00      1.05000E-01      1.20000E-02
-      1.00000E+01      0.00000E+00      1.46000E-01      1.50000E-02
-      1.04000E+01      0.00000E+00      1.95000E-01      1.90000E-02
-      1.07000E+01      0.00000E+00      2.82000E-01      2.80000E-02
-      1.12000E+01      0.00000E+00      3.38000E-01      3.30000E-02
-      1.16000E+01      0.00000E+00      3.68000E-01      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.8000E+00        0.0000E+00        3.0000E-02        1.0000E-02
+        9.2000E+00        0.0000E+00        6.0000E-02        1.1000E-02
+        9.6000E+00        0.0000E+00        1.0500E-01        1.2000E-02
+        1.0000E+01        0.0000E+00        1.4600E-01        1.5000E-02
+        1.0400E+01        0.0000E+00        1.9500E-01        1.9000E-02
+        1.0700E+01        0.0000E+00        2.8200E-01        2.8000E-02
+        1.1200E+01        0.0000E+00        3.3800E-01        3.3000E-02
+        1.1600E+01        0.0000E+00        3.6800E-01        3.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12051-002-0 
-# EXFOR reaction        : ['58-CE-142', ['N,G'], '58-CE-143,,SIG,,MXW'] 
+# EXFOR reaction        : (58-CE-142(N,G)58-CE-143,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ce-142 
 # product               : Ce-143 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : L.P.Roy 
+# first author          : Roy 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,CJC,34,1023,1956) 
 # year                  : 1956 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12051.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12051
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      9.50000E-01      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        9.5000E-01        1.0000E-02

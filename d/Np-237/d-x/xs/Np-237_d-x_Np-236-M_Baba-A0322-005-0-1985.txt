@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0322-005-0 
-# EXFOR reaction        : ['93-NP-237', ['D,X'], '93-NP-236-M,,SIG'] 
+# EXFOR reaction        : (93-NP-237(D,X)93-NP-236-M,,SIG) 
 # incident energy       : 2.0720e+01 MeV 
 # target                : Np-237 
 # product               : Np-236-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.Baba 
+# first author          : Baba 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (J,ARI,36,564,1985) 
 # year                  : 1985 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A03/A0322.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0322
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.07200E+01      1.60000E-01      3.60000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0720E+01        1.6000E-01        3.6000E-02        0.0000E+00

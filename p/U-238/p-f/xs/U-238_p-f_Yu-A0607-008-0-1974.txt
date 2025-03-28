@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0607-008-0 
-# EXFOR reaction        : ['92-U-238', ['P,F'], '55-CS-129,CUM,SIG'] 
+# EXFOR reaction        : (92-U-238(P,F)55-CS-129,CUM,SIG) 
 # incident energy       : 1.1500e+04 MeV - 3.0000e+05 MeV 
 # target                : U-238 
 # product               : Cs-129 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : Y.W.Yu 
+# first author          : Yu 
 # institute             : (1USAPUR): Purdue University, West Lafayette, IN 
 # reference             : (J,PR/C,10,167,1974) 
 # year                  : 1974 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A06/A0607.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0607
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.15000E+04      0.00000E+00      9.48000E-03      0.00000E+00
-      3.00000E+05      0.00000E+00      7.88000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1500E+04        0.0000E+00        9.4800E-03        0.0000E+00
+        3.0000E+05        0.0000E+00        7.8800E-03        0.0000E+00

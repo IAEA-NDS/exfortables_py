@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0584-009-A 
-# EXFOR reaction        : ['26-FE-0', ['P,X'], '19-K-43,CUM,SIG'] 
+# EXFOR reaction        : (26-FE-0(P,X)19-K-43,CUM,SIG) 
 # incident energy       : 5.9000e+02 MeV - 1.8300e+04 MeV 
 # target                : Fe-0 
 # product               : K-43 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : K.F.Chackett 
+# first author          : Chackett 
 # institute             : (2UK BIR): University of Birmingham, England 
 # reference             : (J,JIN,27,2493,1965) 
 # year                  : 1965 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0584.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0584
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.90000E+02      0.00000E+00      2.41000E-03      0.00000E+00
-      1.83000E+04      0.00000E+00      2.37000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.9000E+02        0.0000E+00        2.4100E-03        0.0000E+00
+        1.8300E+04        0.0000E+00        2.3700E-03        0.0000E+00

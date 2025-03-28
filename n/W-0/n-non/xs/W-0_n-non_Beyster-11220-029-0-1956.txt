@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11220-029-0 
-# EXFOR reaction        : ['74-W-0', ['N,NON'], ',,SIG'] 
+# EXFOR reaction        : (74-W-0(N,NON),,SIG) 
 # incident energy       : 1.0000e+00 MeV - 7.0000e+00 MeV 
 # target                : W-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : J.R.Beyster 
+# first author          : Beyster 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,PR,104,1319,1956) 
 # year                  : 1956 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11220.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11220
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      2.25000E+00      3.00000E-01
-      2.50000E+00      0.00000E+00      2.66000E+00      3.00000E-01
-      7.00000E+00      0.00000E+00      2.45000E+00      2.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        2.2500E+00        3.0000E-01
+        2.5000E+00        0.0000E+00        2.6600E+00        3.0000E-01
+        7.0000E+00        0.0000E+00        2.4500E+00        2.0000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22089-034-0 
-# EXFOR reaction        : ['23-V-51', ['N,P'], '22-TI-51,,SIG'] 
+# EXFOR reaction        : (23-V-51(N,P)22-TI-51,,SIG) 
 # incident energy       : 1.3330e+01 MeV - 1.4930e+01 MeV 
 # target                : V-51 
 # product               : Ti-51 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : Y.Ikeda 
+# first author          : Ikeda 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (R,JAERI-1312,1988) 
 # year                  : 1988 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22089.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22089
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49300E+01      0.00000E+00      2.83000E-02      1.60000E-03
-      1.47600E+01      0.00000E+00      2.66000E-02      1.50000E-03
-      1.46600E+01      0.00000E+00      2.83000E-02      1.70000E-03
-      1.44300E+01      0.00000E+00      2.68000E-02      1.60000E-03
-      1.40400E+01      0.00000E+00      2.91000E-02      1.70000E-03
-      1.33300E+01      0.00000E+00      3.02000E-02      1.70000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4930E+01        0.0000E+00        2.8300E-02        1.6000E-03
+        1.4760E+01        0.0000E+00        2.6600E-02        1.5000E-03
+        1.4660E+01        0.0000E+00        2.8300E-02        1.7000E-03
+        1.4430E+01        0.0000E+00        2.6800E-02        1.6000E-03
+        1.4040E+01        0.0000E+00        2.9100E-02        1.7000E-03
+        1.3330E+01        0.0000E+00        3.0200E-02        1.7000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : F1206-002-0 
-# EXFOR reaction        : ['79-AU-197', ['D,P'], '79-AU-198,,SIG'] 
+# EXFOR reaction        : (79-AU-197(D,P)79-AU-198,,SIG) 
 # incident energy       : 5.9610e+00 MeV - 1.1982e+01 MeV 
 # target                : Au-197 
 # product               : Au-198 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : Yu.V.Khrisanfov 
+# first author          : Khrisanfov 
 # institute             : (4RUSSUL): Gosudarstvennyi University (State University ), St.Petersburg 
 # reference             : (J,IZV,36,(3),641,1972) 
 # year                  : 1972 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F12/F1206.x4 
 # nds                   : https://nds.iaea.org/EXFOR/F1206
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.96100E+00      3.60000E-02      5.13000E-03      2.05200E-04
-      7.23500E+00      3.60000E-02      1.86800E-02      7.47200E-04
-      8.31100E+00      3.60000E-02      3.98700E-02      1.59480E-03
-      9.38600E+00      3.60000E-02      6.54900E-02      2.61960E-03
-      1.02670E+01      3.60000E-02      8.07700E-02      3.23080E-03
-      1.10490E+01      3.60000E-02      9.77700E-02      3.91080E-03
-      1.19820E+01      3.60000E-02      9.99900E-02      3.99960E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.9610E+00        3.6000E-02        5.1300E-03        2.0520E-04
+        7.2350E+00        3.6000E-02        1.8680E-02        7.4720E-04
+        8.3110E+00        3.6000E-02        3.9870E-02        1.5948E-03
+        9.3860E+00        3.6000E-02        6.5490E-02        2.6196E-03
+        1.0267E+01        3.6000E-02        8.0770E-02        3.2308E-03
+        1.1049E+01        3.6000E-02        9.7770E-02        3.9108E-03
+        1.1982E+01        3.6000E-02        9.9990E-02        3.9996E-03

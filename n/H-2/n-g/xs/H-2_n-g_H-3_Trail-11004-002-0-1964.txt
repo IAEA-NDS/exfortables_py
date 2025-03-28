@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11004-002-0 
-# EXFOR reaction        : ['1-H-2', ['N,G'], '1-H-3,,SIG'] 
+# EXFOR reaction        : (1-H-2(N,G)1-H-3,,SIG) 
 # incident energy       : 1.0000e-08 MeV 
 # target                : H-2 
 # product               : H-3 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : C.C.Trail 
+# first author          : Trail 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,BAP,9,176(III8),6402) 
 # year                  : 1964 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11004.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11004
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E-08      0.00000E+00      3.60000E-04      3.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E-08        0.0000E+00        3.6000E-04        3.0000E-05

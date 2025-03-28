@@ -1,11 +1,11 @@
 # entry-subent-pointer  : T0046-004-0 
-# EXFOR reaction        : ['2-HE-3', ['D,P'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (2-HE-3(D,P)2-HE-4,,SIG) 
 # incident energy       : 1.4600e+01 MeV - 3.9900e+01 MeV 
 # target                : He-3 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : R.Roy 
+# first author          : Roy 
 # institute             : (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
 # reference             : (J,PR/C,24,2421,1981) 
 # year                  : 1981 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T00/T0046.x4 
 # nds                   : https://nds.iaea.org/EXFOR/T0046
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      1.00000E-01      3.17000E-02      0.00000E+00
-      1.97000E+01      1.00000E-01      2.78000E-02      0.00000E+00
-      2.49000E+01      1.00000E-01      2.27000E-02      0.00000E+00
-      3.00000E+01      1.00000E-01      2.02000E-02      0.00000E+00
-      3.49000E+01      1.00000E-01      1.39000E-02      0.00000E+00
-      3.99000E+01      1.00000E-01      1.13000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        1.0000E-01        3.1700E-02        0.0000E+00
+        1.9700E+01        1.0000E-01        2.7800E-02        0.0000E+00
+        2.4900E+01        1.0000E-01        2.2700E-02        0.0000E+00
+        3.0000E+01        1.0000E-01        2.0200E-02        0.0000E+00
+        3.4900E+01        1.0000E-01        1.3900E-02        0.0000E+00
+        3.9900E+01        1.0000E-01        1.1300E-02        0.0000E+00

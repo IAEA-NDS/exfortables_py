@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14785-002-0 
-# EXFOR reaction        : ['1-H-1', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (1-H-1(N,TOT),,SIG) 
 # incident energy       : 9.0000e-01 MeV 
 # target                : H-1 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : W.E.Good 
+# first author          : Good 
 # institute             : (1USAUI): University of Illinois, Urbana-Champaign, IL 
 # reference             : (J,PR,58,89(1),1940) 
 # year                  : 1940 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/147/14785.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14785
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.00000E-01      0.00000E+00      3.70000E+00      3.50000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.0000E-01        0.0000E+00        3.7000E+00        3.5000E-01

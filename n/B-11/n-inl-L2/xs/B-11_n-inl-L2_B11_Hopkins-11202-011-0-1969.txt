@@ -1,17 +1,17 @@
 # entry-subent-pointer  : 11202-011-0 
-# EXFOR reaction        : ['5-B-11', ['N,INL'], '5-B-11,PAR,SIG'] 
+# EXFOR reaction        : (5-B-11(N,INL)5-B-11,PAR,SIG) 
 # incident energy       : 7.5500e+00 MeV 
 # target                : B-11 
 # product               : B-11 
 # level energy          : 4.4600e+00 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : J.C.Hopkins 
+# first author          : Hopkins 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
-# reference             : (J,NSE,36,275,69) 
+# reference             : (J,NSE,36,275,1969) 
 # year                  : 1969 
-# facility              : None 
+# facility              : (VDG): Van de Graaff 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11202.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11202
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.55000E+00      1.20000E-01      1.68000E-01      2.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.5500E+00        1.2000E-01        1.6800E-01        2.5000E-02

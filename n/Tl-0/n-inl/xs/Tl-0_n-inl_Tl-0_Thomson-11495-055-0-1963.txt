@@ -1,18 +1,18 @@
 # entry-subent-pointer  : 11495-055-0 
-# EXFOR reaction        : ['81-TL-0', ['N,INL'], '81-TL-0,,SIG'] 
+# EXFOR reaction        : (81-TL-0(N,INL)81-TL-0,,SIG) 
 # incident energy       : 5.0000e+00 MeV - 6.0000e+00 MeV 
 # target                : Tl-0 
 # product               : Tl-0 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : D.B.Thomson 
+# first author          : Thomson 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
-# reference             : (J,PR,129,1649,6302) 
+# reference             : (J,PR,129,1649,1963) 
 # year                  : 1963 
 # facility              : (VDG): Van de Graaff 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11495.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11495
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.00000E+00      0.00000E+00      2.69000E+00      2.50000E-01
-      6.00000E+00      0.00000E+00      2.76000E+00      2.60000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+00        0.0000E+00        2.6900E+00        2.5000E-01
+        6.0000E+00        0.0000E+00        2.7600E+00        2.6000E-01

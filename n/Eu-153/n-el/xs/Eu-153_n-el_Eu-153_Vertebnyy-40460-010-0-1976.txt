@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40460-010-0 
-# EXFOR reaction        : ['63-EU-153', ['N,EL'], '63-EU-153,,SIG,,SPA'] 
+# EXFOR reaction        : (63-EU-153(N,EL)63-EU-153,,SIG,,SPA) 
 # incident energy       : 2.0000e-03 MeV 
 # target                : Eu-153 
 # product               : Eu-153 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : V.P.Vertebnyy 
+# first author          : Vertebnyy 
 # institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
 # reference             : ((C,75KIEV,3,151,1975)=(R,INDC(CCP)-099,(4),151,1976)) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/404/40460.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40460
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-03      0.00000E+00      1.14000E+01      4.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-03        0.0000E+00        1.1400E+01        4.0000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40596-031-0 
-# EXFOR reaction        : ['16-S-32', ['N,INL'], '16-S-32,PAR,SIG'] 
+# EXFOR reaction        : (16-S-32(N,INL)16-S-32,PAR,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : S-32 
 # product               : S-32 
 # level energy          : 1.5042e+01 MeV 
 # MF-MT number          : 3 - 91 
-# first author          : Yu.E.Kozy 
+# first author          : Kozy 
 # institute             : (4UKRKGU): Kyivsky Natsionalny University "Taras Shevchenko", Kyiv 
 # reference             : (J,YF,28,16,1978) 
 # year                  : 1978 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40596.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40596
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      0.00000E+00      1.60000E-01      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        1.6000E-01        2.0000E-02

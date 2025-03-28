@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21520-006-0 
-# EXFOR reaction        : ['92-U-235', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (92-U-235(N,F),,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : U-235 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : G.Fraysse 
+# first author          : Fraysse 
 # institute             : (2ZZZISP): EC Joint Research Center (EC-JRC), Ispra 
 # reference             : (C,65SALZBURG,1,255,196503) 
 # year                  : 1965 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/215/21520.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21520
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      5.82000E+02      1.00000E+01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        5.8200E+02        1.0000E+01

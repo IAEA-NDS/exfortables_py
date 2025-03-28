@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22429-003-0 
-# EXFOR reaction        : ['95-AM-243', ['N,G'], '95-AM-244-M,,SIG,,MXW'] 
+# EXFOR reaction        : (95-AM-243(N,G)95-AM-244-M,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Am-243 
 # product               : Am-244-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : Y.Hatsukawa 
+# first author          : Hatsukawa 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : ((S,JAERI-C-98-003,221,1998)=(S,INDC(JPN)-180,221,1998)) 
 # year                  : 1998 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22429.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22429
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      8.44400E+01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        8.4440E+01        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0091-003-0 
-# EXFOR reaction        : ['82-PB-0', ['P,X'], 'ELEM/MASS,CUM,SIG'] 
+# EXFOR reaction        : (82-PB-0(P,X)ELEM/MASS,CUM,SIG) 
 # incident energy       : 6.6000e+02 MeV 
 # target                : Pb-0 
 # product               : Tl-202 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Adilbish 
+# first author          : Adilbish 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (R,JINR-6-80-517,19800816) 
 # year                  : 1980 
@@ -13,5 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A00/A0091.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0091
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.60000E+02      0.00000E+00      1.68000E-02      2.80000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6000E+02        0.0000E+00        1.0300E-01        5.0000E-03
+        6.6000E+02        0.0000E+00        4.8000E-02        9.0000E-03
+        6.6000E+02        0.0000E+00        1.6800E-02        2.8000E-03

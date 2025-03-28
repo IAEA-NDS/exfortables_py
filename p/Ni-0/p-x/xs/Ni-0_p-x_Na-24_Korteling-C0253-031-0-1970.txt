@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0253-031-0 
-# EXFOR reaction        : ['28-NI-0', ['P,X'], '11-NA-24,,SIG'] 
+# EXFOR reaction        : (28-NI-0(P,X)11-NA-24,,SIG) 
 # incident energy       : 1.0000e+02 MeV - 3.0000e+02 MeV 
 # target                : Ni-0 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.G.Korteling 
+# first author          : Korteling 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,PR/C,1,1960,70) 
 # year                  : 1970 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0253.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0253
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+02      1.00000E+01      7.98000E-07      3.10000E-07
-      2.00000E+02      1.00000E+01      5.91000E-06      9.00000E-08
-      3.00000E+02      1.00000E+01      2.48000E-05      5.00000E-08
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+02        1.0000E+01        7.9800E-07        3.1000E-07
+        2.0000E+02        1.0000E+01        5.9100E-06        9.0000E-08
+        3.0000E+02        1.0000E+01        2.4800E-05        5.0000E-08

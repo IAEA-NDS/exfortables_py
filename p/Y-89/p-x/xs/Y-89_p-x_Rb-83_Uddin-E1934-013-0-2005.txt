@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1934-013-0 
-# EXFOR reaction        : ['39-Y-89', ['P,X'], '37-RB-83,CUM,SIG'] 
+# EXFOR reaction        : (39-Y-89(P,X)37-RB-83,CUM,SIG) 
 # incident energy       : 4.9300e+01 MeV - 7.9100e+01 MeV 
 # target                : Y-89 
 # product               : Rb-83 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.S.Uddin 
+# first author          : Uddin 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (J,ARI,63,(3),367,200509) 
 # year                  : 2005 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1934.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1934
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.91000E+01      0.00000E+00      3.77000E-02      3.50000E-03
-      7.43000E+01      0.00000E+00      4.09000E-02      3.80000E-03
-      6.94000E+01      0.00000E+00      5.17000E-02      4.90000E-03
-      6.43000E+01      0.00000E+00      6.26000E-02      5.90000E-03
-      5.88000E+01      0.00000E+00      5.94000E-02      5.60000E-03
-      5.42000E+01      0.00000E+00      4.15000E-02      3.90000E-03
-      4.93000E+01      0.00000E+00      1.52000E-02      1.40000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.9100E+01        0.0000E+00        3.7700E-02        3.5000E-03
+        7.4300E+01        0.0000E+00        4.0900E-02        3.8000E-03
+        6.9400E+01        0.0000E+00        5.1700E-02        4.9000E-03
+        6.4300E+01        0.0000E+00        6.2600E-02        5.9000E-03
+        5.8800E+01        0.0000E+00        5.9400E-02        5.6000E-03
+        5.4200E+01        0.0000E+00        4.1500E-02        3.9000E-03
+        4.9300E+01        0.0000E+00        1.5200E-02        1.4000E-03

@@ -1,21 +1,21 @@
 # entry-subent-pointer  : A0906-101-0 
-# EXFOR reaction        : ['41-NB-93', ['P,X'], '26-FE-59,CUM,SIG'] 
+# EXFOR reaction        : (41-NB-93(P,X)26-FE-59,CUM,SIG) 
 # incident energy       : 6.0000e+02 MeV - 2.6050e+03 MeV 
 # target                : Nb-93 
 # product               : Fe-59 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Yu.E.Titarenko 
+# first author          : Titarenko 
 # institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
-# reference             : (J,YF,74,561,2011) 
+# reference             : (J,PAN,74,537,2011) 
 # year                  : 2011 
 # facility              : (SYNCH): Synchrotron 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0906.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0906
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+02      2.00000E+00      1.14000E-04      2.00000E-05
-      7.99000E+02      3.00000E+00      2.33000E-04      2.80000E-05
-      1.19900E+03      3.00000E+00      5.51000E-04      5.40000E-05
-      1.59900E+03      4.00000E+00      7.23000E-04      6.90000E-05
-      2.60500E+03      8.00000E+00      7.17000E-04      8.20000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+02        2.0000E+00        1.1400E-04        2.0000E-05
+        7.9900E+02        3.0000E+00        2.3300E-04        2.8000E-05
+        1.1990E+03        3.0000E+00        5.5100E-04        5.4000E-05
+        1.5990E+03        4.0000E+00        7.2300E-04        6.9000E-05
+        2.6050E+03        8.0000E+00        7.1700E-04        8.2000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20285-005-0 
-# EXFOR reaction        : ['5-B-10', ['N,T'], '4-BE-8,PAR,SIG'] 
+# EXFOR reaction        : (5-B-10(N,T)4-BE-8,PAR,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : B-10 
 # product               : Be-8 
 # level energy          : 3.0000e+00 MeV 
 # MF-MT number          : 3 - 701 
-# first author          : M.Sakisaka 
+# first author          : Sakisaka 
 # institute             : (2JPNKON): Konan University , Kobe 
 # reference             : (J,JPJ,14,554,195905) 
 # year                  : 1959 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20285.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20285
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      2.00000E-01      4.20000E-02      1.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        2.0000E-01        4.2000E-02        1.6000E-02

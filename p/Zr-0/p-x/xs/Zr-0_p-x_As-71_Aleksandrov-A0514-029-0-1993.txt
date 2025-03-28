@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0514-029-0 
-# EXFOR reaction        : ['40-ZR-0', ['P,X'], '33-AS-71,CUM,SIG'] 
+# EXFOR reaction        : (40-ZR-0(P,X)33-AS-71,CUM,SIG) 
 # incident energy       : 6.6000e+02 MeV 
 # target                : Zr-0 
 # product               : As-71 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Yu.V.Aleksandrov 
+# first author          : Aleksandrov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (C,93DUBNS,,406,1993) 
 # year                  : 1993 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0514.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0514
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.60000E+02      0.00000E+00      1.27000E-02      7.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6000E+02        0.0000E+00        1.2700E-02        7.0000E-04

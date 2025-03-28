@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11514-003-0 
-# EXFOR reaction        : ['29-CU-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (29-CU-0(N,TOT),,SIG) 
 # incident energy       : 9.9400e+01 MeV - 1.5190e+02 MeV 
 # target                : Cu-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : R.J.Schneider 
+# first author          : Schneider 
 # institute             : (1USAUSA): United States of America 
 # reference             : (J,NP/A,119,197,196810) 
 # year                  : 1968 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11514.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11514
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.94000E+01      1.00000E+00      1.99000E+00      9.95000E-03
-      1.11500E+02      1.00000E+00      1.81700E+00      9.08500E-03
-      1.21400E+02      1.00000E+00      1.67900E+00      8.39500E-03
-      1.31000E+02      1.00000E+00      1.55000E+00      7.75000E-03
-      1.42100E+02      1.00000E+00      1.44900E+00      7.24500E-03
-      1.51900E+02      1.00000E+00      1.37600E+00      6.88000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.9400E+01        1.0000E+00        1.9900E+00        9.9500E-03
+        1.1150E+02        1.0000E+00        1.8170E+00        9.0850E-03
+        1.2140E+02        1.0000E+00        1.6790E+00        8.3950E-03
+        1.3100E+02        1.0000E+00        1.5500E+00        7.7500E-03
+        1.4210E+02        1.0000E+00        1.4490E+00        7.2450E-03
+        1.5190E+02        1.0000E+00        1.3760E+00        6.8800E-03

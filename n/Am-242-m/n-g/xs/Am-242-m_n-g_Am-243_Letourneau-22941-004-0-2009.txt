@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22941-004-0 
-# EXFOR reaction        : ['95-AM-242-M', ['N,G'], '95-AM-243,,SIG,,SPA'] 
+# EXFOR reaction        : (95-AM-242-M(N,G)95-AM-243,,SIG,,SPA) 
 # incident energy       : 2.5000e-08 MeV 
 # target                : Am-242-m 
 # product               : Am-243 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.Letourneau 
+# first author          : Letourneau 
 # institute             : (2FR SAC): CEA/Saclay 
 # reference             : (C,2009BUDA,,81,2009) 
 # year                  : 2009 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22941.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22941
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-08      0.00000E+00      1.14749E+03      1.14103E+02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-08        0.0000E+00        1.1475E+03        1.1410E+02

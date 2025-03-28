@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20554-010-0 
-# EXFOR reaction        : ['40-ZR-90', ['N,2N'], '40-ZR-89,,SIG,,FIS'] 
+# EXFOR reaction        : (40-ZR-90(N,2N)40-ZR-89,,SIG,,FIS) 
 # incident energy       : 1.3200e+00 MeV 
 # target                : Zr-90 
 # product               : Zr-89 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.M.Qaim 
+# first author          : Qaim 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (C,71CANT,,121,197109) 
 # year                  : 1971 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20554.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20554
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.32000E+00      0.00000E+00      6.87000E-05      1.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3200E+00        0.0000E+00        6.8700E-05        1.0000E-05

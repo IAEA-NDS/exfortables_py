@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0715-009-0 
-# EXFOR reaction        : ['92-U-238', ['P,F'], '37-RB-93,IND,SIG'] 
+# EXFOR reaction        : (92-U-238(P,F)37-RB-93,IND,SIG) 
 # incident energy       : 7.0000e+01 MeV - 9.0000e+01 MeV 
 # target                : U-238 
 # product               : Rb-93 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : B.N.Belyaev 
+# first author          : Belyaev 
 # institute             : (4RUSRI ): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (J,YF,57,1231,1994) 
 # year                  : 1994 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0715.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0715
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.00000E+01      0.00000E+00      1.22000E-02      6.00000E-04
-      9.00000E+01      0.00000E+00      1.28000E-02      7.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0000E+01        0.0000E+00        1.2200E-02        6.0000E-04
+        9.0000E+01        0.0000E+00        1.2800E-02        7.0000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12654-002-0 
-# EXFOR reaction        : ['5-B-10', ['N,T+A'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (5-B-10(N,T+A)2-HE-4,,SIG) 
 # incident energy       : 2.3000e-01 MeV 
 # target                : B-10 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 155 
-# first author          : P.D.Klein 
+# first author          : Klein 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (W,MOORING,66) 
 # year                  : 1966 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/126/12654.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12654
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.30000E-01      0.00000E+00      6.00000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3000E-01        0.0000E+00        6.0000E-02        0.0000E+00

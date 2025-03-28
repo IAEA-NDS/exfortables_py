@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31599-002-0 
-# EXFOR reaction        : ['57-LA-139', ['N,G'], '57-LA-140,,SIG'] 
+# EXFOR reaction        : (57-LA-139(N,G)57-LA-140,,SIG) 
 # incident energy       : 5.5000e-02 MeV - 1.4400e-01 MeV 
 # target                : La-139 
 # product               : La-140 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.H.Tan 
+# first author          : Tan 
 # institute             : (3VN VN): Vietnam 
 # reference             : (S,JAEA-C-2008-006,40,2008) 
 # year                  : 2008 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31599.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31599
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.50000E-02      8.00000E-03      2.24000E-02      1.20000E-03
-      1.44000E-01      2.20000E-02      1.20100E-02      5.80000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.5000E-02        8.0000E-03        2.2400E-02        1.2000E-03
+        1.4400E-01        2.2000E-02        1.2010E-02        5.8000E-04

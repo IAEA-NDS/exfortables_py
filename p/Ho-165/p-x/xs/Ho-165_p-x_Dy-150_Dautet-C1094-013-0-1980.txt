@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1094-013-0 
-# EXFOR reaction        : ['67-HO-165', ['P,X'], '66-DY-150,,SIG'] 
+# EXFOR reaction        : (67-HO-165(P,X)66-DY-150,,SIG) 
 # incident energy       : 4.8000e+02 MeV 
 # target                : Ho-165 
 # product               : Dy-150 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Dautet 
+# first author          : Dautet 
 # institute             : (1CANSFU): Simon Frazer University, Burnaby, B.C. 
 # reference             : (J,CJP,58,891,1980) 
 # year                  : 1980 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C10/C1094.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1094
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.80000E+02      0.00000E+00      4.34000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.8000E+02        0.0000E+00        4.3400E-03        0.0000E+00

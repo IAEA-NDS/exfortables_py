@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0719-007-0 
-# EXFOR reaction        : ['92-U-234', ['D,3N'], '93-NP-233,,SIG'] 
+# EXFOR reaction        : (92-U-234(D,3N)93-NP-233,,SIG) 
 # incident energy       : 1.4600e+01 MeV - 2.3700e+01 MeV 
 # target                : U-234 
 # product               : Np-233 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : R.M.Lessler 
+# first author          : Lessler 
 # institute             : (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
 # reference             : (J,NP,81,401,1966) 
 # year                  : 1966 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C07/C0719.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0719
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      5.00000E-01      2.32000E-03      0.00000E+00
-      1.53000E+01      5.00000E-01      5.36000E-03      0.00000E+00
-      1.63000E+01      5.00000E-01      9.00000E-03      0.00000E+00
-      1.70000E+01      5.00000E-01      1.33000E-02      0.00000E+00
-      1.75000E+01      5.00000E-01      1.59000E-02      0.00000E+00
-      1.86000E+01      5.00000E-01      1.93000E-02      0.00000E+00
-      1.98000E+01      5.00000E-01      1.73000E-02      0.00000E+00
-      2.05000E+01      5.00000E-01      1.48000E-02      0.00000E+00
-      2.37000E+01      5.00000E-01      7.20000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        5.0000E-01        2.3200E-03        0.0000E+00
+        1.5300E+01        5.0000E-01        5.3600E-03        0.0000E+00
+        1.6300E+01        5.0000E-01        9.0000E-03        0.0000E+00
+        1.7000E+01        5.0000E-01        1.3300E-02        0.0000E+00
+        1.7500E+01        5.0000E-01        1.5900E-02        0.0000E+00
+        1.8600E+01        5.0000E-01        1.9300E-02        0.0000E+00
+        1.9800E+01        5.0000E-01        1.7300E-02        0.0000E+00
+        2.0500E+01        5.0000E-01        1.4800E-02        0.0000E+00
+        2.3700E+01        5.0000E-01        7.2000E-03        0.0000E+00

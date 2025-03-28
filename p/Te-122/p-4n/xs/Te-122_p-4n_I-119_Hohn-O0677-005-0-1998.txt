@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0677-005-0 
-# EXFOR reaction        : ['52-TE-122', ['P,4N'], '53-I-119,,SIG'] 
+# EXFOR reaction        : (52-TE-122(P,4N)53-I-119,,SIG) 
 # incident energy       : 3.7500e+01 MeV - 4.5400e+01 MeV 
 # target                : Te-122 
 # product               : I-119 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : A.Hohn 
+# first author          : Hohn 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,ARI,49,93,1998) 
 # year                  : 1998 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0677.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0677
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.54000E+01      2.00000E-01      3.34000E-01      5.30000E-02
-      4.46000E+01      2.00000E-01      3.76000E-01      6.00000E-02
-      4.42000E+01      2.00000E-01      3.85000E-01      6.20000E-02
-      4.33000E+01      2.00000E-01      3.21000E-01      5.10000E-02
-      4.29000E+01      2.00000E-01      3.40000E-01      5.40000E-02
-      4.05000E+01      3.00000E-01      1.77000E-01      2.80000E-02
-      3.75000E+01      3.00000E-01      7.50000E-02      1.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5400E+01        2.0000E-01        3.3400E-01        5.3000E-02
+        4.4600E+01        2.0000E-01        3.7600E-01        6.0000E-02
+        4.4200E+01        2.0000E-01        3.8500E-01        6.2000E-02
+        4.3300E+01        2.0000E-01        3.2100E-01        5.1000E-02
+        4.2900E+01        2.0000E-01        3.4000E-01        5.4000E-02
+        4.0500E+01        3.0000E-01        1.7700E-01        2.8000E-02
+        3.7500E+01        3.0000E-01        7.5000E-02        1.2000E-02

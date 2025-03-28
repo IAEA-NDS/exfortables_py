@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12235-002-0 
-# EXFOR reaction        : ['82-PB-0', ['N,NON'], ',,SIG'] 
+# EXFOR reaction        : (82-PB-0(N,NON),,SIG) 
 # incident energy       : 1.7400e+00 MeV - 2.1000e+00 MeV 
 # target                : Pb-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : L.E.Beghian 
+# first author          : Beghian 
 # institute             : (1USAMIT): Massachusetts Institute of Technology, Cambridge, MA 
 # reference             : (C,66WASH,2,726,6603) 
 # year                  : 1966 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12235.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12235
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.74000E+00      5.00000E-02      6.50000E-01      0.00000E+00
-      2.10000E+00      5.00000E-02      8.30000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7400E+00        5.0000E-02        6.5000E-01        0.0000E+00
+        2.1000E+00        5.0000E-02        8.3000E-01        0.0000E+00

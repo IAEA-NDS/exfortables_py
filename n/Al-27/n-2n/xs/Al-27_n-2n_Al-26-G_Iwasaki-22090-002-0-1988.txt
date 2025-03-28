@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22090-002-0 
-# EXFOR reaction        : ['13-AL-27', ['N,2N'], '13-AL-26-G,,SIG'] 
+# EXFOR reaction        : (13-AL-27(N,2N)13-AL-26-G,,SIG) 
 # incident energy       : 1.4080e+01 MeV - 1.4680e+01 MeV 
 # target                : Al-27 
 # product               : Al-26-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.Iwasaki 
+# first author          : Iwasaki 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (C,88MITO,,295,1988) 
 # year                  : 1988 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22090.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22090
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40800E+01      4.00000E-02      1.16000E-02      1.30000E-03
-      1.41600E+01      5.00000E-02      1.43000E-02      1.60000E-03
-      1.43200E+01      7.00000E-02      2.14000E-02      2.40000E-03
-      1.43700E+01      7.00000E-02      2.78000E-02      3.00000E-03
-      1.44700E+01      8.00000E-02      3.20000E-02      3.50000E-03
-      1.45600E+01      1.00000E-01      3.61000E-02      3.90000E-03
-      1.46800E+01      1.10000E-01      4.06000E-02      4.40000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4080E+01        4.0000E-02        1.1600E-02        1.3000E-03
+        1.4160E+01        5.0000E-02        1.4300E-02        1.6000E-03
+        1.4320E+01        7.0000E-02        2.1400E-02        2.4000E-03
+        1.4370E+01        7.0000E-02        2.7800E-02        3.0000E-03
+        1.4470E+01        8.0000E-02        3.2000E-02        3.5000E-03
+        1.4560E+01        1.0000E-01        3.6100E-02        3.9000E-03
+        1.4680E+01        1.1000E-01        4.0600E-02        4.4000E-03

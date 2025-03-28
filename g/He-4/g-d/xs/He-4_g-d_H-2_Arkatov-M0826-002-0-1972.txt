@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M0826-002-0 
-# EXFOR reaction        : ['2-HE-4', ['G,D'], '1-H-2,,SIG'] 
+# EXFOR reaction        : (2-HE-4(G,D)1-H-2,,SIG) 
 # incident energy       : 3.5000e+01 MeV - 6.7500e+01 MeV 
 # target                : He-4 
 # product               : H-2 
 # level energy          : - 
 # MF-MT number          : 3 - 104 
-# first author          : Yu.M.Arkatov 
+# first author          : Arkatov 
 # institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
 # reference             : (J,YF,16,12,1972) 
 # year                  : 1972 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M08/M0826.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M0826
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.50000E+01      0.00000E+00      2.94000E-06      0.00000E+00
-      4.50000E+01      0.00000E+00      2.47000E-06      0.00000E+00
-      5.50000E+01      0.00000E+00      7.90000E-07      0.00000E+00
-      6.75000E+01      0.00000E+00      1.14000E-06      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5000E+01        0.0000E+00        2.9400E-06        0.0000E+00
+        4.5000E+01        0.0000E+00        2.4700E-06        0.0000E+00
+        5.5000E+01        0.0000E+00        7.9000E-07        0.0000E+00
+        6.7500E+01        0.0000E+00        1.1400E-06        0.0000E+00

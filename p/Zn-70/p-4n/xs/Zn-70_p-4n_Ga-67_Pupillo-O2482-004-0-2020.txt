@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2482-004-0 
-# EXFOR reaction        : ['30-ZN-70', ['P,4N'], '31-GA-67,,SIG'] 
+# EXFOR reaction        : (30-ZN-70(P,4N)31-GA-67,,SIG) 
 # incident energy       : 4.4700e+01 MeV - 6.7800e+01 MeV 
 # target                : Zn-70 
 # product               : Ga-67 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : G.Pupillo 
+# first author          : Pupillo 
 # institute             : (2ITYITY): Italy 
 # reference             : (J,RCA,108,593,2020) 
 # year                  : 2020 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O24/O2482.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2482
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.47000E+01      7.00000E-01      2.81200E-01      4.28000E-02
-      4.77000E+01      6.00000E-01      2.14000E-01      3.38000E-02
-      5.08000E+01      5.00000E-01      1.72100E-01      2.70000E-02
-      5.58000E+01      5.00000E-01      1.20100E-01      1.86000E-02
-      5.60000E+01      8.00000E-01      1.35600E-01      2.10000E-02
-      6.08000E+01      5.00000E-01      9.73000E-02      1.42000E-02
-      6.78000E+01      6.00000E-01      5.97000E-02      7.70000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.4700E+01        7.0000E-01        2.8120E-01        4.2800E-02
+        4.7700E+01        6.0000E-01        2.1400E-01        3.3800E-02
+        5.0800E+01        5.0000E-01        1.7210E-01        2.7000E-02
+        5.5800E+01        5.0000E-01        1.2010E-01        1.8600E-02
+        5.6000E+01        8.0000E-01        1.3560E-01        2.1000E-02
+        6.0800E+01        5.0000E-01        9.7300E-02        1.4200E-02
+        6.7800E+01        6.0000E-01        5.9700E-02        7.7000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21440-033-0 
-# EXFOR reaction        : ['78-PT-195', ['N,P'], '77-IR-195-G,,SIG'] 
+# EXFOR reaction        : (78-PT-195(N,P)77-IR-195-G,,SIG) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : Pt-195 
 # product               : Ir-195-G 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : R.F.Coleman 
+# first author          : Coleman 
 # institute             : (2UK ALD): Atomic Weapons Establishment (AWE), Aldermaston 
 # reference             : (J,PPS,73,215,1959) 
 # year                  : 1959 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/214/21440.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21440
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      0.00000E+00      2.91000E-03      2.91000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        0.0000E+00        2.9100E-03        2.9100E-04

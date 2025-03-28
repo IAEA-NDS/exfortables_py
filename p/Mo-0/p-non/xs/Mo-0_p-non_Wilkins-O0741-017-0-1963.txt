@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0741-017-0 
-# EXFOR reaction        : ['42-MO-0', ['P,NON'], ',,SIG'] 
+# EXFOR reaction        : (42-MO-0(P,NON),,SIG) 
 # incident energy       : 1.0030e+01 MeV 
 # target                : Mo-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : B.D.Wilkins 
+# first author          : Wilkins 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,129,2198,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0741.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0741
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00300E+01      3.70000E-01      7.21000E-01      8.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0030E+01        3.7000E-01        7.2100E-01        8.6000E-02

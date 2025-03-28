@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14523-003-0 
-# EXFOR reaction        : ['7-N-14', ['N,A'], '5-B-11,,SIG'] 
+# EXFOR reaction        : (7-N-14(N,A)5-B-11,,SIG) 
 # incident energy       : 1.2950e+00 MeV - 1.6730e+00 MeV 
 # target                : N-14 
 # product               : B-11 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : H.H.Barschall 
+# first author          : Barschall 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,PR,70,245,1946) 
 # year                  : 1946 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/145/14523.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14523
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.29500E+00      0.00000E+00      1.60000E-02      4.00000E-03
-      1.49500E+00      0.00000E+00      9.10000E-02      2.27500E-02
-      1.58500E+00      0.00000E+00      3.50000E-02      8.75000E-03
-      1.67300E+00      0.00000E+00      3.50000E-02      8.75000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2950E+00        0.0000E+00        1.6000E-02        4.0000E-03
+        1.4950E+00        0.0000E+00        9.1000E-02        2.2750E-02
+        1.5850E+00        0.0000E+00        3.5000E-02        8.7500E-03
+        1.6730E+00        0.0000E+00        3.5000E-02        8.7500E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11108-004-0 
-# EXFOR reaction        : ['3-LI-6', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (3-LI-6(N,TOT),,SIG) 
 # incident energy       : 1.8100e+01 MeV - 2.7700e+01 MeV 
 # target                : Li-6 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : J.M.Peterson 
+# first author          : Peterson 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,120,521,196010) 
 # year                  : 1960 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/111/11108.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11108
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.81000E+01      2.71500E-01      1.24000E+00      2.00000E-02
-      2.04000E+01      0.00000E+00      1.15000E+00      1.00000E-02
-      2.53000E+01      0.00000E+00      1.01000E+00      1.00000E-02
-      2.77000E+01      1.93900E-01      9.40000E-01      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8100E+01        2.7150E-01        1.2400E+00        2.0000E-02
+        2.0400E+01        0.0000E+00        1.1500E+00        1.0000E-02
+        2.5300E+01        0.0000E+00        1.0100E+00        1.0000E-02
+        2.7700E+01        1.9390E-01        9.4000E-01        1.0000E-02

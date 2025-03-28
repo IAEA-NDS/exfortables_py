@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0299-013-1 
-# EXFOR reaction        : ['58-CE-142', ['P,2P'], '57-LA-141,,SIG'] 
+# EXFOR reaction        : (58-CE-142(P,2P)57-LA-141,,SIG) 
 # incident energy       : 2.5000e+02 MeV - 4.4000e+02 MeV 
 # target                : Ce-142 
 # product               : La-141 
 # level energy          : - 
 # MF-MT number          : 3 - 111 
-# first author          : P.P.Strohal 
+# first author          : Strohal 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,PR,121,1815,1961) 
 # year                  : 1961 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0299.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0299
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E+02      0.00000E+00      2.25000E-02      3.37500E-03
-      3.00000E+02      0.00000E+00      3.04000E-02      4.56000E-03
-      3.50000E+02      0.00000E+00      4.76000E-02      7.14000E-03
-      4.00000E+02      0.00000E+00      5.43000E-02      8.14500E-03
-      4.40000E+02      0.00000E+00      5.09000E-02      7.63500E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+02        0.0000E+00        2.2500E-02        3.3750E-03
+        3.0000E+02        0.0000E+00        3.0400E-02        4.5600E-03
+        3.5000E+02        0.0000E+00        4.7600E-02        7.1400E-03
+        4.0000E+02        0.0000E+00        5.4300E-02        8.1450E-03
+        4.4000E+02        0.0000E+00        5.0900E-02        7.6350E-03

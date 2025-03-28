@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41148-028-0 
-# EXFOR reaction        : ['63-EU-153', ['N,G'], '63-EU-154,,SIG,,MXW,DERIV'] 
+# EXFOR reaction        : (63-EU-153(N,G)63-EU-154,,SIG,,MXW,DERIV) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Eu-153 
 # product               : Eu-154 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.V.Bokhovko 
+# first author          : Bokhovko 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (R,FEI-2168,1991) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41148.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41148
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      2.44700E+00      7.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        2.4470E+00        7.3000E-02

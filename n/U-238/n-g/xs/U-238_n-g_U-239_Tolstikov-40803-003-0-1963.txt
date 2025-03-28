@@ -1,26 +1,26 @@
 # entry-subent-pointer  : 40803-003-0 
-# EXFOR reaction        : ['92-U-238', ['N,G'], '92-U-239,,SIG'] 
+# EXFOR reaction        : (92-U-238(N,G)92-U-239,,SIG) 
 # incident energy       : 1.5000e-02 MeV - 1.7000e-01 MeV 
 # target                : U-238 
 # product               : U-239 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.A.Tolstikov 
+# first author          : Tolstikov 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
-# reference             : (J,AE,15,(5),414,1963) 
+# reference             : (J,SJA,15,1170,1963) 
 # year                  : 1963 
 # facility              : (VDG): Van de Graaff 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40803.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40803
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E-02      0.00000E+00      6.00000E-01      0.00000E+00
-      2.00000E-02      0.00000E+00      5.40000E-01      0.00000E+00
-      2.35000E-02      0.00000E+00      5.30000E-01      0.00000E+00
-      2.90000E-02      0.00000E+00      5.20000E-01      0.00000E+00
-      3.80000E-02      0.00000E+00      4.90000E-01      0.00000E+00
-      4.80000E-02      0.00000E+00      4.00000E-01      0.00000E+00
-      5.40000E-02      0.00000E+00      2.90000E-01      0.00000E+00
-      7.00000E-02      0.00000E+00      2.70000E-01      0.00000E+00
-      1.60000E-01      0.00000E+00      1.60000E-01      0.00000E+00
-      1.70000E-01      0.00000E+00      1.40000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E-02        0.0000E+00        6.0000E-01        0.0000E+00
+        2.0000E-02        0.0000E+00        5.4000E-01        0.0000E+00
+        2.3500E-02        0.0000E+00        5.3000E-01        0.0000E+00
+        2.9000E-02        0.0000E+00        5.2000E-01        0.0000E+00
+        3.8000E-02        0.0000E+00        4.9000E-01        0.0000E+00
+        4.8000E-02        0.0000E+00        4.0000E-01        0.0000E+00
+        5.4000E-02        0.0000E+00        2.9000E-01        0.0000E+00
+        7.0000E-02        0.0000E+00        2.7000E-01        0.0000E+00
+        1.6000E-01        0.0000E+00        1.6000E-01        0.0000E+00
+        1.7000E-01        0.0000E+00        1.4000E-01        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23233-008-0 
-# EXFOR reaction        : ['42-MO-98', ['N,P'], '41-NB-98-M,,SIG'] 
+# EXFOR reaction        : (42-MO-98(N,P)41-NB-98-M,,SIG) 
 # incident energy       : 1.0960e+01 MeV - 1.4480e+01 MeV 
 # target                : Mo-98 
 # product               : Nb-98-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : V.Semkova 
+# first author          : Semkova 
 # institute             : (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
 # reference             : (J,EPJ/CS,66,03077,2014) 
 # year                  : 2014 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23233.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23233
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.44800E+01      1.10000E-01      4.95000E-03      2.00000E-04
-      1.30800E+01      1.10000E-01      2.70000E-03      2.00000E-04
-      1.17700E+01      1.10000E-01      9.20000E-04      9.00000E-05
-      1.09600E+01      1.10000E-01      3.20000E-04      8.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4480E+01        1.1000E-01        4.9500E-03        2.0000E-04
+        1.3080E+01        1.1000E-01        2.7000E-03        2.0000E-04
+        1.1770E+01        1.1000E-01        9.2000E-04        9.0000E-05
+        1.0960E+01        1.1000E-01        3.2000E-04        8.0000E-05

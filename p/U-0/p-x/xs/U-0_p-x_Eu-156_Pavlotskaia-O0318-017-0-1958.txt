@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0318-017-0 
-# EXFOR reaction        : ['92-U-0', ['P,X'], '63-EU-156,IND,SIG'] 
+# EXFOR reaction        : (92-U-0(P,X)63-EU-156,IND,SIG) 
 # incident energy       : 6.6000e+02 MeV 
 # target                : U-0 
 # product               : Eu-156 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.I.Pavlotskaia 
+# first author          : Pavlotskaia 
 # institute             : (4RUSGAC): Institute for Geo- and Analytical Chemistry, Moscow 
 # reference             : (J,ZET,34,1058,1958) 
 # year                  : 1958 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O03/O0318.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0318
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.60000E+02      0.00000E+00      2.00000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6000E+02        0.0000E+00        2.0000E-03        0.0000E+00

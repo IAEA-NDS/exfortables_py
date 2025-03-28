@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22546-006-0 
-# EXFOR reaction        : ['18-AR-0', ['N,ABS'], ',,SIG,,TMP,DERIV'] 
+# EXFOR reaction        : (18-AR-0(N,ABS),,SIG,,TMP,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ar-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 27 
-# first author          : T.Springer 
+# first author          : Springer 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (J,ZN/A,15,828,1960) 
 # year                  : 1960 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/225/22546.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22546
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      6.10000E-01      3.00000E-02
-      2.53000E-08      0.00000E+00      6.00000E-01      4.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        6.1000E-01        3.0000E-02
+        2.5300E-08        0.0000E+00        6.0000E-01        4.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22209-004-0 
-# EXFOR reaction        : ['22-TI-48', ['N,P'], '21-SC-48,,SIG'] 
+# EXFOR reaction        : (22-TI-48(N,P)21-SC-48,,SIG) 
 # incident energy       : 1.1000e+01 MeV - 1.2000e+01 MeV 
 # target                : Ti-48 
 # product               : Sc-48 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : Y.Ikeda 
+# first author          : Ikeda 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : ((S,JAERI-M-91-032,281,199103)=(S,NEANDC(J)-160,281,199103)=(S,INDC(JPN)-148,281,199103)) 
 # year                  : 1991 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22209.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22209
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.10000E+01      5.00000E-01      3.60000E-02      2.20000E-03
-      1.20000E+01      5.00000E-01      4.43000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1000E+01        5.0000E-01        3.6000E-02        2.2000E-03
+        1.2000E+01        5.0000E-01        4.4300E-02        2.0000E-03

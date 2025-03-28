@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40504-006-1 
-# EXFOR reaction        : ['94-PU-240', ['N,2N'], '94-PU-239-L,,SIG'] 
+# EXFOR reaction        : (94-PU-240(N,2N)94-PU-239-L,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Pu-240 
 # product               : Pu-239-L 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : Yu.P.Gangrskiy 
+# first author          : Gangrskiy 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : ((C,75KIEV,5,245,1975)=(S,INDC(CCP)-099,(5),245,1975)) 
 # year                  : 1975 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40504.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40504
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      0.00000E+00      2.40000E-04      6.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        0.0000E+00        2.4000E-04        6.0000E-05

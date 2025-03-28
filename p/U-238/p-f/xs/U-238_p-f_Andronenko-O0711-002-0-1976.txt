@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0711-002-0 
-# EXFOR reaction        : ['92-U-238', ['P,F'], ',,SIG'] 
+# EXFOR reaction        : (92-U-238(P,F),,SIG) 
 # incident energy       : 1.0000e+03 MeV 
 # target                : U-238 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : L.N.Andronenko 
+# first author          : Andronenko 
 # institute             : (4RUSLIN): Peterburgskiy Institute Yad.Fiz.,Russ.Ak.Nauk., Gatchina 
 # reference             : (J,YF,24,671,1976) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0711.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0711
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+03      0.00000E+00      1.14000E+00      6.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+03        0.0000E+00        1.1400E+00        6.5000E-02

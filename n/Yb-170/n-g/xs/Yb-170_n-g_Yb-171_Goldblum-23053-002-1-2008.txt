@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23053-002-1 
-# EXFOR reaction        : ['70-YB-170', ['N,G'], '70-YB-171,,SIG,,,DERIV'] 
+# EXFOR reaction        : (70-YB-170(N,G)70-YB-171,,SIG,,,DERIV) 
 # incident energy       : 2.2595e-01 MeV - 4.6660e-01 MeV 
 # target                : Yb-170 
 # product               : Yb-171 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : B.L.Goldblum 
+# first author          : Goldblum 
 # institute             : (2NOROSL): University of Oslo, Oslo 
 # reference             : (J,PR/C,78,064606,2008) 
 # year                  : 2008 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23053.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23053
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.25950E-01      4.85980E-04      3.24910E-01      6.09600E-02
-      3.47120E-01      4.85980E-04      3.18200E-01      8.58500E-02
-      4.66600E-01      4.85980E-04      3.33240E-01      1.12500E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2595E-01        4.8598E-04        3.2491E-01        6.0960E-02
+        3.4712E-01        4.8598E-04        3.1820E-01        8.5850E-02
+        4.6660E-01        4.8598E-04        3.3324E-01        1.1250E-01

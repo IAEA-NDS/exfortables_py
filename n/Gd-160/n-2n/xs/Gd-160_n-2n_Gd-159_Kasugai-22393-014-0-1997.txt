@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22393-014-0 
-# EXFOR reaction        : ['64-GD-160', ['N,2N'], '64-GD-159,,SIG'] 
+# EXFOR reaction        : (64-GD-160(N,2N)64-GD-159,,SIG) 
 # incident energy       : 1.3380e+01 MeV - 1.4950e+01 MeV 
 # target                : Gd-160 
 # product               : Gd-159 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : Y.Kasugai 
+# first author          : Kasugai 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (C,97TRIEST,1,635,199705) 
 # year                  : 1997 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22393.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22393
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.33800E+01      0.00000E+00      1.88500E+00      4.80000E-01
-      1.37000E+01      0.00000E+00      2.15300E+00      5.50000E-01
-      1.40300E+01      0.00000E+00      1.96300E+00      5.00000E-01
-      1.43600E+01      0.00000E+00      2.07500E+00      5.30000E-01
-      1.46600E+01      0.00000E+00      2.08700E+00      5.30000E-01
-      1.49500E+01      0.00000E+00      1.97900E+00      5.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3380E+01        0.0000E+00        1.8850E+00        4.8000E-01
+        1.3700E+01        0.0000E+00        2.1530E+00        5.5000E-01
+        1.4030E+01        0.0000E+00        1.9630E+00        5.0000E-01
+        1.4360E+01        0.0000E+00        2.0750E+00        5.3000E-01
+        1.4660E+01        0.0000E+00        2.0870E+00        5.3000E-01
+        1.4950E+01        0.0000E+00        1.9790E+00        5.0000E-01

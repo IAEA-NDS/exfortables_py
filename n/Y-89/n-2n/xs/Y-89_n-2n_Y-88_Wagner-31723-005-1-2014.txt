@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31723-005-1 
-# EXFOR reaction        : ['39-Y-89', ['N,2N'], '39-Y-88,,SIG'] 
+# EXFOR reaction        : (39-Y-89(N,2N)39-Y-88,,SIG) 
 # incident energy       : 1.7400e+01 MeV - 3.3500e+01 MeV 
 # target                : Y-89 
 # product               : Y-88 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : V.Wagner 
+# first author          : Wagner 
 # institute             : (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
 # reference             : (J,JP/CS,533,012052,2014) 
 # year                  : 2014 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31723.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31723
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.74000E+01      5.00000E-01      1.42000E+00      1.40000E-01
-      2.45000E+01      7.00000E-01      9.80000E-01      1.00000E-01
-      2.87000E+01      6.00000E-01      4.90000E-01      5.00000E-02
-      3.25000E+01      6.00000E-01      3.10000E-01      1.10000E-01
-      3.35000E+01      5.00000E-01      3.40000E-01      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7400E+01        5.0000E-01        1.4200E+00        1.4000E-01
+        2.4500E+01        7.0000E-01        9.8000E-01        1.0000E-01
+        2.8700E+01        6.0000E-01        4.9000E-01        5.0000E-02
+        3.2500E+01        6.0000E-01        3.1000E-01        1.1000E-01
+        3.3500E+01        5.0000E-01        3.4000E-01        3.0000E-02

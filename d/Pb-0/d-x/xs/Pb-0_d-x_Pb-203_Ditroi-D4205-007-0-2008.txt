@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4205-007-0 
-# EXFOR reaction        : ['82-PB-0', ['D,X'], '82-PB-203,CUM,SIG'] 
+# EXFOR reaction        : (82-PB-0(D,X)82-PB-203,CUM,SIG) 
 # incident energy       : 1.2600e+01 MeV - 3.7500e+01 MeV 
 # target                : Pb-0 
 # product               : Pb-203 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Ditroi 
+# first author          : Ditroi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,JRN,276,835,2008) 
 # year                  : 2008 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4205.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4205
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.75000E+01      3.00000E-01      7.94000E-02      8.90000E-03
-      3.48000E+01      4.00000E-01      2.25000E-02      2.50000E-03
-      3.19000E+01      4.00000E-01      1.80000E-02      2.00000E-03
-      2.89000E+01      6.00000E-01      2.48000E-02      2.80000E-03
-      2.55000E+01      7.00000E-01      2.64000E-02      3.00000E-03
-      2.19000E+01      8.00000E-01      1.69000E-02      1.90000E-03
-      1.77000E+01      1.00000E+00      1.90000E-03      2.00000E-04
-      1.26000E+01      1.30000E+00      2.00000E-05      4.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.7500E+01        3.0000E-01        7.9400E-02        8.9000E-03
+        3.4800E+01        4.0000E-01        2.2500E-02        2.5000E-03
+        3.1900E+01        4.0000E-01        1.8000E-02        2.0000E-03
+        2.8900E+01        6.0000E-01        2.4800E-02        2.8000E-03
+        2.5500E+01        7.0000E-01        2.6400E-02        3.0000E-03
+        2.1900E+01        8.0000E-01        1.6900E-02        1.9000E-03
+        1.7700E+01        1.0000E+00        1.9000E-03        2.0000E-04
+        1.2600E+01        1.3000E+00        2.0000E-05        4.0000E-05

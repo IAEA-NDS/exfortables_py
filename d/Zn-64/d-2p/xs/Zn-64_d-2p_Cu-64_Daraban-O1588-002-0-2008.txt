@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1588-002-0 
-# EXFOR reaction        : ['30-ZN-64', ['D,2P'], '29-CU-64,,SIG'] 
+# EXFOR reaction        : (30-ZN-64(D,2P)29-CU-64,,SIG) 
 # incident energy       : 1.2900e+01 MeV - 1.8200e+01 MeV 
 # target                : Zn-64 
 # product               : Cu-64 
 # level energy          : - 
 # MF-MT number          : 3 - 111 
-# first author          : L.Daraban 
+# first author          : Daraban 
 # institute             : (3RUMBBU): Babes-Bolyai University, Cluj 
 # reference             : (J,ARI,66,261,2008) 
 # year                  : 2008 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O15/O1588.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1588
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.82000E+01      2.00000E-01      3.66000E-02      7.40000E-03
-      1.74000E+01      3.00000E-01      4.79000E-02      9.10000E-03
-      1.57000E+01      5.00000E-01      2.62000E-02      5.70000E-03
-      1.38000E+01      9.00000E-01      2.11000E-02      4.60000E-03
-      1.29000E+01      1.00000E+00      1.54000E-02      3.70000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8200E+01        2.0000E-01        3.6600E-02        7.4000E-03
+        1.7400E+01        3.0000E-01        4.7900E-02        9.1000E-03
+        1.5700E+01        5.0000E-01        2.6200E-02        5.7000E-03
+        1.3800E+01        9.0000E-01        2.1100E-02        4.6000E-03
+        1.2900E+01        1.0000E+00        1.5400E-02        3.7000E-03

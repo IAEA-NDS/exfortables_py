@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14322-016-0 
-# EXFOR reaction        : ['38-SR-88', ['N,G'], '38-SR-89,,SIG,,MXW'] 
+# EXFOR reaction        : (38-SR-88(N,G)38-SR-89,,SIG,,MXW) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Sr-88 
 # product               : Sr-89 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.L.Macklin 
+# first author          : Macklin 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,AJ,149,577,1967) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/143/14322.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14322
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      6.90000E-02      1.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        6.9000E-02        1.7000E-02

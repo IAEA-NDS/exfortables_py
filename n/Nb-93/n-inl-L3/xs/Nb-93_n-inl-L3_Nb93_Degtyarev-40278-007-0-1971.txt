@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40278-007-0 
-# EXFOR reaction        : ['41-NB-93', ['N,INL'], '41-NB-93,PAR,SIG'] 
+# EXFOR reaction        : (41-NB-93(N,INL)41-NB-93,PAR,SIG) 
 # incident energy       : 1.0000e+00 MeV - 3.4000e+00 MeV 
 # target                : Nb-93 
 # product               : Nb-93 
 # level energy          : 7.4500e-01 MeV 
 # MF-MT number          : 3 - 53 
-# first author          : Yu.G.Degtyarev 
+# first author          : Degtyarev 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (J,IZV,35,(11),2341,197111) 
 # year                  : 1971 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40278.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40278
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      5.71000E-01      2.50000E-02
-      1.40000E+00      0.00000E+00      4.12000E-01      2.30000E-02
-      1.80000E+00      0.00000E+00      2.88000E-01      2.30000E-02
-      2.20000E+00      0.00000E+00      3.00000E-01      2.30000E-02
-      2.60000E+00      0.00000E+00      1.64000E-01      2.40000E-02
-      3.00000E+00      0.00000E+00      2.00000E-01      3.00000E-02
-      3.40000E+00      0.00000E+00      2.76000E-01      3.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        5.7100E-01        2.5000E-02
+        1.4000E+00        0.0000E+00        4.1200E-01        2.3000E-02
+        1.8000E+00        0.0000E+00        2.8800E-01        2.3000E-02
+        2.2000E+00        0.0000E+00        3.0000E-01        2.3000E-02
+        2.6000E+00        0.0000E+00        1.6400E-01        2.4000E-02
+        3.0000E+00        0.0000E+00        2.0000E-01        3.0000E-02
+        3.4000E+00        0.0000E+00        2.7600E-01        3.7000E-02

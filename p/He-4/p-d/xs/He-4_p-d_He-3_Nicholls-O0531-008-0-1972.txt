@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0531-008-0 
-# EXFOR reaction        : ['2-HE-4', ['P,D'], '2-HE-3,,SIG,,,DERIV'] 
+# EXFOR reaction        : (2-HE-4(P,D)2-HE-3,,SIG,,,DERIV) 
 # incident energy       : 1.4100e+02 MeV 
 # target                : He-4 
 # product               : He-3 
 # level energy          : - 
 # MF-MT number          : 3 - 104 
-# first author          : J.E.Nicholls 
+# first author          : Nicholls 
 # institute             : (2UK LON): University of London, London, England 
 # reference             : (J,NP/A,181,329,1972) 
 # year                  : 1972 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0531.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0531
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+02      2.00000E+00      3.20000E-03      8.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+02        2.0000E+00        3.2000E-03        8.0000E-04

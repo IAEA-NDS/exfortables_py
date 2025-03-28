@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23065-003-0 
-# EXFOR reaction        : ['34-SE-77', ['N,G'], '34-SE-78,,SIG,,SPA'] 
+# EXFOR reaction        : (34-SE-77(N,G)34-SE-78,,SIG,,SPA) 
 # incident energy       : 2.0000e-02 MeV - 5.1000e-01 MeV 
 # target                : Se-77 
 # product               : Se-78 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.Igashira 
+# first author          : Igashira 
 # institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
 # reference             : (J,KPS,59,1665,2011) 
 # year                  : 2011 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23065.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23065
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-02      0.00000E+00      6.19000E-01      2.41410E-02
-      3.00000E-02      0.00000E+00      5.14000E-01      2.00460E-02
-      4.50000E-02      0.00000E+00      4.20000E-01      1.55400E-02
-      7.75000E-02      0.00000E+00      3.26000E-01      1.20620E-02
-      5.10000E-01      8.10000E-02      4.40000E-02      2.11200E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-02        0.0000E+00        6.1900E-01        2.4141E-02
+        3.0000E-02        0.0000E+00        5.1400E-01        2.0046E-02
+        4.5000E-02        0.0000E+00        4.2000E-01        1.5540E-02
+        7.7500E-02        0.0000E+00        3.2600E-01        1.2062E-02
+        5.1000E-01        8.1000E-02        4.4000E-02        2.1120E-03

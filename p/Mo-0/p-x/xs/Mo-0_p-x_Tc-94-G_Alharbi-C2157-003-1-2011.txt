@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2157-003-1 
-# EXFOR reaction        : ['42-MO-0', ['P,X'], '43-TC-94-G,,SIG'] 
+# EXFOR reaction        : (42-MO-0(P,X)43-TC-94-G,,SIG) 
 # incident energy       : 1.8000e+01 MeV - 3.9000e+01 MeV 
 # target                : Mo-0 
 # product               : Tc-94-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.A.Alharbi 
+# first author          : Alharbi 
 # institute             : (3SARSAR): Saudi Arabia 
 # reference             : (B,SINGH2011,,3,2011) 
 # year                  : 2011 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C21/C2157.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2157
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.80000E+01      5.00000E-01      7.20000E-02      7.00000E-03
-      2.00000E+01      5.00000E-01      7.40000E-02      7.00000E-03
-      2.20000E+01      5.00000E-01      7.20000E-02      7.00000E-03
-      2.50000E+01      4.00000E-01      7.70000E-02      7.00000E-03
-      2.70000E+01      4.00000E-01      7.50000E-02      6.00000E-03
-      3.00000E+01      4.00000E-01      7.70000E-02      6.00000E-03
-      3.50000E+01      3.00000E-01      7.50000E-02      7.00000E-03
-      3.90000E+01      3.00000E-01      6.20000E-02      6.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8000E+01        5.0000E-01        7.2000E-02        7.0000E-03
+        2.0000E+01        5.0000E-01        7.4000E-02        7.0000E-03
+        2.2000E+01        5.0000E-01        7.2000E-02        7.0000E-03
+        2.5000E+01        4.0000E-01        7.7000E-02        7.0000E-03
+        2.7000E+01        4.0000E-01        7.5000E-02        6.0000E-03
+        3.0000E+01        4.0000E-01        7.7000E-02        6.0000E-03
+        3.5000E+01        3.0000E-01        7.5000E-02        7.0000E-03
+        3.9000E+01        3.0000E-01        6.2000E-02        6.0000E-03

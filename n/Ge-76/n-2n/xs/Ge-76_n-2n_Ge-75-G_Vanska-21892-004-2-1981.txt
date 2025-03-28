@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21892-004-2 
-# EXFOR reaction        : ['32-GE-76', ['N,2N'], '32-GE-75-G,,SIG'] 
+# EXFOR reaction        : (32-GE-76(N,2N)32-GE-75-G,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Ge-76 
 # product               : Ge-75-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : R.Vanska 
+# first author          : Vanska 
 # institute             : (2SF OUL): University of Oulu, Oulu 
 # reference             : (J,NIM,179,525,1981) 
 # year                  : 1981 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21892.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21892
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      3.00000E-01      5.60000E-01      7.00000E-02
-      1.47000E+01      3.00000E-01      5.00000E-01      6.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        5.6000E-01        7.0000E-02
+        1.4700E+01        3.0000E-01        5.0000E-01        6.0000E-02

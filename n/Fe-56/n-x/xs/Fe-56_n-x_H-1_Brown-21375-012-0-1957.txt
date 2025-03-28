@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21375-012-0 
-# EXFOR reaction        : ['26-FE-56', ['N,X'], '1-H-1,,SIG'] 
+# EXFOR reaction        : (26-FE-56(N,X)1-H-1,,SIG) 
 # incident energy       : 1.3200e+01 MeV 
 # target                : Fe-56 
 # product               : H-1 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : G.Brown 
+# first author          : Brown 
 # institute             : (2UK GLS): University of Glasgow, Glasgow, Scotland 
 # reference             : (J,PM,2,785,1957) 
 # year                  : 1957 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21375.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21375
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.32000E+01      2.00000E-01      1.20000E-01      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3200E+01        2.0000E-01        1.2000E-01        3.0000E-02

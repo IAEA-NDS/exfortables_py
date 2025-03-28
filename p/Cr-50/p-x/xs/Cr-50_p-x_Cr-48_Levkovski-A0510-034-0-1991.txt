@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0510-034-0 
-# EXFOR reaction        : ['24-CR-50', ['P,X'], '24-CR-48,,SIG'] 
+# EXFOR reaction        : (24-CR-50(P,X)24-CR-48,,SIG) 
 # incident energy       : 2.6600e+01 MeV - 2.9500e+01 MeV 
 # target                : Cr-50 
 # product               : Cr-48 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : V.N.Levkovski 
+# first author          : Levkovski 
 # institute             : (4KASKAZ): Institute Yadernoi Fiziki, Almaty 
 # reference             : (B,LEVKOVSKIJ,,,1991) 
 # year                  : 1991 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0510.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0510
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.66000E+01      0.00000E+00      1.80000E-03      1.80000E-04
-      2.76000E+01      0.00000E+00      2.40000E-03      2.40000E-04
-      2.85000E+01      0.00000E+00      3.60000E-03      3.60000E-04
-      2.95000E+01      0.00000E+00      5.20000E-03      5.20000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6600E+01        0.0000E+00        1.8000E-03        1.8000E-04
+        2.7600E+01        0.0000E+00        2.4000E-03        2.4000E-04
+        2.8500E+01        0.0000E+00        3.6000E-03        3.6000E-04
+        2.9500E+01        0.0000E+00        5.2000E-03        5.2000E-04

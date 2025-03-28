@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22784-002-0 
-# EXFOR reaction        : ['60-ND-143', ['N,G'], '60-ND-144,,SIG,,AV'] 
+# EXFOR reaction        : (60-ND-143(N,G)60-ND-144,,SIG,,AV) 
 # incident energy       : 1.9500e-02 MeV - 7.2500e-02 MeV 
 # target                : Nd-143 
 # product               : Nd-144 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : T.Veerapaspong 
+# first author          : Veerapaspong 
 # institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
 # reference             : (J,NST,36,(10),855,199910) 
 # year                  : 1999 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22784.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22784
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.95000E-02      0.00000E+00      2.96000E-01      1.30000E-02
-      3.00000E-02      0.00000E+00      2.26000E-01      1.00000E-02
-      4.50000E-02      0.00000E+00      1.81000E-01      7.00000E-03
-      7.25000E-02      0.00000E+00      1.47000E-01      6.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9500E-02        0.0000E+00        2.9600E-01        1.3000E-02
+        3.0000E-02        0.0000E+00        2.2600E-01        1.0000E-02
+        4.5000E-02        0.0000E+00        1.8100E-01        7.0000E-03
+        7.2500E-02        0.0000E+00        1.4700E-01        6.0000E-03

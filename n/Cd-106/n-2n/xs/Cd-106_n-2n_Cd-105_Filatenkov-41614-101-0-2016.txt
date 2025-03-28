@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41614-101-0 
-# EXFOR reaction        : ['48-CD-106', ['N,2N'], '48-CD-105,,SIG'] 
+# EXFOR reaction        : (48-CD-106(N,2N)48-CD-105,,SIG) 
 # incident energy       : 1.3470e+01 MeV - 1.4860e+01 MeV 
 # target                : Cd-106 
 # product               : Cd-105 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,INDC(CCP)-0460,2016) 
 # year                  : 2016 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34700E+01      0.00000E+00      3.98000E-01      3.66956E-02
-      1.36400E+01      0.00000E+00      4.41000E-01      4.41000E-02
-      1.38800E+01      0.00000E+00      4.57000E-01      4.19526E-02
-      1.40500E+01      0.00000E+00      4.85000E-01      3.98185E-02
-      1.42800E+01      0.00000E+00      4.78000E-01      4.78000E-02
-      1.44700E+01      0.00000E+00      5.45000E-01      5.35190E-02
-      1.46800E+01      0.00000E+00      5.21000E-01      4.22010E-02
-      1.48100E+01      0.00000E+00      5.43000E-01      4.42002E-02
-      1.48600E+01      0.00000E+00      5.59000E-01      5.81360E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3470E+01        0.0000E+00        3.9800E-01        3.6696E-02
+        1.3640E+01        0.0000E+00        4.4100E-01        4.4100E-02
+        1.3880E+01        0.0000E+00        4.5700E-01        4.1953E-02
+        1.4050E+01        0.0000E+00        4.8500E-01        3.9818E-02
+        1.4280E+01        0.0000E+00        4.7800E-01        4.7800E-02
+        1.4470E+01        0.0000E+00        5.4500E-01        5.3519E-02
+        1.4680E+01        0.0000E+00        5.2100E-01        4.2201E-02
+        1.4810E+01        0.0000E+00        5.4300E-01        4.4200E-02
+        1.4860E+01        0.0000E+00        5.5900E-01        5.8136E-02

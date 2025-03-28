@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30143-003-0 
-# EXFOR reaction        : ['13-AL-27', ['N,P'], '12-MG-27,,SIG,,FIS'] 
+# EXFOR reaction        : (13-AL-27(N,P)12-MG-27,,SIG,,FIS) 
 # incident energy       : 1.0000e+00 MeV 
 # target                : Al-27 
 # product               : Mg-27 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : J.W.Boldeman 
+# first author          : Boldeman 
 # institute             : (3AULAUA): Australian Nuclear Sci.and Techn.Org., Lucas Heights,NSW 
 # reference             : (J,JNE/AB,18,(8),417,196408) 
 # year                  : 1964 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30143.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30143
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      2.90000E-03      5.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        2.9000E-03        5.0000E-04

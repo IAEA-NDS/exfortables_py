@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D7007-002-0 
-# EXFOR reaction        : ['26-FE-0', ['P,X'], '24-CR-51,CUM,SIG'] 
+# EXFOR reaction        : (26-FE-0(P,X)24-CR-51,CUM,SIG) 
 # incident energy       : 3.2460e+01 MeV - 4.0300e+01 MeV 
 # target                : Fe-0 
 # product               : Cr-51 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : K.S.Kim 
+# first author          : Kim 
 # institute             : (3MALMAL): Malaysia 
 # reference             : (J,NIM/B,322,63,2014) 
 # year                  : 2014 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D70/D7007.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D7007
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.03000E+01      3.80000E-01      9.01000E-02      4.05000E-03
-      3.95200E+01      4.00000E-01      7.94000E-02      3.61000E-03
-      3.87100E+01      4.00000E-01      7.58000E-02      3.47000E-03
-      3.69800E+01      4.30000E-01      5.45000E-02      2.69000E-03
-      3.61200E+01      4.30000E-01      4.20000E-02      2.23000E-03
-      3.52500E+01      4.40000E-01      3.18000E-02      1.84000E-03
-      3.33900E+01      4.60000E-01      1.64000E-02      1.39000E-03
-      3.24600E+01      4.70000E-01      1.24000E-02      1.61000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0300E+01        3.8000E-01        9.0100E-02        4.0500E-03
+        3.9520E+01        4.0000E-01        7.9400E-02        3.6100E-03
+        3.8710E+01        4.0000E-01        7.5800E-02        3.4700E-03
+        3.6980E+01        4.3000E-01        5.4500E-02        2.6900E-03
+        3.6120E+01        4.3000E-01        4.2000E-02        2.2300E-03
+        3.5250E+01        4.4000E-01        3.1800E-02        1.8400E-03
+        3.3390E+01        4.6000E-01        1.6400E-02        1.3900E-03
+        3.2460E+01        4.7000E-01        1.2400E-02        1.6100E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21742-002-0 
-# EXFOR reaction        : ['3-LI-7', ['N,N+T'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (3-LI-7(N,N+T)2-HE-4,,SIG) 
 # incident energy       : 5.4700e+00 MeV - 1.1760e+01 MeV 
 # target                : Li-7 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 33 
-# first author          : M.T.Swinhoe 
+# first author          : Swinhoe 
 # institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 # reference             : (R,AERE-R-9929,198009) 
 # year                  : 1980 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21742.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21742
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.47000E+00      7.20000E-01      2.82000E-01      2.70000E-02
-      7.35000E+00      4.10000E-01      3.22000E-01      2.60000E-02
-      9.72000E+00      3.90000E-01      3.10000E-01      2.10000E-02
-      9.77000E+00      2.60000E-01      3.14000E-01      1.90000E-02
-      1.17600E+01      2.20000E-01      2.89000E-01      1.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.4700E+00        7.2000E-01        2.8200E-01        2.7000E-02
+        7.3500E+00        4.1000E-01        3.2200E-01        2.6000E-02
+        9.7200E+00        3.9000E-01        3.1000E-01        2.1000E-02
+        9.7700E+00        2.6000E-01        3.1400E-01        1.9000E-02
+        1.1760E+01        2.2000E-01        2.8900E-01        1.5000E-02

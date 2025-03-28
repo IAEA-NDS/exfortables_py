@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10409-004-0 
-# EXFOR reaction        : ['40-ZR-94', ['N,INL'], '40-ZR-94,PAR,SIG'] 
+# EXFOR reaction        : (40-ZR-94(N,INL)40-ZR-94,PAR,SIG) 
 # incident energy       : 3.1000e+00 MeV 
 # target                : Zr-94 
 # product               : Zr-94 
 # level energy          : 1.4688e+00 MeV 
 # MF-MT number          : 3 - 53 
-# first author          : G.P.Glasgow 
+# first author          : Glasgow 
 # institute             : (1USAKTY): University of Kentucky, Lexington, KY 
 # reference             : (J,PR/C,18,2520,197812) 
 # year                  : 1978 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10409.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10409
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.10000E+00      0.00000E+00      1.83000E-01      1.80000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.1000E+00        0.0000E+00        1.8300E-01        1.8000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21266-007-0 
-# EXFOR reaction        : ['29-CU-63', ['N,2N'], '29-CU-62,,SIG'] 
+# EXFOR reaction        : (29-CU-63(N,2N)29-CU-62,,SIG) 
 # incident energy       : 1.4130e+01 MeV 
 # target                : Cu-63 
 # product               : Cu-62 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : M.Cevolani 
+# first author          : Cevolani 
 # institute             : (2ITYBOL): ENEA Centro Ricerche Energia di Bologna 
 # reference             : (J,NC,26,1328,6212) 
 # year                  : 1962 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21266.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21266
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41300E+01      1.00000E-01      4.09000E-01      2.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4130E+01        1.0000E-01        4.0900E-01        2.5000E-02

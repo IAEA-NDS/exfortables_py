@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0904-101-0 
-# EXFOR reaction        : ['74-W-0', ['P,X'], '47-AG-105,CUM,SIG'] 
+# EXFOR reaction        : (74-W-0(P,X)47-AG-105,CUM,SIG) 
 # incident energy       : 6.0000e+02 MeV - 2.6050e+03 MeV 
 # target                : W-0 
 # product               : Ag-105 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Yu.E.Titarenko 
+# first author          : Titarenko 
 # institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
 # reference             : (J,PAN,74,551,2011) 
 # year                  : 2011 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0904.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0904
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+02      2.00000E+00      2.91000E-04      5.80000E-05
-      7.99000E+02      2.00000E+00      3.25000E-04      5.10000E-05
-      1.19900E+03      3.00000E+00      9.20000E-04      1.10000E-04
-      1.59900E+03      4.00000E+00      1.97000E-03      2.30000E-04
-      2.60500E+03      8.00000E+00      5.21000E-03      4.90000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+02        2.0000E+00        2.9100E-04        5.8000E-05
+        7.9900E+02        2.0000E+00        3.2500E-04        5.1000E-05
+        1.1990E+03        3.0000E+00        9.2000E-04        1.1000E-04
+        1.5990E+03        4.0000E+00        1.9700E-03        2.3000E-04
+        2.6050E+03        8.0000E+00        5.2100E-03        4.9000E-04

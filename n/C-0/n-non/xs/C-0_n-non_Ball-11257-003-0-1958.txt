@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11257-003-0 
-# EXFOR reaction        : ['6-C-0', ['N,NON'], ',,SIG'] 
+# EXFOR reaction        : (6-C-0(N,NON),,SIG) 
 # incident energy       : 7.0000e+00 MeV - 1.4200e+01 MeV 
 # target                : C-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : W.P.Ball 
+# first author          : Ball 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,110,1392,1958) 
 # year                  : 1958 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11257.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11257
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.00000E+00      0.00000E+00      1.80000E-01      3.00000E-02
-      1.42000E+01      0.00000E+00      5.50000E-01      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0000E+00        0.0000E+00        1.8000E-01        3.0000E-02
+        1.4200E+01        0.0000E+00        5.5000E-01        3.0000E-02

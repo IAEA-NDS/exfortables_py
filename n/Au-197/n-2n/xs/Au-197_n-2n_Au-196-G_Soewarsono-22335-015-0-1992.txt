@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22335-015-0 
-# EXFOR reaction        : ['79-AU-197', ['N,2N'], '79-AU-196-G,,SIG'] 
+# EXFOR reaction        : (79-AU-197(N,2N)79-AU-196-G,,SIG) 
 # incident energy       : 1.7550e+01 MeV - 3.8260e+01 MeV 
 # target                : Au-197 
 # product               : Au-196-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : T.S.Soewarsono 
+# first author          : Soewarsono 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (S,JAERI-M-92-027,354,1992) 
 # year                  : 1992 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22335.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22335
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.75500E+01      2.24000E+00      1.47000E+00      1.30000E-01
-      2.18000E+01      1.91000E+00      5.51000E-01      1.16000E-01
-      2.75800E+01      1.64000E+00      2.83000E-01      1.25000E-01
-      3.28000E+01      1.44000E+00      1.46000E-01      1.85000E-01
-      3.82600E+01      1.22000E+00      5.11000E-01      2.86000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7550E+01        2.2400E+00        1.4700E+00        1.3000E-01
+        2.1800E+01        1.9100E+00        5.5100E-01        1.1600E-01
+        2.7580E+01        1.6400E+00        2.8300E-01        1.2500E-01
+        3.2800E+01        1.4400E+00        1.4600E-01        1.8500E-01
+        3.8260E+01        1.2200E+00        5.1100E-01        2.8600E-01

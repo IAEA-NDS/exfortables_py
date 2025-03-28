@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20797-005-0 
-# EXFOR reaction        : ['37-RB-87', ['N,2N'], '37-RB-86,,SIG'] 
+# EXFOR reaction        : (37-RB-87(N,2N)37-RB-86,,SIG) 
 # incident energy       : 1.3380e+01 MeV - 1.7120e+01 MeV 
 # target                : Rb-87 
 # product               : Rb-86 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : M.Bormann 
+# first author          : Bormann 
 # institute             : (2GERHAM): Hamburg, Universitaet 
 # reference             : (P,EANDC(E)-150,30,7210) 
 # year                  : 1972 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20797.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20797
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.33800E+01      1.20000E-01      1.45300E+00      2.17000E-01
-      1.45600E+01      1.50000E-01      1.83200E+00      2.76000E-01
-      1.56200E+01      1.60000E-01      1.99800E+00      7.20000E-01
-      1.71200E+01      1.50000E-01      1.73100E+00      3.01000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3380E+01        1.2000E-01        1.4530E+00        2.1700E-01
+        1.4560E+01        1.5000E-01        1.8320E+00        2.7600E-01
+        1.5620E+01        1.6000E-01        1.9980E+00        7.2000E-01
+        1.7120E+01        1.5000E-01        1.7310E+00        3.0100E-01

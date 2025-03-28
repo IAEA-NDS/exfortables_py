@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21846-027-0 
-# EXFOR reaction        : ['20-CA-40', ['N,P'], '19-K-40,,SIG'] 
+# EXFOR reaction        : (20-CA-40(N,P)19-K-40,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Ca-40 
 # product               : K-40 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : W.Schantl 
+# first author          : Schantl 
 # institute             : (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
 # reference             : (T,SCHANTL,1970) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21846.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21846
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      1.50000E-01      4.92000E-01      4.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        1.5000E-01        4.9200E-01        4.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30545-004-0 
-# EXFOR reaction        : ['76-OS-186', ['N,2N'], '76-OS-185,,SIG'] 
+# EXFOR reaction        : (76-OS-186(N,2N)76-OS-185,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Os-186 
 # product               : Os-185 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : P.Bornemisza-Pauspertl 
+# first author          : Bornemisza-Pauspertl 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,RCA,27,71,1980) 
 # year                  : 1980 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30545.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30545
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      2.00000E-01      2.00400E+00      1.20000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        2.0000E-01        2.0040E+00        1.2000E-01

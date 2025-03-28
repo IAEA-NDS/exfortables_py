@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M1019-005-0 
-# EXFOR reaction        : ['72-HF-179', ['G,INL'], '72-HF-179-M2,,SIG,,BRA'] 
+# EXFOR reaction        : (72-HF-179(G,INL)72-HF-179-M2,,SIG,,BRA) 
 # incident energy       : 2.0000e+01 MeV 
 # target                : Hf-179 
 # product               : Hf-179-M2 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : V.A.Zheltonozhsky 
+# first author          : Zheltonozhsky 
 # institute             : (4RUSMOS): Moscow State University , Moscow 
 # reference             : (J,YF,83,303,2020) 
 # year                  : 2020 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M10/M1019.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M1019
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+01      0.00000E+00      3.80000E-06      1.20000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+01        0.0000E+00        3.8000E-06        1.2000E-06

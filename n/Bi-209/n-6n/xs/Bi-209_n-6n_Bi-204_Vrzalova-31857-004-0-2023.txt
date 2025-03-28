@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31857-004-0 
-# EXFOR reaction        : ['83-BI-209', ['N,6N'], '83-BI-204,,SIG'] 
+# EXFOR reaction        : (83-BI-209(N,6N)83-BI-204,,SIG) 
 # incident energy       : 4.7000e+01 MeV - 9.4000e+01 MeV 
 # target                : Bi-209 
 # product               : Bi-204 
 # level energy          : - 
 # MF-MT number          : 3 - 153 
-# first author          : J.Vrzalova 
+# first author          : Vrzalova 
 # institute             : (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
 # reference             : (J,NP/A,1031,122593,2023) 
 # year                  : 2023 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31857.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31857
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.70000E+01      6.00000E-01      1.24000E-01      1.80000E-02
-      5.90000E+01      4.00000E-01      3.70000E-01      5.00000E-02
-      6.64000E+01      4.00000E-01      1.70000E-01      2.50000E-02
-      7.28000E+01      4.00000E-01      1.30000E-01      1.90000E-02
-      8.93000E+01      7.00000E-01      1.10000E-01      1.60000E-02
-      9.40000E+01      7.00000E-01      1.11000E-01      1.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.7000E+01        6.0000E-01        1.2400E-01        1.8000E-02
+        5.9000E+01        4.0000E-01        3.7000E-01        5.0000E-02
+        6.6400E+01        4.0000E-01        1.7000E-01        2.5000E-02
+        7.2800E+01        4.0000E-01        1.3000E-01        1.9000E-02
+        8.9300E+01        7.0000E-01        1.1000E-01        1.6000E-02
+        9.4000E+01        7.0000E-01        1.1100E-01        1.6000E-02

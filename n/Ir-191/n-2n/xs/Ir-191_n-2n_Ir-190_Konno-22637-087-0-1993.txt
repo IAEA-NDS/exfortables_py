@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22637-087-0 
-# EXFOR reaction        : ['77-IR-191', ['N,2N'], '77-IR-190,,SIG'] 
+# EXFOR reaction        : (77-IR-191(N,2N)77-IR-190,,SIG) 
 # incident energy       : 1.3330e+01 MeV - 1.4930e+01 MeV 
 # target                : Ir-191 
 # product               : Ir-190 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : C.Konno 
+# first author          : Konno 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (R,JAERI-1329,1993) 
 # year                  : 1993 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22637.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22637
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49300E+01      0.00000E+00      1.81000E+00      2.00000E-01
-      1.46600E+01      0.00000E+00      1.76000E+00      2.00000E-01
-      1.44300E+01      0.00000E+00      1.73000E+00      1.90000E-01
-      1.42200E+01      0.00000E+00      1.75000E+00      2.00000E-01
-      1.39800E+01      0.00000E+00      1.79000E+00      2.00000E-01
-      1.35600E+01      0.00000E+00      1.76000E+00      2.00000E-01
-      1.33300E+01      0.00000E+00      1.79000E+00      2.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4930E+01        0.0000E+00        1.8100E+00        2.0000E-01
+        1.4660E+01        0.0000E+00        1.7600E+00        2.0000E-01
+        1.4430E+01        0.0000E+00        1.7300E+00        1.9000E-01
+        1.4220E+01        0.0000E+00        1.7500E+00        2.0000E-01
+        1.3980E+01        0.0000E+00        1.7900E+00        2.0000E-01
+        1.3560E+01        0.0000E+00        1.7600E+00        2.0000E-01
+        1.3330E+01        0.0000E+00        1.7900E+00        2.0000E-01

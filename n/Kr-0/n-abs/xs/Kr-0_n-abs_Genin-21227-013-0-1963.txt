@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21227-013-0 
-# EXFOR reaction        : ['36-KR-0', ['N,ABS'], ',,SIG,,,DERIV'] 
+# EXFOR reaction        : (36-KR-0(N,ABS),,SIG,,,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Kr-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 27 
-# first author          : R.Genin 
+# first author          : Genin 
 # institute             : (2FR SAC): CEA/Saclay 
 # reference             : (J,JPR,24,21,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21227.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21227
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.35000E+01      5.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.3500E+01        5.0000E-01

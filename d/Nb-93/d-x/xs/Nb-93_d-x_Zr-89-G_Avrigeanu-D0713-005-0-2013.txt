@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0713-005-0 
-# EXFOR reaction        : ['41-NB-93', ['D,X'], '40-ZR-89-G,M+,SIG'] 
+# EXFOR reaction        : (41-NB-93(D,X)40-ZR-89-G,M+,SIG) 
 # incident energy       : 1.7380e+01 MeV - 1.9350e+01 MeV 
 # target                : Nb-93 
 # product               : Zr-89-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Avrigeanu 
+# first author          : Avrigeanu 
 # institute             : (3RUMBUC): Horia Hulubei National Institute (IFIN-HH), Magurele 
 # reference             : (J,PR/C,88,014612,2013) 
 # year                  : 2013 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D07/D0713.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0713
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.93500E+01      6.00000E-01      1.47400E-03      1.59000E-04
-      1.88900E+01      6.00000E-01      9.56000E-04      1.10000E-04
-      1.87900E+01      6.30000E-01      4.51000E-04      5.80000E-05
-      1.78700E+01      6.40000E-01      2.14000E-04      2.50000E-05
-      1.77200E+01      6.30000E-01      8.60000E-05      9.00000E-06
-      1.73800E+01      6.40000E-01      1.24000E-04      1.50000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9350E+01        6.0000E-01        1.4740E-03        1.5900E-04
+        1.8890E+01        6.0000E-01        9.5600E-04        1.1000E-04
+        1.8790E+01        6.3000E-01        4.5100E-04        5.8000E-05
+        1.7870E+01        6.4000E-01        2.1400E-04        2.5000E-05
+        1.7720E+01        6.3000E-01        8.6000E-05        9.0000E-06
+        1.7380E+01        6.4000E-01        1.2400E-04        1.5000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0671-004-0 
-# EXFOR reaction        : ['5-B-11', ['P,X'], '1-PP-0,,SIG'] 
+# EXFOR reaction        : (5-B-11(P,X)1-PP-0,,SIG) 
 # incident energy       : 1.5130e+02 MeV - 1.5420e+02 MeV 
 # target                : B-11 
 # product               : Pp-0 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.E.Marrs 
+# first author          : Marrs 
 # institute             : (1USAINU): Indiana University, Bloomington, IN 
 # reference             : (J,PR/C,20,2308,1979) 
 # year                  : 1979 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0671.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0671
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.51300E+02      0.00000E+00      1.00000E-08      0.00000E+00
-      1.52300E+02      0.00000E+00      6.90000E-08      0.00000E+00
-      1.54200E+02      0.00000E+00      3.50000E-07      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5130E+02        0.0000E+00        1.0000E-08        0.0000E+00
+        1.5230E+02        0.0000E+00        6.9000E-08        0.0000E+00
+        1.5420E+02        0.0000E+00        3.5000E-07        0.0000E+00

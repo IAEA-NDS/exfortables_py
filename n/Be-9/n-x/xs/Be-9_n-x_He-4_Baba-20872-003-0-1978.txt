@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20872-003-0 
-# EXFOR reaction        : ['4-BE-9', ['N,X'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (4-BE-9(N,X)2-HE-4,,SIG) 
 # incident energy       : 3.9000e+00 MeV - 1.5400e+01 MeV 
 # target                : Be-9 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Baba 
+# first author          : Baba 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (C,78HARWELL,,198,1978) 
 # year                  : 1978 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20872.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20872
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.90000E+00      0.00000E+00      2.43000E-01      4.50000E-02
-      4.50000E+00      0.00000E+00      3.57000E-01      5.00000E-02
-      6.40000E+00      0.00000E+00      3.28000E-01      4.00000E-02
-      7.05000E+00      0.00000E+00      2.95000E-01      5.00000E-02
-      1.54000E+01      0.00000E+00      1.19000E-01      1.90000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.9000E+00        0.0000E+00        2.4300E-01        4.5000E-02
+        4.5000E+00        0.0000E+00        3.5700E-01        5.0000E-02
+        6.4000E+00        0.0000E+00        3.2800E-01        4.0000E-02
+        7.0500E+00        0.0000E+00        2.9500E-01        5.0000E-02
+        1.5400E+01        0.0000E+00        1.1900E-01        1.9000E-02

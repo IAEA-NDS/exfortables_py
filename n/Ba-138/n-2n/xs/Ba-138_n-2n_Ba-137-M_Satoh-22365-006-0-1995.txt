@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22365-006-0 
-# EXFOR reaction        : ['56-BA-138', ['N,2N'], '56-BA-137-M,,SIG'] 
+# EXFOR reaction        : (56-BA-138(N,2N)56-BA-137-M,,SIG) 
 # incident energy       : 1.3650e+01 MeV - 1.4870e+01 MeV 
 # target                : Ba-138 
 # product               : Ba-137-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : Y.Satoh 
+# first author          : Satoh 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : ((S,JAERI-C-95-008,189,1995)=(S,INDC(JPN)-173,189,1995)) 
 # year                  : 1995 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22365.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22365
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36500E+01      0.00000E+00      9.45000E-01      4.06350E-02
-      1.38800E+01      0.00000E+00      9.67000E-01      4.25480E-02
-      1.42800E+01      0.00000E+00      9.63000E-01      4.62240E-02
-      1.45800E+01      0.00000E+00      9.75000E-01      4.29000E-02
-      1.48700E+01      0.00000E+00      9.83000E-01      4.32520E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3650E+01        0.0000E+00        9.4500E-01        4.0635E-02
+        1.3880E+01        0.0000E+00        9.6700E-01        4.2548E-02
+        1.4280E+01        0.0000E+00        9.6300E-01        4.6224E-02
+        1.4580E+01        0.0000E+00        9.7500E-01        4.2900E-02
+        1.4870E+01        0.0000E+00        9.8300E-01        4.3252E-02

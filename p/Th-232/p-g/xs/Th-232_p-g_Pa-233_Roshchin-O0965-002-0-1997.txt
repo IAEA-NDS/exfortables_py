@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0965-002-0 
-# EXFOR reaction        : ['90-TH-232', ['P,G'], '91-PA-233,,SIG'] 
+# EXFOR reaction        : (90-TH-232(P,G)91-PA-233,,SIG) 
 # incident energy       : 1.1100e+01 MeV - 1.7500e+01 MeV 
 # target                : Th-232 
 # product               : Pa-233 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.Roshchin 
+# first author          : Roshchin 
 # institute             : (4RUSRI ): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (J,YF,60,2121,1997) 
 # year                  : 1997 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O09/O0965.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0965
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.75000E+01      1.00000E-01      3.40000E-04      2.50000E-05
-      1.66000E+01      1.00000E-01      3.40000E-04      2.10000E-05
-      1.56000E+01      1.00000E-01      3.90000E-04      1.90000E-05
-      1.46000E+01      1.00000E-01      3.48000E-04      1.60000E-05
-      1.35000E+01      1.00000E-01      3.70000E-04      1.70000E-05
-      1.23000E+01      1.00000E-01      3.08000E-04      8.00000E-06
-      1.11000E+01      1.00000E-01      2.66000E-04      1.10000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7500E+01        1.0000E-01        3.4000E-04        2.5000E-05
+        1.6600E+01        1.0000E-01        3.4000E-04        2.1000E-05
+        1.5600E+01        1.0000E-01        3.9000E-04        1.9000E-05
+        1.4600E+01        1.0000E-01        3.4800E-04        1.6000E-05
+        1.3500E+01        1.0000E-01        3.7000E-04        1.7000E-05
+        1.2300E+01        1.0000E-01        3.0800E-04        8.0000E-06
+        1.1100E+01        1.0000E-01        2.6600E-04        1.1000E-05

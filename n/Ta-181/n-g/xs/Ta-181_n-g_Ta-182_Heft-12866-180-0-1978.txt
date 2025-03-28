@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12866-180-0 
-# EXFOR reaction        : ['73-TA-181', ['N,G'], '73-TA-182,,SIG,,SPA'] 
+# EXFOR reaction        : (73-TA-181(N,G)73-TA-182,,SIG,,SPA) 
 # incident energy       : 2.5000e-08 MeV 
 # target                : Ta-181 
 # product               : Ta-182 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.E.Heft 
+# first author          : Heft 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (C,78MAYAG,,495,1978) 
 # year                  : 1978 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12866.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12866
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-08      0.00000E+00      1.91000E+01      1.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-08        0.0000E+00        1.9100E+01        1.0000E+00

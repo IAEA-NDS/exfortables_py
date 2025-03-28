@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11630-005-0 
-# EXFOR reaction        : ['22-TI-47', ['N,X'], '21-SC-46,,SIG'] 
+# EXFOR reaction        : (22-TI-47(N,X)21-SC-46,,SIG) 
 # incident energy       : 1.3600e+01 MeV - 1.9500e+01 MeV 
 # target                : Ti-47 
 # product               : Sc-46 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.L.Pai 
+# first author          : Pai 
 # institute             : (1CANTOR): University of Toronto, Toronto, Ontario 
 # reference             : (J,CJP,44,2337,1966) 
 # year                  : 1966 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11630.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11630
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36000E+01      2.00000E-01      4.00000E-02      7.00000E-03
-      1.48000E+01      1.00000E-01      4.30000E-02      5.00000E-03
-      1.60000E+01      5.00000E-01      1.13000E-01      1.10000E-02
-      1.73000E+01      7.00000E-01      1.43000E-01      1.40000E-02
-      1.95000E+01      2.00000E-01      1.93000E-01      2.80000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3600E+01        2.0000E-01        4.0000E-02        7.0000E-03
+        1.4800E+01        1.0000E-01        4.3000E-02        5.0000E-03
+        1.6000E+01        5.0000E-01        1.1300E-01        1.1000E-02
+        1.7300E+01        7.0000E-01        1.4300E-01        1.4000E-02
+        1.9500E+01        2.0000E-01        1.9300E-01        2.8000E-02

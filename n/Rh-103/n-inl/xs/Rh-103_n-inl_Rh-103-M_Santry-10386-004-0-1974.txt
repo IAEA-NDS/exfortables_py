@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10386-004-0 
-# EXFOR reaction        : ['45-RH-103', ['N,INL'], '45-RH-103-M,,SIG'] 
+# EXFOR reaction        : (45-RH-103(N,INL)45-RH-103-M,,SIG) 
 # incident energy       : 4.8000e+00 MeV - 6.5000e+00 MeV 
 # target                : Rh-103 
 # product               : Rh-103-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : D.C.Santry 
+# first author          : Santry 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (J,CJP,52,1421,197408) 
 # year                  : 1974 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/103/10386.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10386
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.80000E+00      1.10000E-01      1.07600E+00      4.50000E-02
-      4.86000E+00      2.00000E-02      1.19300E+00      5.40000E-02
-      5.13000E+00      1.00000E-01      1.16400E+00      6.00000E-02
-      5.33000E+00      1.00000E-01      1.16900E+00      4.70000E-02
-      5.61000E+00      2.00000E-02      1.20000E+00      4.80000E-02
-      6.00000E+00      9.00000E-02      1.20000E+00      1.30000E-01
-      6.50000E+00      2.00000E-02      1.11600E+00      4.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.8000E+00        1.1000E-01        1.0760E+00        4.5000E-02
+        4.8600E+00        2.0000E-02        1.1930E+00        5.4000E-02
+        5.1300E+00        1.0000E-01        1.1640E+00        6.0000E-02
+        5.3300E+00        1.0000E-01        1.1690E+00        4.7000E-02
+        5.6100E+00        2.0000E-02        1.2000E+00        4.8000E-02
+        6.0000E+00        9.0000E-02        1.2000E+00        1.3000E-01
+        6.5000E+00        2.0000E-02        1.1160E+00        4.6000E-02

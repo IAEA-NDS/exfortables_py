@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2536-002-0 
-# EXFOR reaction        : ['48-CD-112', ['P,G'], '49-IN-113-G,,SIG'] 
+# EXFOR reaction        : (48-CD-112(P,G)49-IN-113-G,,SIG) 
 # incident energy       : 3.4000e+00 MeV - 3.6000e+00 MeV 
 # target                : Cd-112 
 # product               : In-113-G 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : P.Vasileiou 
+# first author          : Vasileiou 
 # institute             : (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
 # reference             : (J,NP/A,1015,122298,2021) 
 # year                  : 2021 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O25/O2536.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2536
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.40000E+00      0.00000E+00      1.43000E-04      1.70000E-05
-      3.50000E+00      0.00000E+00      1.81000E-04      2.30000E-05
-      3.60000E+00      0.00000E+00      1.54000E-04      1.80000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.4000E+00        0.0000E+00        1.4300E-04        1.7000E-05
+        3.5000E+00        0.0000E+00        1.8100E-04        2.3000E-05
+        3.6000E+00        0.0000E+00        1.5400E-04        1.8000E-05

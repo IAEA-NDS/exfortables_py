@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0196-020-0 
-# EXFOR reaction        : ['12-MG-0', ['P,X'], '13-AL-26-G,,SIG'] 
+# EXFOR reaction        : (12-MG-0(P,X)13-AL-26-G,,SIG) 
 # incident energy       : 1.0110e+02 MeV - 1.5890e+02 MeV 
 # target                : Mg-0 
 # product               : Al-26-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.M.Sisterson 
+# first author          : Sisterson 
 # institute             : (1USAHRV): Harvard University, Cambridge, MA 
 # reference             : (C,96DENTON,,811,1996) 
 # year                  : 1996 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C01/C0196.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0196
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.01100E+02      3.00000E+00      3.30000E-04      3.00000E-05
-      1.30100E+02      2.00000E+00      2.50000E-04      2.00000E-05
-      1.58900E+02      1.00000E+00      1.90000E-04      3.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0110E+02        3.0000E+00        3.3000E-04        3.0000E-05
+        1.3010E+02        2.0000E+00        2.5000E-04        2.0000E-05
+        1.5890E+02        1.0000E+00        1.9000E-04        3.0000E-05

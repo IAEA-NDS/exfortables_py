@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M0688-002-0 
-# EXFOR reaction        : ['2-HE-3', ['G,P'], '1-H-2,,SIG'] 
+# EXFOR reaction        : (2-HE-3(G,P)1-H-2,,SIG) 
 # incident energy       : 1.0200e+01 MeV - 1.6000e+01 MeV 
 # target                : He-3 
 # product               : H-2 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : S.Naito 
+# first author          : Naito 
 # institute             : (2JPNOSA): Osaka University , Osaka 
 # reference             : (J,PR/C,73,034003,2006) 
 # year                  : 2006 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M06/M0688.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M0688
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.02000E+01      4.08000E-01      7.70000E-04      5.00000E-05
-      1.60000E+01      6.40000E-01      6.50000E-04      5.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0200E+01        4.0800E-01        7.7000E-04        5.0000E-05
+        1.6000E+01        6.4000E-01        6.5000E-04        5.0000E-05

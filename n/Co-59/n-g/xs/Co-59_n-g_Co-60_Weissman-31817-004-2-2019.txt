@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31817-004-2 
-# EXFOR reaction        : ['27-CO-59', ['N,G'], '27-CO-60,,SIG,,SPA'] 
+# EXFOR reaction        : (27-CO-59(N,G)27-CO-60,,SIG,,SPA) 
 # incident energy       : 2.8000e-02 MeV 
 # target                : Co-59 
 # product               : Co-60 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : L.Weissman 
+# first author          : Weissman 
 # institute             : (3ISLSOR): Soreq Research Centre, Yavne 
 # reference             : (J,PR/C,100,065804,2019) 
 # year                  : 2019 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31817.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31817
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.80000E-02      0.00000E+00      3.79000E-02      9.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.8000E-02        0.0000E+00        3.7900E-02        9.0000E-04

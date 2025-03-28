@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22408-006-0 
-# EXFOR reaction        : ['24-CR-0', ['N,EL'], '24-CR-0,,SIG'] 
+# EXFOR reaction        : (24-CR-0(N,EL)24-CR-0,,SIG) 
 # incident energy       : 7.9500e+00 MeV - 1.4760e+01 MeV 
 # target                : Cr-0 
 # product               : Cr-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : D.Schmidt 
+# first author          : Schmidt 
 # institute             : (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
 # reference             : (R,PTB-N-31,1998) 
 # year                  : 1998 
@@ -13,14 +13,14 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22408.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22408
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.95000E+00      0.00000E+00      1.89370E+00      3.71165E-02
-      9.00000E+00      0.00000E+00      1.68410E+00      3.31768E-02
-      9.80000E+00      0.00000E+00      1.57920E+00      3.26894E-02
-      1.07900E+01      0.00000E+00      1.46290E+00      3.05746E-02
-      1.14400E+01      0.00000E+00      1.36500E+00      2.77095E-02
-      1.20100E+01      0.00000E+00      1.27600E+00      2.70512E-02
-      1.27000E+01      0.00000E+00      1.22270E+00      2.61658E-02
-      1.36500E+01      0.00000E+00      1.10880E+00      2.25086E-02
-      1.41000E+01      0.00000E+00      1.08840E+00      2.27476E-02
-      1.47600E+01      0.00000E+00      1.03560E+00      2.22654E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.9500E+00        0.0000E+00        1.8937E+00        3.7117E-02
+        9.0000E+00        0.0000E+00        1.6841E+00        3.3177E-02
+        9.8000E+00        0.0000E+00        1.5792E+00        3.2689E-02
+        1.0790E+01        0.0000E+00        1.4629E+00        3.0575E-02
+        1.1440E+01        0.0000E+00        1.3650E+00        2.7709E-02
+        1.2010E+01        0.0000E+00        1.2760E+00        2.7051E-02
+        1.2700E+01        0.0000E+00        1.2227E+00        2.6166E-02
+        1.3650E+01        0.0000E+00        1.1088E+00        2.2509E-02
+        1.4100E+01        0.0000E+00        1.0884E+00        2.2748E-02
+        1.4760E+01        0.0000E+00        1.0356E+00        2.2265E-02

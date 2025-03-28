@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14557-004-0 
-# EXFOR reaction        : ['50-SN-128', ['N,G'], '50-SN-129,,SIG,,,DERIV'] 
+# EXFOR reaction        : (50-SN-128(N,G)50-SN-129,,SIG,,,DERIV) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Sn-128 
 # product               : Sn-129 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : B.Manning 
+# first author          : Manning 
 # institute             : (3KORKOR): Republic of Korea 
 # reference             : (J,PR/C,99,041302,2019) 
 # year                  : 2019 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/145/14557.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14557
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      5.10745E-05      7.65977E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        5.1075E-05        7.6598E-06

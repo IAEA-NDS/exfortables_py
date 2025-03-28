@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2444-049-0 
-# EXFOR reaction        : ['83-BI-209', ['P,F'], ',,SIG'] 
+# EXFOR reaction        : (83-BI-209(P,F),,SIG) 
 # incident energy       : 2.2467e+02 MeV - 3.3985e+02 MeV 
 # target                : Bi-209 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : J.Jungerman 
+# first author          : Jungerman 
 # institute             : (1USAUCX): University of California, Berkeley, CA 
 # reference             : (J,PR,79,632,1950) 
 # year                  : 1950 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C24/C2444.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2444
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.24673E+02      0.00000E+00      6.00000E-02      1.00000E-02
-      2.59614E+02      0.00000E+00      5.40000E-02      1.40000E-02
-      2.75727E+02      0.00000E+00      3.10000E-02      9.00000E-03
-      2.94063E+02      0.00000E+00      4.90000E-02      1.40000E-02
-      3.39513E+02      0.00000E+00      7.50000E-02      1.30000E-02
-      3.39846E+02      0.00000E+00      1.06000E-01      1.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2467E+02        0.0000E+00        6.0000E-02        1.0000E-02
+        2.5961E+02        0.0000E+00        5.4000E-02        1.4000E-02
+        2.7573E+02        0.0000E+00        3.1000E-02        9.0000E-03
+        2.9406E+02        0.0000E+00        4.9000E-02        1.4000E-02
+        3.3951E+02        0.0000E+00        7.5000E-02        1.3000E-02
+        3.3985E+02        0.0000E+00        1.0600E-01        1.6000E-02

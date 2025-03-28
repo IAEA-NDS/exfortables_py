@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0522-008-0 
-# EXFOR reaction        : ['50-SN-116', ['P,X'], '0-NN-1,,SIG'] 
+# EXFOR reaction        : (50-SN-116(P,X)0-NN-1,,SIG) 
 # incident energy       : 1.0190e+01 MeV - 1.1150e+01 MeV 
 # target                : Sn-116 
 # product               : Nn-1 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : B.V.Zhuravlev 
+# first author          : Zhuravlev 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (J,PAN,69,363,2006) 
 # year                  : 2006 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D05/D0522.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0522
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.01900E+01      0.00000E+00      5.76000E-01      2.30000E-02
-      1.07300E+01      0.00000E+00      6.26000E-01      2.63000E-02
-      1.11500E+01      0.00000E+00      7.15000E-01      2.79000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0190E+01        0.0000E+00        5.7600E-01        2.3000E-02
+        1.0730E+01        0.0000E+00        6.2600E-01        2.6300E-02
+        1.1150E+01        0.0000E+00        7.1500E-01        2.7900E-02

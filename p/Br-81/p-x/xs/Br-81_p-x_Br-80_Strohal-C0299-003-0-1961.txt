@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0299-003-0 
-# EXFOR reaction        : ['35-BR-81', ['P,X'], '35-BR-80,,SIG'] 
+# EXFOR reaction        : (35-BR-81(P,X)35-BR-80,,SIG) 
 # incident energy       : 2.5000e+02 MeV - 4.4000e+02 MeV 
 # target                : Br-81 
 # product               : Br-80 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : P.P.Strohal 
+# first author          : Strohal 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,PR,121,1815,1961) 
 # year                  : 1961 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0299.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0299
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E+02      0.00000E+00      6.56000E-02      9.84000E-03
-      3.00000E+02      0.00000E+00      6.60000E-02      9.90000E-03
-      3.50000E+02      0.00000E+00      6.53000E-02      9.79500E-03
-      4.00000E+02      0.00000E+00      6.42000E-02      9.63000E-03
-      4.40000E+02      0.00000E+00      6.20000E-02      9.30000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+02        0.0000E+00        6.5600E-02        9.8400E-03
+        3.0000E+02        0.0000E+00        6.6000E-02        9.9000E-03
+        3.5000E+02        0.0000E+00        6.5300E-02        9.7950E-03
+        4.0000E+02        0.0000E+00        6.4200E-02        9.6300E-03
+        4.4000E+02        0.0000E+00        6.2000E-02        9.3000E-03

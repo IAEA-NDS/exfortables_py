@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0022-007-0 
-# EXFOR reaction        : ['90-TH-232', ['P,F'], '38-SR-92,CUM,SIG'] 
+# EXFOR reaction        : (90-TH-232(P,F)38-SR-92,CUM,SIG) 
 # incident energy       : 2.0000e+01 MeV - 8.5000e+01 MeV 
 # target                : Th-232 
 # product               : Sr-92 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : T.Mcgee 
+# first author          : Mcgee 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,NP/A,173,595,1971) 
 # year                  : 1971 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0022.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0022
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+01      2.00000E+00      2.80000E-02      8.00000E-03
-      3.00000E+01      2.00000E+00      3.10000E-02      9.00000E-03
-      4.00000E+01      2.00000E+00      3.50000E-02      1.10000E-02
-      5.00000E+01      2.00000E+00      3.10000E-02      9.00000E-03
-      6.00000E+01      2.00000E+00      2.80000E-02      8.00000E-03
-      7.20000E+01      2.00000E+00      3.40000E-02      1.00000E-02
-      8.50000E+01      2.00000E+00      3.80000E-02      1.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+01        2.0000E+00        2.8000E-02        8.0000E-03
+        3.0000E+01        2.0000E+00        3.1000E-02        9.0000E-03
+        4.0000E+01        2.0000E+00        3.5000E-02        1.1000E-02
+        5.0000E+01        2.0000E+00        3.1000E-02        9.0000E-03
+        6.0000E+01        2.0000E+00        2.8000E-02        8.0000E-03
+        7.2000E+01        2.0000E+00        3.4000E-02        1.0000E-02
+        8.5000E+01        2.0000E+00        3.8000E-02        1.1000E-02

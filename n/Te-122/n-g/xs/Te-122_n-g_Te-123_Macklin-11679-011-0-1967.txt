@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11679-011-0 
-# EXFOR reaction        : ['52-TE-122', ['N,G'], '52-TE-123,,SIG'] 
+# EXFOR reaction        : (52-TE-122(N,G)52-TE-123,,SIG) 
 # incident energy       : 3.0000e-02 MeV - 1.2500e-01 MeV 
 # target                : Te-122 
 # product               : Te-123 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.L.Macklin 
+# first author          : Macklin 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,PR,159,1007,67) 
 # year                  : 1967 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11679.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11679
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      1.00000E-02      1.68900E-01      3.35000E-02
-      3.00000E-02      1.00000E-02      1.83200E-01      3.23000E-02
-      5.00000E-02      1.00000E-02      1.81700E-01      2.55000E-02
-      7.00000E-02      1.90000E-02      1.47000E-01      1.92000E-02
-      8.50000E-02      1.70000E-02      1.16200E-01      4.31000E-02
-      1.04000E-01      1.50000E-02      1.03100E-01      1.98000E-02
-      1.25000E-01      2.30000E-02      9.67000E-02      1.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        1.0000E-02        1.6890E-01        3.3500E-02
+        3.0000E-02        1.0000E-02        1.8320E-01        3.2300E-02
+        5.0000E-02        1.0000E-02        1.8170E-01        2.5500E-02
+        7.0000E-02        1.9000E-02        1.4700E-01        1.9200E-02
+        8.5000E-02        1.7000E-02        1.1620E-01        4.3100E-02
+        1.0400E-01        1.5000E-02        1.0310E-01        1.9800E-02
+        1.2500E-01        2.3000E-02        9.6700E-02        1.3000E-02

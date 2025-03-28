@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13046-003-0 
-# EXFOR reaction        : ['60-ND-146', ['N,INL'], '60-ND-146,PAR,SIG'] 
+# EXFOR reaction        : (60-ND-146(N,INL)60-ND-146,PAR,SIG) 
 # incident energy       : 2.5000e+00 MeV 
 # target                : Nd-146 
 # product               : Nd-146 
 # level energy          : 1.4710e+00 MeV 
 # MF-MT number          : 3 - 57 
-# first author          : M.C.Schell 
+# first author          : Schell 
 # institute             : (1USAKTY): University of Kentucky, Lexington, KY 
 # reference             : (T,SCHELL,76) 
 # year                  : 1976 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/130/13046.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13046
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E+00      0.00000E+00      2.01000E-01      1.82000E-02
-      2.50000E+00      0.00000E+00      4.40000E-02      4.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+00        0.0000E+00        2.0100E-01        1.8200E-02
+        2.5000E+00        0.0000E+00        4.4000E-02        4.1000E-03

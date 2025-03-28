@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10379-008-0 
-# EXFOR reaction        : ['13-AL-27', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (13-AL-27(N,TOT),,SIG) 
 # incident energy       : 2.1400e+01 MeV - 3.9700e+01 MeV 
 # target                : Al-27 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : I.F.Bubb 
+# first author          : Bubb 
 # institute             : (1CANMNA): University of Manitoba, Cyclotron Laboratory , Winnipeg, Manitoba 
 # reference             : (J,CJP,52,648,197404) 
 # year                  : 1974 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/103/10379.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10379
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.14000E+01      0.00000E+00      1.81900E+00      7.00000E-03
-      2.80000E+01      0.00000E+00      1.88300E+00      1.60000E-02
-      3.82000E+01      0.00000E+00      1.87000E+00      1.90000E-02
-      3.97000E+01      0.00000E+00      1.84300E+00      1.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1400E+01        0.0000E+00        1.8190E+00        7.0000E-03
+        2.8000E+01        0.0000E+00        1.8830E+00        1.6000E-02
+        3.8200E+01        0.0000E+00        1.8700E+00        1.9000E-02
+        3.9700E+01        0.0000E+00        1.8430E+00        1.3000E-02

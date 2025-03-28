@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40603-011-0 
-# EXFOR reaction        : ['83-BI-209', ['N,INL'], '83-BI-209,,SIG'] 
+# EXFOR reaction        : (83-BI-209(N,INL)83-BI-209,,SIG) 
 # incident energy       : 4.9900e+00 MeV - 8.0900e+00 MeV 
 # target                : Bi-209 
 # product               : Bi-209 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : S.P.Simakov 
+# first author          : Simakov 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : ((J,YK,,(5/49),17,1982)=(R,INDC(CCP)-197,17,1982)) 
 # year                  : 1982 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40603.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40603
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.99000E+00      7.00000E-02      3.11000E+00      2.50000E-01
-      5.97000E+00      6.00000E-02      2.65000E+00      2.10000E-01
-      7.00000E+00      5.00000E-02      2.51000E+00      2.00000E-01
-      8.09000E+00      5.00000E-02      2.45000E+00      2.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.9900E+00        7.0000E-02        3.1100E+00        2.5000E-01
+        5.9700E+00        6.0000E-02        2.6500E+00        2.1000E-01
+        7.0000E+00        5.0000E-02        2.5100E+00        2.0000E-01
+        8.0900E+00        5.0000E-02        2.4500E+00        2.0000E-01

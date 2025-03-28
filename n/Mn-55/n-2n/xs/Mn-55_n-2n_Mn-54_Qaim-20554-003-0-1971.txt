@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20554-003-0 
-# EXFOR reaction        : ['25-MN-55', ['N,2N'], '25-MN-54,,SIG,,FIS'] 
+# EXFOR reaction        : (25-MN-55(N,2N)25-MN-54,,SIG,,FIS) 
 # incident energy       : 1.3200e+00 MeV 
 # target                : Mn-55 
 # product               : Mn-54 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.M.Qaim 
+# first author          : Qaim 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (C,71CANT,,121,197109) 
 # year                  : 1971 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20554.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20554
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.32000E+00      0.00000E+00      2.58000E-04      3.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3200E+00        0.0000E+00        2.5800E-04        3.0000E-05

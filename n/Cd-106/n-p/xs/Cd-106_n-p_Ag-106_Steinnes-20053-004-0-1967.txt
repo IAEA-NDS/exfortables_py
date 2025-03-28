@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20053-004-0 
-# EXFOR reaction        : ['48-CD-106', ['N,P'], '47-AG-106,,SIG,,SPA'] 
+# EXFOR reaction        : (48-CD-106(N,P)47-AG-106,,SIG,,SPA) 
 # incident energy       : 1.0000e+00 MeV 
 # target                : Cd-106 
 # product               : Ag-106 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : E.Steinnes 
+# first author          : Steinnes 
 # institute             : (2NORKJL): Institutt for Energiteknikk (IFE), Kjeller 
 # reference             : (R,KR-123,1967) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20053.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20053
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      2.70000E-03      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        2.7000E-03        2.0000E-04

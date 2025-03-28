@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10414-008-0 
-# EXFOR reaction        : ['29-CU-63', ['N,INL'], '29-CU-63,PAR,SIG'] 
+# EXFOR reaction        : (29-CU-63(N,INL)29-CU-63,PAR,SIG) 
 # incident energy       : 5.5000e+00 MeV - 8.5000e+00 MeV 
 # target                : Cu-63 
 # product               : Cu-63 
 # level energy          : 1.3270e+00 MeV 
 # MF-MT number          : 3 - 53 
-# first author          : W.E.Kinney 
+# first author          : Kinney 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (R,ORNL-4908,197402) 
 # year                  : 1974 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10414.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10414
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.50000E+00      9.00000E-02      8.38000E-02      8.79900E-03
-      6.00000E+00      4.00000E-02      5.91900E-02      8.34579E-03
-      6.49000E+00      4.00000E-02      5.64500E-02      7.95945E-03
-      7.00000E+00      6.00000E-02      4.47900E-02      4.79253E-03
-      7.50000E+00      3.00000E-02      4.83100E-02      8.21270E-03
-      8.01000E+00      3.00000E-02      3.17300E-02      9.42381E-03
-      8.50000E+00      5.00000E-02      2.72900E-02      6.76792E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.5000E+00        9.0000E-02        8.3800E-02        8.7990E-03
+        6.0000E+00        4.0000E-02        5.9190E-02        8.3458E-03
+        6.4900E+00        4.0000E-02        5.6450E-02        7.9595E-03
+        7.0000E+00        6.0000E-02        4.4790E-02        4.7925E-03
+        7.5000E+00        3.0000E-02        4.8310E-02        8.2127E-03
+        8.0100E+00        3.0000E-02        3.1730E-02        9.4238E-03
+        8.5000E+00        5.0000E-02        2.7290E-02        6.7679E-03

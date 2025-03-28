@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A1042-003-0 
-# EXFOR reaction        : ['2-HE-3', ['D,P'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (2-HE-3(D,P)2-HE-4,,SIG) 
 # incident energy       : 2.9000e-02 MeV - 4.4000e-02 MeV 
 # target                : He-3 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : R.G.Jarvis 
+# first author          : Jarvis 
 # institute             : (2UK OXF): University of Oxford, Oxford 
 # reference             : (J,PRS/A,218,(1134),432,195307) 
 # year                  : 1953 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A10/A1042.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A1042
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.40000E-02      0.00000E+00      2.15000E-04      1.30000E-05
-      3.40000E-02      0.00000E+00      4.15000E-05      3.40000E-06
-      2.90000E-02      0.00000E+00      1.57000E-05      2.20000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.4000E-02        0.0000E+00        2.1500E-04        1.3000E-05
+        3.4000E-02        0.0000E+00        4.1500E-05        3.4000E-06
+        2.9000E-02        0.0000E+00        1.5700E-05        2.2000E-06

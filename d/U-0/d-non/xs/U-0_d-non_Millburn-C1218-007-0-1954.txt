@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1218-007-0 
-# EXFOR reaction        : ['92-U-0', ['D,NON'], ',,SIG'] 
+# EXFOR reaction        : (92-U-0(D,NON),,SIG) 
 # incident energy       : 1.6000e+02 MeV 
 # target                : U-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : G.P.Millburn 
+# first author          : Millburn 
 # institute             : (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
 # reference             : (J,PR,95,1268,1954) 
 # year                  : 1954 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C12/C1218.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1218
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.60000E+02      0.00000E+00      3.81000E+00      1.50000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6000E+02        0.0000E+00        3.8100E+00        1.5000E-01

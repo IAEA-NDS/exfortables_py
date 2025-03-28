@@ -1,11 +1,11 @@
 # entry-subent-pointer  : G0064-003-0 
-# EXFOR reaction        : ['14-SI-0', ['G,X'], '11-NA-24,,SIG,,BRA'] 
+# EXFOR reaction        : (14-SI-0(G,X)11-NA-24,,SIG,,BRA) 
 # incident energy       : 9.9800e+01 MeV - 1.0100e+03 MeV 
 # target                : Si-0 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.Jaerund 
+# first author          : Jaerund 
 # institute             : (2SWDLND): Lund University + Tech.University  
 # reference             : (J,ZP,262,15,1973) 
 # year                  : 1973 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G00/G0064.x4 
 # nds                   : https://nds.iaea.org/EXFOR/G0064
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.98000E+01      0.00000E+00      3.27000E-05      0.00000E+00
-      1.51000E+02      0.00000E+00      5.31000E-05      0.00000E+00
-      2.00000E+02      0.00000E+00      7.04000E-05      0.00000E+00
-      2.75000E+02      0.00000E+00      1.07800E-04      0.00000E+00
-      4.02000E+02      0.00000E+00      1.54400E-04      0.00000E+00
-      5.53000E+02      0.00000E+00      1.94200E-04      0.00000E+00
-      7.56000E+02      0.00000E+00      2.13600E-04      0.00000E+00
-      1.01000E+03      0.00000E+00      2.25300E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.9800E+01        0.0000E+00        3.2700E-05        0.0000E+00
+        1.5100E+02        0.0000E+00        5.3100E-05        0.0000E+00
+        2.0000E+02        0.0000E+00        7.0400E-05        0.0000E+00
+        2.7500E+02        0.0000E+00        1.0780E-04        0.0000E+00
+        4.0200E+02        0.0000E+00        1.5440E-04        0.0000E+00
+        5.5300E+02        0.0000E+00        1.9420E-04        0.0000E+00
+        7.5600E+02        0.0000E+00        2.1360E-04        0.0000E+00
+        1.0100E+03        0.0000E+00        2.2530E-04        0.0000E+00

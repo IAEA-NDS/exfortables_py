@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21285-005-0 
-# EXFOR reaction        : ['16-S-0', ['N,EL'], '16-S-0,,SIG'] 
+# EXFOR reaction        : (16-S-0(N,EL)16-S-0,,SIG) 
 # incident energy       : 1.5200e-10 MeV - 4.2840e-09 MeV 
 # target                : S-0 
 # product               : S-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : W.Truestedt 
+# first author          : Truestedt 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (J,ZN/A,26,400,7103) 
 # year                  : 1971 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21285.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21285
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.52000E-10      4.86400E-11      9.27000E-01      7.00000E-02
-      2.08000E-10      6.65600E-11      7.58000E-01      5.50000E-02
-      3.31000E-10      1.05920E-10      6.97000E-01      3.70000E-02
-      5.54000E-10      1.77280E-10      6.05000E-01      1.50000E-02
-      9.97000E-10      3.19040E-10      7.33000E-01      1.20000E-02
-      1.66000E-09      5.31200E-10      9.09000E-01      1.20000E-02
-      2.36900E-09      7.58080E-10      9.18000E-01      2.10000E-02
-      2.95300E-09      9.44960E-10      8.75000E-01      1.20000E-02
-      4.28400E-09      1.37088E-09      8.16000E-01      1.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5200E-10        4.8640E-11        9.2700E-01        7.0000E-02
+        2.0800E-10        6.6560E-11        7.5800E-01        5.5000E-02
+        3.3100E-10        1.0592E-10        6.9700E-01        3.7000E-02
+        5.5400E-10        1.7728E-10        6.0500E-01        1.5000E-02
+        9.9700E-10        3.1904E-10        7.3300E-01        1.2000E-02
+        1.6600E-09        5.3120E-10        9.0900E-01        1.2000E-02
+        2.3690E-09        7.5808E-10        9.1800E-01        2.1000E-02
+        2.9530E-09        9.4496E-10        8.7500E-01        1.2000E-02
+        4.2840E-09        1.3709E-09        8.1600E-01        1.2000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40355-005-0 
-# EXFOR reaction        : ['92-U-235', ['N,F'], ',,SIG,,SPA'] 
+# EXFOR reaction        : (92-U-235(N,F),,SIG,,SPA) 
 # incident energy       : 3.0000e-02 MeV - 5.0000e+00 MeV 
 # target                : U-235 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : G.A.Dorofeev 
+# first author          : Dorofeev 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (J,SJA,2,9,1957) 
 # year                  : 1957 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/403/40355.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40355
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      2.21000E+00      1.20000E-01
-      2.50000E-01      0.00000E+00      1.28000E+00      8.00000E-02
-      9.00000E-01      0.00000E+00      1.24000E+00      8.00000E-02
-      2.00000E+00      0.00000E+00      1.22000E+00      8.00000E-02
-      5.00000E+00      0.00000E+00      1.37000E+00      1.30000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        2.2100E+00        1.2000E-01
+        2.5000E-01        0.0000E+00        1.2800E+00        8.0000E-02
+        9.0000E-01        0.0000E+00        1.2400E+00        8.0000E-02
+        2.0000E+00        0.0000E+00        1.2200E+00        8.0000E-02
+        5.0000E+00        0.0000E+00        1.3700E+00        1.3000E-01

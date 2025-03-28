@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0728-003-4 
-# EXFOR reaction        : ['14-SI-0', ['P,X'], '11-NA-24,CUM,SIG'] 
+# EXFOR reaction        : (14-SI-0(P,X)11-NA-24,CUM,SIG) 
 # incident energy       : 1.3820e+02 MeV - 3.5500e+02 MeV 
 # target                : Si-0 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Fassbender 
+# first author          : Fassbender 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,RCA,84,59,1999) 
 # year                  : 1999 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0728.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0728
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.55000E+02      1.00000E-01      3.90000E-03      4.00000E-04
-      3.54500E+02      1.00000E-01      4.00000E-03      4.00000E-04
-      3.53100E+02      1.00000E-01      4.20000E-03      5.00000E-04
-      2.50900E+02      1.00000E-01      4.00000E-03      5.00000E-04
-      2.50500E+02      2.00000E-01      3.90000E-03      4.00000E-04
-      1.65600E+02      2.00000E-01      3.80000E-03      4.00000E-04
-      1.39300E+02      8.00000E-01      3.50000E-03      4.00000E-04
-      1.38200E+02      3.00000E-01      3.50000E-03      4.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5500E+02        1.0000E-01        3.9000E-03        4.0000E-04
+        3.5450E+02        1.0000E-01        4.0000E-03        4.0000E-04
+        3.5310E+02        1.0000E-01        4.2000E-03        5.0000E-04
+        2.5090E+02        1.0000E-01        4.0000E-03        5.0000E-04
+        2.5050E+02        2.0000E-01        3.9000E-03        4.0000E-04
+        1.6560E+02        2.0000E-01        3.8000E-03        4.0000E-04
+        1.3930E+02        8.0000E-01        3.5000E-03        4.0000E-04
+        1.3820E+02        3.0000E-01        3.5000E-03        4.0000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23502-003-0 
-# EXFOR reaction        : ['22-TI-49', ['N,G'], '22-TI-50,,SIG'] 
+# EXFOR reaction        : (22-TI-49(N,G)22-TI-50,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ti-49 
 # product               : Ti-50 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.F.A.G.Ruyl 
+# first author          : Ruyl 
 # institute             : (2NEDRCN): Netherland's Energy Research Foundation, Petten 
 # reference             : (J,NP/A,419,439,1984) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/235/23502.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23502
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.67000E+00      1.20000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.6700E+00        1.2000E-01

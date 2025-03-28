@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0314-002-0 
-# EXFOR reaction        : ['13-AL-27', ['P,NON'], ',,SIG'] 
+# EXFOR reaction        : (13-AL-27(P,NON),,SIG) 
 # incident energy       : 8.8700e+00 MeV - 1.0390e+01 MeV 
 # target                : Al-27 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : K.Bearpark 
+# first author          : Bearpark 
 # institute             : (2UK OXF): University of Oxford, Oxford 
 # reference             : (J,NP,73,206,1965) 
 # year                  : 1965 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D03/D0314.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0314
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.87000E+00      1.30000E-01      6.50000E-01      2.60000E-02
-      9.37000E+00      1.20000E-01      6.50000E-01      2.60000E-02
-      9.88000E+00      1.20000E-01      5.94000E-01      2.60000E-02
-      1.03900E+01      1.10000E-01      6.10000E-01      2.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.8700E+00        1.3000E-01        6.5000E-01        2.6000E-02
+        9.3700E+00        1.2000E-01        6.5000E-01        2.6000E-02
+        9.8800E+00        1.2000E-01        5.9400E-01        2.6000E-02
+        1.0390E+01        1.1000E-01        6.1000E-01        2.6000E-02

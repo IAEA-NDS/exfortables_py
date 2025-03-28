@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20390-009-0 
-# EXFOR reaction        : ['29-CU-63', ['N,A'], '27-CO-60-M,,SIG'] 
+# EXFOR reaction        : (29-CU-63(N,A)27-CO-60-M,,SIG) 
 # incident energy       : 8.1900e+00 MeV 
 # target                : Cu-63 
 # product               : Co-60-M 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : A.Paulsen 
+# first author          : Paulsen 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,ZP,205,226,196708) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20390.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20390
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.19000E+00      3.50000E-01      1.03000E-02      1.50000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.1900E+00        3.5000E-01        1.0300E-02        1.5000E-03

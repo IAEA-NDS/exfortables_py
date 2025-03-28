@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23078-005-0 
-# EXFOR reaction        : ['82-PB-0', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (82-PB-0(N,F),,SIG) 
 # incident energy       : 4.5390e+01 MeV - 1.9900e+02 MeV 
 # target                : Pb-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : R.Nolte 
+# first author          : Nolte 
 # institute             : (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
 # reference             : (J,NSE,156,197,2007) 
 # year                  : 2007 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23078.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23078
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.53900E+01      2.70000E-01      3.50000E-04      3.00000E-05
-      5.99500E+01      0.00000E+00      1.80000E-03      1.10000E-04
-      1.47000E+02      1.40000E+00      1.90000E-02      3.00000E-03
-      1.99000E+02      2.00000E+00      3.10000E-02      4.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5390E+01        2.7000E-01        3.5000E-04        3.0000E-05
+        5.9950E+01        0.0000E+00        1.8000E-03        1.1000E-04
+        1.4700E+02        1.4000E+00        1.9000E-02        3.0000E-03
+        1.9900E+02        2.0000E+00        3.1000E-02        4.0000E-03

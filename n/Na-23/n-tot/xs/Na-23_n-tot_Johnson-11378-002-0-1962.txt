@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11378-002-0 
-# EXFOR reaction        : ['11-NA-23', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (11-NA-23(N,TOT),,SIG) 
 # incident energy       : 8.5800e+00 MeV - 1.1590e+01 MeV 
 # target                : Na-23 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : R.G.Johnson 
+# first author          : Johnson 
 # institute             : (1USALOK): Lockheed Aircraft Corp., Sunnyvale, CA 
 # reference             : (P,LMSC-4-50-62-1,22,196210) 
 # year                  : 1962 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11378.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11378
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.58000E+00      6.20000E-02      1.77000E+00      1.30000E-01
-      9.45000E+00      7.00000E-02      1.48000E+00      2.10000E-01
-      1.03600E+01      5.40000E-02      1.70000E+00      1.70000E-01
-      1.15900E+01      7.00000E-01      1.53000E+00      5.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.5800E+00        6.2000E-02        1.7700E+00        1.3000E-01
+        9.4500E+00        7.0000E-02        1.4800E+00        2.1000E-01
+        1.0360E+01        5.4000E-02        1.7000E+00        1.7000E-01
+        1.1590E+01        7.0000E-01        1.5300E+00        5.0000E-02

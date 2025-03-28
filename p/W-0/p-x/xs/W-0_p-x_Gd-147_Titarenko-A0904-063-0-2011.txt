@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0904-063-0 
-# EXFOR reaction        : ['74-W-0', ['P,X'], '64-GD-147,CUM,SIG'] 
+# EXFOR reaction        : (74-W-0(P,X)64-GD-147,CUM,SIG) 
 # incident energy       : 4.0000e+02 MeV - 2.6050e+03 MeV 
 # target                : W-0 
 # product               : Gd-147 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Yu.E.Titarenko 
+# first author          : Titarenko 
 # institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
 # reference             : (J,PAN,74,551,2011) 
 # year                  : 2011 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0904.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0904
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+02      1.00000E+00      2.36000E-03      2.70000E-04
-      6.00000E+02      2.00000E+00      7.90000E-03      1.30000E-03
-      7.99000E+02      2.00000E+00      1.59000E-02      1.70000E-03
-      1.19900E+03      3.00000E+00      2.77000E-02      2.70000E-03
-      1.59900E+03      4.00000E+00      2.49000E-02      2.40000E-03
-      2.60500E+03      8.00000E+00      1.87000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+02        1.0000E+00        2.3600E-03        2.7000E-04
+        6.0000E+02        2.0000E+00        7.9000E-03        1.3000E-03
+        7.9900E+02        2.0000E+00        1.5900E-02        1.7000E-03
+        1.1990E+03        3.0000E+00        2.7700E-02        2.7000E-03
+        1.5990E+03        4.0000E+00        2.4900E-02        2.4000E-03
+        2.6050E+03        8.0000E+00        1.8700E-02        2.0000E-03

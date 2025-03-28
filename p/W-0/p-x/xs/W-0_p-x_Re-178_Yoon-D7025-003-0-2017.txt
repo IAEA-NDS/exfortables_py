@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D7025-003-0 
-# EXFOR reaction        : ['74-W-0', ['P,X'], '75-RE-178,,SIG'] 
+# EXFOR reaction        : (74-W-0(P,X)75-RE-178,,SIG) 
 # incident energy       : 7.7900e+01 MeV - 9.3200e+01 MeV 
 # target                : W-0 
 # product               : Re-178 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.R.Yoon 
+# first author          : Yoon 
 # institute             : (3KORDAU): Donga University, Busan 
 # reference             : (J,KPS,70,47,2017) 
 # year                  : 2017 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D70/D7025.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D7025
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.79000E+01      0.00000E+00      1.19300E-01      1.22000E-02
-      8.32000E+01      0.00000E+00      1.03400E-01      1.37000E-02
-      8.83000E+01      0.00000E+00      1.12100E-01      1.12000E-02
-      9.32000E+01      0.00000E+00      1.04200E-01      1.41000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.7900E+01        0.0000E+00        1.1930E-01        1.2200E-02
+        8.3200E+01        0.0000E+00        1.0340E-01        1.3700E-02
+        8.8300E+01        0.0000E+00        1.1210E-01        1.1200E-02
+        9.3200E+01        0.0000E+00        1.0420E-01        1.4100E-02

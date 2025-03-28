@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2298-003-0 
-# EXFOR reaction        : ['98-CF-249', ['D,3N'], '99-ES-248,,SIG'] 
+# EXFOR reaction        : (98-CF-249(D,3N)99-ES-248,,SIG) 
 # incident energy       : 1.5792e+01 MeV - 2.2014e+01 MeV 
 # target                : Cf-249 
 # product               : Es-248 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : A.Chetham-Strode 
+# first author          : Chetham-Strode 
 # institute             : (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
 # reference             : (J,PR,104,1314,1956) 
 # year                  : 1956 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C22/C2298.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2298
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.57920E+01      0.00000E+00      1.95300E-03      0.00000E+00
-      1.78110E+01      0.00000E+00      3.90500E-03      0.00000E+00
-      1.78320E+01      0.00000E+00      5.17300E-03      0.00000E+00
-      2.19900E+01      0.00000E+00      6.87300E-03      0.00000E+00
-      2.20140E+01      0.00000E+00      5.48800E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5792E+01        0.0000E+00        1.9530E-03        0.0000E+00
+        1.7811E+01        0.0000E+00        3.9050E-03        0.0000E+00
+        1.7832E+01        0.0000E+00        5.1730E-03        0.0000E+00
+        2.1990E+01        0.0000E+00        6.8730E-03        0.0000E+00
+        2.2014E+01        0.0000E+00        5.4880E-03        0.0000E+00

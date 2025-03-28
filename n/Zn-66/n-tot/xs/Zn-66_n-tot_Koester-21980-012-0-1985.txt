@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21980-012-0 
-# EXFOR reaction        : ['30-ZN-66', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (30-ZN-66(N,TOT),,SIG) 
 # incident energy       : 1.2600e-06 MeV - 1.3200e-04 MeV 
 # target                : Zn-66 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : L.Koester 
+# first author          : Koester 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (J,ZP/A,320,661,85) 
 # year                  : 1985 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21980.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21980
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.26000E-06      1.00000E-07      4.54000E+00      1.80000E-01
-      5.19000E-06      1.00000E-07      4.26000E+00      1.40000E-01
-      1.88000E-05      1.00000E-06      4.14000E+00      2.00000E-01
-      1.32000E-04      7.00000E-06      4.30000E+00      3.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2600E-06        1.0000E-07        4.5400E+00        1.8000E-01
+        5.1900E-06        1.0000E-07        4.2600E+00        1.4000E-01
+        1.8800E-05        1.0000E-06        4.1400E+00        2.0000E-01
+        1.3200E-04        7.0000E-06        4.3000E+00        3.0000E-01

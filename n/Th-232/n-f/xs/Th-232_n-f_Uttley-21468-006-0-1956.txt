@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21468-006-0 
-# EXFOR reaction        : ['90-TH-232', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (90-TH-232(N,F),,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Th-232 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : C.A.Uttley 
+# first author          : Uttley 
 # institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 # reference             : (R,AERE-NP/R-1996,,5606) 
 # year                  : 1956 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/214/21468.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21468
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      1.50000E-01      3.47000E-01      1.80000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        1.5000E-01        3.4700E-01        1.8000E-02

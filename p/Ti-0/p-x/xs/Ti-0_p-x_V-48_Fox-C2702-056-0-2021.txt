@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2702-056-0 
-# EXFOR reaction        : ['22-TI-0', ['P,X'], '23-V-48,,SIG'] 
+# EXFOR reaction        : (22-TI-0(P,X)23-V-48,,SIG) 
 # incident energy       : 1.0405e+02 MeV - 1.9226e+02 MeV 
 # target                : Ti-0 
 # product               : V-48 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.B.Fox 
+# first author          : Fox 
 # institute             : (1USAUCX): University of California, Berkeley, CA 
 # reference             : (J,PR/C,104,064615,2021) 
 # year                  : 2021 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C27/C2702.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2702
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.92260E+02      4.90000E-01      3.62000E-03      1.30000E-04
-      1.76990E+02      5.10000E-01      4.11000E-03      1.30000E-04
-      1.63180E+02      5.40000E-01      4.16000E-03      1.20000E-04
-      1.48520E+02      5.80000E-01      4.86000E-03      1.20000E-04
-      1.33720E+02      6.20000E-01      5.60000E-03      1.70000E-04
-      1.19630E+02      6.70000E-01      6.24000E-03      2.00000E-04
-      1.04050E+02      7.40000E-01      7.06000E-03      2.80000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9226E+02        4.9000E-01        3.6200E-03        1.3000E-04
+        1.7699E+02        5.1000E-01        4.1100E-03        1.3000E-04
+        1.6318E+02        5.4000E-01        4.1600E-03        1.2000E-04
+        1.4852E+02        5.8000E-01        4.8600E-03        1.2000E-04
+        1.3372E+02        6.2000E-01        5.6000E-03        1.7000E-04
+        1.1963E+02        6.7000E-01        6.2400E-03        2.0000E-04
+        1.0405E+02        7.4000E-01        7.0600E-03        2.8000E-04

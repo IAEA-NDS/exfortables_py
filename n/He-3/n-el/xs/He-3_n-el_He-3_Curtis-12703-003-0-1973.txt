@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12703-003-0 
-# EXFOR reaction        : ['2-HE-3', ['N,EL'], '2-HE-3,,SIG'] 
+# EXFOR reaction        : (2-HE-3(N,EL)2-HE-3,,SIG) 
 # incident energy       : 1.4080e+01 MeV 
 # target                : He-3 
 # product               : He-3 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : R.H.Curtis 
+# first author          : Curtis 
 # institute             : (1USABRN): Brown University, Providence, RI 
 # reference             : (J,DA/B,33,3866,7302) 
 # year                  : 1973 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/127/12703.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12703
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40800E+01      0.00000E+00      1.01000E+00      7.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4080E+01        0.0000E+00        1.0100E+00        7.0000E-02

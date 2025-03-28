@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20303-006-0 
-# EXFOR reaction        : ['32-GE-76', ['N,2N'], '32-GE-75,,SIG'] 
+# EXFOR reaction        : (32-GE-76(N,2N)32-GE-75,,SIG) 
 # incident energy       : 1.3390e+01 MeV - 1.4960e+01 MeV 
 # target                : Ge-76 
 # product               : Ge-75 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.Okumura 
+# first author          : Okumura 
 # institute             : (2JPNKTO): Kyoto University , Kyoto 
 # reference             : (J,NP/A,93,74,1967) 
 # year                  : 1967 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20303.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20303
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.33900E+01      6.00000E-02      9.74000E-01      3.90000E-02
-      1.36400E+01      8.00000E-02      1.02400E+00      4.10000E-02
-      1.37800E+01      8.00000E-02      1.08400E+00      4.30000E-02
-      1.41100E+01      8.00000E-02      1.15400E+00      4.60000E-02
-      1.44400E+01      8.00000E-02      1.12300E+00      4.50000E-02
-      1.45900E+01      8.00000E-02      1.17800E+00      4.70000E-02
-      1.48600E+01      9.00000E-02      1.33400E+00      5.30000E-02
-      1.49600E+01      1.00000E-01      1.43800E+00      5.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3390E+01        6.0000E-02        9.7400E-01        3.9000E-02
+        1.3640E+01        8.0000E-02        1.0240E+00        4.1000E-02
+        1.3780E+01        8.0000E-02        1.0840E+00        4.3000E-02
+        1.4110E+01        8.0000E-02        1.1540E+00        4.6000E-02
+        1.4440E+01        8.0000E-02        1.1230E+00        4.5000E-02
+        1.4590E+01        8.0000E-02        1.1780E+00        4.7000E-02
+        1.4860E+01        9.0000E-02        1.3340E+00        5.3000E-02
+        1.4960E+01        1.0000E-01        1.4380E+00        5.7000E-02

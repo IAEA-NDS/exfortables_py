@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40676-002-0 
-# EXFOR reaction        : ['13-AL-27', ['N,P'], '12-MG-27,,SIG'] 
+# EXFOR reaction        : (13-AL-27(N,P)12-MG-27,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Al-27 
 # product               : Mg-27 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : V.T.Shchebolev 
+# first author          : Shchebolev 
 # institute             : (4RUSMIM): Vsesoyuznyi Nauchno-Issl.Institute Metrol., St.Petersburg 
 # reference             : (J,AE,54,417,1983) 
 # year                  : 1983 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40676.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40676
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      6.82000E-02      9.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        6.8200E-02        9.0000E-04

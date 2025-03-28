@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0904-217-0 
-# EXFOR reaction        : ['73-TA-0', ['P,X'], '71-LU-171,CUM,SIG'] 
+# EXFOR reaction        : (73-TA-0(P,X)71-LU-171,CUM,SIG) 
 # incident energy       : 5.9900e+02 MeV - 7.9900e+02 MeV 
 # target                : Ta-0 
 # product               : Lu-171 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Yu.E.Titarenko 
+# first author          : Titarenko 
 # institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
 # reference             : (J,PAN,74,551,2011) 
 # year                  : 2011 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0904.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0904
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.99000E+02      2.00000E+00      9.30000E-02      1.10000E-02
-      7.99000E+02      2.00000E+00      6.38000E-02      5.60000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.9900E+02        2.0000E+00        9.3000E-02        1.1000E-02
+        7.9900E+02        2.0000E+00        6.3800E-02        5.6000E-03

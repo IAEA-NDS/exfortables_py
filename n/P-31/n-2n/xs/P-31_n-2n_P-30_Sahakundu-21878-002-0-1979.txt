@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21878-002-0 
-# EXFOR reaction        : ['15-P-31', ['N,2N'], '15-P-30,,SIG,,SPA'] 
+# EXFOR reaction        : (15-P-31(N,2N)15-P-30,,SIG,,SPA) 
 # incident energy       : 2.2500e+01 MeV 
 # target                : P-31 
 # product               : P-30 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.M.Sahakundu 
+# first author          : Sahakundu 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,ARI,30,3,1979) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21878.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21878
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.25000E+01      7.90000E+00      2.10000E-02      3.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2500E+01        7.9000E+00        2.1000E-02        3.0000E-03

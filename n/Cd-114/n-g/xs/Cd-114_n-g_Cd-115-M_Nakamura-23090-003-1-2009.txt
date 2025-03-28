@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23090-003-1 
-# EXFOR reaction        : ['48-CD-114', ['N,G'], '48-CD-115-M,,SIG'] 
+# EXFOR reaction        : (48-CD-114(N,G)48-CD-115-M,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Cd-114 
 # product               : Cd-115-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.Nakamura 
+# first author          : Nakamura 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (S,JAEA-C-2009-004,175,2009) 
 # year                  : 2009 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23090.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23090
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      3.86000E-02      1.36000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        3.8600E-02        1.3600E-02

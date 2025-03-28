@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11130-011-0 
-# EXFOR reaction        : ['39-Y-89', ['N,EL'], '39-Y-89,,SIG'] 
+# EXFOR reaction        : (39-Y-89(N,EL)39-Y-89,,SIG) 
 # incident energy       : 1.4500e+00 MeV 
 # target                : Y-89 
 # product               : Y-89 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : N.A.Bostrom 
+# first author          : Bostrom 
 # institute             : (1USATNC): Texas Nuclear Corp., Austin, TX 
 # reference             : (R,WADC-TN-59-107,59) 
 # year                  : 1959 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/111/11130.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11130
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+00      5.00000E-02      3.50000E+00      5.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+00        5.0000E-02        3.5000E+00        5.0000E-01

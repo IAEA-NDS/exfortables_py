@@ -1,18 +1,18 @@
 # entry-subent-pointer  : C0337-011-0 
-# EXFOR reaction        : ['49-IN-0', ['P,X'], '46-PD-101,,SIG'] 
+# EXFOR reaction        : (49-IN-0(P,X)46-PD-101,,SIG) 
 # incident energy       : 2.0000e+02 MeV - 4.0000e+02 MeV 
 # target                : In-0 
 # product               : Pd-101 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.A.Panontin 
-# institute             : (3INDIND): India 
-# reference             : (J,PR,165,1273,68) 
+# first author          : Panontin 
+# institute             : (1USAPUR): Purdue University, West Lafayette, IN 
+# reference             : (J,PR,165,1273,1968) 
 # year                  : 1968 
 # facility              : (SYNCY): Synchro cyclotron 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0337.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0337
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+02      0.00000E+00      1.02000E-02      4.00000E-04
-      4.00000E+02      0.00000E+00      2.02000E-02      4.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+02        0.0000E+00        1.0200E-02        4.0000E-04
+        4.0000E+02        0.0000E+00        2.0200E-02        4.0000E-04

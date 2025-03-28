@@ -1,24 +1,24 @@
 # entry-subent-pointer  : C2026-002-0 
-# EXFOR reaction        : ['28-NI-58', ['P,G'], '29-CU-59,,SIG'] 
+# EXFOR reaction        : (28-NI-58(P,G)29-CU-59,,SIG) 
 # incident energy       : 4.3000e+00 MeV - 5.8800e+00 MeV 
 # target                : Ni-58 
 # product               : Cu-59 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.Simon 
-# institute             : (2UK UK): United Kingdom 
+# first author          : Simon 
+# institute             : (1USAMSU): Michigan State University, East Lansing, MI 
 # reference             : (J,PR/C,87,055802,2013) 
 # year                  : 2013 
 # facility              : (VDGT): Tandem van de Graaff 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C20/C2026.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2026
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.30000E+00      0.00000E+00      1.47000E-04      1.90000E-04
-      4.50000E+00      0.00000E+00      1.61000E-04      2.00000E-04
-      4.70000E+00      0.00000E+00      1.34000E-04      1.70000E-04
-      4.89000E+00      0.00000E+00      1.52000E-04      1.90000E-04
-      5.09000E+00      0.00000E+00      2.66000E-04      3.40000E-04
-      5.29000E+00      0.00000E+00      4.32000E-04      5.60000E-04
-      5.49000E+00      0.00000E+00      4.82000E-04      6.20000E-04
-      5.88000E+00      0.00000E+00      3.78000E-04      4.90000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.3000E+00        0.0000E+00        1.4700E-04        1.9000E-05
+        4.5000E+00        0.0000E+00        1.6100E-04        2.0000E-05
+        4.7000E+00        0.0000E+00        1.3400E-04        1.7000E-05
+        4.8900E+00        0.0000E+00        1.5200E-04        1.9000E-05
+        5.0900E+00        0.0000E+00        2.6600E-04        3.4000E-05
+        5.2900E+00        0.0000E+00        4.3200E-04        5.6000E-05
+        5.4900E+00        0.0000E+00        4.8200E-04        6.2000E-05
+        5.8800E+00        0.0000E+00        3.7800E-04        4.9000E-05

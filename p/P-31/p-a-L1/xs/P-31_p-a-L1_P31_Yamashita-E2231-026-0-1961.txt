@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E2231-026-0 
-# EXFOR reaction        : ['15-P-31', ['P,A'], '14-SI-28,PAR,SIG'] 
+# EXFOR reaction        : (15-P-31(P,A)14-SI-28,PAR,SIG) 
 # incident energy       : 6.1000e+00 MeV - 7.4000e+00 MeV 
 # target                : P-31 
 # product               : Si-28 
 # level energy          : 1.7800e+00 MeV 
 # MF-MT number          : 3 - 801 
-# first author          : S.Yamashita 
+# first author          : Yamashita 
 # institute             : (2JPNKTO): Kyoto University , Kyoto 
 # reference             : (J,JPJ,16,2378,1961) 
 # year                  : 1961 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E22/E2231.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E2231
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.10000E+00      0.00000E+00      6.28430E-02      0.00000E+00
-      6.50000E+00      0.00000E+00      8.70630E-02      0.00000E+00
-      7.00000E+00      0.00000E+00      6.16970E-02      0.00000E+00
-      7.40000E+00      0.00000E+00      7.92230E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.1000E+00        0.0000E+00        6.2843E-02        0.0000E+00
+        6.5000E+00        0.0000E+00        8.7063E-02        0.0000E+00
+        7.0000E+00        0.0000E+00        6.1697E-02        0.0000E+00
+        7.4000E+00        0.0000E+00        7.9223E-02        0.0000E+00

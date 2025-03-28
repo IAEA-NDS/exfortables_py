@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22745-003-0 
-# EXFOR reaction        : ['27-CO-59', ['N,P'], '26-FE-59,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,P)26-FE-59,,SIG) 
 # incident energy       : 1.4830e+01 MeV - 2.0600e+01 MeV 
 # target                : Co-59 
 # product               : Fe-59 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : V.Semkova 
+# first author          : Semkova 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (C,2004SANTA,1,1019,200409) 
 # year                  : 2004 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22745.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22745
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48300E+01      1.89800E-02      4.68000E-02      2.02700E-03
-      1.53000E+01      1.89800E-02      4.49300E-02      2.65100E-03
-      1.70400E+01      1.89800E-02      3.72900E-02      2.33900E-03
-      2.06000E+01      1.89800E-02      3.16700E-02      2.96300E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4830E+01        1.8980E-02        4.6800E-02        2.0270E-03
+        1.5300E+01        1.8980E-02        4.4930E-02        2.6510E-03
+        1.7040E+01        1.8980E-02        3.7290E-02        2.3390E-03
+        2.0600E+01        1.8980E-02        3.1670E-02        2.9630E-03

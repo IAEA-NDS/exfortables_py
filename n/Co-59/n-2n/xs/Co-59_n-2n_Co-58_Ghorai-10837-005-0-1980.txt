@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10837-005-0 
-# EXFOR reaction        : ['27-CO-59', ['N,2N'], '27-CO-58,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,2N)27-CO-58,,SIG) 
 # incident energy       : 1.3400e+01 MeV - 1.8100e+01 MeV 
 # target                : Co-59 
 # product               : Co-58 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.K.Ghorai 
+# first author          : Ghorai 
 # institute             : (1USAAUB): Auburn University, Auburn, AL 
 # reference             : (J,ANE,7,41,80) 
 # year                  : 1980 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10837.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10837
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34000E+01      1.00000E-01      6.21000E-01      4.10000E-02
-      1.40000E+01      2.00000E-01      7.46000E-01      4.90000E-02
-      1.53000E+01      1.00000E-01      7.68000E-01      5.10000E-02
-      1.61000E+01      1.00000E-01      7.36000E-01      4.90000E-02
-      1.71000E+01      1.00000E-01      7.27000E-01      4.80000E-02
-      1.81000E+01      2.00000E-01      7.63000E-01      5.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3400E+01        1.0000E-01        6.2100E-01        4.1000E-02
+        1.4000E+01        2.0000E-01        7.4600E-01        4.9000E-02
+        1.5300E+01        1.0000E-01        7.6800E-01        5.1000E-02
+        1.6100E+01        1.0000E-01        7.3600E-01        4.9000E-02
+        1.7100E+01        1.0000E-01        7.2700E-01        4.8000E-02
+        1.8100E+01        2.0000E-01        7.6300E-01        5.0000E-02

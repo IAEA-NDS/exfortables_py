@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41669-006-0 
-# EXFOR reaction        : ['50-SN-119', ['N,G'], '50-SN-120,,SIG,,SPA'] 
+# EXFOR reaction        : (50-SN-119(N,G)50-SN-120,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Sn-119 
 # product               : Sn-120 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : L.V.Groshev 
+# first author          : Groshev 
 # institute             : (4RUSRUS): Russia 
 # reference             : (J,JNE/A,12,47,1960) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41669.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41669
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.30000E+00      1.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.3000E+00        1.0000E+00

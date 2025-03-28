@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21817-006-0 
-# EXFOR reaction        : ['27-CO-59', ['N,P'], '26-FE-59,,SIG,,FIS'] 
+# EXFOR reaction        : (27-CO-59(N,P)26-FE-59,,SIG,,FIS) 
 # incident energy       : 1.4200e+00 MeV 
 # target                : Co-59 
 # product               : Fe-59 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : W.Mannhart 
+# first author          : Mannhart 
 # institute             : (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
 # reference             : (C,82ANTWER,,429,1982) 
 # year                  : 1982 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21817.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21817
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+00      0.00000E+00      1.68000E-03      4.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+00        0.0000E+00        1.6800E-03        4.0000E-05

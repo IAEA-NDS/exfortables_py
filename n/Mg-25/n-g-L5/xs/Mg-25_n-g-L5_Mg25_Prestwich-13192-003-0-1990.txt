@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13192-003-0 
-# EXFOR reaction        : ['12-MG-25', ['N,G'], '12-MG-26,PAR,SIG,,SPA'] 
+# EXFOR reaction        : (12-MG-25(N,G)12-MG-26,PAR,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Mg-25 
 # product               : Mg-26 
 # level energy          : 3.7443e+00 MeV 
-# MF-MT number          : 3 - 55 
-# first author          : W.V.Prestwich 
+# MF-MT number          : 3 - 5 
+# first author          : Prestwich 
 # institute             : (1CANMCM): McMaster University, Hamilton, Ontario 
 # reference             : (J,CJP,68,261,9003) 
 # year                  : 1990 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13192.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13192
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.10000E-02      7.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.1000E-02        7.0000E-04

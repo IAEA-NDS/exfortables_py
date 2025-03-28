@@ -1,25 +1,25 @@
 # entry-subent-pointer  : A0479-004-0 
-# EXFOR reaction        : ['13-AL-27', ['P,X'], '4-BE-10,,SIG'] 
+# EXFOR reaction        : (13-AL-27(P,X)4-BE-10,,SIG) 
 # incident energy       : 6.6700e+01 MeV - 2.6000e+03 MeV 
 # target                : Al-27 
 # product               : Be-10 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : B.Dittrich 
+# first author          : Dittrich 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
-# reference             : (P,NEANDC(E)-312-U,51,1990) 
+# reference             : ((P,NEANDC(E)-312-U,51,1990)=(P,INDC(GER)-035/LN,51,1990)) 
 # year                  : 1990 
-# facility              : (MESON): Meson facility 
+# facility              : (LINAC): Linear accelerator 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0479.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0479
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.67000E+01      8.00000E-01      1.83000E-05      1.60000E-06
-      8.00000E+01      3.00000E-01      4.63000E-05      2.40000E-06
-      9.55000E+01      2.00000E-01      9.11000E-05      8.00000E-06
-      1.55300E+02      1.10000E+00      1.62000E-04      7.00000E-06
-      2.02000E+02      1.40000E+00      2.79000E-04      1.70000E-05
-      6.00000E+02      0.00000E+00      1.33000E-03      4.00000E-05
-      8.00000E+02      0.00000E+00      2.10000E-03      1.30000E-04
-      1.20000E+03      0.00000E+00      3.01000E-03      1.80000E-04
-      2.60000E+03      0.00000E+00      3.02000E-03      1.80000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6700E+01        8.0000E-01        1.8300E-05        1.6000E-06
+        8.0000E+01        3.0000E-01        4.6300E-05        2.4000E-06
+        9.5500E+01        2.0000E-01        9.1100E-05        8.0000E-06
+        1.5530E+02        1.1000E+00        1.6200E-04        7.0000E-06
+        2.0200E+02        1.4000E+00        2.7900E-04        1.7000E-05
+        6.0000E+02        0.0000E+00        1.3300E-03        4.0000E-05
+        8.0000E+02        0.0000E+00        2.1000E-03        1.3000E-04
+        1.2000E+03        0.0000E+00        3.0100E-03        1.8000E-04
+        2.6000E+03        0.0000E+00        3.0200E-03        1.8000E-04

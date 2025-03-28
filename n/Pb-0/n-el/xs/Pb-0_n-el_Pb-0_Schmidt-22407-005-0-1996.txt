@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22407-005-0 
-# EXFOR reaction        : ['82-PB-0', ['N,EL'], '82-PB-0,,SIG'] 
+# EXFOR reaction        : (82-PB-0(N,EL)82-PB-0,,SIG) 
 # incident energy       : 7.9300e+00 MeV - 1.4230e+01 MeV 
 # target                : Pb-0 
 # product               : Pb-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : D.Schmidt 
+# first author          : Schmidt 
 # institute             : (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
 # reference             : (R,PTB-N-27,1996) 
 # year                  : 1996 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22407.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22407
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.93000E+00      0.00000E+00      2.94290E+00      6.26838E-02
-      8.98000E+00      0.00000E+00      2.64680E+00      5.71709E-02
-      9.87000E+00      0.00000E+00      2.56930E+00      5.67815E-02
-      1.09600E+01      0.00000E+00      2.53800E+00      5.60898E-02
-      1.19200E+01      0.00000E+00      2.57400E+00      6.07464E-02
-      1.31200E+01      0.00000E+00      2.75060E+00      6.35389E-02
-      1.42300E+01      0.00000E+00      2.80470E+00      7.60074E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.9300E+00        0.0000E+00        2.9429E+00        6.2684E-02
+        8.9800E+00        0.0000E+00        2.6468E+00        5.7171E-02
+        9.8700E+00        0.0000E+00        2.5693E+00        5.6782E-02
+        1.0960E+01        0.0000E+00        2.5380E+00        5.6090E-02
+        1.1920E+01        0.0000E+00        2.5740E+00        6.0746E-02
+        1.3120E+01        0.0000E+00        2.7506E+00        6.3539E-02
+        1.4230E+01        0.0000E+00        2.8047E+00        7.6007E-02

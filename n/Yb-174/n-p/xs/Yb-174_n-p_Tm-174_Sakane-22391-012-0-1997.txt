@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22391-012-0 
-# EXFOR reaction        : ['70-YB-174', ['N,P'], '69-TM-174,,SIG'] 
+# EXFOR reaction        : (70-YB-174(N,P)69-TM-174,,SIG) 
 # incident energy       : 1.3400e+01 MeV - 1.4870e+01 MeV 
 # target                : Yb-174 
 # product               : Tm-174 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : H.Sakane 
+# first author          : Sakane 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : (C,97TRIEST,1,619,199705) 
 # year                  : 1997 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22391.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22391
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34000E+01      0.00000E+00      1.45000E-03      1.30000E-04
-      1.36500E+01      0.00000E+00      1.62000E-03      1.50000E-04
-      1.38800E+01      0.00000E+00      2.14000E-03      1.60000E-04
-      1.42800E+01      0.00000E+00      2.52000E-03      2.20000E-04
-      1.45800E+01      0.00000E+00      2.94000E-03      2.10000E-04
-      1.48700E+01      0.00000E+00      3.19000E-03      2.10000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3400E+01        0.0000E+00        1.4500E-03        1.3000E-04
+        1.3650E+01        0.0000E+00        1.6200E-03        1.5000E-04
+        1.3880E+01        0.0000E+00        2.1400E-03        1.6000E-04
+        1.4280E+01        0.0000E+00        2.5200E-03        2.2000E-04
+        1.4580E+01        0.0000E+00        2.9400E-03        2.1000E-04
+        1.4870E+01        0.0000E+00        3.1900E-03        2.1000E-04

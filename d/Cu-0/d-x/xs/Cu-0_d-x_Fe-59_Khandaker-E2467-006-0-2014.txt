@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E2467-006-0 
-# EXFOR reaction        : ['29-CU-0', ['D,X'], '26-FE-59,,SIG'] 
+# EXFOR reaction        : (29-CU-0(D,X)26-FE-59,,SIG) 
 # incident energy       : 1.9430e+01 MeV - 2.2850e+01 MeV 
 # target                : Cu-0 
 # product               : Fe-59 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.U.Khandaker 
+# first author          : Khandaker 
 # institute             : (3MALMAL): Malaysia 
 # reference             : (J,JRN,302,759,2014) 
 # year                  : 2014 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E24/E2467.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E2467
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.94300E+01      1.50000E-01      5.00000E-05      1.00000E-05
-      2.02400E+01      1.40000E-01      7.00000E-05      1.00000E-05
-      2.10100E+01      1.40000E-01      9.00000E-05      1.00000E-05
-      2.28500E+01      1.30000E-01      1.30000E-04      2.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9430E+01        1.5000E-01        5.0000E-05        1.0000E-05
+        2.0240E+01        1.4000E-01        7.0000E-05        1.0000E-05
+        2.1010E+01        1.4000E-01        9.0000E-05        1.0000E-05
+        2.2850E+01        1.3000E-01        1.3000E-04        2.0000E-05

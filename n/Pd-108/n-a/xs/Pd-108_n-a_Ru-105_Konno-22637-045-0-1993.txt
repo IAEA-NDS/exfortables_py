@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22637-045-0 
-# EXFOR reaction        : ['46-PD-108', ['N,A'], '44-RU-105,,SIG'] 
+# EXFOR reaction        : (46-PD-108(N,A)44-RU-105,,SIG) 
 # incident energy       : 1.3350e+01 MeV - 1.4960e+01 MeV 
 # target                : Pd-108 
 # product               : Ru-105 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : C.Konno 
+# first author          : Konno 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (R,JAERI-1329,1993) 
 # year                  : 1993 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22637.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22637
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49600E+01      0.00000E+00      3.33000E-03      4.90000E-04
-      1.46800E+01      0.00000E+00      2.52000E-03      3.80000E-04
-      1.44400E+01      0.00000E+00      2.67000E-03      4.10000E-04
-      1.42300E+01      0.00000E+00      2.18000E-03      3.70000E-04
-      1.39900E+01      0.00000E+00      2.27000E-03      4.10000E-04
-      1.37600E+01      0.00000E+00      1.91000E-03      3.40000E-04
-      1.35800E+01      0.00000E+00      1.84000E-03      3.20000E-04
-      1.33500E+01      0.00000E+00      1.56000E-03      3.10000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4960E+01        0.0000E+00        3.3300E-03        4.9000E-04
+        1.4680E+01        0.0000E+00        2.5200E-03        3.8000E-04
+        1.4440E+01        0.0000E+00        2.6700E-03        4.1000E-04
+        1.4230E+01        0.0000E+00        2.1800E-03        3.7000E-04
+        1.3990E+01        0.0000E+00        2.2700E-03        4.1000E-04
+        1.3760E+01        0.0000E+00        1.9100E-03        3.4000E-04
+        1.3580E+01        0.0000E+00        1.8400E-03        3.2000E-04
+        1.3350E+01        0.0000E+00        1.5600E-03        3.1000E-04

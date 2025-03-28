@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2217-002-0 
-# EXFOR reaction        : ['1-H-2', ['D,P'], '1-H-3,,SIG,,SFC,DERIV'] 
+# EXFOR reaction        : (1-H-2(D,P)1-H-3,,SIG,,SFC,DERIV) 
 # incident energy       : 7.4100e+01 MeV - 1.4600e+03 MeV 
 # target                : H-2 
 # product               : H-3 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : A.Rinollo 
+# first author          : Rinollo 
 # institute             : (2ITYLNS): INFN Laboratori Nazionali del Sud, Catania 
 # reference             : (J,NP/A,758,146,2005) 
 # year                  : 2005 
@@ -13,14 +13,14 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O22/O2217.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2217
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.41000E+01      0.00000E+00      8.65000E+04      2.33000E+04
-      2.24000E+02      0.00000E+00      1.53000E+05      3.27000E+04
-      3.74000E+02      0.00000E+00      1.26000E+05      3.02000E+04
-      5.25000E+02      0.00000E+00      1.57000E+05      3.41000E+04
-      6.81000E+02      0.00000E+00      1.93000E+05      4.05000E+04
-      8.34000E+02      0.00000E+00      1.86000E+05      3.69000E+04
-      9.90000E+02      0.00000E+00      2.42000E+05      4.06000E+04
-      1.14000E+03      0.00000E+00      2.60000E+05      4.19000E+04
-      1.30000E+03      0.00000E+00      3.64000E+05      5.61000E+04
-      1.46000E+03      0.00000E+00      2.65000E+05      5.35000E+04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.4100E+01        0.0000E+00        8.6500E+04        2.3300E+04
+        2.2400E+02        0.0000E+00        1.5300E+05        3.2700E+04
+        3.7400E+02        0.0000E+00        1.2600E+05        3.0200E+04
+        5.2500E+02        0.0000E+00        1.5700E+05        3.4100E+04
+        6.8100E+02        0.0000E+00        1.9300E+05        4.0500E+04
+        8.3400E+02        0.0000E+00        1.8600E+05        3.6900E+04
+        9.9000E+02        0.0000E+00        2.4200E+05        4.0600E+04
+        1.1400E+03        0.0000E+00        2.6000E+05        4.1900E+04
+        1.3000E+03        0.0000E+00        3.6400E+05        5.6100E+04
+        1.4600E+03        0.0000E+00        2.6500E+05        5.3500E+04

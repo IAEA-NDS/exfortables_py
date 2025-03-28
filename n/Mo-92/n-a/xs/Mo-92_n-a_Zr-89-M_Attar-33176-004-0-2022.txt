@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33176-004-0 
-# EXFOR reaction        : ['42-MO-92', ['N,A'], '40-ZR-89-M,,SIG'] 
+# EXFOR reaction        : (42-MO-92(N,A)40-ZR-89-M,,SIG) 
 # incident energy       : 1.3730e+01 MeV - 1.4770e+01 MeV 
 # target                : Mo-92 
 # product               : Zr-89-M 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : F.M.D.Attar 
+# first author          : Attar 
 # institute             : (3INDPOO): University of Pune 
 # reference             : (J,ARI,184,110192,2022) 
 # year                  : 2022 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33176.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33176
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.37300E+01      1.10000E-01      5.80000E-03      3.00000E-04
-      1.40700E+01      1.10000E-01      6.30000E-03      3.00000E-04
-      1.44200E+01      1.00000E-01      6.80000E-03      4.00000E-04
-      1.46800E+01      8.00000E-02      7.50000E-03      4.00000E-04
-      1.47700E+01      8.00000E-02      8.00000E-03      4.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3730E+01        1.1000E-01        5.8000E-03        3.0000E-04
+        1.4070E+01        1.1000E-01        6.3000E-03        3.0000E-04
+        1.4420E+01        1.0000E-01        6.8000E-03        4.0000E-04
+        1.4680E+01        8.0000E-02        7.5000E-03        4.0000E-04
+        1.4770E+01        8.0000E-02        8.0000E-03        4.0000E-04

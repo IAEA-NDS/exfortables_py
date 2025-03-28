@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41385-003-0 
-# EXFOR reaction        : ['26-FE-56', ['N,INL'], '26-FE-56,PAR,SIG'] 
+# EXFOR reaction        : (26-FE-56(N,INL)26-FE-56,PAR,SIG) 
 # incident energy       : 4.1300e+00 MeV - 5.0000e+00 MeV 
 # target                : Fe-56 
 # product               : Fe-56 
 # level energy          : 3.1200e+00 MeV 
 # MF-MT number          : 3 - 56 
-# first author          : Yu.A.Nemilov 
+# first author          : Nemilov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (J,AE,53,194,1982) 
 # year                  : 1982 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/413/41385.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41385
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.13000E+00      3.00000E-02      1.10000E-01      8.00000E-03
-      4.36000E+00      3.00000E-02      1.10000E-01      8.00000E-03
-      4.48000E+00      3.00000E-02      1.09000E-01      8.00000E-03
-      4.59000E+00      3.00000E-02      1.11000E-01      8.00000E-03
-      4.70000E+00      3.00000E-02      1.04000E-01      8.00000E-03
-      4.92000E+00      3.00000E-02      1.17000E-01      8.00000E-03
-      5.00000E+00      3.00000E-02      9.50000E-02      8.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.1300E+00        3.0000E-02        1.1000E-01        8.0000E-03
+        4.3600E+00        3.0000E-02        1.1000E-01        8.0000E-03
+        4.4800E+00        3.0000E-02        1.0900E-01        8.0000E-03
+        4.5900E+00        3.0000E-02        1.1100E-01        8.0000E-03
+        4.7000E+00        3.0000E-02        1.0400E-01        8.0000E-03
+        4.9200E+00        3.0000E-02        1.1700E-01        8.0000E-03
+        5.0000E+00        3.0000E-02        9.5000E-02        8.0000E-03

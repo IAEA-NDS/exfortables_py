@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31700-002-0 
-# EXFOR reaction        : ['56-BA-138', ['N,G'], '56-BA-139,,SIG'] 
+# EXFOR reaction        : (56-BA-138(N,G)56-BA-139,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ba-138 
 # product               : Ba-139 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.E.Agbemava 
+# first author          : Agbemava 
 # institute             : (3GHALGN): National Nuclear Research Institute, Legon 
 # reference             : (J,ANE,38,(2-3),379,2011) 
 # year                  : 2011 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31700.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31700
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      5.30000E-01      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        5.3000E-01        1.0000E-02

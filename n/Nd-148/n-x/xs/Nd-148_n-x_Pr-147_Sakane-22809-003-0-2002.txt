@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22809-003-0 
-# EXFOR reaction        : ['60-ND-148', ['N,X'], '59-PR-147,,SIG'] 
+# EXFOR reaction        : (60-ND-148(N,X)59-PR-147,,SIG) 
 # incident energy       : 1.4020e+01 MeV - 1.4870e+01 MeV 
 # target                : Nd-148 
 # product               : Pr-147 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Sakane 
+# first author          : Sakane 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (J,ANE,29,(10),1209,2002) 
 # year                  : 2002 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22809.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22809
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48700E+01      0.00000E+00      5.50000E-04      6.60000E-05
-      1.46400E+01      0.00000E+00      4.30000E-04      5.16000E-05
-      1.43500E+01      0.00000E+00      2.70000E-04      3.78000E-05
-      1.40200E+01      0.00000E+00      1.90000E-04      4.37000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4870E+01        0.0000E+00        5.5000E-04        6.6000E-05
+        1.4640E+01        0.0000E+00        4.3000E-04        5.1600E-05
+        1.4350E+01        0.0000E+00        2.7000E-04        3.7800E-05
+        1.4020E+01        0.0000E+00        1.9000E-04        4.3700E-05

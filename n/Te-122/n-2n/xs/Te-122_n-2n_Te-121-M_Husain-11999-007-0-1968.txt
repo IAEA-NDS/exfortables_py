@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11999-007-0 
-# EXFOR reaction        : ['52-TE-122', ['N,2N'], '52-TE-121-M,,SIG'] 
+# EXFOR reaction        : (52-TE-122(N,2N)52-TE-121-M,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Te-122 
 # product               : Te-121-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : L.Husain 
+# first author          : Husain 
 # institute             : (1USAARK): University of Arkansas, Fayetteville, AR 
 # reference             : (J,NP/A,114,663,6807) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11999.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11999
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      2.00000E-01      5.30000E-01      8.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        2.0000E-01        5.3000E-01        8.0000E-02

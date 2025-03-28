@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0033-005-0 
-# EXFOR reaction        : ['1-H-2', ['D,P'], '1-H-3,,SIG'] 
+# EXFOR reaction        : (1-H-2(D,P)1-H-3,,SIG) 
 # incident energy       : 5.2200e-02 MeV - 8.6900e-02 MeV 
 # target                : H-2 
 # product               : H-3 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : D.L.Booth 
+# first author          : Booth 
 # institute             : (2UK OXF): University of Oxford, Oxford 
 # reference             : (J,PPS/A,69,265,1956) 
 # year                  : 1956 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C00/C0033.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0033
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.22000E-02      3.13200E-04      4.59000E-03      3.40000E-04
-      8.69000E-02      5.21400E-04      1.14100E-02      6.50000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.2200E-02        3.1320E-04        4.5900E-03        3.4000E-04
+        8.6900E-02        5.2140E-04        1.1410E-02        6.5000E-04

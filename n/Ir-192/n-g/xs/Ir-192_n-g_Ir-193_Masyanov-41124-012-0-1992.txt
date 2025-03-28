@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41124-012-0 
-# EXFOR reaction        : ['77-IR-192', ['N,G'], '77-IR-193,,SIG,,,DERIV'] 
+# EXFOR reaction        : (77-IR-192(N,G)77-IR-193,,SIG,,,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ir-192 
 # product               : Ir-193 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.M.Masyanov 
+# first author          : Masyanov 
 # institute             : (4RUSNIR): NIIAR Dimitrovgrad 
 # reference             : (J,AE/T,73,686,1992) 
 # year                  : 1992 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41124.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41124
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.45000E+03      2.50000E+02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.4500E+03        2.5000E+02

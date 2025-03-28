@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 32204-008-0 
-# EXFOR reaction        : ['57-LA-138', ['N,A'], '55-CS-135-M,,SIG'] 
+# EXFOR reaction        : (57-LA-138(N,A)55-CS-135-M,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : La-138 
 # product               : Cs-135-M 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : S.V.Begun 
+# first author          : Begun 
 # institute             : (4UKRKGU): Kyivsky Natsionalny University "Taras Shevchenko", Kyiv 
 # reference             : (J,IZV,64,1017,2000) 
 # year                  : 2000 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/322/32204.x4 
 # nds                   : https://nds.iaea.org/EXFOR/32204
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      0.00000E+00      7.80000E-04      1.90000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        7.8000E-04        1.9000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22829-006-0 
-# EXFOR reaction        : ['61-PM-147', ['N,G'], '61-PM-148-M,,SIG,,MXW,DERIV'] 
+# EXFOR reaction        : (61-PM-147(N,G)61-PM-148-M,,SIG,,MXW,DERIV) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Pm-147 
 # product               : Pm-148-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.Reifarth 
+# first author          : Reifarth 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,AJ,582,1251,2003) 
 # year                  : 2003 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22829.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22829
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      3.95000E-01      5.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        3.9500E-01        5.5000E-02

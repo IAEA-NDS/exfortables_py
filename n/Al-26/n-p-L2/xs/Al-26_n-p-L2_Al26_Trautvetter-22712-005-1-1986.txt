@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22712-005-1 
-# EXFOR reaction        : ['13-AL-26', ['N,P'], '12-MG-26,PAR,SIG,,AV'] 
+# EXFOR reaction        : (13-AL-26(N,P)12-MG-26,PAR,SIG,,AV) 
 # incident energy       : 3.1000e-01 MeV 
 # target                : Al-26 
 # product               : Mg-26 
 # level energy          : 2.9000e+00 MeV 
 # MF-MT number          : 3 - 602 
-# first author          : H.P.Trautvetter 
+# first author          : Trautvetter 
 # institute             : (2GERMST): Westfaelische Wilhelms-Universitaet Muenster,Muenster 
 # reference             : (J,ZP/A,323,1,1986) 
 # year                  : 1986 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22712.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22712
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.10000E-01      0.00000E+00      7.20000E-02      1.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.1000E-01        0.0000E+00        7.2000E-02        1.5000E-02

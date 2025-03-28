@@ -1,6 +1,8 @@
 ## exfortables_py: An EXFORTABLES-Inspired Structured Database Created by EXFOR_Parser
 ### About
 
+**Please note that this repository is currently being updated and tested (as of April 2025).**
+
 This repository contains tabulated format (x, dx, y, dy) of a directory-structured projectile/nuclide/reaction/ database, `exfortables_py` which is inspired by [EXFORTABLES](https://nds.iaea.org/talys/tutorials/exfortables.pdf). The datasets are extracted from Experimental Nuclear Reaction Database ([EXFOR](https://nds.iaea.org/exfor/)) using [EXFOR_Parser](https://github.com/IAEA-NDS/exforparser) originating from [EXFOR Master Files](https://github.com/IAEA-NDS/exfor_master) for making retrieval and utilization of EXFOR data more straightforward for users. The new version of [IAEA Nuclear Reaction Dataexplorer](https://nds.iaea.org/dataexplorer/) will be built on top of this database.
 
 ### Download formatted datasets

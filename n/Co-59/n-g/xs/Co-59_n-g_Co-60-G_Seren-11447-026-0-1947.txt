@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11447-026-0 
-# EXFOR reaction        : ['27-CO-59', ['N,G'], '27-CO-60-G,,SIG,,SPA'] 
+# EXFOR reaction        : (27-CO-59(N,G)27-CO-60-G,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Co-59 
 # product               : Co-60-G 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : L.Seren 
+# first author          : Seren 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,PR,72,888,1947) 
 # year                  : 1947 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11447.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11447
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.17000E+01      4.34000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.1700E+01        4.3400E+00

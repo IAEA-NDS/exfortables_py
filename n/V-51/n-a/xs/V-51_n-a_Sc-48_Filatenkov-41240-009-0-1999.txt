@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41240-009-0 
-# EXFOR reaction        : ['23-V-51', ['N,A'], '21-SC-48,,SIG'] 
+# EXFOR reaction        : (23-V-51(N,A)21-SC-48,,SIG) 
 # incident energy       : 1.3560e+01 MeV - 1.4780e+01 MeV 
 # target                : V-51 
 # product               : Sc-48 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,RI-252,1999) 
 # year                  : 1999 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41240.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41240
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35600E+01      0.00000E+00      1.45100E-02      4.50000E-04
-      1.37400E+01      0.00000E+00      1.50200E-02      5.50000E-04
-      1.39600E+01      0.00000E+00      1.49800E-02      5.70000E-04
-      1.41900E+01      0.00000E+00      1.65600E-02      5.40000E-04
-      1.44200E+01      0.00000E+00      1.69200E-02      5.60000E-04
-      1.46100E+01      0.00000E+00      1.75300E-02      6.50000E-04
-      1.47800E+01      0.00000E+00      1.82500E-02      6.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3560E+01        0.0000E+00        1.4510E-02        4.5000E-04
+        1.3740E+01        0.0000E+00        1.5020E-02        5.5000E-04
+        1.3960E+01        0.0000E+00        1.4980E-02        5.7000E-04
+        1.4190E+01        0.0000E+00        1.6560E-02        5.4000E-04
+        1.4420E+01        0.0000E+00        1.6920E-02        5.6000E-04
+        1.4610E+01        0.0000E+00        1.7530E-02        6.5000E-04
+        1.4780E+01        0.0000E+00        1.8250E-02        6.0000E-04

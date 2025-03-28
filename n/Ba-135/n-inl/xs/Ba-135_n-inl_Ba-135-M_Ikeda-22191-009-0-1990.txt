@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22191-009-0 
-# EXFOR reaction        : ['56-BA-135', ['N,INL'], '56-BA-135-M,,SIG'] 
+# EXFOR reaction        : (56-BA-135(N,INL)56-BA-135-M,,SIG) 
 # incident energy       : 2.2000e+00 MeV - 3.0100e+00 MeV 
 # target                : Ba-135 
 # product               : Ba-135-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : Y.Ikeda 
+# first author          : Ikeda 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : ((P,NEANDC(J)-155,11,1990)=(P,INDC(JPN)-142,11,1990)) 
 # year                  : 1990 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22191.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22191
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.01000E+00      0.00000E+00      7.84000E-01      5.30000E-02
-      2.20000E+00      0.00000E+00      5.80000E-01      3.90000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0100E+00        0.0000E+00        7.8400E-01        5.3000E-02
+        2.2000E+00        0.0000E+00        5.8000E-01        3.9000E-02

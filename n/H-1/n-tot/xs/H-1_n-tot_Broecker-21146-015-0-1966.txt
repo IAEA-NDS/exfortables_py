@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21146-015-0 
-# EXFOR reaction        : ['1-H-1', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (1-H-1(N,TOT),,SIG) 
 # incident energy       : 1.0280e-07 MeV - 3.3110e-07 MeV 
 # target                : H-1 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : B.Broecker 
+# first author          : Broecker 
 # institute             : (2GERKIL): University of Kiel, Kiel 
 # reference             : (P,EANDC(E)-66,52,196602) 
 # year                  : 1966 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/211/21146.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21146
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.02800E-07      1.02800E-09      3.20000E+01      3.20000E-01
-      1.15100E-07      1.15100E-09      3.16000E+01      3.16000E-01
-      1.29900E-07      1.29900E-09      2.98000E+01      2.98000E-01
-      1.47600E-07      1.47600E-09      2.84000E+01      2.84000E-01
-      1.69300E-07      1.69300E-09      2.80000E+01      2.80000E-01
-      1.96300E-07      1.96300E-09      2.72000E+01      2.72000E-01
-      2.30200E-07      2.30200E-09      2.68000E+01      2.68000E-01
-      2.73800E-07      2.73800E-09      2.50000E+01      2.50000E-01
-      3.31100E-07      3.31100E-09      2.40000E+01      2.40000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0280E-07        1.0280E-09        3.2000E+01        3.2000E-01
+        1.1510E-07        1.1510E-09        3.1600E+01        3.1600E-01
+        1.2990E-07        1.2990E-09        2.9800E+01        2.9800E-01
+        1.4760E-07        1.4760E-09        2.8400E+01        2.8400E-01
+        1.6930E-07        1.6930E-09        2.8000E+01        2.8000E-01
+        1.9630E-07        1.9630E-09        2.7200E+01        2.7200E-01
+        2.3020E-07        2.3020E-09        2.6800E+01        2.6800E-01
+        2.7380E-07        2.7380E-09        2.5000E+01        2.5000E-01
+        3.3110E-07        3.3110E-09        2.4000E+01        2.4000E-01

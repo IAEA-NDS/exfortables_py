@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2528-005-0 
-# EXFOR reaction        : ['92-U-233', ['D,4N'], '93-NP-231,,SIG'] 
+# EXFOR reaction        : (92-U-233(D,4N)93-NP-231,,SIG) 
 # incident energy       : 5.0000e+01 MeV 
 # target                : U-233 
 # product               : Np-231 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : L.B.Magnusson 
+# first author          : Magnusson 
 # institute             : (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
 # reference             : (J,PR,78,363,1950) 
 # year                  : 1950 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C25/C2528.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2528
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.00000E+01      0.00000E+00      2.00000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+01        0.0000E+00        2.0000E-03        0.0000E+00

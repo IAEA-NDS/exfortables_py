@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20982-004-0 
-# EXFOR reaction        : ['81-TL-205', ['N,INL'], '81-TL-205,PAR,SIG'] 
+# EXFOR reaction        : (81-TL-205(N,INL)81-TL-205,PAR,SIG) 
 # incident energy       : 3.0000e+00 MeV 
 # target                : Tl-205 
 # product               : Tl-205 
 # level energy          : 1.1410e+00 MeV 
 # MF-MT number          : 3 - 54 
-# first author          : E.J.Feicht 
+# first author          : Feicht 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (J,ZP,245,13,1971) 
 # year                  : 1971 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20982.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20982
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+00      0.00000E+00      1.30000E-01      5.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+00        0.0000E+00        1.3000E-01        5.0000E-02

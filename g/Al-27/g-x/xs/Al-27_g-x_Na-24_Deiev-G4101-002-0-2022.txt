@@ -1,11 +1,11 @@
 # entry-subent-pointer  : G4101-002-0 
-# EXFOR reaction        : ['13-AL-27', ['G,X'], '11-NA-24,,SIG,,BRA'] 
+# EXFOR reaction        : (13-AL-27(G,X)11-NA-24,,SIG,,BRA) 
 # incident energy       : 4.2400e+01 MeV - 8.5350e+01 MeV 
 # target                : Al-27 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : O.S.Deiev 
+# first author          : Deiev 
 # institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
 # reference             : (J,VAT/I,,(5/141),11,2022) 
 # year                  : 2022 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G41/G4101.x4 
 # nds                   : https://nds.iaea.org/EXFOR/G4101
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.24000E+01      0.00000E+00      1.20000E-04      1.20000E-05
-      5.48500E+01      0.00000E+00      2.19000E-04      1.70000E-05
-      6.04000E+01      0.00000E+00      2.23000E-04      2.10000E-05
-      8.05000E+01      0.00000E+00      2.18000E-04      2.10000E-05
-      8.53500E+01      0.00000E+00      2.11000E-04      1.60000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.2400E+01        0.0000E+00        1.2000E-04        1.2000E-05
+        5.4850E+01        0.0000E+00        2.1900E-04        1.7000E-05
+        6.0400E+01        0.0000E+00        2.2300E-04        2.1000E-05
+        8.0500E+01        0.0000E+00        2.1800E-04        2.1000E-05
+        8.5350E+01        0.0000E+00        2.1100E-04        1.6000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0414-002-0 
-# EXFOR reaction        : ['7-N-0', ['P,X'], '4-BE-7,,SIG'] 
+# EXFOR reaction        : (7-N-0(P,X)4-BE-7,,SIG) 
 # incident energy       : 3.0800e+02 MeV - 6.3000e+02 MeV 
 # target                : N-0 
 # product               : Be-7 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Barbier 
+# first author          : Barbier 
 # institute             : (2ZZZCER): European Org. for Nuclear Research (CERN), Geneva 
 # reference             : (J,JIN,33,2720,1971) 
 # year                  : 1971 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O04/O0414.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0414
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.08000E+02      7.08400E+00      5.80000E-03      1.74000E-03
-      6.30000E+02      1.44900E+01      7.10000E-03      2.13000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0800E+02        7.0840E+00        5.8000E-03        1.7400E-03
+        6.3000E+02        1.4490E+01        7.1000E-03        2.1300E-03

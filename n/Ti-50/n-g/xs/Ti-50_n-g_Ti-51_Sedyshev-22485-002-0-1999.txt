@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22485-002-0 
-# EXFOR reaction        : ['22-TI-50', ['N,G'], '22-TI-51,,SIG,,MXW'] 
+# EXFOR reaction        : (22-TI-50(N,G)22-TI-51,,SIG,,MXW) 
 # incident energy       : 2.5000e-02 MeV - 5.2000e-02 MeV 
 # target                : Ti-50 
 # product               : Ti-51 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : P.V.Sedyshev 
+# first author          : Sedyshev 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,60,054613,1999) 
 # year                  : 1999 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22485.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22485
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      0.00000E+00      3.61200E-03      9.50000E-05
-      5.20000E-02      0.00000E+00      2.73600E-03      1.13000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        3.6120E-03        9.5000E-05
+        5.2000E-02        0.0000E+00        2.7360E-03        1.1300E-04

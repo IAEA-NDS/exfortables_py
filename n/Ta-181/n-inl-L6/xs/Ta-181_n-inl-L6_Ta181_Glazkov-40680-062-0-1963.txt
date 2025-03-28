@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40680-062-0 
-# EXFOR reaction        : ['73-TA-181', ['N,INL'], '73-TA-181,PAR,SIG'] 
+# EXFOR reaction        : (73-TA-181(N,INL)73-TA-181,PAR,SIG) 
 # incident energy       : 6.0000e-01 MeV - 1.2000e+00 MeV 
 # target                : Ta-181 
 # product               : Ta-181 
 # level energy          : 4.8200e-01 MeV 
 # MF-MT number          : 3 - 56 
-# first author          : N.P.Glazkov 
+# first author          : Glazkov 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (J,AE,15,416,1963) 
 # year                  : 1963 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40680.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40680
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E-01      0.00000E+00      3.00000E-01      5.00000E-02
-      8.00000E-01      0.00000E+00      5.00000E-01      5.00000E-02
-      1.00000E+00      0.00000E+00      5.50000E-01      5.00000E-02
-      1.20000E+00      0.00000E+00      6.00000E-01      6.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E-01        0.0000E+00        3.0000E-01        5.0000E-02
+        8.0000E-01        0.0000E+00        5.0000E-01        5.0000E-02
+        1.0000E+00        0.0000E+00        5.5000E-01        5.0000E-02
+        1.2000E+00        0.0000E+00        6.0000E-01        6.0000E-02

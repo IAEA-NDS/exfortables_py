@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31826-002-0 
-# EXFOR reaction        : ['69-TM-171', ['N,G'], '69-TM-172,,SIG,,SPA'] 
+# EXFOR reaction        : (69-TM-171(N,G)69-TM-172,,SIG,,SPA) 
 # incident energy       : 3.1000e-02 MeV - 4.3000e-02 MeV 
 # target                : Tm-171 
 # product               : Tm-172 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : C.Guerrero 
+# first author          : Guerrero 
 # institute             : (2ITYITY): Italy 
 # reference             : (J,PRL,125,142701,2020) 
 # year                  : 2020 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31826.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31826
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.10000E-02      0.00000E+00      3.85000E-01      3.90000E-02
-      4.30000E-02      0.00000E+00      2.99000E-01      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.1000E-02        0.0000E+00        3.8500E-01        3.9000E-02
+        4.3000E-02        0.0000E+00        2.9900E-01        3.0000E-02

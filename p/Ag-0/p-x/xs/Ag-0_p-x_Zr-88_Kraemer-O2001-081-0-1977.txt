@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2001-081-0 
-# EXFOR reaction        : ['47-AG-0', ['P,X'], 'ELEM/MASS,CUM,SIG'] 
+# EXFOR reaction        : (47-AG-0(P,X)ELEM/MASS,CUM,SIG) 
 # incident energy       : 2.4000e+04 MeV 
 # target                : Ag-0 
 # product               : Zr-88 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.Kraemer 
+# first author          : Kraemer 
 # institute             : (2GERTHD): Technische Universitaet Darmstadt 
 # reference             : (J,INC,13,205,1977) 
 # year                  : 1977 
@@ -13,5 +13,23 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2001.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2001
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.40000E+04      0.00000E+00      3.48500E-02      6.97000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4000E+04        0.0000E+00        3.2870E-02        4.9300E-03
+        2.4000E+04        0.0000E+00        2.7480E-02        1.3740E-02
+        2.4000E+04        0.0000E+00        1.3160E-02        2.6300E-03
+        2.4000E+04        0.0000E+00        6.7670E-02        2.0430E-02
+        2.4000E+04        0.0000E+00        1.8820E-02        3.6100E-03
+        2.4000E+04        0.0000E+00        1.4290E-02        3.4300E-03
+        2.4000E+04        0.0000E+00        3.4850E-02        6.9700E-03
+        2.4000E+04        0.0000E+00        8.0500E-03        1.9300E-03
+        2.4000E+04        0.0000E+00        2.0380E-02        4.0700E-03
+        2.4000E+04        0.0000E+00        8.9500E-03        1.7900E-03
+        2.4000E+04        0.0000E+00        2.8530E-02        1.7000E-02
+        2.4000E+04        0.0000E+00        1.3590E-02        5.7000E-04
+        2.4000E+04        0.0000E+00        2.4900E-03        9.6000E-04
+        2.4000E+04        0.0000E+00        1.7290E-02        3.4500E-03
+        2.4000E+04        0.0000E+00        1.3100E-03        2.6000E-04
+        2.4000E+04        0.0000E+00        3.7800E-03        7.5000E-04
+        2.4000E+04        0.0000E+00        1.2900E-03        6.0000E-05
+        2.4000E+04        0.0000E+00        8.7500E-04        1.7500E-04
+        2.4000E+04        0.0000E+00        1.4000E-03        2.8000E-04

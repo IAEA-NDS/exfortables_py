@@ -1,17 +1,17 @@
 # entry-subent-pointer  : T0147-007-0 
-# EXFOR reaction        : ['42-MO-0', ['P,X'], '40-ZR-89,CUM,SIG'] 
+# EXFOR reaction        : (42-MO-0(P,X)40-ZR-89,CUM,SIG) 
 # incident energy       : 8.0000e+02 MeV 
 # target                : Mo-0 
 # product               : Zr-89 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : P.M.Grant 
+# first author          : Grant 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,ARI,34,1631,1983) 
 # year                  : 1983 
-# facility              : (MESON): Meson facility 
+# facility              : (LINAC): Linear accelerator 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T01/T0147.x4 
 # nds                   : https://nds.iaea.org/EXFOR/T0147
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.00000E+02      0.00000E+00      5.10000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+02        0.0000E+00        5.1000E-02        0.0000E+00

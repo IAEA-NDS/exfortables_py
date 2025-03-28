@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20063-003-0 
-# EXFOR reaction        : ['49-IN-113', ['N,2N'], '49-IN-112-M,,SIG'] 
+# EXFOR reaction        : (49-IN-113(N,2N)49-IN-112-M,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : In-113 
 # product               : In-112-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : H.Roetzer 
+# first author          : Roetzer 
 # institute             : (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
 # reference             : (J,NP/A,109,694,1968) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20063.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20063
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      1.50000E-01      1.49000E+00      1.50000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        1.5000E-01        1.4900E+00        1.5000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22702-002-1 
-# EXFOR reaction        : ['6-C-12', ['N,2N'], '6-C-11,,SIG'] 
+# EXFOR reaction        : (6-C-12(N,2N)6-C-11,,SIG) 
 # incident energy       : 2.1800e+01 MeV - 3.8300e+01 MeV 
 # target                : C-12 
 # product               : C-11 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : Y.Uno 
+# first author          : Uno 
 # institute             : (2JPNTOK): University of Tokyo, Tokyo 
 # reference             : (J,NSE,122,247,1996) 
 # year                  : 1996 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22702.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22702
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.18000E+01      1.90000E+00      2.53000E-03      2.05000E-04
-      2.76000E+01      1.70000E+00      1.09000E-02      1.22000E-03
-      3.28000E+01      1.50000E+00      1.72000E-02      1.68000E-03
-      3.83000E+01      1.40000E+00      1.79000E-02      1.90000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1800E+01        1.9000E+00        2.5300E-03        2.0500E-04
+        2.7600E+01        1.7000E+00        1.0900E-02        1.2200E-03
+        3.2800E+01        1.5000E+00        1.7200E-02        1.6800E-03
+        3.8300E+01        1.4000E+00        1.7900E-02        1.9000E-03

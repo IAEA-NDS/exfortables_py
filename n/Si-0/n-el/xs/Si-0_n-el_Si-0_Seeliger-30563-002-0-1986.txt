@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30563-002-0 
-# EXFOR reaction        : ['14-SI-0', ['N,EL'], '14-SI-0,,SIG'] 
+# EXFOR reaction        : (14-SI-0(N,EL)14-SI-0,,SIG) 
 # incident energy       : 6.8000e+00 MeV - 1.2000e+01 MeV 
 # target                : Si-0 
 # product               : Si-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : D.Seeliger 
+# first author          : Seeliger 
 # institute             : (3DDRTUD): Dresden, Techn.University at Dresden and Pirna 
 # reference             : (J,NP/A,460,265,198612) 
 # year                  : 1986 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30563.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30563
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.80000E+00      1.85000E-01      7.54000E-01      1.00000E-01
-      7.00000E+00      1.85000E-01      1.23500E+00      1.00000E-01
-      8.00000E+00      1.60000E-01      9.26000E-01      1.00000E-01
-      9.00000E+00      1.38000E-01      1.13000E+00      1.00000E-01
-      1.00000E+01      1.25000E-01      6.94000E-01      1.00000E-01
-      1.10000E+01      1.15000E-01      9.20000E-01      1.00000E-01
-      1.20000E+01      1.09000E-01      7.19000E-01      1.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.8000E+00        1.8500E-01        7.5400E-01        1.0000E-01
+        7.0000E+00        1.8500E-01        1.2350E+00        1.0000E-01
+        8.0000E+00        1.6000E-01        9.2600E-01        1.0000E-01
+        9.0000E+00        1.3800E-01        1.1300E+00        1.0000E-01
+        1.0000E+01        1.2500E-01        6.9400E-01        1.0000E-01
+        1.1000E+01        1.1500E-01        9.2000E-01        1.0000E-01
+        1.2000E+01        1.0900E-01        7.1900E-01        1.0000E-01

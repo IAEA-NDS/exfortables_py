@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4211-002-0 
-# EXFOR reaction        : ['21-SC-45', ['P,3P'], '19-K-43,,SIG'] 
+# EXFOR reaction        : (21-SC-45(P,3P)19-K-43,,SIG) 
 # incident energy       : 3.1900e+01 MeV - 3.6400e+01 MeV 
 # target                : Sc-45 
 # product               : K-43 
 # level energy          : - 
 # MF-MT number          : 3 - 197 
-# first author          : L.Daraban 
+# first author          : Daraban 
 # institute             : (3RUMBBU): Babes-Bolyai University, Cluj 
 # reference             : (J,NIM/B,267,755,2009) 
 # year                  : 2009 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4211.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4211
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.64000E+01      1.00000E-01      5.00000E-04      1.00000E-04
-      3.42000E+01      1.00000E-01      2.00000E-04      5.00000E-05
-      3.19000E+01      2.00000E-01      5.00000E-05      1.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6400E+01        1.0000E-01        5.0000E-04        1.0000E-04
+        3.4200E+01        1.0000E-01        2.0000E-04        5.0000E-05
+        3.1900E+01        2.0000E-01        5.0000E-05        1.0000E-05

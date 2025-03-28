@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23762-002-1 
-# EXFOR reaction        : ['67-HO-165', ['N,2N'], '67-HO-164-M,,SIG'] 
+# EXFOR reaction        : (67-HO-165(N,2N)67-HO-164-M,,SIG) 
 # incident energy       : 1.0100e+01 MeV - 1.0700e+01 MeV 
 # target                : Ho-165 
 # product               : Ho-164-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : E.Georgali 
+# first author          : Georgali 
 # institute             : (2SWDSWD): Sweden 
 # reference             : (J,PR/C,102,034610,2020) 
 # year                  : 2020 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/237/23762.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23762
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.01000E+01      1.00000E-01      3.24000E-01      4.20000E-02
-      1.04000E+01      1.00000E-01      3.27000E-01      4.30000E-02
-      1.07000E+01      1.00000E-01      3.90000E-01      4.80000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0100E+01        1.0000E-01        3.2400E-01        4.2000E-02
+        1.0400E+01        1.0000E-01        3.2700E-01        4.3000E-02
+        1.0700E+01        1.0000E-01        3.9000E-01        4.8000E-02

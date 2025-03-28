@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0522-021-0 
-# EXFOR reaction        : ['50-SN-124', ['P,X'], '0-NN-1,,SIG'] 
+# EXFOR reaction        : (50-SN-124(P,X)0-NN-1,,SIG) 
 # incident energy       : 1.0200e+01 MeV - 1.1160e+01 MeV 
 # target                : Sn-124 
 # product               : Nn-1 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : B.V.Zhuravlev 
+# first author          : Zhuravlev 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (J,PAN,69,363,2006) 
 # year                  : 2006 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D05/D0522.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0522
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.02000E+01      0.00000E+00      9.63000E-01      6.26000E-02
-      1.07400E+01      0.00000E+00      1.19800E+00      7.19000E-02
-      1.11600E+01      0.00000E+00      1.31900E+00      7.91000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0200E+01        0.0000E+00        9.6300E-01        6.2600E-02
+        1.0740E+01        0.0000E+00        1.1980E+00        7.1900E-02
+        1.1160E+01        0.0000E+00        1.3190E+00        7.9100E-02

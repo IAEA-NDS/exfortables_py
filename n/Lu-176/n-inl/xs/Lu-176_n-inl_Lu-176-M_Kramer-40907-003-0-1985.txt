@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40907-003-0 
-# EXFOR reaction        : ['71-LU-176', ['N,INL'], '71-LU-176-M,,SIG,,SPA'] 
+# EXFOR reaction        : (71-LU-176(N,INL)71-LU-176-M,,SIG,,SPA) 
 # incident energy       : 1.0000e+00 MeV 
 # target                : Lu-176 
 # product               : Lu-176-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : N.D.Kramer 
+# first author          : Kramer 
 # institute             : (4LATIFL): Institute Fiziki Latviyskoi A.N., Riga 
 # reference             : (C,85LENING,,372,1985) 
 # year                  : 1985 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40907.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40907
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      2.20000E-01      5.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        2.2000E-01        5.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23301-007-0 
-# EXFOR reaction        : ['75-RE-185', ['N,2N'], '75-RE-184-G,', ['M'], ',SIG'] 
+# EXFOR reaction        : (75-RE-185(N,2N)75-RE-184-G,(M),SIG) 
 # incident energy       : 1.4700e+01 MeV - 1.8300e+01 MeV 
 # target                : Re-185 
 # product               : Re-184-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : N.Jovancevic 
+# first author          : Jovancevic 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,EPJ/A,52,148,2016) 
 # year                  : 2016 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/233/23301.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23301
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.83000E+01      1.20000E+00      9.00000E-01      5.00000E-02
-      1.73000E+01      1.00000E+00      1.24000E+00      6.00000E-02
-      1.68000E+01      9.00000E-01      1.26000E+00      7.00000E-02
-      1.61000E+01      7.00000E-01      1.67000E+00      9.00000E-02
-      1.53000E+01      6.00000E-01      2.17000E+00      1.00000E-02
-      1.47000E+01      4.00000E-01      1.90000E+00      1.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8300E+01        1.2000E+00        9.0000E-01        5.0000E-02
+        1.7300E+01        1.0000E+00        1.2400E+00        6.0000E-02
+        1.6800E+01        9.0000E-01        1.2600E+00        7.0000E-02
+        1.6100E+01        7.0000E-01        1.6700E+00        9.0000E-02
+        1.5300E+01        6.0000E-01        2.1700E+00        1.0000E-02
+        1.4700E+01        4.0000E-01        1.9000E+00        1.0000E-01

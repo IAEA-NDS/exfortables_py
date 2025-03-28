@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31601-006-0 
-# EXFOR reaction        : ['14-SI-30', ['N,A'], '12-MG-27,,SIG,,FIS'] 
+# EXFOR reaction        : (14-SI-30(N,A)12-MG-27,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Si-30 
 # product               : Mg-27 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : S.A.Jonah 
+# first author          : Jonah 
 # institute             : (3NI ABU): Ahmadu Bello University, Zaria 
 # reference             : (J,ARI,66,1377,2008) 
 # year                  : 2008 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31601.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31601
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      1.60000E-04      1.00000E-05
-      1.50000E+00      0.00000E+00      1.50000E-04      1.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.6000E-04        1.0000E-05
+        1.5000E+00        0.0000E+00        1.5000E-04        1.0000E-05

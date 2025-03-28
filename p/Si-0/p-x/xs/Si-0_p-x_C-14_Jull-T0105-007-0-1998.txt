@@ -1,11 +1,11 @@
 # entry-subent-pointer  : T0105-007-0 
-# EXFOR reaction        : ['14-SI-0', ['P,X'], '6-C-14,,SIG'] 
+# EXFOR reaction        : (14-SI-0(P,X)6-C-14,,SIG) 
 # incident energy       : 5.0000e+01 MeV - 6.6000e+01 MeV 
 # target                : Si-0 
 # product               : C-14 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.J.T.Jull 
+# first author          : Jull 
 # institute             : (1USAUAZ): Arizona University , Tucson, AZ 
 # reference             : (J,GCA,62,3025,1998) 
 # year                  : 1998 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T01/T0105.x4 
 # nds                   : https://nds.iaea.org/EXFOR/T0105
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.60000E+01      0.00000E+00      1.30000E-05      0.00000E+00
-      5.00000E+01      0.00000E+00      1.00000E-06      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6000E+01        0.0000E+00        1.3000E-05        0.0000E+00
+        5.0000E+01        0.0000E+00        1.0000E-06        0.0000E+00

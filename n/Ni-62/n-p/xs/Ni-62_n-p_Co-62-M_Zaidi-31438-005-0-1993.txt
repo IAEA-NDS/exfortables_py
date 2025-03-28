@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31438-005-0 
-# EXFOR reaction        : ['28-NI-62', ['N,P'], '27-CO-62-M,,SIG,,FIS'] 
+# EXFOR reaction        : (28-NI-62(N,P)27-CO-62-M,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Ni-62 
 # product               : Co-62-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : J.H.Zaidi 
+# first author          : Zaidi 
 # institute             : (3PAKNIL): PINSTECH, Nilore, Rawalpindi 
 # reference             : (J,RCA,60,169,1993) 
 # year                  : 1993 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31438.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31438
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      9.60000E-06      1.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        9.6000E-06        1.0000E-06

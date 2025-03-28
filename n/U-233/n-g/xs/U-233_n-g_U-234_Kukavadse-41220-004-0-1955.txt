@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41220-004-0 
-# EXFOR reaction        : ['92-U-233', ['N,G'], '92-U-234,,SIG,,SPA'] 
+# EXFOR reaction        : (92-U-233(N,G)92-U-234,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : U-233 
 # product               : U-234 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : G.M.Kukavadse 
+# first author          : Kukavadse 
 # institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
 # reference             : (C,55GENEVA,4,230,5508) 
 # year                  : 1955 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41220.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41220
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      5.00000E+01      2.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        5.0000E+01        2.0000E+00

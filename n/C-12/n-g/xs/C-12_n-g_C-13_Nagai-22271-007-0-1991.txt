@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22271-007-0 
-# EXFOR reaction        : ['6-C-12', ['N,G'], '6-C-13,,SIG,,SPA'] 
+# EXFOR reaction        : (6-C-12(N,G)6-C-13,,SIG,,SPA) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : C-12 
 # product               : C-13 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : Y.Nagai 
+# first author          : Nagai 
 # institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
 # reference             : (J,AJ,372,683,1991) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22271.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22271
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      1.68000E-05      2.10000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        1.6800E-05        2.1000E-06

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0180-004-3 
-# EXFOR reaction        : ['55-CS-133', ['P,X'], '55-CS-123-G,CUM,SIG,,,EXP'] 
+# EXFOR reaction        : (55-CS-133(P,X)55-CS-123-G,CUM,SIG,,,EXP) 
 # incident energy       : 5.4000e+02 MeV 
 # target                : Cs-133 
 # product               : Cs-123-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : N.F.Peek 
+# first author          : Peek 
 # institute             : (1USACLA): University of California, Los Angeles, CA 
 # reference             : (J,ARI,30,631,1979) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0180.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0180
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.40000E+02      0.00000E+00      8.00000E-03      1.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.4000E+02        0.0000E+00        8.0000E-03        1.0000E-03

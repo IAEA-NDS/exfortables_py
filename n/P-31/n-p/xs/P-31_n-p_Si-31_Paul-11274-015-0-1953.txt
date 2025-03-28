@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11274-015-0 
-# EXFOR reaction        : ['15-P-31', ['N,P'], '14-SI-31,,SIG'] 
+# EXFOR reaction        : (15-P-31(N,P)14-SI-31,,SIG) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : P-31 
 # product               : Si-31 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : E.B.Paul 
+# first author          : Paul 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (J,CJP,31,267,1953) 
 # year                  : 1953 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11274.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11274
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      0.00000E+00      6.42000E-02      8.34600E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        0.0000E+00        6.4200E-02        8.3460E-03

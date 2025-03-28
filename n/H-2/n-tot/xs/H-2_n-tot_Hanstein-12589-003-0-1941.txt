@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12589-003-0 
-# EXFOR reaction        : ['1-H-2', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (1-H-2(N,TOT),,SIG) 
 # incident energy       : 3.0000e-08 MeV - 9.0000e-07 MeV 
 # target                : H-2 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : H.B.Hanstein 
+# first author          : Hanstein 
 # institute             : (1USACOL): Columbia University, New York, NY 
 # reference             : (J,PR,59,489,194103) 
 # year                  : 1941 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12589.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12589
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-08      0.00000E+00      5.70000E+00      0.00000E+00
-      9.00000E-07      0.00000E+00      3.30000E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-08        0.0000E+00        5.7000E+00        0.0000E+00
+        9.0000E-07        0.0000E+00        3.3000E+00        0.0000E+00

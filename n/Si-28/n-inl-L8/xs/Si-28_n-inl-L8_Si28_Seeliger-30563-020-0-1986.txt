@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30563-020-0 
-# EXFOR reaction        : ['14-SI-28', ['N,INL'], '14-SI-28,PAR,SIG'] 
+# EXFOR reaction        : (14-SI-28(N,INL)14-SI-28,PAR,SIG) 
 # incident energy       : 1.0000e+01 MeV 
 # target                : Si-28 
 # product               : Si-28 
 # level energy          : 7.3807e+00 MeV 
 # MF-MT number          : 3 - 58 
-# first author          : D.Seeliger 
+# first author          : Seeliger 
 # institute             : (3DDRTUD): Dresden, Techn.University at Dresden and Pirna 
 # reference             : (J,NP/A,460,265,198612) 
 # year                  : 1986 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30563.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30563
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+01      1.25000E-01      4.08100E-02      5.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+01        1.2500E-01        4.0810E-02        5.0000E-03

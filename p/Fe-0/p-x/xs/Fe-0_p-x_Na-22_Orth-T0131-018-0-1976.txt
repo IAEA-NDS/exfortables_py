@@ -1,11 +1,11 @@
 # entry-subent-pointer  : T0131-018-0 
-# EXFOR reaction        : ['26-FE-0', ['P,X'], '11-NA-22,CUM,SIG'] 
+# EXFOR reaction        : (26-FE-0(P,X)11-NA-22,CUM,SIG) 
 # incident energy       : 5.9000e+02 MeV 
 # target                : Fe-0 
 # product               : Na-22 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : C.J.Orth 
+# first author          : Orth 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,JIN,38,13,1976) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T01/T0131.x4 
 # nds                   : https://nds.iaea.org/EXFOR/T0131
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.90000E+02      0.00000E+00      3.10000E-04      4.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.9000E+02        0.0000E+00        3.1000E-04        4.0000E-05

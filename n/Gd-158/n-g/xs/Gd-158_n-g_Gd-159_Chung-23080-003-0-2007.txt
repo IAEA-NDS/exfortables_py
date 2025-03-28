@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23080-003-0 
-# EXFOR reaction        : ['64-GD-158', ['N,G'], '64-GD-159,,SIG,,AV'] 
+# EXFOR reaction        : (64-GD-158(N,G)64-GD-159,,SIG,,AV) 
 # incident energy       : 2.0000e-02 MeV - 8.1500e-02 MeV 
 # target                : Gd-158 
 # product               : Gd-159 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : W.-Ch.Chung 
+# first author          : Chung 
 # institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
 # reference             : (J,KPS,50,(5),1592,200705) 
 # year                  : 2007 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23080.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23080
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-02      0.00000E+00      3.98000E-01      3.06460E-02
-      3.00000E-02      0.00000E+00      2.94000E-01      1.85220E-02
-      4.00000E-02      0.00000E+00      2.74000E-01      1.58920E-02
-      5.00000E-02      0.00000E+00      2.50000E-01      1.45000E-02
-      6.00000E-02      0.00000E+00      2.41000E-01      1.39780E-02
-      8.15000E-02      0.00000E+00      2.24000E-01      1.25440E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-02        0.0000E+00        3.9800E-01        3.0646E-02
+        3.0000E-02        0.0000E+00        2.9400E-01        1.8522E-02
+        4.0000E-02        0.0000E+00        2.7400E-01        1.5892E-02
+        5.0000E-02        0.0000E+00        2.5000E-01        1.4500E-02
+        6.0000E-02        0.0000E+00        2.4100E-01        1.3978E-02
+        8.1500E-02        0.0000E+00        2.2400E-01        1.2544E-02

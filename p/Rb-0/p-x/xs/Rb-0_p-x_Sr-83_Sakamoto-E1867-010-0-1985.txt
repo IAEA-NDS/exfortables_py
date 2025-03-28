@@ -1,24 +1,24 @@
 # entry-subent-pointer  : E1867-010-0 
-# EXFOR reaction        : ['37-RB-0', ['P,X'], '38-SR-83,,SIG'] 
+# EXFOR reaction        : (37-RB-0(P,X)38-SR-83,,SIG) 
 # incident energy       : 2.3320e+01 MeV - 5.0800e+01 MeV 
 # target                : Rb-0 
 # product               : Sr-83 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : K.Sakamoto 
+# first author          : Sakamoto 
 # institute             : (2JPNKNZ): Kanazawa University , Kanazawa 
-# reference             : (J,ARI,36,(6),481,198506) 
+# reference             : (J,ARI,36,481,1985) 
 # year                  : 1985 
 # facility              : (CYCLO): Cyclotron 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E18/E1867.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1867
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.33200E+01      1.17400E+00      1.05500E-03      0.00000E+00
-      2.99700E+01      1.00600E+00      1.94800E-01      2.17400E-02
-      3.28000E+01      1.17400E+00      2.83200E-01      0.00000E+00
-      3.60700E+01      1.17400E+00      2.88100E-01      0.00000E+00
-      3.88500E+01      1.09000E+00      2.19000E-01      0.00000E+00
-      4.16200E+01      1.09000E+00      2.03000E-01      1.38700E-02
-      4.43200E+01      1.50900E+00      1.33400E-01      0.00000E+00
-      5.08000E+01      1.00600E+00      7.41500E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3320E+01        1.1740E+00        1.0550E-03        0.0000E+00
+        2.9970E+01        1.0060E+00        1.9480E-01        2.1740E-02
+        3.2800E+01        1.1740E+00        2.8320E-01        0.0000E+00
+        3.6070E+01        1.1740E+00        2.8810E-01        0.0000E+00
+        3.8850E+01        1.0900E+00        2.1900E-01        0.0000E+00
+        4.1620E+01        1.0900E+00        2.0300E-01        1.3870E-02
+        4.4320E+01        1.5090E+00        1.3340E-01        0.0000E+00
+        5.0800E+01        1.0060E+00        7.4150E-02        0.0000E+00

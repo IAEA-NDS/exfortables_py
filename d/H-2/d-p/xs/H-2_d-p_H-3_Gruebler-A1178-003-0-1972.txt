@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A1178-003-0 
-# EXFOR reaction        : ['1-H-2', ['D,P'], '1-H-3,,SIG,,,EXP'] 
+# EXFOR reaction        : (1-H-2(D,P)1-H-3,,SIG,,,EXP) 
 # incident energy       : 3.1030e+00 MeV - 1.1510e+01 MeV 
 # target                : H-2 
 # product               : H-3 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : W.Gruebler 
+# first author          : Gruebler 
 # institute             : (2SWTETH): Eidgenossische Technische Hochschule, Zuerich 
 # reference             : (J,NP/A,193,(1),129,197210) 
 # year                  : 1972 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A11/A1178.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A1178
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.10300E+00      5.00000E-02      8.87900E-02      5.00000E-04
-      4.09800E+00      5.00000E-02      8.75000E-02      5.00000E-04
-      5.04800E+00      5.00000E-02      8.62300E-02      5.00000E-04
-      6.04200E+00      5.00000E-02      8.37800E-02      5.00000E-04
-      6.99300E+00      5.00000E-02      8.48500E-02      5.00000E-04
-      7.94200E+00      5.00000E-02      8.18100E-02      5.00000E-04
-      8.89100E+00      5.00000E-02      7.93700E-02      5.00000E-04
-      9.97600E+00      5.00000E-02      7.69000E-02      5.00000E-04
-      1.15100E+01      5.00000E-02      7.26400E-02      5.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.1030E+00        5.0000E-02        8.8790E-02        5.0000E-04
+        4.0980E+00        5.0000E-02        8.7500E-02        5.0000E-04
+        5.0480E+00        5.0000E-02        8.6230E-02        5.0000E-04
+        6.0420E+00        5.0000E-02        8.3780E-02        5.0000E-04
+        6.9930E+00        5.0000E-02        8.4850E-02        5.0000E-04
+        7.9420E+00        5.0000E-02        8.1810E-02        5.0000E-04
+        8.8910E+00        5.0000E-02        7.9370E-02        5.0000E-04
+        9.9760E+00        5.0000E-02        7.6900E-02        5.0000E-04
+        1.1510E+01        5.0000E-02        7.2640E-02        5.0000E-04

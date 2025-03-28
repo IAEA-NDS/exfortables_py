@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30139-002-0 
-# EXFOR reaction        : ['7-N-14', ['N,2A'], '3-LI-7,,SIG'] 
+# EXFOR reaction        : (7-N-14(N,2A)3-LI-7,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : N-14 
 # product               : Li-7 
 # level energy          : - 
 # MF-MT number          : 3 - 108 
-# first author          : J.Moesner 
+# first author          : Moesner 
 # institute             : (2GERZFK): Helmholtz-Zentrum Dresden-Rossendorf, Dresden 
 # reference             : (J,NP/A,103,238,196710) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30139.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30139
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      2.50000E-01      5.80000E-02      1.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        2.5000E-01        5.8000E-02        1.2000E-02

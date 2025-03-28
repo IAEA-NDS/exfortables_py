@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20965-006-0 
-# EXFOR reaction        : ['21-SC-45', ['N,G'], '21-SC-46-G,,SIG,,,DERIV'] 
+# EXFOR reaction        : (21-SC-45(N,G)21-SC-46-G,,SIG,,,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Sc-45 
 # product               : Sc-46-G 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : W.Dilg 
+# first author          : Dilg 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (J,ZP,266,157,7402) 
 # year                  : 1974 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20965.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20965
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.75400E+01      2.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.7540E+01        2.0000E-01

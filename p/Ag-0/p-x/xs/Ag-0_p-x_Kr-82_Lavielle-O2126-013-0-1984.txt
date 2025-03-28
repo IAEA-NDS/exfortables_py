@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2126-013-0 
-# EXFOR reaction        : ['47-AG-0', ['P,X'], '36-KR-82,,SIG'] 
+# EXFOR reaction        : (47-AG-0(P,X)36-KR-82,,SIG) 
 # incident energy       : 1.5000e+02 MeV - 2.4000e+04 MeV 
 # target                : Ag-0 
 # product               : Kr-82 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : B.Lavielle 
+# first author          : Lavielle 
 # institute             : (2FR GRA): Centre d'Etudes Nucleaires de Bordeaux-Gradignan 
 # reference             : (J,JPR,45,981,1984) 
 # year                  : 1984 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2126.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2126
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+02      0.00000E+00      5.50000E-06      1.90000E-06
-      6.00000E+02      0.00000E+00      1.26000E-02      1.30000E-03
-      1.05000E+03      0.00000E+00      2.38000E-02      2.40000E-03
-      2.40000E+04      0.00000E+00      1.30000E-02      3.70000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+02        0.0000E+00        5.5000E-06        1.9000E-06
+        6.0000E+02        0.0000E+00        1.2600E-02        1.3000E-03
+        1.0500E+03        0.0000E+00        2.3800E-02        2.4000E-03
+        2.4000E+04        0.0000E+00        1.3000E-02        3.7000E-03

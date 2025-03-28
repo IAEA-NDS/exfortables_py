@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40467-010-0 
-# EXFOR reaction        : ['95-AM-241', ['N,G'], '95-AM-242-G,,SIG'] 
+# EXFOR reaction        : (95-AM-241(N,G)95-AM-242-G,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Am-241 
 # product               : Am-242-G 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.D.Gavrilov 
+# first author          : Gavrilov 
 # institute             : (4RUSNIR): NIIAR Dimitrovgrad 
 # reference             : (J,AE,41,185,1976) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/404/40467.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40467
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      7.80000E+02      5.00000E+01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        7.8000E+02        5.0000E+01

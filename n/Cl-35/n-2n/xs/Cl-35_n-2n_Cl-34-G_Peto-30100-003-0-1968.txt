@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30100-003-0 
-# EXFOR reaction        : ['17-CL-35', ['N,2N'], '17-CL-34-G,,SIG'] 
+# EXFOR reaction        : (17-CL-35(N,2N)17-CL-34-G,,SIG) 
 # incident energy       : 1.5000e+01 MeV 
 # target                : Cl-35 
 # product               : Cl-34-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : G.Peto 
+# first author          : Peto 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,AHP,24,93,1968) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30100.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30100
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+01      3.00000E-01      1.70000E-03      3.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+01        3.0000E-01        1.7000E-03        3.0000E-04

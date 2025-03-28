@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0026-026-0 
-# EXFOR reaction        : ['92-U-238', ['P,X'], '56-BA-128,CUM,SIG'] 
+# EXFOR reaction        : (92-U-238(P,X)56-BA-128,CUM,SIG) 
 # incident energy       : 3.0000e+05 MeV 
 # target                : U-238 
 # product               : Ba-128 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.K.Chang 
+# first author          : Chang 
 # institute             : (1USACHI): University of Chicago, IL 
 # reference             : (J,PR/C,9,1138,1974) 
 # year                  : 1974 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0026.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0026
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+05      0.00000E+00      4.90000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+05        0.0000E+00        4.9000E-03        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10469-020-0 
-# EXFOR reaction        : ['26-FE-54', ['N,INL'], '26-FE-54,PAR,SIG'] 
+# EXFOR reaction        : (26-FE-54(N,INL)26-FE-54,PAR,SIG) 
 # incident energy       : 5.5000e+00 MeV - 8.5000e+00 MeV 
 # target                : Fe-54 
 # product               : Fe-54 
 # level energy          : 2.9600e+00 MeV 
 # MF-MT number          : 3 - 54 
-# first author          : W.E.Kinney 
+# first author          : Kinney 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (R,ORNL-4907,197402) 
 # year                  : 1974 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10469.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10469
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.50000E+00      9.00000E-02      3.50630E-01      3.33099E-02
-      6.00000E+00      4.00000E-02      2.83670E-01      2.66650E-02
-      6.49000E+00      4.00000E-02      2.00590E-01      1.86549E-02
-      7.00000E+00      6.00000E-02      1.57490E-01      1.33867E-02
-      7.50000E+00      3.00000E-02      1.17820E-01      1.17820E-02
-      8.01000E+00      3.00000E-02      1.01340E-01      1.03367E-02
-      8.50000E+00      5.00000E-02      7.38500E-02      6.79420E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.5000E+00        9.0000E-02        3.5063E-01        3.3310E-02
+        6.0000E+00        4.0000E-02        2.8367E-01        2.6665E-02
+        6.4900E+00        4.0000E-02        2.0059E-01        1.8655E-02
+        7.0000E+00        6.0000E-02        1.5749E-01        1.3387E-02
+        7.5000E+00        3.0000E-02        1.1782E-01        1.1782E-02
+        8.0100E+00        3.0000E-02        1.0134E-01        1.0337E-02
+        8.5000E+00        5.0000E-02        7.3850E-02        6.7942E-03

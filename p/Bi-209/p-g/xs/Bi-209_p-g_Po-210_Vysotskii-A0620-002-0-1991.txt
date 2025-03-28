@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0620-002-0 
-# EXFOR reaction        : ['83-BI-209', ['P,G'], '84-PO-210,,SIG'] 
+# EXFOR reaction        : (83-BI-209(P,G)84-PO-210,,SIG) 
 # incident energy       : 4.7700e+00 MeV - 6.5200e+00 MeV 
 # target                : Bi-209 
 # product               : Po-210 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : O.N.Vysotskii 
+# first author          : Vysotskii 
 # institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
 # reference             : (J,IZV,55,(1),153,1991) 
 # year                  : 1991 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A06/A0620.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0620
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.77000E+00      6.00000E-02      6.40000E-05      0.00000E+00
-      5.17000E+00      6.00000E-02      6.70000E-05      0.00000E+00
-      5.53000E+00      6.00000E-02      6.40000E-05      0.00000E+00
-      5.84000E+00      6.00000E-02      6.20000E-05      0.00000E+00
-      6.17000E+00      6.00000E-02      7.20000E-05      0.00000E+00
-      6.52000E+00      6.00000E-02      5.90000E-05      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.7700E+00        6.0000E-02        6.4000E-05        0.0000E+00
+        5.1700E+00        6.0000E-02        6.7000E-05        0.0000E+00
+        5.5300E+00        6.0000E-02        6.4000E-05        0.0000E+00
+        5.8400E+00        6.0000E-02        6.2000E-05        0.0000E+00
+        6.1700E+00        6.0000E-02        7.2000E-05        0.0000E+00
+        6.5200E+00        6.0000E-02        5.9000E-05        0.0000E+00

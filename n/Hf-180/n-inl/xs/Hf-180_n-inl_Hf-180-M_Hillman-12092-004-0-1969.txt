@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12092-004-0 
-# EXFOR reaction        : ['72-HF-180', ['N,INL'], '72-HF-180-M,,SIG'] 
+# EXFOR reaction        : (72-HF-180(N,INL)72-HF-180-M,,SIG) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : Hf-180 
 # product               : Hf-180-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : M.Hillman 
+# first author          : Hillman 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,JIN,31,909,1969) 
 # year                  : 1969 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12092.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12092
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      0.00000E+00      1.24000E-02      5.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        0.0000E+00        1.2400E-02        5.0000E-04

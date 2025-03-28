@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41614-063-0 
-# EXFOR reaction        : ['40-ZR-96', ['N,2N'], '40-ZR-95,,SIG'] 
+# EXFOR reaction        : (40-ZR-96(N,2N)40-ZR-95,,SIG) 
 # incident energy       : 1.3560e+01 MeV - 1.4780e+01 MeV 
 # target                : Zr-96 
 # product               : Zr-95 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,INDC(CCP)-0460,2016) 
 # year                  : 2016 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35600E+01      0.00000E+00      1.63000E+00      1.16871E-01
-      1.37400E+01      0.00000E+00      1.61400E+00      1.61400E-01
-      1.39600E+01      0.00000E+00      1.59400E+00      9.18144E-02
-      1.41900E+01      0.00000E+00      1.54300E+00      7.96188E-02
-      1.44200E+01      0.00000E+00      1.62900E+00      1.56710E-01
-      1.46100E+01      0.00000E+00      1.62800E+00      1.72568E-01
-      1.47800E+01      0.00000E+00      1.62000E+00      1.00926E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3560E+01        0.0000E+00        1.6300E+00        1.1687E-01
+        1.3740E+01        0.0000E+00        1.6140E+00        1.6140E-01
+        1.3960E+01        0.0000E+00        1.5940E+00        9.1814E-02
+        1.4190E+01        0.0000E+00        1.5430E+00        7.9619E-02
+        1.4420E+01        0.0000E+00        1.6290E+00        1.5671E-01
+        1.4610E+01        0.0000E+00        1.6280E+00        1.7257E-01
+        1.4780E+01        0.0000E+00        1.6200E+00        1.0093E-01

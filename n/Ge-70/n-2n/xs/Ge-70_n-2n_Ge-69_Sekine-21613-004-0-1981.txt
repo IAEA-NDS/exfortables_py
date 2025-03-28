@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21613-004-0 
-# EXFOR reaction        : ['32-GE-70', ['N,2N'], '32-GE-69,,SIG,,FIS'] 
+# EXFOR reaction        : (32-GE-70(N,2N)32-GE-69,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Ge-70 
 # product               : Ge-69 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : T.Sekine 
+# first author          : Sekine 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (J,JIN,43,(7),1427,1981) 
 # year                  : 1981 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21613.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21613
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      7.23000E-05      5.50000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        7.2300E-05        5.5000E-06

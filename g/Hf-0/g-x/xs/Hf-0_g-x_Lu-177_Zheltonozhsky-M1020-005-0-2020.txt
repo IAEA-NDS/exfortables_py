@@ -1,17 +1,17 @@
 # entry-subent-pointer  : M1020-005-0 
-# EXFOR reaction        : ['72-HF-0', ['G,X'], '71-LU-177,,SIG,,BRA'] 
+# EXFOR reaction        : (72-HF-0(G,X)71-LU-177,,SIG,,BRA) 
 # incident energy       : 3.7000e+01 MeV 
 # target                : Hf-0 
 # product               : Lu-177 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : V.A.Zheltonozhsky 
-# institute             : (4RUSMOS): Moscow State University , Moscow 
-# reference             : (J,IZV,84,1116,2020) 
+# first author          : Zheltonozhsky 
+# institute             : (4RUSRUS): Russia 
+# reference             : (J,BAS,84,923,2020) 
 # year                  : 2020 
 # facility              : None 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M10/M1020.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M1020
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.70000E+01      0.00000E+00      4.50000E-01      7.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.7000E+01        0.0000E+00        4.5000E-04        7.0000E-05

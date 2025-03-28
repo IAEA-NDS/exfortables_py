@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2418-005-0 
-# EXFOR reaction        : ['55-CS-133', ['P,G'], '56-BA-134,,SIG'] 
+# EXFOR reaction        : (55-CS-133(P,G)56-BA-134,,SIG) 
 # incident energy       : 3.9610e+00 MeV - 5.9480e+00 MeV 
 # target                : Cs-133 
 # product               : Ba-134 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.V.Harissopulos 
+# first author          : Harissopulos 
 # institute             : (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
 # reference             : (J,EPJ/P,133,332,2018) 
 # year                  : 2018 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O24/O2418.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2418
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.96100E+00      0.00000E+00      1.40000E-05      4.00000E-06
-      4.45800E+00      0.00000E+00      6.50000E-05      1.60000E-05
-      4.95500E+00      0.00000E+00      1.74000E-04      3.20000E-05
-      5.45200E+00      0.00000E+00      3.52000E-04      5.30000E-05
-      5.94800E+00      0.00000E+00      5.82000E-04      7.60000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.9610E+00        0.0000E+00        1.4000E-05        4.0000E-06
+        4.4580E+00        0.0000E+00        6.5000E-05        1.6000E-05
+        4.9550E+00        0.0000E+00        1.7400E-04        3.2000E-05
+        5.4520E+00        0.0000E+00        3.5200E-04        5.3000E-05
+        5.9480E+00        0.0000E+00        5.8200E-04        7.6000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0171-005-0 
-# EXFOR reaction        : ['35-BR-81', ['P,6N'], '36-KR-76,,SIG'] 
+# EXFOR reaction        : (35-BR-81(P,6N)36-KR-76,,SIG) 
 # incident energy       : 6.5000e+01 MeV - 8.5000e+01 MeV 
 # target                : Br-81 
 # product               : Kr-76 
 # level energy          : - 
 # MF-MT number          : 3 - 153 
-# first author          : M.Diksic 
+# first author          : Diksic 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,PR/C,19,1753,1979) 
 # year                  : 1979 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0171.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0171
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.50000E+01      2.00000E+00      4.70000E-04      3.00000E-04
-      7.50000E+01      2.00000E+00      6.00000E-03      2.10000E-03
-      8.50000E+01      2.00000E+00      7.50000E-03      1.50000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.5000E+01        2.0000E+00        4.7000E-04        3.0000E-04
+        7.5000E+01        2.0000E+00        6.0000E-03        2.1000E-03
+        8.5000E+01        2.0000E+00        7.5000E-03        1.5000E-03

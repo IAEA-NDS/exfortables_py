@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22850-002-0 
-# EXFOR reaction        : ['43-TC-99', ['N,G'], '43-TC-100,,SIG,,AV'] 
+# EXFOR reaction        : (43-TC-99(N,G)43-TC-100,,SIG,,AV) 
 # incident energy       : 1.1500e-02 MeV - 7.2500e-02 MeV 
 # target                : Tc-99 
 # product               : Tc-100 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : T.Matsumoto 
+# first author          : Matsumoto 
 # institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
 # reference             : (J,NST,40,(2),61,200302) 
 # year                  : 2003 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22850.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22850
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.15000E-02      0.00000E+00      1.59500E+00      7.40000E-02
-      2.00000E-02      0.00000E+00      1.23400E+00      5.00000E-02
-      3.00000E-02      0.00000E+00      9.94000E-01      4.30000E-02
-      4.50000E-02      0.00000E+00      7.73000E-01      3.10000E-02
-      7.25000E-02      0.00000E+00      5.57000E-01      2.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1500E-02        0.0000E+00        1.5950E+00        7.4000E-02
+        2.0000E-02        0.0000E+00        1.2340E+00        5.0000E-02
+        3.0000E-02        0.0000E+00        9.9400E-01        4.3000E-02
+        4.5000E-02        0.0000E+00        7.7300E-01        3.1000E-02
+        7.2500E-02        0.0000E+00        5.5700E-01        2.3000E-02

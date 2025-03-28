@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20541-020-0 
-# EXFOR reaction        : ['62-SM-144', ['N,2N'], '62-SM-143-M,,SIG'] 
+# EXFOR reaction        : (62-SM-144(N,2N)62-SM-143-M,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Sm-144 
 # product               : Sm-143-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.M.Qaim 
+# first author          : Qaim 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,NP/A,224,319,197405) 
 # year                  : 1974 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20541.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20541
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      3.00000E-01      6.52000E-01      3.80000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        6.5200E-01        3.8000E-02

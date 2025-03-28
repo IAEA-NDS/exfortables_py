@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D5124-003-0 
-# EXFOR reaction        : ['27-CO-59', ['D,NON'], ',,SIG'] 
+# EXFOR reaction        : (27-CO-59(D,NON),,SIG) 
 # incident energy       : 1.3600e+01 MeV 
 # target                : Co-59 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : L.V.Dubar 
+# first author          : Dubar 
 # institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
 # reference             : (J,IZV,36,158,1972) 
 # year                  : 1972 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D51/D5124.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D5124
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36000E+01      0.00000E+00      1.48400E+00      3.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3600E+01        0.0000E+00        1.4840E+00        3.7000E-02

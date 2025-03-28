@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2773-002-0 
-# EXFOR reaction        : ['36-KR-84', ['P,G'], '37-RB-85,,SIG'] 
+# EXFOR reaction        : (36-KR-84(P,G)37-RB-85,,SIG) 
 # incident energy       : 2.1210e+00 MeV - 2.9610e+00 MeV 
 # target                : Kr-84 
 # product               : Rb-85 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.Palmisano-Kyle 
+# first author          : Palmisano-Kyle 
 # institute             : (1USAUSA): United States of America 
 # reference             : (J,PR/C,105,065804,2022) 
 # year                  : 2022 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C27/C2773.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2773
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.96100E+00      0.00000E+00      2.57200E-03      3.89000E-04
-      2.66300E+00      0.00000E+00      8.01000E-04      9.90000E-05
-      2.36700E+00      0.00000E+00      3.05000E-04      5.60000E-05
-      2.12100E+00      0.00000E+00      9.50000E-05      1.40000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9610E+00        0.0000E+00        2.5720E-03        3.8900E-04
+        2.6630E+00        0.0000E+00        8.0100E-04        9.9000E-05
+        2.3670E+00        0.0000E+00        3.0500E-04        5.6000E-05
+        2.1210E+00        0.0000E+00        9.5000E-05        1.4000E-05

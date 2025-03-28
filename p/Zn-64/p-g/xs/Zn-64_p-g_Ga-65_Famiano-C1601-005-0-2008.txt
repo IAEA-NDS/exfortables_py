@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1601-005-0 
-# EXFOR reaction        : ['30-ZN-64', ['P,G'], '31-GA-65,,SIG,,SFC'] 
+# EXFOR reaction        : (30-ZN-64(P,G)31-GA-65,,SIG,,SFC) 
 # incident energy       : 1.2260e+00 MeV - 3.5630e+00 MeV 
 # target                : Zn-64 
 # product               : Ga-65 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.A.Famiano 
+# first author          : Famiano 
 # institute             : (1USAWMU): Western Michigan University, Kalamazoo, MI 
 # reference             : (J,NP/A,802,26,2008) 
 # year                  : 2008 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C16/C1601.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1601
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.22600E+00      0.00000E+00      1.74900E+11      2.52800E+10
-      1.51600E+00      0.00000E+00      9.01800E+10      1.48700E+10
-      1.80600E+00      0.00000E+00      5.05600E+10      7.82700E+09
-      2.09600E+00      0.00000E+00      2.02500E+10      3.54100E+09
-      2.40300E+00      0.00000E+00      8.71800E+09      1.26000E+09
-      2.68000E+00      0.00000E+00      5.51300E+09      9.64000E+08
-      2.97900E+00      0.00000E+00      3.32200E+09      5.47700E+08
-      3.27300E+00      0.00000E+00      1.90800E+09      3.14600E+08
-      3.56300E+00      0.00000E+00      1.09600E+09      1.80700E+08
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2260E+00        0.0000E+00        1.7490E+11        2.5280E+10
+        1.5160E+00        0.0000E+00        9.0180E+10        1.4870E+10
+        1.8060E+00        0.0000E+00        5.0560E+10        7.8270E+09
+        2.0960E+00        0.0000E+00        2.0250E+10        3.5410E+09
+        2.4030E+00        0.0000E+00        8.7180E+09        1.2600E+09
+        2.6800E+00        0.0000E+00        5.5130E+09        9.6400E+08
+        2.9790E+00        0.0000E+00        3.3220E+09        5.4770E+08
+        3.2730E+00        0.0000E+00        1.9080E+09        3.1460E+08
+        3.5630E+00        0.0000E+00        1.0960E+09        1.8070E+08

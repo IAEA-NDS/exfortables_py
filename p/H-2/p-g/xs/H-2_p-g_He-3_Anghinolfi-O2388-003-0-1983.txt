@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2388-003-0 
-# EXFOR reaction        : ['1-H-2', ['P,G'], '2-HE-3,,SIG,,D4PI'] 
+# EXFOR reaction        : (1-H-2(P,G)2-HE-3,,SIG,,D4PI) 
 # incident energy       : 2.1470e+01 MeV - 3.2140e+01 MeV 
 # target                : H-2 
 # product               : He-3 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.Anghinolfi 
+# first author          : Anghinolfi 
 # institute             : (2ITYGVA): Universita degli Studi di Genova + INFN Genova 
 # reference             : (J,NP/A,410,173,1983) 
 # year                  : 1983 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2388.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2388
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.14700E+01      0.00000E+00      5.10000E-07      3.00000E-08
-      2.41400E+01      0.00000E+00      4.20000E-07      4.00000E-08
-      2.68100E+01      0.00000E+00      3.80000E-07      3.00000E-08
-      2.94700E+01      0.00000E+00      3.30000E-07      3.00000E-08
-      3.21400E+01      0.00000E+00      3.30000E-07      3.00000E-08
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1470E+01        0.0000E+00        5.1000E-07        3.0000E-08
+        2.4140E+01        0.0000E+00        4.2000E-07        4.0000E-08
+        2.6810E+01        0.0000E+00        3.8000E-07        3.0000E-08
+        2.9470E+01        0.0000E+00        3.3000E-07        3.0000E-08
+        3.2140E+01        0.0000E+00        3.3000E-07        3.0000E-08

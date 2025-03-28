@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41565-036-0 
-# EXFOR reaction        : ['25-MN-55', ['N,G'], '25-MN-56,,SIG,,SPA'] 
+# EXFOR reaction        : (25-MN-55(N,G)25-MN-56,,SIG,,SPA) 
 # incident energy       : 5.0000e+00 MeV 
 # target                : Mn-55 
 # product               : Mn-56 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : C.Bhatia 
+# first author          : Bhatia 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (J,ARI,70,1254,2012) 
 # year                  : 2012 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/415/41565.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41565
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.00000E+00      0.00000E+00      1.62100E-01      1.29000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+00        0.0000E+00        1.6210E-01        1.2900E-02

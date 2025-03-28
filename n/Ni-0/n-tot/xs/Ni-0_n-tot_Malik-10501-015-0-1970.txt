@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10501-015-0 
-# EXFOR reaction        : ['28-NI-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (28-NI-0(N,TOT),,SIG) 
 # incident energy       : 3.3000e-08 MeV - 2.7000e-07 MeV 
 # target                : Ni-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : S.S.Malik 
+# first author          : Malik 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,NIM,86,83,1970) 
 # year                  : 1970 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10501.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10501
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.30000E-08      0.00000E+00      2.03400E+01      0.00000E+00
-      7.50000E-08      0.00000E+00      1.94600E+01      0.00000E+00
-      1.15000E-07      0.00000E+00      1.86600E+01      0.00000E+00
-      2.70000E-07      0.00000E+00      1.82500E+01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3000E-08        0.0000E+00        2.0340E+01        0.0000E+00
+        7.5000E-08        0.0000E+00        1.9460E+01        0.0000E+00
+        1.1500E-07        0.0000E+00        1.8660E+01        0.0000E+00
+        2.7000E-07        0.0000E+00        1.8250E+01        0.0000E+00

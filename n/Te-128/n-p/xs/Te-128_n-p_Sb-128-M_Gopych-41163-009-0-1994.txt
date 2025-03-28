@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41163-009-0 
-# EXFOR reaction        : ['52-TE-128', ['N,P'], '51-SB-128-M,,SIG'] 
+# EXFOR reaction        : (52-TE-128(N,P)51-SB-128-M,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Te-128 
 # product               : Sb-128-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : P.M.Gopych 
+# first author          : Gopych 
 # institute             : (4UKRKHU): Kharkivsky Natsionalny University "V.N. Karazin", Kharkiv 
 # reference             : (J,PAN,57,363,1994) 
 # year                  : 1994 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41163.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41163
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      2.00000E-01      1.70000E-03      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        2.0000E-01        1.7000E-03        2.0000E-04

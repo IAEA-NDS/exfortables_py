@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41177-063-0 
-# EXFOR reaction        : ['72-HF-177', ['N,G'], '72-HF-178,,SIG,,MXW,DERIV'] 
+# EXFOR reaction        : (72-HF-177(N,G)72-HF-178,,SIG,,MXW,DERIV) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Hf-177 
 # product               : Hf-178 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.V.Bokhovko 
+# first author          : Bokhovko 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (R,FEI-2169,1991) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41177.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41177
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      1.66300E+00      8.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        1.6630E+00        8.3000E-02

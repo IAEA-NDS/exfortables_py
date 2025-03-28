@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0277-145-0 
-# EXFOR reaction        : ['28-NI-0', ['P,X'], '2-HE-3,IND,SIG'] 
+# EXFOR reaction        : (28-NI-0(P,X)2-HE-3,IND,SIG) 
 # incident energy       : 6.0000e+02 MeV - 2.6000e+03 MeV 
 # target                : Ni-0 
 # product               : He-3 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,103,183,1995) 
 # year                  : 1995 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0277.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0277
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+02      0.00000E+00      3.62000E-02      2.77000E-03
-      8.00000E+02      0.00000E+00      7.02000E-02      4.94000E-03
-      1.20000E+03      0.00000E+00      9.55000E-02      6.72000E-03
-      1.20000E+03      0.00000E+00      9.09000E-02      6.60000E-03
-      1.60000E+03      0.00000E+00      1.10000E-01      8.12000E-03
-      2.60000E+03      0.00000E+00      1.44000E-01      1.02000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+02        0.0000E+00        3.6200E-02        2.7700E-03
+        8.0000E+02        0.0000E+00        7.0200E-02        4.9400E-03
+        1.2000E+03        0.0000E+00        9.5500E-02        6.7200E-03
+        1.2000E+03        0.0000E+00        9.0900E-02        6.6000E-03
+        1.6000E+03        0.0000E+00        1.1000E-01        8.1200E-03
+        2.6000E+03        0.0000E+00        1.4400E-01        1.0200E-02

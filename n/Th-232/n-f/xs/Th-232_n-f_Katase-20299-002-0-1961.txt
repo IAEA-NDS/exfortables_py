@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20299-002-0 
-# EXFOR reaction        : ['90-TH-232', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (90-TH-232(N,F),,SIG) 
 # incident energy       : 1.3500e+01 MeV - 1.4800e+01 MeV 
 # target                : Th-232 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : A.Katase 
+# first author          : Katase 
 # institute             : (2JPNKYU): Kyushu University , Fukuoka 
 # reference             : (W,KATASE,196109) 
 # year                  : 1961 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20299.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20299
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35000E+01      2.00000E-01      3.10000E-01      0.00000E+00
-      1.41000E+01      1.00000E-01      3.20000E-01      0.00000E+00
-      1.48000E+01      2.00000E-01      3.40000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3500E+01        2.0000E-01        3.1000E-01        0.0000E+00
+        1.4100E+01        1.0000E-01        3.2000E-01        0.0000E+00
+        1.4800E+01        2.0000E-01        3.4000E-01        0.0000E+00

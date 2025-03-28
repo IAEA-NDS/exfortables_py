@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22020-014-0 
-# EXFOR reaction        : ['27-CO-59', ['N,2N'], '27-CO-58,,SIG,,FIS'] 
+# EXFOR reaction        : (27-CO-59(N,2N)27-CO-58,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Co-59 
 # product               : Co-58 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : W.Mannhart 
+# first author          : Mannhart 
 # institute             : (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
 # reference             : (C,84GEESTH,2,813,8409) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22020.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22020
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      2.02000E-04      6.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        2.0200E-04        6.0000E-06

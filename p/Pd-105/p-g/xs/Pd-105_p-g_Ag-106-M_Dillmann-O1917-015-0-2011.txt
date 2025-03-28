@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1917-015-0 
-# EXFOR reaction        : ['46-PD-105', ['P,G'], '47-AG-106-M,,SIG,,SFC'] 
+# EXFOR reaction        : (46-PD-105(P,G)47-AG-106-M,,SIG,,SFC) 
 # incident energy       : 2.7140e+00 MeV - 5.0380e+00 MeV 
 # target                : Pd-105 
 # product               : Ag-106-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : I.Dillmann 
+# first author          : Dillmann 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,84,015802,2011) 
 # year                  : 2011 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O19/O1917.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1917
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.71400E+00      0.00000E+00      1.06300E+12      2.38000E+11
-      2.96100E+00      0.00000E+00      1.20200E+12      1.63000E+11
-      3.46200E+00      0.00000E+00      5.18000E+11      8.40000E+10
-      3.65100E+00      0.00000E+00      6.99000E+11      7.80000E+10
-      3.99100E+00      0.00000E+00      4.95000E+11      4.90000E+10
-      4.47300E+00      0.00000E+00      2.40000E+11      2.30000E+10
-      5.03800E+00      0.00000E+00      1.14000E+11      1.20000E+10
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7140E+00        0.0000E+00        1.0630E+12        2.3800E+11
+        2.9610E+00        0.0000E+00        1.2020E+12        1.6300E+11
+        3.4620E+00        0.0000E+00        5.1800E+11        8.4000E+10
+        3.6510E+00        0.0000E+00        6.9900E+11        7.8000E+10
+        3.9910E+00        0.0000E+00        4.9500E+11        4.9000E+10
+        4.4730E+00        0.0000E+00        2.4000E+11        2.3000E+10
+        5.0380E+00        0.0000E+00        1.1400E+11        1.2000E+10

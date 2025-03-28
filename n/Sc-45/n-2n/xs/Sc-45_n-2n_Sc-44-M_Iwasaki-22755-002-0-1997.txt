@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22755-002-0 
-# EXFOR reaction        : ['21-SC-45', ['N,2N'], '21-SC-44-M,,SIG'] 
+# EXFOR reaction        : (21-SC-45(N,2N)21-SC-44-M,,SIG) 
 # incident energy       : 1.3378e+01 MeV - 1.8941e+01 MeV 
 # target                : Sc-45 
 # product               : Sc-44-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.Iwasaki 
+# first author          : Iwasaki 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : ((S,INDC(JPN)-179,169,1997)=(S,JAERI-C-97-005,169,1997)) 
 # year                  : 1997 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22755.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22755
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.33780E+01      2.35680E-02      6.78010E-02      0.00000E+00
-      1.43380E+01      2.35680E-02      1.31840E-01      0.00000E+00
-      1.56480E+01      2.35680E-02      1.53650E-01      0.00000E+00
-      1.69190E+01      2.35680E-02      1.62200E-01      0.00000E+00
-      1.80040E+01      2.35680E-02      1.62060E-01      0.00000E+00
-      1.86880E+01      2.35680E-02      1.68570E-01      0.00000E+00
-      1.89410E+01      2.35680E-02      1.63950E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3378E+01        2.3568E-02        6.7801E-02        0.0000E+00
+        1.4338E+01        2.3568E-02        1.3184E-01        0.0000E+00
+        1.5648E+01        2.3568E-02        1.5365E-01        0.0000E+00
+        1.6919E+01        2.3568E-02        1.6220E-01        0.0000E+00
+        1.8004E+01        2.3568E-02        1.6206E-01        0.0000E+00
+        1.8688E+01        2.3568E-02        1.6857E-01        0.0000E+00
+        1.8941E+01        2.3568E-02        1.6395E-01        0.0000E+00

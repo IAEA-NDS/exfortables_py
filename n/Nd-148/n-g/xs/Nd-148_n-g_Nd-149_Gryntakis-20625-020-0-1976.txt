@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20625-020-0 
-# EXFOR reaction        : ['60-ND-148', ['N,G'], '60-ND-149,,SIG'] 
+# EXFOR reaction        : (60-ND-148(N,G)60-ND-149,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Nd-148 
 # product               : Nd-149 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : E.M.Gryntakis 
+# first author          : Gryntakis 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (T,GRYNTAKIS,1976) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20625.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20625
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.45000E+00      1.40000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.4500E+00        1.4000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14211-005-0 
-# EXFOR reaction        : ['39-Y-89', ['N,2N'], '39-Y-88-L2,,SIG'] 
+# EXFOR reaction        : (39-Y-89(N,2N)39-Y-88-L2,,SIG) 
 # incident energy       : 1.1882e+01 MeV - 1.9280e+01 MeV 
 # target                : Y-89 
 # product               : Y-88-L2 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : P.E.Garrett 
+# first author          : Garrett 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (R,UCRL-ID-153190,2003) 
 # year                  : 2003 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/142/14211.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14211
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.18820E+01      4.64000E-01      1.00000E-04      0.00000E+00
-      1.27760E+01      5.19000E-01      6.80000E-03      7.00000E-04
-      1.37740E+01      5.80000E-01      3.10000E-02      3.20000E-03
-      1.49150E+01      6.63000E-01      6.65000E-02      7.30000E-03
-      1.62050E+01      7.43000E-01      1.02800E-01      1.53000E-02
-      1.76370E+01      8.52000E-01      1.30900E-01      2.42000E-02
-      1.92800E+01      9.20000E-01      1.50900E-01      3.08000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1882E+01        4.6400E-01        1.0000E-04        0.0000E+00
+        1.2776E+01        5.1900E-01        6.8000E-03        7.0000E-04
+        1.3774E+01        5.8000E-01        3.1000E-02        3.2000E-03
+        1.4915E+01        6.6300E-01        6.6500E-02        7.3000E-03
+        1.6205E+01        7.4300E-01        1.0280E-01        1.5300E-02
+        1.7637E+01        8.5200E-01        1.3090E-01        2.4200E-02
+        1.9280E+01        9.2000E-01        1.5090E-01        3.0800E-02

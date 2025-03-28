@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20205-007-0 
-# EXFOR reaction        : ['42-MO-100', ['N,G'], '42-MO-101,,SIG'] 
+# EXFOR reaction        : (42-MO-100(N,G)42-MO-101,,SIG) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : Mo-100 
 # product               : Mo-101 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.F.Vervier 
+# first author          : Vervier 
 # institute             : (2BLGLVN): Catholic University of Louvain, Louvain-la-Neuve 
 # reference             : (J,NP,9,569,5901) 
 # year                  : 1959 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20205.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20205
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      0.00000E+00      1.48000E-01      3.90000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        1.4800E-01        3.9000E-02

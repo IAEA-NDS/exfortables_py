@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0196-003-0 
-# EXFOR reaction        : ['13-AL-27', ['P,X'], '4-BE-10,,SIG'] 
+# EXFOR reaction        : (13-AL-27(P,X)4-BE-10,,SIG) 
 # incident energy       : 4.0200e+01 MeV - 6.7500e+01 MeV 
 # target                : Al-27 
 # product               : Be-10 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.M.Sisterson 
+# first author          : Sisterson 
 # institute             : (1USAHRV): Harvard University, Cambridge, MA 
 # reference             : (C,96DENTON,,811,1996) 
 # year                  : 1996 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C01/C0196.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0196
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.02000E+01      0.00000E+00      3.00000E-06      1.00000E-06
-      6.00000E+01      0.00000E+00      2.20000E-05      2.00000E-06
-      6.75000E+01      0.00000E+00      2.30000E-05      3.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0200E+01        0.0000E+00        3.0000E-06        1.0000E-06
+        6.0000E+01        0.0000E+00        2.2000E-05        2.0000E-06
+        6.7500E+01        0.0000E+00        2.3000E-05        3.0000E-06

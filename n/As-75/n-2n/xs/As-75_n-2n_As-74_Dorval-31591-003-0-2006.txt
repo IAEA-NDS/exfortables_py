@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31591-003-0 
-# EXFOR reaction        : ['33-AS-75', ['N,2N'], '33-AS-74,,SIG,,FIS'] 
+# EXFOR reaction        : (33-AS-75(N,2N)33-AS-74,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : As-75 
 # product               : As-74 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : E.L.Dorval 
+# first author          : Dorval 
 # institute             : (3ARGARG): Argentina 
 # reference             : (J,JRN,270,603,2006) 
 # year                  : 2006 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31591.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31591
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      3.71000E-04      3.20000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        3.7100E-04        3.2000E-05

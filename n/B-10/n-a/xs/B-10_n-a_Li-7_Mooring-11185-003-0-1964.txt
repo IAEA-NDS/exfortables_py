@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11185-003-0 
-# EXFOR reaction        : ['5-B-10', ['N,A'], '3-LI-7,,SIG'] 
+# EXFOR reaction        : (5-B-10(N,A)3-LI-7,,SIG) 
 # incident energy       : 1.1500e-02 MeV - 7.7100e-02 MeV 
 # target                : B-10 
 # product               : Li-7 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : F.P.Mooring 
+# first author          : Mooring 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (P,ANL-6877,5,64) 
 # year                  : 1964 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/111/11185.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11185
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.15000E-02      0.00000E+00      5.57000E+00      9.00000E-02
-      2.03000E-02      0.00000E+00      4.37000E+00      8.00000E-02
-      2.89000E-02      0.00000E+00      3.67000E+00      1.60000E-01
-      3.73000E-02      0.00000E+00      3.38000E+00      1.10000E-01
-      4.67000E-02      0.00000E+00      3.04000E+00      4.00000E-02
-      5.66000E-02      0.00000E+00      2.85000E+00      1.00000E-01
-      6.62000E-02      0.00000E+00      2.70000E+00      5.00000E-02
-      7.71000E-02      0.00000E+00      2.47000E+00      5.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1500E-02        0.0000E+00        5.5700E+00        9.0000E-02
+        2.0300E-02        0.0000E+00        4.3700E+00        8.0000E-02
+        2.8900E-02        0.0000E+00        3.6700E+00        1.6000E-01
+        3.7300E-02        0.0000E+00        3.3800E+00        1.1000E-01
+        4.6700E-02        0.0000E+00        3.0400E+00        4.0000E-02
+        5.6600E-02        0.0000E+00        2.8500E+00        1.0000E-01
+        6.6200E-02        0.0000E+00        2.7000E+00        5.0000E-02
+        7.7100E-02        0.0000E+00        2.4700E+00        5.0000E-02

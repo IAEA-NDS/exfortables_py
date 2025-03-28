@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30447-002-0 
-# EXFOR reaction        : ['13-AL-27', ['N,2N'], '13-AL-26-M,,SIG'] 
+# EXFOR reaction        : (13-AL-27(N,2N)13-AL-26-M,,SIG) 
 # incident energy       : 1.5100e+01 MeV 
 # target                : Al-27 
 # product               : Al-26-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : G.Shani 
+# first author          : Shani 
 # institute             : (3ISLNEG): Ben Gurion University of the Negev, Beer-Sheva 
 # reference             : (R,INIS-MF-3663,83,197612) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30447.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30447
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.51000E+01      0.00000E+00      6.20000E-04      5.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5100E+01        0.0000E+00        6.2000E-04        5.0000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10536-072-0 
-# EXFOR reaction        : ['81-TL-203', ['N,4N'], '81-TL-200,,SIG'] 
+# EXFOR reaction        : (81-TL-203(N,4N)81-TL-200,,SIG) 
 # incident energy       : 2.6060e+01 MeV 
 # target                : Tl-203 
 # product               : Tl-200 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : B.P.Bayhurst 
+# first author          : Bayhurst 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,PR/C,12,451,197508) 
 # year                  : 1975 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10536.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10536
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.60600E+01      1.20000E-01      3.90000E-02      1.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6060E+01        1.2000E-01        3.9000E-02        1.1000E-02

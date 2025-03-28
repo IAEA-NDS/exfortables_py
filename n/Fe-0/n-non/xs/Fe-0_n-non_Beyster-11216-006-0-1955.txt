@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11216-006-0 
-# EXFOR reaction        : ['26-FE-0', ['N,NON'], ',,SIG'] 
+# EXFOR reaction        : (26-FE-0(N,NON),,SIG) 
 # incident energy       : 1.0000e+00 MeV - 4.5000e+00 MeV 
 # target                : Fe-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : J.R.Beyster 
+# first author          : Beyster 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,PR,98,1216,5506) 
 # year                  : 1955 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11216.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11216
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      2.00000E-01      4.10000E-01      3.00000E-02
-      4.00000E+00      7.00000E-01      1.42000E+00      5.00000E-02
-      4.50000E+00      7.00000E-01      1.33000E+00      5.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        2.0000E-01        4.1000E-01        3.0000E-02
+        4.0000E+00        7.0000E-01        1.4200E+00        5.0000E-02
+        4.5000E+00        7.0000E-01        1.3300E+00        5.0000E-02

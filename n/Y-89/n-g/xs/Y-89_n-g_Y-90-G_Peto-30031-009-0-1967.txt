@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30031-009-0 
-# EXFOR reaction        : ['39-Y-89', ['N,G'], '39-Y-90-G,', ['M'], ',SIG'] 
+# EXFOR reaction        : (39-Y-89(N,G)39-Y-90-G,(M),SIG) 
 # incident energy       : 3.0000e+00 MeV 
 # target                : Y-89 
 # product               : Y-90-G 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : G.Peto 
+# first author          : Peto 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,JNE,21,797,1967) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30031.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30031
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+00      2.00000E-01      3.60000E-03      4.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+00        2.0000E-01        3.6000E-03        4.0000E-04

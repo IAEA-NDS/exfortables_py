@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2027-002-2 
-# EXFOR reaction        : ['58-CE-142', ['D,P'], '58-CE-143,,SIG'] 
+# EXFOR reaction        : (58-CE-142(D,P)58-CE-143,,SIG) 
 # incident energy       : 1.1800e+01 MeV 
 # target                : Ce-142 
 # product               : Ce-143 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : R.Bock 
+# first author          : Bock 
 # institute             : (2GERMPH): Max-Planck-Institut fuer Kernphysik, Heidelberg 
 # reference             : (J,ZP,174,440,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2027.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2027
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.18000E+01      0.00000E+00      1.87000E-01      1.30900E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1800E+01        0.0000E+00        1.8700E-01        1.3090E-02

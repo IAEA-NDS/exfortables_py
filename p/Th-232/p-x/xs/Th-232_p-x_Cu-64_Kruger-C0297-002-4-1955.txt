@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0297-002-4 
-# EXFOR reaction        : ['90-TH-232', ['P,X'], '29-CU-64,,SIG'] 
+# EXFOR reaction        : (90-TH-232(P,X)29-CU-64,,SIG) 
 # incident energy       : 4.5000e+02 MeV 
 # target                : Th-232 
 # product               : Cu-64 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : P.Kruger 
+# first author          : Kruger 
 # institute             : (1USACHI): University of Chicago, IL 
 # reference             : (J,PR,99,1459,1955) 
 # year                  : 1955 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0297.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0297
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.50000E+02      0.00000E+00      1.10000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5000E+02        0.0000E+00        1.1000E-04        0.0000E+00

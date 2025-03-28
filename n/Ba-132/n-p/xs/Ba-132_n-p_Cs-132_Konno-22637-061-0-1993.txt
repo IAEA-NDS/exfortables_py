@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22637-061-0 
-# EXFOR reaction        : ['56-BA-132', ['N,P'], '55-CS-132,,SIG'] 
+# EXFOR reaction        : (56-BA-132(N,P)55-CS-132,,SIG) 
 # incident energy       : 1.3340e+01 MeV - 1.4950e+01 MeV 
 # target                : Ba-132 
 # product               : Cs-132 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : C.Konno 
+# first author          : Konno 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (R,JAERI-1329,1993) 
 # year                  : 1993 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22637.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22637
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49500E+01      0.00000E+00      2.01000E-02      4.60000E-03
-      1.46800E+01      0.00000E+00      1.78000E-02      4.10000E-03
-      1.39900E+01      0.00000E+00      1.49000E-02      3.50000E-03
-      1.33400E+01      0.00000E+00      1.27000E-02      2.90000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4950E+01        0.0000E+00        2.0100E-02        4.6000E-03
+        1.4680E+01        0.0000E+00        1.7800E-02        4.1000E-03
+        1.3990E+01        0.0000E+00        1.4900E-02        3.5000E-03
+        1.3340E+01        0.0000E+00        1.2700E-02        2.9000E-03

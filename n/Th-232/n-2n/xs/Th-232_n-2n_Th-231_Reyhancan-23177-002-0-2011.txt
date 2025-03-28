@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23177-002-0 
-# EXFOR reaction        : ['90-TH-232', ['N,2N'], '90-TH-231,,SIG'] 
+# EXFOR reaction        : (90-TH-232(N,2N)90-TH-231,,SIG) 
 # incident energy       : 1.3570e+01 MeV - 1.4830e+01 MeV 
 # target                : Th-232 
 # product               : Th-231 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : I.A.Reyhancan 
+# first author          : Reyhancan 
 # institute             : (2TUKSTU): Istanbul University 
 # reference             : (J,ANE,38,2359,2011) 
 # year                  : 2011 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23177.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23177
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35700E+01      4.00000E-02      1.97000E+00      1.18000E-01
-      1.37500E+01      5.00000E-02      1.56880E+00      7.90000E-02
-      1.41500E+01      7.00000E-02      1.55670E+00      7.70000E-02
-      1.45200E+01      9.00000E-02      1.21570E+00      6.10000E-02
-      1.47500E+01      9.00000E-02      1.17420E+00      5.90000E-02
-      1.48300E+01      1.00000E-01      1.08940E+00      5.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3570E+01        4.0000E-02        1.9700E+00        1.1800E-01
+        1.3750E+01        5.0000E-02        1.5688E+00        7.9000E-02
+        1.4150E+01        7.0000E-02        1.5567E+00        7.7000E-02
+        1.4520E+01        9.0000E-02        1.2157E+00        6.1000E-02
+        1.4750E+01        9.0000E-02        1.1742E+00        5.9000E-02
+        1.4830E+01        1.0000E-01        1.0894E+00        5.5000E-02

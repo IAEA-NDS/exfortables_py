@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1411-229-0 
-# EXFOR reaction        : ['94-PU-244', ['P,F'], '48-CD-117-G,', ['CUM'], ',SIG'] 
+# EXFOR reaction        : (94-PU-244(P,F)48-CD-117-G,(CUM),SIG) 
 # incident energy       : 1.4400e+01 MeV - 1.8000e+01 MeV 
 # target                : Pu-244 
 # product               : Cd-117-G 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : T.Ohtsuki 
+# first author          : Ohtsuki 
 # institute             : (2JPNTMU): Tokyo Metropolitan University , Hachioji, Tokyo 
 # reference             : (J,PR/C,44,1405,1991) 
 # year                  : 1991 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E14/E1411.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1411
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.44000E+01      0.00000E+00      1.66000E-03      5.50000E-04
-      1.80000E+01      0.00000E+00      1.23100E-02      7.40000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4400E+01        0.0000E+00        1.6600E-03        5.5000E-04
+        1.8000E+01        0.0000E+00        1.2310E-02        7.4000E-04

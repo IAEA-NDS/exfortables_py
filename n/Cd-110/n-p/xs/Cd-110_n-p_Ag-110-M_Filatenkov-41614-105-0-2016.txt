@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41614-105-0 
-# EXFOR reaction        : ['48-CD-110', ['N,P'], '47-AG-110-M,,SIG'] 
+# EXFOR reaction        : (48-CD-110(N,P)47-AG-110-M,,SIG) 
 # incident energy       : 1.3450e+01 MeV - 1.4880e+01 MeV 
 # target                : Cd-110 
 # product               : Ag-110-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,INDC(CCP)-0460,2016) 
 # year                  : 2016 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34500E+01      0.00000E+00      6.01000E-03      2.60834E-04
-      1.38800E+01      0.00000E+00      6.63000E-03      2.51940E-04
-      1.44400E+01      0.00000E+00      8.27000E-03      3.88690E-04
-      1.46400E+01      0.00000E+00      8.52000E-03      3.88512E-04
-      1.48800E+01      0.00000E+00      9.52000E-03      6.73064E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3450E+01        0.0000E+00        6.0100E-03        2.6083E-04
+        1.3880E+01        0.0000E+00        6.6300E-03        2.5194E-04
+        1.4440E+01        0.0000E+00        8.2700E-03        3.8869E-04
+        1.4640E+01        0.0000E+00        8.5200E-03        3.8851E-04
+        1.4880E+01        0.0000E+00        9.5200E-03        6.7306E-04

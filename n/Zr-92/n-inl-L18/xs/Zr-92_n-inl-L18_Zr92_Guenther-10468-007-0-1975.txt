@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10468-007-0 
-# EXFOR reaction        : ['40-ZR-92', ['N,INL'], '40-ZR-92,PAR,SIG'] 
+# EXFOR reaction        : (40-ZR-92(N,INL)40-ZR-92,PAR,SIG) 
 # incident energy       : 3.8000e+00 MeV - 4.0000e+00 MeV 
 # target                : Zr-92 
 # product               : Zr-92 
 # level energy          : 3.0630e+00 MeV 
 # MF-MT number          : 3 - 68 
-# first author          : P.Guenther 
+# first author          : Guenther 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,PR/C,12,1797,197512) 
 # year                  : 1975 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10468.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10468
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.80000E+00      0.00000E+00      2.85600E-01      5.59000E-02
-      4.00000E+00      0.00000E+00      2.17700E-01      5.44000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.8000E+00        0.0000E+00        2.8560E-01        5.5900E-02
+        4.0000E+00        0.0000E+00        2.1770E-01        5.4400E-02

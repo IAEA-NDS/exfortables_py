@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21381-002-0 
-# EXFOR reaction        : ['9-F-19', ['N,INL'], '9-F-19,PAR,SIG'] 
+# EXFOR reaction        : (9-F-19(N,INL)9-F-19,PAR,SIG) 
 # incident energy       : 2.5000e+00 MeV 
 # target                : F-19 
 # product               : F-19 
 # level energy          : 1.3000e+00 MeV 
 # MF-MT number          : 3 - 53 
-# first author          : M.A.Grace 
+# first author          : Grace 
 # institute             : (2UK OXF): University of Oxford, Oxford 
 # reference             : (J,PR,82,969,195106) 
 # year                  : 1951 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21381.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21381
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E+00      2.00000E-01      5.20000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+00        2.0000E-01        5.2000E-01        0.0000E+00

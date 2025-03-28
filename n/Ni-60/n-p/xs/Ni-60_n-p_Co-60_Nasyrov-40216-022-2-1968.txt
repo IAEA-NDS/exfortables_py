@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40216-022-2 
-# EXFOR reaction        : ['28-NI-60', ['N,P'], '27-CO-60,,SIG,,SPA'] 
+# EXFOR reaction        : (28-NI-60(N,P)27-CO-60,,SIG,,SPA) 
 # incident energy       : 1.4200e+00 MeV 
 # target                : Ni-60 
 # product               : Co-60 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : F.Nasyrov 
+# first author          : Nasyrov 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (J,AE,25,(5),437,1968) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40216.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40216
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+00      4.00000E-02      9.40000E-04      1.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+00        4.0000E-02        9.4000E-04        1.0000E-04

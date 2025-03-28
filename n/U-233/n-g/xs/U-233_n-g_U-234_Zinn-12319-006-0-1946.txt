@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12319-006-0 
-# EXFOR reaction        : ['92-U-233', ['N,G'], '92-U-234,,SIG,,MXW'] 
+# EXFOR reaction        : (92-U-233(N,G)92-U-234,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : U-233 
 # product               : U-234 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : W.H.Zinn 
+# first author          : Zinn 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (R,CF-3651,4610) 
 # year                  : 1946 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/123/12319.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12319
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      5.80000E+01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        5.8000E+01        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12052-002-0 
-# EXFOR reaction        : ['59-PR-143', ['N,G'], '59-PR-144,,SIG,,MXW'] 
+# EXFOR reaction        : (59-PR-143(N,G)59-PR-144,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Pr-143 
 # product               : Pr-144 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.C.Roy 
+# first author          : Roy 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (J,CJP,37,907,59) 
 # year                  : 1959 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12052.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12052
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      8.90000E+01      1.00000E+01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        8.9000E+01        1.0000E+01

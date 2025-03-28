@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2243-002-0 
-# EXFOR reaction        : ['29-CU-0', ['P,X'], '27-CO-55,CUM,SIG'] 
+# EXFOR reaction        : (29-CU-0(P,X)27-CO-55,CUM,SIG) 
 # incident energy       : 6.9100e+01 MeV - 8.9400e+01 MeV 
 # target                : Cu-0 
 # product               : Co-55 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.A.Graves 
+# first author          : Graves 
 # institute             : (1USAWIS): University of Wisconsin, Madison, WI 
 # reference             : (J,NIM/B,386,44,2016) 
 # year                  : 2016 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C22/C2243.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2243
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.94000E+01      6.00000E-01      1.60000E-03      1.10000E-04
-      7.86000E+01      9.00000E-01      7.88000E-04      6.90000E-05
-      6.91000E+01      1.10000E+00      1.08000E-04      1.40000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.9400E+01        6.0000E-01        1.6000E-03        1.1000E-04
+        7.8600E+01        9.0000E-01        7.8800E-04        6.9000E-05
+        6.9100E+01        1.1000E+00        1.0800E-04        1.4000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22939-027-2 
-# EXFOR reaction        : ['52-TE-120', ['N,G'], '52-TE-121-G,,SIG,,SPA'] 
+# EXFOR reaction        : (52-TE-120(N,G)52-TE-121-G,,SIG,,SPA) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : Te-120 
 # product               : Te-121-G 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : I.Dillmann 
+# first author          : Dillmann 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (J,PR/C,81,015801,2010) 
 # year                  : 2010 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22939.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22939
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      5.00000E-04      4.99800E-01      2.35000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        5.0000E-04        4.9980E-01        2.3500E-02

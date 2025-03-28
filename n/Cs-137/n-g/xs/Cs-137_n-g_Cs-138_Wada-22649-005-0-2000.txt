@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22649-005-0 
-# EXFOR reaction        : ['55-CS-137', ['N,G'], '55-CS-138,,SIG,,SPA,RECOM'] 
+# EXFOR reaction        : (55-CS-137(N,G)55-CS-138,,SIG,,SPA,RECOM) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Cs-137 
 # product               : Cs-138 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.Wada 
+# first author          : Wada 
 # institute             : (2JPNJNC): Japan Nuclear Cycle Development Institute , Tokai-mura 
 # reference             : (J,NST,37,827,2000) 
 # year                  : 2000 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22649.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22649
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.90000E-01      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.9000E-01        2.0000E-02

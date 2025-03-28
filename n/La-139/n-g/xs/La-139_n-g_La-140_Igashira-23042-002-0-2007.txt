@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23042-002-0 
-# EXFOR reaction        : ['57-LA-139', ['N,G'], '57-LA-140,,SIG'] 
+# EXFOR reaction        : (57-LA-139(N,G)57-LA-140,,SIG) 
 # incident energy       : 2.0513e-02 MeV - 5.5800e-01 MeV 
 # target                : La-139 
 # product               : La-140 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.Igashira 
+# first author          : Igashira 
 # institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
 # reference             : (C,2007NICE,2,1299,200704) 
 # year                  : 2007 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23042.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23042
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.05131E-02      0.00000E+00      5.56725E-02      2.78496E-03
-      3.02513E-02      0.00000E+00      4.11748E-02      1.93305E-03
-      4.44573E-02      0.00000E+00      3.01776E-02      1.35017E-03
-      6.68750E-02      0.00000E+00      2.34443E-02      9.69070E-04
-      5.58000E-01      0.00000E+00      5.64000E-03      3.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0513E-02        0.0000E+00        5.5672E-02        2.7850E-03
+        3.0251E-02        0.0000E+00        4.1175E-02        1.9330E-03
+        4.4457E-02        0.0000E+00        3.0178E-02        1.3502E-03
+        6.6875E-02        0.0000E+00        2.3444E-02        9.6907E-04
+        5.5800E-01        0.0000E+00        5.6400E-03        3.0000E-04

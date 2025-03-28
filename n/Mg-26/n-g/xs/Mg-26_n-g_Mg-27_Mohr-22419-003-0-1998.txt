@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22419-003-0 
-# EXFOR reaction        : ['12-MG-26', ['N,G'], '12-MG-27,,SIG,,SPA'] 
+# EXFOR reaction        : (12-MG-26(N,G)12-MG-27,,SIG,,SPA) 
 # incident energy       : 3.3000e-02 MeV - 2.0800e-01 MeV 
 # target                : Mg-26 
 # product               : Mg-27 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : P.Mohr 
+# first author          : Mohr 
 # institute             : (2GERTHD): Technische Universitaet Darmstadt 
 # reference             : (J,PR/C,58,(2),932,199808) 
 # year                  : 1998 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22419.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22419
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.30000E-02      2.00000E-02      5.68000E-05      3.00000E-06
-      1.02000E-01      0.00000E+00      8.21000E-05      4.50000E-06
-      1.51000E-01      0.00000E+00      8.49000E-05      5.00000E-06
-      1.78000E-01      0.00000E+00      1.88000E-04      2.80000E-05
-      2.08000E-01      5.00000E-02      7.35000E-04      4.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3000E-02        2.0000E-02        5.6800E-05        3.0000E-06
+        1.0200E-01        0.0000E+00        8.2100E-05        4.5000E-06
+        1.5100E-01        0.0000E+00        8.4900E-05        5.0000E-06
+        1.7800E-01        0.0000E+00        1.8800E-04        2.8000E-05
+        2.0800E-01        5.0000E-02        7.3500E-04        4.0000E-05

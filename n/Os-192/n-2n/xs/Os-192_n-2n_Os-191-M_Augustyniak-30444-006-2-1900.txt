@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30444-006-2 
-# EXFOR reaction        : ['76-OS-192', ['N,2N'], '76-OS-191-M,,SIG'] 
+# EXFOR reaction        : (76-OS-192(N,2N)76-OS-191-M,,SIG) 
 # incident energy       : 1.3000e+01 MeV - 1.6600e+01 MeV 
 # target                : Os-192 
 # product               : Os-191-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : W.Augustyniak 
+# first author          : Augustyniak 
 # institute             : (3POLIBJ): Institute Badan Jadr., Swierk and Warszawa 
 # reference             : no reference 
 # year                  : no info 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30444.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30444
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.30000E+01      4.00000E-01      1.14700E+00      2.29000E-01
-      1.34000E+01      2.00000E-01      8.58000E-01      2.08000E-01
-      1.39000E+01      3.00000E-01      7.31000E-01      1.76000E-01
-      1.45000E+01      3.00000E-01      1.08300E+00      3.23000E-01
-      1.50000E+01      3.00000E-01      7.22000E-01      7.40000E-02
-      1.54000E+01      2.00000E-01      7.30000E-01      1.14000E-01
-      1.59000E+01      5.00000E-01      8.40000E-01      8.50000E-02
-      1.66000E+01      1.00000E-01      8.07000E-01      1.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3000E+01        4.0000E-01        1.1470E+00        2.2900E-01
+        1.3400E+01        2.0000E-01        8.5800E-01        2.0800E-01
+        1.3900E+01        3.0000E-01        7.3100E-01        1.7600E-01
+        1.4500E+01        3.0000E-01        1.0830E+00        3.2300E-01
+        1.5000E+01        3.0000E-01        7.2200E-01        7.4000E-02
+        1.5400E+01        2.0000E-01        7.3000E-01        1.1400E-01
+        1.5900E+01        5.0000E-01        8.4000E-01        8.5000E-02
+        1.6600E+01        1.0000E-01        8.0700E-01        1.0000E-01

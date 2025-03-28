@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40960-077-0 
-# EXFOR reaction        : ['50-SN-117', ['N,G'], '50-SN-118,,SIG,,MXW,DERIV'] 
+# EXFOR reaction        : (50-SN-117(N,G)50-SN-118,,SIG,,MXW,DERIV) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Sn-117 
 # product               : Sn-118 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.M.Timokhov 
+# first author          : Timokhov 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (R,FEI-1921,1988) 
 # year                  : 1988 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40960.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40960
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      3.08000E-01      1.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        3.0800E-01        1.5000E-02

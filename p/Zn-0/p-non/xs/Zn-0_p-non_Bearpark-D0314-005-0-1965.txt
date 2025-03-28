@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0314-005-0 
-# EXFOR reaction        : ['30-ZN-0', ['P,NON'], ',,SIG'] 
+# EXFOR reaction        : (30-ZN-0(P,NON),,SIG) 
 # incident energy       : 8.7700e+00 MeV - 1.0880e+01 MeV 
 # target                : Zn-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : K.Bearpark 
+# first author          : Bearpark 
 # institute             : (2UK OXF): University of Oxford, Oxford 
 # reference             : (J,NP,73,206,1965) 
 # year                  : 1965 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D03/D0314.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0314
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.77000E+00      7.30000E-01      7.40000E-01      3.60000E-02
-      9.31000E+00      7.00000E-01      7.71000E-01      3.30000E-02
-      9.83000E+00      6.70000E-01      8.10000E-01      3.20000E-02
-      1.03600E+01      6.40000E-01      8.44000E-01      3.20000E-02
-      1.08800E+01      6.20000E-01      8.62000E-01      3.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.7700E+00        7.3000E-01        7.4000E-01        3.6000E-02
+        9.3100E+00        7.0000E-01        7.7100E-01        3.3000E-02
+        9.8300E+00        6.7000E-01        8.1000E-01        3.2000E-02
+        1.0360E+01        6.4000E-01        8.4400E-01        3.2000E-02
+        1.0880E+01        6.2000E-01        8.6200E-01        3.1000E-02

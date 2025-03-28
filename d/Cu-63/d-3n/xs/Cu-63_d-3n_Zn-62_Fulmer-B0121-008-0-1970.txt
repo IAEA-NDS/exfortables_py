@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0121-008-0 
-# EXFOR reaction        : ['29-CU-63', ['D,3N'], '30-ZN-62,,SIG,,A,EXP'] 
+# EXFOR reaction        : (29-CU-63(D,3N)30-ZN-62,,SIG,,A,EXP) 
 # incident energy       : 1.7300e+01 MeV - 3.8300e+01 MeV 
 # target                : Cu-63 
 # product               : Zn-62 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : C.B.Fulmer 
+# first author          : Fulmer 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,NP/A,155,40,1970) 
 # year                  : 1970 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0121.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0121
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.73000E+01      0.00000E+00      1.10000E-03      5.20000E-04
-      2.12000E+01      0.00000E+00      1.12000E-02      2.00000E-03
-      2.42000E+01      0.00000E+00      3.22000E-02      5.10000E-03
-      2.73000E+01      0.00000E+00      5.57000E-02      8.30000E-03
-      3.03000E+01      0.00000E+00      6.55000E-02      9.70000E-03
-      3.33000E+01      0.00000E+00      7.30000E-02      1.00000E-02
-      3.57000E+01      0.00000E+00      6.80000E-02      9.20000E-03
-      3.83000E+01      0.00000E+00      5.78000E-02      8.30000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7300E+01        0.0000E+00        1.1000E-03        5.2000E-04
+        2.1200E+01        0.0000E+00        1.1200E-02        2.0000E-03
+        2.4200E+01        0.0000E+00        3.2200E-02        5.1000E-03
+        2.7300E+01        0.0000E+00        5.5700E-02        8.3000E-03
+        3.0300E+01        0.0000E+00        6.5500E-02        9.7000E-03
+        3.3300E+01        0.0000E+00        7.3000E-02        1.0000E-02
+        3.5700E+01        0.0000E+00        6.8000E-02        9.2000E-03
+        3.8300E+01        0.0000E+00        5.7800E-02        8.3000E-03

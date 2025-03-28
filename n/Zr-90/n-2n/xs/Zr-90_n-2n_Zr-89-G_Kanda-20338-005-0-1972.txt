@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20338-005-0 
-# EXFOR reaction        : ['40-ZR-90', ['N,2N'], '40-ZR-89-G,,SIG,,,DERIV'] 
+# EXFOR reaction        : (40-ZR-90(N,2N)40-ZR-89-G,,SIG,,,DERIV) 
 # incident energy       : 1.3440e+01 MeV - 1.4870e+01 MeV 
 # target                : Zr-90 
 # product               : Zr-89-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : Y.Kanda 
+# first author          : Kanda 
 # institute             : (2JPNKYU): Kyushu University , Fukuoka 
 # reference             : (J,NP/A,185,177,1972) 
 # year                  : 1972 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20338.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20338
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34400E+01      0.00000E+00      2.97000E-01      6.20000E-02
-      1.37400E+01      0.00000E+00      5.76000E-01      8.60000E-02
-      1.39200E+01      0.00000E+00      6.05000E-01      8.50000E-02
-      1.41800E+01      0.00000E+00      7.23000E-01      1.01000E-01
-      1.43400E+01      0.00000E+00      7.58000E-01      1.06000E-01
-      1.48700E+01      0.00000E+00      7.42000E-01      1.04000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3440E+01        0.0000E+00        2.9700E-01        6.2000E-02
+        1.3740E+01        0.0000E+00        5.7600E-01        8.6000E-02
+        1.3920E+01        0.0000E+00        6.0500E-01        8.5000E-02
+        1.4180E+01        0.0000E+00        7.2300E-01        1.0100E-01
+        1.4340E+01        0.0000E+00        7.5800E-01        1.0600E-01
+        1.4870E+01        0.0000E+00        7.4200E-01        1.0400E-01

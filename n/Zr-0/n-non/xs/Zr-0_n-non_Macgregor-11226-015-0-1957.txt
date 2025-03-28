@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11226-015-0 
-# EXFOR reaction        : ['40-ZR-0', ['N,NON'], ',,SIG'] 
+# EXFOR reaction        : (40-ZR-0(N,NON),,SIG) 
 # incident energy       : 1.4200e+01 MeV 
 # target                : Zr-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : M.H.Macgregor 
+# first author          : Macgregor 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,108,726,1957) 
 # year                  : 1957 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11226.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11226
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+01      0.00000E+00      1.72000E+00      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        0.0000E+00        1.7200E+00        3.0000E-02

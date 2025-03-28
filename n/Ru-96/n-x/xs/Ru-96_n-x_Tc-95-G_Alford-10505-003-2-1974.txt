@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10505-003-2 
-# EXFOR reaction        : ['44-RU-96', ['N,X'], '43-TC-95-G,,SIG'] 
+# EXFOR reaction        : (44-RU-96(N,X)43-TC-95-G,,SIG) 
 # incident energy       : 1.5100e+01 MeV 
 # target                : Ru-96 
 # product               : Tc-95-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : W.L.Alford 
+# first author          : Alford 
 # institute             : (1USAAUB): Auburn University, Auburn, AL 
 # reference             : (J,BAP,19,1123(FB4),197411) 
 # year                  : 1974 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10505.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10505
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.51000E+01      0.00000E+00      3.03000E-01      6.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5100E+01        0.0000E+00        3.0300E-01        6.5000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41456-012-0 
-# EXFOR reaction        : ['42-MO-97', ['N,P'], '41-NB-97,,SIG'] 
+# EXFOR reaction        : (42-MO-97(N,P)41-NB-97,,SIG) 
 # incident energy       : 1.3480e+01 MeV - 1.4820e+01 MeV 
 # target                : Mo-97 
 # product               : Nb-97 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : P.Reimer 
+# first author          : Reimer 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,PR/C,71,044617,200504) 
 # year                  : 2005 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41456.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41456
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34800E+01      0.00000E+00      1.49000E-02      1.80000E-03
-      1.36400E+01      0.00000E+00      1.50000E-02      2.70000E-03
-      1.38700E+01      0.00000E+00      1.57000E-02      2.40000E-03
-      1.40500E+01      0.00000E+00      1.69000E-02      7.00000E-04
-      1.42800E+01      0.00000E+00      1.78000E-02      1.20000E-03
-      1.44500E+01      0.00000E+00      1.82000E-02      2.00000E-03
-      1.46400E+01      0.00000E+00      1.95000E-02      1.00000E-03
-      1.48200E+01      0.00000E+00      2.10000E-02      1.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3480E+01        0.0000E+00        1.4900E-02        1.8000E-03
+        1.3640E+01        0.0000E+00        1.5000E-02        2.7000E-03
+        1.3870E+01        0.0000E+00        1.5700E-02        2.4000E-03
+        1.4050E+01        0.0000E+00        1.6900E-02        7.0000E-04
+        1.4280E+01        0.0000E+00        1.7800E-02        1.2000E-03
+        1.4450E+01        0.0000E+00        1.8200E-02        2.0000E-03
+        1.4640E+01        0.0000E+00        1.9500E-02        1.0000E-03
+        1.4820E+01        0.0000E+00        2.1000E-02        1.1000E-03

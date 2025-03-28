@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30400-013-0 
-# EXFOR reaction        : ['7-N-14', ['N,2N'], '7-N-13,,SIG,,FIS'] 
+# EXFOR reaction        : (7-N-14(N,2N)7-N-13,,SIG,,FIS) 
 # incident energy       : 1.4100e+00 MeV 
 # target                : N-14 
 # product               : N-13 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : Z.Dezso 
+# first author          : Dezso 
 # institute             : (3HUNKOS): University of Debrecen, Debrecen 
 # reference             : (C,77KIEV,3,32,1977) 
 # year                  : 1977 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30400.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30400
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+00      0.00000E+00      4.80000E-06      2.40000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+00        0.0000E+00        4.8000E-06        2.4000E-06

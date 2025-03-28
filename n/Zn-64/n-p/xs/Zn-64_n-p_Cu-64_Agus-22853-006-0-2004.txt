@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22853-006-0 
-# EXFOR reaction        : ['30-ZN-64', ['N,P'], '29-CU-64,,SIG,,SPA'] 
+# EXFOR reaction        : (30-ZN-64(N,P)29-CU-64,,SIG,,SPA) 
 # incident energy       : 5.4500e+00 MeV 
 # target                : Zn-64 
 # product               : Cu-64 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : Y.Agus 
+# first author          : Agus 
 # institute             : (2TUKANR): Ankara Nuclear Research and Training Centre 
 # reference             : (J,RCA,92,63,2004) 
 # year                  : 2004 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22853.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22853
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.45000E+00      0.00000E+00      1.58100E-01      1.84000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.4500E+00        0.0000E+00        1.5810E-01        1.8400E-02

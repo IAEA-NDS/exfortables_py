@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41298-093-0 
-# EXFOR reaction        : ['74-W-186', ['N,2N'], '74-W-185-M,,SIG,,,DERIV'] 
+# EXFOR reaction        : (74-W-186(N,2N)74-W-185-M,,SIG,,,DERIV) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : W-186 
 # product               : W-185-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,RI-252,1999) 
 # year                  : 1999 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41298.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41298
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      0.00000E+00      6.89000E-01      4.90000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        6.8900E-01        4.9000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22450-043-0 
-# EXFOR reaction        : ['68-ER-168', ['N,G'], '68-ER-169,,SIG,,,DERIV'] 
+# EXFOR reaction        : (68-ER-168(N,G)68-ER-169,,SIG,,,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Er-168 
 # product               : Er-169 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : K.Knopf 
+# first author          : Knopf 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (J,ZP/A,357,297,1997) 
 # year                  : 1997 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22450.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22450
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.30000E+00      3.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.3000E+00        3.0000E-01

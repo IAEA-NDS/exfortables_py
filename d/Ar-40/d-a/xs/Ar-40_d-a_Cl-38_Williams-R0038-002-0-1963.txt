@@ -1,11 +1,11 @@
 # entry-subent-pointer  : R0038-002-0 
-# EXFOR reaction        : ['18-AR-40', ['D,A'], '17-CL-38,,SIG'] 
+# EXFOR reaction        : (18-AR-40(D,A)17-CL-38,,SIG) 
 # incident energy       : 1.0800e+01 MeV - 1.4800e+01 MeV 
 # target                : Ar-40 
 # product               : Cl-38 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : D.C.Williams 
+# first author          : Williams 
 # institute             : (1USAMIT): Massachusetts Institute of Technology, Cambridge, MA 
 # reference             : (J,PR,130,(1),265,196304) 
 # year                  : 1963 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/R00/R0038.x4 
 # nds                   : https://nds.iaea.org/EXFOR/R0038
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.08000E+01      0.00000E+00      1.59000E-02      0.00000E+00
-      1.16000E+01      0.00000E+00      1.57000E-02      0.00000E+00
-      1.25000E+01      0.00000E+00      1.45000E-02      0.00000E+00
-      1.33000E+01      0.00000E+00      1.20000E-02      0.00000E+00
-      1.41000E+01      0.00000E+00      1.19000E-02      0.00000E+00
-      1.48000E+01      0.00000E+00      1.20000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0800E+01        0.0000E+00        1.5900E-02        0.0000E+00
+        1.1600E+01        0.0000E+00        1.5700E-02        0.0000E+00
+        1.2500E+01        0.0000E+00        1.4500E-02        0.0000E+00
+        1.3300E+01        0.0000E+00        1.2000E-02        0.0000E+00
+        1.4100E+01        0.0000E+00        1.1900E-02        0.0000E+00
+        1.4800E+01        0.0000E+00        1.2000E-02        0.0000E+00

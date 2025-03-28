@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0950-002-0 
-# EXFOR reaction        : ['78-PT-0', ['P,X'], '79-AU-193,,SIG'] 
+# EXFOR reaction        : (78-PT-0(P,X)79-AU-193,,SIG) 
 # incident energy       : 1.0410e+01 MeV - 1.4120e+01 MeV 
 # target                : Pt-0 
 # product               : Au-193 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Showaimy 
+# first author          : Showaimy 
 # institute             : (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
 # reference             : (J,RPC,157,97,2019) 
 # year                  : 2019 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D09/D0950.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0950
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41200E+01      4.10000E-01      1.26000E-01      1.40000E-02
-      1.32900E+01      4.20000E-01      9.10000E-02      1.00000E-02
-      1.24500E+01      4.20000E-01      6.50000E-02      7.00000E-03
-      1.13700E+01      4.70000E-01      2.20000E-02      3.00000E-03
-      1.04100E+01      4.90000E-01      5.00000E-03      1.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4120E+01        4.1000E-01        1.2600E-01        1.4000E-02
+        1.3290E+01        4.2000E-01        9.1000E-02        1.0000E-02
+        1.2450E+01        4.2000E-01        6.5000E-02        7.0000E-03
+        1.1370E+01        4.7000E-01        2.2000E-02        3.0000E-03
+        1.0410E+01        4.9000E-01        5.0000E-03        1.0000E-03

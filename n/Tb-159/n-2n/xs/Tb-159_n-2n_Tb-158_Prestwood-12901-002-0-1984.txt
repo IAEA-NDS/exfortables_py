@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12901-002-0 
-# EXFOR reaction        : ['65-TB-159', ['N,2N'], '65-TB-158,,SIG'] 
+# EXFOR reaction        : (65-TB-159(N,2N)65-TB-158,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Tb-159 
 # product               : Tb-158 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : R.J.Prestwood 
+# first author          : Prestwood 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR/C,30,823,8409) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12901.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12901
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      3.00000E-01      1.93000E+00      1.35100E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        3.0000E-01        1.9300E+00        1.3510E-01

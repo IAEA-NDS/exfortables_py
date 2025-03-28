@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E2223-016-0 
-# EXFOR reaction        : ['12-MG-25', ['D,P'], '12-MG-26,PAR,SIG'] 
+# EXFOR reaction        : (12-MG-25(D,P)12-MG-26,PAR,SIG) 
 # incident energy       : 1.5290e+00 MeV - 2.7770e+00 MeV 
 # target                : Mg-25 
 # product               : Mg-26 
 # level energy          : 1.8300e+00 MeV 
 # MF-MT number          : 3 - 601 
-# first author          : N.Takano 
+# first author          : Takano 
 # institute             : (2JPNKYU): Kyushu University , Fukuoka 
 # reference             : (J,JPJ,16,(4),598,196104) 
 # year                  : 1961 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E22/E2223.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E2223
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.52900E+00      9.89600E-02      9.97100E-04      9.13400E-05
-      1.81100E+00      9.13500E-02      1.19500E-03      9.13400E-05
-      2.03900E+00      7.61200E-02      1.66700E-03      7.61200E-05
-      2.26000E+00      7.99300E-02      1.91100E-03      1.37000E-04
-      2.51100E+00      7.23200E-02      2.30600E-03      1.21800E-04
-      2.77700E+00      6.47000E-02      2.35200E-03      1.06600E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5290E+00        9.8960E-02        9.9710E-04        9.1340E-05
+        1.8110E+00        9.1350E-02        1.1950E-03        9.1340E-05
+        2.0390E+00        7.6120E-02        1.6670E-03        7.6120E-05
+        2.2600E+00        7.9930E-02        1.9110E-03        1.3700E-04
+        2.5110E+00        7.2320E-02        2.3060E-03        1.2180E-04
+        2.7770E+00        6.4700E-02        2.3520E-03        1.0660E-04

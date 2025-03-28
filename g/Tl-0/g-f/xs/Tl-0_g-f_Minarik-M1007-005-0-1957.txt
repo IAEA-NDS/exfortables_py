@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M1007-005-0 
-# EXFOR reaction        : ['81-TL-0', ['G,F'], ',,SIG,,BRS'] 
+# EXFOR reaction        : (81-TL-0(G,F),,SIG,,BRS) 
 # incident energy       : 8.8220e+01 MeV - 2.3574e+02 MeV 
 # target                : Tl-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : E.V.Minarik 
+# first author          : Minarik 
 # institute             : (4RUSLEB): Fiz.Institute Lebedev (FIAN), Moskva 
 # reference             : (J,ZET,32,241,1957) 
 # year                  : 1957 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M10/M1007.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M1007
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.82200E+01      0.00000E+00      5.10000E-05      2.00000E-05
-      1.13260E+02      0.00000E+00      1.02000E-04      2.60000E-05
-      1.37690E+02      0.00000E+00      2.04000E-04      4.10000E-05
-      1.73020E+02      0.00000E+00      3.68000E-04      5.10000E-05
-      1.87080E+02      0.00000E+00      5.72000E-04      6.10000E-05
-      2.22520E+02      0.00000E+00      9.10000E-04      1.02000E-04
-      2.35740E+02      0.00000E+00      1.44600E-03      1.53000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.8220E+01        0.0000E+00        5.1000E-05        2.0000E-05
+        1.1326E+02        0.0000E+00        1.0200E-04        2.6000E-05
+        1.3769E+02        0.0000E+00        2.0400E-04        4.1000E-05
+        1.7302E+02        0.0000E+00        3.6800E-04        5.1000E-05
+        1.8708E+02        0.0000E+00        5.7200E-04        6.1000E-05
+        2.2252E+02        0.0000E+00        9.1000E-04        1.0200E-04
+        2.3574E+02        0.0000E+00        1.4460E-03        1.5300E-04

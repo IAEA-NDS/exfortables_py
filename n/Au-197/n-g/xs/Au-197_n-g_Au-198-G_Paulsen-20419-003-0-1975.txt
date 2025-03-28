@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20419-003-0 
-# EXFOR reaction        : ['79-AU-197', ['N,G'], '79-AU-198-G,,SIG'] 
+# EXFOR reaction        : (79-AU-197(N,G)79-AU-198-G,,SIG) 
 # incident energy       : 2.0000e+00 MeV - 3.0000e+00 MeV 
 # target                : Au-197 
 # product               : Au-198-G 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.Paulsen 
+# first author          : Paulsen 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,AKE,26,80,1975) 
 # year                  : 1975 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20419.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20419
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+00      1.40000E-02      5.58000E-02      2.40000E-03
-      2.25000E+00      1.58000E-02      4.29000E-02      2.00000E-03
-      2.50000E+00      1.75000E-02      3.60000E-02      1.50000E-03
-      2.75000E+00      1.93000E-02      2.95000E-02      1.30000E-03
-      3.00000E+00      2.10000E-02      2.50000E-02      1.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+00        1.4000E-02        5.5800E-02        2.4000E-03
+        2.2500E+00        1.5800E-02        4.2900E-02        2.0000E-03
+        2.5000E+00        1.7500E-02        3.6000E-02        1.5000E-03
+        2.7500E+00        1.9300E-02        2.9500E-02        1.3000E-03
+        3.0000E+00        2.1000E-02        2.5000E-02        1.1000E-03

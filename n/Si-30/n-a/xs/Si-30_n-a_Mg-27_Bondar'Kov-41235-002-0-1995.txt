@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41235-002-0 
-# EXFOR reaction        : ['14-SI-30', ['N,A'], '12-MG-27,,SIG'] 
+# EXFOR reaction        : (14-SI-30(N,A)12-MG-27,,SIG) 
 # incident energy       : 1.4000e+01 MeV 
 # target                : Si-30 
 # product               : Mg-27 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : M.D.Bondar'Kov 
+# first author          : Bondar'Kov 
 # institute             : (4UKRIJI): Institute Yadernykh Issledovaniy Ukrainskoi A.N., Kiev 
 # reference             : (C,95PETRBG,,240,9506) 
 # year                  : 1995 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41235.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41235
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40000E+01      0.00000E+00      5.60000E-02      5.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        0.0000E+00        5.6000E-02        5.0000E-03

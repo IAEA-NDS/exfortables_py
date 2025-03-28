@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2005-006-0 
-# EXFOR reaction        : ['79-AU-197', ['P,8N'], '80-HG-190,,SIG'] 
+# EXFOR reaction        : (79-AU-197(P,8N)80-HG-190,,SIG) 
 # incident energy       : 8.0000e+01 MeV 
 # target                : Au-197 
 # product               : Hg-190 
 # level energy          : - 
 # MF-MT number          : 3 - 161 
-# first author          : N.Poffe 
+# first author          : Poffe 
 # institute             : (2FR PAR): Universite de Paris 
 # reference             : (J,JPR,22,639,1961) 
 # year                  : 1961 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2005.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2005
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.00000E+01      0.00000E+00      1.82261E-01      4.87710E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+01        0.0000E+00        1.8226E-01        4.8771E-02

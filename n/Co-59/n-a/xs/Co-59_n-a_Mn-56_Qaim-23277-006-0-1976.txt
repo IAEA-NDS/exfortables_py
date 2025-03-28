@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23277-006-0 
-# EXFOR reaction        : ['27-CO-59', ['N,A'], '25-MN-56,,SIG,,SPA'] 
+# EXFOR reaction        : (27-CO-59(N,A)25-MN-56,,SIG,,SPA) 
 # incident energy       : 2.0000e+00 MeV - 6.5000e+00 MeV 
 # target                : Co-59 
 # product               : Mn-56 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : S.M.Qaim 
+# first author          : Qaim 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (C,76GARMIS,,589,197606) 
 # year                  : 1976 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23277.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23277
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+00      0.00000E+00      1.70000E-02      2.00000E-03
-      6.50000E+00      0.00000E+00      2.20000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+00        0.0000E+00        1.7000E-02        2.0000E-03
+        6.5000E+00        0.0000E+00        2.2000E-02        2.0000E-03

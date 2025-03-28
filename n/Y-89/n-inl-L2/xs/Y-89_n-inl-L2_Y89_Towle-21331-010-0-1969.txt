@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21331-010-0 
-# EXFOR reaction        : ['39-Y-89', ['N,INL'], '39-Y-89,PAR,SIG'] 
+# EXFOR reaction        : (39-Y-89(N,INL)39-Y-89,PAR,SIG) 
 # incident energy       : 2.3500e+00 MeV - 3.7700e+00 MeV 
 # target                : Y-89 
 # product               : Y-89 
 # level energy          : 1.5100e+00 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : J.H.Towle 
+# first author          : Towle 
 # institute             : (2UK ALD): Atomic Weapons Establishment (AWE), Aldermaston 
 # reference             : (J,NP/A,131,561,1969) 
 # year                  : 1969 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21331.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21331
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.35000E+00      7.00000E-02      5.07000E-01      2.00000E-02
-      3.77000E+00      7.00000E-02      5.00000E-01      2.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3500E+00        7.0000E-02        5.0700E-01        2.0000E-02
+        3.7700E+00        7.0000E-02        5.0000E-01        2.5000E-02

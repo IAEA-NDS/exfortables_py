@@ -1,11 +1,11 @@
 # entry-subent-pointer  : P0014-025-0 
-# EXFOR reaction        : ['31-GA-69', ['P,X'], '30-ZN-62,IND,SIG'] 
+# EXFOR reaction        : (31-GA-69(P,X)30-ZN-62,IND,SIG) 
 # incident energy       : 5.5300e+01 MeV 
 # target                : Ga-69 
 # product               : Zn-62 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : N.T.Porile 
+# first author          : Porile 
 # institute             : (2JPNTOK): University of Tokyo, Tokyo 
 # reference             : (J,NP,43,500,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P00/P0014.x4 
 # nds                   : https://nds.iaea.org/EXFOR/P0014
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.53000E+01      0.00000E+00      7.34000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.5300E+01        0.0000E+00        7.3400E-04        0.0000E+00

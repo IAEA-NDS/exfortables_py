@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1863-004-0 
-# EXFOR reaction        : ['20-CA-48', ['P,NON'], ',,SIG'] 
+# EXFOR reaction        : (20-CA-48(P,NON),,SIG) 
 # incident energy       : 7.0000e+02 MeV 
 # target                : Ca-48 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : B.D.Anderson 
+# first author          : Anderson 
 # institute             : (1USAKNT): Kent State University, Kent, OH 
 # reference             : (J,PR/C,19,905,1979) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C18/C1863.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1863
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.00000E+02      7.00000E+00      7.36000E-01      4.56320E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0000E+02        7.0000E+00        7.3600E-01        4.5632E-02

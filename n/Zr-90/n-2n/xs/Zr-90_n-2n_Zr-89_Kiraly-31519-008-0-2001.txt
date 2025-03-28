@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31519-008-0 
-# EXFOR reaction        : ['40-ZR-90', ['N,2N'], '40-ZR-89,,SIG'] 
+# EXFOR reaction        : (40-ZR-90(N,2N)40-ZR-89,,SIG) 
 # incident energy       : 1.1300e+01 MeV - 1.4100e+01 MeV 
 # target                : Zr-90 
 # product               : Zr-89 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : B.Kiraly 
+# first author          : Kiraly 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (S,JAERI-C-2001-006,283,200103) 
 # year                  : 2001 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31519.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31519
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.13000E+01      2.00000E-01      6.40000E-03      1.00000E-03
-      1.41000E+01      1.50000E-01      6.26000E-01      6.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1300E+01        2.0000E-01        6.4000E-03        1.0000E-03
+        1.4100E+01        1.5000E-01        6.2600E-01        6.0000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22255-003-5 
-# EXFOR reaction        : ['10-NE-22', ['N,G'], '10-NE-23,,SIG,,MXW'] 
+# EXFOR reaction        : (10-NE-22(N,G)10-NE-23,,SIG,,MXW) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : Ne-22 
 # product               : Ne-23 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.Beer 
+# first author          : Beer 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,AJ,379,420,1991) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22255.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22255
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      0.00000E+00      6.80000E-05      4.30000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        6.8000E-05        4.3000E-06

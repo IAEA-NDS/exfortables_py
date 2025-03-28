@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14092-013-0 
-# EXFOR reaction        : ['28-NI-0', ['N,X'], '27-CO-57,CUM,SIG'] 
+# EXFOR reaction        : (28-NI-0(N,X)27-CO-57,CUM,SIG) 
 # incident energy       : 7.0700e+01 MeV - 1.5160e+02 MeV 
 # target                : Ni-0 
 # product               : Co-57 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.M.Sisterson 
+# first author          : Sisterson 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,NIM/B,245,371,2006) 
 # year                  : 2006 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/140/14092.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14092
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.07000E+01      0.00000E+00      1.05000E-01      3.16000E-02
-      1.12200E+02      0.00000E+00      1.52000E-01      2.60000E-02
-      1.51600E+02      0.00000E+00      1.59200E-01      2.01000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0700E+01        0.0000E+00        1.0500E-01        3.1600E-02
+        1.1220E+02        0.0000E+00        1.5200E-01        2.6000E-02
+        1.5160E+02        0.0000E+00        1.5920E-01        2.0100E-02

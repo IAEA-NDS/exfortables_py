@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22641-007-0 
-# EXFOR reaction        : ['42-MO-92', ['N,P'], '41-NB-92-M,,SIG'] 
+# EXFOR reaction        : (42-MO-92(N,P)41-NB-92-M,,SIG) 
 # incident energy       : 2.5000e+00 MeV - 3.2000e+00 MeV 
 # target                : Mo-92 
 # product               : Nb-92-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : T.Shimizu 
+# first author          : Shimizu 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : ((S,JAERI-C-2001-006,194,2001)=(S,INDC(JPN)-188,194,2001)) 
 # year                  : 2001 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22641.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22641
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.20000E+00      0.00000E+00      3.10000E-03      2.00000E-04
-      3.00000E+00      0.00000E+00      2.00000E-03      2.00000E-04
-      2.70000E+00      0.00000E+00      1.60000E-03      3.00000E-04
-      2.50000E+00      0.00000E+00      1.00000E-03      3.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.2000E+00        0.0000E+00        3.1000E-03        2.0000E-04
+        3.0000E+00        0.0000E+00        2.0000E-03        2.0000E-04
+        2.7000E+00        0.0000E+00        1.6000E-03        3.0000E-04
+        2.5000E+00        0.0000E+00        1.0000E-03        3.0000E-04

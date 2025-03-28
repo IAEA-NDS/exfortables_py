@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0284-038-0 
-# EXFOR reaction        : ['25-MN-55', ['P,X'], '11-NA-22,CUM,SIG'] 
+# EXFOR reaction        : (25-MN-55(P,X)11-NA-22,CUM,SIG) 
 # incident energy       : 2.3900e+02 MeV - 3.8400e+02 MeV 
 # target                : Mn-55 
 # product               : Na-22 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Th.Schiekel 
+# first author          : Schiekel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,114,91,1996) 
 # year                  : 1996 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0284.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0284
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.39000E+02      1.63000E+00      3.73000E-05      6.75000E-06
-      2.82000E+02      1.06000E+00      6.65000E-05      1.33000E-05
-      3.48000E+02      1.59000E+00      1.03000E-04      1.22000E-05
-      3.84000E+02      1.04000E+00      1.30000E-04      1.39000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3900E+02        1.6300E+00        3.7300E-05        6.7500E-06
+        2.8200E+02        1.0600E+00        6.6500E-05        1.3300E-05
+        3.4800E+02        1.5900E+00        1.0300E-04        1.2200E-05
+        3.8400E+02        1.0400E+00        1.3000E-04        1.3900E-05

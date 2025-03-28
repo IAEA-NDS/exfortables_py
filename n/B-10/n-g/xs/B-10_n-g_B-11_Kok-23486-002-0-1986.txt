@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23486-002-0 
-# EXFOR reaction        : ['5-B-10', ['N,G'], '5-B-11,,SIG,,SPA'] 
+# EXFOR reaction        : (5-B-10(N,G)5-B-11,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : B-10 
 # product               : B-11 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : P.J.J.Kok 
+# first author          : Kok 
 # institute             : (2NEDRCN): Netherland's Energy Research Foundation, Petten 
 # reference             : (J,ZP/A,324,271,1986) 
 # year                  : 1986 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/234/23486.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23486
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.90000E-01      4.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.9000E-01        4.0000E-02

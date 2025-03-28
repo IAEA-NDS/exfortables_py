@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14743-017-0 
-# EXFOR reaction        : ['6-C-0', ['N,INL'], '6-C-0,,SIG,,FST'] 
+# EXFOR reaction        : (6-C-0(N,INL)6-C-0,,SIG,,FST) 
 # incident energy       : 2.0000e+00 MeV 
 # target                : C-0 
 # product               : C-0 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : G.P.Arnold 
+# first author          : Arnold 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (R,LA-1339,1951) 
 # year                  : 1951 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/147/14743.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14743
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+00      0.00000E+00     -2.00000E-02      7.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+00        0.0000E+00       -2.0000E-02        7.0000E-02

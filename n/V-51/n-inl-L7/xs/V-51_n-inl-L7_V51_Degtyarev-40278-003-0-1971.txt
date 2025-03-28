@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40278-003-0 
-# EXFOR reaction        : ['23-V-51', ['N,INL'], '23-V-51,PAR,SIG'] 
+# EXFOR reaction        : (23-V-51(N,INL)23-V-51,PAR,SIG) 
 # incident energy       : 2.2000e+00 MeV - 3.4000e+00 MeV 
 # target                : V-51 
 # product               : V-51 
 # level energy          : 1.8160e+00 MeV 
 # MF-MT number          : 3 - 57 
-# first author          : Yu.G.Degtyarev 
+# first author          : Degtyarev 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (J,IZV,35,(11),2341,197111) 
 # year                  : 1971 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40278.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40278
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.20000E+00      0.00000E+00      1.20000E-01      2.00000E-02
-      2.60000E+00      0.00000E+00      1.08000E-01      2.50000E-02
-      3.00000E+00      0.00000E+00      1.73000E-01      2.60000E-02
-      3.40000E+00      0.00000E+00      1.08000E-01      3.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2000E+00        0.0000E+00        1.2000E-01        2.0000E-02
+        2.6000E+00        0.0000E+00        1.0800E-01        2.5000E-02
+        3.0000E+00        0.0000E+00        1.7300E-01        2.6000E-02
+        3.4000E+00        0.0000E+00        1.0800E-01        3.5000E-02

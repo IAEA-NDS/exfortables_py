@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0691-036-0 
-# EXFOR reaction        : ['73-TA-181', ['P,X'], '51-SB-120-M,IND,SIG'] 
+# EXFOR reaction        : (73-TA-181(P,X)51-SB-120-M,IND,SIG) 
 # incident energy       : 1.8200e+04 MeV 
 # target                : Ta-181 
 # product               : Sb-120-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : E.Hagebo 
+# first author          : Hagebo 
 # institute             : (2ZZZCER): European Org. for Nuclear Research (CERN), Geneva 
 # reference             : (J,JIN,31,897,1969) 
 # year                  : 1969 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0691.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0691
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.82000E+04      0.00000E+00      1.40000E-04      1.60000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8200E+04        0.0000E+00        1.4000E-04        1.6000E-05

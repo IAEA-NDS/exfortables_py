@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2209-008-0 
-# EXFOR reaction        : ['2-HE-4', ['D,G'], '3-LI-6,,SIG,,,DERIV'] 
+# EXFOR reaction        : (2-HE-4(D,G)3-LI-6,,SIG,,,DERIV) 
 # incident energy       : 9.9000e-02 MeV - 3.7600e-01 MeV 
 # target                : He-4 
 # product               : Li-6 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.Kiener 
+# first author          : Kiener 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,44,2195,1991) 
 # year                  : 1991 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O22/O2209.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2209
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.90000E-02      2.00000E-03      5.04300E-11      5.48700E-12
-      1.97000E-01      2.00000E-03      1.90500E-10      1.97900E-11
-      2.62000E-01      2.00000E-03      4.01400E-10      4.36800E-11
-      3.14000E-01      2.00000E-03      4.91100E-10      5.58900E-11
-      3.76000E-01      2.00000E-03      6.54500E-10      8.77600E-11
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.9000E-02        2.0000E-03        5.0430E-11        5.4870E-12
+        1.9700E-01        2.0000E-03        1.9050E-10        1.9790E-11
+        2.6200E-01        2.0000E-03        4.0140E-10        4.3680E-11
+        3.1400E-01        2.0000E-03        4.9110E-10        5.5890E-11
+        3.7600E-01        2.0000E-03        6.5450E-10        8.7760E-11

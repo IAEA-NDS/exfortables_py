@@ -1,11 +1,11 @@
 # entry-subent-pointer  : K2023-121-0 
-# EXFOR reaction        : ['39-Y-89', ['G,X'], '27-CO-60,IND,SIG,,BRA'] 
+# EXFOR reaction        : (39-Y-89(G,X)27-CO-60,IND,SIG,,BRA) 
 # incident energy       : 9.5000e+02 MeV 
 # target                : Y-89 
 # product               : Co-60 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Matsumura 
+# first author          : Matsumura 
 # institute             : (2JPNKNZ): Kanazawa University , Kanazawa 
 # reference             : (J,RCA,88,(6),313,200006) 
 # year                  : 2000 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K20/K2023.x4 
 # nds                   : https://nds.iaea.org/EXFOR/K2023
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.50000E+02      0.00000E+00      1.66000E-05      3.30000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.5000E+02        0.0000E+00        1.6600E-05        3.3000E-06

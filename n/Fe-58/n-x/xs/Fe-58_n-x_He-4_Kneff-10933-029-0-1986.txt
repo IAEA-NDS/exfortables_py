@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10933-029-0 
-# EXFOR reaction        : ['26-FE-58', ['N,X'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (26-FE-58(N,X)2-HE-4,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Fe-58 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : D.W.Kneff 
+# first author          : Kneff 
 # institute             : (1USAAI): Rockwell International , Energy Systems Group, Canoga Park, CA 
 # reference             : (J,NSE,92,491,86) 
 # year                  : 1986 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/109/10933.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10933
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      2.00000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        2.0000E-02        2.0000E-03

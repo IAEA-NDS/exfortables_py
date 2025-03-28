@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0840-035-1 
-# EXFOR reaction        : ['50-SN-124', ['P,X'], '51-SB-116-M,IND,SIG'] 
+# EXFOR reaction        : (50-SN-124(P,X)51-SB-116-M,IND,SIG) 
 # incident energy       : 8.1000e+03 MeV 
 # target                : Sn-124 
 # product               : Sb-116-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.Adam 
+# first author          : Adam 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (C,2000STPETR,,296,2000) 
 # year                  : 2000 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O08/O0840.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0840
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.10000E+03      0.00000E+00      4.47000E-04      5.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.1000E+03        0.0000E+00        4.4700E-04        5.0000E-05

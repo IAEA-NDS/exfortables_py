@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4404-003-0 
-# EXFOR reaction        : ['78-PT-0', ['D,X'], '79-AU-198-M,,SIG'] 
+# EXFOR reaction        : (78-PT-0(D,X)79-AU-198-M,,SIG) 
 # incident energy       : 3.4800e+01 MeV - 4.8500e+01 MeV 
 # target                : Pt-0 
 # product               : Au-198-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,JRN,321,747,2019) 
 # year                  : 2019 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4404.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4404
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.85000E+01      3.00000E-01      1.12000E-03      1.90000E-04
-      4.65000E+01      3.00000E-01      8.00000E-04      1.30000E-04
-      4.43000E+01      4.00000E-01      1.46000E-03      2.50000E-04
-      4.21000E+01      4.00000E-01      1.11000E-03      1.80000E-04
-      3.98000E+01      5.00000E-01      1.18000E-03      1.80000E-04
-      3.73000E+01      5.00000E-01      1.37000E-03      2.00000E-04
-      3.48000E+01      5.00000E-01      1.38000E-03      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.8500E+01        3.0000E-01        1.1200E-03        1.9000E-04
+        4.6500E+01        3.0000E-01        8.0000E-04        1.3000E-04
+        4.4300E+01        4.0000E-01        1.4600E-03        2.5000E-04
+        4.2100E+01        4.0000E-01        1.1100E-03        1.8000E-04
+        3.9800E+01        5.0000E-01        1.1800E-03        1.8000E-04
+        3.7300E+01        5.0000E-01        1.3700E-03        2.0000E-04
+        3.4800E+01        5.0000E-01        1.3800E-03        2.0000E-04

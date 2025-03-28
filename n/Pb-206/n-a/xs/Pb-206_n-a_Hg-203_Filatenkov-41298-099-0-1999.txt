@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41298-099-0 
-# EXFOR reaction        : ['82-PB-206', ['N,A'], '80-HG-203,,SIG,,,DERIV'] 
+# EXFOR reaction        : (82-PB-206(N,A)80-HG-203,,SIG,,,DERIV) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Pb-206 
 # product               : Hg-203 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,RI-252,1999) 
 # year                  : 1999 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41298.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41298
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      0.00000E+00      4.70000E-04      2.60000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        4.7000E-04        2.6000E-05

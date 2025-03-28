@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40363-003-0 
-# EXFOR reaction        : ['61-PM-147', ['N,G'], '61-PM-148,,SIG'] 
+# EXFOR reaction        : (61-PM-147(N,G)61-PM-148,,SIG) 
 # incident energy       : 2.5000e-08 MeV 
 # target                : Pm-147 
 # product               : Pm-148 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.K.Gorshkov 
+# first author          : Gorshkov 
 # institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
 # reference             : (J,SJA,3,729,1957) 
 # year                  : 1957 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/403/40363.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40363
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-08      0.00000E+00      9.00000E+01      2.00000E+01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-08        0.0000E+00        9.0000E+01        2.0000E+01

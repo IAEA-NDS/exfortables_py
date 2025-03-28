@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12918-014-0 
-# EXFOR reaction        : ['56-BA-0', ['N,X'], '54-XE-134,,SIG'] 
+# EXFOR reaction        : (56-BA-0(N,X)54-XE-134,,SIG) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : Ba-0 
 # product               : Xe-134 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : D.A.Leich 
+# first author          : Leich 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (W,LEICH,8503) 
 # year                  : 1985 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12918.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12918
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      5.00000E-01      3.50000E-04      2.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        5.0000E-01        3.5000E-04        2.0000E-05

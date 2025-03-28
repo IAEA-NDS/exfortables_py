@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10244-007-0 
-# EXFOR reaction        : ['79-AU-197', ['N,2N'], '79-AU-196-M2,,SIG'] 
+# EXFOR reaction        : (79-AU-197(N,2N)79-AU-196-M2,,SIG) 
 # incident energy       : 1.4400e+01 MeV 
 # target                : Au-197 
 # product               : Au-196-M2 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.K.Hankla 
+# first author          : Hankla 
 # institute             : (1USAGIT): Georgia Institute of Technology, Atlanta, GA 
 # reference             : (J,NP/A,180,157,1972) 
 # year                  : 1972 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10244.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10244
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.44000E+01      4.00000E-01      1.51000E-01      1.80000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4400E+01        4.0000E-01        1.5100E-01        1.8000E-02

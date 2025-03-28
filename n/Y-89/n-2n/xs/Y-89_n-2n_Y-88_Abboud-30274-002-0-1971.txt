@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30274-002-0 
-# EXFOR reaction        : ['39-Y-89', ['N,2N'], '39-Y-88,,SIG'] 
+# EXFOR reaction        : (39-Y-89(N,2N)39-Y-88,,SIG) 
 # incident energy       : 1.3290e+01 MeV - 1.7580e+01 MeV 
 # target                : Y-89 
 # product               : Y-88 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.Abboud 
+# first author          : Abboud 
 # institute             : (3POLIPJ): Narodowe Centrum Badan Jadrowych, Swierk+Warszawa 
 # reference             : (J,APP/B,2,527,1971) 
 # year                  : 1971 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/302/30274.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30274
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.32900E+01      8.00000E-02      6.21900E-01      0.00000E+00
-      1.38700E+01      1.10000E-01      8.11600E-01      0.00000E+00
-      1.46100E+01      1.10000E-01      8.56300E-01      0.00000E+00
-      1.52700E+01      1.50000E-01      1.04040E+00      0.00000E+00
-      1.57100E+01      1.40000E-01      9.47900E-01      0.00000E+00
-      1.60800E+01      1.80000E-01      9.54300E-01      0.00000E+00
-      1.67400E+01      1.50000E-01      9.97400E-01      0.00000E+00
-      1.75800E+01      9.00000E-02      1.12800E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3290E+01        8.0000E-02        6.2190E-01        0.0000E+00
+        1.3870E+01        1.1000E-01        8.1160E-01        0.0000E+00
+        1.4610E+01        1.1000E-01        8.5630E-01        0.0000E+00
+        1.5270E+01        1.5000E-01        1.0404E+00        0.0000E+00
+        1.5710E+01        1.4000E-01        9.4790E-01        0.0000E+00
+        1.6080E+01        1.8000E-01        9.5430E-01        0.0000E+00
+        1.6740E+01        1.5000E-01        9.9740E-01        0.0000E+00
+        1.7580E+01        9.0000E-02        1.1280E+00        0.0000E+00

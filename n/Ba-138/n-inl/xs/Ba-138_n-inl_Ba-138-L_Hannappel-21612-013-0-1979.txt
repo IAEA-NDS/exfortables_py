@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21612-013-0 
-# EXFOR reaction        : ['56-BA-138', ['N,INL'], '56-BA-138-L,,SIG'] 
+# EXFOR reaction        : (56-BA-138(N,INL)56-BA-138-L,,SIG) 
 # incident energy       : 1.4900e+01 MeV 
 # target                : Ba-138 
 # product               : Ba-138-L 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : L.Hannappel 
+# first author          : Hannappel 
 # institute             : (2GERJLU): Justus Liebig University , Giessen 
 # reference             : (J,NIM,167,289,1979) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21612.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21612
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49000E+01      2.00000E-01      1.06000E-01      1.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4900E+01        2.0000E-01        1.0600E-01        1.5000E-02

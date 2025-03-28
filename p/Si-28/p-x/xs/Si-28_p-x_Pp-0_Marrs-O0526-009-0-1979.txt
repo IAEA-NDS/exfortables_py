@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0526-009-0 
-# EXFOR reaction        : ['14-SI-28', ['P,X'], '1-PP-0,,SIG'] 
+# EXFOR reaction        : (14-SI-28(P,X)1-PP-0,,SIG) 
 # incident energy       : 1.4370e+02 MeV - 1.5230e+02 MeV 
 # target                : Si-28 
 # product               : Pp-0 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.E.Marrs 
+# first author          : Marrs 
 # institute             : (1USAINU): Indiana University, Bloomington, IN 
 # reference             : (J,PR/C,20,2446,1979) 
 # year                  : 1979 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0526.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0526
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.43700E+02      0.00000E+00      2.40000E-07      0.00000E+00
-      1.52300E+02      0.00000E+00      3.18000E-06      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4370E+02        0.0000E+00        2.4000E-07        0.0000E+00
+        1.5230E+02        0.0000E+00        3.1800E-06        0.0000E+00

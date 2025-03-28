@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31563-012-0 
-# EXFOR reaction        : ['52-TE-126', ['N,A'], '50-SN-123-G,,SIG,,FIS'] 
+# EXFOR reaction        : (52-TE-126(N,A)50-SN-123-G,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Te-126 
 # product               : Sn-123-G 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : M.Arif 
+# first author          : Arif 
 # institute             : (3PAKNIL): PINSTECH, Nilore, Rawalpindi 
 # reference             : (J,RCA,73,45,1996) 
 # year                  : 1996 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31563.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31563
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      5.00000E-06      4.00000E-07
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        5.0000E-06        4.0000E-07

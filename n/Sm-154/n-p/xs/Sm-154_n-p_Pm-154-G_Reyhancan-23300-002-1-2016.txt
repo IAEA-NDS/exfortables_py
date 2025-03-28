@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23300-002-1 
-# EXFOR reaction        : ['62-SM-154', ['N,P'], '61-PM-154-G,,SIG'] 
+# EXFOR reaction        : (62-SM-154(N,P)61-PM-154-G,,SIG) 
 # incident energy       : 1.4150e+01 MeV - 1.4830e+01 MeV 
 # target                : Sm-154 
 # product               : Pm-154-G 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : I.A.Reyhancan 
+# first author          : Reyhancan 
 # institute             : (2TUKSTU): Istanbul University 
 # reference             : (J,ARI,113,79,2016) 
 # year                  : 2016 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/233/23300.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23300
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41500E+01      7.00000E-02      7.90000E-04      1.20000E-04
-      1.45200E+01      9.00000E-02      1.40000E-03      2.20000E-04
-      1.47500E+01      9.00000E-02      1.67000E-03      2.60000E-04
-      1.48300E+01      1.00000E-01      1.85000E-03      2.90000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4150E+01        7.0000E-02        7.9000E-04        1.2000E-04
+        1.4520E+01        9.0000E-02        1.4000E-03        2.2000E-04
+        1.4750E+01        9.0000E-02        1.6700E-03        2.6000E-04
+        1.4830E+01        1.0000E-01        1.8500E-03        2.9000E-04

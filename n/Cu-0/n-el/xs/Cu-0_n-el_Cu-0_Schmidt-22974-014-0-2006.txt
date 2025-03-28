@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22974-014-0 
-# EXFOR reaction        : ['29-CU-0', ['N,EL'], '29-CU-0,,SIG'] 
+# EXFOR reaction        : (29-CU-0(N,EL)29-CU-0,,SIG) 
 # incident energy       : 6.9500e+00 MeV - 1.4180e+01 MeV 
 # target                : Cu-0 
 # product               : Cu-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : D.Schmidt 
+# first author          : Schmidt 
 # institute             : (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
 # reference             : (R,PTB-N-52,2006) 
 # year                  : 2006 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22974.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22974
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.95000E+00      0.00000E+00      2.17200E+00      4.23540E-02
-      8.07000E+00      0.00000E+00      2.14420E+00      4.23908E-02
-      8.96000E+00      0.00000E+00      2.01150E+00      4.04110E-02
-      9.90000E+00      0.00000E+00      1.89450E+00      3.86857E-02
-      1.08600E+01      0.00000E+00      1.85420E+00      3.85303E-02
-      1.19000E+01      0.00000E+00      1.67840E+00      3.63038E-02
-      1.29300E+01      0.00000E+00      1.56180E+00      3.37817E-02
-      1.41800E+01      0.00000E+00      1.42210E+00      3.04898E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.9500E+00        0.0000E+00        2.1720E+00        4.2354E-02
+        8.0700E+00        0.0000E+00        2.1442E+00        4.2391E-02
+        8.9600E+00        0.0000E+00        2.0115E+00        4.0411E-02
+        9.9000E+00        0.0000E+00        1.8945E+00        3.8686E-02
+        1.0860E+01        0.0000E+00        1.8542E+00        3.8530E-02
+        1.1900E+01        0.0000E+00        1.6784E+00        3.6304E-02
+        1.2930E+01        0.0000E+00        1.5618E+00        3.3782E-02
+        1.4180E+01        0.0000E+00        1.4221E+00        3.0490E-02

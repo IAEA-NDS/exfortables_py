@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22089-010-0 
-# EXFOR reaction        : ['14-SI-29', ['N,X'], '13-AL-28,,SIG'] 
+# EXFOR reaction        : (14-SI-29(N,X)13-AL-28,,SIG) 
 # incident energy       : 1.4040e+01 MeV - 1.4930e+01 MeV 
 # target                : Si-29 
 # product               : Al-28 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Y.Ikeda 
+# first author          : Ikeda 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (R,JAERI-1312,1988) 
 # year                  : 1988 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22089.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22089
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49300E+01      0.00000E+00      3.04000E-02      2.70000E-03
-      1.46600E+01      0.00000E+00      2.37000E-02      2.40000E-03
-      1.40400E+01      0.00000E+00      4.80000E-03      1.40000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4930E+01        0.0000E+00        3.0400E-02        2.7000E-03
+        1.4660E+01        0.0000E+00        2.3700E-02        2.4000E-03
+        1.4040E+01        0.0000E+00        4.8000E-03        1.4000E-03

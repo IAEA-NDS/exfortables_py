@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40216-018-1 
-# EXFOR reaction        : ['27-CO-59', ['N,2N'], '27-CO-58,,SIG,,FIS,DERIV'] 
+# EXFOR reaction        : (27-CO-59(N,2N)27-CO-58,,SIG,,FIS,DERIV) 
 # incident energy       : 1.4200e+00 MeV 
 # target                : Co-59 
 # product               : Co-58 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : F.Nasyrov 
+# first author          : Nasyrov 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (J,AE,25,(5),437,1968) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40216.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40216
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+00      4.00000E-02      3.40000E-04      3.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+00        4.0000E-02        3.4000E-04        3.0000E-05

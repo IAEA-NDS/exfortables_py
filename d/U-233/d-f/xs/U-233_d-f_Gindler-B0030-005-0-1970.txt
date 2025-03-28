@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0030-005-0 
-# EXFOR reaction        : ['92-U-233', ['D,F'], ',,SIG,,,EXP'] 
+# EXFOR reaction        : (92-U-233(D,F),,SIG,,,EXP) 
 # incident energy       : 5.1500e+01 MeV 
 # target                : U-233 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : J.Gindler 
+# first author          : Gindler 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,NP/A,145,337,1970) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0030.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0030
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.15000E+01      0.00000E+00      2.10000E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.1500E+01        0.0000E+00        2.1000E+00        0.0000E+00

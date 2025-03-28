@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14171-005-0 
-# EXFOR reaction        : ['22-TI-46', ['N,P'], '21-SC-46,,SIG,,FIS'] 
+# EXFOR reaction        : (22-TI-46(N,P)21-SC-46,,SIG,,FIS) 
 # incident energy       : 1.4200e+00 MeV 
 # target                : Ti-46 
 # product               : Sc-46 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : V.Spiegel 
+# first author          : Spiegel 
 # institute             : (1USANBS): National Bureau of Standards, Washington, DC 
 # reference             : (S,NUREG/CP-0004,(3),959,1979) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/141/14171.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14171
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+00      0.00000E+00      1.50000E-02      9.75000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+00        0.0000E+00        1.5000E-02        9.7500E-04

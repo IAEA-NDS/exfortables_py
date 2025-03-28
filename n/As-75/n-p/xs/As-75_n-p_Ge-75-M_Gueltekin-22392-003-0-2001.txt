@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22392-003-0 
-# EXFOR reaction        : ['33-AS-75', ['N,P'], '32-GE-75-M,,SIG'] 
+# EXFOR reaction        : (33-AS-75(N,P)32-GE-75-M,,SIG) 
 # incident energy       : 1.3600e+01 MeV - 1.4860e+01 MeV 
 # target                : As-75 
 # product               : Ge-75-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : E.Gueltekin 
+# first author          : Gueltekin 
 # institute             : (2TUKCNA): Cekmece Nuclear Research Centre, Istanbul 
 # reference             : (J,ANE,28,53,2001) 
 # year                  : 2001 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22392.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22392
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36000E+01      8.00000E-01      1.26700E-02      7.20000E-04
-      1.36800E+01      8.10000E-01      1.14200E-02      7.20000E-04
-      1.41000E+01      1.00000E-01      1.15800E-02      7.30000E-04
-      1.44600E+01      1.10000E-01      1.17700E-02      7.40000E-04
-      1.47200E+01      1.10000E-01      1.18400E-02      7.50000E-04
-      1.48600E+01      1.20000E-01      1.03700E-02      6.50000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3600E+01        8.0000E-01        1.2670E-02        7.2000E-04
+        1.3680E+01        8.1000E-01        1.1420E-02        7.2000E-04
+        1.4100E+01        1.0000E-01        1.1580E-02        7.3000E-04
+        1.4460E+01        1.1000E-01        1.1770E-02        7.4000E-04
+        1.4720E+01        1.1000E-01        1.1840E-02        7.5000E-04
+        1.4860E+01        1.2000E-01        1.0370E-02        6.5000E-04

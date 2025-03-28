@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21410-010-0 
-# EXFOR reaction        : ['94-PU-241', ['N,G'], '94-PU-242,,SIG,,SPA'] 
+# EXFOR reaction        : (94-PU-241(N,G)94-PU-242,,SIG,,SPA) 
 # incident energy       : 1.1600e-04 MeV 
 # target                : Pu-241 
 # product               : Pu-242 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.J.Cabell 
+# first author          : Cabell 
 # institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 # reference             : (R,AERE-R-5874,1,1968) 
 # year                  : 1968 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/214/21410.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21410
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.16000E-04      9.00000E-06      3.88100E+02      9.10000E+00
-      1.16000E-04      9.00000E-06      3.89500E+02      9.20000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1600E-04        9.0000E-06        3.8810E+02        9.1000E+00
+        1.1600E-04        9.0000E-06        3.8950E+02        9.2000E+00

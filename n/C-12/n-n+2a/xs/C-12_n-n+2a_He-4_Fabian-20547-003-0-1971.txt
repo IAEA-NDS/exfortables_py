@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20547-003-0 
-# EXFOR reaction        : ['6-C-12', ['N,N+2A'], '2-HE-4,,SIG,,,DERIV'] 
+# EXFOR reaction        : (6-C-12(N,N+2A)2-HE-4,,SIG,,,DERIV) 
 # incident energy       : 1.4000e+01 MeV 
 # target                : C-12 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 29 
-# first author          : H.-U.Fabian 
+# first author          : Fabian 
 # institute             : (2GERKIL): University of Kiel, Kiel 
 # reference             : (J,ZN/A,26,317,197102) 
 # year                  : 1971 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20547.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20547
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40000E+01      0.00000E+00      1.90000E-01      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        0.0000E+00        1.9000E-01        2.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2171-011-0 
-# EXFOR reaction        : ['33-AS-75', ['D,T'], '33-AS-74,,SIG'] 
+# EXFOR reaction        : (33-AS-75(D,T)33-AS-74,,SIG) 
 # incident energy       : 7.8070e+00 MeV - 1.5157e+01 MeV 
 # target                : As-75 
 # product               : As-74 
 # level energy          : - 
 # MF-MT number          : 3 - 105 
-# first author          : L.H.Bowen 
+# first author          : Bowen 
 # institute             : (1USAMIT): Massachusetts Institute of Technology, Cambridge, MA 
 # reference             : (J,PR,127,1698,1962) 
 # year                  : 1962 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C21/C2171.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2171
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.80700E+00      0.00000E+00      3.35900E-04      0.00000E+00
-      8.80700E+00      0.00000E+00      1.23880E-03      0.00000E+00
-      9.77300E+00      0.00000E+00      3.22680E-03      0.00000E+00
-      1.06790E+01      0.00000E+00      5.73850E-03      0.00000E+00
-      1.18190E+01      0.00000E+00      8.99980E-03      0.00000E+00
-      1.25800E+01      0.00000E+00      1.06875E-02      0.00000E+00
-      1.36060E+01      0.00000E+00      1.24887E-02      0.00000E+00
-      1.44870E+01      0.00000E+00      1.38026E-02      0.00000E+00
-      1.51570E+01      0.00000E+00      1.64629E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.8070E+00        0.0000E+00        3.3590E-04        0.0000E+00
+        8.8070E+00        0.0000E+00        1.2388E-03        0.0000E+00
+        9.7730E+00        0.0000E+00        3.2268E-03        0.0000E+00
+        1.0679E+01        0.0000E+00        5.7385E-03        0.0000E+00
+        1.1819E+01        0.0000E+00        8.9998E-03        0.0000E+00
+        1.2580E+01        0.0000E+00        1.0688E-02        0.0000E+00
+        1.3606E+01        0.0000E+00        1.2489E-02        0.0000E+00
+        1.4487E+01        0.0000E+00        1.3803E-02        0.0000E+00
+        1.5157E+01        0.0000E+00        1.6463E-02        0.0000E+00

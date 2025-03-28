@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20163-002-0 
-# EXFOR reaction        : ['7-N-14', ['N,EL'], '7-N-14,,SIG'] 
+# EXFOR reaction        : (7-N-14(N,EL)7-N-14,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : N-14 
 # product               : N-14 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : B.Lundberg 
+# first author          : Lundberg 
 # institute             : (2SWDFOA): Research Institute for National Defence, Stockholm 
 # reference             : (J,AF,34,247,6702) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20163.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20163
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      6.00000E-02      1.40000E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        6.0000E-02        1.4000E+00        0.0000E+00

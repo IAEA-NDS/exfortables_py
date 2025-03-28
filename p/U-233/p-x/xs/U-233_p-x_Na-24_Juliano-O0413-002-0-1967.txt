@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0413-002-0 
-# EXFOR reaction        : ['92-U-233', ['P,X'], '11-NA-24,CUM,SIG'] 
+# EXFOR reaction        : (92-U-233(P,X)11-NA-24,CUM,SIG) 
 # incident energy       : 1.1600e+04 MeV 
 # target                : U-233 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.Juliano 
+# first author          : Juliano 
 # institute             : (1USAPUR): Purdue University, West Lafayette, IN 
 # reference             : (J,JIN,29,2859,1967) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O04/O0413.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0413
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.16000E+04      0.00000E+00      1.23000E-02      6.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1600E+04        0.0000E+00        1.2300E-02        6.0000E-04

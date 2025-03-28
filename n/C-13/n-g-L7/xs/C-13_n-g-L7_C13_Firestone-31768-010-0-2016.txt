@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31768-010-0 
-# EXFOR reaction        : ['6-C-13', ['N,G'], '6-C-14,PAR,SIG'] 
+# EXFOR reaction        : (6-C-13(N,G)6-C-14,PAR,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : C-13 
 # product               : C-14 
 # level energy          : 8.1740e+00 MeV 
-# MF-MT number          : 3 - 57 
-# first author          : R.B.Firestone 
+# MF-MT number          : 3 - 7 
+# first author          : Firestone 
 # institute             : (1USAUCX): University of California, Berkeley, CA 
 # reference             : (J,PR/C,93,054306,2016) 
 # year                  : 2016 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31768.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31768
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.30000E-03      2.40000E-05
-      2.53000E-08      0.00000E+00      1.27500E-03      2.10000E-05
-      2.53000E-08      0.00000E+00      1.27000E-03      4.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.3000E-03        2.4000E-05
+        2.5300E-08        0.0000E+00        1.2750E-03        2.1000E-05
+        2.5300E-08        0.0000E+00        1.2700E-03        4.0000E-05

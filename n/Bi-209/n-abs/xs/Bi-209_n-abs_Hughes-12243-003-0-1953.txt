@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12243-003-0 
-# EXFOR reaction        : ['83-BI-209', ['N,ABS'], ',,SIG'] 
+# EXFOR reaction        : (83-BI-209(N,ABS),,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Bi-209 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 27 
-# first author          : D.J.Hughes 
+# first author          : Hughes 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR,92,1206,5312) 
 # year                  : 1953 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12243.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12243
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      3.30000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        3.3000E-02        2.0000E-03

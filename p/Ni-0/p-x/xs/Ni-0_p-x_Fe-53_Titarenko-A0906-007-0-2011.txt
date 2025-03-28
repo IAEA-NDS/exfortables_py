@@ -1,27 +1,27 @@
 # entry-subent-pointer  : A0906-007-0 
-# EXFOR reaction        : ['28-NI-0', ['P,X'], '26-FE-53,CUM,SIG'] 
+# EXFOR reaction        : (28-NI-0(P,X)26-FE-53,CUM,SIG) 
 # incident energy       : 4.3000e+01 MeV - 2.6050e+03 MeV 
 # target                : Ni-0 
 # product               : Fe-53 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Yu.E.Titarenko 
+# first author          : Titarenko 
 # institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
-# reference             : (J,YF,74,561,2011) 
+# reference             : (J,PAN,74,537,2011) 
 # year                  : 2011 
 # facility              : (SYNCH): Synchrotron 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0906.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0906
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.30000E+01      1.00000E+00      1.71000E-02      1.80000E-03
-      6.60000E+01      1.00000E+00      8.24000E-03      9.60000E-04
-      9.70000E+01      1.00000E+00      1.28000E-02      1.40000E-03
-      1.48000E+02      1.00000E+00      1.08000E-02      1.40000E-03
-      2.49000E+02      1.00000E+00      9.20000E-03      1.00000E-03
-      3.99000E+02      2.00000E+00      1.01000E-02      1.30000E-03
-      5.99000E+02      2.00000E+00      9.60000E-03      1.30000E-03
-      7.99000E+02      2.00000E+00      8.06000E-03      9.80000E-04
-      1.19900E+03      3.00000E+00      7.75000E-03      9.80000E-04
-      1.59800E+03      4.00000E+00      5.35000E-03      6.60000E-04
-      2.60500E+03      8.00000E+00      3.44000E-03      4.20000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.3000E+01        1.0000E+00        1.7100E-02        1.8000E-03
+        6.6000E+01        1.0000E+00        8.2400E-03        9.6000E-04
+        9.7000E+01        1.0000E+00        1.2800E-02        1.4000E-03
+        1.4800E+02        1.0000E+00        1.0800E-02        1.4000E-03
+        2.4900E+02        1.0000E+00        9.2000E-03        1.0000E-03
+        3.9900E+02        2.0000E+00        1.0100E-02        1.3000E-03
+        5.9900E+02        2.0000E+00        9.6000E-03        1.3000E-03
+        7.9900E+02        2.0000E+00        8.0600E-03        9.8000E-04
+        1.1990E+03        3.0000E+00        7.7500E-03        9.8000E-04
+        1.5980E+03        4.0000E+00        5.3500E-03        6.6000E-04
+        2.6050E+03        8.0000E+00        3.4400E-03        4.2000E-04

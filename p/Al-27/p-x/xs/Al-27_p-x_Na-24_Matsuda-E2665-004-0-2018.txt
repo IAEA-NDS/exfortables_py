@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E2665-004-0 
-# EXFOR reaction        : ['13-AL-27', ['P,X'], '11-NA-24,', ['CUM'], ',SIG'] 
+# EXFOR reaction        : (13-AL-27(P,X)11-NA-24,(CUM),SIG) 
 # incident energy       : 4.0000e+02 MeV - 3.0000e+03 MeV 
 # target                : Al-27 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Matsuda 
+# first author          : Matsuda 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (J,NST,55,955,2018) 
 # year                  : 2018 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E26/E2665.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E2665
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+02      0.00000E+00      1.14500E-02      0.00000E+00
-      1.30000E+03      0.00000E+00      1.39400E-02      0.00000E+00
-      2.20000E+03      0.00000E+00      1.31600E-02      0.00000E+00
-      3.00000E+03      0.00000E+00      1.15100E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+02        0.0000E+00        1.1450E-02        0.0000E+00
+        1.3000E+03        0.0000E+00        1.3940E-02        0.0000E+00
+        2.2000E+03        0.0000E+00        1.3160E-02        0.0000E+00
+        3.0000E+03        0.0000E+00        1.1510E-02        0.0000E+00

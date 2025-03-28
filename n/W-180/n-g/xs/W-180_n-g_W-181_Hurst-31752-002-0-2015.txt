@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31752-002-0 
-# EXFOR reaction        : ['74-W-180', ['N,G'], '74-W-181,,SIG,,,DERIV'] 
+# EXFOR reaction        : (74-W-180(N,G)74-W-181,,SIG,,,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : W-180 
 # product               : W-181 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.M.Hurst 
+# first author          : Hurst 
 # institute             : (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
 # reference             : (J,PR/C,92,034615,2015) 
 # year                  : 2015 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31752.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31752
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.16700E+01      7.70000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.1670E+01        7.7000E-01

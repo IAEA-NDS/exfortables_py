@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0709-005-0 
-# EXFOR reaction        : ['82-PB-207', ['P,F'], ',,SIG'] 
+# EXFOR reaction        : (82-PB-207(P,F),,SIG) 
 # incident energy       : 9.9400e+01 MeV - 1.9990e+02 MeV 
 # target                : Pb-207 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : V.S.Bychenkov 
+# first author          : Bychenkov 
 # institute             : (4RUSRI ): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (J,YF,17,947,1973) 
 # year                  : 1973 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0709.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0709
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.94000E+01      7.00000E-01      3.82000E-02      0.00000E+00
-      1.54100E+02      7.00000E-01      6.69000E-02      0.00000E+00
-      1.99900E+02      7.00000E-01      8.91000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.9400E+01        7.0000E-01        3.8200E-02        0.0000E+00
+        1.5410E+02        7.0000E-01        6.6900E-02        0.0000E+00
+        1.9990E+02        7.0000E-01        8.9100E-02        0.0000E+00

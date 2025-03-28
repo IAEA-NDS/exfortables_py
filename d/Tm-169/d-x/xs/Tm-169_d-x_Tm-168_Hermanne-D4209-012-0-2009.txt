@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4209-012-0 
-# EXFOR reaction        : ['69-TM-169', ['D,X'], '69-TM-168,,SIG'] 
+# EXFOR reaction        : (69-TM-169(D,X)69-TM-168,,SIG) 
 # incident energy       : 2.9800e+01 MeV - 3.8600e+01 MeV 
 # target                : Tm-169 
 # product               : Tm-168 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.Hermanne 
+# first author          : Hermanne 
 # institute             : (2BLGVUB): Vrije Universiteit Brussels, Brussels 
 # reference             : (J,NIM/B,267,727,2009) 
 # year                  : 2009 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4209.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4209
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.86000E+01      3.00000E-01      2.50000E-01      5.00000E-02
-      3.72000E+01      3.00000E-01      2.98000E-01      5.30000E-02
-      3.55000E+01      4.00000E-01      2.37000E-01      5.10000E-02
-      3.40000E+01      4.00000E-01      2.69000E-01      4.50000E-02
-      3.15000E+01      5.00000E-01      2.31000E-01      4.40000E-02
-      2.98000E+01      5.00000E-01      1.66000E-01      3.90000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.8600E+01        3.0000E-01        2.5000E-01        5.0000E-02
+        3.7200E+01        3.0000E-01        2.9800E-01        5.3000E-02
+        3.5500E+01        4.0000E-01        2.3700E-01        5.1000E-02
+        3.4000E+01        4.0000E-01        2.6900E-01        4.5000E-02
+        3.1500E+01        5.0000E-01        2.3100E-01        4.4000E-02
+        2.9800E+01        5.0000E-01        1.6600E-01        3.9000E-02

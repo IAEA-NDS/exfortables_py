@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10807-024-0 
-# EXFOR reaction        : ['60-ND-146', ['N,INL'], '60-ND-146,PAR,SIG'] 
+# EXFOR reaction        : (60-ND-146(N,INL)60-ND-146,PAR,SIG) 
 # incident energy       : 2.5000e+00 MeV 
 # target                : Nd-146 
 # product               : Nd-146 
 # level energy          : 4.5300e-01 MeV 
 # MF-MT number          : 3 - 51 
-# first author          : D.F.Coope 
+# first author          : Coope 
 # institute             : (1USAKTY): University of Kentucky, Lexington, KY 
 # reference             : (J,BAP,24,854(GC10),197909) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10807.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10807
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E+00      0.00000E+00      5.52000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+00        0.0000E+00        5.5200E-01        0.0000E+00

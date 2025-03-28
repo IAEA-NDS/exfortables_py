@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10914-005-0 
-# EXFOR reaction        : ['3-LI-7', ['N,EL'], '3-LI-7,,SIG'] 
+# EXFOR reaction        : (3-LI-7(N,EL)3-LI-7,,SIG) 
 # incident energy       : 2.3000e+00 MeV - 4.0800e+00 MeV 
 # target                : Li-7 
 # product               : Li-7 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : H.Knox 
+# first author          : Knox 
 # institute             : (1USAOHO): Ohio University, Athens, OH 
 # reference             : (C,79KNOX,783,7910) 
 # year                  : 1979 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/109/10914.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10914
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.30000E+00      0.00000E+00      1.56330E+00      2.39000E-02
-      2.80000E+00      0.00000E+00      1.67310E+00      2.58000E-02
-      3.31000E+00      0.00000E+00      1.94000E+00      2.99000E-02
-      3.83000E+00      0.00000E+00      2.00890E+00      3.11000E-02
-      4.08000E+00      0.00000E+00      2.16630E+00      3.36000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3000E+00        0.0000E+00        1.5633E+00        2.3900E-02
+        2.8000E+00        0.0000E+00        1.6731E+00        2.5800E-02
+        3.3100E+00        0.0000E+00        1.9400E+00        2.9900E-02
+        3.8300E+00        0.0000E+00        2.0089E+00        3.1100E-02
+        4.0800E+00        0.0000E+00        2.1663E+00        3.3600E-02

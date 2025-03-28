@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1099-152-0 
-# EXFOR reaction        : ['73-TA-181', ['P,X'], '73-TA-177,CUM,SIG'] 
+# EXFOR reaction        : (73-TA-181(P,X)73-TA-177,CUM,SIG) 
 # incident energy       : 7.0800e+01 MeV - 1.1800e+02 MeV 
 # target                : Ta-181 
 # product               : Ta-177 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERUH): University Hannover (previously Tech.University Hannover) 
 # reference             : (J,NSTS,2,242,2002) 
 # year                  : 2002 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O10/O1099.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1099
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.08000E+01      2.00000E+00      2.76000E-01      2.70000E-02
-      8.16000E+01      2.00000E+00      2.32000E-01      2.20000E-02
-      8.61000E+01      1.90000E+00      2.15000E-01      2.20000E-02
-      9.16000E+01      1.90000E+00      2.22000E-01      2.20000E-02
-      1.18000E+02      2.00000E+00      1.82000E-01      2.90000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0800E+01        2.0000E+00        2.7600E-01        2.7000E-02
+        8.1600E+01        2.0000E+00        2.3200E-01        2.2000E-02
+        8.6100E+01        1.9000E+00        2.1500E-01        2.2000E-02
+        9.1600E+01        1.9000E+00        2.2200E-01        2.2000E-02
+        1.1800E+02        2.0000E+00        1.8200E-01        2.9000E-02

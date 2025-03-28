@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12547-002-0 
-# EXFOR reaction        : ['2-HE-0', ['N,EL'], '2-HE-0,,SIG'] 
+# EXFOR reaction        : (2-HE-0(N,EL)2-HE-0,,SIG) 
 # incident energy       : 2.5000e+00 MeV 
 # target                : He-0 
 # product               : He-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : H.H.Barschall 
+# first author          : Barschall 
 # institute             : (1USAPTN): Princeton University, Princeton, NJ 
 # reference             : (J,PR,58,590,1940) 
 # year                  : 1940 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12547.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12547
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E+00      0.00000E+00      1.50000E+00      3.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+00        0.0000E+00        1.5000E+00        3.0000E-01

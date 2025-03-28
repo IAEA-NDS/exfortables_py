@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40712-002-0 
-# EXFOR reaction        : ['4-BE-9', ['N,A'], '2-HE-6,,SIG'] 
+# EXFOR reaction        : (4-BE-9(N,A)2-HE-6,,SIG) 
 # incident energy       : 1.0000e+00 MeV - 7.0000e+00 MeV 
 # target                : Be-9 
 # product               : He-6 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : S.S.Vasil'Ev 
+# first author          : Vasil'Ev 
 # institute             : (4RUSMOS): Moscow State University , Moscow 
 # reference             : (J,DOK,119,914,1958) 
 # year                  : 1958 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/407/40712.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40712
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      5.00000E-01      1.20000E-02      5.00000E-03
-      2.00000E+00      5.00000E-01      5.50000E-02      1.50000E-02
-      3.00000E+00      5.00000E-01      9.50000E-02      2.00000E-02
-      4.00000E+00      5.00000E-01      8.60000E-02      2.20000E-02
-      5.00000E+00      5.00000E-01      5.00000E-02      1.80000E-02
-      6.00000E+00      5.00000E-01      3.60000E-02      1.60000E-02
-      7.00000E+00      5.00000E-01      1.90000E-02      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        5.0000E-01        1.2000E-02        5.0000E-03
+        2.0000E+00        5.0000E-01        5.5000E-02        1.5000E-02
+        3.0000E+00        5.0000E-01        9.5000E-02        2.0000E-02
+        4.0000E+00        5.0000E-01        8.6000E-02        2.2000E-02
+        5.0000E+00        5.0000E-01        5.0000E-02        1.8000E-02
+        6.0000E+00        5.0000E-01        3.6000E-02        1.6000E-02
+        7.0000E+00        5.0000E-01        1.9000E-02        1.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10522-009-0 
-# EXFOR reaction        : ['49-IN-113', ['N,INL'], '49-IN-113-M,,SIG'] 
+# EXFOR reaction        : (49-IN-113(N,INL)49-IN-113-M,,SIG) 
 # incident energy       : 1.3580e+01 MeV - 1.4740e+01 MeV 
 # target                : In-113 
 # product               : In-113-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : D.C.Santry 
+# first author          : Santry 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (J,CJP,54,757,1976) 
 # year                  : 1976 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10522.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10522
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35800E+01      1.10000E-01      7.37000E-02      7.80000E-03
-      1.45000E+01      1.50000E-01      5.64000E-02      5.60000E-03
-      1.47400E+01      2.00000E-01      5.39000E-02      7.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3580E+01        1.1000E-01        7.3700E-02        7.8000E-03
+        1.4500E+01        1.5000E-01        5.6400E-02        5.6000E-03
+        1.4740E+01        2.0000E-01        5.3900E-02        7.1000E-03

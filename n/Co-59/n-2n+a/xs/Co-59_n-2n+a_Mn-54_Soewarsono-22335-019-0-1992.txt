@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22335-019-0 
-# EXFOR reaction        : ['27-CO-59', ['N,2N+A'], '25-MN-54,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,2N+A)25-MN-54,,SIG) 
 # incident energy       : 2.7600e+01 MeV - 3.7700e+01 MeV 
 # target                : Co-59 
 # product               : Mn-54 
 # level energy          : - 
 # MF-MT number          : 3 - 24 
-# first author          : T.S.Soewarsono 
+# first author          : Soewarsono 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (S,JAERI-M-92-027,354,1992) 
 # year                  : 1992 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22335.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22335
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.76000E+01      1.60000E+00      7.30000E-03      1.10000E-03
-      3.27000E+01      1.40000E+00      4.87000E-02      4.80000E-03
-      3.77000E+01      1.40000E+00      7.73000E-02      7.30000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7600E+01        1.6000E+00        7.3000E-03        1.1000E-03
+        3.2700E+01        1.4000E+00        4.8700E-02        4.8000E-03
+        3.7700E+01        1.4000E+00        7.7300E-02        7.3000E-03

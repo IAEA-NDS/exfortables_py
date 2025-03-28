@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2009-002-0 
-# EXFOR reaction        : ['22-TI-49', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (22-TI-49(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 1.5500e+02 MeV 
 # target                : Ti-49 
 # product               : Sc-48 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.P.Cohen 
+# first author          : Cohen 
 # institute             : (2FR PAR): Universite de Paris 
 # reference             : (J,JPR,26,427,1965) 
 # year                  : 1965 
@@ -13,5 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2009.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2009
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.55000E+02      0.00000E+00      1.18000E-02      2.65000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5500E+02        0.0000E+00        1.1800E-02        2.6500E-03
+        1.5500E+02        0.0000E+00        5.5000E-03        2.1000E-03
+        1.5500E+02        0.0000E+00        3.7300E-02        1.1500E-02
+        1.5500E+02        0.0000E+00        3.4700E-02        1.4100E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20527-004-0 
-# EXFOR reaction        : ['28-NI-58', ['N,X'], '27-CO-57,,SIG'] 
+# EXFOR reaction        : (28-NI-58(N,X)27-CO-57,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Ni-58 
 # product               : Co-57 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.D.Hemingway 
+# first author          : Hemingway 
 # institute             : (2UK DUR): University of Durham, England 
 # reference             : (J,JNE,27,241,1973) 
 # year                  : 1973 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20527.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20527
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      2.00000E-01      6.19000E-01      4.90000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        2.0000E-01        6.1900E-01        4.9000E-02

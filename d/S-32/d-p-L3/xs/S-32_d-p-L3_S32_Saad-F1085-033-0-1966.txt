@@ -1,11 +1,11 @@
 # entry-subent-pointer  : F1085-033-0 
-# EXFOR reaction        : ['16-S-32', ['D,P'], '16-S-33,PAR,SIG'] 
+# EXFOR reaction        : (16-S-32(D,P)16-S-33,PAR,SIG) 
 # incident energy       : 1.7020e+00 MeV - 2.5054e+00 MeV 
 # target                : S-32 
 # product               : S-33 
-# level energy          : - 
+# level energy          : 3.0000e-06 MeV 
 # MF-MT number          : 3 - 603 
-# first author          : H.R.Saad 
+# first author          : Saad 
 # institute             : (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
 # reference             : (J,NP,84,629,1966) 
 # year                  : 1966 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F10/F1085.x4 
 # nds                   : https://nds.iaea.org/EXFOR/F1085
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.70200E+00      9.00000E-04      6.43390E-04      0.00000E+00
-      1.80340E+00      9.00000E-04      5.83810E-04      0.00000E+00
-      1.90280E+00      9.00000E-04      8.80660E-04      0.00000E+00
-      2.00230E+00      9.00000E-04      9.00290E-04      0.00000E+00
-      2.10170E+00      9.00000E-04      7.21900E-04      0.00000E+00
-      2.20310E+00      9.00000E-04      1.14750E-03      0.00000E+00
-      2.30460E+00      9.00000E-04      2.19680E-03      0.00000E+00
-      2.40400E+00      9.00000E-04      1.56300E-03      0.00000E+00
-      2.50540E+00      9.00000E-04      2.07760E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7020E+00        9.0000E-04        6.4339E-04        0.0000E+00
+        1.8034E+00        9.0000E-04        5.8381E-04        0.0000E+00
+        1.9028E+00        9.0000E-04        8.8066E-04        0.0000E+00
+        2.0023E+00        9.0000E-04        9.0029E-04        0.0000E+00
+        2.1017E+00        9.0000E-04        7.2190E-04        0.0000E+00
+        2.2031E+00        9.0000E-04        1.1475E-03        0.0000E+00
+        2.3046E+00        9.0000E-04        2.1968E-03        0.0000E+00
+        2.4040E+00        9.0000E-04        1.5630E-03        0.0000E+00
+        2.5054E+00        9.0000E-04        2.0776E-03        0.0000E+00

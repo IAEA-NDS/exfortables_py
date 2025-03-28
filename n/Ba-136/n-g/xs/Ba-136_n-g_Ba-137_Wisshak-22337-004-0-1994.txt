@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22337-004-0 
-# EXFOR reaction        : ['56-BA-136', ['N,G'], '56-BA-137,,SIG,,MXW'] 
+# EXFOR reaction        : (56-BA-136(N,G)56-BA-137,,SIG,,MXW) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Ba-136 
 # product               : Ba-137 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : K.Wisshak 
+# first author          : Wisshak 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (C,94GATLIN,,1060,9405) 
 # year                  : 1994 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22337.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22337
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      1.00000E-03      6.20000E-02      2.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        1.0000E-03        6.2000E-02        2.1000E-03

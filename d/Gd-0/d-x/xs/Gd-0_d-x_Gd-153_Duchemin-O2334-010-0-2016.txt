@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2334-010-0 
-# EXFOR reaction        : ['64-GD-0', ['D,X'], '64-GD-153,CUM,SIG'] 
+# EXFOR reaction        : (64-GD-0(D,X)64-GD-153,CUM,SIG) 
 # incident energy       : 1.6160e+01 MeV - 3.3340e+01 MeV 
 # target                : Gd-0 
 # product               : Gd-153 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : C.Duchemin 
+# first author          : Duchemin 
 # institute             : (2FR NTE): Universite de Nantes 
 # reference             : (J,ARI,118,281,2016) 
 # year                  : 2016 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2334.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2334
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.33400E+01      3.00000E-01      1.60960E-01      3.12300E-02
-      2.99100E+01      4.20000E-01      1.18670E-01      2.29600E-02
-      2.79500E+01      3.00000E-01      1.10410E-01      2.16500E-02
-      2.60900E+01      5.20000E-01      4.79500E-02      9.61000E-03
-      2.45600E+01      4.00000E-01      5.07800E-02      1.06100E-02
-      2.31300E+01      2.90000E-01      2.49200E-02      5.10000E-03
-      2.18200E+01      6.40000E-01      1.80000E-02      3.60000E-03
-      1.83600E+01      4.60000E-01      8.18000E-03      1.97000E-03
-      1.61600E+01      6.50000E-01      5.07000E-03      1.30000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3340E+01        3.0000E-01        1.6096E-01        3.1230E-02
+        2.9910E+01        4.2000E-01        1.1867E-01        2.2960E-02
+        2.7950E+01        3.0000E-01        1.1041E-01        2.1650E-02
+        2.6090E+01        5.2000E-01        4.7950E-02        9.6100E-03
+        2.4560E+01        4.0000E-01        5.0780E-02        1.0610E-02
+        2.3130E+01        2.9000E-01        2.4920E-02        5.1000E-03
+        2.1820E+01        6.4000E-01        1.8000E-02        3.6000E-03
+        1.8360E+01        4.6000E-01        8.1800E-03        1.9700E-03
+        1.6160E+01        6.5000E-01        5.0700E-03        1.3000E-03

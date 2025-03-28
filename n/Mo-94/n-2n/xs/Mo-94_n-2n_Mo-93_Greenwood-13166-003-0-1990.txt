@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13166-003-0 
-# EXFOR reaction        : ['42-MO-94', ['N,2N'], '42-MO-93,,SIG'] 
+# EXFOR reaction        : (42-MO-94(N,2N)42-MO-93,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Mo-94 
 # product               : Mo-93 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : L.R.Greenwood 
+# first author          : Greenwood 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (C,90STRASB,,437,1990) 
 # year                  : 1990 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13166.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13166
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      0.00000E+00      5.50000E-01      1.36000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        0.0000E+00        5.5000E-01        1.3600E-01

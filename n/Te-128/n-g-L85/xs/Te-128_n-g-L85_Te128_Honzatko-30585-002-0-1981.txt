@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30585-002-0 
-# EXFOR reaction        : ['52-TE-128', ['N,G'], '52-TE-129,PAR,SIG,,MXW'] 
+# EXFOR reaction        : (52-TE-128(N,G)52-TE-129,PAR,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Te-128 
 # product               : Te-129 
 # level energy          : 2.2900e+00 MeV 
-# MF-MT number          : 3 - 91 
-# first author          : J.Honzatko 
+# MF-MT number          : 3 - 85 
+# first author          : Honzatko 
 # institute             : (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
 # reference             : (J,ZP/A,299,183,1981) 
 # year                  : 1981 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30585.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30585
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      7.50000E-03      6.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        7.5000E-03        6.0000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11155-012-0 
-# EXFOR reaction        : ['24-CR-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (24-CR-0(N,TOT),,SIG) 
 # incident energy       : 7.0500e+00 MeV - 1.4250e+01 MeV 
 # target                : Cr-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : A.Bratenahl 
+# first author          : Bratenahl 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,110,927,195805) 
 # year                  : 1958 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/111/11155.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11155
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.05000E+00      1.70000E-01      3.50000E+00      4.00000E-02
-      8.69000E+00      0.00000E+00      3.12000E+00      3.00000E-02
-      1.11800E+01      0.00000E+00      2.75000E+00      3.00000E-02
-      1.23000E+01      0.00000E+00      2.63000E+00      3.00000E-02
-      1.42500E+01      7.00000E-02      2.42000E+00      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0500E+00        1.7000E-01        3.5000E+00        4.0000E-02
+        8.6900E+00        0.0000E+00        3.1200E+00        3.0000E-02
+        1.1180E+01        0.0000E+00        2.7500E+00        3.0000E-02
+        1.2300E+01        0.0000E+00        2.6300E+00        3.0000E-02
+        1.4250E+01        7.0000E-02        2.4200E+00        2.0000E-02

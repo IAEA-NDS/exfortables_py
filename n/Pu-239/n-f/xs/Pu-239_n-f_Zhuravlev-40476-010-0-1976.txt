@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40476-010-0 
-# EXFOR reaction        : ['94-PU-239', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (94-PU-239(N,F),,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Pu-239 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : K.D.Zhuravlev 
+# first author          : Zhuravlev 
 # institute             : (4RUSNIR): NIIAR Dimitrovgrad 
 # reference             : ((R,YK-22,3,1976)=(R,INDC(CCP)-105,3,1976)) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/404/40476.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40476
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      7.41700E+02      1.50000E+01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        7.4170E+02        1.5000E+01

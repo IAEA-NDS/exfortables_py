@@ -1,11 +1,11 @@
 # entry-subent-pointer  : K2021-007-0 
-# EXFOR reaction        : ['79-AU-197', ['G,F'], '47-AG-113,CUM,SIG,,BRA'] 
+# EXFOR reaction        : (79-AU-197(G,F)47-AG-113,CUM,SIG,,BRA) 
 # incident energy       : 3.0000e+02 MeV - 1.1000e+03 MeV 
 # target                : Au-197 
 # product               : Ag-113 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : H.Haba 
+# first author          : Haba 
 # institute             : (2JPNKNZ): Kanazawa University , Kanazawa 
 # reference             : (J,JNRS,1,53,2000) 
 # year                  : 2000 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K20/K2021.x4 
 # nds                   : https://nds.iaea.org/EXFOR/K2021
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.10000E+03      0.00000E+00      7.20000E-06      7.60000E-07
-      9.00000E+02      0.00000E+00      9.48000E-06      5.30000E-07
-      8.00000E+02      0.00000E+00      8.59000E-06      6.10000E-07
-      7.00000E+02      0.00000E+00      7.19000E-06      3.60000E-07
-      5.00000E+02      0.00000E+00      5.82000E-06      4.50000E-07
-      4.00000E+02      0.00000E+00      6.37000E-06      3.40000E-07
-      3.00000E+02      0.00000E+00      3.82000E-06      8.60000E-07
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1000E+03        0.0000E+00        7.2000E-06        7.6000E-07
+        9.0000E+02        0.0000E+00        9.4800E-06        5.3000E-07
+        8.0000E+02        0.0000E+00        8.5900E-06        6.1000E-07
+        7.0000E+02        0.0000E+00        7.1900E-06        3.6000E-07
+        5.0000E+02        0.0000E+00        5.8200E-06        4.5000E-07
+        4.0000E+02        0.0000E+00        6.3700E-06        3.4000E-07
+        3.0000E+02        0.0000E+00        3.8200E-06        8.6000E-07

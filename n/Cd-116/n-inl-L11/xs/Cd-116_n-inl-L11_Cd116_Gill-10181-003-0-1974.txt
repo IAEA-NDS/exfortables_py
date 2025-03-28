@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10181-003-0 
-# EXFOR reaction        : ['48-CD-116', ['N,INL'], '48-CD-116,PAR,SIG'] 
+# EXFOR reaction        : (48-CD-116(N,INL)48-CD-116,PAR,SIG) 
 # incident energy       : 2.1890e+00 MeV - 2.8850e+00 MeV 
 # target                : Cd-116 
 # product               : Cd-116 
 # level energy          : 2.0370e+00 MeV 
 # MF-MT number          : 3 - 61 
-# first author          : D.R.Gill 
+# first author          : Gill 
 # institute             : (1CANALA): University of Alberta, Edmonton, Alberta 
 # reference             : (J,NP/A,229,397,197409) 
 # year                  : 1974 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10181.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10181
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.18900E+00      0.00000E+00      3.60000E-02      0.00000E+00
-      2.31900E+00      0.00000E+00      3.50000E-02      0.00000E+00
-      2.50100E+00      0.00000E+00      2.80000E-02      0.00000E+00
-      2.69000E+00      0.00000E+00      3.20000E-02      0.00000E+00
-      2.88400E+00      0.00000E+00      3.00000E-02      0.00000E+00
-      2.19100E+00      0.00000E+00      1.80000E-02      0.00000E+00
-      2.50300E+00      0.00000E+00      2.80000E-02      0.00000E+00
-      2.69100E+00      0.00000E+00      2.60000E-02      0.00000E+00
-      2.88500E+00      0.00000E+00      1.70000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1890E+00        0.0000E+00        3.6000E-02        0.0000E+00
+        2.3190E+00        0.0000E+00        3.5000E-02        0.0000E+00
+        2.5010E+00        0.0000E+00        2.8000E-02        0.0000E+00
+        2.6900E+00        0.0000E+00        3.2000E-02        0.0000E+00
+        2.8840E+00        0.0000E+00        3.0000E-02        0.0000E+00
+        2.1910E+00        0.0000E+00        1.8000E-02        0.0000E+00
+        2.5030E+00        0.0000E+00        2.8000E-02        0.0000E+00
+        2.6910E+00        0.0000E+00        2.6000E-02        0.0000E+00
+        2.8850E+00        0.0000E+00        1.7000E-02        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30740-008-0 
-# EXFOR reaction        : ['46-PD-102', ['N,2N'], '46-PD-101,,SIG'] 
+# EXFOR reaction        : (46-PD-102(N,2N)46-PD-101,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Pd-102 
 # product               : Pd-101 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : I.F.Goncalves 
+# first author          : Goncalves 
 # institute             : (3HUNKOS): University of Debrecen, Debrecen 
 # reference             : (J,ARI,38,(11),989,198711) 
 # year                  : 1987 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30740.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30740
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      1.70000E-01      1.00500E+00      1.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        1.7000E-01        1.0050E+00        1.7000E-02

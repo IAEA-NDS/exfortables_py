@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D7040-004-1 
-# EXFOR reaction        : ['41-NB-93', ['P,X'], '41-NB-90,,SIG'] 
+# EXFOR reaction        : (41-NB-93(P,X)41-NB-90,,SIG) 
 # incident energy       : 5.8100e+01 MeV - 9.9300e+01 MeV 
 # target                : Nb-93 
 # product               : Nb-90 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Bakhtiari 
+# first author          : Bakhtiari 
 # institute             : (3KORPUE): Pohang University of Science and Technology, Pohang 
 # reference             : (J,PR/C,103,064617,2021) 
 # year                  : 2021 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D70/D7040.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D7040
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.93000E+01      1.00000E-01      1.14600E-01      1.31000E-02
-      9.00000E+01      5.00000E-01      1.25700E-01      1.44000E-02
-      8.06000E+01      7.00000E-01      1.41800E-01      1.62000E-02
-      7.00000E+01      8.00000E-01      1.80900E-01      2.07000E-02
-      5.81000E+01      1.20000E+00      3.05100E-01      3.49000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.9300E+01        1.0000E-01        1.1460E-01        1.3100E-02
+        9.0000E+01        5.0000E-01        1.2570E-01        1.4400E-02
+        8.0600E+01        7.0000E-01        1.4180E-01        1.6200E-02
+        7.0000E+01        8.0000E-01        1.8090E-01        2.0700E-02
+        5.8100E+01        1.2000E+00        3.0510E-01        3.4900E-02

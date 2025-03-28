@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22838-003-0 
-# EXFOR reaction        : ['35-BR-79', ['N,INL'], '35-BR-79-M,,SIG'] 
+# EXFOR reaction        : (35-BR-79(N,INL)35-BR-79-M,,SIG) 
 # incident energy       : 2.0900e+00 MeV - 3.0900e+00 MeV 
 # target                : Br-79 
 # product               : Br-79-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : T.Shimizu 
+# first author          : Shimizu 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : ((S,JAERI-C-2003-006,138,2003)=(S,INDC(JPN)-191/U,138,2003)) 
 # year                  : 2003 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22838.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22838
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.09000E+00      0.00000E+00      4.17000E-01      2.41860E-02
-      2.90000E+00      0.00000E+00      3.23000E-01      1.97030E-02
-      2.69000E+00      0.00000E+00      3.25000E-01      1.98250E-02
-      2.46000E+00      0.00000E+00      2.54000E-01      1.62560E-02
-      2.27000E+00      0.00000E+00      3.14000E-01      1.97820E-02
-      2.09000E+00      0.00000E+00      2.46000E-01      1.91880E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0900E+00        0.0000E+00        4.1700E-01        2.4186E-02
+        2.9000E+00        0.0000E+00        3.2300E-01        1.9703E-02
+        2.6900E+00        0.0000E+00        3.2500E-01        1.9825E-02
+        2.4600E+00        0.0000E+00        2.5400E-01        1.6256E-02
+        2.2700E+00        0.0000E+00        3.1400E-01        1.9782E-02
+        2.0900E+00        0.0000E+00        2.4600E-01        1.9188E-02

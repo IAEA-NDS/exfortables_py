@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31834-006-0 
-# EXFOR reaction        : ['27-CO-59', ['N,A'], '25-MN-56,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,A)25-MN-56,,SIG) 
 # incident energy       : 2.9100e+01 MeV 
 # target                : Co-59 
 # product               : Mn-56 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : D.Kral 
+# first author          : Kral 
 # institute             : (3CZRCZR): Czech Republic 
 # reference             : (J,EPJ/CS,239,20004,2020) 
 # year                  : 2020 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31834.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31834
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.91000E+01      0.00000E+00      5.10000E-03      7.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9100E+01        0.0000E+00        5.1000E-03        7.0000E-04

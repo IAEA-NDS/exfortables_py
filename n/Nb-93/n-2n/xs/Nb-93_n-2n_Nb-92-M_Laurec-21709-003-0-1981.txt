@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21709-003-0 
-# EXFOR reaction        : ['41-NB-93', ['N,2N'], '41-NB-92-M,,SIG'] 
+# EXFOR reaction        : (41-NB-93(N,2N)41-NB-92-M,,SIG) 
 # incident energy       : 1.4100e+01 MeV - 1.4800e+01 MeV 
 # target                : Nb-93 
 # product               : Nb-92-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.Laurec 
+# first author          : Laurec 
 # institute             : (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
 # reference             : (R,CEA-R-5109,198106) 
 # year                  : 1981 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21709.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21709
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      1.00000E-01      4.63000E-01      1.80000E-02
-      1.48000E+01      3.00000E-01      4.67000E-01      1.80000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        1.0000E-01        4.6300E-01        1.8000E-02
+        1.4800E+01        3.0000E-01        4.6700E-01        1.8000E-02

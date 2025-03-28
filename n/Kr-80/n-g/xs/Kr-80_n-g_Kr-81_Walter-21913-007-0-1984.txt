@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21913-007-0 
-# EXFOR reaction        : ['36-KR-80', ['N,G'], '36-KR-81,,SIG,,MXW,DERIV'] 
+# EXFOR reaction        : (36-KR-80(N,G)36-KR-81,,SIG,,MXW,DERIV) 
 # incident energy       : 2.0000e-02 MeV - 5.0000e-02 MeV 
 # target                : Kr-80 
 # product               : Kr-81 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : G.Walter 
+# first author          : Walter 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (R,KFK-3652,1,198402) 
 # year                  : 1984 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21913.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21913
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-02      0.00000E+00      3.17000E-01      1.60000E-02
-      2.50000E-02      0.00000E+00      2.88000E-01      1.50000E-02
-      3.00000E-02      0.00000E+00      2.65000E-01      1.30000E-02
-      3.50000E-02      0.00000E+00      2.48000E-01      1.30000E-02
-      4.00000E-02      0.00000E+00      2.34000E-01      1.20000E-02
-      4.50000E-02      0.00000E+00      2.23000E-01      1.10000E-02
-      5.00000E-02      0.00000E+00      2.13000E-01      1.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-02        0.0000E+00        3.1700E-01        1.6000E-02
+        2.5000E-02        0.0000E+00        2.8800E-01        1.5000E-02
+        3.0000E-02        0.0000E+00        2.6500E-01        1.3000E-02
+        3.5000E-02        0.0000E+00        2.4800E-01        1.3000E-02
+        4.0000E-02        0.0000E+00        2.3400E-01        1.2000E-02
+        4.5000E-02        0.0000E+00        2.2300E-01        1.1000E-02
+        5.0000E-02        0.0000E+00        2.1300E-01        1.1000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11325-003-0 
-# EXFOR reaction        : ['6-C-12', ['N,EL'], '6-C-12,,SIG'] 
+# EXFOR reaction        : (6-C-12(N,EL)6-C-12,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : C-12 
 # product               : C-12 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : J.B.Singletary 
+# first author          : Singletary 
 # institute             : (1USANWU): Northwestern University, Evanston, IL 
 # reference             : (J,PR,114,1595,59) 
 # year                  : 1959 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11325.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11325
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      0.00000E+00      8.05000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        8.0500E-01        0.0000E+00

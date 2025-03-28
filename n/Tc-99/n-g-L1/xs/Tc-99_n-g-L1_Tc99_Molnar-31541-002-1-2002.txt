@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31541-002-1 
-# EXFOR reaction        : ['43-TC-99', ['N,G'], '43-TC-100,PAR,SIG'] 
+# EXFOR reaction        : (43-TC-99(N,G)43-TC-100,PAR,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Tc-99 
 # product               : Tc-100 
 # level energy          : 1.7200e-01 MeV 
-# MF-MT number          : 3 - 51 
-# first author          : G.L.Molnar 
+# MF-MT number          : 3 - 1 
+# first author          : Molnar 
 # institute             : (3HUNII ): MTA Izotop Intezete, Budapest 
 # reference             : (J,RCA,90,479,2002) 
 # year                  : 2002 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31541.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31541
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.66100E+01      1.50000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.6610E+01        1.5000E-01

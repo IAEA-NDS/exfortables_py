@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10238-023-1 
-# EXFOR reaction        : ['22-TI-46', ['N,P'], '21-SC-46,,SIG'] 
+# EXFOR reaction        : (22-TI-46(N,P)21-SC-46,,SIG) 
 # incident energy       : 3.6680e+00 MeV - 3.9830e+00 MeV 
 # target                : Ti-46 
 # product               : Sc-46 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : D.L.Smith 
+# first author          : Smith 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,NSE,58,314,197511) 
 # year                  : 1975 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10238.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10238
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.66800E+00      1.64000E-01      1.35300E-02      2.80000E-03
-      3.76900E+00      1.64000E-01      1.61400E-02      1.26200E-03
-      3.98300E+00      1.54000E-01      2.07500E-02      1.24500E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6680E+00        1.6400E-01        1.3530E-02        2.8000E-03
+        3.7690E+00        1.6400E-01        1.6140E-02        1.2620E-03
+        3.9830E+00        1.5400E-01        2.0750E-02        1.2450E-03

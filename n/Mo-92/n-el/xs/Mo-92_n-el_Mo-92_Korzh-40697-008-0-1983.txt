@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40697-008-0 
-# EXFOR reaction        : ['42-MO-92', ['N,EL'], '42-MO-92,,SIG'] 
+# EXFOR reaction        : (42-MO-92(N,EL)42-MO-92,,SIG) 
 # incident energy       : 1.5000e+00 MeV - 7.0000e+00 MeV 
 # target                : Mo-92 
 # product               : Mo-92 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : I.A.Korzh 
+# first author          : Korzh 
 # institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
 # reference             : ((J,YK,,(1/50),40,1983)=(R,INDC(CCP)-213,40,1983)) 
 # year                  : 1983 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40697.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40697
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      5.28200E+00      0.00000E+00
-      2.00000E+00      0.00000E+00      3.93800E+00      0.00000E+00
-      2.50000E+00      0.00000E+00      2.96000E+00      1.22000E-01
-      3.00000E+00      0.00000E+00      2.65200E+00      1.02000E-01
-      5.00000E+00      0.00000E+00      1.74600E+00      0.00000E+00
-      6.00000E+00      0.00000E+00      2.02500E+00      0.00000E+00
-      7.00000E+00      0.00000E+00      2.16100E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        5.2820E+00        0.0000E+00
+        2.0000E+00        0.0000E+00        3.9380E+00        0.0000E+00
+        2.5000E+00        0.0000E+00        2.9600E+00        1.2200E-01
+        3.0000E+00        0.0000E+00        2.6520E+00        1.0200E-01
+        5.0000E+00        0.0000E+00        1.7460E+00        0.0000E+00
+        6.0000E+00        0.0000E+00        2.0250E+00        0.0000E+00
+        7.0000E+00        0.0000E+00        2.1610E+00        0.0000E+00

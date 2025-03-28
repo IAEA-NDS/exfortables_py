@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12956-003-0 
-# EXFOR reaction        : ['30-ZN-64', ['N,P'], '29-CU-64,,SIG'] 
+# EXFOR reaction        : (30-ZN-64(N,P)29-CU-64,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Zn-64 
 # product               : Cu-64 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : R.Spangler 
+# first author          : Spangler 
 # institute             : (1USATEX): University of Texas, Austin, TX 
 # reference             : (J,ANS,22,818,1975) 
 # year                  : 1975 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12956.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12956
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      0.00000E+00      1.43000E-01      1.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        1.4300E-01        1.3000E-02

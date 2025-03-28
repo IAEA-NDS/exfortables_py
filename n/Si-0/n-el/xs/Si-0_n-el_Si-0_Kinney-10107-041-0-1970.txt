@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10107-041-0 
-# EXFOR reaction        : ['14-SI-0', ['N,EL'], '14-SI-0,,SIG'] 
+# EXFOR reaction        : (14-SI-0(N,EL)14-SI-0,,SIG) 
 # incident energy       : 5.4400e+00 MeV - 8.5600e+00 MeV 
 # target                : Si-0 
 # product               : Si-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : W.E.Kinney 
+# first author          : Kinney 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (R,ORNL-4517,197007) 
 # year                  : 1970 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10107.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10107
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.44000E+00      1.70000E-01      1.08768E+00      7.83130E-02
-      6.37000E+00      1.30000E-01      1.24545E+00      9.09179E-02
-      7.55000E+00      4.00000E-02      8.21460E-01      5.91451E-02
-      8.56000E+00      8.00000E-02      8.84610E-01      6.45765E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.4400E+00        1.7000E-01        1.0877E+00        7.8313E-02
+        6.3700E+00        1.3000E-01        1.2455E+00        9.0918E-02
+        7.5500E+00        4.0000E-02        8.2146E-01        5.9145E-02
+        8.5600E+00        8.0000E-02        8.8461E-01        6.4577E-02

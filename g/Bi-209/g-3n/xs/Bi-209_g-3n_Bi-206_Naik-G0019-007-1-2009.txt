@@ -1,11 +1,11 @@
 # entry-subent-pointer  : G0019-007-1 
-# EXFOR reaction        : ['83-BI-209', ['G,3N'], '83-BI-206,,SIG,,BRA'] 
+# EXFOR reaction        : (83-BI-209(G,3N)83-BI-206,,SIG,,BRA) 
 # incident energy       : 5.0000e+01 MeV - 6.5000e+01 MeV 
 # target                : Bi-209 
 # product               : Bi-206 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : H.Naik 
+# first author          : Naik 
 # institute             : (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
 # reference             : (J,EPJ/A,41,323,2009) 
 # year                  : 2009 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G00/G0019.x4 
 # nds                   : https://nds.iaea.org/EXFOR/G0019
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.00000E+01      0.00000E+00      1.30500E-03      1.10000E-04
-      6.50000E+01      0.00000E+00      1.44500E-03      7.90000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+01        0.0000E+00        1.3050E-03        1.1000E-04
+        6.5000E+01        0.0000E+00        1.4450E-03        7.9000E-05

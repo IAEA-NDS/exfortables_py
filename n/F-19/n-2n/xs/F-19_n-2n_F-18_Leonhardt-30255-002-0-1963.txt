@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30255-002-0 
-# EXFOR reaction        : ['9-F-19', ['N,2N'], '9-F-18,,SIG,,FIS'] 
+# EXFOR reaction        : (9-F-19(N,2N)9-F-18,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : F-19 
 # product               : F-18 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : W.Leonhardt 
+# first author          : Leonhardt 
 # institute             : (2GERZFK): Helmholtz-Zentrum Dresden-Rossendorf, Dresden 
 # reference             : (J,KE,6,45,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/302/30255.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30255
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      8.60000E-06      1.30000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        8.6000E-06        1.3000E-06

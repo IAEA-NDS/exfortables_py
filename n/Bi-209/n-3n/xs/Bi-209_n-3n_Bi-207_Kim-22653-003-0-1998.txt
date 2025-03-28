@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22653-003-0 
-# EXFOR reaction        : ['83-BI-209', ['N,3N'], '83-BI-207,,SIG,,SPA'] 
+# EXFOR reaction        : (83-BI-209(N,3N)83-BI-207,,SIG,,SPA) 
 # incident energy       : 1.7600e+01 MeV - 3.8300e+01 MeV 
 # target                : Bi-209 
 # product               : Bi-207 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : E.Kim 
+# first author          : Kim 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (J,NSE,129,209,1998) 
 # year                  : 1998 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22653.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22653
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.76000E+01      2.30000E+00      7.53000E-01      1.19000E-01
-      2.18000E+01      1.90000E+00      1.11100E+00      1.05000E-01
-      2.76000E+01      1.70000E+00      1.21100E+00      4.29000E-01
-      3.28000E+01      1.50000E+00      7.48000E-01      2.10000E-01
-      3.28000E+01      1.50000E+00      7.06000E-01      1.65000E-01
-      3.28000E+01      1.50000E+00      7.89000E-01      1.82000E-01
-      3.83000E+01      1.40000E+00      4.63000E-01      1.49000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7600E+01        2.3000E+00        7.5300E-01        1.1900E-01
+        2.1800E+01        1.9000E+00        1.1110E+00        1.0500E-01
+        2.7600E+01        1.7000E+00        1.2110E+00        4.2900E-01
+        3.2800E+01        1.5000E+00        7.4800E-01        2.1000E-01
+        3.2800E+01        1.5000E+00        7.0600E-01        1.6500E-01
+        3.2800E+01        1.5000E+00        7.8900E-01        1.8200E-01
+        3.8300E+01        1.4000E+00        4.6300E-01        1.4900E-01

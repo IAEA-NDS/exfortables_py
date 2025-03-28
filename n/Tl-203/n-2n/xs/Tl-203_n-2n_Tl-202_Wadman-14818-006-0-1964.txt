@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14818-006-0 
-# EXFOR reaction        : ['81-TL-203', ['N,2N'], '81-TL-202,,SIG'] 
+# EXFOR reaction        : (81-TL-203(N,2N)81-TL-202,,SIG) 
 # incident energy       : 1.2270e+01 MeV - 1.6403e+01 MeV 
 # target                : Tl-203 
 # product               : Tl-202 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : W.W.Wadman 
+# first author          : Wadman 
 # institute             : (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
 # reference             : (R,UCRL-11375,1964) 
 # year                  : 1964 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/148/14818.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14818
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.22700E+01      0.00000E+00      8.38600E-01      0.00000E+00
-      1.34040E+01      0.00000E+00      1.23600E+00      0.00000E+00
-      1.37740E+01      0.00000E+00      1.28600E+00      0.00000E+00
-      1.41420E+01      0.00000E+00      1.29900E+00      0.00000E+00
-      1.45100E+01      0.00000E+00      1.31100E+00      0.00000E+00
-      1.64030E+01      0.00000E+00      1.12000E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2270E+01        0.0000E+00        8.3860E-01        0.0000E+00
+        1.3404E+01        0.0000E+00        1.2360E+00        0.0000E+00
+        1.3774E+01        0.0000E+00        1.2860E+00        0.0000E+00
+        1.4142E+01        0.0000E+00        1.2990E+00        0.0000E+00
+        1.4510E+01        0.0000E+00        1.3110E+00        0.0000E+00
+        1.6403E+01        0.0000E+00        1.1200E+00        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23050-002-0 
-# EXFOR reaction        : ['28-NI-60', ['N,2N'], '28-NI-59,,SIG'] 
+# EXFOR reaction        : (28-NI-60(N,2N)28-NI-59,,SIG) 
 # incident energy       : 1.7000e+01 MeV - 1.9000e+01 MeV 
 # target                : Ni-60 
 # product               : Ni-59 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.Wallner 
+# first author          : Wallner 
 # institute             : (2AUSVIE): Universitaet Wien, Vienna 
 # reference             : (C,2007NICE,2,1007,200704) 
 # year                  : 2007 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23050.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23050
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.70000E+01      2.30000E-01      6.01000E-01      8.20000E-02
-      1.90000E+01      2.70000E-01      7.79000E-01      7.80000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7000E+01        2.3000E-01        6.0100E-01        8.2000E-02
+        1.9000E+01        2.7000E-01        7.7900E-01        7.8000E-02

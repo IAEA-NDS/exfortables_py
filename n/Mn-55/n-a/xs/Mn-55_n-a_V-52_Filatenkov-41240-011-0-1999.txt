@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41240-011-0 
-# EXFOR reaction        : ['25-MN-55', ['N,A'], '23-V-52,,SIG'] 
+# EXFOR reaction        : (25-MN-55(N,A)23-V-52,,SIG) 
 # incident energy       : 1.3470e+01 MeV - 1.4810e+01 MeV 
 # target                : Mn-55 
 # product               : V-52 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,RI-252,1999) 
 # year                  : 1999 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41240.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41240
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34700E+01      0.00000E+00      2.06000E-02      8.00000E-04
-      1.36600E+01      0.00000E+00      2.09000E-02      9.00000E-04
-      1.38800E+01      0.00000E+00      2.26000E-02      1.00000E-03
-      1.40400E+01      0.00000E+00      2.27000E-02      1.00000E-03
-      1.42600E+01      0.00000E+00      2.29000E-02      1.00000E-03
-      1.44400E+01      0.00000E+00      2.33000E-02      9.00000E-04
-      1.46300E+01      0.00000E+00      2.35000E-02      9.00000E-04
-      1.48100E+01      0.00000E+00      2.28000E-02      1.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3470E+01        0.0000E+00        2.0600E-02        8.0000E-04
+        1.3660E+01        0.0000E+00        2.0900E-02        9.0000E-04
+        1.3880E+01        0.0000E+00        2.2600E-02        1.0000E-03
+        1.4040E+01        0.0000E+00        2.2700E-02        1.0000E-03
+        1.4260E+01        0.0000E+00        2.2900E-02        1.0000E-03
+        1.4440E+01        0.0000E+00        2.3300E-02        9.0000E-04
+        1.4630E+01        0.0000E+00        2.3500E-02        9.0000E-04
+        1.4810E+01        0.0000E+00        2.2800E-02        1.0000E-03

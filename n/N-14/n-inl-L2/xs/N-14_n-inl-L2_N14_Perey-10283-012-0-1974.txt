@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10283-012-0 
-# EXFOR reaction        : ['7-N-14', ['N,INL'], '7-N-14,PAR,SIG'] 
+# EXFOR reaction        : (7-N-14(N,INL)7-N-14,PAR,SIG) 
 # incident energy       : 6.0100e+00 MeV - 8.5600e+00 MeV 
 # target                : N-14 
 # product               : N-14 
 # level energy          : 3.9450e+00 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : F.G.Perey 
+# first author          : Perey 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (R,ORNL-4805,197402) 
 # year                  : 1974 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10283.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10283
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.01000E+00      7.00000E-02      8.74100E-02      1.56464E-02
-      6.01000E+00      7.00000E-02      1.02090E-01      2.34807E-02
-      6.44000E+00      7.00000E-02      8.65900E-02      9.78467E-03
-      7.03000E+00      6.00000E-02      1.08860E-01      1.06683E-02
-      7.54000E+00      6.00000E-02      7.25500E-02      6.67460E-03
-      8.04000E+00      5.00000E-02      5.80100E-02      5.51095E-03
-      8.56000E+00      5.00000E-02      6.01600E-02      5.53472E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0100E+00        7.0000E-02        8.7410E-02        1.5646E-02
+        6.0100E+00        7.0000E-02        1.0209E-01        2.3481E-02
+        6.4400E+00        7.0000E-02        8.6590E-02        9.7847E-03
+        7.0300E+00        6.0000E-02        1.0886E-01        1.0668E-02
+        7.5400E+00        6.0000E-02        7.2550E-02        6.6746E-03
+        8.0400E+00        5.0000E-02        5.8010E-02        5.5109E-03
+        8.5600E+00        5.0000E-02        6.0160E-02        5.5347E-03

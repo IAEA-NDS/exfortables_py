@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0700-003-0 
-# EXFOR reaction        : ['65-TB-159', ['D,4N'], '66-DY-157,,SIG'] 
+# EXFOR reaction        : (65-TB-159(D,4N)66-DY-157,,SIG) 
 # incident energy       : 1.9820e+01 MeV - 2.7070e+01 MeV 
 # target                : Tb-159 
 # product               : Dy-157 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : L.N.Siri 
+# first author          : Siri 
 # institute             : (3ARGCNE): Comision Nacional de Energia Atomica, Buenos Aires 
 # reference             : (J,RCA,14,159,1970) 
 # year                  : 1970 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D07/D0700.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0700
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.98200E+01      2.60000E-01      1.42700E-03      0.00000E+00
-      2.10200E+01      3.30000E-01      1.91700E-03      0.00000E+00
-      2.21100E+01      3.10000E-01      9.89500E-03      8.43000E-03
-      2.32000E+01      3.00000E-01      2.90700E-02      1.10280E-02
-      2.42500E+01      3.10000E-01      1.02749E-01      2.91870E-02
-      2.52500E+01      3.10000E-01      2.39890E-01      5.96680E-02
-      2.62100E+01      3.30000E-01      3.85249E-01      9.66410E-02
-      2.70700E+01      3.10000E-01      5.75420E-01      1.40749E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9820E+01        2.6000E-01        1.4270E-03        0.0000E+00
+        2.1020E+01        3.3000E-01        1.9170E-03        0.0000E+00
+        2.2110E+01        3.1000E-01        9.8950E-03        8.4300E-03
+        2.3200E+01        3.0000E-01        2.9070E-02        1.1028E-02
+        2.4250E+01        3.1000E-01        1.0275E-01        2.9187E-02
+        2.5250E+01        3.1000E-01        2.3989E-01        5.9668E-02
+        2.6210E+01        3.3000E-01        3.8525E-01        9.6641E-02
+        2.7070E+01        3.1000E-01        5.7542E-01        1.4075E-01

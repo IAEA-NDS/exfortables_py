@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0727-014-0 
-# EXFOR reaction        : ['90-TH-232', ['P,F'], '54-XE-133-M,,SIG'] 
+# EXFOR reaction        : (90-TH-232(P,F)54-XE-133-M,,SIG) 
 # incident energy       : 3.0000e+01 MeV - 8.5000e+01 MeV 
 # target                : Th-232 
 # product               : Xe-133-M 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : J.H.Forster 
+# first author          : Forster 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,CJC,44,2951,1966) 
 # year                  : 1966 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0727.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0727
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+01      0.00000E+00      2.70000E-03      6.75000E-04
-      4.00000E+01      0.00000E+00      6.10000E-03      1.52500E-03
-      5.20000E+01      0.00000E+00      9.70000E-03      2.42500E-03
-      6.50000E+01      0.00000E+00      9.40000E-03      2.35000E-03
-      7.50000E+01      0.00000E+00      9.60000E-03      2.40000E-03
-      8.50000E+01      0.00000E+00      8.40000E-03      2.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+01        0.0000E+00        2.7000E-03        6.7500E-04
+        4.0000E+01        0.0000E+00        6.1000E-03        1.5250E-03
+        5.2000E+01        0.0000E+00        9.7000E-03        2.4250E-03
+        6.5000E+01        0.0000E+00        9.4000E-03        2.3500E-03
+        7.5000E+01        0.0000E+00        9.6000E-03        2.4000E-03
+        8.5000E+01        0.0000E+00        8.4000E-03        2.1000E-03

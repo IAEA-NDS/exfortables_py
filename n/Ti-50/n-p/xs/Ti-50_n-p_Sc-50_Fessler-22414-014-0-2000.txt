@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22414-014-0 
-# EXFOR reaction        : ['22-TI-50', ['N,P'], '21-SC-50,,SIG'] 
+# EXFOR reaction        : (22-TI-50(N,P)21-SC-50,,SIG) 
 # incident energy       : 1.6089e+01 MeV - 2.0369e+01 MeV 
 # target                : Ti-50 
 # product               : Sc-50 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : A.Fessler 
+# first author          : Fessler 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,NSE,134,(2),171,2000) 
 # year                  : 2000 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22414.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22414
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.60890E+01      0.00000E+00      1.59600E-02      1.19000E-03
-      1.70650E+01      0.00000E+00      1.81400E-02      1.43000E-03
-      1.78230E+01      0.00000E+00      1.88300E-02      1.42000E-03
-      1.91540E+01      0.00000E+00      1.69700E-02      1.36000E-03
-      2.03690E+01      0.00000E+00      1.40300E-02      1.31000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6089E+01        0.0000E+00        1.5960E-02        1.1900E-03
+        1.7065E+01        0.0000E+00        1.8140E-02        1.4300E-03
+        1.7823E+01        0.0000E+00        1.8830E-02        1.4200E-03
+        1.9154E+01        0.0000E+00        1.6970E-02        1.3600E-03
+        2.0369E+01        0.0000E+00        1.4030E-02        1.3100E-03

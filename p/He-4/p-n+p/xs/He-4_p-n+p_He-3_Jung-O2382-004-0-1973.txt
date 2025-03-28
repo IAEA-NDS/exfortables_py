@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2382-004-0 
-# EXFOR reaction        : ['2-HE-4', ['P,N+P'], '2-HE-3,,SIG'] 
+# EXFOR reaction        : (2-HE-4(P,N+P)2-HE-3,,SIG) 
 # incident energy       : 1.4500e+02 MeV 
 # target                : He-4 
 # product               : He-3 
 # level energy          : - 
 # MF-MT number          : 3 - 28 
-# first author          : M.Jung 
+# first author          : Jung 
 # institute             : (2FR STR): IPHC, Strasbourg 
 # reference             : (J,PR/C,7,2209,1973) 
 # year                  : 1973 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2382.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2382
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+02      0.00000E+00      1.56000E-02      2.20000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+02        0.0000E+00        1.5600E-02        2.2000E-03

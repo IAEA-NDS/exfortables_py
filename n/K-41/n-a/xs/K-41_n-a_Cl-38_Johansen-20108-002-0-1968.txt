@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20108-002-0 
-# EXFOR reaction        : ['19-K-41', ['N,A'], '17-CL-38,,SIG,,SPA'] 
+# EXFOR reaction        : (19-K-41(N,A)17-CL-38,,SIG,,SPA) 
 # incident energy       : 1.0000e+00 MeV 
 # target                : K-41 
 # product               : Cl-38 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : O.Johansen 
+# first author          : Johansen 
 # institute             : (2NORKJL): Institutt for Energiteknikk (IFE), Kjeller 
 # reference             : (J,RCA,9,47,6805) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20108.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20108
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      6.80000E-04      5.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        6.8000E-04        5.0000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2463-004-0 
-# EXFOR reaction        : ['88-RA-226', ['P,F'], ',,SIG'] 
+# EXFOR reaction        : (88-RA-226(P,F),,SIG) 
 # incident energy       : 1.2508e+01 MeV - 1.6508e+01 MeV 
 # target                : Ra-226 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : D.G.Perry 
+# first author          : Perry 
 # institute             : (1USAWAU): University of Washington, Seattle, WA 
 # reference             : (J,PR/C,4,977,1971) 
 # year                  : 1971 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C24/C2463.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2463
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.25080E+01      0.00000E+00      2.64100E-02      1.70300E-03
-      1.30310E+01      0.00000E+00      3.30500E-02      2.13200E-03
-      1.35010E+01      0.00000E+00      4.18800E-02      2.70000E-03
-      1.40230E+01      0.00000E+00      5.05500E-02      2.68300E-03
-      1.45460E+01      0.00000E+00      6.10100E-02      3.24000E-03
-      1.49900E+01      0.00000E+00      7.36400E-02      4.74800E-03
-      1.55130E+01      0.00000E+00      8.57100E-02      6.01400E-03
-      1.60370E+01      0.00000E+00      9.50400E-02      6.13100E-03
-      1.65080E+01      0.00000E+00      1.07300E-01      7.52600E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2508E+01        0.0000E+00        2.6410E-02        1.7030E-03
+        1.3031E+01        0.0000E+00        3.3050E-02        2.1320E-03
+        1.3501E+01        0.0000E+00        4.1880E-02        2.7000E-03
+        1.4023E+01        0.0000E+00        5.0550E-02        2.6830E-03
+        1.4546E+01        0.0000E+00        6.1010E-02        3.2400E-03
+        1.4990E+01        0.0000E+00        7.3640E-02        4.7480E-03
+        1.5513E+01        0.0000E+00        8.5710E-02        6.0140E-03
+        1.6037E+01        0.0000E+00        9.5040E-02        6.1310E-03
+        1.6508E+01        0.0000E+00        1.0730E-01        7.5260E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0951-003-0 
-# EXFOR reaction        : ['90-TH-232', ['D,F'], ',,SIG'] 
+# EXFOR reaction        : (90-TH-232(D,F),,SIG) 
 # incident energy       : 1.6000e+03 MeV - 2.5000e+03 MeV 
 # target                : Th-232 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : M.Zamani 
+# first author          : Zamani 
 # institute             : (2GRCARU): Aristotle University of Thessaloniki 
 # reference             : (J,PR/C,87,067602,2013) 
 # year                  : 2013 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0951.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0951
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.60000E+03      0.00000E+00      1.27700E+00      2.16000E-01
-      2.50000E+03      0.00000E+00      1.23200E+00      2.07000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6000E+03        0.0000E+00        1.2770E+00        2.1600E-01
+        2.5000E+03        0.0000E+00        1.2320E+00        2.0700E-01

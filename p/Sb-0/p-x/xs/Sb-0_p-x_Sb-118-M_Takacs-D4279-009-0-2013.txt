@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4279-009-0 
-# EXFOR reaction        : ['51-SB-0', ['P,X'], '51-SB-118-M,,SIG'] 
+# EXFOR reaction        : (51-SB-0(P,X)51-SB-118-M,,SIG) 
 # incident energy       : 2.7700e+01 MeV - 3.5400e+01 MeV 
 # target                : Sb-0 
 # product               : Sb-118-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.Takacs 
+# first author          : Takacs 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,NIM/B,297,44,2013) 
 # year                  : 2013 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4279.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4279
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.54000E+01      3.00000E-01      3.50000E-03      4.00000E-04
-      3.42000E+01      3.00000E-01      2.10000E-03      3.00000E-04
-      3.30000E+01      4.00000E-01      1.10000E-03      2.00000E-04
-      3.17000E+01      4.00000E-01      7.00000E-04      1.00000E-04
-      3.04000E+01      4.00000E-01      5.00000E-04      1.00000E-04
-      2.91000E+01      5.00000E-01      4.00000E-04      3.00000E-04
-      2.77000E+01      5.00000E-01      2.00000E-04      1.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5400E+01        3.0000E-01        3.5000E-03        4.0000E-04
+        3.4200E+01        3.0000E-01        2.1000E-03        3.0000E-04
+        3.3000E+01        4.0000E-01        1.1000E-03        2.0000E-04
+        3.1700E+01        4.0000E-01        7.0000E-04        1.0000E-04
+        3.0400E+01        4.0000E-01        5.0000E-04        1.0000E-04
+        2.9100E+01        5.0000E-01        4.0000E-04        3.0000E-04
+        2.7700E+01        5.0000E-01        2.0000E-04        1.0000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 32669-003-0 
-# EXFOR reaction        : ['52-TE-120', ['N,2N'], '52-TE-119-G,,SIG'] 
+# EXFOR reaction        : (52-TE-120(N,2N)52-TE-119-G,,SIG) 
 # incident energy       : 1.3500e+01 MeV - 1.4600e+01 MeV 
 # target                : Te-120 
 # product               : Te-119-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : F.Zhou 
+# first author          : Zhou 
 # institute             : (3CPRPDU): Pingdingshan University , Pingdingshan 
 # reference             : (J,RCA,95,553,2007) 
 # year                  : 2007 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32669.x4 
 # nds                   : https://nds.iaea.org/EXFOR/32669
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35000E+01      3.00000E-01      5.35000E-01      2.60000E-02
-      1.46000E+01      3.00000E-01      5.53000E-01      2.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3500E+01        3.0000E-01        5.3500E-01        2.6000E-02
+        1.4600E+01        3.0000E-01        5.5300E-01        2.7000E-02

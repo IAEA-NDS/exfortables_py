@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21653-012-0 
-# EXFOR reaction        : ['34-SE-0', ['N,EL'], '34-SE-0,,SIG'] 
+# EXFOR reaction        : (34-SE-0(N,EL)34-SE-0,,SIG) 
 # incident energy       : 5.1000e-10 MeV 
 # target                : Se-0 
 # product               : Se-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : L.Koester 
+# first author          : Koester 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (J,ZP/A,296,(1),43,198007) 
 # year                  : 1980 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21653.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21653
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.10000E-10      0.00000E+00      3.10000E+00      1.70000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.1000E-10        0.0000E+00        3.1000E+00        1.7000E+00

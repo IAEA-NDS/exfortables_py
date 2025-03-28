@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13498-003-0 
-# EXFOR reaction        : ['50-SN-117', ['N,X'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (50-SN-117(N,X)2-HE-4,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Sn-117 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : D.W.Kneff 
+# first author          : Kneff 
 # institute             : (1USAAI ): Rockwell International , Energy Systems Group, Canoga Park, CA 
 # reference             : (P,DOE-NDC-36,158,198504) 
 # year                  : 1985 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/134/13498.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13498
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      3.00000E-03      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        3.0000E-03        2.0000E-04

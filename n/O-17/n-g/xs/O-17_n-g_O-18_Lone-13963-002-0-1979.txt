@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13963-002-0 
-# EXFOR reaction        : ['8-O-17', ['N,G'], '8-O-18,,SIG,,MXW'] 
+# EXFOR reaction        : (8-O-17(N,G)8-O-18,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : O-17 
 # product               : O-18 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.A.Lone 
+# first author          : Lone 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (C,78BNL,,678,1979) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/139/13963.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13963
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      5.38000E-04      6.50000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        5.3800E-04        6.5000E-05

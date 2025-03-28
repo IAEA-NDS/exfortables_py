@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31838-005-1 
-# EXFOR reaction        : ['22-TI-46', ['N,P'], '21-SC-46,,SIG,,SPA'] 
+# EXFOR reaction        : (22-TI-46(N,P)21-SC-46,,SIG,,SPA) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Ti-46 
 # product               : Sc-46 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.Kostal 
+# first author          : Kostal 
 # institute             : (3CZRUJV): Research Centre Rez, Husinec-Rez 
 # reference             : (J,ANE,158,108268,2021) 
 # year                  : 2021 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31838.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31838
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      1.82300E-06      5.10440E-08
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.8230E-06        5.1044E-08

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22773-005-0 
-# EXFOR reaction        : ['3-LI-6', ['N,EL'], '3-LI-6,,SIG'] 
+# EXFOR reaction        : (3-LI-6(N,EL)3-LI-6,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Li-6 
 # product               : Li-6 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : A.Takahashi 
+# first author          : Takahashi 
 # institute             : (2JPNOSA): Osaka University , Osaka 
 # reference             : (R,OKTAV-A-92-01,(Li-6),1992) 
 # year                  : 1992 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22773.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22773
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      2.00000E-01      1.16000E+00      2.30000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        2.0000E-01        1.1600E+00        2.3000E-01

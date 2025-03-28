@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0550-004-0 
-# EXFOR reaction        : ['6-C-12', ['P,INL'], '6-C-12,PAR,SIG'] 
+# EXFOR reaction        : (6-C-12(P,INL)6-C-12,PAR,SIG) 
 # incident energy       : 1.6720e+01 MeV - 1.8900e+01 MeV 
 # target                : C-12 
 # product               : C-12 
 # level energy          : 7.7000e+00 MeV 
 # MF-MT number          : 3 - 602 
-# first author          : R.W.Peelle 
+# first author          : Peelle 
 # institute             : (1USAPTN): Princeton University, Princeton, NJ 
 # reference             : (J,PR,105,1311,1957) 
 # year                  : 1957 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0550.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0550
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.67200E+01      0.00000E+00      4.80000E-03      2.00000E-04
-      1.78000E+01      0.00000E+00      4.60000E-03      2.00000E-04
-      1.89000E+01      0.00000E+00      4.20000E-03      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6720E+01        0.0000E+00        4.8000E-03        2.0000E-04
+        1.7800E+01        0.0000E+00        4.6000E-03        2.0000E-04
+        1.8900E+01        0.0000E+00        4.2000E-03        2.0000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31830-003-0 
-# EXFOR reaction        : ['7-N-14', ['N,P'], '6-C-14,,SIG,,SPA'] 
+# EXFOR reaction        : (7-N-14(N,P)6-C-14,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : N-14 
 # product               : C-14 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : D.J.Marin-Lambarri 
+# first author          : Marin-Lambarri 
 # institute             : (3MEXUMX): University Nacional Autonoma de Mexico (UNAM), Mexico City 
 # reference             : (J,PR/C,102,044601,2020) 
 # year                  : 2020 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31830.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31830
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.07000E+00      3.70000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.0700E+00        3.7000E-01

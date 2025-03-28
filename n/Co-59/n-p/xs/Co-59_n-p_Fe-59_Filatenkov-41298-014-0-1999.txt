@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41298-014-0 
-# EXFOR reaction        : ['27-CO-59', ['N,P'], '26-FE-59,,SIG,,,DERIV'] 
+# EXFOR reaction        : (27-CO-59(N,P)26-FE-59,,SIG,,,DERIV) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Co-59 
 # product               : Fe-59 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,RI-252,1999) 
 # year                  : 1999 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41298.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41298
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      0.00000E+00      5.03000E-02      1.80000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        5.0300E-02        1.8000E-03

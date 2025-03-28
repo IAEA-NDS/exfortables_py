@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0690-011-1 
-# EXFOR reaction        : ['79-AU-197', ['P,X'], '26-FE-59,CUM,SIG'] 
+# EXFOR reaction        : (79-AU-197(P,X)26-FE-59,CUM,SIG) 
 # incident energy       : 1.1500e+04 MeV 
 # target                : Au-197 
 # product               : Fe-59 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.B.Kaufman 
+# first author          : Kaufman 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,PR/C,14,1121,1976) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0690.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0690
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.15000E+04      0.00000E+00      1.69000E-03      1.30000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1500E+04        0.0000E+00        1.6900E-03        1.3000E-04

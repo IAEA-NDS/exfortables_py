@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0164-008-0 
-# EXFOR reaction        : ['29-CU-63', ['P,X'], 'ELEM/MASS,IND,SIG'] 
+# EXFOR reaction        : (29-CU-63(P,X)ELEM/MASS,IND,SIG) 
 # incident energy       : 3.6500e+03 MeV 
 # target                : Cu-63 
 # product               : Co-60-0.0 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : P.Kozma 
+# first author          : Kozma 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (J,YF,53,722,1991) 
 # year                  : 1991 
@@ -13,5 +13,19 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0164.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0164
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.65000E+03      0.00000E+00      7.50000E-03      5.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6500E+03        0.0000E+00        5.5000E-04        9.0000E-05
+        3.6500E+03        0.0000E+00        1.0000E-04        3.0000E-05
+        3.6500E+03        0.0000E+00        7.5000E-03        5.0000E-04
+        3.6500E+03        0.0000E+00        1.9800E-02        1.0000E-03
+        3.6500E+03        0.0000E+00        3.1000E-04        5.0000E-05
+        3.6500E+03        0.0000E+00        1.3400E-02        6.5000E-04
+        3.6500E+03        0.0000E+00        5.4000E-03        4.0000E-04
+        3.6500E+03        0.0000E+00        1.5300E-02        1.0000E-03
+        3.6500E+03        0.0000E+00        2.7000E-04        3.0000E-05
+        3.6500E+03        0.0000E+00        3.3000E-04        4.0000E-05
+        3.6500E+03        0.0000E+00        2.4000E-03        2.0000E-04
+        3.6500E+03        0.0000E+00        5.9000E-03        3.5000E-04
+        3.6500E+03        0.0000E+00        3.3000E-03        3.0000E-04
+        3.6500E+03        0.0000E+00        2.5000E-03        2.0000E-04
+        3.6500E+03        0.0000E+00        2.6500E-03        2.0000E-04

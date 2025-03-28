@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0077-023-0 
-# EXFOR reaction        : ['14-SI-0', ['P,X'], '4-BE-7,,SIG'] 
+# EXFOR reaction        : (14-SI-0(P,X)4-BE-7,,SIG) 
 # incident energy       : 5.0000e+02 MeV - 2.9000e+03 MeV 
 # target                : Si-0 
 # product               : Be-7 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : G.V.S.Rayudu 
+# first author          : Rayudu 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,JIN,30,2311,1968) 
 # year                  : 1968 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0077.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0077
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.00000E+02      0.00000E+00      2.40000E-03      4.80000E-04
-      8.00000E+02      0.00000E+00      2.60000E-03      5.20000E-04
-      1.50000E+03      0.00000E+00      2.80000E-03      5.60000E-04
-      2.20000E+03      0.00000E+00      3.00000E-03      6.00000E-04
-      2.90000E+03      0.00000E+00      4.10000E-03      8.20000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+02        0.0000E+00        2.4000E-03        4.8000E-04
+        8.0000E+02        0.0000E+00        2.6000E-03        5.2000E-04
+        1.5000E+03        0.0000E+00        2.8000E-03        5.6000E-04
+        2.2000E+03        0.0000E+00        3.0000E-03        6.0000E-04
+        2.9000E+03        0.0000E+00        4.1000E-03        8.2000E-04

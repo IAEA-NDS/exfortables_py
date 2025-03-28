@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30090-002-0 
-# EXFOR reaction        : ['30-ZN-70', ['N,2N'], '30-ZN-69,,SIG'] 
+# EXFOR reaction        : (30-ZN-70(N,2N)30-ZN-69,,SIG) 
 # incident energy       : 1.2420e+01 MeV 
 # target                : Zn-70 
 # product               : Zn-69 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.Csikai 
+# first author          : Csikai 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,AK,8,79,196606) 
 # year                  : 1966 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30090.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30090
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.24200E+01      0.00000E+00      1.08000E+00      1.62000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2420E+01        0.0000E+00        1.0800E+00        1.6200E-01

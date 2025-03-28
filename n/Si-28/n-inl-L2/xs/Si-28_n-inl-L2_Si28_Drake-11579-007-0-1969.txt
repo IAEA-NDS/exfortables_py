@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11579-007-0 
-# EXFOR reaction        : ['14-SI-28', ['N,INL'], '14-SI-28,PAR,SIG'] 
+# EXFOR reaction        : (14-SI-28(N,INL)14-SI-28,PAR,SIG) 
 # incident energy       : 6.0000e+00 MeV - 7.5000e+00 MeV 
 # target                : Si-28 
 # product               : Si-28 
 # level energy          : 4.6100e+00 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : D.M.Drake 
+# first author          : Drake 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,NP/A,128,209,6904) 
 # year                  : 1969 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11579.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11579
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+00      1.20000E-01      6.87000E-02      3.40000E-03
-      6.67000E+00      1.90000E-01      7.76000E-02      5.90000E-03
-      7.50000E+00      1.60000E-01      9.05000E-02      1.04000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+00        1.2000E-01        6.8700E-02        3.4000E-03
+        6.6700E+00        1.9000E-01        7.7600E-02        5.9000E-03
+        7.5000E+00        1.6000E-01        9.0500E-02        1.0400E-02

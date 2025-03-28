@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10795-005-0 
-# EXFOR reaction        : ['92-U-238', ['N,3N'], '92-U-236,,SIG'] 
+# EXFOR reaction        : (92-U-238(N,3N)92-U-236,,SIG) 
 # incident energy       : 1.4700e+01 MeV - 2.2000e+01 MeV 
 # target                : U-238 
 # product               : U-236 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : L.R.Veeser 
+# first author          : Veeser 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (C,78HARWELL,,1054,197809) 
 # year                  : 1978 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10795.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10795
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      1.50000E-01      4.68000E-01      4.00000E-02
-      1.60000E+01      2.00000E-01      5.97000E-01      6.20000E-02
-      1.70000E+01      2.00000E-01      8.24000E-01      6.20000E-02
-      1.80000E+01      1.50000E-01      8.35000E-01      6.20000E-02
-      1.90000E+01      1.50000E-01      8.06000E-01      6.10000E-02
-      2.00000E+01      1.20000E-01      6.25000E-01      3.90000E-02
-      2.10000E+01      1.20000E-01      6.07000E-01      6.20000E-02
-      2.20000E+01      1.20000E-01      3.63000E-01      8.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        1.5000E-01        4.6800E-01        4.0000E-02
+        1.6000E+01        2.0000E-01        5.9700E-01        6.2000E-02
+        1.7000E+01        2.0000E-01        8.2400E-01        6.2000E-02
+        1.8000E+01        1.5000E-01        8.3500E-01        6.2000E-02
+        1.9000E+01        1.5000E-01        8.0600E-01        6.1000E-02
+        2.0000E+01        1.2000E-01        6.2500E-01        3.9000E-02
+        2.1000E+01        1.2000E-01        6.0700E-01        6.2000E-02
+        2.2000E+01        1.2000E-01        3.6300E-01        8.0000E-02

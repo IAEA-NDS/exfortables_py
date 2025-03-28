@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13019-004-0 
-# EXFOR reaction        : ['94-PU-241', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (94-PU-241(N,TOT),,SIG) 
 # incident energy       : 1.5710e-08 MeV - 6.0670e-08 MeV 
 # target                : Pu-241 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : J.R.Smith 
+# first author          : Smith 
 # institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
 # reference             : (P,IN-1317,11,197001) 
 # year                  : 1970 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/130/13019.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13019
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.57100E-08      0.00000E+00      1.79100E+03      0.00000E+00
-      1.73500E-08      0.00000E+00      1.69900E+03      0.00000E+00
-      1.90500E-08      0.00000E+00      1.61900E+03      0.00000E+00
-      2.08600E-08      0.00000E+00      1.54300E+03      0.00000E+00
-      2.31700E-08      0.00000E+00      1.45000E+03      0.00000E+00
-      2.52800E-08      0.00000E+00      1.39300E+03      0.00000E+00
-      5.94200E-08      0.00000E+00      9.21000E+02      0.00000E+00
-      6.06700E-08      0.00000E+00      9.14900E+02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5710E-08        0.0000E+00        1.7910E+03        0.0000E+00
+        1.7350E-08        0.0000E+00        1.6990E+03        0.0000E+00
+        1.9050E-08        0.0000E+00        1.6190E+03        0.0000E+00
+        2.0860E-08        0.0000E+00        1.5430E+03        0.0000E+00
+        2.3170E-08        0.0000E+00        1.4500E+03        0.0000E+00
+        2.5280E-08        0.0000E+00        1.3930E+03        0.0000E+00
+        5.9420E-08        0.0000E+00        9.2100E+02        0.0000E+00
+        6.0670E-08        0.0000E+00        9.1490E+02        0.0000E+00

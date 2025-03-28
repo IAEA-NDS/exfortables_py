@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0691-031-0 
-# EXFOR reaction        : ['57-LA-139', ['P,X'], '51-SB-122,IND,SIG'] 
+# EXFOR reaction        : (57-LA-139(P,X)51-SB-122,IND,SIG) 
 # incident energy       : 1.8200e+04 MeV 
 # target                : La-139 
 # product               : Sb-122 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : E.Hagebo 
+# first author          : Hagebo 
 # institute             : (2ZZZCER): European Org. for Nuclear Research (CERN), Geneva 
 # reference             : (J,JIN,31,897,1969) 
 # year                  : 1969 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0691.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0691
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.82000E+04      0.00000E+00      1.76000E-04      1.80000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8200E+04        0.0000E+00        1.7600E-04        1.8000E-05

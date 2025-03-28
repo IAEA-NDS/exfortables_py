@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D5112-006-0 
-# EXFOR reaction        : ['26-FE-58', ['P,G'], '27-CO-59,PAR,SIG'] 
+# EXFOR reaction        : (26-FE-58(P,G)27-CO-59,PAR,SIG) 
 # incident energy       : 1.9100e+00 MeV - 2.8600e+00 MeV 
 # target                : Fe-58 
 # product               : Co-59 
 # level energy          : 1.0990e+00 MeV 
 # MF-MT number          : 3 - 1 
-# first author          : S.A.Pysmehetskyi 
+# first author          : Pysmehetskyi 
 # institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
 # reference             : (C,80LENGRD,,302,1980) 
 # year                  : 1980 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D51/D5112.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D5112
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.91000E+00      0.00000E+00      8.50000E-06      0.00000E+00
-      2.04000E+00      0.00000E+00      2.02000E-05      0.00000E+00
-      2.18000E+00      0.00000E+00      1.62000E-05      0.00000E+00
-      2.31000E+00      0.00000E+00      1.89000E-05      0.00000E+00
-      2.42000E+00      0.00000E+00      2.80000E-05      0.00000E+00
-      2.54000E+00      0.00000E+00      3.38000E-05      0.00000E+00
-      2.64000E+00      0.00000E+00      2.85000E-05      0.00000E+00
-      2.75000E+00      0.00000E+00      2.53000E-05      0.00000E+00
-      2.86000E+00      0.00000E+00      2.58000E-05      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9100E+00        0.0000E+00        8.5000E-06        0.0000E+00
+        2.0400E+00        0.0000E+00        2.0200E-05        0.0000E+00
+        2.1800E+00        0.0000E+00        1.6200E-05        0.0000E+00
+        2.3100E+00        0.0000E+00        1.8900E-05        0.0000E+00
+        2.4200E+00        0.0000E+00        2.8000E-05        0.0000E+00
+        2.5400E+00        0.0000E+00        3.3800E-05        0.0000E+00
+        2.6400E+00        0.0000E+00        2.8500E-05        0.0000E+00
+        2.7500E+00        0.0000E+00        2.5300E-05        0.0000E+00
+        2.8600E+00        0.0000E+00        2.5800E-05        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12023-006-0 
-# EXFOR reaction        : ['62-SM-152', ['N,G'], '62-SM-153,,SIG,,MXW'] 
+# EXFOR reaction        : (62-SM-152(N,G)62-SM-153,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Sm-152 
 # product               : Sm-153 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : E.Fehr 
+# first author          : Fehr 
 # institute             : (1USAKAP): Knolls Atomic Power Laboratory, Schenectady, NY 
 # reference             : (R,KAPL-2000-12,(I),33,1960) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12023.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12023
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.15000E+02      1.00000E+01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.1500E+02        1.0000E+01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0041-017-2 
-# EXFOR reaction        : ['8-O-16', ['P,X'], '5-B-10,,SIG'] 
+# EXFOR reaction        : (8-O-16(P,X)5-B-10,,SIG) 
 # incident energy       : 9.0000e+01 MeV 
 # target                : O-16 
 # product               : B-10 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.A.Moyle 
+# first author          : Moyle 
 # institute             : (1USAMRY): University of Maryland, College Park, MD 
 # reference             : (J,PR/C,19,631,1979) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0041.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0041
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.00000E+01      0.00000E+00      9.50000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.0000E+01        0.0000E+00        9.5000E-03        0.0000E+00

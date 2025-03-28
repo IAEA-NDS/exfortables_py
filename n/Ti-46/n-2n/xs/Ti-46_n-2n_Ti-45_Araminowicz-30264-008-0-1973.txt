@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30264-008-0 
-# EXFOR reaction        : ['22-TI-46', ['N,2N'], '22-TI-45,,SIG'] 
+# EXFOR reaction        : (22-TI-46(N,2N)22-TI-45,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Ti-46 
 # product               : Ti-45 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.Araminowicz 
+# first author          : Araminowicz 
 # institute             : (3POLLOU): University of Lodz, Lodz 
 # reference             : (P,INR-1464,14,1973) 
 # year                  : 1973 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/302/30264.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30264
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      0.00000E+00      4.28000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        4.2800E-02        0.0000E+00

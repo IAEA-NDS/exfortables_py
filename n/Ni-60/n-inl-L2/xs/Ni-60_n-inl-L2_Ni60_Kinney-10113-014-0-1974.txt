@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10113-014-0 
-# EXFOR reaction        : ['28-NI-60', ['N,INL'], '28-NI-60,PAR,SIG'] 
+# EXFOR reaction        : (28-NI-60(N,INL)28-NI-60,PAR,SIG) 
 # incident energy       : 4.0700e+00 MeV - 5.5000e+00 MeV 
 # target                : Ni-60 
 # product               : Ni-60 
 # level energy          : 2.1580e+00 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : W.E.Kinney 
+# first author          : Kinney 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (R,ORNL-4807,197401) 
 # year                  : 1974 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10113.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10113
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.07000E+00      8.00000E-02      2.33630E-01      2.96710E-02
-      4.34000E+00      7.00000E-02      1.81740E-01      1.78105E-02
-      4.65000E+00      7.00000E-02      1.23360E-01      1.64069E-02
-      4.92000E+00      6.00000E-02      1.40330E-01      1.36120E-02
-      5.23000E+00      5.00000E-02      1.07090E-01      1.24224E-02
-      5.50000E+00      5.00000E-02      9.20900E-02      1.28926E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0700E+00        8.0000E-02        2.3363E-01        2.9671E-02
+        4.3400E+00        7.0000E-02        1.8174E-01        1.7811E-02
+        4.6500E+00        7.0000E-02        1.2336E-01        1.6407E-02
+        4.9200E+00        6.0000E-02        1.4033E-01        1.3612E-02
+        5.2300E+00        5.0000E-02        1.0709E-01        1.2422E-02
+        5.5000E+00        5.0000E-02        9.2090E-02        1.2893E-02

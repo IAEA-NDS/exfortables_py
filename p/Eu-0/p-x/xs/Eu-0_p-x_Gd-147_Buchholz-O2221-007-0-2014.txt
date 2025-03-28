@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2221-007-0 
-# EXFOR reaction        : ['63-EU-0', ['P,X'], '64-GD-147,,SIG'] 
+# EXFOR reaction        : (63-EU-0(P,X)64-GD-147,,SIG) 
 # incident energy       : 3.5100e+01 MeV - 4.4800e+01 MeV 
 # target                : Eu-0 
 # product               : Gd-147 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Buchholz 
+# first author          : Buchholz 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,ARI,91,8,2014) 
 # year                  : 2014 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O22/O2221.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2221
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.48000E+01      4.00000E-01      1.79200E-01      2.56000E-02
-      4.40000E+01      4.00000E-01      1.71300E-01      1.35000E-02
-      4.30000E+01      4.00000E-01      1.43100E-01      1.55000E-02
-      4.19000E+01      4.00000E-01      1.05300E-01      9.50000E-03
-      4.12000E+01      4.00000E-01      8.06000E-02      1.08000E-02
-      4.01000E+01      5.00000E-01      5.23000E-02      4.60000E-03
-      3.76000E+01      5.00000E-01      1.16000E-02      1.00000E-03
-      3.51000E+01      5.00000E-01      3.90000E-04      3.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.4800E+01        4.0000E-01        1.7920E-01        2.5600E-02
+        4.4000E+01        4.0000E-01        1.7130E-01        1.3500E-02
+        4.3000E+01        4.0000E-01        1.4310E-01        1.5500E-02
+        4.1900E+01        4.0000E-01        1.0530E-01        9.5000E-03
+        4.1200E+01        4.0000E-01        8.0600E-02        1.0800E-02
+        4.0100E+01        5.0000E-01        5.2300E-02        4.6000E-03
+        3.7600E+01        5.0000E-01        1.1600E-02        1.0000E-03
+        3.5100E+01        5.0000E-01        3.9000E-04        3.0000E-05

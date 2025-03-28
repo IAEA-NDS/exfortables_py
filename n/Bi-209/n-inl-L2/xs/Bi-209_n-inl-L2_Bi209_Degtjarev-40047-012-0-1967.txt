@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40047-012-0 
-# EXFOR reaction        : ['83-BI-209', ['N,INL'], '83-BI-209,PAR,SIG'] 
+# EXFOR reaction        : (83-BI-209(N,INL)83-BI-209,PAR,SIG) 
 # incident energy       : 1.7800e+00 MeV - 3.7600e+00 MeV 
 # target                : Bi-209 
 # product               : Bi-209 
 # level energy          : 1.6200e+00 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : Ju.G.Degtjarev 
+# first author          : Degtjarev 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (J,AE,23,(6),568,196711) 
 # year                  : 1967 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40047.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40047
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.78000E+00      0.00000E+00      1.84000E-01      5.30000E-02
-      2.18000E+00      0.00000E+00      1.71000E-01      6.60000E-02
-      2.58000E+00      0.00000E+00      3.04000E-01      6.70000E-02
-      2.96000E+00      0.00000E+00      3.29000E-01      6.40000E-02
-      3.36000E+00      0.00000E+00      2.37000E-01      4.70000E-02
-      3.76000E+00      0.00000E+00      3.49000E-01      6.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7800E+00        0.0000E+00        1.8400E-01        5.3000E-02
+        2.1800E+00        0.0000E+00        1.7100E-01        6.6000E-02
+        2.5800E+00        0.0000E+00        3.0400E-01        6.7000E-02
+        2.9600E+00        0.0000E+00        3.2900E-01        6.4000E-02
+        3.3600E+00        0.0000E+00        2.3700E-01        4.7000E-02
+        3.7600E+00        0.0000E+00        3.4900E-01        6.1000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0570-026-0 
-# EXFOR reaction        : ['92-U-238', ['D,F'], '57-LA-140,,SIG'] 
+# EXFOR reaction        : (92-U-238(D,F)57-LA-140,,SIG) 
 # incident energy       : 1.0600e+01 MeV 
 # target                : U-238 
 # product               : La-140 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : G.R.Choppin 
+# first author          : Choppin 
 # institute             : (1USAFSU): Florida State University, Tallahassee, FL 
 # reference             : (J,JIN,33,897,1971) 
 # year                  : 1971 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0570.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0570
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.06000E+01      0.00000E+00      9.76000E-04      1.30000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0600E+01        0.0000E+00        9.7600E-04        1.3000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41614-130-0 
-# EXFOR reaction        : ['50-SN-118', ['N,2N'], '50-SN-117-M,,SIG'] 
+# EXFOR reaction        : (50-SN-118(N,2N)50-SN-117-M,,SIG) 
 # incident energy       : 1.3450e+01 MeV - 1.4880e+01 MeV 
 # target                : Sn-118 
 # product               : Sn-117-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,INDC(CCP)-0460,2016) 
 # year                  : 2016 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34500E+01      0.00000E+00      8.13000E-01      3.83736E-02
-      1.40500E+01      0.00000E+00      8.38000E-01      4.84364E-02
-      1.42800E+01      0.00000E+00      8.80000E-01      4.09200E-02
-      1.46900E+01      0.00000E+00      8.97000E-01      3.65079E-02
-      1.48100E+01      0.00000E+00      9.08000E-01      5.93832E-02
-      1.48800E+01      0.00000E+00      8.93000E-01      2.94690E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3450E+01        0.0000E+00        8.1300E-01        3.8374E-02
+        1.4050E+01        0.0000E+00        8.3800E-01        4.8436E-02
+        1.4280E+01        0.0000E+00        8.8000E-01        4.0920E-02
+        1.4690E+01        0.0000E+00        8.9700E-01        3.6508E-02
+        1.4810E+01        0.0000E+00        9.0800E-01        5.9383E-02
+        1.4880E+01        0.0000E+00        8.9300E-01        2.9469E-02

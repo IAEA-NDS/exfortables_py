@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40485-003-0 
-# EXFOR reaction        : ['30-ZN-64', ['N,P'], '29-CU-64,,SIG'] 
+# EXFOR reaction        : (30-ZN-64(N,P)29-CU-64,,SIG) 
 # incident energy       : 7.6000e+00 MeV - 9.3000e+00 MeV 
 # target                : Zn-64 
 # product               : Cu-64 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : Yu.A.Nemilov 
+# first author          : Nemilov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (P,YFI-26,25,1978) 
 # year                  : 1978 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/404/40485.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40485
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.60000E+00      3.00000E-01      2.49000E-01      3.00000E-02
-      8.30000E+00      3.00000E-01      2.50000E-01      3.00000E-02
-      8.80000E+00      3.00000E-01      2.52000E-01      3.00000E-02
-      9.30000E+00      3.00000E-01      2.60000E-01      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.6000E+00        3.0000E-01        2.4900E-01        3.0000E-02
+        8.3000E+00        3.0000E-01        2.5000E-01        3.0000E-02
+        8.8000E+00        3.0000E-01        2.5200E-01        3.0000E-02
+        9.3000E+00        3.0000E-01        2.6000E-01        3.0000E-02

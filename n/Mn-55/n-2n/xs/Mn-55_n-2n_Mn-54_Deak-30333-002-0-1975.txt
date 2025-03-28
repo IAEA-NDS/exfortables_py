@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30333-002-0 
-# EXFOR reaction        : ['25-MN-55', ['N,2N'], '25-MN-54,,SIG'] 
+# EXFOR reaction        : (25-MN-55(N,2N)25-MN-54,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Mn-55 
 # product               : Mn-54 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : F.Deak 
+# first author          : Deak 
 # institute             : (3HUNELU): Eotvos Lorand University , Budapest 
 # reference             : (J,AHP,38,(3),209,1975) 
 # year                  : 1975 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30333.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30333
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      0.00000E+00      6.80000E-01      3.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        0.0000E+00        6.8000E-01        3.0000E-01

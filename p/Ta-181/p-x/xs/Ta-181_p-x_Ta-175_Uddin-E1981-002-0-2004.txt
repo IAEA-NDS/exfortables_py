@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1981-002-0 
-# EXFOR reaction        : ['73-TA-181', ['P,X'], '73-TA-175,CUM,SIG'] 
+# EXFOR reaction        : (73-TA-181(P,X)73-TA-175,CUM,SIG) 
 # incident energy       : 5.6710e+01 MeV - 6.8990e+01 MeV 
 # target                : Ta-181 
 # product               : Ta-175 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.S.Uddin 
+# first author          : Uddin 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (J,NSTS,4,160,200403) 
 # year                  : 2004 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1981.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1981
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.89900E+01      0.00000E+00      3.94560E-01      8.62800E-02
-      6.55600E+01      0.00000E+00      2.32670E-01      7.15700E-02
-      6.27100E+01      0.00000E+00      1.43170E-01      2.03600E-02
-      5.97600E+01      0.00000E+00      6.76700E-02      1.08900E-02
-      5.67100E+01      0.00000E+00      1.27000E-02      3.60000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.8990E+01        0.0000E+00        3.9456E-01        8.6280E-02
+        6.5560E+01        0.0000E+00        2.3267E-01        7.1570E-02
+        6.2710E+01        0.0000E+00        1.4317E-01        2.0360E-02
+        5.9760E+01        0.0000E+00        6.7670E-02        1.0890E-02
+        5.6710E+01        0.0000E+00        1.2700E-02        3.6000E-03

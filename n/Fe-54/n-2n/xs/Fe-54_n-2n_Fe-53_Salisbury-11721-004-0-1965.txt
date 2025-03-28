@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11721-004-0 
-# EXFOR reaction        : ['26-FE-54', ['N,2N'], '26-FE-53,,SIG'] 
+# EXFOR reaction        : (26-FE-54(N,2N)26-FE-53,,SIG) 
 # incident energy       : 1.4050e+01 MeV - 1.6750e+01 MeV 
 # target                : Fe-54 
 # product               : Fe-53 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.R.Salisbury 
+# first author          : Salisbury 
 # institute             : (1USALOK): Lockheed Aircraft Corp., Sunnyvale, CA 
 # reference             : (J,PR,140,B305,1965) 
 # year                  : 1965 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/117/11721.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11721
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40500E+01      1.05000E+00      2.83000E-03      5.00000E-05
-      1.67500E+01      5.50000E-01      5.04000E-02      5.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4050E+01        1.0500E+00        2.8300E-03        5.0000E-05
+        1.6750E+01        5.5000E-01        5.0400E-02        5.0000E-03

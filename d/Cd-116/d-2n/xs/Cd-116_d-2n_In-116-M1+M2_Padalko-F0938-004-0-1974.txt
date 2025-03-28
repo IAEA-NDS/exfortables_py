@@ -1,11 +1,11 @@
 # entry-subent-pointer  : F0938-004-0 
-# EXFOR reaction        : ['48-CD-116', ['D,2N'], '49-IN-116-M1+M2,,SIG'] 
+# EXFOR reaction        : (48-CD-116(D,2N)49-IN-116-M1+M2,,SIG) 
 # incident energy       : 8.0610e+00 MeV - 1.1083e+01 MeV 
 # target                : Cd-116 
 # product               : In-116-M1+M2 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : V.Yu.Padalko 
+# first author          : Padalko 
 # institute             : (4RUSSUL): Gosudarstvennyi University (State University ), St.Petersburg 
 # reference             : (J,IZV,38,2578,1974) 
 # year                  : 1974 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F09/F0938.x4 
 # nds                   : https://nds.iaea.org/EXFOR/F0938
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.06100E+00      5.00000E-03      1.42400E-01      2.13600E-02
-      9.06100E+00      5.00000E-03      2.16400E-01      3.24600E-02
-      9.57300E+00      5.00000E-03      2.08000E-01      3.12000E-02
-      1.00730E+01      5.00000E-03      2.51300E-01      3.76950E-02
-      1.05830E+01      5.00000E-03      3.09300E-01      4.63950E-02
-      1.10830E+01      5.00000E-03      3.95400E-01      5.93100E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0610E+00        5.0000E-03        1.4240E-01        2.1360E-02
+        9.0610E+00        5.0000E-03        2.1640E-01        3.2460E-02
+        9.5730E+00        5.0000E-03        2.0800E-01        3.1200E-02
+        1.0073E+01        5.0000E-03        2.5130E-01        3.7695E-02
+        1.0583E+01        5.0000E-03        3.0930E-01        4.6395E-02
+        1.1083E+01        5.0000E-03        3.9540E-01        5.9310E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21266-002-0 
-# EXFOR reaction        : ['7-N-14', ['N,2N'], '7-N-13,,SIG'] 
+# EXFOR reaction        : (7-N-14(N,2N)7-N-13,,SIG) 
 # incident energy       : 1.4130e+01 MeV 
 # target                : N-14 
 # product               : N-13 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : M.Cevolani 
+# first author          : Cevolani 
 # institute             : (2ITYBOL): ENEA Centro Ricerche Energia di Bologna 
 # reference             : (J,NC,26,1328,6212) 
 # year                  : 1962 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21266.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21266
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41300E+01      1.00000E-01      5.40000E-03      4.60000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4130E+01        1.0000E-01        5.4000E-03        4.6000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14556-004-0 
-# EXFOR reaction        : ['17-CL-35', ['N,A'], '15-P-32,,SIG'] 
+# EXFOR reaction        : (17-CL-35(N,A)15-P-32,,SIG) 
 # incident energy       : 2.7400e+00 MeV 
 # target                : Cl-35 
 # product               : P-32 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : J.C.Batchelder 
+# first author          : Batchelder 
 # institute             : (1USAUSA): United States of America 
 # reference             : (J,PR/C,99,044612,2019) 
 # year                  : 2019 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/145/14556.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14556
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.74000E+00      7.00000E-02      4.33000E-03      2.90000E-04
-      2.74000E+00      7.00000E-02      4.05000E-03      2.90000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7400E+00        7.0000E-02        4.3300E-03        2.9000E-04
+        2.7400E+00        7.0000E-02        4.0500E-03        2.9000E-04

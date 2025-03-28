@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22472-002-0 
-# EXFOR reaction        : ['8-O-17', ['N,P'], '7-N-17,,SIG'] 
+# EXFOR reaction        : (8-O-17(N,P)7-N-17,,SIG) 
 # incident energy       : 1.3700e+01 MeV - 1.4700e+01 MeV 
 # target                : O-17 
 # product               : N-17 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : Y.Kasugai 
+# first author          : Kasugai 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (J,NSE,136,258,2000) 
 # year                  : 2000 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22472.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22472
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.37000E+01      0.00000E+00      7.00000E-03      0.00000E+00
-      1.44000E+01      0.00000E+00      1.10000E-02      4.00000E-03
-      1.47000E+01      0.00000E+00      2.30000E-02      5.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3700E+01        0.0000E+00        7.0000E-03        0.0000E+00
+        1.4400E+01        0.0000E+00        1.1000E-02        4.0000E-03
+        1.4700E+01        0.0000E+00        2.3000E-02        5.0000E-03

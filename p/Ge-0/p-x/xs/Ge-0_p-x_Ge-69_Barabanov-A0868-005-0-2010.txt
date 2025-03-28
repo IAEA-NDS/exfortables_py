@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0868-005-0 
-# EXFOR reaction        : ['32-GE-0', ['P,X'], '32-GE-69,,SIG'] 
+# EXFOR reaction        : (32-GE-0(P,X)32-GE-69,,SIG) 
 # incident energy       : 1.0100e+02 MeV 
 # target                : Ge-0 
 # product               : Ge-69 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : I.R.Barabanov 
+# first author          : Barabanov 
 # institute             : (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
 # reference             : (J,YF,73,1144,2010) 
 # year                  : 2010 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A08/A0868.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0868
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.01000E+02      2.80000E+00      7.25700E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0100E+02        2.8000E+00        7.2570E-02        0.0000E+00

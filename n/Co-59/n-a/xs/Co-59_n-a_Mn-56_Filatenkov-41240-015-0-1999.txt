@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41240-015-0 
-# EXFOR reaction        : ['27-CO-59', ['N,A'], '25-MN-56,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,A)25-MN-56,,SIG) 
 # incident energy       : 1.3560e+01 MeV - 1.4780e+01 MeV 
 # target                : Co-59 
 # product               : Mn-56 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,RI-252,1999) 
 # year                  : 1999 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41240.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41240
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35600E+01      0.00000E+00      3.12700E-02      9.70000E-04
-      1.37400E+01      0.00000E+00      3.10400E-02      7.80000E-04
-      1.39600E+01      0.00000E+00      3.17000E-02      9.80000E-04
-      1.41900E+01      0.00000E+00      3.14700E-02      8.20000E-04
-      1.44200E+01      0.00000E+00      3.18900E-02      7.80000E-04
-      1.46100E+01      0.00000E+00      3.14800E-02      7.90000E-04
-      1.47800E+01      0.00000E+00      3.20900E-02      8.30000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3560E+01        0.0000E+00        3.1270E-02        9.7000E-04
+        1.3740E+01        0.0000E+00        3.1040E-02        7.8000E-04
+        1.3960E+01        0.0000E+00        3.1700E-02        9.8000E-04
+        1.4190E+01        0.0000E+00        3.1470E-02        8.2000E-04
+        1.4420E+01        0.0000E+00        3.1890E-02        7.8000E-04
+        1.4610E+01        0.0000E+00        3.1480E-02        7.9000E-04
+        1.4780E+01        0.0000E+00        3.2090E-02        8.3000E-04

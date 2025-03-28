@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20772-006-0 
-# EXFOR reaction        : ['29-CU-65', ['N,2N'], '29-CU-64,,SIG'] 
+# EXFOR reaction        : (29-CU-65(N,2N)29-CU-64,,SIG) 
 # incident energy       : 1.4670e+01 MeV - 1.8950e+01 MeV 
 # target                : Cu-65 
 # product               : Cu-64 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : T.B.Ryves 
+# first author          : Ryves 
 # institute             : (2UK NPL): National Physics Laboratory , Teddington 
 # reference             : (J,MET,14,(3),127,7806) 
 # year                  : 1978 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20772.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20772
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46700E+01      0.00000E+00      9.55000E-01      0.00000E+00
-      1.53000E+01      0.00000E+00      9.93000E-01      0.00000E+00
-      1.65500E+01      0.00000E+00      1.06900E+00      0.00000E+00
-      1.70000E+01      0.00000E+00      1.06200E+00      0.00000E+00
-      1.78600E+01      0.00000E+00      1.08300E+00      0.00000E+00
-      1.89500E+01      0.00000E+00      1.02300E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4670E+01        0.0000E+00        9.5500E-01        0.0000E+00
+        1.5300E+01        0.0000E+00        9.9300E-01        0.0000E+00
+        1.6550E+01        0.0000E+00        1.0690E+00        0.0000E+00
+        1.7000E+01        0.0000E+00        1.0620E+00        0.0000E+00
+        1.7860E+01        0.0000E+00        1.0830E+00        0.0000E+00
+        1.8950E+01        0.0000E+00        1.0230E+00        0.0000E+00

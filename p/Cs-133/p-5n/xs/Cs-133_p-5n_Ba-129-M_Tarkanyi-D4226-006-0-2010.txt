@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4226-006-0 
-# EXFOR reaction        : ['55-CS-133', ['P,5N'], '56-BA-129-M,,SIG'] 
+# EXFOR reaction        : (55-CS-133(P,5N)56-BA-129-M,,SIG) 
 # incident energy       : 4.2900e+01 MeV - 6.8000e+01 MeV 
 # target                : Cs-133 
 # product               : Ba-129-M 
 # level energy          : - 
 # MF-MT number          : 3 - 152 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,ARI,68,47,2010) 
 # year                  : 2010 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4226.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4226
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.80000E+01      3.00000E-01      1.59000E-01      2.00000E-02
-      6.53000E+01      5.00000E-01      1.83000E-01      2.20000E-02
-      6.26000E+01      6.00000E-01      1.81000E-01      2.40000E-02
-      5.98000E+01      8.00000E-01      2.19000E-01      2.50000E-02
-      5.66000E+01      1.00000E+00      2.12000E-01      2.50000E-02
-      5.35000E+01      1.20000E+00      2.18000E-01      2.50000E-02
-      5.01000E+01      1.40000E+00      1.54000E-01      1.90000E-02
-      4.66000E+01      1.60000E+00      7.64000E-02      9.10000E-03
-      4.29000E+01      1.80000E+00      1.09000E-02      2.30000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.8000E+01        3.0000E-01        1.5900E-01        2.0000E-02
+        6.5300E+01        5.0000E-01        1.8300E-01        2.2000E-02
+        6.2600E+01        6.0000E-01        1.8100E-01        2.4000E-02
+        5.9800E+01        8.0000E-01        2.1900E-01        2.5000E-02
+        5.6600E+01        1.0000E+00        2.1200E-01        2.5000E-02
+        5.3500E+01        1.2000E+00        2.1800E-01        2.5000E-02
+        5.0100E+01        1.4000E+00        1.5400E-01        1.9000E-02
+        4.6600E+01        1.6000E+00        7.6400E-02        9.1000E-03
+        4.2900E+01        1.8000E+00        1.0900E-02        2.3000E-03

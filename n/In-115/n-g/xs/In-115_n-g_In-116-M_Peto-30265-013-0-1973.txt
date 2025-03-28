@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30265-013-0 
-# EXFOR reaction        : ['49-IN-115', ['N,G'], '49-IN-116-M,,SIG,,SPA'] 
+# EXFOR reaction        : (49-IN-115(N,G)49-IN-116-M,,SIG,,SPA) 
 # incident energy       : 4.5000e+00 MeV 
 # target                : In-115 
 # product               : In-116-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : G.Peto 
+# first author          : Peto 
 # institute             : (3HUNKOS): University of Debrecen, Debrecen 
 # reference             : (J,AHP,33,363,1973) 
 # year                  : 1973 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/302/30265.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30265
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.50000E+00      0.00000E+00      1.36000E-01      2.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5000E+00        0.0000E+00        1.3600E-01        2.7000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31316-014-0 
-# EXFOR reaction        : ['27-CO-59', ['N,T'], '26-FE-57,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,T)26-FE-57,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Co-59 
 # product               : Fe-57 
 # level energy          : - 
 # MF-MT number          : 3 - 105 
-# first author          : C.S.Khurana 
+# first author          : Khurana 
 # institute             : (3INDPAT): Punjabi University , Patiala 
 # reference             : (J,NP,69,153,1965) 
 # year                  : 1965 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/313/31316.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31316
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      2.10000E-03      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        2.1000E-03        2.0000E-04

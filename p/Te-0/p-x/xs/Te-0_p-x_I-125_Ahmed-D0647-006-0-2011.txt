@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0647-006-0 
-# EXFOR reaction        : ['52-TE-0', ['P,X'], '53-I-125,,SIG'] 
+# EXFOR reaction        : (52-TE-0(P,X)53-I-125,,SIG) 
 # incident energy       : 1.0300e+01 MeV - 1.4400e+01 MeV 
 # target                : Te-0 
 # product               : I-125 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.M.Ahmed 
+# first author          : Ahmed 
 # institute             : (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
 # reference             : (J,RCA,99,317,2011) 
 # year                  : 2011 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D06/D0647.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0647
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.03000E+01      5.00000E-01      4.07700E-02      6.00000E-03
-      1.08000E+01      5.00000E-01      4.78000E-02      7.00000E-03
-      1.12000E+01      5.00000E-01      5.52500E-02      8.00000E-03
-      1.37000E+01      4.00000E-01      1.36410E-01      2.00000E-02
-      1.41000E+01      4.00000E-01      1.41020E-01      2.10000E-02
-      1.44000E+01      4.00000E-01      1.59120E-01      2.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0300E+01        5.0000E-01        4.0770E-02        6.0000E-03
+        1.0800E+01        5.0000E-01        4.7800E-02        7.0000E-03
+        1.1200E+01        5.0000E-01        5.5250E-02        8.0000E-03
+        1.3700E+01        4.0000E-01        1.3641E-01        2.0000E-02
+        1.4100E+01        4.0000E-01        1.4102E-01        2.1000E-02
+        1.4400E+01        4.0000E-01        1.5912E-01        2.3000E-02

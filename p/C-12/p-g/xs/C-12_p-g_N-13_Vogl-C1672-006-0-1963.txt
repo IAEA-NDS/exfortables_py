@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1672-006-0 
-# EXFOR reaction        : ['6-C-12', ['P,G'], '7-N-13,,SIG,,SFC'] 
+# EXFOR reaction        : (6-C-12(P,G)7-N-13,,SIG,,SFC) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : C-12 
 # product               : N-13 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.L.Vogl 
+# first author          : Vogl 
 # institute             : (1USACAL): California Institute of Technology, Pasadena, CA 
 # reference             : (T,VOGL,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C16/C1672.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1672
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      0.00000E+00      1.33000E+03      1.30000E+02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        1.3300E+03        1.3000E+02

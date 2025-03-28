@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21302-003-0 
-# EXFOR reaction        : ['60-ND-143', ['N,A'], '58-CE-140,,SIG,,MXW'] 
+# EXFOR reaction        : (60-ND-143(N,A)58-CE-140,,SIG,,MXW) 
 # incident energy       : 2.5000e-08 MeV 
 # target                : Nd-143 
 # product               : Ce-140 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : M.Asghar 
+# first author          : Asghar 
 # institute             : (2FR ILL): Institut Laue-Langevin, Grenoble 
 # reference             : (C,78BNL,549,780918) 
 # year                  : 1978 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21302.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21302
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-08      0.00000E+00      2.23000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-08        0.0000E+00        2.2300E-02        2.0000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0078-009-6 
-# EXFOR reaction        : ['23-V-51', ['P,X'], '20-CA-47,CUM,SIG'] 
+# EXFOR reaction        : (23-V-51(P,X)20-CA-47,CUM,SIG) 
 # incident energy       : 6.0000e+02 MeV 
 # target                : V-51 
 # product               : Ca-47 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERUH): University Hannover (previously Tech.University Hannover) 
 # reference             : (J,ANA,114,287,1989) 
 # year                  : 1989 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0078.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0078
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+02      0.00000E+00      3.60000E-04      4.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+02        0.0000E+00        3.6000E-04        4.0000E-05

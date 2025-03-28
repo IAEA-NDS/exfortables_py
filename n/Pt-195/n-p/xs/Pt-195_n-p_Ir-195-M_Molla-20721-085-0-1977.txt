@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20721-085-0 
-# EXFOR reaction        : ['78-PT-195', ['N,P'], '77-IR-195-M,,SIG'] 
+# EXFOR reaction        : (78-PT-195(N,P)77-IR-195-M,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Pt-195 
 # product               : Ir-195-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : N.I.Molla 
+# first author          : Molla 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,NP/A,283,269,197706) 
 # year                  : 1977 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20721.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20721
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      3.00000E-01      1.30000E-03      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        1.3000E-03        2.0000E-04

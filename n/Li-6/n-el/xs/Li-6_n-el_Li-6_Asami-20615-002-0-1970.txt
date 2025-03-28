@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20615-002-0 
-# EXFOR reaction        : ['3-LI-6', ['N,EL'], '3-LI-6,,SIG,,AV'] 
+# EXFOR reaction        : (3-LI-6(N,EL)3-LI-6,,SIG,,AV) 
 # incident energy       : 2.5400e-02 MeV 
 # target                : Li-6 
 # product               : Li-6 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : A.Asami 
+# first author          : Asami 
 # institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 # reference             : (C,70HELSINKI,1,153,7006) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20615.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20615
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.54000E-02      0.00000E+00      7.52000E-01      4.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5400E-02        0.0000E+00        7.5200E-01        4.3000E-02

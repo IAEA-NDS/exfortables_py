@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10537-004-0 
-# EXFOR reaction        : ['41-NB-93', ['N,G'], '41-NB-94,,SIG,,AV'] 
+# EXFOR reaction        : (41-NB-93(N,G)41-NB-94,,SIG,,AV) 
 # incident energy       : 1.2000e-01 MeV - 1.9000e-01 MeV 
 # target                : Nb-93 
 # product               : Nb-94 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.L.Macklin 
+# first author          : Macklin 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,NSE,59,12,197601) 
 # year                  : 1976 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10537.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10537
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.20000E-01      1.00000E-02      1.02500E-01      0.00000E+00
-      1.30000E-01      1.00000E-02      1.00100E-01      0.00000E+00
-      1.40000E-01      1.00000E-02      9.55000E-02      0.00000E+00
-      1.50000E-01      1.00000E-02      9.16000E-02      0.00000E+00
-      1.60000E-01      1.00000E-02      8.88000E-02      0.00000E+00
-      1.70000E-01      1.00000E-02      8.61000E-02      0.00000E+00
-      1.80000E-01      1.00000E-02      8.40000E-02      0.00000E+00
-      1.90000E-01      1.00000E-02      7.95000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E-01        1.0000E-02        1.0250E-01        0.0000E+00
+        1.3000E-01        1.0000E-02        1.0010E-01        0.0000E+00
+        1.4000E-01        1.0000E-02        9.5500E-02        0.0000E+00
+        1.5000E-01        1.0000E-02        9.1600E-02        0.0000E+00
+        1.6000E-01        1.0000E-02        8.8800E-02        0.0000E+00
+        1.7000E-01        1.0000E-02        8.6100E-02        0.0000E+00
+        1.8000E-01        1.0000E-02        8.4000E-02        0.0000E+00
+        1.9000E-01        1.0000E-02        7.9500E-02        0.0000E+00

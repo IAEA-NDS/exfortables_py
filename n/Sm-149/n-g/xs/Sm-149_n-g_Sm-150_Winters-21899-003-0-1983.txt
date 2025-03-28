@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21899-003-0 
-# EXFOR reaction        : ['62-SM-149', ['N,G'], '62-SM-150,,SIG,,MXW'] 
+# EXFOR reaction        : (62-SM-149(N,G)62-SM-150,,SIG,,MXW) 
 # incident energy       : 1.0000e-02 MeV - 1.0000e-01 MeV 
 # target                : Sm-149 
 # product               : Sm-150 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.R.Winters 
+# first author          : Winters 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : ((P,NEANDC(E)-242U,8,198306)=(P,INDC(GER)-25/L,8,1983)) 
 # year                  : 1983 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21899.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21899
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E-02      0.00000E+00      2.96200E+00      1.42000E-01
-      2.00000E-02      0.00000E+00      1.92900E+00      8.90000E-02
-      3.00000E-02      0.00000E+00      1.51100E+00      7.00000E-02
-      5.00000E-02      0.00000E+00      1.13600E+00      5.20000E-02
-      1.00000E-01      0.00000E+00      7.94000E-01      3.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E-02        0.0000E+00        2.9620E+00        1.4200E-01
+        2.0000E-02        0.0000E+00        1.9290E+00        8.9000E-02
+        3.0000E-02        0.0000E+00        1.5110E+00        7.0000E-02
+        5.0000E-02        0.0000E+00        1.1360E+00        5.2000E-02
+        1.0000E-01        0.0000E+00        7.9400E-01        3.6000E-02

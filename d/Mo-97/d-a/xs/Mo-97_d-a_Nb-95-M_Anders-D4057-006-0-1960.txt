@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4057-006-0 
-# EXFOR reaction        : ['42-MO-97', ['D,A'], '41-NB-95-M,,SIG'] 
+# EXFOR reaction        : (42-MO-97(D,A)41-NB-95-M,,SIG) 
 # incident energy       : 7.7100e+00 MeV 
 # target                : Mo-97 
 # product               : Nb-95-M 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : O.U.Anders 
+# first author          : Anders 
 # institute             : (1USAMHG): University of Michigan, Ann Arbor, MI 
 # reference             : (J,PR,120,2114,1960) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4057.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4057
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.71000E+00      5.00000E-02      9.80000E-04      9.80000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.7100E+00        5.0000E-02        9.8000E-04        9.8000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31107-008-0 
-# EXFOR reaction        : ['28-NI-58', ['N,P'], '27-CO-58,,SIG'] 
+# EXFOR reaction        : (28-NI-58(N,P)27-CO-58,,SIG) 
 # incident energy       : 1.3860e+01 MeV - 1.4880e+01 MeV 
 # target                : Ni-58 
 # product               : Co-58 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : R.N.Glover 
+# first author          : Glover 
 # institute             : (3AULCBR): Australian National University, Canberra 
 # reference             : (J,NP,29,309,1962) 
 # year                  : 1962 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/311/31107.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31107
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.38600E+01      1.00000E-01      4.36000E-01      3.48800E-02
-      1.41100E+01      1.00000E-01      4.35000E-01      3.48000E-02
-      1.42400E+01      1.00000E-01      4.37000E-01      3.49600E-02
-      1.43700E+01      1.50000E-01      4.24000E-01      3.39200E-02
-      1.44900E+01      2.00000E-01      4.01000E-01      3.20800E-02
-      1.45900E+01      2.00000E-01      3.85000E-01      3.08000E-02
-      1.46900E+01      2.50000E-01      3.63000E-01      2.90400E-02
-      1.47700E+01      2.50000E-01      3.55000E-01      2.84000E-02
-      1.48800E+01      3.00000E-01      3.33000E-01      2.66400E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3860E+01        1.0000E-01        4.3600E-01        3.4880E-02
+        1.4110E+01        1.0000E-01        4.3500E-01        3.4800E-02
+        1.4240E+01        1.0000E-01        4.3700E-01        3.4960E-02
+        1.4370E+01        1.5000E-01        4.2400E-01        3.3920E-02
+        1.4490E+01        2.0000E-01        4.0100E-01        3.2080E-02
+        1.4590E+01        2.0000E-01        3.8500E-01        3.0800E-02
+        1.4690E+01        2.5000E-01        3.6300E-01        2.9040E-02
+        1.4770E+01        2.5000E-01        3.5500E-01        2.8400E-02
+        1.4880E+01        3.0000E-01        3.3300E-01        2.6640E-02

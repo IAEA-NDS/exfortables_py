@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22156-015-0 
-# EXFOR reaction        : ['42-MO-98', ['N,X'], '41-NB-97-M,,SIG'] 
+# EXFOR reaction        : (42-MO-98(N,X)41-NB-97-M,,SIG) 
 # incident energy       : 1.4350e+01 MeV - 1.4870e+01 MeV 
 # target                : Mo-98 
 # product               : Nb-97-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : T.Katoh 
+# first author          : Katoh 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : ((R,JAERI-M-89-083,1989)=(R,NEANDC(J)-137,1989)=(R,INDC(JPN)-124,1989)) 
 # year                  : 1989 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22156.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22156
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48700E+01      5.00000E-02      1.20000E-03      3.72000E-04
-      1.46400E+01      5.00000E-02      1.00000E-03      3.60000E-04
-      1.43500E+01      5.00000E-02      5.00000E-04      2.05000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4870E+01        5.0000E-02        1.2000E-03        3.7200E-04
+        1.4640E+01        5.0000E-02        1.0000E-03        3.6000E-04
+        1.4350E+01        5.0000E-02        5.0000E-04        2.0500E-04

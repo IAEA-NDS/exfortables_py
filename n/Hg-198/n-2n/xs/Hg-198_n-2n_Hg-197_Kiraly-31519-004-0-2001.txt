@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31519-004-0 
-# EXFOR reaction        : ['80-HG-198', ['N,2N'], '80-HG-197,,SIG'] 
+# EXFOR reaction        : (80-HG-198(N,2N)80-HG-197,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Hg-198 
 # product               : Hg-197 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : B.Kiraly 
+# first author          : Kiraly 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (S,JAERI-C-2001-006,283,200103) 
 # year                  : 2001 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31519.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31519
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      3.00000E-01      1.95000E+00      7.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        1.9500E+00        7.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33147-002-0 
-# EXFOR reaction        : ['42-MO-96', ['N,P'], '41-NB-96,,SIG'] 
+# EXFOR reaction        : (42-MO-96(N,P)41-NB-96,,SIG) 
 # incident energy       : 1.4540e+01 MeV 
 # target                : Mo-96 
 # product               : Nb-96 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : S.P.Ram 
+# first author          : Ram 
 # institute             : (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
 # reference             : (J,JRN,325,831,2020) 
 # year                  : 2020 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33147.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33147
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45400E+01      2.00000E-03      2.81000E-02      2.00000E-03
-      1.45400E+01      2.00000E-03      2.21000E-02      2.20000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4540E+01        2.0000E-03        2.8100E-02        2.0000E-03
+        1.4540E+01        2.0000E-03        2.2100E-02        2.2000E-03

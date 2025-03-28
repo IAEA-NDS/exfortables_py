@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40083-005-3 
-# EXFOR reaction        : ['75-RE-185', ['N,2N'], '75-RE-184,,SIG'] 
+# EXFOR reaction        : (75-RE-185(N,2N)75-RE-184,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Re-185 
 # product               : Re-184 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Druzhinin 
+# first author          : Druzhinin 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (J,SNP,5,13,1967) 
 # year                  : 1967 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40083.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40083
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      1.52000E+00      2.30000E-01
-      1.48000E+01      0.00000E+00      1.30000E+00      2.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        1.5200E+00        2.3000E-01
+        1.4800E+01        0.0000E+00        1.3000E+00        2.0000E-01

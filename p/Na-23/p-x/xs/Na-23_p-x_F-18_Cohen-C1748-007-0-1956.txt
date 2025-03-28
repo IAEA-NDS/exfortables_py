@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1748-007-0 
-# EXFOR reaction        : ['11-NA-23', ['P,X'], '9-F-18,,SIG'] 
+# EXFOR reaction        : (11-NA-23(P,X)9-F-18,,SIG) 
 # incident energy       : 2.5996e+01 MeV - 3.1202e+01 MeV 
 # target                : Na-23 
 # product               : F-18 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : B.L.Cohen 
+# first author          : Cohen 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,PR,102,453,1956) 
 # year                  : 1956 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C17/C1748.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1748
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.59960E+01      0.00000E+00      1.79900E-03      0.00000E+00
-      2.78180E+01      0.00000E+00      6.10300E-03      0.00000E+00
-      2.95410E+01      0.00000E+00      1.06900E-02      0.00000E+00
-      3.12020E+01      0.00000E+00      2.04600E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5996E+01        0.0000E+00        1.7990E-03        0.0000E+00
+        2.7818E+01        0.0000E+00        6.1030E-03        0.0000E+00
+        2.9541E+01        0.0000E+00        1.0690E-02        0.0000E+00
+        3.1202E+01        0.0000E+00        2.0460E-02        0.0000E+00

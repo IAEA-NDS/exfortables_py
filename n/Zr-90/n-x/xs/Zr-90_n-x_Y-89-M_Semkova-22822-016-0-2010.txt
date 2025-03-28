@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22822-016-0 
-# EXFOR reaction        : ['40-ZR-90', ['N,X'], '39-Y-89-M,,SIG'] 
+# EXFOR reaction        : (40-ZR-90(N,X)39-Y-89-M,,SIG) 
 # incident energy       : 1.6300e+01 MeV - 2.0600e+01 MeV 
 # target                : Zr-90 
 # product               : Y-89-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : V.Semkova 
+# first author          : Semkova 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,NP/A,832,149,2010) 
 # year                  : 2010 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22822.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22822
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.63000E+01      3.00000E-01      4.70000E-02      5.00000E-03
-      1.81000E+01      2.00000E-01      6.00000E-02      6.00000E-03
-      1.91000E+01      2.00000E-01      6.20000E-02      6.00000E-03
-      2.06000E+01      1.00000E-01      7.40000E-02      7.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6300E+01        3.0000E-01        4.7000E-02        5.0000E-03
+        1.8100E+01        2.0000E-01        6.0000E-02        6.0000E-03
+        1.9100E+01        2.0000E-01        6.2000E-02        6.0000E-03
+        2.0600E+01        1.0000E-01        7.4000E-02        7.0000E-03

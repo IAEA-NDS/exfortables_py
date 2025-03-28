@@ -1,20 +1,20 @@
 # entry-subent-pointer  : 40883-002-0 
-# EXFOR reaction        : ['24-CR-0', ['N,TOT'], ',,SIG,,AV'] 
+# EXFOR reaction        : (24-CR-0(N,TOT),,SIG,,AV) 
 # incident energy       : 6.0000e-01 MeV - 3.2500e+00 MeV 
 # target                : Cr-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : V.V.Filippov 
-# institute             : (4CCPFEI): Fiziko-Energeticheskii Institute , Obninsk 
-# reference             : (C,83KIEV,3,107,8310) 
+# first author          : Filippov 
+# institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+# reference             : ((C,83KIEV,3,107,1983)=(R,INDC(CCP)-235,(3),107,1983)) 
 # year                  : 1983 
 # facility              : (VDG): Van de Graaff 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40883.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40883
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.25000E+00      0.00000E+00      3.65000E+00      0.00000E+00
-      1.95000E+00      0.00000E+00      3.48000E+00      0.00000E+00
-      1.10000E+00      0.00000E+00      3.42000E+00      0.00000E+00
-      6.00000E-01      0.00000E+00      3.26000E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.2500E+00        0.0000E+00        3.6500E+00        0.0000E+00
+        1.9500E+00        0.0000E+00        3.4800E+00        0.0000E+00
+        1.1000E+00        0.0000E+00        3.4200E+00        0.0000E+00
+        6.0000E-01        0.0000E+00        3.2600E+00        0.0000E+00

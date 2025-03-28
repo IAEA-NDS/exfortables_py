@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11713-002-0 
-# EXFOR reaction        : ['26-FE-0', ['N,X'], '0-G-0,,SIG'] 
+# EXFOR reaction        : (26-FE-0(N,X)0-G-0,,SIG) 
 # incident energy       : 1.4200e+01 MeV 
 # target                : Fe-0 
 # product               : G-0 
 # level energy          : - 
 # MF-MT number          : 12 - 10 
-# first author          : V.E.Scherrer 
+# first author          : Scherrer 
 # institute             : (1USANRL): U.S. Naval Research Laboratory , Washington, DC 
 # reference             : (J,PR,89,1268,5303) 
 # year                  : 1953 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/117/11713.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11713
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+01      2.00000E-01      4.60000E+00      5.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        2.0000E-01        4.6000E+00        5.0000E-01

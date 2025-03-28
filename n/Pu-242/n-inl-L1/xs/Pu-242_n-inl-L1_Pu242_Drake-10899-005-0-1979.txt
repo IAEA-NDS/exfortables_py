@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10899-005-0 
-# EXFOR reaction        : ['94-PU-242', ['N,INL'], '94-PU-242,PAR,SIG'] 
+# EXFOR reaction        : (94-PU-242(N,INL)94-PU-242,PAR,SIG) 
 # incident energy       : 5.7000e-01 MeV - 1.0000e+00 MeV 
 # target                : Pu-242 
 # product               : Pu-242 
 # level energy          : 4.5000e-02 MeV 
 # MF-MT number          : 3 - 51 
-# first author          : D.M.Drake 
+# first author          : Drake 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (R,LA-7855,1979) 
 # year                  : 1979 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10899.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10899
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.70000E-01      0.00000E+00      1.28000E+00      0.00000E+00
-      1.00000E+00      0.00000E+00      1.19000E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.7000E-01        0.0000E+00        1.2800E+00        0.0000E+00
+        1.0000E+00        0.0000E+00        1.1900E+00        0.0000E+00

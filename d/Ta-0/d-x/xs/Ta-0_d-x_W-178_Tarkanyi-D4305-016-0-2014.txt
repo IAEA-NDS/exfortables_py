@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4305-016-0 
-# EXFOR reaction        : ['73-TA-0', ['D,X'], '74-W-178,CUM,SIG'] 
+# EXFOR reaction        : (73-TA-0(D,X)74-W-178,CUM,SIG) 
 # incident energy       : 2.9600e+01 MeV - 3.9800e+01 MeV 
 # target                : Ta-0 
 # product               : W-178 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,ARI,91,114,2014) 
 # year                  : 2014 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4305.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4305
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.98000E+01      5.00000E-01      5.59000E-01      6.40000E-02
-      3.84000E+01      5.00000E-01      5.00000E-01      6.00000E-02
-      3.71000E+01      6.00000E-01      3.99000E-01      4.60000E-02
-      3.57000E+01      6.00000E-01      2.64000E-01      3.30000E-02
-      3.42000E+01      6.00000E-01      1.68000E-01      2.20000E-02
-      3.27000E+01      7.00000E-01      8.10000E-02      1.40000E-02
-      3.12000E+01      7.00000E-01      2.10000E-02      6.00000E-03
-      2.96000E+01      7.00000E-01      2.00000E-03      8.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.9800E+01        5.0000E-01        5.5900E-01        6.4000E-02
+        3.8400E+01        5.0000E-01        5.0000E-01        6.0000E-02
+        3.7100E+01        6.0000E-01        3.9900E-01        4.6000E-02
+        3.5700E+01        6.0000E-01        2.6400E-01        3.3000E-02
+        3.4200E+01        6.0000E-01        1.6800E-01        2.2000E-02
+        3.2700E+01        7.0000E-01        8.1000E-02        1.4000E-02
+        3.1200E+01        7.0000E-01        2.1000E-02        6.0000E-03
+        2.9600E+01        7.0000E-01        2.0000E-03        8.0000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12170-002-0 
-# EXFOR reaction        : ['73-TA-182', ['N,G'], '73-TA-183,,SIG,,SPA'] 
+# EXFOR reaction        : (73-TA-182(N,G)73-TA-183,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ta-182 
 # product               : Ta-183 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.J.Murray 
+# first author          : Murray 
 # institute             : (1USACAL): California Institute of Technology, Pasadena, CA 
 # reference             : (J,PR,97,1007,55) 
 # year                  : 1955 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12170.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12170
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.30000E+04      3.90000E+03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.3000E+04        3.9000E+03

@@ -1,23 +1,23 @@
 # entry-subent-pointer  : D5021-006-0 
-# EXFOR reaction        : ['29-CU-63', ['P,G'], '30-ZN-64,PAR,SIG'] 
+# EXFOR reaction        : (29-CU-63(P,G)30-ZN-64,PAR,SIG) 
 # incident energy       : 2.0075e+00 MeV - 3.1995e+00 MeV 
 # target                : Cu-63 
 # product               : Zn-64 
 # level energy          : 2.6090e+00 MeV 
 # MF-MT number          : 3 - 5 
-# first author          : B.A.Nemashkalo 
+# first author          : Nemashkalo 
 # institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
-# reference             : (J,IZV,67,1556,2003) 
+# reference             : (J,BAS,67,1717,2003) 
 # year                  : 2003 
 # facility              : (VDG): Van de Graaff 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D50/D5021.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D5021
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00750E+00      0.00000E+00      8.03710E-07      2.57050E-07
-      2.19590E+00      0.00000E+00      1.21600E-06      4.01960E-07
-      2.40640E+00      0.00000E+00      2.01200E-06      7.31790E-07
-      2.60240E+00      0.00000E+00      2.23170E-06      7.86970E-07
-      2.80710E+00      0.00000E+00      2.45510E-06      8.38920E-07
-      2.99900E+00      0.00000E+00      2.88360E-06      1.01680E-06
-      3.19950E+00      0.00000E+00      3.33170E-06      1.10190E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0075E+00        0.0000E+00        8.0371E-07        2.5705E-07
+        2.1959E+00        0.0000E+00        1.2160E-06        4.0196E-07
+        2.4064E+00        0.0000E+00        2.0120E-06        7.3179E-07
+        2.6024E+00        0.0000E+00        2.2317E-06        7.8697E-07
+        2.8071E+00        0.0000E+00        2.4551E-06        8.3892E-07
+        2.9990E+00        0.0000E+00        2.8836E-06        1.0168E-06
+        3.1995E+00        0.0000E+00        3.3317E-06        1.1019E-06

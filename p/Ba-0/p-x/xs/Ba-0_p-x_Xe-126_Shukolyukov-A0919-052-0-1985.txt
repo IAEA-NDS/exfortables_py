@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0919-052-0 
-# EXFOR reaction        : ['56-BA-0', ['P,X'], '54-XE-126,,SIG'] 
+# EXFOR reaction        : (56-BA-0(P,X)54-XE-126,,SIG) 
 # incident energy       : 2.5000e+01 MeV - 3.0000e+04 MeV 
 # target                : Ba-0 
 # product               : Xe-126 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.Yu.Shukolyukov 
+# first author          : Shukolyukov 
 # institute             : (4RUSFVE): Institute for High Energy Physics, Protvino 
 # reference             : (J,GEK,12,1737,1985) 
 # year                  : 1985 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0919.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0919
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E+01      0.00000E+00      9.00000E-06      0.00000E+00
-      5.00000E+01      0.00000E+00      3.90000E-05      0.00000E+00
-      3.00000E+04      0.00000E+00      2.00000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+01        0.0000E+00        9.0000E-06        0.0000E+00
+        5.0000E+01        0.0000E+00        3.9000E-05        0.0000E+00
+        3.0000E+04        0.0000E+00        2.0000E-02        0.0000E+00

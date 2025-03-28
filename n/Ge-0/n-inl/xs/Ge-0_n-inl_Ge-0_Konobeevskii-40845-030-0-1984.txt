@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40845-030-0 
-# EXFOR reaction        : ['32-GE-0', ['N,INL'], '32-GE-0,,SIG'] 
+# EXFOR reaction        : (32-GE-0(N,INL)32-GE-0,,SIG) 
 # incident energy       : 1.0000e+00 MeV 
 # target                : Ge-0 
 # product               : Ge-0 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : E.S.Konobeevskii 
+# first author          : Konobeevskii 
 # institute             : (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
 # reference             : (J,IZV,48,389,1984) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40845.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40845
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      1.35000E+00      1.20000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        1.3500E+00        1.2000E-01

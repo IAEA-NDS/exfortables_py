@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1754-025-0 
-# EXFOR reaction        : ['13-AL-27', ['P,X'], '1-PN-0,,SIG'] 
+# EXFOR reaction        : (13-AL-27(P,X)1-PN-0,,SIG) 
 # incident energy       : 7.3000e+02 MeV 
 # target                : Al-27 
 # product               : Pn-0 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : D.R.F.Cochran 
+# first author          : Cochran 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,PR/D,6,3085,1972) 
 # year                  : 1972 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C17/C1754.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1754
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.30000E+02      0.00000E+00      1.31700E-02      9.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.3000E+02        0.0000E+00        1.3170E-02        9.0000E-04

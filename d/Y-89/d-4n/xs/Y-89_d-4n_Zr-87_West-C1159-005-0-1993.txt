@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1159-005-0 
-# EXFOR reaction        : ['39-Y-89', ['D,4N'], '40-ZR-87,,SIG'] 
+# EXFOR reaction        : (39-Y-89(D,4N)40-ZR-87,,SIG) 
 # incident energy       : 3.1130e+01 MeV - 3.9410e+01 MeV 
 # target                : Y-89 
 # product               : Zr-87 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : H.I.West 
+# first author          : West 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (P,UCRL-ID-115738,5-1,1993) 
 # year                  : 1993 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C11/C1159.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1159
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.11300E+01      3.10000E-01      3.95000E-03      2.80000E-04
-      3.27100E+01      2.50000E-01      1.62400E-02      5.70000E-04
-      3.42300E+01      2.00000E-01      4.20200E-02      1.50000E-03
-      3.59900E+01      3.30000E-01      8.18000E-02      2.90000E-03
-      3.77300E+01      2.80000E-01      1.28100E-01      4.50000E-03
-      3.94100E+01      2.10000E-01      1.82500E-01      6.40000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.1130E+01        3.1000E-01        3.9500E-03        2.8000E-04
+        3.2710E+01        2.5000E-01        1.6240E-02        5.7000E-04
+        3.4230E+01        2.0000E-01        4.2020E-02        1.5000E-03
+        3.5990E+01        3.3000E-01        8.1800E-02        2.9000E-03
+        3.7730E+01        2.8000E-01        1.2810E-01        4.5000E-03
+        3.9410E+01        2.1000E-01        1.8250E-01        6.4000E-03

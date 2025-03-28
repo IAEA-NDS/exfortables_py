@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0069-006-0 
-# EXFOR reaction        : ['38-SR-88', ['P,5N'], '39-Y-84-G,,SIG'] 
+# EXFOR reaction        : (38-SR-88(P,5N)39-Y-84-G,,SIG) 
 # incident energy       : 6.0000e+01 MeV - 8.5000e+01 MeV 
 # target                : Sr-88 
 # product               : Y-84-G 
 # level energy          : - 
 # MF-MT number          : 3 - 152 
-# first author          : D.R.Sachdev 
+# first author          : Sachdev 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,CJC,45,1149,1967) 
 # year                  : 1967 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0069.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0069
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+01      0.00000E+00      1.10000E-02      1.98000E-03
-      6.60000E+01      0.00000E+00      2.40000E-02      4.32000E-03
-      6.90000E+01      0.00000E+00      2.60000E-02      4.68000E-03
-      7.20000E+01      0.00000E+00      2.40000E-02      4.32000E-03
-      7.80000E+01      0.00000E+00      1.80000E-02      3.24000E-03
-      8.50000E+01      0.00000E+00      1.20000E-02      2.16000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+01        0.0000E+00        1.1000E-02        1.9800E-03
+        6.6000E+01        0.0000E+00        2.4000E-02        4.3200E-03
+        6.9000E+01        0.0000E+00        2.6000E-02        4.6800E-03
+        7.2000E+01        0.0000E+00        2.4000E-02        4.3200E-03
+        7.8000E+01        0.0000E+00        1.8000E-02        3.2400E-03
+        8.5000E+01        0.0000E+00        1.2000E-02        2.1600E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22093-007-0 
-# EXFOR reaction        : ['22-TI-48', ['N,P'], '21-SC-48,,SIG'] 
+# EXFOR reaction        : (22-TI-48(N,P)21-SC-48,,SIG) 
 # incident energy       : 1.4050e+01 MeV 
 # target                : Ti-48 
 # product               : Sc-48 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : I.Kimura 
+# first author          : Kimura 
 # institute             : (2JPNKTO): Kyoto University , Kyoto 
 # reference             : (J,NSE,106,332,1990) 
 # year                  : 1990 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22093.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22093
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40500E+01      0.00000E+00      5.86000E-02      1.88000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4050E+01        0.0000E+00        5.8600E-02        1.8800E-03

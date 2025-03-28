@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1411-247-0 
-# EXFOR reaction        : ['94-PU-244', ['P,F'], '62-SM-153,', ['CUM'], ',SIG'] 
+# EXFOR reaction        : (94-PU-244(P,F)62-SM-153,(CUM),SIG) 
 # incident energy       : 1.2000e+01 MeV - 1.8000e+01 MeV 
 # target                : Pu-244 
 # product               : Sm-153 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : T.Ohtsuki 
+# first author          : Ohtsuki 
 # institute             : (2JPNTMU): Tokyo Metropolitan University , Hachioji, Tokyo 
 # reference             : (J,PR/C,44,1405,1991) 
 # year                  : 1991 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E14/E1411.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1411
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.20000E+01      0.00000E+00      1.62000E-03      2.40000E-04
-      1.44000E+01      0.00000E+00      2.19000E-03      4.40000E-04
-      1.80000E+01      0.00000E+00      5.98000E-03      2.35000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E+01        0.0000E+00        1.6200E-03        2.4000E-04
+        1.4400E+01        0.0000E+00        2.1900E-03        4.4000E-04
+        1.8000E+01        0.0000E+00        5.9800E-03        2.3500E-03

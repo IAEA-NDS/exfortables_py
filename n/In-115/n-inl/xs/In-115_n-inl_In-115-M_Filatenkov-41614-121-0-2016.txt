@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41614-121-0 
-# EXFOR reaction        : ['49-IN-115', ['N,INL'], '49-IN-115-M,,SIG'] 
+# EXFOR reaction        : (49-IN-115(N,INL)49-IN-115-M,,SIG) 
 # incident energy       : 1.3560e+01 MeV - 1.4780e+01 MeV 
 # target                : In-115 
 # product               : In-115-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,INDC(CCP)-0460,2016) 
 # year                  : 2016 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35600E+01      0.00000E+00      7.94000E-02      4.30348E-03
-      1.37400E+01      0.00000E+00      7.24000E-02      4.13404E-03
-      1.39600E+01      0.00000E+00      6.78000E-02      3.11880E-03
-      1.41900E+01      0.00000E+00      6.47000E-02      3.83671E-03
-      1.44200E+01      0.00000E+00      6.18000E-02      3.00348E-03
-      1.46100E+01      0.00000E+00      6.20000E-02      3.00700E-03
-      1.47800E+01      0.00000E+00      5.91000E-02      2.91954E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3560E+01        0.0000E+00        7.9400E-02        4.3035E-03
+        1.3740E+01        0.0000E+00        7.2400E-02        4.1340E-03
+        1.3960E+01        0.0000E+00        6.7800E-02        3.1188E-03
+        1.4190E+01        0.0000E+00        6.4700E-02        3.8367E-03
+        1.4420E+01        0.0000E+00        6.1800E-02        3.0035E-03
+        1.4610E+01        0.0000E+00        6.2000E-02        3.0070E-03
+        1.4780E+01        0.0000E+00        5.9100E-02        2.9195E-03

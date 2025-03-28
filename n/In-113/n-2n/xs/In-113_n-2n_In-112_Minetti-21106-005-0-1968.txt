@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21106-005-0 
-# EXFOR reaction        : ['49-IN-113', ['N,2N'], '49-IN-112,,SIG'] 
+# EXFOR reaction        : (49-IN-113(N,2N)49-IN-112,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : In-113 
 # product               : In-112 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : B.Minetti 
+# first author          : Minetti 
 # institute             : (2ITYTUR): Universita degli Studi di Torino + INFN Torino 
 # reference             : (J,ZP,217,83,196810) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/211/21106.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21106
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      1.00000E-01      1.75300E+00      1.10000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        1.0000E-01        1.7530E+00        1.1000E-01

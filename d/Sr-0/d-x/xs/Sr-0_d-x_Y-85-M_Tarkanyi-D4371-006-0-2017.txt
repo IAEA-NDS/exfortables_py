@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4371-006-0 
-# EXFOR reaction        : ['38-SR-0', ['D,X'], '39-Y-85-M,,SIG'] 
+# EXFOR reaction        : (38-SR-0(D,X)39-Y-85-M,,SIG) 
 # incident energy       : 3.0920e+01 MeV - 4.8060e+01 MeV 
 # target                : Sr-0 
 # product               : Y-85-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,ARI,127,16,2017) 
 # year                  : 2017 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4371.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4371
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.80600E+01      2.50000E-01      3.66000E-02      1.86000E-02
-      4.21100E+01      4.00000E-01      3.38000E-02      1.34000E-02
-      4.00100E+01      4.50000E-01      3.39000E-02      1.62000E-02
-      3.09200E+01      6.80000E-01      1.81000E-02      1.71000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.8060E+01        2.5000E-01        3.6600E-02        1.8600E-02
+        4.2110E+01        4.0000E-01        3.3800E-02        1.3400E-02
+        4.0010E+01        4.5000E-01        3.3900E-02        1.6200E-02
+        3.0920E+01        6.8000E-01        1.8100E-02        1.7100E-02

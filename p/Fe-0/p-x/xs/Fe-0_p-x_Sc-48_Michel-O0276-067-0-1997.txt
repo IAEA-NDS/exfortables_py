@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0276-067-0 
-# EXFOR reaction        : ['26-FE-0', ['P,X'], '21-SC-48,,SIG'] 
+# EXFOR reaction        : (26-FE-0(P,X)21-SC-48,,SIG) 
 # incident energy       : 3.4600e+02 MeV - 3.8300e+02 MeV 
 # target                : Fe-0 
 # product               : Sc-48 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,129,153,1997) 
 # year                  : 1997 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0276
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.46000E+02      1.50000E+00      2.24000E-02      2.00000E-03
-      3.66000E+02      1.30000E+00      2.42000E-02      1.80000E-03
-      3.83000E+02      1.00000E+00      2.30000E-02      1.90000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.4600E+02        1.5000E+00        2.2400E-02        2.0000E-03
+        3.6600E+02        1.3000E+00        2.4200E-02        1.8000E-03
+        3.8300E+02        1.0000E+00        2.3000E-02        1.9000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0732-005-0 
-# EXFOR reaction        : ['50-SN-0', ['P,NON'], ',,SIG'] 
+# EXFOR reaction        : (50-SN-0(P,NON),,SIG) 
 # incident energy       : 3.4000e+01 MeV 
 # target                : Sn-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : T.J.Gooding 
+# first author          : Gooding 
 # institute             : (1USAMIN): University of Minnesota, Minneapolis, MN 
 # reference             : (J,NP,12,241,1959) 
 # year                  : 1959 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0732.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0732
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.40000E+01      2.50000E+00      1.93000E+00      1.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.4000E+01        2.5000E+00        1.9300E+00        1.0000E-01

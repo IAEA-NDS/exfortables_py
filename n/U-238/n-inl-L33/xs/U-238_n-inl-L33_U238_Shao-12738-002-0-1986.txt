@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12738-002-0 
-# EXFOR reaction        : ['92-U-238', ['N,INL'], '92-U-238,PAR,SIG'] 
+# EXFOR reaction        : (92-U-238(N,INL)92-U-238,PAR,SIG) 
 # incident energy       : 1.7000e+00 MeV - 2.0000e+00 MeV 
 # target                : U-238 
 # product               : U-238 
 # level energy          : 1.2900e+00 MeV 
 # MF-MT number          : 3 - 83 
-# first author          : J.Q.Shao 
+# first author          : Shao 
 # institute             : (1USALTI): University of Massachusetts at Lowell, MA 
 # reference             : (J,NSE,92,350,198603) 
 # year                  : 1986 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/127/12738.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12738
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.70000E+00      1.50000E-02      1.79000E-02      3.90000E-03
-      1.75000E+00      1.50000E-02      4.29000E-02      9.40000E-03
-      1.85000E+00      1.50000E-02      1.24800E-01      2.34009E-02
-      1.90000E+00      1.50000E-02      1.18800E-01      2.42390E-02
-      1.95000E+00      1.50000E-02      6.44000E-02      1.16181E-02
-      2.00000E+00      1.50000E-02      9.44000E-02      1.80314E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7000E+00        1.5000E-02        1.7900E-02        3.9000E-03
+        1.7500E+00        1.5000E-02        4.2900E-02        9.4000E-03
+        1.8500E+00        1.5000E-02        1.2480E-01        2.3401E-02
+        1.9000E+00        1.5000E-02        1.1880E-01        2.4239E-02
+        1.9500E+00        1.5000E-02        6.4400E-02        1.1618E-02
+        2.0000E+00        1.5000E-02        9.4400E-02        1.8031E-02

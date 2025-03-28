@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31759-002-0 
-# EXFOR reaction        : ['70-YB-172', ['N,INL'], '70-YB-172,PAR,SIG'] 
+# EXFOR reaction        : (70-YB-172(N,INL)70-YB-172,PAR,SIG) 
 # incident energy       : 1.3800e+00 MeV - 2.9900e+00 MeV 
 # target                : Yb-172 
 # product               : Yb-172 
 # level energy          : 1.0429e+00 MeV 
 # MF-MT number          : 3 - 55 
-# first author          : T.J.Al-Janabi 
+# first author          : Al-Janabi 
 # institute             : (3IRQNRI): Nuclear Research Center, Baghdad 
 # reference             : ((J,RE,93,273,1986)=(C,85SANTA,1,609,1985)) 
 # year                  : 1985 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31759.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31759
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.38000E+00      0.00000E+00      3.84000E-01      0.00000E+00
-      1.60000E+00      0.00000E+00      5.23000E-01      0.00000E+00
-      1.80000E+00      0.00000E+00      4.00000E-01      0.00000E+00
-      2.00000E+00      0.00000E+00      3.94000E-01      0.00000E+00
-      2.20000E+00      0.00000E+00      4.12000E-01      0.00000E+00
-      2.40000E+00      0.00000E+00      4.54000E-01      0.00000E+00
-      2.59000E+00      0.00000E+00      5.47000E-01      0.00000E+00
-      2.78000E+00      0.00000E+00      5.98000E-01      0.00000E+00
-      2.99000E+00      0.00000E+00      5.62000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3800E+00        0.0000E+00        3.8400E-01        0.0000E+00
+        1.6000E+00        0.0000E+00        5.2300E-01        0.0000E+00
+        1.8000E+00        0.0000E+00        4.0000E-01        0.0000E+00
+        2.0000E+00        0.0000E+00        3.9400E-01        0.0000E+00
+        2.2000E+00        0.0000E+00        4.1200E-01        0.0000E+00
+        2.4000E+00        0.0000E+00        4.5400E-01        0.0000E+00
+        2.5900E+00        0.0000E+00        5.4700E-01        0.0000E+00
+        2.7800E+00        0.0000E+00        5.9800E-01        0.0000E+00
+        2.9900E+00        0.0000E+00        5.6200E-01        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22963-004-0 
-# EXFOR reaction        : ['72-HF-180', ['N,G'], '72-HF-181,,SIG,,SPA'] 
+# EXFOR reaction        : (72-HF-180(N,G)72-HF-181,,SIG,,SPA) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : Hf-180 
 # product               : Hf-181 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : C.Vockenhuber 
+# first author          : Vockenhuber 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,75,015804,2007) 
 # year                  : 2007 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22963.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22963
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      0.00000E+00      1.51500E-01      6.66600E-03
-      2.50000E-02      0.00000E+00      1.57600E-01      6.93440E-03
-      2.50000E-02      0.00000E+00      1.58700E-01      6.98280E-03
-      2.50000E-02      0.00000E+00      1.61500E-01      7.10600E-03
-      2.50000E-02      0.00000E+00      1.66400E-01      7.32160E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        1.5150E-01        6.6660E-03
+        2.5000E-02        0.0000E+00        1.5760E-01        6.9344E-03
+        2.5000E-02        0.0000E+00        1.5870E-01        6.9828E-03
+        2.5000E-02        0.0000E+00        1.6150E-01        7.1060E-03
+        2.5000E-02        0.0000E+00        1.6640E-01        7.3216E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21046-004-0 
-# EXFOR reaction        : ['13-AL-27', ['N,INL'], '13-AL-27,PAR,SIG'] 
+# EXFOR reaction        : (13-AL-27(N,INL)13-AL-27,PAR,SIG) 
 # incident energy       : 5.9500e+00 MeV 
 # target                : Al-27 
 # product               : Al-27 
 # level energy          : 2.2100e+00 MeV 
 # MF-MT number          : 3 - 53 
-# first author          : J.Martin 
+# first author          : Martin 
 # institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 # reference             : (J,NP/A,113,(3),564,196806) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21046.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21046
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.95000E+00      1.00000E-01      1.38000E-01      8.70000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.9500E+00        1.0000E-01        1.3800E-01        8.7000E-03

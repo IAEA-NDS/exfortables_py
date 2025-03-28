@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2150-005-1 
-# EXFOR reaction        : ['51-SB-123', ['P,G'], '52-TE-124,,SIG'] 
+# EXFOR reaction        : (51-SB-123(P,G)52-TE-124,,SIG) 
 # incident energy       : 2.3830e+00 MeV - 3.3830e+00 MeV 
 # target                : Sb-123 
 # product               : Te-124 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.Harissopulos 
+# first author          : Harissopulos 
 # institute             : (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
 # reference             : (J,PR/C,87,025806,2013) 
 # year                  : 2013 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2150.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2150
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.38300E+00      0.00000E+00      1.50000E-07      5.00000E-08
-      2.58300E+00      0.00000E+00      6.00000E-07      1.00000E-07
-      2.78300E+00      0.00000E+00      1.20000E-06      1.50000E-07
-      2.98300E+00      0.00000E+00      2.45000E-06      2.00000E-07
-      3.18300E+00      0.00000E+00      5.35000E-06      3.50000E-07
-      3.38300E+00      0.00000E+00      8.70000E-06      4.50000E-07
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3830E+00        0.0000E+00        1.5000E-07        5.0000E-08
+        2.5830E+00        0.0000E+00        6.0000E-07        1.0000E-07
+        2.7830E+00        0.0000E+00        1.2000E-06        1.5000E-07
+        2.9830E+00        0.0000E+00        2.4500E-06        2.0000E-07
+        3.1830E+00        0.0000E+00        5.3500E-06        3.5000E-07
+        3.3830E+00        0.0000E+00        8.7000E-06        4.5000E-07

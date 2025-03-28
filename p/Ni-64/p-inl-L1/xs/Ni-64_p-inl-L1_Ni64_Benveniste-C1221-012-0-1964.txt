@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1221-012-0 
-# EXFOR reaction        : ['28-NI-64', ['P,INL'], '28-NI-64,PAR,SIG'] 
+# EXFOR reaction        : (28-NI-64(P,INL)28-NI-64,PAR,SIG) 
 # incident energy       : 9.6000e+00 MeV - 1.1700e+01 MeV 
 # target                : Ni-64 
 # product               : Ni-64 
 # level energy          : 1.3400e+00 MeV 
 # MF-MT number          : 3 - 601 
-# first author          : J.Benveniste 
+# first author          : Benveniste 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,133,(2),B323,1964) 
 # year                  : 1964 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C12/C1221.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1221
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.60000E+00      0.00000E+00      2.89000E-02      0.00000E+00
-      1.17000E+01      0.00000E+00      2.90000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.6000E+00        0.0000E+00        2.8900E-02        0.0000E+00
+        1.1700E+01        0.0000E+00        2.9000E-02        0.0000E+00

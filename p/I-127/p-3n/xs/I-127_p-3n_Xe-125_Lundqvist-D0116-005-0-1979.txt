@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0116-005-0 
-# EXFOR reaction        : ['53-I-127', ['P,3N'], '54-XE-125,,SIG'] 
+# EXFOR reaction        : (53-I-127(P,3N)54-XE-125,,SIG) 
 # incident energy       : 3.9056e+01 MeV - 9.8960e+01 MeV 
 # target                : I-127 
 # product               : Xe-125 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : H.Lundqvist 
+# first author          : Lundqvist 
 # institute             : (2SWDUPP): Uppsala University , Uppsala 
 # reference             : (J,ARI,30,39,1979) 
 # year                  : 1979 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D01/D0116.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0116
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.90560E+01      2.00000E-01      4.86900E-01      9.43800E-02
-      4.84480E+01      2.00000E-01      8.98280E-02      1.26580E-02
-      5.38600E+01      2.00000E-01      8.08030E-02      1.37310E-02
-      5.89550E+01      2.00000E-01      7.15880E-02      1.13200E-02
-      6.39440E+01      2.00000E-01      6.18370E-02      1.01420E-02
-      8.90900E+01      2.00000E-01      4.28190E-02      8.30080E-03
-      9.40770E+01      2.00000E-01      3.89070E-02      6.38120E-03
-      9.89600E+01      2.00000E-01      3.41220E-02      5.79830E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.9056E+01        2.0000E-01        4.8690E-01        9.4380E-02
+        4.8448E+01        2.0000E-01        8.9828E-02        1.2658E-02
+        5.3860E+01        2.0000E-01        8.0803E-02        1.3731E-02
+        5.8955E+01        2.0000E-01        7.1588E-02        1.1320E-02
+        6.3944E+01        2.0000E-01        6.1837E-02        1.0142E-02
+        8.9090E+01        2.0000E-01        4.2819E-02        8.3008E-03
+        9.4077E+01        2.0000E-01        3.8907E-02        6.3812E-03
+        9.8960E+01        2.0000E-01        3.4122E-02        5.7983E-03

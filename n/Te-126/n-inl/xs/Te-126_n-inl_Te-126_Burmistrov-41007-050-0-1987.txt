@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41007-050-0 
-# EXFOR reaction        : ['52-TE-126', ['N,INL'], '52-TE-126,,SIG'] 
+# EXFOR reaction        : (52-TE-126(N,INL)52-TE-126,,SIG) 
 # incident energy       : 7.0000e-01 MeV - 1.0900e+00 MeV 
 # target                : Te-126 
 # product               : Te-126 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : Yu.M.Burmistrov 
+# first author          : Burmistrov 
 # institute             : (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
 # reference             : (C,87KIEV,3,217,1987) 
 # year                  : 1987 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/410/41007.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41007
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.00000E-01      0.00000E+00      2.70000E-01      3.00000E-01
-      7.60000E-01      0.00000E+00      5.00000E-01      5.00000E-01
-      8.00000E-01      0.00000E+00      5.30000E-01      5.00000E-01
-      8.50000E-01      0.00000E+00      6.60000E-01      7.00000E-01
-      9.00000E-01      0.00000E+00      6.30000E-01      6.00000E-01
-      9.40000E-01      0.00000E+00      7.70000E-01      8.00000E-01
-      9.90000E-01      0.00000E+00      8.40000E-01      8.00000E-01
-      1.04000E+00      0.00000E+00      9.10000E-01      9.00000E-01
-      1.09000E+00      0.00000E+00      9.00000E-01      9.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0000E-01        0.0000E+00        2.7000E-01        3.0000E-01
+        7.6000E-01        0.0000E+00        5.0000E-01        5.0000E-01
+        8.0000E-01        0.0000E+00        5.3000E-01        5.0000E-01
+        8.5000E-01        0.0000E+00        6.6000E-01        7.0000E-01
+        9.0000E-01        0.0000E+00        6.3000E-01        6.0000E-01
+        9.4000E-01        0.0000E+00        7.7000E-01        8.0000E-01
+        9.9000E-01        0.0000E+00        8.4000E-01        8.0000E-01
+        1.0400E+00        0.0000E+00        9.1000E-01        9.0000E-01
+        1.0900E+00        0.0000E+00        9.0000E-01        9.0000E-01

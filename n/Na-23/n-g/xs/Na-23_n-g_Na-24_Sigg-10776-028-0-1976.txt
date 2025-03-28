@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10776-028-0 
-# EXFOR reaction        : ['11-NA-23', ['N,G'], '11-NA-24,,SIG'] 
+# EXFOR reaction        : (11-NA-23(N,G)11-NA-24,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Na-23 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.A.Sigg 
+# first author          : Sigg 
 # institute             : (1USAARK): University of Arkansas, Fayetteville, AR 
 # reference             : (T,SIGG,1976) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10776.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10776
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      0.00000E+00      2.80000E-04      5.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        2.8000E-04        5.0000E-05

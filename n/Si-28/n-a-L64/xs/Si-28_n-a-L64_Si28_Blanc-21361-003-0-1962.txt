@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21361-003-0 
-# EXFOR reaction        : ['14-SI-28', ['N,A'], '12-MG-25,PAR,SIG,,AV'] 
+# EXFOR reaction        : (14-SI-28(N,A)12-MG-25,PAR,SIG,,AV) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Si-28 
 # product               : Mg-25 
-# level energy          : 8.1400e+00 MeV 
+# level energy          : 7.5700e+00 MeV 
 # MF-MT number          : 3 - 848 
-# first author          : D.Blanc 
+# first author          : Blanc 
 # institute             : (2FR TOU): Universite de Toulouse 
 # reference             : (J,NC,23,(6),1140,196203) 
 # year                  : 1962 
@@ -13,5 +13,15 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21361.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21361
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      0.00000E+00      9.88750E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        4.2759E-03        0.0000E+00
+        1.4600E+01        0.0000E+00        4.2987E-03        0.0000E+00
+        1.4600E+01        0.0000E+00        9.8875E-03        0.0000E+00
+        1.4600E+01        0.0000E+00        3.5213E-03        0.0000E+00
+        1.4600E+01        0.0000E+00        3.5093E-03        0.0000E+00
+        1.4600E+01        0.0000E+00        4.9207E-03        0.0000E+00
+        1.4600E+01        0.0000E+00        4.8236E-03        0.0000E+00
+        1.4600E+01        0.0000E+00        3.7008E-03        0.0000E+00
+        1.4600E+01        0.0000E+00        3.6501E-03        0.0000E+00
+        1.4600E+01        0.0000E+00        3.8227E-03        0.0000E+00
+        1.4600E+01        0.0000E+00        4.7530E-03        0.0000E+00

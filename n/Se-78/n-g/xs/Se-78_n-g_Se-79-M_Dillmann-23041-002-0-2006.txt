@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23041-002-0 
-# EXFOR reaction        : ['34-SE-78', ['N,G'], '34-SE-79-M,,SIG,,MXW'] 
+# EXFOR reaction        : (34-SE-78(N,G)34-SE-79-M,,SIG,,MXW) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Se-78 
 # product               : Se-79-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : I.Dillmann 
+# first author          : Dillmann 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (C,2006CERN,,(089),200606) 
 # year                  : 2006 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23041.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23041
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      4.20000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        4.2000E-02        2.0000E-03

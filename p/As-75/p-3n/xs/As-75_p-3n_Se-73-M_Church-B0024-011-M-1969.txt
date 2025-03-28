@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0024-011-M 
-# EXFOR reaction        : ['33-AS-75', ['P,3N'], '34-SE-73-M,,SIG,,,EXP'] 
+# EXFOR reaction        : (33-AS-75(P,3N)34-SE-73-M,,SIG,,,EXP) 
 # incident energy       : 4.0000e+02 MeV 
 # target                : As-75 
 # product               : Se-73-M 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : L.B.Church 
+# first author          : Church 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,PR,178,1732,1969) 
 # year                  : 1969 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0024.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0024
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+02      0.00000E+00      5.20000E-04      1.10000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+02        0.0000E+00        5.2000E-04        1.1000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33043-003-0 
-# EXFOR reaction        : ['92-U-238', ['N,2N'], '92-U-237,,SIG'] 
+# EXFOR reaction        : (92-U-238(N,2N)92-U-237,,SIG) 
 # incident energy       : 9.8500e+00 MeV 
 # target                : U-238 
 # product               : U-237 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : H.Naik 
+# first author          : Naik 
 # institute             : (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
 # reference             : (J,JRN,293,469,2012) 
 # year                  : 2012 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33043.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33043
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.85000E+00      3.80000E-01      1.31100E+00      8.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.8500E+00        3.8000E-01        1.3110E+00        8.7000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0081-009-0 
-# EXFOR reaction        : ['28-NI-60', ['P,NON'], ',,SIG'] 
+# EXFOR reaction        : (28-NI-60(P,NON),,SIG) 
 # incident energy       : 4.0000e+01 MeV - 6.0800e+01 MeV 
 # target                : Ni-60 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : J.J.H.Menet 
+# first author          : Menet 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,PR/C,4,1114,1971) 
 # year                  : 1971 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0081.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0081
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+01      0.00000E+00      9.82000E-01      4.20000E-02
-      6.08000E+01      0.00000E+00      8.41000E-01      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+01        0.0000E+00        9.8200E-01        4.2000E-02
+        6.0800E+01        0.0000E+00        8.4100E-01        3.0000E-02

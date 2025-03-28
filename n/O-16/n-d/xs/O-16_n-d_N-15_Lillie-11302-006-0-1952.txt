@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11302-006-0 
-# EXFOR reaction        : ['8-O-16', ['N,D'], '7-N-15,,SIG'] 
+# EXFOR reaction        : (8-O-16(N,D)7-N-15,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : O-16 
 # product               : N-15 
 # level energy          : - 
 # MF-MT number          : 3 - 104 
-# first author          : A.B.Lillie 
+# first author          : Lillie 
 # institute             : (1USARIC): Rice University, Houston, TX 
 # reference             : (J,PR,87,716,1952) 
 # year                  : 1952 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11302.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11302
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      0.00000E+00      1.50000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        1.5000E-02        0.0000E+00

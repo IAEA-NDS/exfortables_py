@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0506-009-0 
-# EXFOR reaction        : ['82-PB-0', ['P,X'], '83-BI-198-M1,,SIG'] 
+# EXFOR reaction        : (82-PB-0(P,X)83-BI-198-M1,,SIG) 
 # incident energy       : 6.6000e+02 MeV 
 # target                : Pb-0 
 # product               : Bi-198-M1 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Yu.A.Alexandrov 
+# first author          : Alexandrov 
 # institute             : (4RUSRI ): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (C,97TRIEST,2,1525,1997) 
 # year                  : 1997 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0506.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0506
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.60000E+02      0.00000E+00      2.90000E-03      7.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6000E+02        0.0000E+00        2.9000E-03        7.0000E-04

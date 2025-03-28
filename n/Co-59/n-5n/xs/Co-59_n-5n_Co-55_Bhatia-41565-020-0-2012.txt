@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41565-020-0 
-# EXFOR reaction        : ['27-CO-59', ['N,5N'], '27-CO-55,,SIG,,SPA'] 
+# EXFOR reaction        : (27-CO-59(N,5N)27-CO-55,,SIG,,SPA) 
 # incident energy       : 1.2059e+02 MeV 
 # target                : Co-59 
 # product               : Co-55 
 # level energy          : - 
 # MF-MT number          : 3 - 152 
-# first author          : C.Bhatia 
+# first author          : Bhatia 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (J,ARI,70,1254,2012) 
 # year                  : 2012 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/415/41565.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41565
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.20590E+02      0.00000E+00      4.40000E-05      1.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2059E+02        0.0000E+00        4.4000E-05        1.0000E-05

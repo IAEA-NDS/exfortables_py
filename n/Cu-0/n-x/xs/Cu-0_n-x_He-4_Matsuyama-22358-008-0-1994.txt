@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22358-008-0 
-# EXFOR reaction        : ['29-CU-0', ['N,X'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (29-CU-0(N,X)2-HE-4,,SIG) 
 # incident energy       : 5.1000e+00 MeV - 1.4100e+01 MeV 
 # target                : Cu-0 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : I.Matsuyama 
+# first author          : Matsuyama 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : ((S,JAERI-M-94-019,191,1994)=(S,INDC(JPN)-169,191,1994)) 
 # year                  : 1994 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22358.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22358
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.10000E+00      0.00000E+00      7.00000E-04      2.00000E-04
-      5.50000E+00      0.00000E+00      1.80000E-03      2.00000E-04
-      6.20000E+00      0.00000E+00      3.77000E-03      3.00000E-04
-      7.60000E+00      0.00000E+00      1.32400E-02      1.10000E-03
-      1.15000E+01      0.00000E+00      3.52600E-02      4.40000E-03
-      1.41000E+01      0.00000E+00      4.46000E-02      4.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.1000E+00        0.0000E+00        7.0000E-04        2.0000E-04
+        5.5000E+00        0.0000E+00        1.8000E-03        2.0000E-04
+        6.2000E+00        0.0000E+00        3.7700E-03        3.0000E-04
+        7.6000E+00        0.0000E+00        1.3240E-02        1.1000E-03
+        1.1500E+01        0.0000E+00        3.5260E-02        4.4000E-03
+        1.4100E+01        0.0000E+00        4.4600E-02        4.0000E-03

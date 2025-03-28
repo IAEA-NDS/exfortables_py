@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21991-010-0 
-# EXFOR reaction        : ['54-XE-136', ['N,G'], '54-XE-137,,SIG,,MXW,DERIV'] 
+# EXFOR reaction        : (54-XE-136(N,G)54-XE-137,,SIG,,MXW,DERIV) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Xe-136 
 # product               : Xe-137 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : B.Leist 
+# first author          : Leist 
 # institute             : (2GERMNZ): Johannes Gutenberg-Universitaet Mainz, Mainz 
 # reference             : (J,ZP/A,322,531,8510) 
 # year                  : 1985 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21991.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21991
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      1.00000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        1.0000E-04        0.0000E+00

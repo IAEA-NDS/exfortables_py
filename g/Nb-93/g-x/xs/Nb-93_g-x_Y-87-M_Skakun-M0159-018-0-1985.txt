@@ -1,20 +1,20 @@
 # entry-subent-pointer  : M0159-018-0 
-# EXFOR reaction        : ['41-NB-93', ['G,X'], '39-Y-87-M,CUM,SIG,,BRA'] 
+# EXFOR reaction        : (41-NB-93(G,X)39-Y-87-M,CUM,SIG,,BRA) 
 # incident energy       : 1.5000e+02 MeV - 2.7500e+02 MeV 
 # target                : Nb-93 
 # product               : Y-87-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : E.A.Skakun 
+# first author          : Skakun 
 # institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
-# reference             : (J,IZV,49,(10),2252,1985) 
+# reference             : (J,BAS,49,(11),160,1985) 
 # year                  : 1985 
 # facility              : (LINAC): Linear accelerator 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M01/M0159.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M0159
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+02      0.00000E+00      1.01000E-03      1.10000E-04
-      1.75000E+02      0.00000E+00      1.02000E-03      1.20000E-04
-      2.25000E+02      0.00000E+00      1.24000E-03      1.90000E-04
-      2.75000E+02      0.00000E+00      1.80000E-03      1.90000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+02        0.0000E+00        1.0100E-03        1.1000E-04
+        1.7500E+02        0.0000E+00        1.0200E-03        1.2000E-04
+        2.2500E+02        0.0000E+00        1.2400E-03        1.9000E-04
+        2.7500E+02        0.0000E+00        1.8000E-03        1.9000E-04

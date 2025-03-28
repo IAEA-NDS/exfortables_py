@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13586-026-0 
-# EXFOR reaction        : ['63-EU-151', ['N,2N'], '63-EU-150-G,,SIG,,SPA'] 
+# EXFOR reaction        : (63-EU-151(N,2N)63-EU-150-G,,SIG,,SPA) 
 # incident energy       : 5.8000e+00 MeV 
 # target                : Eu-151 
 # product               : Eu-150-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.W.Meadows 
+# first author          : Meadows 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,ANE,23,877,199607) 
 # year                  : 1996 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/135/13586.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13586
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.80000E+00      0.00000E+00      1.48000E-02      1.37640E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.8000E+00        0.0000E+00        1.4800E-02        1.3764E-03

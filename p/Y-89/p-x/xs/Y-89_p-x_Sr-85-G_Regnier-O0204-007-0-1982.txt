@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0204-007-0 
-# EXFOR reaction        : ['39-Y-89', ['P,X'], '38-SR-85-G,CUM,SIG'] 
+# EXFOR reaction        : (39-Y-89(P,X)38-SR-85-G,CUM,SIG) 
 # incident energy       : 7.5000e+01 MeV - 2.4000e+04 MeV 
 # target                : Y-89 
 # product               : Sr-85-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.Regnier 
+# first author          : Regnier 
 # institute             : (2FR GRA): Centre d'Etudes Nucleaires de Bordeaux-Gradignan 
 # reference             : (J,PR/C,26,931,1982) 
 # year                  : 1982 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0204.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0204
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.50000E+01      0.00000E+00      1.70000E-02      7.00000E-03
-      1.68000E+02      0.00000E+00      3.90000E-02      8.00000E-03
-      2.00000E+02      0.00000E+00      4.60000E-02      9.00000E-03
-      1.00000E+03      0.00000E+00      5.00000E-02      2.20000E-02
-      2.50000E+03      0.00000E+00      3.45000E-02      9.30000E-03
-      2.40000E+04      0.00000E+00      1.82000E-02      3.60000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.5000E+01        0.0000E+00        1.7000E-02        7.0000E-03
+        1.6800E+02        0.0000E+00        3.9000E-02        8.0000E-03
+        2.0000E+02        0.0000E+00        4.6000E-02        9.0000E-03
+        1.0000E+03        0.0000E+00        5.0000E-02        2.2000E-02
+        2.5000E+03        0.0000E+00        3.4500E-02        9.3000E-03
+        2.4000E+04        0.0000E+00        1.8200E-02        3.6000E-03

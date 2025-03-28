@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21647-005-0 
-# EXFOR reaction        : ['71-LU-175', ['N,G'], '71-LU-176-M,,SIG,,SPA'] 
+# EXFOR reaction        : (71-LU-175(N,G)71-LU-176-M,,SIG,,SPA) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : Lu-175 
 # product               : Lu-176-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.Beer 
+# first author          : Beer 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,21,534,1980) 
 # year                  : 1980 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21647.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21647
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      0.00000E+00      9.06000E-01      5.40000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        9.0600E-01        5.4000E-02

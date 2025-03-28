@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22708-006-0 
-# EXFOR reaction        : ['27-CO-59', ['N,X'], '4-BE-7,,SIG,,SPA'] 
+# EXFOR reaction        : (27-CO-59(N,X)4-BE-7,,SIG,,SPA) 
 # incident energy       : 2.2500e+01 MeV 
 # target                : Co-59 
 # product               : Be-7 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : B.Scholten 
+# first author          : Scholten 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,RCA,62,107,1993) 
 # year                  : 1993 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22708.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22708
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.25000E+01      0.00000E+00      1.30000E-06      4.00000E-07
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2500E+01        0.0000E+00        1.3000E-06        4.0000E-07

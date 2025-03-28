@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D7038-002-0 
-# EXFOR reaction        : ['27-CO-59', ['P,4N'], '28-NI-56,,SIG'] 
+# EXFOR reaction        : (27-CO-59(P,4N)28-NI-56,,SIG) 
 # incident energy       : 3.6010e+01 MeV - 4.3670e+01 MeV 
 # target                : Co-59 
 # product               : Ni-56 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : M.Shahid 
+# first author          : Shahid 
 # institute             : (3KORKNU): Kyungpook National University, Daegu 
 # reference             : (J,NIM/B,466,102,2020) 
 # year                  : 2020 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D70/D7038.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D7038
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.36700E+01      2.30000E-01      2.81000E-04      2.20000E-05
-      4.27600E+01      2.30000E-01      2.73000E-04      2.20000E-05
-      4.18400E+01      2.30000E-01      2.06000E-04      1.70000E-05
-      4.09300E+01      2.30000E-01      1.76000E-04      1.50000E-05
-      4.00000E+01      2.40000E-01      1.20000E-04      1.10000E-05
-      3.90300E+01      2.50000E-01      7.20000E-05      7.00000E-06
-      3.80400E+01      2.50000E-01      5.60000E-05      6.00000E-06
-      3.70300E+01      2.50000E-01      2.90000E-05      3.00000E-06
-      3.60100E+01      2.50000E-01      2.40000E-05      3.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.3670E+01        2.3000E-01        2.8100E-04        2.2000E-05
+        4.2760E+01        2.3000E-01        2.7300E-04        2.2000E-05
+        4.1840E+01        2.3000E-01        2.0600E-04        1.7000E-05
+        4.0930E+01        2.3000E-01        1.7600E-04        1.5000E-05
+        4.0000E+01        2.4000E-01        1.2000E-04        1.1000E-05
+        3.9030E+01        2.5000E-01        7.2000E-05        7.0000E-06
+        3.8040E+01        2.5000E-01        5.6000E-05        6.0000E-06
+        3.7030E+01        2.5000E-01        2.9000E-05        3.0000E-06
+        3.6010E+01        2.5000E-01        2.4000E-05        3.0000E-06

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20541-003-0 
-# EXFOR reaction        : ['58-CE-138', ['N,2N'], '58-CE-137,,SIG'] 
+# EXFOR reaction        : (58-CE-138(N,2N)58-CE-137,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Ce-138 
 # product               : Ce-137 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.M.Qaim 
+# first author          : Qaim 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,NP/A,224,319,197405) 
 # year                  : 1974 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20541.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20541
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      3.00000E-01      1.91600E+00      1.88000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        1.9160E+00        1.8800E-01

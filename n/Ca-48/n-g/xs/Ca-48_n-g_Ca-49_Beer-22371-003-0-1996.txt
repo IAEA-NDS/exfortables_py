@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22371-003-0 
-# EXFOR reaction        : ['20-CA-48', ['N,G'], '20-CA-49,,SIG'] 
+# EXFOR reaction        : (20-CA-48(N,G)20-CA-49,,SIG) 
 # incident energy       : 1.5100e-01 MeV - 2.1800e-01 MeV 
 # target                : Ca-48 
 # product               : Ca-49 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.Beer 
+# first author          : Beer 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,54,(4),2014,199610) 
 # year                  : 1996 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22371.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22371
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.51000E-01      1.50000E-02      3.31000E-04      0.00000E+00
-      1.76000E-01      2.00000E-02      3.06000E-04      0.00000E+00
-      2.18000E-01      2.30000E-02      3.04000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5100E-01        1.5000E-02        3.3100E-04        0.0000E+00
+        1.7600E-01        2.0000E-02        3.0600E-04        0.0000E+00
+        2.1800E-01        2.3000E-02        3.0400E-04        0.0000E+00

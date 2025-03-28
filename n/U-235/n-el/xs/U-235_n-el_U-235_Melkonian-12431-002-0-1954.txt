@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12431-002-0 
-# EXFOR reaction        : ['92-U-235', ['N,EL'], '92-U-235,,SIG'] 
+# EXFOR reaction        : (92-U-235(N,EL)92-U-235,,SIG) 
 # incident energy       : 1.0000e-06 MeV 
 # target                : U-235 
 # product               : U-235 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : E.Melkonian 
+# first author          : Melkonian 
 # institute             : (1USACOL): Columbia University, New York, NY 
 # reference             : (W,MELKONIAN,54) 
 # year                  : 1954 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/124/12431.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12431
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E-06      0.00000E+00      1.13000E+01      1.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E-06        0.0000E+00        1.1300E+01        1.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 32228-029-0 
-# EXFOR reaction        : ['52-TE-126', ['N,INL'], '52-TE-126,PAR,SIG'] 
+# EXFOR reaction        : (52-TE-126(N,INL)52-TE-126,PAR,SIG) 
 # incident energy       : 1.5000e+00 MeV - 5.0000e+00 MeV 
 # target                : Te-126 
 # product               : Te-126 
 # level energy          : 6.6600e-01 MeV 
 # MF-MT number          : 3 - 51 
-# first author          : V.A.Mishchenko 
+# first author          : Mishchenko 
 # institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
 # reference             : (J,AE,67,(2),147,1989) 
 # year                  : 1989 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/322/32228.x4 
 # nds                   : https://nds.iaea.org/EXFOR/32228
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      8.30000E-01      1.10000E-01
-      2.00000E+00      0.00000E+00      8.65000E-01      1.00000E-01
-      2.50000E+00      0.00000E+00      7.10000E-01      7.50000E-02
-      3.00000E+00      0.00000E+00      5.00000E-01      7.00000E-02
-      5.00000E+00      0.00000E+00      1.54000E-01      5.40000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        8.3000E-01        1.1000E-01
+        2.0000E+00        0.0000E+00        8.6500E-01        1.0000E-01
+        2.5000E+00        0.0000E+00        7.1000E-01        7.5000E-02
+        3.0000E+00        0.0000E+00        5.0000E-01        7.0000E-02
+        5.0000E+00        0.0000E+00        1.5400E-01        5.4000E-02

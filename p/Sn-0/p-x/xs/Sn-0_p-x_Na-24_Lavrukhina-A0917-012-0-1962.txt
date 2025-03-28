@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0917-012-0 
-# EXFOR reaction        : ['50-SN-0', ['P,X'], '11-NA-24,,SIG'] 
+# EXFOR reaction        : (50-SN-0(P,X)11-NA-24,,SIG) 
 # incident energy       : 6.6000e+02 MeV 
 # target                : Sn-0 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.K.Lavrukhina 
+# first author          : Lavrukhina 
 # institute             : (4RUSGAC): Institute for Geo- and Analytical Chemistry, Moscow 
 # reference             : (J,ZET,43,3,1962) 
 # year                  : 1962 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0917.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0917
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.60000E+02      0.00000E+00      4.50000E-05      8.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6000E+02        0.0000E+00        4.5000E-05        8.0000E-06

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33086-003-0 
-# EXFOR reaction        : ['48-CD-111', ['N,INL'], '48-CD-111-M,,SIG,,,DERIV'] 
+# EXFOR reaction        : (48-CD-111(N,INL)48-CD-111-M,,SIG,,,DERIV) 
 # incident energy       : 1.1200e+00 MeV - 4.1200e+00 MeV 
 # target                : Cd-111 
 # product               : Cd-111-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : R.Ghosh 
+# first author          : Ghosh 
 # institute             : (3INDIND): India 
 # reference             : (J,JRN,307,1481,2016) 
 # year                  : 2016 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33086.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33086
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.12000E+00      1.10000E-01      1.37310E-01      1.32700E-02
-      2.12000E+00      1.50000E-01      2.35680E-01      2.05500E-02
-      3.12000E+00      2.10000E-01      3.35380E-01      1.78900E-02
-      4.12000E+00      2.20000E-01      4.36810E-01      3.39800E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1200E+00        1.1000E-01        1.3731E-01        1.3270E-02
+        2.1200E+00        1.5000E-01        2.3568E-01        2.0550E-02
+        3.1200E+00        2.1000E-01        3.3538E-01        1.7890E-02
+        4.1200E+00        2.2000E-01        4.3681E-01        3.3980E-02

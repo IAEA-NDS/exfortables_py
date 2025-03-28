@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0284-057-0 
-# EXFOR reaction        : ['26-FE-0', ['P,X'], '19-K-43,CUM,SIG'] 
+# EXFOR reaction        : (26-FE-0(P,X)19-K-43,CUM,SIG) 
 # incident energy       : 2.9900e+02 MeV - 3.9900e+02 MeV 
 # target                : Fe-0 
 # product               : K-43 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Th.Schiekel 
+# first author          : Schiekel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,114,91,1996) 
 # year                  : 1996 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0284.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0284
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.99000E+02      5.74000E-01      5.04000E-04      4.98000E-05
-      3.99000E+02      5.65000E-01      7.57000E-04      6.75000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9900E+02        5.7400E-01        5.0400E-04        4.9800E-05
+        3.9900E+02        5.6500E-01        7.5700E-04        6.7500E-05

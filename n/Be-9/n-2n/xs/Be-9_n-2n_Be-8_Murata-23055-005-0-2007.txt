@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23055-005-0 
-# EXFOR reaction        : ['4-BE-9', ['N,2N'], '4-BE-8,,SIG'] 
+# EXFOR reaction        : (4-BE-9(N,2N)4-BE-8,,SIG) 
 # incident energy       : 1.4200e+01 MeV 
 # target                : Be-9 
 # product               : Be-8 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : I.Murata 
+# first author          : Murata 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (C,2007NICE,2,999,200704) 
 # year                  : 2007 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23055.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23055
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+01      0.00000E+00      3.87000E-01      1.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        0.0000E+00        3.8700E-01        1.1000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2516-010-0 
-# EXFOR reaction        : ['57-LA-139', ['P,X'], '57-LA-135,CUM,SIG'] 
+# EXFOR reaction        : (57-LA-139(P,X)57-LA-135,CUM,SIG) 
 # incident energy       : 4.6960e+01 MeV - 8.8660e+01 MeV 
 # target                : La-139 
 # product               : La-135 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : K.V.Becker 
+# first author          : Becker 
 # institute             : (1USAWIS): University of Wisconsin, Madison, WI 
 # reference             : (J,NIM/B,468,81,2020) 
 # year                  : 2020 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C25/C2516.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2516
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.69600E+01      2.50000E+00      2.98900E-02      2.50000E-03
-      5.15800E+01      1.70000E+00      7.35500E-02      8.02000E-03
-      5.49300E+01      1.60000E+00      7.06700E-02      6.86000E-03
-      5.88700E+01      1.60000E+00      9.43800E-02      8.91000E-03
-      6.33200E+01      1.00000E+00      1.22880E-01      1.07900E-02
-      6.79900E+01      1.40000E+00      1.28540E-01      1.25200E-02
-      7.80500E+01      2.00000E-01      1.22910E-01      1.09400E-02
-      8.86600E+01      6.00000E-01      1.08130E-01      1.04100E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.6960E+01        2.5000E+00        2.9890E-02        2.5000E-03
+        5.1580E+01        1.7000E+00        7.3550E-02        8.0200E-03
+        5.4930E+01        1.6000E+00        7.0670E-02        6.8600E-03
+        5.8870E+01        1.6000E+00        9.4380E-02        8.9100E-03
+        6.3320E+01        1.0000E+00        1.2288E-01        1.0790E-02
+        6.7990E+01        1.4000E+00        1.2854E-01        1.2520E-02
+        7.8050E+01        2.0000E-01        1.2291E-01        1.0940E-02
+        8.8660E+01        6.0000E-01        1.0813E-01        1.0410E-02

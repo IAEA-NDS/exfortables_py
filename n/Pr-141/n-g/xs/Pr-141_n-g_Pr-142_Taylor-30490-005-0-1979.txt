@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30490-005-0 
-# EXFOR reaction        : ['59-PR-141', ['N,G'], '59-PR-142,,SIG,,MXW'] 
+# EXFOR reaction        : (59-PR-141(N,G)59-PR-142,,SIG,,MXW) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Pr-141 
 # product               : Pr-142 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.B.Taylor 
+# first author          : Taylor 
 # institute             : (3AULAUL): Australia 
 # reference             : (J,AUJ,32,551,1979) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30490.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30490
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      1.11000E-01      1.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        1.1100E-01        1.5000E-02

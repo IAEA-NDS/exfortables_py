@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22234-003-0 
-# EXFOR reaction        : ['27-CO-59', ['N,G'], '27-CO-60-M,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,G)27-CO-60-M,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Co-59 
 # product               : Co-60-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : I.Celenk 
+# first author          : Celenk 
 # institute             : (2TUKANR): Ankara Nuclear Research and Training Centre 
 # reference             : (J,JRN,148,393,1991) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22234.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22234
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      4.69400E+01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        4.6940E+01        0.0000E+00

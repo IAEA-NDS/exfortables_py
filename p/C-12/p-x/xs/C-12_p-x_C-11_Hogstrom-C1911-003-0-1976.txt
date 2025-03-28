@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1911-003-0 
-# EXFOR reaction        : ['6-C-12', ['P,X'], '6-C-11,,SIG'] 
+# EXFOR reaction        : (6-C-12(P,X)6-C-11,,SIG) 
 # incident energy       : 8.0000e+02 MeV 
 # target                : C-12 
 # product               : C-11 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : K.R.Hogstrom 
+# first author          : Hogstrom 
 # institute             : (1USARIC): Rice University, Houston, TX 
 # reference             : (J,PR/C,14,(2),753,1976) 
 # year                  : 1976 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C19/C1911.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1911
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.00000E+02      0.00000E+00      3.21000E-02      0.00000E+00
-      8.00000E+02      0.00000E+00      3.20000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+02        0.0000E+00        3.2100E-02        0.0000E+00
+        8.0000E+02        0.0000E+00        3.2000E-02        0.0000E+00

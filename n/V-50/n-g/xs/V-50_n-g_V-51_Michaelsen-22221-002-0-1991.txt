@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22221-002-0 
-# EXFOR reaction        : ['23-V-50', ['N,G'], '23-V-51,,SIG'] 
+# EXFOR reaction        : (23-V-50(N,G)23-V-51,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : V-50 
 # product               : V-51 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.Michaelsen 
+# first author          : Michaelsen 
 # institute             : (2FR ILL): Institut Laue-Langevin, Grenoble 
 # reference             : (J,ZP/A,338,(4),371,1991) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22221.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22221
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.10000E+01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.1000E+01        0.0000E+00

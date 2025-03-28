@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0411-009-3 
-# EXFOR reaction        : ['29-CU-0', ['P,X'], '25-MN-52-M,,SIG'] 
+# EXFOR reaction        : (29-CU-0(P,X)25-MN-52-M,,SIG) 
 # incident energy       : 1.5300e+02 MeV 
 # target                : Cu-0 
 # product               : Mn-52-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : I.B.Haller 
+# first author          : Haller 
 # institute             : (2SWDUPP): Uppsala University , Uppsala 
 # reference             : (J,JIN,19,1,1961) 
 # year                  : 1961 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O04/O0411.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0411
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.53000E+02      8.00000E+00      9.00000E-04      3.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5300E+02        8.0000E+00        9.0000E-04        3.0000E-04

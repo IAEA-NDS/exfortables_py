@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1242-013-0 
-# EXFOR reaction        : ['29-CU-63', ['P,X'], 'ELEM/MASS,CUM,SIG'] 
+# EXFOR reaction        : (29-CU-63(P,X)ELEM/MASS,CUM,SIG) 
 # incident energy       : 1.2000e+04 MeV 
 # target                : Cu-63 
 # product               : Cr-51 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Noguchi 
+# first author          : Noguchi 
 # institute             : (2JPNKEK): High Energy Accelerator Research Org. (KEK), Tsukuba 
 # reference             : (J,PR/C,38,(4),1811,198810) 
 # year                  : 1988 
@@ -13,5 +13,15 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E12/E1242.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1242
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.20000E+04      0.00000E+00      1.40000E-02      7.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E+04        0.0000E+00        4.2000E-04        2.0000E-05
+        1.2000E+04        0.0000E+00        7.1000E-04        4.0000E-05
+        1.2000E+04        0.0000E+00        2.2000E-03        1.3000E-04
+        1.2000E+04        0.0000E+00        1.7000E-03        3.0000E-04
+        1.2000E+04        0.0000E+00        6.6000E-03        3.0000E-04
+        1.2000E+04        0.0000E+00        1.4000E-02        7.0000E-04
+        1.2000E+04        0.0000E+00        1.5000E-03        1.3000E-04
+        1.2000E+04        0.0000E+00        5.1000E-03        3.0000E-04
+        1.2000E+04        0.0000E+00        1.6000E-02        3.0000E-03
+        1.2000E+04        0.0000E+00        5.7000E-04        4.0000E-05
+        1.2000E+04        0.0000E+00        8.0000E-03        8.0000E-04

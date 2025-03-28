@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11155-026-0 
-# EXFOR reaction        : ['73-TA-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (73-TA-0(N,TOT),,SIG) 
 # incident energy       : 7.0500e+00 MeV - 1.4450e+01 MeV 
 # target                : Ta-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : A.Bratenahl 
+# first author          : Bratenahl 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,110,927,195805) 
 # year                  : 1958 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/111/11155.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11155
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.05000E+00      1.70000E-01      5.27000E+00      1.10000E-01
-      8.67000E+00      0.00000E+00      5.06000E+00      1.00000E-01
-      1.02700E+01      0.00000E+00      5.15000E+00      1.00000E-01
-      1.24300E+01      0.00000E+00      5.16000E+00      1.00000E-01
-      1.44500E+01      7.00000E-02      5.28000E+00      1.10000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0500E+00        1.7000E-01        5.2700E+00        1.1000E-01
+        8.6700E+00        0.0000E+00        5.0600E+00        1.0000E-01
+        1.0270E+01        0.0000E+00        5.1500E+00        1.0000E-01
+        1.2430E+01        0.0000E+00        5.1600E+00        1.0000E-01
+        1.4450E+01        7.0000E-02        5.2800E+00        1.1000E-01

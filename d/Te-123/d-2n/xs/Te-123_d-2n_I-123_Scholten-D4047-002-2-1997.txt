@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4047-002-2 
-# EXFOR reaction        : ['52-TE-123', ['D,2N'], '53-I-123,,SIG'] 
+# EXFOR reaction        : (52-TE-123(D,2N)53-I-123,,SIG) 
 # incident energy       : 6.1500e+00 MeV - 8.9600e+00 MeV 
 # target                : Te-123 
 # product               : I-123 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : B.Scholten 
+# first author          : Scholten 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,ARI,48,267,1997) 
 # year                  : 1997 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4047.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4047
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.96000E+00      2.00000E-01      4.73800E-01      5.12000E-02
-      7.67000E+00      2.10000E-01      2.24400E-01      2.13000E-02
-      6.15000E+00      2.40000E-01      3.10000E-02      7.50000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.9600E+00        2.0000E-01        4.7380E-01        5.1200E-02
+        7.6700E+00        2.1000E-01        2.2440E-01        2.1300E-02
+        6.1500E+00        2.4000E-01        3.1000E-02        7.5000E-03

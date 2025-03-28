@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0284-033-0 
-# EXFOR reaction        : ['22-TI-0', ['P,X'], '21-SC-46-G,M+,SIG'] 
+# EXFOR reaction        : (22-TI-0(P,X)21-SC-46-G,M+,SIG) 
 # incident energy       : 2.4100e+02 MeV - 3.8700e+02 MeV 
 # target                : Ti-0 
 # product               : Sc-46-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Th.Schiekel 
+# first author          : Schiekel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,114,91,1996) 
 # year                  : 1996 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0284.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0284
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.41000E+02      1.52000E+00      3.02000E-02      2.06000E-03
-      2.42000E+02      1.51000E+00      3.00000E-02      1.95000E-03
-      2.84000E+02      9.55000E-01      3.03000E-02      1.59000E-03
-      2.85000E+02      9.49000E-01      3.07000E-02      1.61000E-03
-      3.51000E+02      1.49000E+00      3.10000E-02      1.64000E-03
-      3.86000E+02      9.37000E-01      3.10000E-02      1.73000E-03
-      3.87000E+02      9.35000E-01      3.16000E-02      1.70000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4100E+02        1.5200E+00        3.0200E-02        2.0600E-03
+        2.4200E+02        1.5100E+00        3.0000E-02        1.9500E-03
+        2.8400E+02        9.5500E-01        3.0300E-02        1.5900E-03
+        2.8500E+02        9.4900E-01        3.0700E-02        1.6100E-03
+        3.5100E+02        1.4900E+00        3.1000E-02        1.6400E-03
+        3.8600E+02        9.3700E-01        3.1000E-02        1.7300E-03
+        3.8700E+02        9.3500E-01        3.1600E-02        1.7000E-03

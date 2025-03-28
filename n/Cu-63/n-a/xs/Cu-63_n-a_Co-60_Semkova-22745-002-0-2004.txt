@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22745-002-0 
-# EXFOR reaction        : ['29-CU-63', ['N,A'], '27-CO-60,,SIG'] 
+# EXFOR reaction        : (29-CU-63(N,A)27-CO-60,,SIG) 
 # incident energy       : 1.3350e+01 MeV - 1.9970e+01 MeV 
 # target                : Cu-63 
 # product               : Co-60 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : V.Semkova 
+# first author          : Semkova 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (C,2004SANTA,1,1019,200409) 
 # year                  : 2004 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22745.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22745
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.33500E+01      2.56000E-02      4.50700E-02      2.16000E-03
-      1.60000E+01      2.56000E-02      3.21200E-02      2.02000E-03
-      1.62800E+01      2.56000E-02      3.00900E-02      2.02000E-03
-      1.71900E+01      2.56000E-02      2.82100E-02      2.16000E-03
-      1.75800E+01      2.56000E-02      2.18600E-02      0.00000E+00
-      1.82000E+01      2.56000E-02      1.79500E-02      0.00000E+00
-      1.90300E+01      2.56000E-02      1.40400E-02      0.00000E+00
-      1.99700E+01      2.56000E-02      1.20200E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3350E+01        2.5600E-02        4.5070E-02        2.1600E-03
+        1.6000E+01        2.5600E-02        3.2120E-02        2.0200E-03
+        1.6280E+01        2.5600E-02        3.0090E-02        2.0200E-03
+        1.7190E+01        2.5600E-02        2.8210E-02        2.1600E-03
+        1.7580E+01        2.5600E-02        2.1860E-02        0.0000E+00
+        1.8200E+01        2.5600E-02        1.7950E-02        0.0000E+00
+        1.9030E+01        2.5600E-02        1.4040E-02        0.0000E+00
+        1.9970E+01        2.5600E-02        1.2020E-02        0.0000E+00

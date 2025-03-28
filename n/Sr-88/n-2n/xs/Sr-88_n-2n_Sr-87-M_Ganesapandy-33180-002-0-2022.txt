@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33180-002-0 
-# EXFOR reaction        : ['38-SR-88', ['N,2N'], '38-SR-87-M,,SIG'] 
+# EXFOR reaction        : (38-SR-88(N,2N)38-SR-87-M,,SIG) 
 # incident energy       : 1.4770e+01 MeV 
 # target                : Sr-88 
 # product               : Sr-87-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : T.S.Ganesapandy 
+# first author          : Ganesapandy 
 # institute             : (3INDIND): India 
 # reference             : (J,NP/A,1023,122445,2022) 
 # year                  : 2022 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33180.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33180
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47700E+01      1.70000E-01      2.77200E-04      3.80000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4770E+01        1.7000E-01        2.7720E-01        3.8000E-03

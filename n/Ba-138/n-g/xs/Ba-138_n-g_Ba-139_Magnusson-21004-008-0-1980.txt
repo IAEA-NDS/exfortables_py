@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21004-008-0 
-# EXFOR reaction        : ['56-BA-138', ['N,G'], '56-BA-139,,SIG'] 
+# EXFOR reaction        : (56-BA-138(N,G)56-BA-139,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Ba-138 
 # product               : Ba-139 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : G.Magnusson 
+# first author          : Magnusson 
 # institute             : (2SWDLND): Lund University + Tech.University  
 # reference             : (J,PS,21,(1),21,8001) 
 # year                  : 1980 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21004.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21004
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      3.00000E-01      1.21000E-03      2.10000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        1.2100E-03        2.1000E-04

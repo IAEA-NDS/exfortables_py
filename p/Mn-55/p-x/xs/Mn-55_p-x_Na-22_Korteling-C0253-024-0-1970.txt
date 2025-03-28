@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0253-024-0 
-# EXFOR reaction        : ['25-MN-55', ['P,X'], '11-NA-22,,SIG'] 
+# EXFOR reaction        : (25-MN-55(P,X)11-NA-22,,SIG) 
 # incident energy       : 1.0000e+02 MeV 
 # target                : Mn-55 
 # product               : Na-22 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.G.Korteling 
+# first author          : Korteling 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,PR/C,1,1960,70) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0253.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0253
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+02      1.00000E+01      9.80000E-06      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+02        1.0000E+01        9.8000E-06        0.0000E+00

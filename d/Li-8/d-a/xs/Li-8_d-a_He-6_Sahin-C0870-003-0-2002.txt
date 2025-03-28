@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0870-003-0 
-# EXFOR reaction        : ['3-LI-8', ['D,A'], '2-HE-6,,SIG'] 
+# EXFOR reaction        : (3-LI-8(D,A)2-HE-6,,SIG) 
 # incident energy       : 2.3000e+00 MeV - 3.5000e+00 MeV 
 # target                : Li-8 
 # product               : He-6 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : L.Sahin 
+# first author          : Sahin 
 # institute             : (1USAOSU): Ohio State University, Columbus, OH 
 # reference             : (J,PR/C,65,038801,200203) 
 # year                  : 2002 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C08/C0870.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0870
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.50000E+00      3.00000E-01      5.12700E-04      4.77800E-04
-      2.90000E+00      3.00000E-01      1.47400E-04      5.52700E-04
-      2.30000E+00      3.00000E-01      3.93100E-04      4.87200E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5000E+00        3.0000E-01        5.1270E-04        4.7780E-04
+        2.9000E+00        3.0000E-01        1.4740E-04        5.5270E-04
+        2.3000E+00        3.0000E-01        3.9310E-04        4.8720E-04

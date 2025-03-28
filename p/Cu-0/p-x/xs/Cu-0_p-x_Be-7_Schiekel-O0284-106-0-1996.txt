@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0284-106-0 
-# EXFOR reaction        : ['29-CU-0', ['P,X'], '4-BE-7,,SIG'] 
+# EXFOR reaction        : (29-CU-0(P,X)4-BE-7,,SIG) 
 # incident energy       : 2.2600e+02 MeV - 3.3800e+02 MeV 
 # target                : Cu-0 
 # product               : Be-7 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Th.Schiekel 
+# first author          : Schiekel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,114,91,1996) 
 # year                  : 1996 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0284.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0284
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.26000E+02      1.80000E+00      2.88000E-04      1.14000E-04
-      2.71000E+02      1.28000E+00      5.44000E-04      1.36000E-04
-      3.38000E+02      1.74000E+00      7.33000E-04      1.53000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2600E+02        1.8000E+00        2.8800E-04        1.1400E-04
+        2.7100E+02        1.2800E+00        5.4400E-04        1.3600E-04
+        3.3800E+02        1.7400E+00        7.3300E-04        1.5300E-04

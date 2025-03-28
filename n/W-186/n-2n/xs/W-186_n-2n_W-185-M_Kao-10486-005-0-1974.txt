@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10486-005-0 
-# EXFOR reaction        : ['74-W-186', ['N,2N'], '74-W-185-M,,SIG'] 
+# EXFOR reaction        : (74-W-186(N,2N)74-W-185-M,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : W-186 
 # product               : W-185-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : H.C.Kao 
+# first author          : Kao 
 # institute             : (1USAWKU): Western Kentucky University, Bowling Green, KY 
 # reference             : (J,BAP,19,700(EC7),197405) 
 # year                  : 1974 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10486.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10486
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      3.00000E-01      6.02000E-01      7.40000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        6.0200E-01        7.4000E-02

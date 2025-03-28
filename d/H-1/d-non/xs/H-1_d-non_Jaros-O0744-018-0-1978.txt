@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0744-018-0 
-# EXFOR reaction        : ['1-H-1', ['D,NON'], ',,SIG'] 
+# EXFOR reaction        : (1-H-1(D,NON),,SIG) 
 # incident energy       : 2.1000e-06 MeV 
 # target                : H-1 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : J.Jaros 
+# first author          : Jaros 
 # institute             : (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
 # reference             : (J,PR/C,18,2273,1978) 
 # year                  : 1978 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0744.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0744
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.10000E-06      0.00000E+00      6.00000E-02      1.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1000E-06        0.0000E+00        6.0000E-02        1.6000E-02

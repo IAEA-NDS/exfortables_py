@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2200-023-0 
-# EXFOR reaction        : ['65-TB-159', ['P,X'], '63-EU-145,CUM,SIG'] 
+# EXFOR reaction        : (65-TB-159(P,X)63-EU-145,CUM,SIG) 
 # incident energy       : 1.2130e+02 MeV - 1.9620e+02 MeV 
 # target                : Tb-159 
 # product               : Eu-145 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.W.Engle 
+# first author          : Engle 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,NIM/B,366,206,2016) 
 # year                  : 2016 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C22/C2200.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2200
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.21300E+02      2.30000E+00      2.50000E-03      2.00000E-04
-      1.42500E+02      2.00000E+00      1.29000E-02      1.00000E-03
-      1.61700E+02      1.50000E+00      2.00000E-02      1.50000E-03
-      1.79500E+02      1.10000E+00      2.48000E-02      1.80000E-03
-      1.96200E+02      4.00000E-01      2.52000E-02      1.80000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2130E+02        2.3000E+00        2.5000E-03        2.0000E-04
+        1.4250E+02        2.0000E+00        1.2900E-02        1.0000E-03
+        1.6170E+02        1.5000E+00        2.0000E-02        1.5000E-03
+        1.7950E+02        1.1000E+00        2.4800E-02        1.8000E-03
+        1.9620E+02        4.0000E-01        2.5200E-02        1.8000E-03

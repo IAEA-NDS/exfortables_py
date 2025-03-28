@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41053-003-0 
-# EXFOR reaction        : ['5-B-10', ['N,X'], '1-H-3,,SIG'] 
+# EXFOR reaction        : (5-B-10(N,X)1-H-3,,SIG) 
 # incident energy       : 4.2000e-01 MeV 
 # target                : B-10 
 # product               : H-3 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : N.V.Kornilov 
+# first author          : Kornilov 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : ((J,YK,,(1),11,1990)=(R,INDC(CCP)-318,11,1990)) 
 # year                  : 1990 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/410/41053.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41053
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.20000E-01      0.00000E+00      5.00000E-03      2.40000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.2000E-01        0.0000E+00        5.0000E-03        2.4000E-03

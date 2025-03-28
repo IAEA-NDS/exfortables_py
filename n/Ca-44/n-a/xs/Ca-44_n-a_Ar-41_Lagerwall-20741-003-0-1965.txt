@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20741-003-0 
-# EXFOR reaction        : ['20-CA-44', ['N,A'], '18-AR-41,,SIG,,FIS'] 
+# EXFOR reaction        : (20-CA-44(N,A)18-AR-41,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Ca-44 
 # product               : Ar-41 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : T.Lagerwall 
+# first author          : Lagerwall 
 # institute             : (2GERBER): Hahn-Meitner-Institute , Berlin 
 # reference             : (J,ZN/A,20,1583,6512) 
 # year                  : 1965 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20741.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20741
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      6.11000E-02      9.20000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        6.1100E-02        9.2000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0532-004-0 
-# EXFOR reaction        : ['95-AM-243', ['P,3N'], '96-CM-241-L,,SIG'] 
+# EXFOR reaction        : (95-AM-243(P,3N)96-CM-241-L,,SIG) 
 # incident energy       : 2.0000e+01 MeV 
 # target                : Am-243 
 # product               : Cm-241-L 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : R.Repnow 
+# first author          : Repnow 
 # institute             : (2GERMPH): Max-Planck-Institut fuer Kernphysik, Heidelberg 
 # reference             : (J,ZP,243,418,1971) 
 # year                  : 1971 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D05/D0532.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0532
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+01      0.00000E+00      1.00000E-07      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+01        0.0000E+00        1.0000E-07        0.0000E+00

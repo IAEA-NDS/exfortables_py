@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1099-282-0 
-# EXFOR reaction        : ['83-BI-209', ['P,3N'], '84-PO-207,,SIG'] 
+# EXFOR reaction        : (83-BI-209(P,3N)84-PO-207,,SIG) 
 # incident energy       : 8.6000e+01 MeV - 5.5100e+02 MeV 
 # target                : Bi-209 
 # product               : Po-207 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERUH): University Hannover (previously Tech.University Hannover) 
 # reference             : (J,NSTS,2,242,2002) 
 # year                  : 2002 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O10/O1099.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1099
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.60000E+01      1.68000E+00      5.37500E-02      8.74600E-03
-      1.00800E+02      2.00800E+00      5.00300E-02      1.04500E-02
-      1.05000E+02      1.42000E+00      4.70900E-02      9.92000E-03
-      1.21000E+02      1.25000E+00      5.40300E-02      9.15300E-03
-      1.28000E+02      1.08000E+00      5.38100E-02      1.05400E-02
-      1.32800E+02      1.85700E+00      4.83800E-02      8.83200E-03
-      5.51000E+02      1.69000E+00      1.32000E-02      3.05400E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.6000E+01        1.6800E+00        5.3750E-02        8.7460E-03
+        1.0080E+02        2.0080E+00        5.0030E-02        1.0450E-02
+        1.0500E+02        1.4200E+00        4.7090E-02        9.9200E-03
+        1.2100E+02        1.2500E+00        5.4030E-02        9.1530E-03
+        1.2800E+02        1.0800E+00        5.3810E-02        1.0540E-02
+        1.3280E+02        1.8570E+00        4.8380E-02        8.8320E-03
+        5.5100E+02        1.6900E+00        1.3200E-02        3.0540E-03

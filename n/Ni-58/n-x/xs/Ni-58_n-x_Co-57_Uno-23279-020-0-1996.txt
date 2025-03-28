@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23279-020-0 
-# EXFOR reaction        : ['28-NI-58', ['N,X'], '27-CO-57,,SIG'] 
+# EXFOR reaction        : (28-NI-58(N,X)27-CO-57,,SIG) 
 # incident energy       : 1.7550e+01 MeV - 3.0090e+01 MeV 
 # target                : Ni-58 
 # product               : Co-57 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Y.Uno 
+# first author          : Uno 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (C,96PRAHA,,465,1996) 
 # year                  : 1996 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23279.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23279
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.75500E+01      0.00000E+00      6.91160E-01      2.79000E-02
-      1.98400E+01      0.00000E+00      7.57030E-01      3.03800E-02
-      2.26600E+01      0.00000E+00      6.94730E-01      3.15500E-02
-      2.49900E+01      0.00000E+00      6.45750E-01      2.58500E-02
-      2.77900E+01      0.00000E+00      5.33780E-01      2.14200E-02
-      3.00900E+01      0.00000E+00      3.85110E-01      1.55400E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7550E+01        0.0000E+00        6.9116E-01        2.7900E-02
+        1.9840E+01        0.0000E+00        7.5703E-01        3.0380E-02
+        2.2660E+01        0.0000E+00        6.9473E-01        3.1550E-02
+        2.4990E+01        0.0000E+00        6.4575E-01        2.5850E-02
+        2.7790E+01        0.0000E+00        5.3378E-01        2.1420E-02
+        3.0090E+01        0.0000E+00        3.8511E-01        1.5540E-02

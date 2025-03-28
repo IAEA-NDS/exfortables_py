@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0073-013-0 
-# EXFOR reaction        : ['28-NI-0', ['P,X'], '23-V-48,CUM,SIG'] 
+# EXFOR reaction        : (28-NI-0(P,X)23-V-48,CUM,SIG) 
 # incident energy       : 1.3000e+02 MeV - 3.9600e+02 MeV 
 # target                : Ni-0 
 # product               : V-48 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : G.V.S.Rayudu 
+# first author          : Rayudu 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,CJC,42,1149,1964) 
 # year                  : 1964 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0073.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0073
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.30000E+02      1.30000E+01      3.50000E-03      0.00000E+00
-      2.08000E+02      2.08000E+01      4.62000E-03      0.00000E+00
-      2.97000E+02      1.48500E+01      6.50000E-03      0.00000E+00
-      3.96000E+02      1.98000E+01      7.50000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3000E+02        1.3000E+01        3.5000E-03        0.0000E+00
+        2.0800E+02        2.0800E+01        4.6200E-03        0.0000E+00
+        2.9700E+02        1.4850E+01        6.5000E-03        0.0000E+00
+        3.9600E+02        1.9800E+01        7.5000E-03        0.0000E+00

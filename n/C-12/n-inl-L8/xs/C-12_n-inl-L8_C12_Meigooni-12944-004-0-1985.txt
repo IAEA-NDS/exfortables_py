@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12944-004-0 
-# EXFOR reaction        : ['6-C-12', ['N,INL'], '6-C-12,PAR,SIG'] 
+# EXFOR reaction        : (6-C-12(N,INL)6-C-12,PAR,SIG) 
 # incident energy       : 2.2000e+01 MeV - 2.4000e+01 MeV 
 # target                : C-12 
 # product               : C-12 
 # level energy          : 1.1800e+01 MeV 
 # MF-MT number          : 3 - 58 
-# first author          : A.S.Meigooni 
+# first author          : Meigooni 
 # institute             : (1USAOHO): Ohio University, Athens, OH 
 # reference             : (J,NP/A,445,304,198512) 
 # year                  : 1985 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12944.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12944
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.20000E+01      0.00000E+00      5.52000E-03      4.00000E-04
-      2.40000E+01      0.00000E+00      2.71000E-03      3.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2000E+01        0.0000E+00        5.5200E-03        4.0000E-04
+        2.4000E+01        0.0000E+00        2.7100E-03        3.0000E-04

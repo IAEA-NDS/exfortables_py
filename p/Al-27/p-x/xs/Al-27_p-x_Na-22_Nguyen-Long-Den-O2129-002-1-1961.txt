@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2129-002-1 
-# EXFOR reaction        : ['13-AL-27', ['P,X'], '11-NA-22,,SIG'] 
+# EXFOR reaction        : (13-AL-27(P,X)11-NA-22,,SIG) 
 # incident energy       : 1.5500e+02 MeV 
 # target                : Al-27 
 # product               : Na-22 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Nguyen-Long-Den 
+# first author          : Nguyen-Long-Den 
 # institute             : (2FR PAR): Universite de Paris 
 # reference             : (J,CR,253,2919,1961) 
 # year                  : 1961 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2129.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2129
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.55000E+02      0.00000E+00      1.75000E-02      6.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5500E+02        0.0000E+00        1.7500E-02        6.0000E-04

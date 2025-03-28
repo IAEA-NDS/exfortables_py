@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10359-005-0 
-# EXFOR reaction        : ['62-SM-144', ['N,2N'], '62-SM-143,,SIG'] 
+# EXFOR reaction        : (62-SM-144(N,2N)62-SM-143,,SIG) 
 # incident energy       : 1.4900e+01 MeV - 1.6700e+01 MeV 
 # target                : Sm-144 
 # product               : Sm-143 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.K.Ghorai 
+# first author          : Ghorai 
 # institute             : (1USAUSA): United States of America 
 # reference             : (J,NP/A,223,118,1974) 
 # year                  : 1974 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/103/10359.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10359
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49000E+01      3.00000E-01      1.20200E+00      1.30000E-01
-      1.55000E+01      3.00000E-01      1.30000E+00      1.41000E-01
-      1.64000E+01      5.00000E-01      1.51600E+00      1.79000E-01
-      1.67000E+01      2.00000E-01      1.51400E+00      1.79000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4900E+01        3.0000E-01        1.2020E+00        1.3000E-01
+        1.5500E+01        3.0000E-01        1.3000E+00        1.4100E-01
+        1.6400E+01        5.0000E-01        1.5160E+00        1.7900E-01
+        1.6700E+01        2.0000E-01        1.5140E+00        1.7900E-01

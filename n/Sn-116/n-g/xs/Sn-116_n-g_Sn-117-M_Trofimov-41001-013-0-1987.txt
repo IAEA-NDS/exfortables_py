@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41001-013-0 
-# EXFOR reaction        : ['50-SN-116', ['N,G'], '50-SN-117-M,,SIG'] 
+# EXFOR reaction        : (50-SN-116(N,G)50-SN-117-M,,SIG) 
 # incident energy       : 1.0000e+00 MeV 
 # target                : Sn-116 
 # product               : Sn-117-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : Yu.N.Trofimov 
+# first author          : Trofimov 
 # institute             : (4RUSRI ): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (C,87KIEV,3,331,198709) 
 # year                  : 1987 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/410/41001.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41001
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      4.10000E-03      6.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        4.1000E-03        6.0000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : S0207-016-0 
-# EXFOR reaction        : ['74-W-0', ['P,X'], '73-TA-176,CUM,SIG'] 
+# EXFOR reaction        : (74-W-0(P,X)73-TA-176,CUM,SIG) 
 # incident energy       : 2.5000e+02 MeV 
 # target                : W-0 
 # product               : Ta-176 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Y.Q.Ju 
+# first author          : Ju 
 # institute             : (3CPRCPR): China, People's Rep. 
 # reference             : (J,JP/G,42,125102,2015) 
 # year                  : 2015 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S02/S0207.x4 
 # nds                   : https://nds.iaea.org/EXFOR/S0207
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E+02      0.00000E+00      3.64300E-02      8.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+02        0.0000E+00        3.6430E-02        8.0000E-04

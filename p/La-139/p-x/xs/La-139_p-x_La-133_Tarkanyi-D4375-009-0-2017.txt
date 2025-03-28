@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4375-009-0 
-# EXFOR reaction        : ['57-LA-139', ['P,X'], '57-LA-133,CUM,SIG'] 
+# EXFOR reaction        : (57-LA-139(P,X)57-LA-133,CUM,SIG) 
 # incident energy       : 6.2020e+01 MeV - 6.4090e+01 MeV 
 # target                : La-139 
 # product               : La-133 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,JRN,312,691,2017) 
 # year                  : 2017 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4375.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4375
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.20200E+01      2.30000E-01      7.52000E-03      2.06000E-03
-      6.40900E+01      2.00000E-01      2.07500E-02      3.66000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.2020E+01        2.3000E-01        7.5200E-03        2.0600E-03
+        6.4090E+01        2.0000E-01        2.0750E-02        3.6600E-03

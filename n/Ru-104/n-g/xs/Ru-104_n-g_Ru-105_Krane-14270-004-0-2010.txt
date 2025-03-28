@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14270-004-0 
-# EXFOR reaction        : ['44-RU-104', ['N,G'], '44-RU-105,,SIG,,MXW'] 
+# EXFOR reaction        : (44-RU-104(N,G)44-RU-105,,SIG,,MXW) 
 # incident energy       : 2.5000e-08 MeV 
 # target                : Ru-104 
 # product               : Ru-105 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : K.S.Krane 
+# first author          : Krane 
 # institute             : (1USAORU): Oregon State University, Corvallis, OR 
 # reference             : (J,PR/C,81,044310,2010) 
 # year                  : 2010 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/142/14270.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14270
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-08      0.00000E+00      4.68000E-01      1.90000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-08        0.0000E+00        4.6800E-01        1.9000E-02

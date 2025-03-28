@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20033-008-0 
-# EXFOR reaction        : ['39-Y-89', ['N,2N'], '39-Y-88,,SIG'] 
+# EXFOR reaction        : (39-Y-89(N,2N)39-Y-88,,SIG) 
 # incident energy       : 1.4050e+01 MeV - 1.4700e+01 MeV 
 # target                : Y-89 
 # product               : Y-88 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : R.Rieder 
+# first author          : Rieder 
 # institute             : (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
 # reference             : (J,APA,23,42,1966) 
 # year                  : 1966 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20033.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20033
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40500E+01      5.00000E-02      9.15000E-01      4.57500E-02
-      1.47000E+01      1.00000E-01      1.01500E+00      5.07500E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4050E+01        5.0000E-02        9.1500E-01        4.5750E-02
+        1.4700E+01        1.0000E-01        1.0150E+00        5.0750E-02

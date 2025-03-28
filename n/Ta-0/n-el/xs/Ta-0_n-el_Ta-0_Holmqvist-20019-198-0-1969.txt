@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20019-198-0 
-# EXFOR reaction        : ['73-TA-0', ['N,EL'], '73-TA-0,,SIG'] 
+# EXFOR reaction        : (73-TA-0(N,EL)73-TA-0,,SIG) 
 # incident energy       : 2.4700e+00 MeV - 8.0500e+00 MeV 
 # target                : Ta-0 
 # product               : Ta-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : B.Holmqvist 
+# first author          : Holmqvist 
 # institute             : (2SWDAE ): Studsvik Energiteknik AB 
 # reference             : (R,AE-366,1969) 
 # year                  : 1969 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20019.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20019
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.47000E+00      5.00000E-02      3.37000E+00      1.70000E-01
-      3.00000E+00      5.00000E-02      3.07000E+00      1.50000E-01
-      3.49000E+00      5.00000E-02      2.94000E+00      1.50000E-01
-      4.56000E+00      5.00000E-02      3.52000E+00      1.80000E-01
-      6.09000E+00      9.00000E-02      2.39000E+00      1.20000E-01
-      7.05000E+00      9.00000E-02      2.25000E+00      1.10000E-01
-      8.05000E+00      9.00000E-02      2.34000E+00      1.20000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4700E+00        5.0000E-02        3.3700E+00        1.7000E-01
+        3.0000E+00        5.0000E-02        3.0700E+00        1.5000E-01
+        3.4900E+00        5.0000E-02        2.9400E+00        1.5000E-01
+        4.5600E+00        5.0000E-02        3.5200E+00        1.8000E-01
+        6.0900E+00        9.0000E-02        2.3900E+00        1.2000E-01
+        7.0500E+00        9.0000E-02        2.2500E+00        1.1000E-01
+        8.0500E+00        9.0000E-02        2.3400E+00        1.2000E-01

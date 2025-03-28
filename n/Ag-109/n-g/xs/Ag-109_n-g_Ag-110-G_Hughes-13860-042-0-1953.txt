@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13860-042-0 
-# EXFOR reaction        : ['47-AG-109', ['N,G'], '47-AG-110-G,,SIG,,FIS'] 
+# EXFOR reaction        : (47-AG-109(N,G)47-AG-110-G,,SIG,,FIS) 
 # incident energy       : 1.0000e+00 MeV 
 # target                : Ag-109 
 # product               : Ag-110-G 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : D.J.Hughes 
+# first author          : Hughes 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR,91,1423,1953) 
 # year                  : 1953 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/138/13860.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13860
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      1.74000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        1.7400E-01        0.0000E+00

@@ -1,26 +1,26 @@
 # entry-subent-pointer  : D5021-007-0 
-# EXFOR reaction        : ['29-CU-63', ['P,G'], '30-ZN-64,PAR,SIG'] 
+# EXFOR reaction        : (29-CU-63(P,G)30-ZN-64,PAR,SIG) 
 # incident energy       : 1.4484e+00 MeV - 3.2145e+00 MeV 
 # target                : Cu-63 
 # product               : Zn-64 
 # level energy          : 2.9800e+00 MeV 
 # MF-MT number          : 3 - 8 
-# first author          : B.A.Nemashkalo 
+# first author          : Nemashkalo 
 # institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
-# reference             : (J,IZV,67,1556,2003) 
+# reference             : (J,BAS,67,1717,2003) 
 # year                  : 2003 
 # facility              : (VDG): Van de Graaff 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D50/D5021.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D5021
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.44840E+00      0.00000E+00      4.95690E-07      1.62210E-07
-      1.60970E+00      0.00000E+00      1.00370E-06      3.28350E-07
-      1.80380E+00      0.00000E+00      1.60430E-06      5.44890E-07
-      1.99810E+00      0.00000E+00      2.73960E-06      1.00090E-06
-      2.20450E+00      0.00000E+00      2.53280E-06      8.28600E-07
-      2.40990E+00      0.00000E+00      6.30760E-06      2.14290E-06
-      2.60820E+00      0.00000E+00      8.75120E-06      2.75470E-06
-      2.80970E+00      0.00000E+00      7.86520E-06      2.77280E-06
-      3.00800E+00      0.00000E+00      1.07080E-05      3.63790E-06
-      3.21450E+00      0.00000E+00      1.02810E-05      3.23420E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4484E+00        0.0000E+00        4.9569E-07        1.6221E-07
+        1.6097E+00        0.0000E+00        1.0037E-06        3.2835E-07
+        1.8038E+00        0.0000E+00        1.6043E-06        5.4489E-07
+        1.9981E+00        0.0000E+00        2.7396E-06        1.0009E-06
+        2.2045E+00        0.0000E+00        2.5328E-06        8.2860E-07
+        2.4099E+00        0.0000E+00        6.3076E-06        2.1429E-06
+        2.6082E+00        0.0000E+00        8.7512E-06        2.7547E-06
+        2.8097E+00        0.0000E+00        7.8652E-06        2.7728E-06
+        3.0080E+00        0.0000E+00        1.0708E-05        3.6379E-06
+        3.2145E+00        0.0000E+00        1.0281E-05        3.2342E-06

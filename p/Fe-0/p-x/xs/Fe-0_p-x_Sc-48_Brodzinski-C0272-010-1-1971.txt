@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0272-010-1 
-# EXFOR reaction        : ['26-FE-0', ['P,X'], '21-SC-48,,SIG'] 
+# EXFOR reaction        : (26-FE-0(P,X)21-SC-48,,SIG) 
 # incident energy       : 4.4600e+01 MeV - 5.8500e+02 MeV 
 # target                : Fe-0 
 # product               : Sc-48 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.L.Brodzinski 
+# first author          : Brodzinski 
 # institute             : (1USABAT): Battelle Memorial Institute, Columbus, OH 
 # reference             : (J,PR/C,4,1257,1971) 
 # year                  : 1971 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0272.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0272
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.46000E+01      0.00000E+00      2.16000E-05      6.70000E-06
-      5.85000E+02      0.00000E+00      2.36000E-04      7.60000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.4600E+01        0.0000E+00        2.1600E-05        6.7000E-06
+        5.8500E+02        0.0000E+00        2.3600E-04        7.6000E-05

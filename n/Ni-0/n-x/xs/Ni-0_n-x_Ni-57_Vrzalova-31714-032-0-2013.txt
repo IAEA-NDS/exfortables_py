@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31714-032-0 
-# EXFOR reaction        : ['28-NI-0', ['N,X'], '28-NI-57,,SIG'] 
+# EXFOR reaction        : (28-NI-0(N,X)28-NI-57,,SIG) 
 # incident energy       : 1.7500e+01 MeV - 3.5900e+01 MeV 
 # target                : Ni-0 
 # product               : Ni-57 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.Vrzalova 
+# first author          : Vrzalova 
 # institute             : (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
 # reference             : (J,NIM/A,726,84,2013) 
 # year                  : 2013 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31714.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31714
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.75000E+01      8.00000E-01      3.10000E-02      4.00000E-03
-      3.04000E+01      8.00000E-01      3.90000E-02      6.00000E-03
-      3.59000E+01      8.00000E-01      3.10000E-02      4.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7500E+01        8.0000E-01        3.1000E-02        4.0000E-03
+        3.0400E+01        8.0000E-01        3.9000E-02        6.0000E-03
+        3.5900E+01        8.0000E-01        3.1000E-02        4.0000E-03

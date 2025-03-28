@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M0951-009-0 
-# EXFOR reaction        : ['9-F-19', ['G,P'], '8-O-18,PAR,SIG,,BRS'] 
+# EXFOR reaction        : (9-F-19(G,P)8-O-18,PAR,SIG,,BRS) 
 # incident energy       : 2.0800e+01 MeV - 2.5100e+01 MeV 
 # target                : F-19 
 # product               : O-18 
 # level energy          : 5.2600e+00 MeV 
 # MF-MT number          : 3 - 606 
-# first author          : E.Kerkhove 
+# first author          : Kerkhove 
 # institute             : (2BLGGHT): Universiteit Gent, Gent 
 # reference             : (J,PR/C,32,368,1985) 
 # year                  : 1985 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M09/M0951.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M0951
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.08000E+01      0.00000E+00     -7.73000E-04      0.00000E+00
-      2.15000E+01      0.00000E+00      2.21700E-03      0.00000E+00
-      2.23000E+01      0.00000E+00      3.20700E-03      0.00000E+00
-      2.30000E+01      0.00000E+00      3.61300E-03      0.00000E+00
-      2.37000E+01      0.00000E+00      6.43000E-04      0.00000E+00
-      2.43000E+01      0.00000E+00      1.80600E-03      0.00000E+00
-      2.51000E+01      0.00000E+00      5.41900E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0800E+01        0.0000E+00       -7.7300E-04        0.0000E+00
+        2.1500E+01        0.0000E+00        2.2170E-03        0.0000E+00
+        2.2300E+01        0.0000E+00        3.2070E-03        0.0000E+00
+        2.3000E+01        0.0000E+00        3.6130E-03        0.0000E+00
+        2.3700E+01        0.0000E+00        6.4300E-04        0.0000E+00
+        2.4300E+01        0.0000E+00        1.8060E-03        0.0000E+00
+        2.5100E+01        0.0000E+00        5.4190E-03        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23032-013-0 
-# EXFOR reaction        : ['42-MO-92', ['N,P'], '41-NB-92-M,,SIG'] 
+# EXFOR reaction        : (42-MO-92(N,P)41-NB-92-M,,SIG) 
 # incident energy       : 4.4900e+00 MeV - 5.8400e+00 MeV 
 # target                : Mo-92 
 # product               : Nb-92-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.Furuta 
+# first author          : Furuta 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : (J,ANE,35,1652,2008) 
 # year                  : 2008 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23032.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23032
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.84000E+00      0.00000E+00      4.74000E-02      8.53200E-03
-      5.26000E+00      0.00000E+00      4.74000E-02      5.21400E-03
-      4.59000E+00      0.00000E+00      3.22000E-02      3.22000E-03
-      4.49000E+00      0.00000E+00      2.60000E-02      2.86000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.8400E+00        0.0000E+00        4.7400E-02        8.5320E-03
+        5.2600E+00        0.0000E+00        4.7400E-02        5.2140E-03
+        4.5900E+00        0.0000E+00        3.2200E-02        3.2200E-03
+        4.4900E+00        0.0000E+00        2.6000E-02        2.8600E-03

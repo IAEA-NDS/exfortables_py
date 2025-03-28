@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22838-009-0 
-# EXFOR reaction        : ['49-IN-113', ['N,INL'], '49-IN-113-M,,SIG'] 
+# EXFOR reaction        : (49-IN-113(N,INL)49-IN-113-M,,SIG) 
 # incident energy       : 2.0900e+00 MeV - 3.0900e+00 MeV 
 # target                : In-113 
 # product               : In-113-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : T.Shimizu 
+# first author          : Shimizu 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : ((S,JAERI-C-2003-006,138,2003)=(S,INDC(JPN)-191/U,138,2003)) 
 # year                  : 2003 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22838.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22838
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.09000E+00      0.00000E+00      2.20000E-01      1.07800E-02
-      2.90000E+00      0.00000E+00      2.19000E-01      1.00740E-02
-      2.69000E+00      0.00000E+00      2.26000E-01      1.13000E-02
-      2.46000E+00      0.00000E+00      2.33000E-01      1.09510E-02
-      2.27000E+00      0.00000E+00      2.05000E-01      9.43000E-03
-      2.09000E+00      0.00000E+00      1.73000E-01      7.61200E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0900E+00        0.0000E+00        2.2000E-01        1.0780E-02
+        2.9000E+00        0.0000E+00        2.1900E-01        1.0074E-02
+        2.6900E+00        0.0000E+00        2.2600E-01        1.1300E-02
+        2.4600E+00        0.0000E+00        2.3300E-01        1.0951E-02
+        2.2700E+00        0.0000E+00        2.0500E-01        9.4300E-03
+        2.0900E+00        0.0000E+00        1.7300E-01        7.6120E-03

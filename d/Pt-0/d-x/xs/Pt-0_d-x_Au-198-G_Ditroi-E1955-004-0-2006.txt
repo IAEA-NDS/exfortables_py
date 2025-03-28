@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1955-004-0 
-# EXFOR reaction        : ['78-PT-0', ['D,X'], '79-AU-198-G,IND,SIG'] 
+# EXFOR reaction        : (78-PT-0(D,X)79-AU-198-G,IND,SIG) 
 # incident energy       : 9.6000e+00 MeV - 3.8900e+01 MeV 
 # target                : Pt-0 
 # product               : Au-198-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Ditroi 
+# first author          : Ditroi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,NIM/B,243,(1),20,200601) 
 # year                  : 2006 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1955.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1955
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.89000E+01      6.00000E-01      3.60000E-03      5.00000E-04
-      3.59000E+01      6.00000E-01      2.90000E-03      4.00000E-04
-      3.29000E+01      7.00000E-01      3.20000E-03      4.00000E-04
-      2.97000E+01      7.00000E-01      4.10000E-03      5.00000E-04
-      2.62000E+01      7.00000E-01      4.90000E-03      8.00000E-04
-      2.23000E+01      8.00000E-01      7.00000E-03      8.00000E-04
-      1.79000E+01      8.00000E-01      9.10000E-03      1.10000E-03
-      9.60000E+00      9.00000E-01      8.80000E-03      1.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.8900E+01        6.0000E-01        3.6000E-03        5.0000E-04
+        3.5900E+01        6.0000E-01        2.9000E-03        4.0000E-04
+        3.2900E+01        7.0000E-01        3.2000E-03        4.0000E-04
+        2.9700E+01        7.0000E-01        4.1000E-03        5.0000E-04
+        2.6200E+01        7.0000E-01        4.9000E-03        8.0000E-04
+        2.2300E+01        8.0000E-01        7.0000E-03        8.0000E-04
+        1.7900E+01        8.0000E-01        9.1000E-03        1.1000E-03
+        9.6000E+00        9.0000E-01        8.8000E-03        1.0000E-03

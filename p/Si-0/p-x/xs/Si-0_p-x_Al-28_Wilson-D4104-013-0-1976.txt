@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4104-013-0 
-# EXFOR reaction        : ['14-SI-0', ['P,X'], '13-AL-28,,SIG'] 
+# EXFOR reaction        : (14-SI-0(P,X)13-AL-28,,SIG) 
 # incident energy       : 1.7900e+01 MeV - 2.6250e+01 MeV 
 # target                : Si-0 
 # product               : Al-28 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.L.Wilson 
+# first author          : Wilson 
 # institute             : (1USACLU): University of Colorado, Boulder, CO 
 # reference             : (J,PR/C,13,976,1976) 
 # year                  : 1976 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4104.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4104
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.79000E+01      0.00000E+00      4.20000E-04      3.00000E-05
-      2.19500E+01      0.00000E+00      2.90000E-03      3.00000E-04
-      2.62500E+01      0.00000E+00      2.30000E-03      1.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7900E+01        0.0000E+00        4.2000E-04        3.0000E-05
+        2.1950E+01        0.0000E+00        2.9000E-03        3.0000E-04
+        2.6250E+01        0.0000E+00        2.3000E-03        1.0000E-04

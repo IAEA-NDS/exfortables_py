@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33055-002-0 
-# EXFOR reaction        : ['56-BA-137', ['N,INL'], '56-BA-137-M,,SIG,,SPA'] 
+# EXFOR reaction        : (56-BA-137(N,INL)56-BA-137-M,,SIG,,SPA) 
 # incident energy       : 2.0005e+00 MeV 
 # target                : Ba-137 
 # product               : Ba-137-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : M.S.Barough 
+# first author          : Barough 
 # institute             : (3INDPOO): University of Pune 
 # reference             : (J,ANE,63,209,2014) 
 # year                  : 2014 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33055.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33055
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00050E+00      0.00000E+00      9.00000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0005E+00        0.0000E+00        9.0000E-04        0.0000E+00

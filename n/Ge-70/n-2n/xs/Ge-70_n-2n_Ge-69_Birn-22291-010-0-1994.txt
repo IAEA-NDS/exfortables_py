@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22291-010-0 
-# EXFOR reaction        : ['32-GE-70', ['N,2N'], '32-GE-69,,SIG'] 
+# EXFOR reaction        : (32-GE-70(N,2N)32-GE-69,,SIG) 
 # incident energy       : 1.4680e+01 MeV 
 # target                : Ge-70 
 # product               : Ge-69 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : I.Birn 
+# first author          : Birn 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,NSE,116,125,1994) 
 # year                  : 1994 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22291.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22291
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46800E+01      1.00000E-01      5.46000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4680E+01        1.0000E-01        5.4600E-01        0.0000E+00

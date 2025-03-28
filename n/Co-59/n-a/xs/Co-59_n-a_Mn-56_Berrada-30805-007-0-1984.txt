@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30805-007-0 
-# EXFOR reaction        : ['27-CO-59', ['N,A'], '25-MN-56,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,A)25-MN-56,,SIG) 
 # incident energy       : 1.3800e+01 MeV - 1.4800e+01 MeV 
 # target                : Co-59 
 # product               : Mn-56 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : M.Berrada 
+# first author          : Berrada 
 # institute             : (3MORMOH): University Mohammed V, Rabat 
 # reference             : (W,BERRADA,19840415) 
 # year                  : 1984 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/308/30805.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30805
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.38000E+01      2.00000E-01      2.50000E-02      8.00000E-04
-      1.41000E+01      2.00000E-01      2.76000E-02      8.00000E-04
-      1.45000E+01      1.00000E-01      2.77000E-02      9.00000E-04
-      1.47000E+01      2.00000E-01      3.00000E-02      9.00000E-04
-      1.48000E+01      2.00000E-01      2.84000E-02      9.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3800E+01        2.0000E-01        2.5000E-02        8.0000E-04
+        1.4100E+01        2.0000E-01        2.7600E-02        8.0000E-04
+        1.4500E+01        1.0000E-01        2.7700E-02        9.0000E-04
+        1.4700E+01        2.0000E-01        3.0000E-02        9.0000E-04
+        1.4800E+01        2.0000E-01        2.8400E-02        9.0000E-04

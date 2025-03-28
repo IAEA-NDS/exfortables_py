@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21138-005-0 
-# EXFOR reaction        : ['15-P-31', ['N,EL'], '15-P-31,,SIG'] 
+# EXFOR reaction        : (15-P-31(N,EL)15-P-31,,SIG) 
 # incident energy       : 1.4200e+01 MeV 
 # target                : P-31 
 # product               : P-31 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : G.C.Bonazzola 
+# first author          : Bonazzola 
 # institute             : (2ITYTUR): Universita degli Studi di Torino + INFN Torino 
 # reference             : (J,NP,68,369,6506) 
 # year                  : 1965 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/211/21138.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21138
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+01      7.10000E-01      8.70000E-01      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        7.1000E-01        8.7000E-01        2.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0507-005-0 
-# EXFOR reaction        : ['14-SI-0', ['P,X'], '4-BE-10,,SIG'] 
+# EXFOR reaction        : (14-SI-0(P,X)4-BE-10,,SIG) 
 # incident energy       : 5.0200e+01 MeV - 6.6900e+01 MeV 
 # target                : Si-0 
 # product               : Be-10 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.M.Sisterson 
+# first author          : Sisterson 
 # institute             : (1USAHRV): Harvard University, Cambridge, MA 
 # reference             : (J,NIM/B,123,324,1997) 
 # year                  : 1997 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C05/C0507.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0507
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.02000E+01      0.00000E+00      9.00000E-07      2.00000E-07
-      6.56000E+01      0.00000E+00      5.00000E-06      5.00000E-07
-      6.69000E+01      0.00000E+00      9.70000E-06      1.20000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0200E+01        0.0000E+00        9.0000E-07        2.0000E-07
+        6.5600E+01        0.0000E+00        5.0000E-06        5.0000E-07
+        6.6900E+01        0.0000E+00        9.7000E-06        1.2000E-06

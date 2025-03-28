@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4181-010-0 
-# EXFOR reaction        : ['26-FE-0', ['P,X'], '21-SC-47,', ['CUM'], ',SIG'] 
+# EXFOR reaction        : (26-FE-0(P,X)21-SC-47,(CUM),SIG) 
 # incident energy       : 6.1700e+01 MeV - 6.7200e+01 MeV 
 # target                : Fe-0 
 # product               : Sc-47 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Ditroi 
+# first author          : Ditroi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (C,2004SANTA,769,1011,2004) 
 # year                  : 2004 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4181.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4181
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.72000E+01      0.00000E+00      2.60000E-04      4.00000E-05
-      6.45000E+01      0.00000E+00      1.80000E-04      3.00000E-05
-      6.17000E+01      0.00000E+00      1.30000E-04      3.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.7200E+01        0.0000E+00        2.6000E-04        4.0000E-05
+        6.4500E+01        0.0000E+00        1.8000E-04        3.0000E-05
+        6.1700E+01        0.0000E+00        1.3000E-04        3.0000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22754-006-0 
-# EXFOR reaction        : ['11-NA-23', ['N,2N'], '11-NA-22,,SIG'] 
+# EXFOR reaction        : (11-NA-23(N,2N)11-NA-22,,SIG) 
 # incident energy       : 1.5912e+01 MeV - 1.9414e+01 MeV 
 # target                : Na-23 
 # product               : Na-22 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : M.Sakuma 
+# first author          : Sakuma 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (R,JAERI-M-92-027,278,1992) 
 # year                  : 1992 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22754.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22754
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.59120E+01      1.67510E-02      5.94980E-02      2.72110E-03
-      1.71990E+01      1.67510E-02      8.43990E-02      3.39940E-03
-      1.83550E+01      1.67510E-02      1.03540E-01      3.40130E-03
-      1.91230E+01      1.67510E-02      1.05420E-01      3.40140E-03
-      1.94140E+01      1.67510E-02      1.10470E-01      4.42180E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5912E+01        1.6751E-02        5.9498E-02        2.7211E-03
+        1.7199E+01        1.6751E-02        8.4399E-02        3.3994E-03
+        1.8355E+01        1.6751E-02        1.0354E-01        3.4013E-03
+        1.9123E+01        1.6751E-02        1.0542E-01        3.4014E-03
+        1.9414E+01        1.6751E-02        1.1047E-01        4.4218E-03

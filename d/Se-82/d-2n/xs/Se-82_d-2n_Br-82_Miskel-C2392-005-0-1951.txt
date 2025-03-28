@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2392-005-0 
-# EXFOR reaction        : ['34-SE-82', ['D,2N'], '35-BR-82,,SIG'] 
+# EXFOR reaction        : (34-SE-82(D,2N)35-BR-82,,SIG) 
 # incident energy       : 4.3420e+00 MeV - 9.6080e+00 MeV 
 # target                : Se-82 
 # product               : Br-82 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.A.Miskel 
+# first author          : Miskel 
 # institute             : (1USAWAS): Washington University, St.Louis, MO 
 # reference             : (J,PR,84,700,1951) 
 # year                  : 1951 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2392.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2392
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.34200E+00      0.00000E+00      6.20000E-02      0.00000E+00
-      5.10400E+00      0.00000E+00      1.30000E-01      0.00000E+00
-      5.81400E+00      0.00000E+00      1.85000E-01      0.00000E+00
-      6.42100E+00      0.00000E+00      4.65000E-01      0.00000E+00
-      7.02400E+00      0.00000E+00      5.37000E-01      0.00000E+00
-      7.56900E+00      0.00000E+00      6.48000E-01      0.00000E+00
-      8.61500E+00      0.00000E+00      7.90000E-01      0.00000E+00
-      9.11100E+00      0.00000E+00      8.62000E-01      0.00000E+00
-      9.60800E+00      0.00000E+00      9.29000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.3420E+00        0.0000E+00        6.2000E-02        0.0000E+00
+        5.1040E+00        0.0000E+00        1.3000E-01        0.0000E+00
+        5.8140E+00        0.0000E+00        1.8500E-01        0.0000E+00
+        6.4210E+00        0.0000E+00        4.6500E-01        0.0000E+00
+        7.0240E+00        0.0000E+00        5.3700E-01        0.0000E+00
+        7.5690E+00        0.0000E+00        6.4800E-01        0.0000E+00
+        8.6150E+00        0.0000E+00        7.9000E-01        0.0000E+00
+        9.1110E+00        0.0000E+00        8.6200E-01        0.0000E+00
+        9.6080E+00        0.0000E+00        9.2900E-01        0.0000E+00

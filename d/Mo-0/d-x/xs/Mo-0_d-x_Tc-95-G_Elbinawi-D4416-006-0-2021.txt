@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4416-006-0 
-# EXFOR reaction        : ['42-MO-0', ['D,X'], '43-TC-95-G,', ['M'], ',SIG'] 
+# EXFOR reaction        : (42-MO-0(D,X)43-TC-95-G,(M),SIG) 
 # incident energy       : 2.9700e+00 MeV - 9.2300e+00 MeV 
 # target                : Mo-0 
 # product               : Tc-95-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.Elbinawi 
+# first author          : Elbinawi 
 # institute             : (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
 # reference             : (J,EPJ/A,57,312,2021) 
 # year                  : 2021 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4416.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4416
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.23000E+00      2.00000E-01      7.26000E-02      1.00000E-02
-      8.90000E+00      3.00000E-01      7.61000E-02      1.10000E-02
-      7.78000E+00      4.50000E-01      3.58000E-02      5.40000E-03
-      7.41000E+00      5.00000E-01      3.87000E-02      6.00000E-03
-      5.31000E+00      7.00000E-01      5.70000E-03      1.00000E-03
-      3.62000E+00      9.00000E-01      2.50000E-03      4.00000E-04
-      2.97000E+00      1.00000E-01      1.50000E-04      3.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.2300E+00        2.0000E-01        7.2600E-02        1.0000E-02
+        8.9000E+00        3.0000E-01        7.6100E-02        1.1000E-02
+        7.7800E+00        4.5000E-01        3.5800E-02        5.4000E-03
+        7.4100E+00        5.0000E-01        3.8700E-02        6.0000E-03
+        5.3100E+00        7.0000E-01        5.7000E-03        1.0000E-03
+        3.6200E+00        9.0000E-01        2.5000E-03        4.0000E-04
+        2.9700E+00        1.0000E-01        1.5000E-04        3.0000E-05

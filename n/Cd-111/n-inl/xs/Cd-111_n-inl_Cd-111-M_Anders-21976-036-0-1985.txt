@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21976-036-0 
-# EXFOR reaction        : ['48-CD-111', ['N,INL'], '48-CD-111-M,,SIG'] 
+# EXFOR reaction        : (48-CD-111(N,INL)48-CD-111-M,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Cd-111 
 # product               : Cd-111-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : B.Anders 
+# first author          : Anders 
 # institute             : (2GERKIG): GKSS, Geesthacht 
 # reference             : (R,GKSS-85-E-24,1985) 
 # year                  : 1985 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21976.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21976
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      3.00000E-01      1.34000E-01      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        1.3400E-01        1.0000E-02

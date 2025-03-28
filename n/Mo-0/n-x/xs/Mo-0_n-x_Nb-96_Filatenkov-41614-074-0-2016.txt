@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41614-074-0 
-# EXFOR reaction        : ['42-MO-0', ['N,X'], '41-NB-96,,SIG'] 
+# EXFOR reaction        : (42-MO-0(N,X)41-NB-96,,SIG) 
 # incident energy       : 1.3640e+01 MeV - 1.4640e+01 MeV 
 # target                : Mo-0 
 # product               : Nb-96 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,INDC(CCP)-0460,2016) 
 # year                  : 2016 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36400E+01      0.00000E+00      2.95000E-03      1.46615E-04
-      1.38700E+01      0.00000E+00      3.12000E-03      1.67232E-04
-      1.40500E+01      0.00000E+00      3.36000E-03      1.45488E-04
-      1.42800E+01      0.00000E+00      3.46000E-03      1.44628E-04
-      1.44400E+01      0.00000E+00      3.55000E-03      1.43775E-04
-      1.46400E+01      0.00000E+00      3.79000E-03      1.63728E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3640E+01        0.0000E+00        2.9500E-03        1.4662E-04
+        1.3870E+01        0.0000E+00        3.1200E-03        1.6723E-04
+        1.4050E+01        0.0000E+00        3.3600E-03        1.4549E-04
+        1.4280E+01        0.0000E+00        3.4600E-03        1.4463E-04
+        1.4440E+01        0.0000E+00        3.5500E-03        1.4377E-04
+        1.4640E+01        0.0000E+00        3.7900E-03        1.6373E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21400-002-0 
-# EXFOR reaction        : ['15-P-31', ['N,2N'], '15-P-30,,SIG'] 
+# EXFOR reaction        : (15-P-31(N,2N)15-P-30,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : P-31 
 # product               : P-30 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : C.Carles 
+# first author          : Carles 
 # institute             : (2FR BOR): Universite de Bordeaux 
 # reference             : (J,CR,257,659,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/214/21400.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21400
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      1.00000E-01      2.50000E-02      5.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        1.0000E-01        2.5000E-02        5.0000E-03

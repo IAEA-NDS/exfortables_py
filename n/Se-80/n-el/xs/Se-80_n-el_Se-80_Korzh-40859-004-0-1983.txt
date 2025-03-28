@@ -1,21 +1,21 @@
 # entry-subent-pointer  : 40859-004-0 
-# EXFOR reaction        : ['34-SE-80', ['N,EL'], '34-SE-80,,SIG'] 
+# EXFOR reaction        : (34-SE-80(N,EL)34-SE-80,,SIG) 
 # incident energy       : 1.5000e+00 MeV - 5.0000e+00 MeV 
 # target                : Se-80 
 # product               : Se-80 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : I.A.Korzh 
-# institute             : (4CCPIJI): Institute Yadernykh Issledovanii A.N. Ukrainskoi SSR,Kiev 
-# reference             : (C,83KIEV,3,173,8310) 
+# first author          : Korzh 
+# institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+# reference             : ((C,83KIEV,3,173,1983)=(R,INDC(CCP)-235,(3),173,1983)) 
 # year                  : 1983 
 # facility              : None 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40859.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40859
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      3.14700E+00      1.10000E-01
-      2.00000E+00      0.00000E+00      2.37500E+00      8.30000E-02
-      2.50000E+00      0.00000E+00      2.02700E+00      7.10000E-02
-      3.00000E+00      0.00000E+00      1.96000E+00      6.90000E-02
-      5.00000E+00      0.00000E+00      1.89800E+00      8.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        3.1470E+00        1.1000E-01
+        2.0000E+00        0.0000E+00        2.3750E+00        8.3000E-02
+        2.5000E+00        0.0000E+00        2.0270E+00        7.1000E-02
+        3.0000E+00        0.0000E+00        1.9600E+00        6.9000E-02
+        5.0000E+00        0.0000E+00        1.8980E+00        8.5000E-02

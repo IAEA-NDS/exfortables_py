@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0173-002-1 
-# EXFOR reaction        : ['8-O-16', ['P,G'], '9-F-17,,SIG'] 
+# EXFOR reaction        : (8-O-16(P,G)9-F-17,,SIG) 
 # incident energy       : 6.1600e-01 MeV 
 # target                : O-16 
 # product               : F-17 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : N.Tanner 
+# first author          : Tanner 
 # institute             : (1USACAL): California Institute of Technology, Pasadena, CA 
 # reference             : (J,PR,114,1060,195905) 
 # year                  : 1959 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C01/C0173.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0173
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.16000E-01      0.00000E+00      2.90000E-07      3.00000E-08
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.1600E-01        0.0000E+00        2.9000E-07        3.0000E-08

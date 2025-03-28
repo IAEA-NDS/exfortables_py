@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30155-011-0 
-# EXFOR reaction        : ['50-SN-117', ['N,INL'], '50-SN-117-M,,SIG'] 
+# EXFOR reaction        : (50-SN-117(N,INL)50-SN-117-M,,SIG) 
 # incident energy       : 1.3360e+01 MeV - 1.5360e+01 MeV 
 # target                : Sn-117 
 # product               : Sn-117-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : P.Decowski 
+# first author          : Decowski 
 # institute             : (3POLIPJ): Narodowe Centrum Badan Jadrowych, Swierk+Warszawa 
 # reference             : (P,INR-1318,8,1971) 
 # year                  : 1971 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30155.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30155
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.33600E+01      1.40000E-01      2.87000E-01      3.10000E-02
-      1.39000E+01      9.00000E-02      2.72000E-01      1.40000E-02
-      1.44700E+01      1.10000E-01      2.84000E-01      1.40000E-02
-      1.50600E+01      1.70000E-01      2.55000E-01      2.50000E-02
-      1.53600E+01      2.00000E-01      2.86000E-01      8.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3360E+01        1.4000E-01        2.8700E-01        3.1000E-02
+        1.3900E+01        9.0000E-02        2.7200E-01        1.4000E-02
+        1.4470E+01        1.1000E-01        2.8400E-01        1.4000E-02
+        1.5060E+01        1.7000E-01        2.5500E-01        2.5000E-02
+        1.5360E+01        2.0000E-01        2.8600E-01        8.0000E-03

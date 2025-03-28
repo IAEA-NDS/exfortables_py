@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12601-003-0 
-# EXFOR reaction        : ['28-NI-65', ['N,G'], '28-NI-66,,SIG,,MXW'] 
+# EXFOR reaction        : (28-NI-65(N,G)28-NI-66,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ni-65 
 # product               : Ni-66 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.Serment 
+# first author          : Serment 
 # institute             : (1USAMIS): University of Missouri, Columbia, MO 
 # reference             : (J,NAP,9,662,197011) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/126/12601.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12601
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.43000E+01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.4300E+01        0.0000E+00

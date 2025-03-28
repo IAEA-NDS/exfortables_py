@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31784-008-0 
-# EXFOR reaction        : ['23-V-51', ['N,X'], '21-SC-50,,SIG'] 
+# EXFOR reaction        : (23-V-51(N,X)21-SC-50,,SIG) 
 # incident energy       : 2.5000e+01 MeV - 3.2600e+01 MeV 
 # target                : V-51 
 # product               : Sc-50 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Majerle 
+# first author          : Majerle 
 # institute             : (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
 # reference             : (J,EPJ/CS,146,09019,2017) 
 # year                  : 2017 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31784.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31784
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E+01      1.80000E+00      2.70000E-04      7.00000E-05
-      2.74000E+01      1.70000E+00      2.30000E-04      3.00000E-05
-      3.00000E+01      1.60000E+00      2.30000E-04      3.00000E-05
-      3.26000E+01      1.50000E+00      3.30000E-04      3.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+01        1.8000E+00        2.7000E-04        7.0000E-05
+        2.7400E+01        1.7000E+00        2.3000E-04        3.0000E-05
+        3.0000E+01        1.6000E+00        2.3000E-04        3.0000E-05
+        3.2600E+01        1.5000E+00        3.3000E-04        3.0000E-05

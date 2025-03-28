@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30989-002-0 
-# EXFOR reaction        : ['92-U-238', ['N,F'], ',,SIG,,FIS'] 
+# EXFOR reaction        : (92-U-238(N,F),,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : U-238 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : A.Pazirandeh 
+# first author          : Pazirandeh 
 # institute             : (3IRNTEH): University of Tehran, Tehran 
 # reference             : (C,91JUELIC,,112,199105) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30989.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30989
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      3.29000E-01      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        3.2900E-01        1.0000E-02

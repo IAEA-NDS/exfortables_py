@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22820-013-0 
-# EXFOR reaction        : ['27-CO-59', ['N,2N'], '27-CO-58-M,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,2N)27-CO-58-M,,SIG) 
 # incident energy       : 1.5270e+01 MeV - 1.9280e+01 MeV 
 # target                : Co-59 
 # product               : Co-58-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : V.Semkova 
+# first author          : Semkova 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,NP/A,730,255,2004) 
 # year                  : 2004 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22820.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22820
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.52700E+01      1.60000E-01      5.35000E-01      5.60000E-02
-      1.55600E+01      1.90000E-01      5.55000E-01      5.00000E-02
-      1.70300E+01      1.70000E-01      5.80000E-01      6.10000E-02
-      1.79800E+01      6.00000E-02      5.64000E-01      6.40000E-02
-      1.92800E+01      9.00000E-02      6.28000E-01      6.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5270E+01        1.6000E-01        5.3500E-01        5.6000E-02
+        1.5560E+01        1.9000E-01        5.5500E-01        5.0000E-02
+        1.7030E+01        1.7000E-01        5.8000E-01        6.1000E-02
+        1.7980E+01        6.0000E-02        5.6400E-01        6.4000E-02
+        1.9280E+01        9.0000E-02        6.2800E-01        6.0000E-02

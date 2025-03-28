@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21668-012-0 
-# EXFOR reaction        : ['3-LI-6', ['N,T'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (3-LI-6(N,T)2-HE-4,,SIG) 
 # incident energy       : 2.5000e+00 MeV 
 # target                : Li-6 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 105 
-# first author          : M.Bormann 
+# first author          : Bormann 
 # institute             : (2GERHAM): Hamburg, Universitaet 
 # reference             : (J,ZN/A,15,200,1960) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21668.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21668
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E+00      1.00000E-01      1.90000E-01      1.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+00        1.0000E-01        1.9000E-01        1.5000E-02

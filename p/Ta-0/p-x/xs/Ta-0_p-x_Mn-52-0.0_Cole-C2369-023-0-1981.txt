@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2369-023-0 
-# EXFOR reaction        : ['73-TA-0', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (73-TA-0(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 4.0000e+05 MeV 
 # target                : Ta-0 
 # product               : Mn-52-0.0 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : G.D.Cole 
+# first author          : Cole 
 # institute             : (1USAPUR): Purdue University, West Lafayette, IN 
 # reference             : (J,PR/C,24,2038,1981) 
 # year                  : 1981 
@@ -13,5 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2369.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2369
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+05      0.00000E+00      9.30000E-04      7.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+05        0.0000E+00        2.2200E-03        1.8000E-04
+        4.0000E+05        0.0000E+00        1.4200E-03        8.0000E-05
+        4.0000E+05        0.0000E+00        9.3000E-04        7.0000E-05

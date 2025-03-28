@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20289-015-0 
-# EXFOR reaction        : ['35-BR-81', ['N,2N'], '35-BR-80,,SIG,,,DERIV'] 
+# EXFOR reaction        : (35-BR-81(N,2N)35-BR-80,,SIG,,,DERIV) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Br-81 
 # product               : Br-80 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : F.Fukuzawa 
+# first author          : Fukuzawa 
 # institute             : (2JPNHYO): Hyogo Agriculture University , Sasayama 
 # reference             : (J,JPJ,16,2371,196112) 
 # year                  : 1961 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20289.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20289
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      2.00000E-01      9.80000E-01      7.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        2.0000E-01        9.8000E-01        7.0000E-02

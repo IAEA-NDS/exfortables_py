@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30069-005-0 
-# EXFOR reaction        : ['82-PB-0', ['N,X'], '82-PB-207-M,,SIG'] 
+# EXFOR reaction        : (82-PB-0(N,X)82-PB-207-M,,SIG) 
 # incident energy       : 1.5000e+01 MeV 
 # target                : Pb-0 
 # product               : Pb-207-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : G.Peto 
+# first author          : Peto 
 # institute             : (3HUNKOS): University of Debrecen, Debrecen 
 # reference             : (J,AHP,25,91,1968) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30069.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30069
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+01      3.00000E-01      1.34000E+00      1.74000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+01        3.0000E-01        1.3400E+00        1.7400E-01

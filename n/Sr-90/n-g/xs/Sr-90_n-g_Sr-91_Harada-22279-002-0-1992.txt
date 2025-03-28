@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22279-002-0 
-# EXFOR reaction        : ['38-SR-90', ['N,G'], '38-SR-91,,SIG'] 
+# EXFOR reaction        : (38-SR-90(N,G)38-SR-91,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Sr-90 
 # product               : Sr-91 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.Harada 
+# first author          : Harada 
 # institute             : (2JPNPNC): Power Reactor and Nuclear Fuel Devel. Corp., Tokai 
 # reference             : ((S,JAERI-M-92-027,298,1992)=(S,INDC(JPN)-157,298,1992)) 
 # year                  : 1992 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22279.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22279
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.53000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.5300E-02        0.0000E+00

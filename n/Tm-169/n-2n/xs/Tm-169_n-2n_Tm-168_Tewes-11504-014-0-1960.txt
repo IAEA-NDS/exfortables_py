@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11504-014-0 
-# EXFOR reaction        : ['69-TM-169', ['N,2N'], '69-TM-168,,SIG'] 
+# EXFOR reaction        : (69-TM-169(N,2N)69-TM-168,,SIG) 
 # incident energy       : 9.8000e+00 MeV - 1.4500e+01 MeV 
 # target                : Tm-169 
 # product               : Tm-168 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : H.A.Tewes 
+# first author          : Tewes 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (R,UCRL-6028-T,196006) 
 # year                  : 1960 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11504.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11504
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.80000E+00      2.00000E-01      4.31000E-01      1.72400E-01
-      1.03500E+01      2.00000E-01      6.65000E-01      2.66000E-01
-      1.15000E+01      2.00000E-01      8.65000E-01      3.46000E-01
-      1.23000E+01      2.00000E-01      9.34000E-01      3.73600E-01
-      1.30000E+01      2.00000E-01      9.24000E-01      3.69600E-01
-      1.38500E+01      2.00000E-01      9.55000E-01      3.82000E-01
-      1.45000E+01      2.00000E-01      1.03200E+00      4.12800E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.8000E+00        2.0000E-01        4.3100E-01        1.7240E-01
+        1.0350E+01        2.0000E-01        6.6500E-01        2.6600E-01
+        1.1500E+01        2.0000E-01        8.6500E-01        3.4600E-01
+        1.2300E+01        2.0000E-01        9.3400E-01        3.7360E-01
+        1.3000E+01        2.0000E-01        9.2400E-01        3.6960E-01
+        1.3850E+01        2.0000E-01        9.5500E-01        3.8200E-01
+        1.4500E+01        2.0000E-01        1.0320E+00        4.1280E-01

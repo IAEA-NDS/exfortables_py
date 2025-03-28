@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11684-002-0 
-# EXFOR reaction        : ['25-MN-55', ['N,A'], '23-V-52,,SIG'] 
+# EXFOR reaction        : (25-MN-55(N,A)23-V-52,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Mn-55 
 # product               : V-52 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : J.Nix 
+# first author          : Nix 
 # institute             : (1USAARK): University of Arkansas, Fayetteville, AR 
 # reference             : (P,ORO-367,6,196101) 
 # year                  : 1961 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11684.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11684
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      1.18000E-02      7.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        1.1800E-02        7.0000E-04

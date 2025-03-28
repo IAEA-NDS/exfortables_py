@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23170-008-0 
-# EXFOR reaction        : ['92-U-235', ['N,G'], '92-U-236,,SIG,,SPA'] 
+# EXFOR reaction        : (92-U-235(N,G)92-U-236,,SIG,,SPA) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : U-235 
 # product               : U-236 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.Wallner 
+# first author          : Wallner 
 # institute             : (3AULCBR): Australian National University, Canberra 
 # reference             : (J,PRL,112,192501,2014) 
 # year                  : 2014 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23170.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23170
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      0.00000E+00      6.51000E-01      3.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        6.5100E-01        3.6000E-02

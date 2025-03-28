@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21716-002-0 
-# EXFOR reaction        : ['45-RH-103', ['N,2N'], '45-RH-102-G,,SIG,,FIS'] 
+# EXFOR reaction        : (45-RH-103(N,2N)45-RH-102-G,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Rh-103 
 # product               : Rh-102-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.P.Francois 
+# first author          : Francois 
 # institute             : (2BLGGHT): Universiteit Gent, Gent 
 # reference             : (J,JIN,35,389,72) 
 # year                  : 1972 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21716.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21716
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      6.00000E-04      1.20000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        6.0000E-04        1.2000E-04

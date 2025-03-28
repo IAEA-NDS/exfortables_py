@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12815-007-0 
-# EXFOR reaction        : ['49-IN-115', ['N,G'], '49-IN-116-M1,M+,SIG'] 
+# EXFOR reaction        : (49-IN-115(N,G)49-IN-116-M1,M+,SIG) 
 # incident energy       : 7.7000e-01 MeV 
 # target                : In-115 
 # product               : In-116-M1 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : D.J.Grady 
+# first author          : Grady 
 # institute             : (1USAMHG): University of Michigan, Ann Arbor, MI 
 # reference             : (J,NSE,94,227,8611) 
 # year                  : 1986 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12815.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12815
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.70000E-01      0.00000E+00      2.88000E-01      4.03200E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.7000E-01        0.0000E+00        2.8800E-01        4.0320E-03

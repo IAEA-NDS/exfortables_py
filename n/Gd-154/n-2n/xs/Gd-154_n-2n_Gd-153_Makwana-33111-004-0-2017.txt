@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33111-004-0 
-# EXFOR reaction        : ['64-GD-154', ['N,2N'], '64-GD-153,,SIG,,SPA'] 
+# EXFOR reaction        : (64-GD-154(N,2N)64-GD-153,,SIG,,SPA) 
 # incident energy       : 1.2470e+01 MeV - 1.6630e+01 MeV 
 # target                : Gd-154 
 # product               : Gd-153 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : R.Makwana 
+# first author          : Makwana 
 # institute             : (3INDIND): India 
 # reference             : (J,PR/C,96,024608,2017) 
 # year                  : 2017 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33111.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33111
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.24700E+01      8.25000E-01      1.26500E+00      9.80000E-02
-      1.66300E+01      9.50000E-01      1.97300E+00      1.53000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2470E+01        8.2500E-01        1.2650E+00        9.8000E-02
+        1.6630E+01        9.5000E-01        1.9730E+00        1.5300E-01

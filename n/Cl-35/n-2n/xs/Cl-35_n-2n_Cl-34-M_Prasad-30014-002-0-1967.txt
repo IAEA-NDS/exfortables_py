@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30014-002-0 
-# EXFOR reaction        : ['17-CL-35', ['N,2N'], '17-CL-34-M,,SIG'] 
+# EXFOR reaction        : (17-CL-35(N,2N)17-CL-34-M,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Cl-35 
 # product               : Cl-34-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : R.Prasad 
+# first author          : Prasad 
 # institute             : (3INDMUA): Aligarh Muslim University , Aligarh 
 # reference             : (J,NP/A,94,476,196703) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30014.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30014
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      1.20000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        1.2000E-02        2.0000E-03

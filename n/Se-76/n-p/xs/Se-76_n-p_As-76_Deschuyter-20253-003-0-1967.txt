@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20253-003-0 
-# EXFOR reaction        : ['34-SE-76', ['N,P'], '33-AS-76,,SIG,,FIS'] 
+# EXFOR reaction        : (34-SE-76(N,P)33-AS-76,,SIG,,FIS) 
 # incident energy       : 1.0000e+00 MeV 
 # target                : Se-76 
 # product               : As-76 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.Deschuyter 
+# first author          : Deschuyter 
 # institute             : (2BLGGHT): Universiteit Gent, Gent 
 # reference             : (J,RCA,7,90,6709) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20253.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20253
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      1.70000E-04      2.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        1.7000E-04        2.0000E-05

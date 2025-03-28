@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1618-006-0 
-# EXFOR reaction        : ['36-KR-78', ['P,N+P'], '36-KR-77,,SIG'] 
+# EXFOR reaction        : (36-KR-78(P,N+P)36-KR-77,,SIG) 
 # incident energy       : 1.5340e+01 MeV - 2.9060e+01 MeV 
 # target                : Kr-78 
 # product               : Kr-77 
 # level energy          : - 
 # MF-MT number          : 3 - 28 
-# first author          : F.Helus 
+# first author          : Helus 
 # institute             : (2GERDKZ): Deutsches Krebsforschungszentrum, Heidelberg 
 # reference             : (J,JRN/L,153,417,1991) 
 # year                  : 1991 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O16/O1618.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1618
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.53400E+01      6.00000E-02      5.29000E-02      1.05800E-02
-      1.74300E+01      6.00000E-02      9.58000E-01      1.91600E-01
-      1.92100E+01      6.00000E-02      1.31300E+00      2.62600E-01
-      2.10700E+01      6.00000E-02      1.51900E+00      3.03800E-01
-      2.27100E+01      6.00000E-02      1.22300E+00      2.44600E-01
-      2.45700E+01      6.00000E-02      1.01900E+00      2.03800E-01
-      2.59700E+01      6.00000E-02      8.49000E-01      1.69800E-01
-      2.90600E+01      6.00000E-02      8.18000E-01      1.63600E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5340E+01        6.0000E-02        5.2900E-02        1.0580E-02
+        1.7430E+01        6.0000E-02        9.5800E-01        1.9160E-01
+        1.9210E+01        6.0000E-02        1.3130E+00        2.6260E-01
+        2.1070E+01        6.0000E-02        1.5190E+00        3.0380E-01
+        2.2710E+01        6.0000E-02        1.2230E+00        2.4460E-01
+        2.4570E+01        6.0000E-02        1.0190E+00        2.0380E-01
+        2.5970E+01        6.0000E-02        8.4900E-01        1.6980E-01
+        2.9060E+01        6.0000E-02        8.1800E-01        1.6360E-01

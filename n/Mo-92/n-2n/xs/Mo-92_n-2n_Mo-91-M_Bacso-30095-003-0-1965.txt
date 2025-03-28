@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30095-003-0 
-# EXFOR reaction        : ['42-MO-92', ['N,2N'], '42-MO-91-M,,SIG'] 
+# EXFOR reaction        : (42-MO-92(N,2N)42-MO-91-M,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Mo-92 
 # product               : Mo-91-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.Bacso 
+# first author          : Bacso 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,AHP,18,295,196505) 
 # year                  : 1965 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30095.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30095
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      1.50000E-02      1.50000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        1.5000E-02        1.5000E-03

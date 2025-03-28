@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0904-256-0 
-# EXFOR reaction        : ['73-TA-0', ['P,X'], '63-EU-149,CUM,SIG'] 
+# EXFOR reaction        : (73-TA-0(P,X)63-EU-149,CUM,SIG) 
 # incident energy       : 3.9900e+02 MeV - 2.6050e+03 MeV 
 # target                : Ta-0 
 # product               : Eu-149 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Yu.E.Titarenko 
+# first author          : Titarenko 
 # institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
 # reference             : (J,PAN,74,551,2011) 
 # year                  : 2011 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0904.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0904
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.99000E+02      2.00000E+00      2.95000E-03      3.20000E-04
-      2.60500E+03      8.00000E+00      1.78000E-02      1.70000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.9900E+02        2.0000E+00        2.9500E-03        3.2000E-04
+        2.6050E+03        8.0000E+00        1.7800E-02        1.7000E-03

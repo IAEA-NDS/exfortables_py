@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40531-037-0 
-# EXFOR reaction        : ['28-NI-60', ['N,EL'], '28-NI-60,,SIG'] 
+# EXFOR reaction        : (28-NI-60(N,EL)28-NI-60,,SIG) 
 # incident energy       : 1.5000e+00 MeV - 3.0000e+00 MeV 
 # target                : Ni-60 
 # product               : Ni-60 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : I.A.Korzh 
+# first author          : Korzh 
 # institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
 # reference             : ((C,75KIEV,4,220,1975)=(R,INDC(CCP)-099,(4),220,1975)) 
 # year                  : 1975 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40531.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40531
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      2.47400E+00      2.74000E-01
-      2.00000E+00      0.00000E+00      2.76300E+00      1.87000E-01
-      2.50000E+00      0.00000E+00      2.08500E+00      1.97000E-01
-      3.00000E+00      0.00000E+00      2.49400E+00      1.45000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        2.4740E+00        2.7400E-01
+        2.0000E+00        0.0000E+00        2.7630E+00        1.8700E-01
+        2.5000E+00        0.0000E+00        2.0850E+00        1.9700E-01
+        3.0000E+00        0.0000E+00        2.4940E+00        1.4500E-01

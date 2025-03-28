@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21509-004-0 
-# EXFOR reaction        : ['29-CU-65', ['N,2N'], '29-CU-64,,SIG'] 
+# EXFOR reaction        : (29-CU-65(N,2N)29-CU-64,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Cu-65 
 # product               : Cu-64 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : R.Mogharrab 
+# first author          : Mogharrab 
 # institute             : (2GERHAM): Hamburg, Universitaet 
 # reference             : (J,AKE,19,107,7204) 
 # year                  : 1972 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/215/21509.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21509
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      2.00000E-01      8.82000E-01      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        2.0000E-01        8.8200E-01        2.0000E-02

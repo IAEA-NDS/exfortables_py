@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40828-014-0 
-# EXFOR reaction        : ['48-CD-113', ['N,G'], '48-CD-114,PAR,SIG'] 
+# EXFOR reaction        : (48-CD-113(N,G)48-CD-114,PAR,SIG) 
 # incident energy       : 2.0000e-02 MeV - 1.5000e-01 MeV 
 # target                : Cd-113 
 # product               : Cd-114 
 # level energy          : 2.2040e+00 MeV 
 # MF-MT number          : 3 - 16 
-# first author          : E.S.Konobeevskiy 
+# first author          : Konobeevskiy 
 # institute             : (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
 # reference             : (C,87KIEV,2,317,1987) 
 # year                  : 1987 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40828.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40828
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-02      0.00000E+00      2.80000E-02      1.00000E-02
-      2.00000E-02      0.00000E+00      2.00000E-02      4.00000E-03
-      4.00000E-02      0.00000E+00      2.20000E-02      6.00000E-03
-      4.00000E-02      0.00000E+00      2.40000E-02      3.00000E-03
-      1.25000E-01      0.00000E+00      2.90000E-02      7.00000E-03
-      1.25000E-01      0.00000E+00      1.80000E-02      3.00000E-03
-      1.50000E-01      0.00000E+00      2.70000E-02      8.00000E-03
-      1.50000E-01      0.00000E+00      2.20000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-02        0.0000E+00        2.8000E-02        1.0000E-02
+        2.0000E-02        0.0000E+00        2.0000E-02        4.0000E-03
+        4.0000E-02        0.0000E+00        2.2000E-02        6.0000E-03
+        4.0000E-02        0.0000E+00        2.4000E-02        3.0000E-03
+        1.2500E-01        0.0000E+00        2.9000E-02        7.0000E-03
+        1.2500E-01        0.0000E+00        1.8000E-02        3.0000E-03
+        1.5000E-01        0.0000E+00        2.7000E-02        8.0000E-03
+        1.5000E-01        0.0000E+00        2.2000E-02        2.0000E-03

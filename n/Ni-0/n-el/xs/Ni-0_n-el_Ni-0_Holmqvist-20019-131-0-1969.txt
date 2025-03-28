@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20019-131-0 
-# EXFOR reaction        : ['28-NI-0', ['N,EL'], '28-NI-0,,SIG'] 
+# EXFOR reaction        : (28-NI-0(N,EL)28-NI-0,,SIG) 
 # incident energy       : 3.0000e+00 MeV - 8.0500e+00 MeV 
 # target                : Ni-0 
 # product               : Ni-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : B.Holmqvist 
+# first author          : Holmqvist 
 # institute             : (2SWDAE ): Studsvik Energiteknik AB 
 # reference             : (R,AE-366,1969) 
 # year                  : 1969 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20019.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20019
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+00      5.00000E-02      2.15000E+00      1.10000E-01
-      3.49000E+00      5.00000E-02      2.06000E+00      1.00000E-01
-      4.00000E+00      5.00000E-02      2.00000E+00      1.00000E-01
-      4.56000E+00      5.00000E-02      2.00000E+00      1.00000E-01
-      6.09000E+00      9.00000E-02      1.83000E+00      9.00000E-02
-      7.05000E+00      9.00000E-02      1.79000E+00      9.00000E-02
-      8.05000E+00      9.00000E-02      1.71000E+00      9.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+00        5.0000E-02        2.1500E+00        1.1000E-01
+        3.4900E+00        5.0000E-02        2.0600E+00        1.0000E-01
+        4.0000E+00        5.0000E-02        2.0000E+00        1.0000E-01
+        4.5600E+00        5.0000E-02        2.0000E+00        1.0000E-01
+        6.0900E+00        9.0000E-02        1.8300E+00        9.0000E-02
+        7.0500E+00        9.0000E-02        1.7900E+00        9.0000E-02
+        8.0500E+00        9.0000E-02        1.7100E+00        9.0000E-02

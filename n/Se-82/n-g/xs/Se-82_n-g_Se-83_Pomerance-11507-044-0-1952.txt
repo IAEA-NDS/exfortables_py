@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11507-044-0 
-# EXFOR reaction        : ['34-SE-82', ['N,G'], '34-SE-83,,SIG,,MXW'] 
+# EXFOR reaction        : (34-SE-82(N,G)34-SE-83,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Se-82 
 # product               : Se-83 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.Pomerance 
+# first author          : Pomerance 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,PR,88,412,1952) 
 # year                  : 1952 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11507.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11507
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.00000E+00      1.40000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.0000E+00        1.4000E+00

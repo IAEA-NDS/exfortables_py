@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10707-004-0 
-# EXFOR reaction        : ['3-LI-6', ['N,EL'], '3-LI-6,,SIG'] 
+# EXFOR reaction        : (3-LI-6(N,EL)3-LI-6,,SIG) 
 # incident energy       : 7.4700e+00 MeV - 1.3940e+01 MeV 
 # target                : Li-6 
 # product               : Li-6 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : H.H.Hogue 
+# first author          : Hogue 
 # institute             : (1USADKE): Duke University, Durham, NC 
 # reference             : (J,NSE,69,22,1979) 
 # year                  : 1979 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10707.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10707
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.47000E+00      0.00000E+00      1.09300E+00      3.32000E-02
-      8.96400E+00      0.00000E+00      1.09200E+00      3.15000E-02
-      9.95900E+00      0.00000E+00      1.02900E+00      2.98000E-02
-      1.09520E+01      0.00000E+00      1.01840E+00      5.80000E-02
-      1.20400E+01      0.00000E+00      9.50900E-01      3.69000E-02
-      1.29400E+01      0.00000E+00      9.09000E-01      3.27000E-02
-      1.39400E+01      0.00000E+00      9.31800E-01      4.26000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.4700E+00        0.0000E+00        1.0930E+00        3.3200E-02
+        8.9640E+00        0.0000E+00        1.0920E+00        3.1500E-02
+        9.9590E+00        0.0000E+00        1.0290E+00        2.9800E-02
+        1.0952E+01        0.0000E+00        1.0184E+00        5.8000E-02
+        1.2040E+01        0.0000E+00        9.5090E-01        3.6900E-02
+        1.2940E+01        0.0000E+00        9.0900E-01        3.2700E-02
+        1.3940E+01        0.0000E+00        9.3180E-01        4.2600E-02

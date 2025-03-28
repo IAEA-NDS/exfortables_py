@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11429-010-0 
-# EXFOR reaction        : ['30-ZN-68', ['N,G'], '30-ZN-69-M,,SIG'] 
+# EXFOR reaction        : (30-ZN-68(N,G)30-ZN-69-M,,SIG) 
 # incident energy       : 2.4000e-02 MeV 
 # target                : Zn-68 
 # product               : Zn-69-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.Booth 
+# first author          : Booth 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,112,226,1958) 
 # year                  : 1958 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11429.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11429
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.40000E-02      5.00000E-03      5.60000E-03      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4000E-02        5.0000E-03        5.6000E-03        2.0000E-03

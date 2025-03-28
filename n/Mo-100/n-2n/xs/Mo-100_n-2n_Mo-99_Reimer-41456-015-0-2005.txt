@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41456-015-0 
-# EXFOR reaction        : ['42-MO-100', ['N,2N'], '42-MO-99,,SIG'] 
+# EXFOR reaction        : (42-MO-100(N,2N)42-MO-99,,SIG) 
 # incident energy       : 1.3480e+01 MeV - 1.4820e+01 MeV 
 # target                : Mo-100 
 # product               : Mo-99 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : P.Reimer 
+# first author          : Reimer 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,PR/C,71,044617,200504) 
 # year                  : 2005 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41456.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41456
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34800E+01      0.00000E+00      1.49600E+00      6.00000E-02
-      1.36400E+01      0.00000E+00      1.42400E+00      5.70000E-02
-      1.38700E+01      0.00000E+00      1.41900E+00      5.30000E-02
-      1.40500E+01      0.00000E+00      1.46200E+00      5.90000E-02
-      1.42800E+01      0.00000E+00      1.45400E+00      5.40000E-02
-      1.44500E+01      0.00000E+00      1.45600E+00      5.70000E-02
-      1.46400E+01      0.00000E+00      1.43400E+00      5.40000E-02
-      1.48200E+01      0.00000E+00      1.47200E+00      5.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3480E+01        0.0000E+00        1.4960E+00        6.0000E-02
+        1.3640E+01        0.0000E+00        1.4240E+00        5.7000E-02
+        1.3870E+01        0.0000E+00        1.4190E+00        5.3000E-02
+        1.4050E+01        0.0000E+00        1.4620E+00        5.9000E-02
+        1.4280E+01        0.0000E+00        1.4540E+00        5.4000E-02
+        1.4450E+01        0.0000E+00        1.4560E+00        5.7000E-02
+        1.4640E+01        0.0000E+00        1.4340E+00        5.4000E-02
+        1.4820E+01        0.0000E+00        1.4720E+00        5.3000E-02

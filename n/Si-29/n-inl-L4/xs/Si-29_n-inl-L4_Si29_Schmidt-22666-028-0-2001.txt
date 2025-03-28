@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22666-028-0 
-# EXFOR reaction        : ['14-SI-29', ['N,INL'], '14-SI-29,PAR,SIG'] 
+# EXFOR reaction        : (14-SI-29(N,INL)14-SI-29,PAR,SIG) 
 # incident energy       : 7.8900e+00 MeV - 1.3850e+01 MeV 
 # target                : Si-29 
 # product               : Si-29 
 # level energy          : 3.0680e+00 MeV 
 # MF-MT number          : 3 - 54 
-# first author          : D.Schmidt 
+# first author          : Schmidt 
 # institute             : (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
 # reference             : (R,PTB-N-43,2001) 
 # year                  : 2001 
@@ -13,14 +13,14 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22666.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22666
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.89000E+00      1.61000E-01      1.50940E-01      2.71692E-02
-      8.38000E+00      1.41000E-01      1.39390E-01      2.80313E-02
-      8.89000E+00      1.41000E-01      1.19020E-01      1.35445E-02
-      9.42000E+00      1.41000E-01      1.40770E-01      2.93646E-02
-      9.88000E+00      1.21000E-01      1.23940E-01      2.49367E-02
-      1.03500E+01      1.21000E-01      1.24920E-01      2.38847E-02
-      1.08100E+01      1.21000E-01      1.33900E-01      5.59166E-02
-      1.17800E+01      1.21000E-01      7.42680E-02      1.42966E-02
-      1.27900E+01      1.21000E-01      1.03510E-01      4.19630E-02
-      1.38500E+01      1.21000E-01      9.72430E-02      3.70593E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.8900E+00        1.6100E-01        1.5094E-01        2.7169E-02
+        8.3800E+00        1.4100E-01        1.3939E-01        2.8031E-02
+        8.8900E+00        1.4100E-01        1.1902E-01        1.3544E-02
+        9.4200E+00        1.4100E-01        1.4077E-01        2.9365E-02
+        9.8800E+00        1.2100E-01        1.2394E-01        2.4937E-02
+        1.0350E+01        1.2100E-01        1.2492E-01        2.3885E-02
+        1.0810E+01        1.2100E-01        1.3390E-01        5.5917E-02
+        1.1780E+01        1.2100E-01        7.4268E-02        1.4297E-02
+        1.2790E+01        1.2100E-01        1.0351E-01        4.1963E-02
+        1.3850E+01        1.2100E-01        9.7243E-02        3.7059E-02

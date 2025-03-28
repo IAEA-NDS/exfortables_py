@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0670-002-0 
-# EXFOR reaction        : ['74-W-0', ['P,X'], 'MASS,,SIG'] 
+# EXFOR reaction        : (74-W-0(P,X)MASS,,SIG) 
 # incident energy       : 2.4000e+04 MeV 
 # target                : W-0 
 # product               : A=145.0 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : G.W.A.Newton 
+# first author          : Newton 
 # institute             : (2UK MAN): University of Manchester, England 
 # reference             : (J,JIN,35,1435,1973) 
 # year                  : 1973 
@@ -13,5 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0670.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0670
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.40000E+04      0.00000E+00      2.70000E-02      4.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4000E+04        0.0000E+00        1.6000E-02        2.0000E-03
+        2.4000E+04        0.0000E+00        2.7000E-02        4.0000E-03
+        2.4000E+04        0.0000E+00        2.3000E-02        4.0000E-03
+        2.4000E+04        0.0000E+00        2.7000E-02        4.0000E-03
+        2.4000E+04        0.0000E+00        1.0500E-02        2.0000E-03
+        2.4000E+04        0.0000E+00        1.6000E-02        2.0000E-03
+        2.4000E+04        0.0000E+00        2.6000E-02        3.0000E-03
+        2.4000E+04        0.0000E+00        2.6000E-02        3.0000E-03
+        2.4000E+04        0.0000E+00        5.3000E-02        6.0000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0073-002-0 
-# EXFOR reaction        : ['31-GA-0', ['D,X'], '32-GE-68,,SIG'] 
+# EXFOR reaction        : (31-GA-0(D,X)32-GE-68,,SIG) 
 # incident energy       : 1.4220e+01 MeV - 4.9610e+01 MeV 
 # target                : Ga-0 
 # product               : Ge-68 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.Karpeles 
+# first author          : Karpeles 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,RCA,12,212,1969) 
 # year                  : 1969 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D00/D0073.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0073
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42200E+01      0.00000E+00      1.52600E-03      3.55800E-04
-      1.72200E+01      0.00000E+00      2.81100E-02      6.55300E-03
-      2.02300E+01      0.00000E+00      1.22100E-01      2.50700E-02
-      2.34600E+01      0.00000E+00      2.40600E-01      2.34900E-02
-      2.65200E+01      0.00000E+00      3.15100E-01      2.67600E-02
-      3.25500E+01      0.00000E+00      2.71800E-01      2.65300E-02
-      3.55100E+01      0.00000E+00      2.15600E-01      2.10500E-02
-      4.47800E+01      0.00000E+00      1.52900E-01      2.29300E-02
-      4.96100E+01      0.00000E+00      1.29700E-01      2.12200E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4220E+01        0.0000E+00        1.5260E-03        3.5580E-04
+        1.7220E+01        0.0000E+00        2.8110E-02        6.5530E-03
+        2.0230E+01        0.0000E+00        1.2210E-01        2.5070E-02
+        2.3460E+01        0.0000E+00        2.4060E-01        2.3490E-02
+        2.6520E+01        0.0000E+00        3.1510E-01        2.6760E-02
+        3.2550E+01        0.0000E+00        2.7180E-01        2.6530E-02
+        3.5510E+01        0.0000E+00        2.1560E-01        2.1050E-02
+        4.4780E+01        0.0000E+00        1.5290E-01        2.2930E-02
+        4.9610E+01        0.0000E+00        1.2970E-01        2.1220E-02

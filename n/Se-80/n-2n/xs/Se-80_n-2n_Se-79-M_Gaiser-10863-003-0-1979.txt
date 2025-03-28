@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10863-003-0 
-# EXFOR reaction        : ['34-SE-80', ['N,2N'], '34-SE-79-M,,SIG'] 
+# EXFOR reaction        : (34-SE-80(N,2N)34-SE-79-M,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Se-80 
 # product               : Se-79-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.E.Gaiser 
+# first author          : Gaiser 
 # institute             : (1USAAUB): Auburn University, Auburn, AL 
 # reference             : (J,BAP,24,108(DD13),1979) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10863.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10863
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      4.00000E-01      2.47000E-01      2.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        4.0000E-01        2.4700E-01        2.2000E-02

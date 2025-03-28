@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23383-003-0 
-# EXFOR reaction        : ['44-RU-102', ['N,G'], '44-RU-103,,SIG,,SPA'] 
+# EXFOR reaction        : (44-RU-102(N,G)44-RU-103,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ru-102 
 # product               : Ru-103 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.P.Rambaek 
+# first author          : Rambaek 
 # institute             : (2NORKJL): Institutt for Energiteknikk (IFE), Kjeller 
 # reference             : (P,INDC(SEC)-62,151,1977) 
 # year                  : 1977 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/233/23383.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23383
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.21000E+00      7.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.2100E+00        7.0000E-02

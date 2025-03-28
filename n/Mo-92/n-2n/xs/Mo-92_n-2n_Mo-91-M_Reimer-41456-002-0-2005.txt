@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41456-002-0 
-# EXFOR reaction        : ['42-MO-92', ['N,2N'], '42-MO-91-M,,SIG'] 
+# EXFOR reaction        : (42-MO-92(N,2N)42-MO-91-M,,SIG) 
 # incident energy       : 1.3640e+01 MeV - 1.4820e+01 MeV 
 # target                : Mo-92 
 # product               : Mo-91-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : P.Reimer 
+# first author          : Reimer 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,PR/C,71,044617,200504) 
 # year                  : 2005 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41456.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41456
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36400E+01      0.00000E+00      1.44000E-03      6.00000E-04
-      1.38700E+01      0.00000E+00      3.67000E-03      6.00000E-04
-      1.40500E+01      0.00000E+00      6.44000E-03      8.00000E-04
-      1.42800E+01      0.00000E+00      1.11000E-02      1.30000E-03
-      1.44500E+01      0.00000E+00      1.63000E-02      2.20000E-03
-      1.46400E+01      0.00000E+00      2.26000E-02      2.80000E-03
-      1.48200E+01      0.00000E+00      2.71000E-02      3.20000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3640E+01        0.0000E+00        1.4400E-03        6.0000E-04
+        1.3870E+01        0.0000E+00        3.6700E-03        6.0000E-04
+        1.4050E+01        0.0000E+00        6.4400E-03        8.0000E-04
+        1.4280E+01        0.0000E+00        1.1100E-02        1.3000E-03
+        1.4450E+01        0.0000E+00        1.6300E-02        2.2000E-03
+        1.4640E+01        0.0000E+00        2.2600E-02        2.8000E-03
+        1.4820E+01        0.0000E+00        2.7100E-02        3.2000E-03

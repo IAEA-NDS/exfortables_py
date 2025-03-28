@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20509-012-0 
-# EXFOR reaction        : ['64-GD-156', ['N,P'], '63-EU-156,,SIG'] 
+# EXFOR reaction        : (64-GD-156(N,P)63-EU-156,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Gd-156 
 # product               : Eu-156 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : E.Havlik 
+# first author          : Havlik 
 # institute             : (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
 # reference             : (J,APA,34,209,197109) 
 # year                  : 1971 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20509.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20509
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      1.50000E-01      1.50000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        1.5000E-01        1.5000E-02        0.0000E+00

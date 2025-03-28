@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11941-002-0 
-# EXFOR reaction        : ['45-RH-103', ['N,INL'], '45-RH-103-M,,SIG'] 
+# EXFOR reaction        : (45-RH-103(N,INL)45-RH-103-M,,SIG) 
 # incident energy       : 1.3580e+01 MeV - 1.4760e+01 MeV 
 # target                : Rh-103 
 # product               : Rh-103-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : J.P.Butler 
+# first author          : Butler 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (C,68WASH,2,803,1968) 
 # year                  : 1968 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11941.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11941
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35800E+01      6.00000E-02      3.51000E-01      1.60000E-02
-      1.38900E+01      8.00000E-02      3.28000E-01      1.50000E-02
-      1.42400E+01      8.00000E-02      2.90000E-01      1.30000E-02
-      1.45000E+01      6.00000E-02      2.55000E-01      1.30000E-02
-      1.47600E+01      6.00000E-02      2.62000E-01      1.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3580E+01        6.0000E-02        3.5100E-01        1.6000E-02
+        1.3890E+01        8.0000E-02        3.2800E-01        1.5000E-02
+        1.4240E+01        8.0000E-02        2.9000E-01        1.3000E-02
+        1.4500E+01        6.0000E-02        2.5500E-01        1.3000E-02
+        1.4760E+01        6.0000E-02        2.6200E-01        1.2000E-02

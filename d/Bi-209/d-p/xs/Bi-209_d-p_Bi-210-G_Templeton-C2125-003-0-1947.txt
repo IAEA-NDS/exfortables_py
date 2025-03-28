@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2125-003-0 
-# EXFOR reaction        : ['83-BI-209', ['D,P'], '83-BI-210-G,,SIG'] 
+# EXFOR reaction        : (83-BI-209(D,P)83-BI-210-G,,SIG) 
 # incident energy       : 2.0000e+01 MeV 
 # target                : Bi-209 
 # product               : Bi-210-G 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : D.H.Templeton 
+# first author          : Templeton 
 # institute             : (1USAUCX): University of California, Berkeley, CA 
 # reference             : (J,PR,72,766,1947) 
 # year                  : 1947 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C21/C2125.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2125
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+01      0.00000E+00      1.30000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+01        0.0000E+00        1.3000E-01        0.0000E+00

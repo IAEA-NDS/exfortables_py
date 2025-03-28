@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20162-008-0 
-# EXFOR reaction        : ['41-NB-93', ['N,EL'], '41-NB-93,,SIG'] 
+# EXFOR reaction        : (41-NB-93(N,EL)41-NB-93,,SIG) 
 # incident energy       : 8.0500e+00 MeV 
 # target                : Nb-93 
 # product               : Nb-93 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : B.Holmqvist 
+# first author          : Holmqvist 
 # institute             : (2SWDAE ): Studsvik Energiteknik AB 
 # reference             : (R,AE-430,7109) 
 # year                  : 1971 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20162.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20162
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.05000E+00      9.00000E-02      2.68000E+00      1.40000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0500E+00        9.0000E-02        2.6800E+00        1.4000E-01

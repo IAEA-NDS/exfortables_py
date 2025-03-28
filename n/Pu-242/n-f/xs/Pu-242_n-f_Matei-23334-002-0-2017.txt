@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23334-002-0 
-# EXFOR reaction        : ['94-PU-242', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (94-PU-242(N,F),,SIG) 
 # incident energy       : 1.0000e+00 MeV - 2.5000e+00 MeV 
 # target                : Pu-242 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : C.Matei 
+# first author          : Matei 
 # institute             : (2UK NPL): National Physics Laboratory , Teddington 
 # reference             : (J,PR/C,95,024606,2017) 
 # year                  : 2017 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/233/23334.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23334
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      1.42300E+00      5.30000E-02
-      1.10000E+00      0.00000E+00      1.49900E+00      4.30000E-02
-      1.20000E+00      0.00000E+00      1.55000E+00      5.90000E-02
-      2.00000E+00      0.00000E+00      1.45300E+00      5.50000E-02
-      2.50000E+00      0.00000E+00      1.45000E+00      5.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        1.4230E+00        5.3000E-02
+        1.1000E+00        0.0000E+00        1.4990E+00        4.3000E-02
+        1.2000E+00        0.0000E+00        1.5500E+00        5.9000E-02
+        2.0000E+00        0.0000E+00        1.4530E+00        5.5000E-02
+        2.5000E+00        0.0000E+00        1.4500E+00        5.5000E-02

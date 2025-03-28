@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30474-002-0 
-# EXFOR reaction        : ['5-B-0', ['N,T'], ',,SIG,,FIS'] 
+# EXFOR reaction        : (5-B-0(N,T),,SIG,,FIS) 
 # incident energy       : 1.4100e+00 MeV 
 # target                : B-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 105 
-# first author          : F.Cserpak 
+# first author          : Cserpak 
 # institute             : (3HUNKOS): University of Debrecen, Debrecen 
 # reference             : (C,78HARWELL,,761,197809) 
 # year                  : 1978 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30474.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30474
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+00      0.00000E+00      1.10000E-02      7.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+00        0.0000E+00        1.1000E-02        7.0000E-04

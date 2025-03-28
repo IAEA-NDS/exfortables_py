@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0276-431-0 
-# EXFOR reaction        : ['79-AU-197', ['P,X'], '72-HF-173,CUM,SIG'] 
+# EXFOR reaction        : (79-AU-197(P,X)72-HF-173,CUM,SIG) 
 # incident energy       : 2.4300e+02 MeV - 2.6000e+03 MeV 
 # target                : Au-197 
 # product               : Hf-173 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,129,153,1997) 
 # year                  : 1997 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0276
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.43000E+02      1.71000E+00      4.43000E-03      3.67000E-04
-      2.61000E+02      0.00000E+00      2.27000E-03      2.05000E-04
-      3.25000E+02      1.67000E+00      1.44000E-02      1.22000E-03
-      3.29000E+02      0.00000E+00      9.33000E-03      7.14000E-04
-      3.67000E+02      0.00000E+00      1.55000E-02      1.23000E-03
-      1.20000E+03      0.00000E+00      2.87000E-02      2.52000E-03
-      1.60000E+03      0.00000E+00      2.74000E-02      2.63000E-03
-      2.60000E+03      0.00000E+00      9.63000E-03      1.16000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4300E+02        1.7100E+00        4.4300E-03        3.6700E-04
+        2.6100E+02        0.0000E+00        2.2700E-03        2.0500E-04
+        3.2500E+02        1.6700E+00        1.4400E-02        1.2200E-03
+        3.2900E+02        0.0000E+00        9.3300E-03        7.1400E-04
+        3.6700E+02        0.0000E+00        1.5500E-02        1.2300E-03
+        1.2000E+03        0.0000E+00        2.8700E-02        2.5200E-03
+        1.6000E+03        0.0000E+00        2.7400E-02        2.6300E-03
+        2.6000E+03        0.0000E+00        9.6300E-03        1.1600E-03

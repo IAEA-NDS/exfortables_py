@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1850-010-0 
-# EXFOR reaction        : ['90-TH-232', ['P,F'], '60-ND-151,', ['CUM'], ',SIG'] 
+# EXFOR reaction        : (90-TH-232(P,F)60-ND-151,(CUM),SIG) 
 # incident energy       : 9.0000e+00 MeV - 1.5900e+01 MeV 
 # target                : Th-232 
 # product               : Nd-151 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : K.Tsukada 
+# first author          : Tsukada 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (J,RCA,76,173,1997) 
 # year                  : 1997 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E18/E1850.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1850
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.00000E+00      0.00000E+00      6.90000E-05      6.00000E-06
-      1.00000E+01      0.00000E+00      1.80000E-04      2.00000E-05
-      1.10000E+01      0.00000E+00      2.40000E-04      2.00000E-05
-      1.20000E+01      0.00000E+00      4.20000E-04      6.00000E-05
-      1.25000E+01      0.00000E+00      4.60000E-04      3.00000E-05
-      1.30000E+01      0.00000E+00      6.90000E-04      8.00000E-05
-      1.40000E+01      0.00000E+00      1.00000E-03      1.00000E-04
-      1.50000E+01      0.00000E+00      1.70000E-03      1.00000E-04
-      1.59000E+01      0.00000E+00      2.10000E-03      1.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.0000E+00        0.0000E+00        6.9000E-05        6.0000E-06
+        1.0000E+01        0.0000E+00        1.8000E-04        2.0000E-05
+        1.1000E+01        0.0000E+00        2.4000E-04        2.0000E-05
+        1.2000E+01        0.0000E+00        4.2000E-04        6.0000E-05
+        1.2500E+01        0.0000E+00        4.6000E-04        3.0000E-05
+        1.3000E+01        0.0000E+00        6.9000E-04        8.0000E-05
+        1.4000E+01        0.0000E+00        1.0000E-03        1.0000E-04
+        1.5000E+01        0.0000E+00        1.7000E-03        1.0000E-04
+        1.5900E+01        0.0000E+00        2.1000E-03        1.0000E-04

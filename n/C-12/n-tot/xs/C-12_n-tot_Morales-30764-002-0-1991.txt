@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30764-002-0 
-# EXFOR reaction        : ['6-C-12', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (6-C-12(N,TOT),,SIG) 
 # incident energy       : 1.7600e+01 MeV - 1.9800e+01 MeV 
 # target                : C-12 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : J.R.Morales 
+# first author          : Morales 
 # institute             : (3CHLSAN): Universidad de Chile, Santiago 
 # reference             : (J,NIM/A,300,312,1991) 
 # year                  : 1991 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30764.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30764
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.76000E+01      0.00000E+00      1.43000E+00      7.00000E-02
-      1.98000E+01      0.00000E+00      1.39000E+00      7.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7600E+01        0.0000E+00        1.4300E+00        7.0000E-02
+        1.9800E+01        0.0000E+00        1.3900E+00        7.0000E-02

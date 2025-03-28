@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11464-002-0 
-# EXFOR reaction        : ['12-MG-24', ['N,P'], '11-NA-24,,SIG'] 
+# EXFOR reaction        : (12-MG-24(N,P)11-NA-24,,SIG) 
 # incident energy       : 1.3030e+01 MeV 
 # target                : Mg-24 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : B.D.Kern 
+# first author          : Kern 
 # institute             : (1USANRD): U.S. Naval Radiolog. Defense Laboratory , San Francisco, CA 
 # reference             : (J,NP,10,226,1959) 
 # year                  : 1959 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11464.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11464
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.30300E+01      2.00000E-01      2.19000E-01      2.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3030E+01        2.0000E-01        2.1900E-01        2.6000E-02

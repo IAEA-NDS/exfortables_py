@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14469-003-0 
-# EXFOR reaction        : ['32-GE-76', ['N,G'], '32-GE-77-G,M+,SIG'] 
+# EXFOR reaction        : (32-GE-76(N,G)32-GE-77-G,M+,SIG) 
 # incident energy       : 1.3200e+00 MeV - 7.3600e+00 MeV 
 # target                : Ge-76 
 # product               : Ge-77-G 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.Bhike 
+# first author          : Bhike 
 # institute             : (1USATNL): Triangle Universities Nuclear Laboratory , Durham, NC 
 # reference             : (J,PL/B,741,150,2015) 
 # year                  : 2015 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/144/14469.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14469
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.32000E+00      1.10000E-01      2.30000E-03      1.70000E-04
-      1.87000E+00      1.10000E-01      1.75000E-03      3.10000E-04
-      2.77000E+00      1.30000E-01      1.89000E-03      3.60000E-04
-      3.39000E+00      1.50000E-01      1.22000E-03      2.20000E-04
-      4.39000E+00      3.30000E-01      8.80000E-04      7.00000E-05
-      5.33000E+00      3.50000E-01      6.10000E-04      9.00000E-05
-      6.64000E+00      3.30000E-01      4.40000E-04      8.00000E-05
-      7.36000E+00      2.90000E-01      3.70000E-04      6.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3200E+00        1.1000E-01        2.3000E-03        1.7000E-04
+        1.8700E+00        1.1000E-01        1.7500E-03        3.1000E-04
+        2.7700E+00        1.3000E-01        1.8900E-03        3.6000E-04
+        3.3900E+00        1.5000E-01        1.2200E-03        2.2000E-04
+        4.3900E+00        3.3000E-01        8.8000E-04        7.0000E-05
+        5.3300E+00        3.5000E-01        6.1000E-04        9.0000E-05
+        6.6400E+00        3.3000E-01        4.4000E-04        8.0000E-05
+        7.3600E+00        2.9000E-01        3.7000E-04        6.0000E-05

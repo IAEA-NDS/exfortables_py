@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0173-004-2 
-# EXFOR reaction        : ['10-NE-20', ['P,G'], '11-NA-21,,SIG,,SFC'] 
+# EXFOR reaction        : (10-NE-20(P,G)11-NA-21,,SIG,,SFC) 
 # incident energy       : 1.0500e+00 MeV 
 # target                : Ne-20 
 # product               : Na-21 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : N.Tanner 
+# first author          : Tanner 
 # institute             : (1USACAL): California Institute of Technology, Pasadena, CA 
 # reference             : (J,PR,114,1060,195905) 
 # year                  : 1959 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C01/C0173.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0173
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.05000E+00      0.00000E+00      1.70000E+04      3.00000E+03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0500E+00        0.0000E+00        1.7000E+04        3.0000E+03

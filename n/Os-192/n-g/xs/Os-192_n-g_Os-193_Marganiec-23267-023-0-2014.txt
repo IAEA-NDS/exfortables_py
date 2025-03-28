@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23267-023-0 
-# EXFOR reaction        : ['76-OS-192', ['N,G'], '76-OS-193,,SIG,,SPA/AV'] 
+# EXFOR reaction        : (76-OS-192(N,G)76-OS-193,,SIG,,SPA/AV) 
 # incident energy       : 1.0600e-01 MeV 
 # target                : Os-192 
 # product               : Os-193 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.Marganiec 
+# first author          : Marganiec 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,90,065801,2014) 
 # year                  : 2014 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23267.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23267
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.06000E-01      0.00000E+00      1.54000E-01      6.46800E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0600E-01        0.0000E+00        1.5400E-01        6.4680E-03

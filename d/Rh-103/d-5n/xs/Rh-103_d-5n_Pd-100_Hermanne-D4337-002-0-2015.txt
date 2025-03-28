@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4337-002-0 
-# EXFOR reaction        : ['45-RH-103', ['D,5N'], '46-PD-100,,SIG'] 
+# EXFOR reaction        : (45-RH-103(D,5N)46-PD-100,,SIG) 
 # incident energy       : 3.6600e+01 MeV - 4.9800e+01 MeV 
 # target                : Rh-103 
 # product               : Pd-100 
 # level energy          : - 
 # MF-MT number          : 3 - 152 
-# first author          : A.Hermanne 
+# first author          : Hermanne 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,NIM/B,362,110,2015) 
 # year                  : 2015 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4337.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4337
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.98000E+01      2.00000E-01      2.11000E-01      2.30000E-02
-      4.78000E+01      2.00000E-01      1.91000E-01      2.10000E-02
-      4.57000E+01      3.00000E-01      1.62000E-01      1.80000E-02
-      4.36000E+01      3.00000E-01      1.22000E-01      1.30000E-02
-      4.13000E+01      4.00000E-01      8.20000E-02      9.00000E-03
-      3.90000E+01      5.00000E-01      5.80000E-02      6.00000E-03
-      3.66000E+01      6.00000E-01      3.80000E-02      4.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.9800E+01        2.0000E-01        2.1100E-01        2.3000E-02
+        4.7800E+01        2.0000E-01        1.9100E-01        2.1000E-02
+        4.5700E+01        3.0000E-01        1.6200E-01        1.8000E-02
+        4.3600E+01        3.0000E-01        1.2200E-01        1.3000E-02
+        4.1300E+01        4.0000E-01        8.2000E-02        9.0000E-03
+        3.9000E+01        5.0000E-01        5.8000E-02        6.0000E-03
+        3.6600E+01        6.0000E-01        3.8000E-02        4.0000E-03

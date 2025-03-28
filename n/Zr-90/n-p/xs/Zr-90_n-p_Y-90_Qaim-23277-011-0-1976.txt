@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23277-011-0 
-# EXFOR reaction        : ['40-ZR-90', ['N,P'], '39-Y-90,,SIG,,SPA'] 
+# EXFOR reaction        : (40-ZR-90(N,P)39-Y-90,,SIG,,SPA) 
 # incident energy       : 2.0000e+00 MeV - 8.0000e+00 MeV 
 # target                : Zr-90 
 # product               : Y-90 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : S.M.Qaim 
+# first author          : Qaim 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (C,76GARMIS,,589,197606) 
 # year                  : 1976 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23277.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23277
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+00      0.00000E+00      3.90000E-02      5.00000E-03
-      8.00000E+00      0.00000E+00      5.50000E-02      5.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+00        0.0000E+00        3.9000E-02        5.0000E-03
+        8.0000E+00        0.0000E+00        5.5000E-02        5.0000E-03

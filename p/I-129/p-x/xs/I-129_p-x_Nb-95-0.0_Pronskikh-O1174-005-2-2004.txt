@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1174-005-2 
-# EXFOR reaction        : ['53-I-129', ['P,X'], 'ELEM/MASS,CUM,SIG,,,DERIV'] 
+# EXFOR reaction        : (53-I-129(P,X)ELEM/MASS,CUM,SIG,,,DERIV) 
 # incident energy       : 6.6000e+02 MeV 
 # target                : I-129 
 # product               : Nb-95-0.0 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : V.S.Pronskikh 
+# first author          : Pronskikh 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (R,LA-UR-04-2139,2004) 
 # year                  : 2004 
@@ -13,5 +13,23 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O11/O1174.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1174
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.60000E+02      0.00000E+00      4.00000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6000E+02        0.0000E+00        3.8000E-04        0.0000E+00
+        6.6000E+02        0.0000E+00        6.3000E-04        0.0000E+00
+        6.6000E+02        0.0000E+00        1.1100E-03        0.0000E+00
+        6.6000E+02        0.0000E+00        1.5000E-03        0.0000E+00
+        6.6000E+02        0.0000E+00        1.0500E-03        0.0000E+00
+        6.6000E+02        0.0000E+00        4.0000E-04        0.0000E+00
+        6.6000E+02        0.0000E+00        2.6000E-03        0.0000E+00
+        6.6000E+02        0.0000E+00        4.5000E-04        0.0000E+00
+        6.6000E+02        0.0000E+00        9.0300E-03        0.0000E+00
+        6.6000E+02        0.0000E+00        2.6000E-03        0.0000E+00
+        6.6000E+02        0.0000E+00        6.2000E-03        0.0000E+00
+        6.6000E+02        0.0000E+00        1.3600E-02        0.0000E+00
+        6.6000E+02        0.0000E+00        1.5900E-02        0.0000E+00
+        6.6000E+02        0.0000E+00        2.6600E-02        0.0000E+00
+        6.6000E+02        0.0000E+00        8.3000E-03        0.0000E+00
+        6.6000E+02        0.0000E+00        1.0700E-02        0.0000E+00
+        6.6000E+02        0.0000E+00        1.6800E-02        0.0000E+00
+        6.6000E+02        0.0000E+00        2.4600E-02        0.0000E+00
+        6.6000E+02        0.0000E+00        4.2000E-03        0.0000E+00

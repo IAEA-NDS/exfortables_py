@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0256-026-0 
-# EXFOR reaction        : ['6-C-12', ['P,INL'], '6-C-12,PAR,SIG'] 
+# EXFOR reaction        : (6-C-12(P,INL)6-C-12,PAR,SIG) 
 # incident energy       : 1.1600e+01 MeV 
 # target                : C-12 
 # product               : C-12 
 # level energy          : 7.6600e+00 MeV 
 # MF-MT number          : 3 - 602 
-# first author          : A.C.L.Barnard 
+# first author          : Barnard 
 # institute             : (1USARIC): Rice University, Houston, TX 
 # reference             : (J,NP,86,130,1966) 
 # year                  : 1966 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0256.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0256
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.16000E+01      0.00000E+00      1.50000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1600E+01        0.0000E+00        1.5000E-02        0.0000E+00

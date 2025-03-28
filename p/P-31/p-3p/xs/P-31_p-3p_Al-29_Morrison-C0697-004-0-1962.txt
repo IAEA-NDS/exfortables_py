@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0697-004-0 
-# EXFOR reaction        : ['15-P-31', ['P,3P'], '13-AL-29,,SIG'] 
+# EXFOR reaction        : (15-P-31(P,3P)13-AL-29,,SIG) 
 # incident energy       : 1.3000e+02 MeV - 4.2500e+02 MeV 
 # target                : P-31 
 # product               : Al-29 
 # level energy          : - 
 # MF-MT number          : 3 - 197 
-# first author          : D.L.Morrison 
+# first author          : Morrison 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,PR,127,1731,1962) 
 # year                  : 1962 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C06/C0697.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0697
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.30000E+02      0.00000E+00      4.33000E-03      7.20000E-04
-      2.10000E+02      0.00000E+00      6.70000E-03      1.10000E-03
-      3.00000E+02      0.00000E+00      4.35000E-03      8.00000E-04
-      4.00000E+02      0.00000E+00      8.13000E-03      1.59000E-03
-      4.25000E+02      0.00000E+00      7.50000E-03      1.03000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3000E+02        0.0000E+00        4.3300E-03        7.2000E-04
+        2.1000E+02        0.0000E+00        6.7000E-03        1.1000E-03
+        3.0000E+02        0.0000E+00        4.3500E-03        8.0000E-04
+        4.0000E+02        0.0000E+00        8.1300E-03        1.5900E-03
+        4.2500E+02        0.0000E+00        7.5000E-03        1.0300E-03

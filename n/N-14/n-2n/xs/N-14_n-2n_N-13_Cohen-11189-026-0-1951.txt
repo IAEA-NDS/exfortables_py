@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11189-026-0 
-# EXFOR reaction        : ['7-N-14', ['N,2N'], '7-N-13,,SIG,,SPA'] 
+# EXFOR reaction        : (7-N-14(N,2N)7-N-13,,SIG,,SPA) 
 # incident energy       : 1.4300e+01 MeV 
 # target                : N-14 
 # product               : N-13 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : B.L.Cohen 
+# first author          : Cohen 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,PR,81,184,1951) 
 # year                  : 1951 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/111/11189.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11189
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.43000E+01      0.00000E+00      2.55000E-04      2.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4300E+01        0.0000E+00        2.5500E-04        2.0000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41329-005-0 
-# EXFOR reaction        : ['24-CR-52', ['N,2N'], '24-CR-51,,SIG'] 
+# EXFOR reaction        : (24-CR-52(N,2N)24-CR-51,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Cr-52 
 # product               : Cr-51 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Lychagin 
+# first author          : Lychagin 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (C,88SMOLEN,,272,198806) 
 # year                  : 1988 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/413/41329.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41329
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      0.00000E+00      3.27000E-01      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        3.2700E-01        3.0000E-02

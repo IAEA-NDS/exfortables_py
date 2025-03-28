@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21009-031-0 
-# EXFOR reaction        : ['41-NB-93', ['N,2A'], '37-RB-86,,SIG,,SPA'] 
+# EXFOR reaction        : (41-NB-93(N,2A)37-RB-86,,SIG,,SPA) 
 # incident energy       : 2.2500e+01 MeV 
 # target                : Nb-93 
 # product               : Rb-86 
 # level energy          : - 
 # MF-MT number          : 3 - 108 
-# first author          : C.H.Wu 
+# first author          : Wu 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,NP/A,329,63,197910) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21009.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21009
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.25000E+01      1.58000E+01      9.00000E-05      5.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2500E+01        1.5800E+01        9.0000E-05        5.0000E-05

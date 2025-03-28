@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31765-003-0 
-# EXFOR reaction        : ['40-ZR-96', ['N,G'], '40-ZR-97,,SIG,,SPA'] 
+# EXFOR reaction        : (40-ZR-96(N,G)40-ZR-97,,SIG,,SPA) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Zr-96 
 # product               : Zr-97 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.Tessler 
+# first author          : Tessler 
 # institute             : (3ISLHEB): Hebrew University , Jerusalem 
 # reference             : (J,PL/B,751,418,2015) 
 # year                  : 2015 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31765.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31765
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      0.00000E+00      1.19000E-02      4.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        1.1900E-02        4.0000E-04

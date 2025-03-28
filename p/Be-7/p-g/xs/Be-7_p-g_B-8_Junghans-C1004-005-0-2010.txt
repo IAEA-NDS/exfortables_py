@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1004-005-0 
-# EXFOR reaction        : ['4-BE-7', ['P,G'], '5-B-8,,SIG,,SFC'] 
+# EXFOR reaction        : (4-BE-7(P,G)5-B-8,,SIG,,SFC) 
 # incident energy       : 8.7570e-01 MeV - 2.4585e+00 MeV 
 # target                : Be-7 
 # product               : B-8 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.R.Junghans 
+# first author          : Junghans 
 # institute             : (1USAWAU): University of Washington, Seattle, WA 
 # reference             : (J,PR/C,81,012801,2010) 
 # year                  : 2010 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C10/C1004.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1004
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.75700E-01      0.00000E+00      2.45000E+01      0.00000E+00
-      1.00160E+00      0.00000E+00      2.45000E+01      0.00000E+00
-      1.40360E+00      0.00000E+00      2.74000E+01      0.00000E+00
-      1.57940E+00      0.00000E+00      2.93000E+01      0.00000E+00
-      1.93100E+00      0.00000E+00      3.48000E+01      0.00000E+00
-      2.19470E+00      0.00000E+00      4.33000E+01      0.00000E+00
-      2.45850E+00      0.00000E+00      4.06000E+01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.7570E-01        0.0000E+00        2.4500E+01        0.0000E+00
+        1.0016E+00        0.0000E+00        2.4500E+01        0.0000E+00
+        1.4036E+00        0.0000E+00        2.7400E+01        0.0000E+00
+        1.5794E+00        0.0000E+00        2.9300E+01        0.0000E+00
+        1.9310E+00        0.0000E+00        3.4800E+01        0.0000E+00
+        2.1947E+00        0.0000E+00        4.3300E+01        0.0000E+00
+        2.4585E+00        0.0000E+00        4.0600E+01        0.0000E+00

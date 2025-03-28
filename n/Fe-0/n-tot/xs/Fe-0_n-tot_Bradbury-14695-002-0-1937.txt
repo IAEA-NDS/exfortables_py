@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14695-002-0 
-# EXFOR reaction        : ['26-FE-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (26-FE-0(N,TOT),,SIG) 
 # incident energy       : 1.0000e-06 MeV 
 # target                : Fe-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : N.E.Bradbury 
+# first author          : Bradbury 
 # institute             : (1USASTF): Stanford University, Stanford, CA 
 # reference             : (J,PR,52,1023,1937) 
 # year                  : 1937 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/146/14695.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14695
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E-06      0.00000E+00      1.02000E+01      8.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E-06        0.0000E+00        1.0200E+01        8.0000E-01

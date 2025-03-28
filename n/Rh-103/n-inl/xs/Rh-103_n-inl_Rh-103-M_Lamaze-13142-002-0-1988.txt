@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13142-002-0 
-# EXFOR reaction        : ['45-RH-103', ['N,INL'], '45-RH-103-M,,SIG,,FIS'] 
+# EXFOR reaction        : (45-RH-103(N,INL)45-RH-103-M,,SIG,,FIS) 
 # incident energy       : 1.0000e+00 MeV 
 # target                : Rh-103 
 # product               : Rh-103-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : G.P.Lamaze 
+# first author          : Lamaze 
 # institute             : (1USANBS): National Bureau of Standards, Washington, DC 
 # reference             : (J,NSE,100,43,8809) 
 # year                  : 1988 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13142.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13142
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      7.39000E-01      2.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        7.3900E-01        2.2000E-02

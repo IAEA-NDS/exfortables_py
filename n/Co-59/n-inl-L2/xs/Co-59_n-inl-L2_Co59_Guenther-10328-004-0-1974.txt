@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10328-004-0 
-# EXFOR reaction        : ['27-CO-59', ['N,INL'], '27-CO-59,PAR,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,INL)27-CO-59,PAR,SIG) 
 # incident energy       : 1.8000e+00 MeV - 3.1000e+00 MeV 
 # target                : Co-59 
 # product               : Co-59 
 # level energy          : 1.1900e+00 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : P.T.Guenther 
+# first author          : Guenther 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,NSE,54,273,197407) 
 # year                  : 1974 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/103/10328.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10328
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.80000E+00      0.00000E+00      1.59400E-01      8.00000E-02
-      1.90000E+00      0.00000E+00      2.40600E-01      8.00000E-02
-      2.00000E+00      0.00000E+00      2.34000E-01      4.00000E-02
-      2.20000E+00      0.00000E+00      2.31400E-01      4.00000E-02
-      2.90000E+00      0.00000E+00      2.02600E-01      4.00000E-02
-      3.10000E+00      0.00000E+00      1.74700E-01      4.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8000E+00        0.0000E+00        1.5940E-01        8.0000E-02
+        1.9000E+00        0.0000E+00        2.4060E-01        8.0000E-02
+        2.0000E+00        0.0000E+00        2.3400E-01        4.0000E-02
+        2.2000E+00        0.0000E+00        2.3140E-01        4.0000E-02
+        2.9000E+00        0.0000E+00        2.0260E-01        4.0000E-02
+        3.1000E+00        0.0000E+00        1.7470E-01        4.0000E-02

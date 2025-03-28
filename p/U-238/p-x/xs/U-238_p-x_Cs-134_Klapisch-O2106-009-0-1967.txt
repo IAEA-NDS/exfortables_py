@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2106-009-0 
-# EXFOR reaction        : ['92-U-238', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (92-U-238(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 1.5000e+02 MeV 
 # target                : U-238 
 # product               : Cs-134 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Klapisch 
+# first author          : Klapisch 
 # institute             : (2FR CSN): Centre Sci. Nuclear et Sci. Matiere (CSNSM), Orsay 
 # reference             : (J,NIM,53,216,1967) 
 # year                  : 1967 
@@ -13,5 +13,20 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2106.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2106
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+02      0.00000E+00      8.41000E-03      1.83000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+02        0.0000E+00        2.4600E-04        1.9300E-04
+        1.5000E+02        0.0000E+00        5.4800E-04        1.2600E-04
+        1.5000E+02        0.0000E+00        1.1990E-03        9.7000E-05
+        1.5000E+02        0.0000E+00        2.6330E-03        1.1300E-04
+        1.5000E+02        0.0000E+00        4.3320E-03        1.6000E-04
+        1.5000E+02        0.0000E+00        6.7990E-03        2.1000E-04
+        1.5000E+02        0.0000E+00        8.4100E-03        1.8300E-04
+        1.5000E+02        0.0000E+00        1.0767E-02        3.6500E-04
+        1.5000E+02        0.0000E+00        1.1384E-02        2.4700E-04
+        1.5000E+02        0.0000E+00        2.1570E-02        7.9600E-04
+        1.5000E+02        0.0000E+00        1.4657E-02        1.0200E-03
+        1.5000E+02        0.0000E+00        1.4510E-02        6.2300E-04
+        1.5000E+02        0.0000E+00        1.1826E-02        5.7800E-04
+        1.5000E+02        0.0000E+00        9.1670E-03        7.7100E-04
+        1.5000E+02        0.0000E+00        6.4480E-03        1.1890E-03
+        1.5000E+02        0.0000E+00        3.1130E-03        9.9600E-04

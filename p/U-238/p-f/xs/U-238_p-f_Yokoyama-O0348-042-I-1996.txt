@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0348-042-I 
-# EXFOR reaction        : ['92-U-238', ['P,F'], '55-CS-140,,SIG'] 
+# EXFOR reaction        : (92-U-238(P,F)55-CS-140,,SIG) 
 # incident energy       : 8.6000e+00 MeV 
 # target                : U-238 
 # product               : Cs-140 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : A.Yokoyama 
+# first author          : Yokoyama 
 # institute             : (2JPNOSA): Osaka University , Osaka 
 # reference             : (J,ZP/A,356,55,1996) 
 # year                  : 1996 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O03/O0348.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0348
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.60000E+00      0.00000E+00      2.71000E-04      5.40000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.6000E+00        0.0000E+00        2.7100E-04        5.4000E-05

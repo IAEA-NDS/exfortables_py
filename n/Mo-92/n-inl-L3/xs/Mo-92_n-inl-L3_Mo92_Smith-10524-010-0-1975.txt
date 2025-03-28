@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10524-010-0 
-# EXFOR reaction        : ['42-MO-92', ['N,INL'], '42-MO-92,PAR,SIG'] 
+# EXFOR reaction        : (42-MO-92(N,INL)42-MO-92,PAR,SIG) 
 # incident energy       : 3.6000e+00 MeV - 4.0000e+00 MeV 
 # target                : Mo-92 
 # product               : Mo-92 
 # level energy          : 2.5200e+00 MeV 
 # MF-MT number          : 3 - 53 
-# first author          : A.B.Smith 
+# first author          : Smith 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,NP/A,244,213,197506) 
 # year                  : 1975 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10524.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10524
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.60000E+00      0.00000E+00      1.63300E-01      3.00000E-02
-      3.80000E+00      0.00000E+00      1.80300E-01      3.00000E-02
-      4.00000E+00      0.00000E+00      1.87700E-01      3.00000E-02
-      4.00000E+00      0.00000E+00      5.48300E-02      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6000E+00        0.0000E+00        1.6330E-01        3.0000E-02
+        3.8000E+00        0.0000E+00        1.8030E-01        3.0000E-02
+        4.0000E+00        0.0000E+00        1.8770E-01        3.0000E-02
+        4.0000E+00        0.0000E+00        5.4830E-02        2.0000E-02

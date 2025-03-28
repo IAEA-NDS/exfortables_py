@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0299-010-0 
-# EXFOR reaction        : ['75-RE-187', ['P,X'], '75-RE-186-G,,SIG'] 
+# EXFOR reaction        : (75-RE-187(P,X)75-RE-186-G,,SIG) 
 # incident energy       : 2.5000e+02 MeV - 4.4000e+02 MeV 
 # target                : Re-187 
 # product               : Re-186-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : P.P.Strohal 
+# first author          : Strohal 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,PR,121,1815,1961) 
 # year                  : 1961 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0299.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0299
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E+02      0.00000E+00      6.71000E-02      1.00650E-02
-      3.00000E+02      0.00000E+00      6.75000E-02      1.01250E-02
-      3.50000E+02      0.00000E+00      6.74000E-02      1.01100E-02
-      4.00000E+02      0.00000E+00      6.68000E-02      1.00200E-02
-      4.40000E+02      0.00000E+00      6.80000E-02      1.02000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+02        0.0000E+00        6.7100E-02        1.0065E-02
+        3.0000E+02        0.0000E+00        6.7500E-02        1.0125E-02
+        3.5000E+02        0.0000E+00        6.7400E-02        1.0110E-02
+        4.0000E+02        0.0000E+00        6.6800E-02        1.0020E-02
+        4.4000E+02        0.0000E+00        6.8000E-02        1.0200E-02

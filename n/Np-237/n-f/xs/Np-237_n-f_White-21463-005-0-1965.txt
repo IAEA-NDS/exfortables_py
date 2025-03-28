@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21463-005-0 
-# EXFOR reaction        : ['93-NP-237', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (93-NP-237(N,F),,SIG) 
 # incident energy       : 4.0000e-02 MeV - 5.0500e-01 MeV 
 # target                : Np-237 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : P.H.White 
+# first author          : White 
 # institute             : (2UK ALD): Atomic Weapons Establishment (AWE), Aldermaston 
 # reference             : (C,65SALZBURG,1,219,196503) 
 # year                  : 1965 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/214/21463.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21463
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E-02      1.00000E-02      1.30000E-02      4.55000E-04
-      6.70000E-02      1.00000E-02      1.20000E-02      4.20000E-04
-      1.27000E-01      7.00000E-03      2.40000E-02      8.40000E-04
-      3.12000E-01      7.00000E-03      6.90000E-02      2.41500E-03
-      5.05000E-01      1.00000E-02      4.70000E-01      1.64500E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E-02        1.0000E-02        1.3000E-02        4.5500E-04
+        6.7000E-02        1.0000E-02        1.2000E-02        4.2000E-04
+        1.2700E-01        7.0000E-03        2.4000E-02        8.4000E-04
+        3.1200E-01        7.0000E-03        6.9000E-02        2.4150E-03
+        5.0500E-01        1.0000E-02        4.7000E-01        1.6450E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11740-016-0 
-# EXFOR reaction        : ['28-NI-64', ['N,X'], '27-CO-63,,SIG'] 
+# EXFOR reaction        : (28-NI-64(N,X)27-CO-63,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Ni-64 
 # product               : Co-63 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : I.L.Preiss 
+# first author          : Preiss 
 # institute             : (1USAARK): University of Arkansas, Fayetteville, AR 
 # reference             : (J,NP,15,326,1960) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/117/11740.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11740
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      9.00000E-01      9.30000E-04      4.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        9.0000E-01        9.3000E-04        4.0000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22889-007-0 
-# EXFOR reaction        : ['42-MO-96', ['N,P'], '41-NB-96,,SIG'] 
+# EXFOR reaction        : (42-MO-96(N,P)41-NB-96,,SIG) 
 # incident energy       : 1.6220e+01 MeV - 2.0600e+01 MeV 
 # target                : Mo-96 
 # product               : Nb-96 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : P.Reimer 
+# first author          : Reimer 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,PR/C,71,044617,200504) 
 # year                  : 2005 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22889.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22889
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.62200E+01      5.00000E-01      1.99000E-02      1.80000E-03
-      1.93000E+01      1.00000E-01      2.51000E-02      2.50000E-03
-      2.06000E+01      1.00000E-01      2.53000E-02      2.70000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6220E+01        5.0000E-01        1.9900E-02        1.8000E-03
+        1.9300E+01        1.0000E-01        2.5100E-02        2.5000E-03
+        2.0600E+01        1.0000E-01        2.5300E-02        2.7000E-03

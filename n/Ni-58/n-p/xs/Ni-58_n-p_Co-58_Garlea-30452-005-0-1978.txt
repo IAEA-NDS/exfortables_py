@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30452-005-0 
-# EXFOR reaction        : ['28-NI-58', ['N,P'], '27-CO-58,,SIG,,SPA'] 
+# EXFOR reaction        : (28-NI-58(N,P)27-CO-58,,SIG,,SPA) 
 # incident energy       : 7.6000e-01 MeV 
 # target                : Ni-58 
 # product               : Co-58 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : I.Garlea 
+# first author          : Garlea 
 # institute             : (3RUMPIT): Institute of Nuclear Power Reactors (I.R.N.E.) 
 # reference             : (J,RRP,23,409,1978) 
 # year                  : 1978 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30452.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30452
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.60000E-01      0.00000E+00      2.53200E-02      9.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.6000E-01        0.0000E+00        2.5320E-02        9.0000E-04

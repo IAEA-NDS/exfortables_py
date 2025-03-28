@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30069-007-0 
-# EXFOR reaction        : ['81-TL-203', ['N,2N'], '81-TL-202,,SIG'] 
+# EXFOR reaction        : (81-TL-203(N,2N)81-TL-202,,SIG) 
 # incident energy       : 1.5000e+01 MeV 
 # target                : Tl-203 
 # product               : Tl-202 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : G.Peto 
+# first author          : Peto 
 # institute             : (3HUNKOS): University of Debrecen, Debrecen 
 # reference             : (J,AHP,25,91,1968) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30069.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30069
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+01      3.00000E-01      1.68000E+00      2.10000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+01        3.0000E-01        1.6800E+00        2.1000E-01

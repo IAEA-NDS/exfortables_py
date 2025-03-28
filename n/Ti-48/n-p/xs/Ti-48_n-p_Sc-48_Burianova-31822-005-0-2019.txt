@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31822-005-0 
-# EXFOR reaction        : ['22-TI-48', ['N,P'], '21-SC-48,,SIG,,SPA'] 
+# EXFOR reaction        : (22-TI-48(N,P)21-SC-48,,SIG,,SPA) 
 # incident energy       : 1.0000e+00 MeV 
 # target                : Ti-48 
 # product               : Sc-48 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : N.Burianova 
+# first author          : Burianova 
 # institute             : (3CZRUJV): Research Centre Rez, Husinec-Rez 
 # reference             : (J,ARI,154,108855,2019) 
 # year                  : 2019 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31822.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31822
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      2.94000E-04      1.99920E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        2.9400E-04        1.9992E-05

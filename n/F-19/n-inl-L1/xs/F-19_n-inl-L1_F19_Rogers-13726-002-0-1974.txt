@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13726-002-0 
-# EXFOR reaction        : ['9-F-19', ['N,INL'], '9-F-19,PAR,SIG'] 
+# EXFOR reaction        : (9-F-19(N,INL)9-F-19,PAR,SIG) 
 # incident energy       : 2.4000e-01 MeV - 7.7000e-01 MeV 
 # target                : F-19 
 # product               : F-19 
 # level energy          : 1.1000e-01 MeV 
 # MF-MT number          : 3 - 51 
-# first author          : V.C.Rogers 
+# first author          : Rogers 
 # institute             : (1USAMIT): Massachusetts Institute of Technology, Cambridge, MA 
 # reference             : (J,PR/C,9,527,197402) 
 # year                  : 1974 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/137/13726.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13726
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.40000E-01      0.00000E+00      2.00500E+00      3.00750E-01
-      3.00000E-01      0.00000E+00      2.94600E+00      4.41900E-01
-      3.50000E-01      0.00000E+00      1.14000E+00      1.71000E-01
-      4.60000E-01      0.00000E+00      7.26000E-01      1.08900E-01
-      5.60000E-01      0.00000E+00      3.61000E-01      5.41500E-02
-      6.10000E-01      0.00000E+00      3.75000E-01      5.62500E-02
-      6.60000E-01      0.00000E+00      2.64000E-01      3.96000E-02
-      7.70000E-01      0.00000E+00      4.04000E-01      6.06000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4000E-01        0.0000E+00        2.0050E+00        3.0075E-01
+        3.0000E-01        0.0000E+00        2.9460E+00        4.4190E-01
+        3.5000E-01        0.0000E+00        1.1400E+00        1.7100E-01
+        4.6000E-01        0.0000E+00        7.2600E-01        1.0890E-01
+        5.6000E-01        0.0000E+00        3.6100E-01        5.4150E-02
+        6.1000E-01        0.0000E+00        3.7500E-01        5.6250E-02
+        6.6000E-01        0.0000E+00        2.6400E-01        3.9600E-02
+        7.7000E-01        0.0000E+00        4.0400E-01        6.0600E-02

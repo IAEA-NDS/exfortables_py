@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21280-006-0 
-# EXFOR reaction        : ['21-SC-45', ['N,G'], '21-SC-46,,SIG'] 
+# EXFOR reaction        : (21-SC-45(N,G)21-SC-46,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Sc-45 
 # product               : Sc-46 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : N.J.Pattenden 
+# first author          : Pattenden 
 # institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 # reference             : (J,PPS/A,68,104,55) 
 # year                  : 1955 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21280.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21280
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.55000E+01      1.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.5500E+01        1.0000E+00

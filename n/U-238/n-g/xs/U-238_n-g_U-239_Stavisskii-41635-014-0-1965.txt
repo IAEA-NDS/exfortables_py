@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41635-014-0 
-# EXFOR reaction        : ['92-U-238', ['N,G'], '92-U-239,,SIG,,SPA'] 
+# EXFOR reaction        : (92-U-238(N,G)92-U-239,,SIG,,SPA) 
 # incident energy       : 7.0000e-02 MeV 
 # target                : U-238 
 # product               : U-239 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : Yu.Ya.Stavisskii 
+# first author          : Stavisskii 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (J,AE,19,(3),292,1965) 
 # year                  : 1965 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41635.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41635
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.00000E-02      0.00000E+00      3.00000E-01      5.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0000E-02        0.0000E+00        3.0000E-01        5.0000E-02

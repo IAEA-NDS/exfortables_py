@@ -1,11 +1,11 @@
 # entry-subent-pointer  : F1215-003-0 
-# EXFOR reaction        : ['13-AL-27', ['P,X'], '4-BE-7,,SIG'] 
+# EXFOR reaction        : (13-AL-27(P,X)4-BE-7,,SIG) 
 # incident energy       : 3.0000e+04 MeV 
 # target                : Al-27 
 # product               : Be-7 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : L.P.Moskaleva 
+# first author          : Moskaleva 
 # institute             : (4RUSGAC): Institute for Geo- and Analytical Chemistry, Moscow 
 # reference             : (J,YF,12,(4),871,1970) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F12/F1215.x4 
 # nds                   : https://nds.iaea.org/EXFOR/F1215
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+04      0.00000E+00      7.17000E-03      1.08000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+04        0.0000E+00        7.1700E-03        1.0800E-03

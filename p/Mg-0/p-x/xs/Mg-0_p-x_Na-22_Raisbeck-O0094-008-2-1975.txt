@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0094-008-2 
-# EXFOR reaction        : ['12-MG-0', ['P,X'], '11-NA-22,,SIG'] 
+# EXFOR reaction        : (12-MG-0(P,X)11-NA-22,,SIG) 
 # incident energy       : 3.0000e+03 MeV 
 # target                : Mg-0 
 # product               : Na-22 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : G.M.Raisbeck 
+# first author          : Raisbeck 
 # institute             : (2FR CSN): Centre Sci. Nuclear et Sci. Matiere (CSNSM), Orsay 
 # reference             : (J,PR/C,12,915,1975) 
 # year                  : 1975 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0094.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0094
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+03      0.00000E+00      2.47000E-02      2.30000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+03        0.0000E+00        2.4700E-02        2.3000E-03

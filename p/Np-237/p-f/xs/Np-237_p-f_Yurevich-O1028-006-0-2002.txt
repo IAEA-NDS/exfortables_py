@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1028-006-0 
-# EXFOR reaction        : ['93-NP-237', ['P,F'], ',,SIG'] 
+# EXFOR reaction        : (93-NP-237(P,F),,SIG) 
 # incident energy       : 1.0000e+03 MeV - 2.5500e+03 MeV 
 # target                : Np-237 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : V.I.Yurevich 
+# first author          : Yurevich 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (J,YF,65,1417,2002) 
 # year                  : 2002 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O10/O1028.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1028
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+03      0.00000E+00      1.73600E+00      1.95000E-01
-      2.55000E+03      0.00000E+00      1.39300E+00      2.36000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+03        0.0000E+00        1.7360E+00        1.9500E-01
+        2.5500E+03        0.0000E+00        1.3930E+00        2.3600E-01

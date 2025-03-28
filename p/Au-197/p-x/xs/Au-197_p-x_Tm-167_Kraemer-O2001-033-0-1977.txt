@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2001-033-0 
-# EXFOR reaction        : ['79-AU-197', ['P,X'], '69-TM-167,CUM,SIG'] 
+# EXFOR reaction        : (79-AU-197(P,X)69-TM-167,CUM,SIG) 
 # incident energy       : 4.5000e+02 MeV 
 # target                : Au-197 
 # product               : Tm-167 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.Kraemer 
+# first author          : Kraemer 
 # institute             : (2GERTHD): Technische Universitaet Darmstadt 
 # reference             : (J,INC,13,205,1977) 
 # year                  : 1977 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2001.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2001
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.50000E+02      0.00000E+00      1.45900E-02      6.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5000E+02        0.0000E+00        1.4590E-02        6.0000E-04

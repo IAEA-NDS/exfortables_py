@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30150-003-0 
-# EXFOR reaction        : ['28-NI-60', ['N,G'], '28-NI-61,PAR,SIG,,MXW'] 
+# EXFOR reaction        : (28-NI-60(N,G)28-NI-61,PAR,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ni-60 
 # product               : Ni-61 
-# level energy          : 6.7190e+00 MeV 
+# level energy          : 4.4039e+00 MeV 
 # MF-MT number          : 3 - 101 
-# first author          : P.Gippner 
+# first author          : Gippner 
 # institute             : (2GERZFK): Helmholtz-Zentrum Dresden-Rossendorf, Dresden 
 # reference             : (R,ZFK-215,197106) 
 # year                  : 1971 
@@ -13,5 +13,19 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30150.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30150
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      6.40000E-02      7.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.9200E-02        2.7000E-03
+        2.5300E-08        0.0000E+00        6.6000E-03        1.6000E-03
+        2.5300E-08        0.0000E+00        1.5000E-02        2.8000E-03
+        2.5300E-08        0.0000E+00        1.8300E-02        2.7000E-03
+        2.5300E-08        0.0000E+00        6.6000E-03        1.2000E-03
+        2.5300E-08        0.0000E+00        6.7000E-03        1.9000E-03
+        2.5300E-08        0.0000E+00        4.5000E-03        1.8000E-03
+        2.5300E-08        0.0000E+00        6.0000E-03        1.8000E-03
+        2.5300E-08        0.0000E+00        8.1000E-03        1.8000E-03
+        2.5300E-08        0.0000E+00        1.6910E-01        1.7000E-02
+        2.5300E-08        0.0000E+00        3.9000E-03        1.4000E-03
+        2.5300E-08        0.0000E+00        3.6000E-02        6.0000E-03
+        2.5300E-08        0.0000E+00        6.4000E-02        7.0000E-03
+        2.5300E-08        0.0000E+00        7.8520E-01        7.8500E-02
+        2.5300E-08        0.0000E+00        1.3720E+00        1.3720E-01

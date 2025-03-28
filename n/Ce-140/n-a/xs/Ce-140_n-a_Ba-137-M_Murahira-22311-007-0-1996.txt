@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22311-007-0 
-# EXFOR reaction        : ['58-CE-140', ['N,A'], '56-BA-137-M,,SIG'] 
+# EXFOR reaction        : (58-CE-140(N,A)56-BA-137-M,,SIG) 
 # incident energy       : 1.3400e+01 MeV - 1.4870e+01 MeV 
 # target                : Ce-140 
 # product               : Ba-137-M 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : S.Murahira 
+# first author          : Murahira 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : ((S,INDC(JPN)-175,171,199603)=(S,JAERI-C-96-008,171,199603)) 
 # year                  : 1996 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22311.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22311
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34000E+01      0.00000E+00      1.99000E-03      5.93020E-04
-      1.36500E+01      0.00000E+00      2.51000E-03      8.00690E-04
-      1.38800E+01      0.00000E+00      2.83000E-03      7.55610E-04
-      1.42800E+01      0.00000E+00      2.64000E-03      9.92640E-04
-      1.45800E+01      0.00000E+00      3.01000E-03      8.87950E-04
-      1.48700E+01      0.00000E+00      3.02000E-03      7.85200E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3400E+01        0.0000E+00        1.9900E-03        5.9302E-04
+        1.3650E+01        0.0000E+00        2.5100E-03        8.0069E-04
+        1.3880E+01        0.0000E+00        2.8300E-03        7.5561E-04
+        1.4280E+01        0.0000E+00        2.6400E-03        9.9264E-04
+        1.4580E+01        0.0000E+00        3.0100E-03        8.8795E-04
+        1.4870E+01        0.0000E+00        3.0200E-03        7.8520E-04

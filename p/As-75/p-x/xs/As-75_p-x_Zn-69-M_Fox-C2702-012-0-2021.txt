@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2702-012-0 
-# EXFOR reaction        : ['33-AS-75', ['P,X'], '30-ZN-69-M,,SIG'] 
+# EXFOR reaction        : (33-AS-75(P,X)30-ZN-69-M,,SIG) 
 # incident energy       : 1.0409e+02 MeV - 1.9228e+02 MeV 
 # target                : As-75 
 # product               : Zn-69-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.B.Fox 
+# first author          : Fox 
 # institute             : (1USAUCX): University of California, Berkeley, CA 
 # reference             : (J,PR/C,104,064615,2021) 
 # year                  : 2021 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C27/C2702.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2702
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.92280E+02      4.90000E-01      1.24000E-03      1.90000E-04
-      1.77010E+02      5.10000E-01      1.38000E-03      2.20000E-04
-      1.63210E+02      5.40000E-01      1.38000E-03      1.70000E-04
-      1.48550E+02      5.80000E-01      1.26000E-03      1.40000E-04
-      1.33750E+02      6.20000E-01      1.02000E-03      2.40000E-04
-      1.19660E+02      6.70000E-01      1.29000E-03      1.30000E-04
-      1.04090E+02      7.30000E-01      7.50000E-04      1.30000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9228E+02        4.9000E-01        1.2400E-03        1.9000E-04
+        1.7701E+02        5.1000E-01        1.3800E-03        2.2000E-04
+        1.6321E+02        5.4000E-01        1.3800E-03        1.7000E-04
+        1.4855E+02        5.8000E-01        1.2600E-03        1.4000E-04
+        1.3375E+02        6.2000E-01        1.0200E-03        2.4000E-04
+        1.1966E+02        6.7000E-01        1.2900E-03        1.3000E-04
+        1.0409E+02        7.3000E-01        7.5000E-04        1.3000E-04

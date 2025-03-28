@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40924-014-0 
-# EXFOR reaction        : ['92-U-238', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (92-U-238(N,TOT),,SIG) 
 # incident energy       : 1.4400e-01 MeV 
 # target                : U-238 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : L.L.Litvinskii 
+# first author          : Litvinskii 
 # institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
 # reference             : (J,AE,62,(3),192,1987) 
 # year                  : 1987 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40924.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40924
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.44000E-01      2.50000E-02      1.15000E+01      1.50000E-01
-      1.44000E-01      2.50000E-02      1.14950E+01      8.30000E-02
-      1.44000E-01      2.50000E-02      1.14660E+01      6.90000E-02
-      1.44000E-01      2.50000E-02      1.14390E+01      3.90000E-02
-      1.44000E-01      2.50000E-02      1.13430E+01      3.90000E-02
-      1.44000E-01      2.50000E-02      1.12360E+01      2.90000E-02
-      1.44000E-01      2.50000E-02      1.12110E+01      3.90000E-02
-      1.44000E-01      2.50000E-02      1.11230E+01      3.40000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4400E-01        2.5000E-02        1.1500E+01        1.5000E-01
+        1.4400E-01        2.5000E-02        1.1495E+01        8.3000E-02
+        1.4400E-01        2.5000E-02        1.1466E+01        6.9000E-02
+        1.4400E-01        2.5000E-02        1.1439E+01        3.9000E-02
+        1.4400E-01        2.5000E-02        1.1343E+01        3.9000E-02
+        1.4400E-01        2.5000E-02        1.1236E+01        2.9000E-02
+        1.4400E-01        2.5000E-02        1.1211E+01        3.9000E-02
+        1.4400E-01        2.5000E-02        1.1123E+01        3.4000E-02

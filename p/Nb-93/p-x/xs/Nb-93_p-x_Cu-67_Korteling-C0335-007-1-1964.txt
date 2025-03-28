@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0335-007-1 
-# EXFOR reaction        : ['41-NB-93', ['P,X'], '29-CU-67,,SIG'] 
+# EXFOR reaction        : (41-NB-93(P,X)29-CU-67,,SIG) 
 # incident energy       : 2.4000e+02 MeV - 7.2000e+02 MeV 
 # target                : Nb-93 
 # product               : Cu-67 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.G.Korteling 
+# first author          : Korteling 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,136,B425,1964) 
 # year                  : 1964 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0335.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0335
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.40000E+02      1.00000E+01      1.46000E-06      2.92000E-07
-      3.20000E+02      1.00000E+01      5.20000E-06      1.04000E-06
-      5.00000E+02      1.00000E+01      2.94000E-05      5.88000E-06
-      7.20000E+02      1.00000E+01      1.19000E-04      2.38000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4000E+02        1.0000E+01        1.4600E-06        2.9200E-07
+        3.2000E+02        1.0000E+01        5.2000E-06        1.0400E-06
+        5.0000E+02        1.0000E+01        2.9400E-05        5.8800E-06
+        7.2000E+02        1.0000E+01        1.1900E-04        2.3800E-05

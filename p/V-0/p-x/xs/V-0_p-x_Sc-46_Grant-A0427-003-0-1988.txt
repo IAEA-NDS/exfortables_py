@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0427-003-0 
-# EXFOR reaction        : ['23-V-0', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (23-V-0(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 8.0000e+02 MeV 
 # target                : V-0 
 # product               : Sc-46 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : P.M.Grant 
+# first author          : Grant 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,ARI,39,501,1988) 
 # year                  : 1988 
@@ -13,5 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0427.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0427
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.00000E+02      0.00000E+00      2.50000E-02      9.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+02        0.0000E+00        1.2000E-02        4.0000E-04
+        8.0000E+02        0.0000E+00        2.5000E-02        9.0000E-04
+        8.0000E+02        0.0000E+00        6.9000E-03        7.0000E-05

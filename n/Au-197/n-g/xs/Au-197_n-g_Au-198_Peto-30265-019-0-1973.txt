@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30265-019-0 
-# EXFOR reaction        : ['79-AU-197', ['N,G'], '79-AU-198,,SIG,,SPA'] 
+# EXFOR reaction        : (79-AU-197(N,G)79-AU-198,,SIG,,SPA) 
 # incident energy       : 4.5000e+00 MeV 
 # target                : Au-197 
 # product               : Au-198 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : G.Peto 
+# first author          : Peto 
 # institute             : (3HUNKOS): University of Debrecen, Debrecen 
 # reference             : (J,AHP,33,363,1973) 
 # year                  : 1973 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/302/30265.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30265
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.50000E+00      0.00000E+00      1.30000E-01      2.00000E-02
-      4.50000E+00      0.00000E+00      1.29000E-01      1.40000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5000E+00        0.0000E+00        1.3000E-01        2.0000E-02
+        4.5000E+00        0.0000E+00        1.2900E-01        1.4000E-02

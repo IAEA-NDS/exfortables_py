@@ -1,11 +1,11 @@
 # entry-subent-pointer  : G3131-004-2 
-# EXFOR reaction        : ['45-RH-103', ['G,3N'], '45-RH-100-G,M-,SIG,,BRA'] 
+# EXFOR reaction        : (45-RH-103(G,3N)45-RH-100-G,M-,SIG,,BRA) 
 # incident energy       : 5.5000e+01 MeV - 6.0000e+01 MeV 
 # target                : Rh-103 
 # product               : Rh-100-G 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : Md.S.Rahman 
+# first author          : Rahman 
 # institute             : (3KORKNU): Kyungpook National University, Daegu 
 # reference             : (J,EPJ/A,52,194,2016) 
 # year                  : 2016 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G31/G3131.x4 
 # nds                   : https://nds.iaea.org/EXFOR/G3131
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.50000E+01      0.00000E+00      7.93000E-03      1.37000E-03
-      6.00000E+01      0.00000E+00      7.11000E-03      1.21000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.5000E+01        0.0000E+00        7.9300E-03        1.3700E-03
+        6.0000E+01        0.0000E+00        7.1100E-03        1.2100E-03

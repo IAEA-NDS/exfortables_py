@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22089-024-0 
-# EXFOR reaction        : ['21-SC-45', ['N,A'], '19-K-42,,SIG'] 
+# EXFOR reaction        : (21-SC-45(N,A)19-K-42,,SIG) 
 # incident energy       : 1.3330e+01 MeV - 1.4930e+01 MeV 
 # target                : Sc-45 
 # product               : K-42 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : Y.Ikeda 
+# first author          : Ikeda 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (R,JAERI-1312,1988) 
 # year                  : 1988 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22089.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22089
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49300E+01      0.00000E+00      5.64000E-02      4.70000E-03
-      1.46600E+01      0.00000E+00      5.33000E-02      4.30000E-03
-      1.44300E+01      0.00000E+00      5.53000E-02      4.40000E-03
-      1.42200E+01      0.00000E+00      5.04000E-02      4.10000E-03
-      1.39800E+01      0.00000E+00      5.33000E-02      4.20000E-03
-      1.37500E+01      0.00000E+00      5.53000E-02      4.40000E-03
-      1.35600E+01      0.00000E+00      5.27000E-02      4.20000E-03
-      1.33300E+01      0.00000E+00      5.19000E-02      3.60000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4930E+01        0.0000E+00        5.6400E-02        4.7000E-03
+        1.4660E+01        0.0000E+00        5.3300E-02        4.3000E-03
+        1.4430E+01        0.0000E+00        5.5300E-02        4.4000E-03
+        1.4220E+01        0.0000E+00        5.0400E-02        4.1000E-03
+        1.3980E+01        0.0000E+00        5.3300E-02        4.2000E-03
+        1.3750E+01        0.0000E+00        5.5300E-02        4.4000E-03
+        1.3560E+01        0.0000E+00        5.2700E-02        4.2000E-03
+        1.3330E+01        0.0000E+00        5.1900E-02        3.6000E-03

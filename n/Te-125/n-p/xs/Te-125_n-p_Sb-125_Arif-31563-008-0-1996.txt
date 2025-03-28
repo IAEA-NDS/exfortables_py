@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31563-008-0 
-# EXFOR reaction        : ['52-TE-125', ['N,P'], '51-SB-125,,SIG,,FIS'] 
+# EXFOR reaction        : (52-TE-125(N,P)51-SB-125,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Te-125 
 # product               : Sb-125 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.Arif 
+# first author          : Arif 
 # institute             : (3PAKNIL): PINSTECH, Nilore, Rawalpindi 
 # reference             : (J,RCA,73,45,1996) 
 # year                  : 1996 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31563.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31563
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      1.67000E-04      1.20000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.6700E-04        1.2000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41123-009-0 
-# EXFOR reaction        : ['67-HO-166-M', ['N,G'], '67-HO-167,,SIG,,MXW'] 
+# EXFOR reaction        : (67-HO-166-M(N,G)67-HO-167,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ho-166-m 
 # product               : Ho-167 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.M.Masyanov 
+# first author          : Masyanov 
 # institute             : (4RUSNIR): NIIAR Dimitrovgrad 
 # reference             : (J,AE,73,(2),154,199208) 
 # year                  : 1992 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41123.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41123
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      9.25000E+03      6.60000E+02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        9.2500E+03        6.6000E+02

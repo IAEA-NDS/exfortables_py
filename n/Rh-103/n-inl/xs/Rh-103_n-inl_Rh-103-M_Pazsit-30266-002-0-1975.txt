@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30266-002-0 
-# EXFOR reaction        : ['45-RH-103', ['N,INL'], '45-RH-103-M,,SIG'] 
+# EXFOR reaction        : (45-RH-103(N,INL)45-RH-103-M,,SIG) 
 # incident energy       : 2.7000e+00 MeV 
 # target                : Rh-103 
 # product               : Rh-103-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : A.Pazsit 
+# first author          : Pazsit 
 # institute             : (3HUNKOS): University of Debrecen, Debrecen 
 # reference             : (J,ARI,26,621,1975) 
 # year                  : 1975 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/302/30266.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30266
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.70000E+00      3.00000E-01      9.99000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7000E+00        3.0000E-01        9.9900E-01        0.0000E+00

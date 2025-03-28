@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30443-005-0 
-# EXFOR reaction        : ['76-OS-190', ['N,INL'], '76-OS-190-M,,SIG'] 
+# EXFOR reaction        : (76-OS-190(N,INL)76-OS-190-M,,SIG) 
 # incident energy       : 1.3000e+01 MeV - 1.6000e+01 MeV 
 # target                : Os-190 
 # product               : Os-190-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : M.Herman 
+# first author          : Herman 
 # institute             : (3POLIPJ): Narodowe Centrum Badan Jadrowych, Swierk+Warszawa 
 # reference             : no reference 
 # year                  : no info 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30443.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30443
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.30000E+01      2.00000E-01      1.63000E-02      3.10000E-03
-      1.33000E+01      1.00000E-01      1.49000E-02      1.70000E-03
-      1.38000E+01      1.00000E-01      1.90000E-02      2.90000E-03
-      1.45000E+01      1.00000E-01      1.65000E-02      2.30000E-03
-      1.51000E+01      2.00000E-01      1.70000E-02      2.20000E-03
-      1.54000E+01      2.00000E-01      1.56000E-02      2.40000E-03
-      1.60000E+01      2.00000E-01      1.36000E-02      2.40000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3000E+01        2.0000E-01        1.6300E-02        3.1000E-03
+        1.3300E+01        1.0000E-01        1.4900E-02        1.7000E-03
+        1.3800E+01        1.0000E-01        1.9000E-02        2.9000E-03
+        1.4500E+01        1.0000E-01        1.6500E-02        2.3000E-03
+        1.5100E+01        2.0000E-01        1.7000E-02        2.2000E-03
+        1.5400E+01        2.0000E-01        1.5600E-02        2.4000E-03
+        1.6000E+01        2.0000E-01        1.3600E-02        2.4000E-03

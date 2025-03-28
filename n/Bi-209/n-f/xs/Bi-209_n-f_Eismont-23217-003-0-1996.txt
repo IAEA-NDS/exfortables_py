@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23217-003-0 
-# EXFOR reaction        : ['83-BI-209', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (83-BI-209(N,F),,SIG) 
 # incident energy       : 4.5000e+01 MeV - 7.3000e+01 MeV 
 # target                : Bi-209 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : V.P.Eismont 
+# first author          : Eismont 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (C,96KALMAR,2,618,1996) 
 # year                  : 1996 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23217.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23217
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.50000E+01      0.00000E+00      1.80000E-03      1.60000E-04
-      7.30000E+01      0.00000E+00      1.39000E-02      1.90000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5000E+01        0.0000E+00        1.8000E-03        1.6000E-04
+        7.3000E+01        0.0000E+00        1.3900E-02        1.9000E-03

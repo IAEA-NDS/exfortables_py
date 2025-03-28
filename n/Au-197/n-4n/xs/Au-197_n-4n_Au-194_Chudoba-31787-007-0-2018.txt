@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31787-007-0 
-# EXFOR reaction        : ['79-AU-197', ['N,4N'], '79-AU-194,,SIG'] 
+# EXFOR reaction        : (79-AU-197(N,4N)79-AU-194,,SIG) 
 # incident energy       : 3.0000e+01 MeV - 3.3500e+01 MeV 
 # target                : Au-197 
 # product               : Au-194 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : P.Chudoba 
+# first author          : Chudoba 
 # institute             : (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
 # reference             : (J,NSE,191,150,2018) 
 # year                  : 2018 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31787.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31787
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+01      8.00000E-01      7.30000E-01      8.00000E-02
-      3.25000E+01      8.00000E-01      1.04000E+00      1.10000E-01
-      3.35000E+01      8.00000E-01      1.17000E+00      1.30000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+01        8.0000E-01        7.3000E-01        8.0000E-02
+        3.2500E+01        8.0000E-01        1.0400E+00        1.1000E-01
+        3.3500E+01        8.0000E-01        1.1700E+00        1.3000E-01

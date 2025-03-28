@@ -1,21 +1,21 @@
 # entry-subent-pointer  : K2027-062-2 
-# EXFOR reaction        : ['39-Y-89', ['G,X'], '38-SR-82,IND,SIG,,BRA,DERIV'] 
+# EXFOR reaction        : (39-Y-89(G,X)38-SR-82,IND,SIG,,BRA,DERIV) 
 # incident energy       : 5.0000e+02 MeV - 1.0000e+03 MeV 
 # target                : Y-89 
 # product               : Sr-82 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.R.Sarkar 
-# institute             : (2JPNKNZ): Kanazawa University , Kanazawa 
+# first author          : Sarkar 
+# institute             : (2JPNJPN): Japan 
 # reference             : (J,RCA,55,113,1991) 
 # year                  : 1991 
 # facility              : (SYNCH): Synchrotron 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K20/K2027.x4 
 # nds                   : https://nds.iaea.org/EXFOR/K2027
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+03      0.00000E+00      1.05000E-03      1.60000E-04
-      9.00000E+02      0.00000E+00      8.40000E-04      9.00000E-05
-      7.00000E+02      0.00000E+00      9.10000E-04      9.00000E-05
-      6.00000E+02      0.00000E+00      8.80000E-04      3.20000E-04
-      5.00000E+02      0.00000E+00      8.60000E-04      4.40000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+03        0.0000E+00        1.0500E-03        1.6000E-04
+        9.0000E+02        0.0000E+00        8.4000E-04        9.0000E-05
+        7.0000E+02        0.0000E+00        9.1000E-04        9.0000E-05
+        6.0000E+02        0.0000E+00        8.8000E-04        3.2000E-04
+        5.0000E+02        0.0000E+00        8.6000E-04        4.4000E-04

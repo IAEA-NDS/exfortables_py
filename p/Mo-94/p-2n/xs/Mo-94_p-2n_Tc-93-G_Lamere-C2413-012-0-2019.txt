@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2413-012-0 
-# EXFOR reaction        : ['42-MO-94', ['P,2N'], '43-TC-93-G,,SIG'] 
+# EXFOR reaction        : (42-MO-94(P,2N)43-TC-93-G,,SIG) 
 # incident energy       : 1.4040e+01 MeV - 1.9060e+01 MeV 
 # target                : Mo-94 
 # product               : Tc-93-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : E.Lamere 
+# first author          : Lamere 
 # institute             : (1USANOT): University of Notre Dame, Notre Dame, IN 
 # reference             : (J,PR/C,100,034614,2019) 
 # year                  : 2019 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C24/C2413.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2413
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40400E+01      5.00000E-02      7.70000E-03      1.50000E-03
-      1.50400E+01      5.00000E-02      1.34000E-01      2.00000E-02
-      1.60600E+01      4.00000E-02      2.92000E-01      6.50000E-02
-      1.70600E+01      3.00000E-02      4.57000E-01      7.60000E-02
-      1.80500E+01      4.00000E-02      3.91000E-01      1.02000E-01
-      1.90600E+01      3.00000E-02      4.67000E-01      1.16000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4040E+01        5.0000E-02        7.7000E-03        1.5000E-03
+        1.5040E+01        5.0000E-02        1.3400E-01        2.0000E-02
+        1.6060E+01        4.0000E-02        2.9200E-01        6.5000E-02
+        1.7060E+01        3.0000E-02        4.5700E-01        7.6000E-02
+        1.8050E+01        4.0000E-02        3.9100E-01        1.0200E-01
+        1.9060E+01        3.0000E-02        4.6700E-01        1.1600E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20803-004-0 
-# EXFOR reaction        : ['30-ZN-66', ['N,G'], '30-ZN-67,,SIG,,MXW'] 
+# EXFOR reaction        : (30-ZN-66(N,G)30-ZN-67,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Zn-66 
 # product               : Zn-67 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.Ottmar 
+# first author          : Ottmar 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,NP/A,164,69,7103) 
 # year                  : 1971 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20803.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20803
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      8.50000E-01      2.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        8.5000E-01        2.0000E-01

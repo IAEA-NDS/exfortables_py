@@ -1,11 +1,11 @@
 # entry-subent-pointer  : F1220-010-0 
-# EXFOR reaction        : ['30-ZN-66', ['D,2N'], '31-GA-66,,SIG'] 
+# EXFOR reaction        : (30-ZN-66(D,2N)31-GA-66,,SIG) 
 # incident energy       : 8.8760e+00 MeV - 1.3911e+01 MeV 
 # target                : Zn-66 
 # product               : Ga-66 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : N.A.Vlasov 
+# first author          : Vlasov 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (J,AE,2,169,1957) 
 # year                  : 1957 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F12/F1220.x4 
 # nds                   : https://nds.iaea.org/EXFOR/F1220
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.87600E+00      1.30000E-02      2.93000E-03      4.39500E-04
-      9.48500E+00      1.30000E-02      1.75500E-02      2.63250E-03
-      1.01030E+01      1.30000E-02      6.88600E-02      1.03290E-02
-      1.06880E+01      1.30000E-02      1.42710E-01      2.14065E-02
-      1.12760E+01      1.30000E-02      2.30820E-01      3.46230E-02
-      1.18810E+01      1.30000E-02      3.06650E-01      4.59975E-02
-      1.24840E+01      1.30000E-02      3.78400E-01      5.67600E-02
-      1.34710E+01      1.30000E-02      4.98040E-01      7.47060E-02
-      1.39110E+01      1.30000E-02      5.39650E-01      8.09475E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.8760E+00        1.3000E-02        2.9300E-03        4.3950E-04
+        9.4850E+00        1.3000E-02        1.7550E-02        2.6325E-03
+        1.0103E+01        1.3000E-02        6.8860E-02        1.0329E-02
+        1.0688E+01        1.3000E-02        1.4271E-01        2.1406E-02
+        1.1276E+01        1.3000E-02        2.3082E-01        3.4623E-02
+        1.1881E+01        1.3000E-02        3.0665E-01        4.5997E-02
+        1.2484E+01        1.3000E-02        3.7840E-01        5.6760E-02
+        1.3471E+01        1.3000E-02        4.9804E-01        7.4706E-02
+        1.3911E+01        1.3000E-02        5.3965E-01        8.0947E-02

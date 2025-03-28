@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10621-003-0 
-# EXFOR reaction        : ['40-ZR-90', ['N,EL'], '40-ZR-90,,SIG'] 
+# EXFOR reaction        : (40-ZR-90(N,EL)40-ZR-90,,SIG) 
 # incident energy       : 2.1100e+00 MeV - 5.1700e+00 MeV 
 # target                : Zr-90 
 # product               : Zr-90 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : R.W.Stooksberry 
+# first author          : Stooksberry 
 # institute             : (1USABET): Bettis Atomic Power Laboratory , Westinghouse, Pittsburgh,PA 
 # reference             : (J,PR/C,13,1061,197603) 
 # year                  : 1976 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/106/10621.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10621
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.11000E+00      1.10000E-01      4.35600E+00      3.50000E-01
-      5.17000E+00      1.00000E-01      2.21000E+00      2.20000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1100E+00        1.1000E-01        4.3560E+00        3.5000E-01
+        5.1700E+00        1.0000E-01        2.2100E+00        2.2000E-01

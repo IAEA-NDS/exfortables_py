@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30098-005-0 
-# EXFOR reaction        : ['62-SM-144', ['N,2N'], '62-SM-143-M,,SIG'] 
+# EXFOR reaction        : (62-SM-144(N,2N)62-SM-143-M,,SIG) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : Sm-144 
 # product               : Sm-143-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : E.Rurarz 
+# first author          : Rurarz 
 # institute             : (3POLIPJ): Narodowe Centrum Badan Jadrowych, Swierk+Warszawa 
 # reference             : (J,NKA,14,933,196910) 
 # year                  : 1969 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30098.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30098
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      2.00000E-01      5.64000E-01      1.20000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        2.0000E-01        5.6400E-01        1.2000E-01

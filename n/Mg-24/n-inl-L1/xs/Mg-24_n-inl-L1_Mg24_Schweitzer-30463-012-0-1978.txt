@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30463-012-0 
-# EXFOR reaction        : ['12-MG-24', ['N,INL'], '12-MG-24,PAR,SIG'] 
+# EXFOR reaction        : (12-MG-24(N,INL)12-MG-24,PAR,SIG) 
 # incident energy       : 3.4000e+00 MeV 
 # target                : Mg-24 
 # product               : Mg-24 
 # level energy          : 1.3680e+00 MeV 
 # MF-MT number          : 3 - 51 
-# first author          : Th.Schweitzer 
+# first author          : Schweitzer 
 # institute             : (3DDRTUD): Dresden, Techn.University at Dresden and Pirna 
 # reference             : (W,SEELIGER,197811) 
 # year                  : 1978 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30463.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30463
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.40000E+00      1.00000E-01      5.09700E-01      9.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.4000E+00        1.0000E-01        5.0970E-01        9.3000E-02

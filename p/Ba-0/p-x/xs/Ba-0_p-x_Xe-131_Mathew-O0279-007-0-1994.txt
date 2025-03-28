@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0279-007-0 
-# EXFOR reaction        : ['56-BA-0', ['P,X'], '54-XE-131,CUM,SIG,,,EXP'] 
+# EXFOR reaction        : (56-BA-0(P,X)54-XE-131,CUM,SIG,,,EXP) 
 # incident energy       : 6.0000e+02 MeV - 2.6000e+03 MeV 
 # target                : Ba-0 
 # product               : Xe-131 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : K.J.Mathew 
+# first author          : Mathew 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,94,449,1994) 
 # year                  : 1994 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0279.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0279
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+02      0.00000E+00      6.84000E-02      4.80000E-03
-      6.00000E+02      0.00000E+00      8.55000E-02      6.00000E-03
-      8.00000E+02      0.00000E+00      9.73000E-02      7.55000E-03
-      1.20000E+03      0.00000E+00      9.27000E-02      7.16000E-03
-      2.60000E+03      0.00000E+00      5.54000E-02      4.81000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+02        0.0000E+00        6.8400E-02        4.8000E-03
+        6.0000E+02        0.0000E+00        8.5500E-02        6.0000E-03
+        8.0000E+02        0.0000E+00        9.7300E-02        7.5500E-03
+        1.2000E+03        0.0000E+00        9.2700E-02        7.1600E-03
+        2.6000E+03        0.0000E+00        5.5400E-02        4.8100E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12716-005-0 
-# EXFOR reaction        : ['6-C-13', ['N,INL'], '6-C-13,PAR,SIG'] 
+# EXFOR reaction        : (6-C-13(N,INL)6-C-13,PAR,SIG) 
 # incident energy       : 9.9960e+00 MeV 
 # target                : C-13 
 # product               : C-13 
 # level energy          : 3.6840e+00 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : J.H.Dave 
+# first author          : Dave 
 # institute             : (1USATNL): Triangle Universities Nuclear Laboratory , Durham, NC 
 # reference             : (J,NSE,80,388,8203) 
 # year                  : 1982 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/127/12716.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12716
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.99600E+00      0.00000E+00      1.76000E-01      6.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.9960E+00        0.0000E+00        1.7600E-01        6.0000E-03

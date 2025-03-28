@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0030-006-0 
-# EXFOR reaction        : ['90-TH-232', ['P,X'], '88-RA-225,,SIG'] 
+# EXFOR reaction        : (90-TH-232(P,X)88-RA-225,,SIG) 
 # incident energy       : 5.1000e+01 MeV - 9.0000e+01 MeV 
 # target                : Th-232 
 # product               : Ra-225 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.J.Hogan 
+# first author          : Hogan 
 # institute             : (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
 # reference             : (J,PR/C,20,1831,1979) 
 # year                  : 1979 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0030.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0030
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.10000E+01      2.00000E+00      2.00000E-05      1.00000E-05
-      5.70000E+01      2.00000E+00      5.00000E-05      3.00000E-05
-      6.40000E+01      2.00000E+00      1.90000E-04      4.00000E-05
-      7.00000E+01      2.00000E+00      2.30000E-04      5.00000E-05
-      7.50000E+01      2.00000E+00      3.30000E-04      5.00000E-05
-      8.50000E+01      2.00000E+00      4.40000E-04      8.00000E-05
-      9.00000E+01      2.00000E+00      4.50000E-04      8.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.1000E+01        2.0000E+00        2.0000E-05        1.0000E-05
+        5.7000E+01        2.0000E+00        5.0000E-05        3.0000E-05
+        6.4000E+01        2.0000E+00        1.9000E-04        4.0000E-05
+        7.0000E+01        2.0000E+00        2.3000E-04        5.0000E-05
+        7.5000E+01        2.0000E+00        3.3000E-04        5.0000E-05
+        8.5000E+01        2.0000E+00        4.4000E-04        8.0000E-05
+        9.0000E+01        2.0000E+00        4.5000E-04        8.0000E-05

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0820-014-0 
-# EXFOR reaction        : ['50-SN-120', ['P,X'], '11-NA-22,CUM,SIG'] 
+# EXFOR reaction        : (50-SN-120(P,X)11-NA-22,CUM,SIG) 
 # incident energy       : 8.1000e+03 MeV 
 # target                : Sn-120 
 # product               : Na-22 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.S.Danagulyan 
+# first author          : Danagulyan 
 # institute             : (4ARMJSU): Yerevan State University , Yerevan 
 # reference             : (J,YF,63,204,2000) 
 # year                  : 2000 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O08/O0820.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0820
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.10000E+03      0.00000E+00      2.40000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.1000E+03        0.0000E+00        2.4000E-03        0.0000E+00

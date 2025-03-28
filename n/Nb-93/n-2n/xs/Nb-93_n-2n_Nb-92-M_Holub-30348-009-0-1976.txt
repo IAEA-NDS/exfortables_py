@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30348-009-0 
-# EXFOR reaction        : ['41-NB-93', ['N,2N'], '41-NB-92-M,,SIG'] 
+# EXFOR reaction        : (41-NB-93(N,2N)41-NB-92-M,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Nb-93 
 # product               : Nb-92-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : E.Holub 
+# first author          : Holub 
 # institute             : (3CRORBZ): Institute Rudjer Boskovic, Zagreb 
 # reference             : (J,JP/G,2,(6),405,197606) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30348.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30348
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      3.00000E-01      4.84000E-01      5.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        3.0000E-01        4.8400E-01        5.0000E-02

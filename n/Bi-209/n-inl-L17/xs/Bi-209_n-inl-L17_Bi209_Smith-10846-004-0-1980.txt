@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10846-004-0 
-# EXFOR reaction        : ['83-BI-209', ['N,INL'], '83-BI-209,PAR,SIG'] 
+# EXFOR reaction        : (83-BI-209(N,INL)83-BI-209,PAR,SIG) 
 # incident energy       : 3.9500e+00 MeV - 4.0000e+00 MeV 
 # target                : Bi-209 
 # product               : Bi-209 
 # level energy          : 3.1440e+00 MeV 
 # MF-MT number          : 3 - 67 
-# first author          : A.Smith 
+# first author          : Smith 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,NSE,75,69,1980) 
 # year                  : 1980 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10846.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10846
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.95000E+00      0.00000E+00      5.01000E-01      6.00000E-02
-      4.00000E+00      0.00000E+00      3.96000E-01      6.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.9500E+00        0.0000E+00        5.0100E-01        6.0000E-02
+        4.0000E+00        0.0000E+00        3.9600E-01        6.0000E-02

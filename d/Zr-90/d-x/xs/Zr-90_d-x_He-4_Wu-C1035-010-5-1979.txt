@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1035-010-5 
-# EXFOR reaction        : ['40-ZR-90', ['D,X'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (40-ZR-90(D,X)2-HE-4,,SIG) 
 # incident energy       : 7.0000e+01 MeV 
 # target                : Zr-90 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.R.Wu 
+# first author          : Wu 
 # institute             : (1USAMRY): University of Maryland, College Park, MD 
 # reference             : (J,PR/C,19,370,1979) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C10/C1035.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1035
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.00000E+01      0.00000E+00      2.51000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0000E+01        0.0000E+00        2.5100E-01        0.0000E+00

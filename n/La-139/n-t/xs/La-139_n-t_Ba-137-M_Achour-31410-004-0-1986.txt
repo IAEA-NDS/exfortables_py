@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31410-004-0 
-# EXFOR reaction        : ['57-LA-139', ['N,T'], '56-BA-137-M,,SIG'] 
+# EXFOR reaction        : (57-LA-139(N,T)56-BA-137-M,,SIG) 
 # incident energy       : 1.3700e+01 MeV - 1.4750e+01 MeV 
 # target                : La-139 
 # product               : Ba-137-M 
 # level energy          : - 
 # MF-MT number          : 3 - 105 
-# first author          : M.Achour 
+# first author          : Achour 
 # institute             : (3MORMOH): University Mohammed V, Rabat 
 # reference             : (C,86HARROG,1,130,198608) 
 # year                  : 1986 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31410.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31410
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.37000E+01      5.00000E-02      4.00000E-06      4.00000E-06
-      1.40300E+01      5.00000E-02      8.00000E-06      4.00000E-06
-      1.44400E+01      7.00000E-02      1.20000E-05      5.00000E-06
-      1.46300E+01      8.00000E-02      2.30000E-05      5.00000E-06
-      1.47500E+01      9.00000E-02      3.00000E-05      4.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3700E+01        5.0000E-02        4.0000E-06        4.0000E-06
+        1.4030E+01        5.0000E-02        8.0000E-06        4.0000E-06
+        1.4440E+01        7.0000E-02        1.2000E-05        5.0000E-06
+        1.4630E+01        8.0000E-02        2.3000E-05        5.0000E-06
+        1.4750E+01        9.0000E-02        3.0000E-05        4.0000E-06

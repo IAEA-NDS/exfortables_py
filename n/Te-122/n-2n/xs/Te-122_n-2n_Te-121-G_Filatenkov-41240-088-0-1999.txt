@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41240-088-0 
-# EXFOR reaction        : ['52-TE-122', ['N,2N'], '52-TE-121-G,,SIG'] 
+# EXFOR reaction        : (52-TE-122(N,2N)52-TE-121-G,,SIG) 
 # incident energy       : 1.3670e+01 MeV - 1.4830e+01 MeV 
 # target                : Te-122 
 # product               : Te-121-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,RI-252,1999) 
 # year                  : 1999 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41240.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41240
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36700E+01      0.00000E+00      6.47000E-01      6.00000E-02
-      1.40600E+01      0.00000E+00      7.46000E-01      6.00000E-02
-      1.42800E+01      0.00000E+00      6.67000E-01      6.50000E-02
-      1.44600E+01      0.00000E+00      7.56000E-01      6.60000E-02
-      1.46700E+01      0.00000E+00      7.20000E-01      6.50000E-02
-      1.48300E+01      0.00000E+00      6.74000E-01      6.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3670E+01        0.0000E+00        6.4700E-01        6.0000E-02
+        1.4060E+01        0.0000E+00        7.4600E-01        6.0000E-02
+        1.4280E+01        0.0000E+00        6.6700E-01        6.5000E-02
+        1.4460E+01        0.0000E+00        7.5600E-01        6.6000E-02
+        1.4670E+01        0.0000E+00        7.2000E-01        6.5000E-02
+        1.4830E+01        0.0000E+00        6.7400E-01        6.0000E-02

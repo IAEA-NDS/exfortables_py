@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22662-016-0 
-# EXFOR reaction        : ['62-SM-144', ['N,2N'], '62-SM-143-M,,SIG'] 
+# EXFOR reaction        : (62-SM-144(N,2N)62-SM-143-M,,SIG) 
 # incident energy       : 1.3400e+01 MeV - 1.4870e+01 MeV 
 # target                : Sm-144 
 # product               : Sm-143-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : H.Sakane 
+# first author          : Sakane 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : (J,ANE,28,1175,2001) 
 # year                  : 2001 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22662.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22662
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48700E+01      0.00000E+00      5.87000E-01      3.40460E-02
-      1.45800E+01      0.00000E+00      5.74000E-01      2.98480E-02
-      1.42800E+01      0.00000E+00      4.95000E-01      2.57400E-02
-      1.38800E+01      0.00000E+00      4.80000E-01      2.40000E-02
-      1.36500E+01      0.00000E+00      4.19000E-01      2.17880E-02
-      1.34000E+01      0.00000E+00      3.72000E-01      1.86000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4870E+01        0.0000E+00        5.8700E-01        3.4046E-02
+        1.4580E+01        0.0000E+00        5.7400E-01        2.9848E-02
+        1.4280E+01        0.0000E+00        4.9500E-01        2.5740E-02
+        1.3880E+01        0.0000E+00        4.8000E-01        2.4000E-02
+        1.3650E+01        0.0000E+00        4.1900E-01        2.1788E-02
+        1.3400E+01        0.0000E+00        3.7200E-01        1.8600E-02

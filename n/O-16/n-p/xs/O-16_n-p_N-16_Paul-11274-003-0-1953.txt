@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11274-003-0 
-# EXFOR reaction        : ['8-O-16', ['N,P'], '7-N-16,,SIG'] 
+# EXFOR reaction        : (8-O-16(N,P)7-N-16,,SIG) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : O-16 
 # product               : N-16 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : E.B.Paul 
+# first author          : Paul 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (J,CJP,31,267,1953) 
 # year                  : 1953 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11274.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11274
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      0.00000E+00      4.90000E-02      2.45000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        0.0000E+00        4.9000E-02        2.4500E-02

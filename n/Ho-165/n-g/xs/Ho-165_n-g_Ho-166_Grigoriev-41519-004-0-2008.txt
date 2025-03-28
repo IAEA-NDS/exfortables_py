@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41519-004-0 
-# EXFOR reaction        : ['67-HO-165', ['N,G'], '67-HO-166,,SIG,,AV'] 
+# EXFOR reaction        : (67-HO-165(N,G)67-HO-166,,SIG,,AV) 
 # incident energy       : 7.3250e-06 MeV - 1.5750e-03 MeV 
 # target                : Ho-165 
 # product               : Ho-166 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : Yu.V.Grigoriev 
+# first author          : Grigoriev 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (S,ISINN-15,151,2008) 
 # year                  : 2008 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/415/41519.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41519
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.32500E-06      0.00000E+00      7.86000E+01      8.00000E+00
-      1.57500E-05      0.00000E+00      1.24000E+02      1.50000E+01
-      3.40000E-05      0.00000E+00      3.85000E+01      5.00000E+00
-      7.32500E-05      0.00000E+00      3.03000E+01      4.00000E+00
-      1.57500E-04      0.00000E+00      2.56000E+01      3.00000E+00
-      3.40000E-04      0.00000E+00      8.20000E+00      1.10000E+00
-      7.32500E-04      0.00000E+00      6.70000E+00      7.00000E-01
-      1.57500E-03      0.00000E+00      3.70000E+00      3.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.3250E-06        0.0000E+00        7.8600E+01        8.0000E+00
+        1.5750E-05        0.0000E+00        1.2400E+02        1.5000E+01
+        3.4000E-05        0.0000E+00        3.8500E+01        5.0000E+00
+        7.3250E-05        0.0000E+00        3.0300E+01        4.0000E+00
+        1.5750E-04        0.0000E+00        2.5600E+01        3.0000E+00
+        3.4000E-04        0.0000E+00        8.2000E+00        1.1000E+00
+        7.3250E-04        0.0000E+00        6.7000E+00        7.0000E-01
+        1.5750E-03        0.0000E+00        3.7000E+00        3.0000E-01

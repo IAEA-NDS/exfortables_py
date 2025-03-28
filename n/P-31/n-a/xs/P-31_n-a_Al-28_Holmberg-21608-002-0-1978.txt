@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21608-002-0 
-# EXFOR reaction        : ['15-P-31', ['N,A'], '13-AL-28,,SIG'] 
+# EXFOR reaction        : (15-P-31(N,A)13-AL-28,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : P-31 
 # product               : Al-28 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : P.Holmberg 
+# first author          : Holmberg 
 # institute             : (2SF HLS): University of Helsinki, Helsinki 
 # reference             : (J,JRC,42,477,78) 
 # year                  : 1978 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21608.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21608
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      0.00000E+00      1.32000E-01      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        0.0000E+00        1.3200E-01        1.0000E-02

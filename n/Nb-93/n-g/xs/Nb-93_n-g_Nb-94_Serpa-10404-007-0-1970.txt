@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10404-007-0 
-# EXFOR reaction        : ['41-NB-93', ['N,G'], '41-NB-94,,SIG'] 
+# EXFOR reaction        : (41-NB-93(N,G)41-NB-94,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Nb-93 
 # product               : Nb-94 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.R.Serpa 
+# first author          : Serpa 
 # institute             : (1USAISU): Idaho State University, Pocatello, ID 
 # reference             : (T,SERPA,1970) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10404.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10404
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.20000E+00      2.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.2000E+00        2.0000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1411-007-0 
-# EXFOR reaction        : ['5-B-11', ['P,G'], '6-C-12,PAR,SIG,,SFC'] 
+# EXFOR reaction        : (5-B-11(P,G)6-C-12,PAR,SIG,,SFC) 
 # incident energy       : 1.0000e-01 MeV 
 # target                : B-11 
 # product               : C-12 
 # level energy          : 4.4390e+00 MeV 
 # MF-MT number          : 3 - 1 
-# first author          : H.R.Weller 
+# first author          : Weller 
 # institute             : (1USATNL): Triangle Universities Nuclear Laboratory , Durham, NC 
 # reference             : (C,99SANTA,,442,1999) 
 # year                  : 1999 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C14/C1411.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1411
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E-01      0.00000E+00      4.00000E+03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E-01        0.0000E+00        4.0000E+03        0.0000E+00

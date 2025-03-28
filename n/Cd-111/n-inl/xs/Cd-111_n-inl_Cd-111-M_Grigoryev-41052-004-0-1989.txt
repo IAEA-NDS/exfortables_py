@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41052-004-0 
-# EXFOR reaction        : ['48-CD-111', ['N,INL'], '48-CD-111-M,,SIG,,FIS'] 
+# EXFOR reaction        : (48-CD-111(N,INL)48-CD-111-M,,SIG,,FIS) 
 # incident energy       : 1.3200e+00 MeV 
 # target                : Cd-111 
 # product               : Cd-111-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : E.I.Grigoryev 
+# first author          : Grigoryev 
 # institute             : (4RUSFRT): Fiziko-Tekh. i Radio-Tekh. Izmerenii, Mendeleevo 
 # reference             : (J,YK,,(3),117,1989) 
 # year                  : 1989 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/410/41052.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41052
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.32000E+00      0.00000E+00      1.98000E-01      4.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3200E+00        0.0000E+00        1.9800E-01        4.0000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4259-007-0 
-# EXFOR reaction        : ['69-TM-169', ['P,X'], '69-TM-166,CUM,SIG'] 
+# EXFOR reaction        : (69-TM-169(P,X)69-TM-166,CUM,SIG) 
 # incident energy       : 2.9600e+01 MeV - 3.5800e+01 MeV 
 # target                : Tm-169 
 # product               : Tm-166 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,ARI,70,309,2012) 
 # year                  : 2012 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4259.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4259
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.96000E+01      5.00000E-01      1.24000E-03      4.80000E-04
-      3.12000E+01      5.00000E-01      5.82000E-03      9.50000E-04
-      3.28000E+01      4.00000E-01      6.49000E-03      6.00000E-05
-      3.43000E+01      4.00000E-01      1.47900E-02      1.89000E-03
-      3.58000E+01      3.00000E-01      2.58000E-02      3.18000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9600E+01        5.0000E-01        1.2400E-03        4.8000E-04
+        3.1200E+01        5.0000E-01        5.8200E-03        9.5000E-04
+        3.2800E+01        4.0000E-01        6.4900E-03        6.0000E-05
+        3.4300E+01        4.0000E-01        1.4790E-02        1.8900E-03
+        3.5800E+01        3.0000E-01        2.5800E-02        3.1800E-03

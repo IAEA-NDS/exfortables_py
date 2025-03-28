@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21299-004-1 
-# EXFOR reaction        : ['80-HG-199', ['N,INL'], '80-HG-199-M,,SIG,,FIS'] 
+# EXFOR reaction        : (80-HG-199(N,INL)80-HG-199-M,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Hg-199 
 # product               : Hg-199-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : K.Kobayashi 
+# first author          : Kobayashi 
 # institute             : (2JPNKTO): Kyoto University , Kyoto 
 # reference             : ((P,NEANDC(J)-61,78,1979)=(P,INDC(JAP)-47,78,1979)) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21299.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21299
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      2.79000E-01      2.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        2.7900E-01        2.6000E-02

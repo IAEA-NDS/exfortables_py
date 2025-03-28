@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1225-013-0 
-# EXFOR reaction        : ['79-AU-197', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (79-AU-197(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 6.0000e+02 MeV 
 # target                : Au-197 
 # product               : Sc-46 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : K.C.Kelley 
+# first author          : Kelley 
 # institute             : (1USAGIT): Georgia Institute of Technology, Atlanta, GA 
 # reference             : (J,NP/A,760,225,2005) 
 # year                  : 2005 
@@ -13,5 +13,14 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C12/C1225.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1225
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+02      0.00000E+00      6.78000E-05      8.10000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+02        0.0000E+00        6.7800E-05        8.1000E-06
+        6.0000E+02        0.0000E+00        2.1900E-04        2.9000E-05
+        6.0000E+02        0.0000E+00        8.4200E-04        1.6600E-04
+        6.0000E+02        0.0000E+00        1.5500E-04        2.0000E-05
+        6.0000E+02        0.0000E+00        3.6300E-04        9.5000E-05
+        6.0000E+02        0.0000E+00        3.2300E-03        6.0000E-04
+        6.0000E+02        0.0000E+00        1.3100E-03        1.3000E-04
+        6.0000E+02        0.0000E+00        9.5900E-04        1.4600E-04
+        6.0000E+02        0.0000E+00        5.2400E-03        5.5000E-04
+        6.0000E+02        0.0000E+00        2.4200E-03        1.5000E-04

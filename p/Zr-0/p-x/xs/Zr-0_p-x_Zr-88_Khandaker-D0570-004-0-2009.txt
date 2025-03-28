@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0570-004-0 
-# EXFOR reaction        : ['40-ZR-0', ['P,X'], '40-ZR-88,', ['CUM'], ',SIG'] 
+# EXFOR reaction        : (40-ZR-0(P,X)40-ZR-88,(CUM),SIG) 
 # incident energy       : 2.8000e+01 MeV - 4.0000e+01 MeV 
 # target                : Zr-0 
 # product               : Zr-88 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.U.Khandaker 
+# first author          : Khandaker 
 # institute             : (3KORKNU): Kyungpook National University, Daegu 
 # reference             : (J,ARI,67,1341,2009) 
 # year                  : 2009 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D05/D0570.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0570
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.80000E+01      7.00000E-01      2.40000E-03      1.60000E-03
-      3.04000E+01      6.00000E-01      1.96000E-02      2.80000E-03
-      3.16000E+01      6.00000E-01      5.11000E-02      4.60000E-03
-      3.38000E+01      5.00000E-01      1.01900E-01      7.90000E-03
-      3.49000E+01      5.00000E-01      1.30000E-01      9.90000E-03
-      3.70000E+01      4.00000E-01      1.74100E-01      1.30000E-02
-      3.80000E+01      4.00000E-01      1.82300E-01      1.36000E-02
-      4.00000E+01      3.00000E-01      2.19400E-01      1.63000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.8000E+01        7.0000E-01        2.4000E-03        1.6000E-03
+        3.0400E+01        6.0000E-01        1.9600E-02        2.8000E-03
+        3.1600E+01        6.0000E-01        5.1100E-02        4.6000E-03
+        3.3800E+01        5.0000E-01        1.0190E-01        7.9000E-03
+        3.4900E+01        5.0000E-01        1.3000E-01        9.9000E-03
+        3.7000E+01        4.0000E-01        1.7410E-01        1.3000E-02
+        3.8000E+01        4.0000E-01        1.8230E-01        1.3600E-02
+        4.0000E+01        3.0000E-01        2.1940E-01        1.6300E-02

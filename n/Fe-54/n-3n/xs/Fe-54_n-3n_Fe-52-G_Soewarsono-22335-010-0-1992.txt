@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22335-010-0 
-# EXFOR reaction        : ['26-FE-54', ['N,3N'], '26-FE-52-G,,SIG'] 
+# EXFOR reaction        : (26-FE-54(N,3N)26-FE-52-G,,SIG) 
 # incident energy       : 2.7580e+01 MeV - 3.8260e+01 MeV 
 # target                : Fe-54 
 # product               : Fe-52-G 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : T.S.Soewarsono 
+# first author          : Soewarsono 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (S,JAERI-M-92-027,354,1992) 
 # year                  : 1992 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22335.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22335
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.75800E+01      1.64000E+00      7.42000E-03      2.61000E-03
-      3.28000E+01      1.44000E+00      1.19000E-02      4.30000E-03
-      3.82600E+01      1.22000E+00      1.03000E-02      2.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7580E+01        1.6400E+00        7.4200E-03        2.6100E-03
+        3.2800E+01        1.4400E+00        1.1900E-02        4.3000E-03
+        3.8260E+01        1.2200E+00        1.0300E-02        2.1000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D5082-014-0 
-# EXFOR reaction        : ['83-BI-209', ['D,X'], '83-BI-204,CUM,SIG'] 
+# EXFOR reaction        : (83-BI-209(D,X)83-BI-204,CUM,SIG) 
 # incident energy       : 1.6000e+03 MeV - 4.0000e+03 MeV 
 # target                : Bi-209 
 # product               : Bi-204 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : V.V.Sotnikov 
+# first author          : Sotnikov 
 # institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
 # reference             : (C,2010KYIV,,250,2010) 
 # year                  : 2010 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D50/D5082.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D5082
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.60000E+03      0.00000E+00      4.80000E-02      4.00000E-03
-      4.00000E+03      0.00000E+00      3.30000E-02      4.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6000E+03        0.0000E+00        4.8000E-02        4.0000E-03
+        4.0000E+03        0.0000E+00        3.3000E-02        4.0000E-03

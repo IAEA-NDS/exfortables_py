@@ -1,11 +1,11 @@
 # entry-subent-pointer  : F1423-007-0 
-# EXFOR reaction        : ['92-U-235', ['D,F'], ',,SIG'] 
+# EXFOR reaction        : (92-U-235(D,F),,SIG) 
 # incident energy       : 6.6000e+00 MeV 
 # target                : U-235 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : G.I.Marov 
+# first author          : Marov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (J,ZET,44,1445,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F14/F1423.x4 
 # nds                   : https://nds.iaea.org/EXFOR/F1423
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.60000E+00      1.00000E-01      7.50000E-04      7.50000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6000E+00        1.0000E-01        7.5000E-04        7.5000E-05

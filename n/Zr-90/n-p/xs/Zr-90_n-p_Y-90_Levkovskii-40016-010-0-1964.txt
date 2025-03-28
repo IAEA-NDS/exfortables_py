@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40016-010-0 
-# EXFOR reaction        : ['40-ZR-90', ['N,P'], '39-Y-90,,SIG'] 
+# EXFOR reaction        : (40-ZR-90(N,P)39-Y-90,,SIG) 
 # incident energy       : 1.4000e+01 MeV 
 # target                : Zr-90 
 # product               : Y-90 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : V.N.Levkovskii 
+# first author          : Levkovskii 
 # institute             : (4KASKAZ): Institute Yadernoi Fiziki, Almaty 
 # reference             : (J,JET,18,213,1964) 
 # year                  : 1964 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40016.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40016
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40000E+01      0.00000E+00      5.40000E-02      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        0.0000E+00        5.4000E-02        1.0000E-02

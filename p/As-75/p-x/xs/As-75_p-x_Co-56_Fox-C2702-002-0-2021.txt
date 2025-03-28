@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2702-002-0 
-# EXFOR reaction        : ['33-AS-75', ['P,X'], '27-CO-56,CUM,SIG'] 
+# EXFOR reaction        : (33-AS-75(P,X)27-CO-56,CUM,SIG) 
 # incident energy       : 1.3375e+02 MeV - 1.9228e+02 MeV 
 # target                : As-75 
 # product               : Co-56 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.B.Fox 
+# first author          : Fox 
 # institute             : (1USAUCX): University of California, Berkeley, CA 
 # reference             : (J,PR/C,104,064615,2021) 
 # year                  : 2021 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C27/C2702.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2702
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.92280E+02      4.90000E-01      8.23000E-04      9.80000E-05
-      1.77010E+02      5.10000E-01      3.37000E-04      3.40000E-05
-      1.63210E+02      5.40000E-01      5.81000E-04      6.40000E-05
-      1.48550E+02      5.80000E-01      4.36000E-04      4.80000E-05
-      1.33750E+02      6.20000E-01      1.69000E-04      2.80000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9228E+02        4.9000E-01        8.2300E-04        9.8000E-05
+        1.7701E+02        5.1000E-01        3.3700E-04        3.4000E-05
+        1.6321E+02        5.4000E-01        5.8100E-04        6.4000E-05
+        1.4855E+02        5.8000E-01        4.3600E-04        4.8000E-05
+        1.3375E+02        6.2000E-01        1.6900E-04        2.8000E-05

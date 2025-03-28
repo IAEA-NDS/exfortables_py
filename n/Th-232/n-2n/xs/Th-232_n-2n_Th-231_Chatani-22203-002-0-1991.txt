@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22203-002-0 
-# EXFOR reaction        : ['90-TH-232', ['N,2N'], '90-TH-231,,SIG'] 
+# EXFOR reaction        : (90-TH-232(N,2N)90-TH-231,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Th-232 
 # product               : Th-231 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : H.Chatani 
+# first author          : Chatani 
 # institute             : (2JPNKTO): Kyoto University , Kyoto 
 # reference             : (S,JAERI-M-91-032,245,9103) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22203.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22203
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      1.00000E-01      1.17700E+00      7.90000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        1.0000E-01        1.1770E+00        7.9000E-02

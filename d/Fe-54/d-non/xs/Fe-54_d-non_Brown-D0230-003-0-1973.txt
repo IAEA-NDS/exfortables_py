@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0230-003-0 
-# EXFOR reaction        : ['26-FE-54', ['D,NON'], ',,SIG'] 
+# EXFOR reaction        : (26-FE-54(D,NON),,SIG) 
 # incident energy       : 1.2300e+01 MeV 
 # target                : Fe-54 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : R.C.Brown 
+# first author          : Brown 
 # institute             : (2UK BIR): University of Birmingham, England 
 # reference             : (J,NP/A,208,589,1973) 
 # year                  : 1973 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D02/D0230.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0230
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.23000E+01      0.00000E+00      1.46880E+00      1.46880E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2300E+01        0.0000E+00        1.4688E+00        1.4688E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0356-004-3 
-# EXFOR reaction        : ['79-AU-197', ['P,X'], '56-BA-129,,SIG'] 
+# EXFOR reaction        : (79-AU-197(P,X)56-BA-129,,SIG) 
 # incident energy       : 3.0000e+03 MeV 
 # target                : Au-197 
 # product               : Ba-129 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : B.M.Gordon 
+# first author          : Gordon 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR,108,1053,57) 
 # year                  : 1957 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0356.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0356
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+03      0.00000E+00      4.40000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+03        0.0000E+00        4.4000E-03        0.0000E+00

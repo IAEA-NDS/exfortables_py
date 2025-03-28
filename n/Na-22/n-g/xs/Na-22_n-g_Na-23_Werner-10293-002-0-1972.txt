@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10293-002-0 
-# EXFOR reaction        : ['11-NA-22', ['N,G'], '11-NA-23,,SIG,,MXW'] 
+# EXFOR reaction        : (11-NA-22(N,G)11-NA-23,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Na-22 
 # product               : Na-23 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.D.Werner 
+# first author          : Werner 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (J,JNE,26,403,197208) 
 # year                  : 1972 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10293.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10293
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.83000E+04      6.00000E+02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.8300E+04        6.0000E+02

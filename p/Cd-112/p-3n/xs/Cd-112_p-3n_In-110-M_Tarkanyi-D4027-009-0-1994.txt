@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4027-009-0 
-# EXFOR reaction        : ['48-CD-112', ['P,3N'], '49-IN-110-M,,SIG'] 
+# EXFOR reaction        : (48-CD-112(P,3N)49-IN-110-M,,SIG) 
 # incident energy       : 2.3700e+01 MeV - 2.9800e+01 MeV 
 # target                : Cd-112 
 # product               : In-110-M 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,ARI,45,239,1994) 
 # year                  : 1994 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4027.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4027
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.37000E+01      4.00000E-01      3.45000E-02      4.70000E-03
-      2.47000E+01      4.00000E-01      8.00000E-02      1.04000E-02
-      2.55000E+01      3.00000E-01      9.66000E-02      1.20000E-02
-      2.64000E+01      3.00000E-01      2.19000E-01      2.80000E-02
-      2.72000E+01      3.00000E-01      2.56000E-01      3.20000E-02
-      2.81000E+01      3.00000E-01      3.38000E-01      4.10000E-02
-      2.88000E+01      2.00000E-01      3.06000E-01      3.80000E-02
-      2.98000E+01      2.00000E-01      3.47000E-01      4.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3700E+01        4.0000E-01        3.4500E-02        4.7000E-03
+        2.4700E+01        4.0000E-01        8.0000E-02        1.0400E-02
+        2.5500E+01        3.0000E-01        9.6600E-02        1.2000E-02
+        2.6400E+01        3.0000E-01        2.1900E-01        2.8000E-02
+        2.7200E+01        3.0000E-01        2.5600E-01        3.2000E-02
+        2.8100E+01        3.0000E-01        3.3800E-01        4.1000E-02
+        2.8800E+01        2.0000E-01        3.0600E-01        3.8000E-02
+        2.9800E+01        2.0000E-01        3.4700E-01        4.3000E-02

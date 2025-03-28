@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0640-012-0 
-# EXFOR reaction        : ['22-TI-0', ['P,X'], 'ELEM/MASS,CUM,SIG'] 
+# EXFOR reaction        : (22-TI-0(P,X)ELEM/MASS,CUM,SIG) 
 # incident energy       : 1.6000e+03 MeV 
 # target                : Ti-0 
 # product               : Sc-44-1.0 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : I.Leya 
+# first author          : Leya 
 # institute             : (2GERUH): University Hannover (previously Tech.University Hannover) 
 # reference             : (T,LEYA,1997) 
 # year                  : 1997 
@@ -13,5 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D06/D0640.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0640
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.60000E+03      0.00000E+00      5.51000E-03      2.90000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6000E+03        0.0000E+00        3.1900E-03        1.7000E-04
+        1.6000E+03        0.0000E+00        5.3600E-03        3.4000E-04
+        1.6000E+03        0.0000E+00        7.0400E-04        7.3000E-05
+        1.6000E+03        0.0000E+00        9.0900E-03        7.4000E-04
+        1.6000E+03        0.0000E+00        4.1400E-03        2.2000E-04
+        1.6000E+03        0.0000E+00        5.5100E-03        2.9000E-04
+        1.6000E+03        0.0000E+00        1.1600E-04        1.6000E-05

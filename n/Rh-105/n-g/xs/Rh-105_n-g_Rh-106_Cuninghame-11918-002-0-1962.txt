@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11918-002-0 
-# EXFOR reaction        : ['45-RH-105', ['N,G'], '45-RH-106,,SIG,,MXW'] 
+# EXFOR reaction        : (45-RH-105(N,G)45-RH-106,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Rh-105 
 # product               : Rh-106 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.Cuninghame 
+# first author          : Cuninghame 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,JIN,24,1009,62) 
 # year                  : 1962 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11918.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11918
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.80000E+04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.8000E+04        0.0000E+00

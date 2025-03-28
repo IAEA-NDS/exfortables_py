@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20289-006-0 
-# EXFOR reaction        : ['56-BA-138', ['N,A'], '54-XE-135-M,,SIG'] 
+# EXFOR reaction        : (56-BA-138(N,A)54-XE-135-M,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Ba-138 
 # product               : Xe-135-M 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : F.Fukuzawa 
+# first author          : Fukuzawa 
 # institute             : (2JPNHYO): Hyogo Agriculture University , Sasayama 
 # reference             : (J,JPJ,16,2371,196112) 
 # year                  : 1961 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20289.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20289
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      2.00000E-01      1.30000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        2.0000E-01        1.3000E-02        2.0000E-03

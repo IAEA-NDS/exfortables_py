@@ -1,21 +1,21 @@
 # entry-subent-pointer  : C0286-005-1 
-# EXFOR reaction        : ['79-AU-197', ['P,X'], '9-F-18,,SIG'] 
+# EXFOR reaction        : (79-AU-197(P,X)9-F-18,,SIG) 
 # incident energy       : 1.0000e+03 MeV - 5.9000e+03 MeV 
 # target                : Au-197 
 # product               : F-18 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.A.Caretto 
+# first author          : Caretto 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
-# reference             : (J,PR,110,1130,58) 
+# reference             : (J,PR,110,1130,1958) 
 # year                  : 1958 
 # facility              : (SYNCH): Synchrotron 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0286.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0286
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+03      0.00000E+00      7.00000E-05      0.00000E+00
-      2.00000E+03      0.00000E+00      2.50000E-04      0.00000E+00
-      3.00000E+03      0.00000E+00      7.30000E-04      0.00000E+00
-      4.50000E+03      0.00000E+00      1.70000E-03      0.00000E+00
-      5.90000E+03      0.00000E+00      2.50000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+03        0.0000E+00        7.0000E-05        0.0000E+00
+        2.0000E+03        0.0000E+00        2.5000E-04        0.0000E+00
+        3.0000E+03        0.0000E+00        7.3000E-04        0.0000E+00
+        4.5000E+03        0.0000E+00        1.7000E-03        0.0000E+00
+        5.9000E+03        0.0000E+00        2.5000E-03        0.0000E+00

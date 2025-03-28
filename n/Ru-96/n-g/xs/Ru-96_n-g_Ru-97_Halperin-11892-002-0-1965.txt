@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11892-002-0 
-# EXFOR reaction        : ['44-RU-96', ['N,G'], '44-RU-97,,SIG,,MXW'] 
+# EXFOR reaction        : (44-RU-96(N,G)44-RU-97,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ru-96 
 # product               : Ru-97 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.Halperin 
+# first author          : Halperin 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (P,ORNL-3832,5,6509) 
 # year                  : 1965 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11892.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11892
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.71000E-01      2.71000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.7100E-01        2.7100E-02

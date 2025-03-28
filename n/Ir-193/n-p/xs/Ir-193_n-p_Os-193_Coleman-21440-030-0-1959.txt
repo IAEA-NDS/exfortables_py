@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21440-030-0 
-# EXFOR reaction        : ['77-IR-193', ['N,P'], '76-OS-193,,SIG'] 
+# EXFOR reaction        : (77-IR-193(N,P)76-OS-193,,SIG) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : Ir-193 
 # product               : Os-193 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : R.F.Coleman 
+# first author          : Coleman 
 # institute             : (2UK ALD): Atomic Weapons Establishment (AWE), Aldermaston 
 # reference             : (J,PPS,73,215,1959) 
 # year                  : 1959 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/214/21440.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21440
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      0.00000E+00      2.70000E-03      5.40000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        0.0000E+00        2.7000E-03        5.4000E-04

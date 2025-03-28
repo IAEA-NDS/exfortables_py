@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0171-017-0 
-# EXFOR reaction        : ['35-BR-79', ['P,X'], '35-BR-75,CUM,SIG'] 
+# EXFOR reaction        : (35-BR-79(P,X)35-BR-75,CUM,SIG) 
 # incident energy       : 4.0000e+01 MeV - 8.5000e+01 MeV 
 # target                : Br-79 
 # product               : Br-75 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Diksic 
+# first author          : Diksic 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,PR/C,19,1753,1979) 
 # year                  : 1979 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0171.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0171
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+01      2.00000E+00      1.50000E-03      1.00000E-03
-      4.50000E+01      2.00000E+00      2.10000E-03      1.10000E-03
-      5.50000E+01      2.00000E+00      4.20000E-02      5.00000E-03
-      6.00000E+01      2.00000E+00      8.10000E-02      9.00000E-03
-      6.50000E+01      2.00000E+00      1.00000E-01      1.10000E-02
-      7.50000E+01      2.00000E+00      8.20000E-02      9.00000E-03
-      8.50000E+01      2.00000E+00      6.00000E-02      8.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+01        2.0000E+00        1.5000E-03        1.0000E-03
+        4.5000E+01        2.0000E+00        2.1000E-03        1.1000E-03
+        5.5000E+01        2.0000E+00        4.2000E-02        5.0000E-03
+        6.0000E+01        2.0000E+00        8.1000E-02        9.0000E-03
+        6.5000E+01        2.0000E+00        1.0000E-01        1.1000E-02
+        7.5000E+01        2.0000E+00        8.2000E-02        9.0000E-03
+        8.5000E+01        2.0000E+00        6.0000E-02        8.0000E-03

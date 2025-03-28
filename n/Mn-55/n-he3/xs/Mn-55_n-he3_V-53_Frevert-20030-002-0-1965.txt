@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20030-002-0 
-# EXFOR reaction        : ['25-MN-55', ['N,HE3'], '23-V-53,,SIG'] 
+# EXFOR reaction        : (25-MN-55(N,HE3)23-V-53,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Mn-55 
 # product               : V-53 
 # level energy          : - 
 # MF-MT number          : 3 - 106 
-# first author          : E.Frevert 
+# first author          : Frevert 
 # institute             : (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
 # reference             : (J,APA,20,304,1965) 
 # year                  : 1965 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20030.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20030
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      5.00000E-05      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        5.0000E-05        0.0000E+00

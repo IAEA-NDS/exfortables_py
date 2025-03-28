@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22800-018-0 
-# EXFOR reaction        : ['76-OS-189', ['N,X'], '75-RE-188-M,,SIG'] 
+# EXFOR reaction        : (76-OS-189(N,X)75-RE-188-M,,SIG) 
 # incident energy       : 1.4870e+01 MeV 
 # target                : Os-189 
 # product               : Re-188-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Sakane 
+# first author          : Sakane 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : (J,ANE,29,53,2002) 
 # year                  : 2002 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22800.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22800
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48700E+01      0.00000E+00      3.00000E-05      1.38000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4870E+01        0.0000E+00        3.0000E-05        1.3800E-05

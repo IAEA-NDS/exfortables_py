@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10088-006-0 
-# EXFOR reaction        : ['38-SR-88', ['N,P'], '37-RB-88,,SIG'] 
+# EXFOR reaction        : (38-SR-88(N,P)37-RB-88,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Sr-88 
 # product               : Rb-88 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : L.Husain 
+# first author          : Husain 
 # institute             : (1USAARK): University of Arkansas, Fayetteville, AR 
 # reference             : (J,PR/C,1,1233,1970) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10088.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10088
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      2.00000E-01      2.00000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        2.0000E-01        2.0000E-02        2.0000E-03

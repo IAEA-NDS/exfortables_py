@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22755-003-0 
-# EXFOR reaction        : ['24-CR-52', ['N,2N'], '24-CR-51,,SIG'] 
+# EXFOR reaction        : (24-CR-52(N,2N)24-CR-51,,SIG) 
 # incident energy       : 1.2488e+01 MeV - 1.8911e+01 MeV 
 # target                : Cr-52 
 # product               : Cr-51 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.Iwasaki 
+# first author          : Iwasaki 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : ((S,INDC(JPN)-179,169,1997)=(S,JAERI-C-97-005,169,1997)) 
 # year                  : 1997 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22755.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22755
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.24880E+01      7.72090E-03      2.26030E-02      0.00000E+00
-      1.33550E+01      7.72090E-03      1.56360E-01      0.00000E+00
-      1.43320E+01      7.72090E-03      3.43780E-01      0.00000E+00
-      1.56590E+01      7.72090E-03      4.57030E-01      0.00000E+00
-      1.69020E+01      7.72090E-03      5.20350E-01      0.00000E+00
-      1.79800E+01      7.72090E-03      5.37650E-01      0.00000E+00
-      1.86220E+01      7.72090E-03      5.75420E-01      1.79270E-02
-      1.89110E+01      7.72090E-03      5.87270E-01      1.60510E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2488E+01        7.7209E-03        2.2603E-02        0.0000E+00
+        1.3355E+01        7.7209E-03        1.5636E-01        0.0000E+00
+        1.4332E+01        7.7209E-03        3.4378E-01        0.0000E+00
+        1.5659E+01        7.7209E-03        4.5703E-01        0.0000E+00
+        1.6902E+01        7.7209E-03        5.2035E-01        0.0000E+00
+        1.7980E+01        7.7209E-03        5.3765E-01        0.0000E+00
+        1.8622E+01        7.7209E-03        5.7542E-01        1.7927E-02
+        1.8911E+01        7.7209E-03        5.8727E-01        1.6051E-02

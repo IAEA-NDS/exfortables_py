@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21782-039-0 
-# EXFOR reaction        : ['94-PU-239', ['N,INL'], '94-PU-239,PAR,SIG'] 
+# EXFOR reaction        : (94-PU-239(N,INL)94-PU-239,PAR,SIG) 
 # incident energy       : 3.4000e+00 MeV 
 # target                : Pu-239 
 # product               : Pu-239 
 # level energy          : 5.7270e-02 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : G.Haouat 
+# first author          : Haouat 
 # institute             : (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
 # reference             : (J,NSE,81,(4),491,1982) 
 # year                  : 1982 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21782.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21782
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.40000E+00      0.00000E+00      3.80100E-01      3.88000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.4000E+00        0.0000E+00        3.8010E-01        3.8800E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11074-002-0 
-# EXFOR reaction        : ['1-H-1', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (1-H-1(N,TOT),,SIG) 
 # incident energy       : 1.4100e+01 MeV - 1.8000e+01 MeV 
 # target                : H-1 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : C.F.Cook 
+# first author          : Cook 
 # institute             : (1USARIC): Rice University, Houston, TX 
 # reference             : (J,PR,94,651,5405) 
 # year                  : 1954 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11074.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11074
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      0.00000E+00      6.90000E-01      1.20000E-02
-      1.50000E+01      0.00000E+00      6.62000E-01      1.00000E-02
-      1.55000E+01      0.00000E+00      6.48000E-01      1.20000E-02
-      1.60000E+01      0.00000E+00      5.82000E-01      3.00000E-02
-      1.65000E+01      0.00000E+00      6.09000E-01      1.50000E-02
-      1.70000E+01      0.00000E+00      6.12000E-01      3.00000E-02
-      1.75000E+01      0.00000E+00      5.87000E-01      2.00000E-02
-      1.80000E+01      0.00000E+00      5.39000E-01      1.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        6.9000E-01        1.2000E-02
+        1.5000E+01        0.0000E+00        6.6200E-01        1.0000E-02
+        1.5500E+01        0.0000E+00        6.4800E-01        1.2000E-02
+        1.6000E+01        0.0000E+00        5.8200E-01        3.0000E-02
+        1.6500E+01        0.0000E+00        6.0900E-01        1.5000E-02
+        1.7000E+01        0.0000E+00        6.1200E-01        3.0000E-02
+        1.7500E+01        0.0000E+00        5.8700E-01        2.0000E-02
+        1.8000E+01        0.0000E+00        5.3900E-01        1.5000E-02

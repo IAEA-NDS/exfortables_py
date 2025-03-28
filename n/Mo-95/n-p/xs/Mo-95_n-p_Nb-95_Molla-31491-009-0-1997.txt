@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31491-009-0 
-# EXFOR reaction        : ['42-MO-95', ['N,P'], '41-NB-95,,SIG'] 
+# EXFOR reaction        : (42-MO-95(N,P)41-NB-95,,SIG) 
 # incident energy       : 1.3570e+01 MeV - 1.4710e+01 MeV 
 # target                : Mo-95 
 # product               : Nb-95 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : N.I.Molla 
+# first author          : Molla 
 # institute             : (3BANSAV): Institute Nuclear Science & Technology, AERE, Savar, Dhaka 
 # reference             : (C,97TRIEST,1,517,1997) 
 # year                  : 1997 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31491.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31491
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35700E+01      0.00000E+00      2.99200E-02      2.50000E-03
-      1.37400E+01      0.00000E+00      2.98400E-02      2.67000E-03
-      1.41000E+01      0.00000E+00      3.08000E-02      2.77000E-03
-      1.45700E+01      0.00000E+00      3.02200E-02      2.66000E-03
-      1.47100E+01      0.00000E+00      3.28100E-02      2.91000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3570E+01        0.0000E+00        2.9920E-02        2.5000E-03
+        1.3740E+01        0.0000E+00        2.9840E-02        2.6700E-03
+        1.4100E+01        0.0000E+00        3.0800E-02        2.7700E-03
+        1.4570E+01        0.0000E+00        3.0220E-02        2.6600E-03
+        1.4710E+01        0.0000E+00        3.2810E-02        2.9100E-03

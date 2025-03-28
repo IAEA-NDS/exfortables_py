@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12059-004-0 
-# EXFOR reaction        : ['60-ND-148', ['N,G'], '60-ND-149,,SIG,,SPA'] 
+# EXFOR reaction        : (60-ND-148(N,G)60-ND-149,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Nd-148 
 # product               : Nd-149 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : W.H.Walker 
+# first author          : Walker 
 # institute             : (1CANMCM): McMaster University, Hamilton, Ontario 
 # reference             : (J,PR,90,447,53) 
 # year                  : 1953 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12059.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12059
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      3.70000E+00      9.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        3.7000E+00        9.0000E-01

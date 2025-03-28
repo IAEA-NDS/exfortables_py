@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11923-013-0 
-# EXFOR reaction        : ['45-RH-103', ['N,2P'], '43-TC-102,,SIG'] 
+# EXFOR reaction        : (45-RH-103(N,2P)43-TC-102,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Rh-103 
 # product               : Tc-102 
 # level energy          : - 
 # MF-MT number          : 3 - 111 
-# first author          : P.R.Gray 
+# first author          : Gray 
 # institute             : (1USAPPO): Phillips Petroleum Co., Bartletsville, OK 
 # reference             : (J,NP,75,215,196601) 
 # year                  : 1966 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11923.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11923
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      5.00000E-01      3.00000E-06      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        5.0000E-01        3.0000E-06        0.0000E+00

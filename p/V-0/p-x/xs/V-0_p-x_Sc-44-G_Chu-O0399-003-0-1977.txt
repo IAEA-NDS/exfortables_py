@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0399-003-0 
-# EXFOR reaction        : ['23-V-0', ['P,X'], '21-SC-44-G,IND,SIG'] 
+# EXFOR reaction        : (23-V-0(P,X)21-SC-44-G,IND,SIG) 
 # incident energy       : 2.8500e+04 MeV 
 # target                : V-0 
 # product               : Sc-44-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Y.Y.Chu 
+# first author          : Chu 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR/C,15,352,1977) 
 # year                  : 1977 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O03/O0399.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0399
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.85000E+04      0.00000E+00      4.95000E-03      4.50000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.8500E+04        0.0000E+00        4.9500E-03        4.5000E-04

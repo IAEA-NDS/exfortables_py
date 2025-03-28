@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14569-002-0 
-# EXFOR reaction        : ['93-NP-239', ['N,G'], '93-NP-240-M,,SIG,,SPA'] 
+# EXFOR reaction        : (93-NP-239(N,G)93-NP-240-M,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Np-239 
 # product               : Np-240-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.W.Lefevre 
+# first author          : Lefevre 
 # institute             : (1USARL): Richland Operations Office, Richland, WA 
 # reference             : (J,BAP,1,62(UA6),1956) 
 # year                  : 1956 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/145/14569.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14569
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.90000E+01      6.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.9000E+01        6.0000E+00

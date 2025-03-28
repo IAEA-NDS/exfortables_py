@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22037-003-0 
-# EXFOR reaction        : ['32-GE-70', ['N,G'], '32-GE-71,,SIG,,MXW'] 
+# EXFOR reaction        : (32-GE-70(N,G)32-GE-71,,SIG,,MXW) 
 # incident energy       : 2.0000e-02 MeV - 5.0000e-02 MeV 
 # target                : Ge-70 
 # product               : Ge-71 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : G.Walter 
+# first author          : Walter 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (R,KFK-3706,1984) 
 # year                  : 1984 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22037.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22037
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-02      0.00000E+00      1.12000E-01      6.00000E-03
-      3.00000E-02      0.00000E+00      9.20000E-02      5.00000E-03
-      4.00000E-02      0.00000E+00      8.10000E-02      5.00000E-03
-      5.00000E-02      0.00000E+00      7.50000E-02      4.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-02        0.0000E+00        1.1200E-01        6.0000E-03
+        3.0000E-02        0.0000E+00        9.2000E-02        5.0000E-03
+        4.0000E-02        0.0000E+00        8.1000E-02        5.0000E-03
+        5.0000E-02        0.0000E+00        7.5000E-02        4.0000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22310-003-0 
-# EXFOR reaction        : ['1-H-1', ['N,G'], '1-H-2,,SIG'] 
+# EXFOR reaction        : (1-H-1(N,G)1-H-2,,SIG) 
 # incident energy       : 2.0000e-02 MeV - 6.4000e-02 MeV 
 # target                : H-1 
 # product               : H-2 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : T.S.Suzuki 
+# first author          : Suzuki 
 # institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
 # reference             : (J,AJ,439,(L),59,9502) 
 # year                  : 1995 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22310.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22310
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-02      0.00000E+00      3.18000E-04      2.50000E-05
-      4.00000E-02      0.00000E+00      2.03000E-04      1.90000E-05
-      6.40000E-02      0.00000E+00      1.51000E-04      7.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-02        0.0000E+00        3.1800E-04        2.5000E-05
+        4.0000E-02        0.0000E+00        2.0300E-04        1.9000E-05
+        6.4000E-02        0.0000E+00        1.5100E-04        7.0000E-06

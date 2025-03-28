@@ -1,19 +1,19 @@
 # entry-subent-pointer  : C0286-004-0 
-# EXFOR reaction        : ['73-TA-0', ['P,X'], '11-NA-24,,SIG'] 
+# EXFOR reaction        : (73-TA-0(P,X)11-NA-24,,SIG) 
 # incident energy       : 1.0000e+03 MeV - 3.0000e+03 MeV 
 # target                : Ta-0 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.A.Caretto 
+# first author          : Caretto 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
-# reference             : (J,PR,110,1130,58) 
+# reference             : (J,PR,110,1130,1958) 
 # year                  : 1958 
 # facility              : (SYNCH): Synchrotron 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0286.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0286
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+03      0.00000E+00      2.00000E-04      5.00000E-05
-      2.00000E+03      0.00000E+00      8.50000E-04      2.12500E-04
-      3.00000E+03      0.00000E+00      2.30000E-03      5.75000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+03        0.0000E+00        2.0000E-04        5.0000E-05
+        2.0000E+03        0.0000E+00        8.5000E-04        2.1250E-04
+        3.0000E+03        0.0000E+00        2.3000E-03        5.7500E-04

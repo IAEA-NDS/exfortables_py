@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12853-038-0 
-# EXFOR reaction        : ['49-IN-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (49-IN-0(N,TOT),,SIG) 
 # incident energy       : 4.7000e-02 MeV - 2.2800e-01 MeV 
 # target                : In-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : W.P.Poenitz 
+# first author          : Poenitz 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (R,ANL-NDM-80,8305) 
 # year                  : 1983 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12853.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12853
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.70000E-02      0.00000E+00      6.77400E+00      7.77700E-01
-      6.00000E-02      0.00000E+00      7.01100E+00      4.04900E-01
-      7.80000E-02      0.00000E+00      7.07200E+00      4.03700E-01
-      1.01000E-01      0.00000E+00      7.07700E+00      3.83100E-01
-      1.24000E-01      0.00000E+00      7.17700E+00      3.72800E-01
-      1.46000E-01      0.00000E+00      7.11700E+00      3.72100E-01
-      1.68000E-01      0.00000E+00      7.21100E+00      3.62200E-01
-      1.97000E-01      0.00000E+00      7.28400E+00      3.52200E-01
-      2.28000E-01      0.00000E+00      7.26000E+00      3.81400E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.7000E-02        0.0000E+00        6.7740E+00        7.7770E-01
+        6.0000E-02        0.0000E+00        7.0110E+00        4.0490E-01
+        7.8000E-02        0.0000E+00        7.0720E+00        4.0370E-01
+        1.0100E-01        0.0000E+00        7.0770E+00        3.8310E-01
+        1.2400E-01        0.0000E+00        7.1770E+00        3.7280E-01
+        1.4600E-01        0.0000E+00        7.1170E+00        3.7210E-01
+        1.6800E-01        0.0000E+00        7.2110E+00        3.6220E-01
+        1.9700E-01        0.0000E+00        7.2840E+00        3.5220E-01
+        2.2800E-01        0.0000E+00        7.2600E+00        3.8140E-01

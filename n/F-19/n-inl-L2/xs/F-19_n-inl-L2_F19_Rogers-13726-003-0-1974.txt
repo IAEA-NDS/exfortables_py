@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13726-003-0 
-# EXFOR reaction        : ['9-F-19', ['N,INL'], '9-F-19,PAR,SIG'] 
+# EXFOR reaction        : (9-F-19(N,INL)9-F-19,PAR,SIG) 
 # incident energy       : 9.8000e-01 MeV - 1.6900e+00 MeV 
 # target                : F-19 
 # product               : F-19 
 # level energy          : 1.9700e-01 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : V.C.Rogers 
+# first author          : Rogers 
 # institute             : (1USAMIT): Massachusetts Institute of Technology, Cambridge, MA 
 # reference             : (J,PR/C,9,527,197402) 
 # year                  : 1974 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/137/13726.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13726
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.80000E-01      0.00000E+00      8.48000E-01      1.27200E-01
-      1.16000E+00      0.00000E+00      7.86000E-01      1.17900E-01
-      1.34000E+00      0.00000E+00      7.56000E-01      1.13400E-01
-      1.42000E+00      0.00000E+00      8.14000E-01      1.22100E-01
-      1.51000E+00      0.00000E+00      9.05000E-01      1.35750E-01
-      1.61000E+00      0.00000E+00      8.87000E-01      1.33050E-01
-      1.69000E+00      0.00000E+00      7.45000E-01      1.11750E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.8000E-01        0.0000E+00        8.4800E-01        1.2720E-01
+        1.1600E+00        0.0000E+00        7.8600E-01        1.1790E-01
+        1.3400E+00        0.0000E+00        7.5600E-01        1.1340E-01
+        1.4200E+00        0.0000E+00        8.1400E-01        1.2210E-01
+        1.5100E+00        0.0000E+00        9.0500E-01        1.3575E-01
+        1.6100E+00        0.0000E+00        8.8700E-01        1.3305E-01
+        1.6900E+00        0.0000E+00        7.4500E-01        1.1175E-01

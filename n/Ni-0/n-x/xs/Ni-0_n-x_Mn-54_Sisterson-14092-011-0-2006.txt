@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14092-011-0 
-# EXFOR reaction        : ['28-NI-0', ['N,X'], '25-MN-54,,SIG'] 
+# EXFOR reaction        : (28-NI-0(N,X)25-MN-54,,SIG) 
 # incident energy       : 7.0700e+01 MeV - 1.5160e+02 MeV 
 # target                : Ni-0 
 # product               : Mn-54 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : J.M.Sisterson 
+# first author          : Sisterson 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,NIM/B,245,371,2006) 
 # year                  : 2006 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/140/14092.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14092
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.07000E+01      0.00000E+00      3.04000E-02      4.80000E-03
-      1.12200E+02      0.00000E+00      3.22000E-02      5.70000E-03
-      1.51600E+02      0.00000E+00      3.07000E-02      9.30000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0700E+01        0.0000E+00        3.0400E-02        4.8000E-03
+        1.1220E+02        0.0000E+00        3.2200E-02        5.7000E-03
+        1.5160E+02        0.0000E+00        3.0700E-02        9.3000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30008-009-0 
-# EXFOR reaction        : ['38-SR-86', ['N,2N'], '38-SR-85-G,,SIG'] 
+# EXFOR reaction        : (38-SR-86(N,2N)38-SR-85-G,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Sr-86 
 # product               : Sr-85-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : P.Strohal 
+# first author          : Strohal 
 # institute             : (3CRORBZ): Institute Rudjer Boskovic, Zagreb 
 # reference             : (J,NP,30,49,196202) 
 # year                  : 1962 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30008.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30008
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      0.00000E+00      2.80000E-01      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        2.8000E-01        1.0000E-02

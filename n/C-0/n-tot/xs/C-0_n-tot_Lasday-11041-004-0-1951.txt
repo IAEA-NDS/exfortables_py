@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11041-004-0 
-# EXFOR reaction        : ['6-C-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (6-C-0(N,TOT),,SIG) 
 # incident energy       : 1.3900e+01 MeV 
 # target                : C-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : A.H.Lasday 
+# first author          : Lasday 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,PR,81,139,51) 
 # year                  : 1951 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11041.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11041
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.39000E+01      0.00000E+00      1.24000E+00      6.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3900E+01        0.0000E+00        1.2400E+00        6.0000E-02

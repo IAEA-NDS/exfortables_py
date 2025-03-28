@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0041-003-0 
-# EXFOR reaction        : ['26-FE-56', ['P,X'], '26-FE-55,IND,SIG,,,EXP'] 
+# EXFOR reaction        : (26-FE-56(P,X)26-FE-55,IND,SIG,,,EXP) 
 # incident energy       : 1.5000e+01 MeV - 3.3200e+01 MeV 
 # target                : Fe-56 
 # product               : Fe-55 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : I.L.Jenkins 
+# first author          : Jenkins 
 # institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 # reference             : (J,JIN,32,1419,1970) 
 # year                  : 1970 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0041.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0041
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+01      0.00000E+00      1.67000E-01      0.00000E+00
-      1.75000E+01      0.00000E+00      2.76000E-01      0.00000E+00
-      2.16000E+01      0.00000E+00      4.83000E-01      0.00000E+00
-      2.46000E+01      0.00000E+00      4.90000E-01      0.00000E+00
-      2.77000E+01      0.00000E+00      4.79000E-01      0.00000E+00
-      3.08000E+01      0.00000E+00      2.84000E-01      0.00000E+00
-      3.32000E+01      0.00000E+00      2.61000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+01        0.0000E+00        1.6700E-01        0.0000E+00
+        1.7500E+01        0.0000E+00        2.7600E-01        0.0000E+00
+        2.1600E+01        0.0000E+00        4.8300E-01        0.0000E+00
+        2.4600E+01        0.0000E+00        4.9000E-01        0.0000E+00
+        2.7700E+01        0.0000E+00        4.7900E-01        0.0000E+00
+        3.0800E+01        0.0000E+00        2.8400E-01        0.0000E+00
+        3.3200E+01        0.0000E+00        2.6100E-01        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40630-007-0 
-# EXFOR reaction        : ['92-U-238', ['N,ABS'], ',,SIG,,AV'] 
+# EXFOR reaction        : (92-U-238(N,ABS),,SIG,,AV) 
 # incident energy       : 7.4800e+00 MeV 
 # target                : U-238 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 27 
-# first author          : N.V.Kornilov 
+# first author          : Kornilov 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (C,80KIEV,2,44,198009) 
 # year                  : 1980 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40630.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40630
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.48000E+00      0.00000E+00      1.80300E+00      7.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.4800E+00        0.0000E+00        1.8030E+00        7.0000E-02

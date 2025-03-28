@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12181-008-0 
-# EXFOR reaction        : ['81-TL-203', ['N,2N'], '81-TL-202,,SIG'] 
+# EXFOR reaction        : (81-TL-203(N,2N)81-TL-202,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Tl-203 
 # product               : Tl-202 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.Poularikas 
+# first author          : Poularikas 
 # institute             : (1USAARK): University of Arkansas, Fayetteville, AR 
 # reference             : (P,A-ARK-59,4,196001) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12181.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12181
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      6.80000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        6.8000E-01        0.0000E+00

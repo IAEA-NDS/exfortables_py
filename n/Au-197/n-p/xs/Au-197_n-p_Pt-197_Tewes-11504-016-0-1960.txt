@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11504-016-0 
-# EXFOR reaction        : ['79-AU-197', ['N,P'], '78-PT-197,,SIG'] 
+# EXFOR reaction        : (79-AU-197(N,P)78-PT-197,,SIG) 
 # incident energy       : 1.1800e+01 MeV - 1.3850e+01 MeV 
 # target                : Au-197 
 # product               : Pt-197 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : H.A.Tewes 
+# first author          : Tewes 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (R,UCRL-6028-T,196006) 
 # year                  : 1960 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11504.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11504
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.18000E+01      2.00000E-01      8.00000E-05      1.60000E-05
-      1.28000E+01      2.00000E-01      2.10000E-04      4.20000E-05
-      1.38500E+01      2.00000E-01      2.60000E-04      5.20000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1800E+01        2.0000E-01        8.0000E-05        1.6000E-05
+        1.2800E+01        2.0000E-01        2.1000E-04        4.2000E-05
+        1.3850E+01        2.0000E-01        2.6000E-04        5.2000E-05

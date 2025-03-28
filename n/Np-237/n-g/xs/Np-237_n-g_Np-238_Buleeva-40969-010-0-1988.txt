@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40969-010-0 
-# EXFOR reaction        : ['93-NP-237', ['N,G'], '93-NP-238,,SIG'] 
+# EXFOR reaction        : (93-NP-237(N,G)93-NP-238,,SIG) 
 # incident energy       : 6.3600e-01 MeV - 7.6300e-01 MeV 
 # target                : Np-237 
 # product               : Np-238 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : N.N.Buleeva 
+# first author          : Buleeva 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (J,AE,65,(5),348,1988) 
 # year                  : 1988 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40969.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40969
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.36000E-01      3.40000E-02      2.63000E-01      1.57800E-02
-      6.37000E-01      2.00000E-02      2.53000E-01      1.51800E-02
-      7.63000E-01      3.40000E-02      2.10000E-01      1.26000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.3600E-01        3.4000E-02        2.6300E-01        1.5780E-02
+        6.3700E-01        2.0000E-02        2.5300E-01        1.5180E-02
+        7.6300E-01        3.4000E-02        2.1000E-01        1.2600E-02

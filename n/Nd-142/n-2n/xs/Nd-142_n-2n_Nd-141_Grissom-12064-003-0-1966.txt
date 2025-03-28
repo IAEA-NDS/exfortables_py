@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12064-003-0 
-# EXFOR reaction        : ['60-ND-142', ['N,2N'], '60-ND-141,,SIG'] 
+# EXFOR reaction        : (60-ND-142(N,2N)60-ND-141,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Nd-142 
 # product               : Nd-141 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.T.Grissom 
+# first author          : Grissom 
 # institute             : (1USARED): Redstone Arsenal, AL 
 # reference             : (J,PR,142,725,66) 
 # year                  : 1966 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12064.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12064
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      0.00000E+00      1.65000E+00      1.65000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        0.0000E+00        1.6500E+00        1.6500E-01

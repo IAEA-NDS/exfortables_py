@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11329-011-0 
-# EXFOR reaction        : ['26-FE-0', ['N,G'], ',,SIG'] 
+# EXFOR reaction        : (26-FE-0(N,G),,SIG) 
 # incident energy       : 3.0000e-02 MeV - 6.5000e-02 MeV 
 # target                : Fe-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.H.Gibbons 
+# first author          : Gibbons 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,PR,122,182,1961) 
 # year                  : 1961 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11329.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11329
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      7.00000E-03      1.20000E-02      3.00000E-03
-      6.50000E-02      2.00000E-02      6.30000E-03      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        7.0000E-03        1.2000E-02        3.0000E-03
+        6.5000E-02        2.0000E-02        6.3000E-03        2.0000E-03

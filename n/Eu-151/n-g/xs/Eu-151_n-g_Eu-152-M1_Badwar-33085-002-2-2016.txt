@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33085-002-2 
-# EXFOR reaction        : ['63-EU-151', ['N,G'], '63-EU-152-M1,,SIG'] 
+# EXFOR reaction        : (63-EU-151(N,G)63-EU-152-M1,,SIG) 
 # incident energy       : 1.1200e+00 MeV - 4.1200e+00 MeV 
 # target                : Eu-151 
 # product               : Eu-152-M1 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.Badwar 
+# first author          : Badwar 
 # institute             : (3INDIND): India 
 # reference             : (J,JRN,307,1385,2016) 
 # year                  : 2016 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33085.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33085
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.12000E+00      1.10000E-01      1.24630E-01      5.98000E-03
-      2.12000E+00      1.50000E-01      6.00200E-02      2.94000E-03
-      3.12000E+00      2.10000E-01      2.39900E-02      1.18000E-03
-      4.12000E+00      2.20000E-01      1.36200E-02      1.85000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1200E+00        1.1000E-01        1.2463E-01        5.9800E-03
+        2.1200E+00        1.5000E-01        6.0020E-02        2.9400E-03
+        3.1200E+00        2.1000E-01        2.3990E-02        1.1800E-03
+        4.1200E+00        2.2000E-01        1.3620E-02        1.8500E-03

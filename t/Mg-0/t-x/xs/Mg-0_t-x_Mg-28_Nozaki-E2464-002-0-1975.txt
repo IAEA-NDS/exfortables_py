@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E2464-002-0 
-# EXFOR reaction        : ['12-MG-0', ['T,X'], '12-MG-28,,SIG'] 
+# EXFOR reaction        : (12-MG-0(T,X)12-MG-28,,SIG) 
 # incident energy       : 2.5600e+00 MeV - 1.8790e+01 MeV 
 # target                : Mg-0 
 # product               : Mg-28 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : T.Nozaki 
+# first author          : Nozaki 
 # institute             : (2JPNIPC): RIKEN (Institute of Physical and Chemical Research), Wako 
 # reference             : (J,ARI,26,17,1975) 
 # year                  : 1975 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E24/E2464.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E2464
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.56000E+00      0.00000E+00      3.93000E-03      5.89500E-04
-      6.75000E+00      8.50000E-01      7.84000E-03      1.17600E-03
-      9.60000E+00      0.00000E+00      6.73000E-03      1.00950E-03
-      1.13700E+01      0.00000E+00      6.13000E-03      9.19500E-04
-      1.35900E+01      0.00000E+00      3.93000E-03      5.89500E-04
-      1.58000E+01      0.00000E+00      2.96000E-03      4.44000E-04
-      1.87900E+01      0.00000E+00      2.46000E-03      3.69000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5600E+00        0.0000E+00        3.9300E-03        5.8950E-04
+        6.7500E+00        8.5000E-01        7.8400E-03        1.1760E-03
+        9.6000E+00        0.0000E+00        6.7300E-03        1.0095E-03
+        1.1370E+01        0.0000E+00        6.1300E-03        9.1950E-04
+        1.3590E+01        0.0000E+00        3.9300E-03        5.8950E-04
+        1.5800E+01        0.0000E+00        2.9600E-03        4.4400E-04
+        1.8790E+01        0.0000E+00        2.4600E-03        3.6900E-04

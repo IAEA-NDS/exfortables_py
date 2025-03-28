@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30114-004-0 
-# EXFOR reaction        : ['24-CR-0', ['N,G'], ',,SIG'] 
+# EXFOR reaction        : (24-CR-0(N,G),,SIG) 
 # incident energy       : 1.1000e-02 MeV - 9.4000e-02 MeV 
 # target                : Cr-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : L.M.Spitz 
+# first author          : Spitz 
 # institute             : (3SAFPEL): Atomic Energy Corp.of South Africa, Pelindaba 
 # reference             : (J,NP/A,121,655,196812) 
 # year                  : 1968 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30114.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30114
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.10000E-02      1.00000E-02      3.96000E-02      8.90000E-03
-      5.70000E-02      0.00000E+00      2.34000E-02      2.90000E-03
-      8.00000E-02      0.00000E+00      5.40000E-03      1.00000E-03
-      9.40000E-02      6.00000E-03      6.60000E-03      1.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1000E-02        1.0000E-02        3.9600E-02        8.9000E-03
+        5.7000E-02        0.0000E+00        2.3400E-02        2.9000E-03
+        8.0000E-02        0.0000E+00        5.4000E-03        1.0000E-03
+        9.4000E-02        6.0000E-03        6.6000E-03        1.1000E-03

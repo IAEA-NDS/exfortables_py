@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23096-010-1 
-# EXFOR reaction        : ['92-U-235', ['N,F'], ',,SIG,,FIS'] 
+# EXFOR reaction        : (92-U-235(N,F),,SIG,,FIS) 
 # incident energy       : 1.3200e+00 MeV 
 # target                : U-235 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : D.M.Gilliam 
+# first author          : Gilliam 
 # institute             : (1USANBS): National Bureau of Standards, Washington, DC 
 # reference             : (C,84GEESTH,867,1984) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23096.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23096
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.32000E+00      0.00000E+00      1.19900E+00      2.27810E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3200E+00        0.0000E+00        1.1990E+00        2.2781E-02

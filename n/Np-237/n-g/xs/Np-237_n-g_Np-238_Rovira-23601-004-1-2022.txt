@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23601-004-1 
-# EXFOR reaction        : ['93-NP-237', ['N,G'], '93-NP-238,,SIG,,,DERIV'] 
+# EXFOR reaction        : (93-NP-237(N,G)93-NP-238,,SIG,,,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Np-237 
 # product               : Np-238 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : G.Rovira 
+# first author          : Rovira 
 # institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
 # reference             : (J,NST,59,110,2022) 
 # year                  : 2022 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/236/23601.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23601
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.77600E+02      3.80000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.7760E+02        3.8000E+00

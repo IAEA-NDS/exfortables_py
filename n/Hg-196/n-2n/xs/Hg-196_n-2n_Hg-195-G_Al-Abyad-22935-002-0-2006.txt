@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22935-002-0 
-# EXFOR reaction        : ['80-HG-196', ['N,2N'], '80-HG-195-G,,SIG'] 
+# EXFOR reaction        : (80-HG-196(N,2N)80-HG-195-G,,SIG) 
 # incident energy       : 9.7300e+00 MeV - 1.2530e+01 MeV 
 # target                : Hg-196 
 # product               : Hg-195-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : M.Al-Abyad 
+# first author          : Al-Abyad 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,PR/C,73,064608,2006) 
 # year                  : 2006 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22935.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22935
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.73000E+00      2.80000E-01      6.00000E-02      1.10000E-02
-      1.05900E+01      3.10000E-01      3.85000E-01      7.10000E-02
-      1.10700E+01      3.40000E-01      4.44000E-01      8.10000E-02
-      1.12500E+01      3.40000E-01      5.54000E-01      1.02000E-01
-      1.15100E+01      3.40000E-01      6.62000E-01      1.21000E-01
-      1.19200E+01      3.50000E-01      7.80000E-01      1.43000E-01
-      1.24000E+01      3.60000E-01      7.86000E-01      1.44000E-01
-      1.25300E+01      5.00000E-01      9.23000E-01      1.70000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.7300E+00        2.8000E-01        6.0000E-02        1.1000E-02
+        1.0590E+01        3.1000E-01        3.8500E-01        7.1000E-02
+        1.1070E+01        3.4000E-01        4.4400E-01        8.1000E-02
+        1.1250E+01        3.4000E-01        5.5400E-01        1.0200E-01
+        1.1510E+01        3.4000E-01        6.6200E-01        1.2100E-01
+        1.1920E+01        3.5000E-01        7.8000E-01        1.4300E-01
+        1.2400E+01        3.6000E-01        7.8600E-01        1.4400E-01
+        1.2530E+01        5.0000E-01        9.2300E-01        1.7000E-01

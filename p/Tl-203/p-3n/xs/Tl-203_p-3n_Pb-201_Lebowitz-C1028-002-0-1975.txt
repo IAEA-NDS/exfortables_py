@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C1028-002-0 
-# EXFOR reaction        : ['81-TL-203', ['P,3N'], '82-PB-201,,SIG'] 
+# EXFOR reaction        : (81-TL-203(P,3N)82-PB-201,,SIG) 
 # incident energy       : 1.9280e+01 MeV - 3.2150e+01 MeV 
 # target                : Tl-203 
 # product               : Pb-201 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : E.Lebowitz 
+# first author          : Lebowitz 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,NM,16,151,1975) 
 # year                  : 1975 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C10/C1028.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C1028
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.92800E+01      3.00000E-02      1.20700E-01      0.00000E+00
-      2.20700E+01      3.00000E-02      2.74200E-01      0.00000E+00
-      2.53600E+01      3.00000E-02      6.41300E-01      0.00000E+00
-      2.73100E+01      3.00000E-02      7.78200E-01      0.00000E+00
-      3.00600E+01      3.00000E-02      8.34700E-01      0.00000E+00
-      3.21500E+01      3.00000E-02      6.93500E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9280E+01        3.0000E-02        1.2070E-01        0.0000E+00
+        2.2070E+01        3.0000E-02        2.7420E-01        0.0000E+00
+        2.5360E+01        3.0000E-02        6.4130E-01        0.0000E+00
+        2.7310E+01        3.0000E-02        7.7820E-01        0.0000E+00
+        3.0060E+01        3.0000E-02        8.3470E-01        0.0000E+00
+        3.2150E+01        3.0000E-02        6.9350E-01        0.0000E+00

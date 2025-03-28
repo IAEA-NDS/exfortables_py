@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12839-007-0 
-# EXFOR reaction        : ['82-PB-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (82-PB-0(N,TOT),,SIG) 
 # incident energy       : 2.7145e+01 MeV - 4.5367e+01 MeV 
 # target                : Pb-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : M.S.Gordon 
+# first author          : Gordon 
 # institute             : (1USACLU): University of Colorado, Boulder, CO 
 # reference             : (P,NPL-951,40,1983) 
 # year                  : 1983 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12839.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12839
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.71450E+01      0.00000E+00      5.78900E+00      6.40000E-02
-      3.20010E+01      0.00000E+00      4.86800E+00      3.50000E-02
-      4.00330E+01      0.00000E+00      4.27600E+00      1.68000E-01
-      4.53670E+01      0.00000E+00      4.36600E+00      5.80000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7145E+01        0.0000E+00        5.7890E+00        6.4000E-02
+        3.2001E+01        0.0000E+00        4.8680E+00        3.5000E-02
+        4.0033E+01        0.0000E+00        4.2760E+00        1.6800E-01
+        4.5367E+01        0.0000E+00        4.3660E+00        5.8000E-02

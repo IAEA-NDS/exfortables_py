@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0276-423-0 
-# EXFOR reaction        : ['79-AU-197', ['P,X'], '69-TM-168,,SIG'] 
+# EXFOR reaction        : (79-AU-197(P,X)69-TM-168,,SIG) 
 # incident energy       : 2.6100e+02 MeV - 8.0000e+02 MeV 
 # target                : Au-197 
 # product               : Tm-168 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,129,153,1997) 
 # year                  : 1997 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0276
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.61000E+02      0.00000E+00      1.14000E-04      3.35000E-05
-      3.29000E+02      0.00000E+00      1.50000E-04      4.66000E-05
-      3.67000E+02      0.00000E+00      2.00000E-04      3.65000E-05
-      8.00000E+02      0.00000E+00      2.83000E-04      4.72000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6100E+02        0.0000E+00        1.1400E-04        3.3500E-05
+        3.2900E+02        0.0000E+00        1.5000E-04        4.6600E-05
+        3.6700E+02        0.0000E+00        2.0000E-04        3.6500E-05
+        8.0000E+02        0.0000E+00        2.8300E-04        4.7200E-05

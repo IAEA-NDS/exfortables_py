@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20625-016-0 
-# EXFOR reaction        : ['28-NI-64', ['N,G'], '28-NI-65,,SIG,,MXW'] 
+# EXFOR reaction        : (28-NI-64(N,G)28-NI-65,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ni-64 
 # product               : Ni-65 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : E.M.Gryntakis 
+# first author          : Gryntakis 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (T,GRYNTAKIS,1976) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20625.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20625
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.58000E+00      4.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.5800E+00        4.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21227-003-0 
-# EXFOR reaction        : ['2-HE-4', ['N,EL'], '2-HE-4,,SIG,,,DERIV'] 
+# EXFOR reaction        : (2-HE-4(N,EL)2-HE-4,,SIG,,,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : He-4 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : R.Genin 
+# first author          : Genin 
 # institute             : (2FR SAC): CEA/Saclay 
 # reference             : (J,JPR,24,21,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21227.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21227
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      7.20000E-01      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        7.2000E-01        3.0000E-02

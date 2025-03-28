@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22499-022-0 
-# EXFOR reaction        : ['70-YB-172', ['N,TOT'], ',,SIG,,AV'] 
+# EXFOR reaction        : (70-YB-172(N,TOT),,SIG,,AV) 
 # incident energy       : 1.2500e-02 MeV - 1.7500e-01 MeV 
 # target                : Yb-172 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : K.Wisshak 
+# first author          : Wisshak 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,PR/C,61,065801,2000) 
 # year                  : 2000 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22499.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22499
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.25000E-02      0.00000E+00      9.60000E+00      3.55200E-01
-      1.75000E-02      0.00000E+00      1.18000E+01      4.36600E-01
-      2.50000E-02      0.00000E+00      1.08000E+01      3.99600E-01
-      3.50000E-02      0.00000E+00      1.05000E+01      3.88500E-01
-      5.00000E-02      0.00000E+00      1.05000E+01      3.88500E-01
-      7.00000E-02      0.00000E+00      9.40000E+00      3.47800E-01
-      9.00000E-02      0.00000E+00      8.60000E+00      3.18200E-01
-      1.25000E-01      0.00000E+00      8.00000E+00      2.96000E-01
-      1.75000E-01      0.00000E+00      8.20000E+00      3.03400E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2500E-02        0.0000E+00        9.6000E+00        3.5520E-01
+        1.7500E-02        0.0000E+00        1.1800E+01        4.3660E-01
+        2.5000E-02        0.0000E+00        1.0800E+01        3.9960E-01
+        3.5000E-02        0.0000E+00        1.0500E+01        3.8850E-01
+        5.0000E-02        0.0000E+00        1.0500E+01        3.8850E-01
+        7.0000E-02        0.0000E+00        9.4000E+00        3.4780E-01
+        9.0000E-02        0.0000E+00        8.6000E+00        3.1820E-01
+        1.2500E-01        0.0000E+00        8.0000E+00        2.9600E-01
+        1.7500E-01        0.0000E+00        8.2000E+00        3.0340E-01

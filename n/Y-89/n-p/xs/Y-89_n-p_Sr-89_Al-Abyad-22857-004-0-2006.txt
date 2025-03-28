@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22857-004-0 
-# EXFOR reaction        : ['39-Y-89', ['N,P'], '38-SR-89,,SIG,,SPA'] 
+# EXFOR reaction        : (39-Y-89(N,P)38-SR-89,,SIG,,SPA) 
 # incident energy       : 3.0000e+00 MeV 
 # target                : Y-89 
 # product               : Sr-89 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.Al-Abyad 
+# first author          : Al-Abyad 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,ARI,64,717,2006) 
 # year                  : 2006 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22857.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22857
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+00      0.00000E+00      9.10000E-04      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+00        0.0000E+00        9.1000E-04        2.0000E-04

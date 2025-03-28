@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0259-004-0 
-# EXFOR reaction        : ['13-AL-27', ['P,X'], '4-BE-7,,SIG'] 
+# EXFOR reaction        : (13-AL-27(P,X)4-BE-7,,SIG) 
 # incident energy       : 3.3500e+02 MeV 
 # target                : Al-27 
 # product               : Be-7 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : L.Marquez 
+# first author          : Marquez 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,81,953,5103) 
 # year                  : 1951 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0259.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0259
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.35000E+02      0.00000E+00      1.40000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3500E+02        0.0000E+00        1.4000E-03        0.0000E+00

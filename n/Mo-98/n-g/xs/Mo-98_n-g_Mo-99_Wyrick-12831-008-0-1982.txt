@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12831-008-0 
-# EXFOR reaction        : ['42-MO-98', ['N,G'], '42-MO-99,,SIG'] 
+# EXFOR reaction        : (42-MO-98(N,G)42-MO-99,,SIG) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Mo-98 
 # product               : Mo-99 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.M.Wyrick 
+# first author          : Wyrick 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (S,ANL-83-4,196,8204) 
 # year                  : 1982 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12831.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12831
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      7.00000E-03      8.43000E-02      3.60000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        7.0000E-03        8.4300E-02        3.6000E-03

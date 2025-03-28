@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31842-010-0 
-# EXFOR reaction        : ['79-AU-197', ['N,2N'], '79-AU-196-G+M1,,SIG'] 
+# EXFOR reaction        : (79-AU-197(N,2N)79-AU-196-G+M1,,SIG) 
 # incident energy       : 1.7500e+01 MeV - 2.7500e+01 MeV 
 # target                : Au-197 
 # product               : Au-196-G+M1 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.Jarosik 
+# first author          : Jarosik 
 # institute             : (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
 # reference             : (J,NIM/B,511,64,2022) 
 # year                  : 2022 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31842.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31842
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.75000E+01      1.00000E+00      1.50000E+00      1.70000E-01
-      1.98000E+01      9.00000E-01      7.10000E-01      9.00000E-02
-      2.75000E+01      7.00000E-01      3.50000E-01      5.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7500E+01        1.0000E+00        1.5000E+00        1.7000E-01
+        1.9800E+01        9.0000E-01        7.1000E-01        9.0000E-02
+        2.7500E+01        7.0000E-01        3.5000E-01        5.0000E-02

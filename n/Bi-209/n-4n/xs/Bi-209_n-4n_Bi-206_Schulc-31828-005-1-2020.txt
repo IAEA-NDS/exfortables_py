@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31828-005-1 
-# EXFOR reaction        : ['83-BI-209', ['N,4N'], '83-BI-206,,SIG,,FIS'] 
+# EXFOR reaction        : (83-BI-209(N,4N)83-BI-206,,SIG,,FIS) 
 # incident energy       : 1.3200e+00 MeV 
 # target                : Bi-209 
 # product               : Bi-206 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : M.Schulc 
+# first author          : Schulc 
 # institute             : (3CZRUJV): Research Centre Rez, Husinec-Rez 
 # reference             : (J,ARI,166,109313,2020) 
 # year                  : 2020 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31828.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31828
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.32000E+00      0.00000E+00      6.50000E-09      5.91500E-10
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3200E+00        0.0000E+00        6.5000E-09        5.9150E-10

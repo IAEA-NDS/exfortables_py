@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21461-003-0 
-# EXFOR reaction        : ['7-N-14', ['N,A'], '5-B-11,,SIG'] 
+# EXFOR reaction        : (7-N-14(N,A)5-B-11,,SIG) 
 # incident energy       : 1.4900e+01 MeV 
 # target                : N-14 
 # product               : B-11 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : B.Leroux 
+# first author          : Leroux 
 # institute             : (2FR BOR): Universite de Bordeaux 
 # reference             : (J,NP/A,116,(1),196,196807) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/214/21461.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21461
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49000E+01      3.00000E-01      6.00000E-02      1.80000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4900E+01        3.0000E-01        6.0000E-02        1.8000E-02

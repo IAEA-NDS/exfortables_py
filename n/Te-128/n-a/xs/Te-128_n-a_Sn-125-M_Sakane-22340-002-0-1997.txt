@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22340-002-0 
-# EXFOR reaction        : ['52-TE-128', ['N,A'], '50-SN-125-M,,SIG'] 
+# EXFOR reaction        : (52-TE-128(N,A)50-SN-125-M,,SIG) 
 # incident energy       : 1.3400e+01 MeV - 1.4870e+01 MeV 
 # target                : Te-128 
 # product               : Sn-125-M 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : H.Sakane 
+# first author          : Sakane 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : ((S,JAERI-C-97-005,263,1997)=(S,INDC(JPN)-179,263,1997)) 
 # year                  : 1997 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22340.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22340
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34000E+01      0.00000E+00      3.60000E-04      6.12000E-05
-      1.36500E+01      0.00000E+00      4.00000E-04      7.20000E-05
-      1.38800E+01      0.00000E+00      4.90000E-04      4.90000E-05
-      1.42800E+01      0.00000E+00      5.60000E-04      1.12000E-04
-      1.45800E+01      0.00000E+00      4.20000E-04      1.00800E-04
-      1.48700E+01      0.00000E+00      5.60000E-04      7.84000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3400E+01        0.0000E+00        3.6000E-04        6.1200E-05
+        1.3650E+01        0.0000E+00        4.0000E-04        7.2000E-05
+        1.3880E+01        0.0000E+00        4.9000E-04        4.9000E-05
+        1.4280E+01        0.0000E+00        5.6000E-04        1.1200E-04
+        1.4580E+01        0.0000E+00        4.2000E-04        1.0080E-04
+        1.4870E+01        0.0000E+00        5.6000E-04        7.8400E-05

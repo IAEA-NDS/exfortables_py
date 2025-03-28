@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11354-003-0 
-# EXFOR reaction        : ['6-C-0', ['N,NON'], ',,SIG'] 
+# EXFOR reaction        : (6-C-0(N,NON),,SIG) 
 # incident energy       : 1.5300e+01 MeV 
 # target                : C-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : L.F.Hansen 
+# first author          : Hansen 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (C,68WASH,1,225(B-13),196803) 
 # year                  : 1968 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11354.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11354
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.53000E+01      0.00000E+00      5.54000E-01      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5300E+01        0.0000E+00        5.5400E-01        3.0000E-02

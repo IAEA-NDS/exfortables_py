@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4211-006-0 
-# EXFOR reaction        : ['21-SC-45', ['P,2N'], '22-TI-44,,SIG'] 
+# EXFOR reaction        : (21-SC-45(P,2N)22-TI-44,,SIG) 
 # incident energy       : 1.7600e+01 MeV - 3.6400e+01 MeV 
 # target                : Sc-45 
 # product               : Ti-44 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : L.Daraban 
+# first author          : Daraban 
 # institute             : (3RUMBBU): Babes-Bolyai University, Cluj 
 # reference             : (J,NIM/B,267,755,2009) 
 # year                  : 2009 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4211.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4211
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.64000E+01      1.00000E-01      1.40000E-02      1.20000E-03
-      3.42000E+01      1.00000E-01      1.58000E-02      1.40000E-03
-      3.19000E+01      2.00000E-01      2.01000E-02      1.80000E-03
-      2.95000E+01      4.00000E-01      3.26000E-02      3.00000E-03
-      2.69000E+01      6.00000E-01      3.61000E-02      3.30000E-03
-      2.41000E+01      8.00000E-01      4.03000E-02      3.70000E-03
-      2.11000E+01      1.00000E+00      3.94000E-02      3.60000E-03
-      1.76000E+01      1.40000E+00      2.87000E-02      2.60000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6400E+01        1.0000E-01        1.4000E-02        1.2000E-03
+        3.4200E+01        1.0000E-01        1.5800E-02        1.4000E-03
+        3.1900E+01        2.0000E-01        2.0100E-02        1.8000E-03
+        2.9500E+01        4.0000E-01        3.2600E-02        3.0000E-03
+        2.6900E+01        6.0000E-01        3.6100E-02        3.3000E-03
+        2.4100E+01        8.0000E-01        4.0300E-02        3.7000E-03
+        2.1100E+01        1.0000E+00        3.9400E-02        3.6000E-03
+        1.7600E+01        1.4000E+00        2.8700E-02        2.6000E-03

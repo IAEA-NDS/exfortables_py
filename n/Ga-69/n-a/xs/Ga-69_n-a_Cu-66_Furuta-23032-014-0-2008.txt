@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23032-014-0 
-# EXFOR reaction        : ['31-GA-69', ['N,A'], '29-CU-66,,SIG'] 
+# EXFOR reaction        : (31-GA-69(N,A)29-CU-66,,SIG) 
 # incident energy       : 5.0100e+00 MeV - 5.2400e+00 MeV 
 # target                : Ga-69 
 # product               : Cu-66 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : M.Furuta 
+# first author          : Furuta 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : (J,ANE,35,1652,2008) 
 # year                  : 2008 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23032.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23032
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.24000E+00      0.00000E+00      5.30000E-03      2.06700E-03
-      5.17000E+00      0.00000E+00      4.60000E-03      1.65600E-03
-      5.01000E+00      0.00000E+00      2.60000E-03      7.80000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.2400E+00        0.0000E+00        5.3000E-03        2.0670E-03
+        5.1700E+00        0.0000E+00        4.6000E-03        1.6560E-03
+        5.0100E+00        0.0000E+00        2.6000E-03        7.8000E-04

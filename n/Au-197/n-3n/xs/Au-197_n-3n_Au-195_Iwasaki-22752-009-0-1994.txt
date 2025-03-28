@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22752-009-0 
-# EXFOR reaction        : ['79-AU-197', ['N,3N'], '79-AU-195,,SIG'] 
+# EXFOR reaction        : (79-AU-197(N,3N)79-AU-195,,SIG) 
 # incident energy       : 1.6811e+01 MeV - 1.9126e+01 MeV 
 # target                : Au-197 
 # product               : Au-195 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : S.Iwasaki 
+# first author          : Iwasaki 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (C,94GATLIN,1,305,1994) 
 # year                  : 1994 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22752.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22752
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.68110E+01      3.21300E-02      1.99780E-01      0.00000E+00
-      1.82470E+01      3.21300E-02      3.99540E-01      0.00000E+00
-      1.91260E+01      3.21300E-02      6.81980E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6811E+01        3.2130E-02        1.9978E-01        0.0000E+00
+        1.8247E+01        3.2130E-02        3.9954E-01        0.0000E+00
+        1.9126E+01        3.2130E-02        6.8198E-01        0.0000E+00

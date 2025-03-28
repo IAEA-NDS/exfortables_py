@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 32681-002-0 
-# EXFOR reaction        : ['60-ND-143', ['N,A'], '58-CE-140,,SIG'] 
+# EXFOR reaction        : (60-ND-143(N,A)58-CE-140,,SIG) 
 # incident energy       : 4.0000e+00 MeV - 6.0000e+00 MeV 
 # target                : Nd-143 
 # product               : Ce-140 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : Yu.M.Gledenov 
+# first author          : Gledenov 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (J,PR/C,80,044602,2009) 
 # year                  : 2009 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32681.x4 
 # nds                   : https://nds.iaea.org/EXFOR/32681
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+00      2.30000E-01      1.20000E-04      1.00000E-05
-      5.00000E+00      1.60000E-01      2.10000E-04      2.00000E-05
-      6.00000E+00      1.20000E-01      3.10000E-04      3.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+00        2.3000E-01        1.2000E-04        1.0000E-05
+        5.0000E+00        1.6000E-01        2.1000E-04        2.0000E-05
+        6.0000E+00        1.2000E-01        3.1000E-04        3.0000E-05

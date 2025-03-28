@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10578-003-0 
-# EXFOR reaction        : ['32-GE-0', ['N,EL'], '32-GE-0,,SIG'] 
+# EXFOR reaction        : (32-GE-0(N,EL)32-GE-0,,SIG) 
 # incident energy       : 1.4600e+00 MeV 
 # target                : Ge-0 
 # product               : Ge-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : J.D.Brandenberger 
+# first author          : Brandenberger 
 # institute             : (1USAKTY): University of Kentucky, Lexington, KY 
 # reference             : (J,BAP,20,1195(EE4),197509) 
 # year                  : 1975 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10578.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10578
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+00      0.00000E+00      2.60200E+00      1.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+00        0.0000E+00        2.6020E+00        1.6000E-02

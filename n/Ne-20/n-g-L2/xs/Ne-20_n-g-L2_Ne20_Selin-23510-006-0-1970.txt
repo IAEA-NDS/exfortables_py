@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23510-006-0 
-# EXFOR reaction        : ['10-NE-20', ['N,G'], '10-NE-21,PAR,SIG,,SPA'] 
+# EXFOR reaction        : (10-NE-20(N,G)10-NE-21,PAR,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ne-20 
 # product               : Ne-21 
-# level energy          : - 
+# level energy          : 2.0000e-06 MeV 
 # MF-MT number          : 3 - 2 
-# first author          : E.Selin 
+# first author          : Selin 
 # institute             : (2SWDCTH): Chalmers University of Tech., Gothenburg 
 # reference             : (J,PS,2,169,1970) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/235/23510.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23510
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.90000E-02      1.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.9000E-02        1.3000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41227-005-0 
-# EXFOR reaction        : ['4-BE-9', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (4-BE-9(N,TOT),,SIG) 
 # incident energy       : 3.2000e+00 MeV - 4.5000e+00 MeV 
 # target                : Be-9 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : Yu.G.Zubov 
+# first author          : Zubov 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (B,NEJTRONFIZ,,298,1961) 
 # year                  : 1961 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41227.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41227
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.20000E+00      0.00000E+00      2.67000E+00      0.00000E+00
-      3.70000E+00      0.00000E+00      2.20000E+00      0.00000E+00
-      4.10000E+00      0.00000E+00      1.87000E+00      0.00000E+00
-      4.50000E+00      0.00000E+00      1.94000E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.2000E+00        0.0000E+00        2.6700E+00        0.0000E+00
+        3.7000E+00        0.0000E+00        2.2000E+00        0.0000E+00
+        4.1000E+00        0.0000E+00        1.8700E+00        0.0000E+00
+        4.5000E+00        0.0000E+00        1.9400E+00        0.0000E+00

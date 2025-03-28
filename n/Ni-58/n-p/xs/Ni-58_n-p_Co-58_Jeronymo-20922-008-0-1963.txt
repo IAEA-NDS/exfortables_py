@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20922-008-0 
-# EXFOR reaction        : ['28-NI-58', ['N,P'], '27-CO-58,,SIG'] 
+# EXFOR reaction        : (28-NI-58(N,P)27-CO-58,,SIG) 
 # incident energy       : 1.2550e+01 MeV - 2.1000e+01 MeV 
 # target                : Ni-58 
 # product               : Co-58 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : J.M.F.Jeronymo 
+# first author          : Jeronymo 
 # institute             : (2FR SAC): CEA/Saclay 
 # reference             : (J,NP,47,157,1963) 
 # year                  : 1963 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20922.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20922
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.25500E+01      2.00000E-01      1.30000E-01      1.50000E-02
-      1.35500E+01      2.00000E-01      1.25000E-01      1.50000E-02
-      1.49000E+01      2.00000E-01      1.22000E-01      1.50000E-02
-      1.65000E+01      2.00000E-01      1.75000E-01      2.10000E-02
-      1.81500E+01      2.00000E-01      2.61000E-01      3.10000E-02
-      1.96000E+01      2.00000E-01      2.48000E-01      3.00000E-02
-      2.06000E+01      2.00000E-01      2.75000E-01      3.30000E-02
-      2.10000E+01      2.00000E-01      2.73000E-01      3.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2550E+01        2.0000E-01        1.3000E-01        1.5000E-02
+        1.3550E+01        2.0000E-01        1.2500E-01        1.5000E-02
+        1.4900E+01        2.0000E-01        1.2200E-01        1.5000E-02
+        1.6500E+01        2.0000E-01        1.7500E-01        2.1000E-02
+        1.8150E+01        2.0000E-01        2.6100E-01        3.1000E-02
+        1.9600E+01        2.0000E-01        2.4800E-01        3.0000E-02
+        2.0600E+01        2.0000E-01        2.7500E-01        3.3000E-02
+        2.1000E+01        2.0000E-01        2.7300E-01        3.2000E-02

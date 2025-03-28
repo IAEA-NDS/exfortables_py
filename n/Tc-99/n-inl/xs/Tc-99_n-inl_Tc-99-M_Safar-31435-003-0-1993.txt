@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31435-003-0 
-# EXFOR reaction        : ['43-TC-99', ['N,INL'], '43-TC-99-M,,SIG,,FIS'] 
+# EXFOR reaction        : (43-TC-99(N,INL)43-TC-99-M,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Tc-99 
 # product               : Tc-99-M 
 # level energy          : - 
 # MF-MT number          : 3 - 4 
-# first author          : J.Safar 
+# first author          : Safar 
 # institute             : (3HUNII): MTA Izotop Intezete, Budapest 
 # reference             : (J,JRN/L,176,(4),295,199310) 
 # year                  : 1993 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31435.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31435
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      1.95000E-01      4.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.9500E-01        4.3000E-02

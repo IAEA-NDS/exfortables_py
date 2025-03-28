@@ -1,11 +1,11 @@
 # entry-subent-pointer  : F0019-002-0 
-# EXFOR reaction        : ['3-LI-6', ['P,HE3'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (3-LI-6(P,HE3)2-HE-4,,SIG) 
 # incident energy       : 1.0000e-01 MeV - 1.8000e-01 MeV 
 # target                : Li-6 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 106 
-# first author          : M.Varnagy 
+# first author          : Varnagy 
 # institute             : (3HUNKOS): University of Debrecen, Debrecen 
 # reference             : (J,NIM,119,451,1974) 
 # year                  : 1974 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F00/F0019.x4 
 # nds                   : https://nds.iaea.org/EXFOR/F0019
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E-01      0.00000E+00      2.65000E-03      0.00000E+00
-      1.20000E-01      0.00000E+00      4.37000E-03      0.00000E+00
-      1.40000E-01      0.00000E+00      7.16000E-03      0.00000E+00
-      1.60000E-01      0.00000E+00      1.17800E-02      0.00000E+00
-      1.80000E-01      0.00000E+00      1.94900E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E-01        0.0000E+00        2.6500E-03        0.0000E+00
+        1.2000E-01        0.0000E+00        4.3700E-03        0.0000E+00
+        1.4000E-01        0.0000E+00        7.1600E-03        0.0000E+00
+        1.6000E-01        0.0000E+00        1.1780E-02        0.0000E+00
+        1.8000E-01        0.0000E+00        1.9490E-02        0.0000E+00

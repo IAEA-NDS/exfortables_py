@@ -1,11 +1,11 @@
 # entry-subent-pointer  : P0066-009-0 
-# EXFOR reaction        : ['7-N-14', ['P,X'], '3-LI-8,,SIG'] 
+# EXFOR reaction        : (7-N-14(P,X)3-LI-8,,SIG) 
 # incident energy       : 3.4000e+02 MeV 
 # target                : N-14 
 # product               : Li-8 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.C.Wright 
+# first author          : Wright 
 # institute             : (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
 # reference             : (J,PR,79,838,195009) 
 # year                  : 1950 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P00/P0066.x4 
 # nds                   : https://nds.iaea.org/EXFOR/P0066
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.40000E+02      0.00000E+00      5.50000E-04      1.60000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.4000E+02        0.0000E+00        5.5000E-04        1.6000E-04

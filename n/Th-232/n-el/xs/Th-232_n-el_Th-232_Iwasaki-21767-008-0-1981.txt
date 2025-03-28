@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21767-008-0 
-# EXFOR reaction        : ['90-TH-232', ['N,EL'], '90-TH-232,,SIG'] 
+# EXFOR reaction        : (90-TH-232(N,EL)90-TH-232,,SIG) 
 # incident energy       : 5.5000e-01 MeV 
 # target                : Th-232 
 # product               : Th-232 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : T.Iwasaki 
+# first author          : Iwasaki 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : ((P,INDC(JAP)-62,68,1981)=(P,NEANDC(J)-75,68,1981)) 
 # year                  : 1981 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21767.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21767
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.50000E-01      0.00000E+00      6.26000E+00      3.20000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.5000E-01        0.0000E+00        6.2600E+00        3.2000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2561-018-0 
-# EXFOR reaction        : ['73-TA-0', ['P,X'], '58-CE-132,CUM,SIG'] 
+# EXFOR reaction        : (73-TA-0(P,X)58-CE-132,CUM,SIG) 
 # incident energy       : 9.0000e+02 MeV - 1.7000e+03 MeV 
 # target                : Ta-0 
 # product               : Ce-132 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : C.Duchemin 
+# first author          : Duchemin 
 # institute             : (2ITYITY): Italy 
 # reference             : (J,ARI,178,109983,2021) 
 # year                  : 2021 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O25/O2561.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2561
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.00000E+02      0.00000E+00      3.79000E-03      5.50000E-04
-      1.00000E+03      0.00000E+00      4.66000E-03      5.50000E-04
-      1.10000E+03      0.00000E+00      7.54000E-03      1.10000E-03
-      1.30000E+03      0.00000E+00      1.20000E-02      9.00000E-04
-      1.70000E+03      0.00000E+00      1.63000E-02      1.60000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.0000E+02        0.0000E+00        3.7900E-03        5.5000E-04
+        1.0000E+03        0.0000E+00        4.6600E-03        5.5000E-04
+        1.1000E+03        0.0000E+00        7.5400E-03        1.1000E-03
+        1.3000E+03        0.0000E+00        1.2000E-02        9.0000E-04
+        1.7000E+03        0.0000E+00        1.6300E-02        1.6000E-03

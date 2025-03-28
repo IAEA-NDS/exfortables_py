@@ -1,17 +1,17 @@
 # entry-subent-pointer  : C0346-013-0 
-# EXFOR reaction        : ['52-TE-125', ['P,2P'], '51-SB-124-G,', ['M'], ',SIG'] 
+# EXFOR reaction        : (52-TE-125(P,2P)51-SB-124-G,(M),SIG) 
 # incident energy       : 3.0000e+02 MeV 
 # target                : Te-125 
 # product               : Sb-124-G 
 # level energy          : - 
 # MF-MT number          : 3 - 111 
-# first author          : R.F.Schall 
+# first author          : Schall 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
-# reference             : (J,PR/C,2,1924,70) 
+# reference             : (J,PR/C,2,1924,1970) 
 # year                  : 1970 
 # facility              : (SYNCY): Synchro cyclotron 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0346.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0346
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+02      0.00000E+00      6.39000E-03      1.54000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+02        0.0000E+00        6.3900E-03        1.5400E-03

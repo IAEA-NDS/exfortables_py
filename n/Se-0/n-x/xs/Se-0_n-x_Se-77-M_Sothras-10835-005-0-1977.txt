@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10835-005-0 
-# EXFOR reaction        : ['34-SE-0', ['N,X'], '34-SE-77-M,,SIG'] 
+# EXFOR reaction        : (34-SE-0(N,X)34-SE-77-M,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Se-0 
 # product               : Se-77-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.Sothras 
+# first author          : Sothras 
 # institute             : (1USASMU): Southern Methodist University, Dallas, TX 
 # reference             : (T,SOTHRAS,1977) 
 # year                  : 1977 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10835.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10835
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      7.75000E-01      7.80000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        7.7500E-01        7.8000E-02

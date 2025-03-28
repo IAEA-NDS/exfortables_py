@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22752-002-0 
-# EXFOR reaction        : ['27-CO-59', ['N,2N'], '27-CO-58,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,2N)27-CO-58,,SIG) 
 # incident energy       : 1.2695e+01 MeV - 1.9455e+01 MeV 
 # target                : Co-59 
 # product               : Co-58 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.Iwasaki 
+# first author          : Iwasaki 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (C,94GATLIN,1,305,1994) 
 # year                  : 1994 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22752.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22752
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.26950E+01      3.24220E-02      4.75150E-01      0.00000E+00
-      1.34530E+01      3.24220E-02      6.19580E-01      0.00000E+00
-      1.45580E+01      3.24220E-02      7.62200E-01      0.00000E+00
-      1.58480E+01      3.24220E-02      8.80380E-01      0.00000E+00
-      1.69310E+01      3.24220E-02      8.39130E-01      0.00000E+00
-      1.82330E+01      3.24220E-02      8.42990E-01      0.00000E+00
-      1.91500E+01      3.24220E-02      8.35160E-01      0.00000E+00
-      1.94550E+01      3.24220E-02      8.31050E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2695E+01        3.2422E-02        4.7515E-01        0.0000E+00
+        1.3453E+01        3.2422E-02        6.1958E-01        0.0000E+00
+        1.4558E+01        3.2422E-02        7.6220E-01        0.0000E+00
+        1.5848E+01        3.2422E-02        8.8038E-01        0.0000E+00
+        1.6931E+01        3.2422E-02        8.3913E-01        0.0000E+00
+        1.8233E+01        3.2422E-02        8.4299E-01        0.0000E+00
+        1.9150E+01        3.2422E-02        8.3516E-01        0.0000E+00
+        1.9455E+01        3.2422E-02        8.3105E-01        0.0000E+00

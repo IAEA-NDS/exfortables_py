@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21378-002-0 
-# EXFOR reaction        : ['1-H-1', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (1-H-1(N,TOT),,SIG) 
 # incident energy       : 3.8000e+01 MeV - 1.5300e+02 MeV 
 # target                : H-1 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : A.E.Taylor 
+# first author          : Taylor 
 # institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 # reference             : (J,PM,44,95,53) 
 # year                  : 1953 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21378.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21378
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.80000E+01      1.00000E+00      2.23000E-01      7.60000E-03
-      6.30000E+01      1.60000E+00      1.26000E-01      3.00000E-03
-      9.50000E+01      1.50000E+00      7.39000E-02      3.00000E-03
-      1.26000E+02      2.00000E+00      5.69000E-02      1.80000E-03
-      1.53000E+02      3.00000E+00      4.64000E-02      1.20000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.8000E+01        1.0000E+00        2.2300E-01        7.6000E-03
+        6.3000E+01        1.6000E+00        1.2600E-01        3.0000E-03
+        9.5000E+01        1.5000E+00        7.3900E-02        3.0000E-03
+        1.2600E+02        2.0000E+00        5.6900E-02        1.8000E-03
+        1.5300E+02        3.0000E+00        4.6400E-02        1.2000E-03

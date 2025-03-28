@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21842-031-0 
-# EXFOR reaction        : ['38-SR-0', ['N,EL'], '38-SR-0,,SIG'] 
+# EXFOR reaction        : (38-SR-0(N,EL)38-SR-0,,SIG) 
 # incident energy       : 1.2600e-06 MeV 
 # target                : Sr-0 
 # product               : Sr-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : L.Koester 
+# first author          : Koester 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (J,ZP/A,301,215,1981) 
 # year                  : 1981 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21842.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21842
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.26000E-06      0.00000E+00      6.60000E+00      2.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2600E-06        0.0000E+00        6.6000E+00        2.0000E-01

@@ -1,17 +1,17 @@
 # entry-subent-pointer  : 40686-002-0 
-# EXFOR reaction        : ['13-AL-27', ['N,A'], '11-NA-24,,SIG'] 
+# EXFOR reaction        : (13-AL-27(N,A)11-NA-24,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Al-27 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : P.M.Aron 
-# institute             : (4CCPRI ): Khlopin Radiev. Institute , Leningrad 
-# reference             : (J,AE,16,(4),370,6404) 
+# first author          : Aron 
+# institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+# reference             : (J,SJA,16,450,1964) 
 # year                  : 1964 
-# facility              : None 
+# facility              : (NGEN): Neutron generator 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40686.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40686
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      1.50000E-01      1.06000E-01      2.30000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        1.5000E-01        1.0600E-01        2.3000E-03

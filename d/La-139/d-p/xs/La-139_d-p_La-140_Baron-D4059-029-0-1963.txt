@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4059-029-0 
-# EXFOR reaction        : ['57-LA-139', ['D,P'], '57-LA-140,,SIG'] 
+# EXFOR reaction        : (57-LA-139(D,P)57-LA-140,,SIG) 
 # incident energy       : 2.0300e+01 MeV 
 # target                : La-139 
 # product               : La-140 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : N.Baron 
+# first author          : Baron 
 # institute             : (1USAPUP): University of Pittsburgh, Pittsburgh, PA 
 # reference             : (J,PR,129,2636,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4059.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4059
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.03000E+01      0.00000E+00      1.00000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0300E+01        0.0000E+00        1.0000E-01        0.0000E+00

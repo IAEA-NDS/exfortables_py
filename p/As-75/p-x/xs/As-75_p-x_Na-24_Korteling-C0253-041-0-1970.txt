@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0253-041-0 
-# EXFOR reaction        : ['33-AS-75', ['P,X'], '11-NA-24,,SIG'] 
+# EXFOR reaction        : (33-AS-75(P,X)11-NA-24,,SIG) 
 # incident energy       : 1.0000e+02 MeV - 3.0000e+02 MeV 
 # target                : As-75 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.G.Korteling 
+# first author          : Korteling 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,PR/C,1,1960,70) 
 # year                  : 1970 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0253.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0253
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+02      1.00000E+01      1.00000E-07      0.00000E+00
-      2.00000E+02      1.00000E+01      7.63000E-06      3.40000E-07
-      3.00000E+02      1.00000E+01      1.85000E-05      2.20000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+02        1.0000E+01        1.0000E-07        0.0000E+00
+        2.0000E+02        1.0000E+01        7.6300E-06        3.4000E-07
+        3.0000E+02        1.0000E+01        1.8500E-05        2.2000E-06

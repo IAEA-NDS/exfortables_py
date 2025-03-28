@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30469-006-0 
-# EXFOR reaction        : ['25-MN-55', ['N,TOT'], ',,SIG,,,DERIV'] 
+# EXFOR reaction        : (25-MN-55(N,TOT),,SIG,,,DERIV) 
 # incident energy       : 2.5000e-08 MeV 
 # target                : Mn-55 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : M.Adib 
+# first author          : Adib 
 # institute             : (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
 # reference             : (J,AKE,27,(2),117,1976) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30469.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30469
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-08      0.00000E+00      1.58000E+01      4.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-08        0.0000E+00        1.5800E+01        4.0000E-01

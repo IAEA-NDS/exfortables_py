@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22404-007-0 
-# EXFOR reaction        : ['6-C-12', ['N,INL'], '6-C-12,PAR,SIG'] 
+# EXFOR reaction        : (6-C-12(N,INL)6-C-12,PAR,SIG) 
 # incident energy       : 1.3330e+01 MeV - 1.5820e+01 MeV 
 # target                : C-12 
 # product               : C-12 
 # level energy          : 4.4390e+00 MeV 
 # MF-MT number          : 3 - 51 
-# first author          : G.Boerker 
+# first author          : Boerker 
 # institute             : (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
 # reference             : (C,91JUELIC,,317,1991) 
 # year                  : 1991 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22404.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22404
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.33300E+01      1.34000E-01      2.12560E-01      4.37874E-03
-      1.40600E+01      1.23000E-01      2.07230E-01      4.31038E-03
-      1.45300E+01      1.16000E-01      1.81130E-01      3.85807E-03
-      1.58200E+01      1.21000E-01      1.40890E-01      3.26865E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3330E+01        1.3400E-01        2.1256E-01        4.3787E-03
+        1.4060E+01        1.2300E-01        2.0723E-01        4.3104E-03
+        1.4530E+01        1.1600E-01        1.8113E-01        3.8581E-03
+        1.5820E+01        1.2100E-01        1.4089E-01        3.2686E-03

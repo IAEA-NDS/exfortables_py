@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12219-010-0 
-# EXFOR reaction        : ['80-HG-200', ['N,A'], '78-PT-197,,SIG'] 
+# EXFOR reaction        : (80-HG-200(N,A)78-PT-197,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Hg-200 
 # product               : Pt-197 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : J.K.Temperley 
+# first author          : Temperley 
 # institute             : (1USANDL): U.S. Army Nuclear Defence Laboratory , Edgewood Arsenal, MD 
 # reference             : (J,PR,178,1904,1969) 
 # year                  : 1969 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12219.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12219
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      5.00000E-01      2.00000E-04      1.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        5.0000E-01        2.0000E-04        1.0000E-04

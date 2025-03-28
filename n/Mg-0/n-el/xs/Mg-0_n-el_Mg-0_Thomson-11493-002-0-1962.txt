@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11493-002-0 
-# EXFOR reaction        : ['12-MG-0', ['N,EL'], '12-MG-0,,SIG'] 
+# EXFOR reaction        : (12-MG-0(N,EL)12-MG-0,,SIG) 
 # incident energy       : 2.0000e+00 MeV - 5.0000e+00 MeV 
 # target                : Mg-0 
 # product               : Mg-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : D.B.Thomson 
+# first author          : Thomson 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,PR,125,2049,1962) 
 # year                  : 1962 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11493.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11493
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+00      2.00000E-01      2.52000E+00      2.50000E-01
-      3.00000E+00      2.00000E-01      1.93000E+00      1.90000E-01
-      4.00000E+00      2.00000E-01      1.10000E+00      1.10000E-01
-      5.00000E+00      2.00000E-01      1.22000E+00      1.20000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+00        2.0000E-01        2.5200E+00        2.5000E-01
+        3.0000E+00        2.0000E-01        1.9300E+00        1.9000E-01
+        4.0000E+00        2.0000E-01        1.1000E+00        1.1000E-01
+        5.0000E+00        2.0000E-01        1.2200E+00        1.2000E-01

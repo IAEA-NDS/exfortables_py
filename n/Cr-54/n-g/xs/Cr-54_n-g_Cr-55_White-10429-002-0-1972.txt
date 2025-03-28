@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10429-002-0 
-# EXFOR reaction        : ['24-CR-54', ['N,G'], '24-CR-55,,SIG,,MXW'] 
+# EXFOR reaction        : (24-CR-54(N,G)24-CR-55,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Cr-54 
 # product               : Cr-55 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : D.H.White 
+# first author          : White 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,NP/A,187,12,1972) 
 # year                  : 1972 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10429.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10429
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      3.40000E-01      4.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        3.4000E-01        4.0000E-02

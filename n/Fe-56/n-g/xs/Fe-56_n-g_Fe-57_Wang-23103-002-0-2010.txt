@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23103-002-0 
-# EXFOR reaction        : ['26-FE-56', ['N,G'], '26-FE-57,,SIG,,SPA'] 
+# EXFOR reaction        : (26-FE-56(N,G)26-FE-57,,SIG,,SPA) 
 # incident energy       : 2.0000e-02 MeV - 7.2500e-02 MeV 
 # target                : Fe-56 
 # product               : Fe-57 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : T.Wang 
+# first author          : Wang 
 # institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
 # reference             : (J,NIM/B,268,440,2010) 
 # year                  : 2010 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23103.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23103
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-02      0.00000E+00      1.16400E-02      4.70000E-04
-      3.00000E-02      0.00000E+00      1.97200E-02      7.70000E-04
-      4.00000E-02      0.00000E+00      9.46000E-03      3.80000E-04
-      5.00000E-02      0.00000E+00      1.19100E-02      4.40000E-04
-      7.25000E-02      0.00000E+00      9.31000E-03      3.40000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-02        0.0000E+00        1.1640E-02        4.7000E-04
+        3.0000E-02        0.0000E+00        1.9720E-02        7.7000E-04
+        4.0000E-02        0.0000E+00        9.4600E-03        3.8000E-04
+        5.0000E-02        0.0000E+00        1.1910E-02        4.4000E-04
+        7.2500E-02        0.0000E+00        9.3100E-03        3.4000E-04

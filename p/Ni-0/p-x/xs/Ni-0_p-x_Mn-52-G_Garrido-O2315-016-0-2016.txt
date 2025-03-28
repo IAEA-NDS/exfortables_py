@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2315-016-0 
-# EXFOR reaction        : ['28-NI-0', ['P,X'], '25-MN-52-G,M+,SIG'] 
+# EXFOR reaction        : (28-NI-0(P,X)25-MN-52-G,M+,SIG) 
 # incident energy       : 4.0780e+01 MeV - 6.9810e+01 MeV 
 # target                : Ni-0 
 # product               : Mn-52-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : E.Garrido 
+# first author          : Garrido 
 # institute             : (2FR NTE): Universite de Nantes 
 # reference             : (J,NIM/B,383,191,2016) 
 # year                  : 2016 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2315.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2315
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.98100E+01      5.70000E-01      1.75900E-02      1.32000E-03
-      5.73400E+01      1.07000E+00      2.33400E-02      2.17000E-03
-      4.56600E+01      5.80000E-01      2.99000E-03      2.70000E-04
-      4.07800E+01      8.00000E-01      4.20000E-04      5.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.9810E+01        5.7000E-01        1.7590E-02        1.3200E-03
+        5.7340E+01        1.0700E+00        2.3340E-02        2.1700E-03
+        4.5660E+01        5.8000E-01        2.9900E-03        2.7000E-04
+        4.0780E+01        8.0000E-01        4.2000E-04        5.0000E-05

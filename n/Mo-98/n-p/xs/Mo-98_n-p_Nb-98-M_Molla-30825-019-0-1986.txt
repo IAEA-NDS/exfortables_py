@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30825-019-0 
-# EXFOR reaction        : ['42-MO-98', ['N,P'], '41-NB-98-M,,SIG'] 
+# EXFOR reaction        : (42-MO-98(N,P)41-NB-98-M,,SIG) 
 # incident energy       : 1.4600e+01 MeV - 1.4800e+01 MeV 
 # target                : Mo-98 
 # product               : Nb-98-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : N.I.Molla 
+# first author          : Molla 
 # institute             : (3BANSAV): Institute Nuclear Science & Technology, AERE, Savar, Dhaka 
 # reference             : (R,INDC(BAN)-003,1986) 
 # year                  : 1986 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/308/30825.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30825
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      3.00000E-01      3.26000E-03      1.81000E-03
-      1.48000E+01      3.40000E-01      4.20000E-03      5.50000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        3.0000E-01        3.2600E-03        1.8100E-03
+        1.4800E+01        3.4000E-01        4.2000E-03        5.5000E-04

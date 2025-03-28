@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22127-010-0 
-# EXFOR reaction        : ['8-O-16', ['N,EL'], '8-O-16,,SIG'] 
+# EXFOR reaction        : (8-O-16(N,EL)8-O-16,,SIG) 
 # incident energy       : 2.1600e+01 MeV 
 # target                : O-16 
 # product               : O-16 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : N.Olsson 
+# first author          : Olsson 
 # institute             : (2SWDSWR): Studsvik Science Research Laboratory, Nykoeping 
 # reference             : (W,OLSSON,891006) 
 # year                  : 1989 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22127.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22127
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.16000E+01      1.00000E-01      1.02390E+00      5.15000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1600E+01        1.0000E-01        1.0239E+00        5.1500E-02

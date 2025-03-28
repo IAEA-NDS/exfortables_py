@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0252-028-0 
-# EXFOR reaction        : ['16-S-34', ['P,X'], '11-NA-24,,SIG'] 
+# EXFOR reaction        : (16-S-34(P,X)11-NA-24,,SIG) 
 # incident energy       : 3.0000e+02 MeV - 4.0000e+02 MeV 
 # target                : S-34 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.R.Korteling 
+# first author          : Korteling 
 # institute             : (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
 # reference             : (J,PR/C,1,193,70) 
 # year                  : 1970 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0252.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0252
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+02      0.00000E+00      3.19000E-03      0.00000E+00
-      4.00000E+02      0.00000E+00      6.11000E-03      1.50000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+02        0.0000E+00        3.1900E-03        0.0000E+00
+        4.0000E+02        0.0000E+00        6.1100E-03        1.5000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0146-008-0 
-# EXFOR reaction        : ['23-V-51', ['P,X'], '21-SC-48,,SIG'] 
+# EXFOR reaction        : (23-V-51(P,X)21-SC-48,,SIG) 
 # incident energy       : 3.7110e+01 MeV - 4.4780e+01 MeV 
 # target                : V-51 
 # product               : Sc-48 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NP/A,322,40,1979) 
 # year                  : 1979 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A01/A0146.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0146
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.47800E+01      1.30000E-01      1.55000E-04      2.80000E-05
-      4.26400E+01      2.10000E-01      8.00000E-05      2.00000E-05
-      4.07700E+01      2.60000E-01      4.20000E-05      1.50000E-05
-      3.88200E+01      2.90000E-01      1.90000E-05      8.00000E-06
-      3.71100E+01      3.20000E-01      9.00000E-06      4.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.4780E+01        1.3000E-01        1.5500E-04        2.8000E-05
+        4.2640E+01        2.1000E-01        8.0000E-05        2.0000E-05
+        4.0770E+01        2.6000E-01        4.2000E-05        1.5000E-05
+        3.8820E+01        2.9000E-01        1.9000E-05        8.0000E-06
+        3.7110E+01        3.2000E-01        9.0000E-06        4.0000E-06

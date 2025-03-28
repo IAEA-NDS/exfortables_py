@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30507-002-0 
-# EXFOR reaction        : ['37-RB-85', ['N,2N'], '37-RB-84-M,,SIG'] 
+# EXFOR reaction        : (37-RB-85(N,2N)37-RB-84-M,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Rb-85 
 # product               : Rb-84-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.C.Misra 
+# first author          : Misra 
 # institute             : (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
 # reference             : (J,JP/G,5,(6),855,197906) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30507.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30507
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      0.00000E+00      8.14000E-01      4.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        8.1400E-01        4.2000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0095-036-0 
-# EXFOR reaction        : ['28-NI-0', ['P,X'], '18-AR-36,', ['CUM'], ',SIG'] 
+# EXFOR reaction        : (28-NI-0(P,X)18-AR-36,(CUM),SIG) 
 # incident energy       : 1.5000e+02 MeV - 2.4000e+04 MeV 
 # target                : Ni-0 
 # product               : Ar-36 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.Regnier 
+# first author          : Regnier 
 # institute             : (2FR GRA): Centre d'Etudes Nucleaires de Bordeaux-Gradignan 
 # reference             : (J,PR/C,20,1517,1979) 
 # year                  : 1979 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0095.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0095
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+02      0.00000E+00      1.40000E-05      3.00000E-06
-      1.05000E+03      0.00000E+00      2.60000E-03      2.00000E-04
-      2.40000E+04      0.00000E+00      2.09000E-03      1.50000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+02        0.0000E+00        1.4000E-05        3.0000E-06
+        1.0500E+03        0.0000E+00        2.6000E-03        2.0000E-04
+        2.4000E+04        0.0000E+00        2.0900E-03        1.5000E-04

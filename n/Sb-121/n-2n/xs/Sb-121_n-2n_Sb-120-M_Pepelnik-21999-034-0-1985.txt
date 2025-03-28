@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21999-034-0 
-# EXFOR reaction        : ['51-SB-121', ['N,2N'], '51-SB-120-M,,SIG'] 
+# EXFOR reaction        : (51-SB-121(N,2N)51-SB-120-M,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Sb-121 
 # product               : Sb-120-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : R.Pepelnik 
+# first author          : Pepelnik 
 # institute             : (2GERKIG): GKSS, Geesthacht 
 # reference             : ((P,NEANDC(E)-262U,(5),32,198506)=(P,INDC(GER)-28,32,198506)) 
 # year                  : 1985 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21999.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21999
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      6.00000E-02      5.46000E-01      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        6.0000E-02        5.4600E-01        2.0000E-02

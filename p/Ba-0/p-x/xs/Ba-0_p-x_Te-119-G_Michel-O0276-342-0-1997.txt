@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0276-342-0 
-# EXFOR reaction        : ['56-BA-0', ['P,X'], '52-TE-119-G,CUM,SIG'] 
+# EXFOR reaction        : (56-BA-0(P,X)52-TE-119-G,CUM,SIG) 
 # incident energy       : 1.2000e+03 MeV - 2.6000e+03 MeV 
 # target                : Ba-0 
 # product               : Te-119-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,129,153,1997) 
 # year                  : 1997 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0276
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.20000E+03      0.00000E+00      2.15000E-02      1.87000E-03
-      1.60000E+03      0.00000E+00      1.10000E-02      1.29000E-03
-      2.60000E+03      0.00000E+00      6.29000E-03      7.99000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E+03        0.0000E+00        2.1500E-02        1.8700E-03
+        1.6000E+03        0.0000E+00        1.1000E-02        1.2900E-03
+        2.6000E+03        0.0000E+00        6.2900E-03        7.9900E-04

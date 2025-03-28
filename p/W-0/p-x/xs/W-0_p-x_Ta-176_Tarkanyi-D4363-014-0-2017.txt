@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4363-014-0 
-# EXFOR reaction        : ['74-W-0', ['P,X'], '73-TA-176,CUM,SIG'] 
+# EXFOR reaction        : (74-W-0(P,X)73-TA-176,CUM,SIG) 
 # incident energy       : 6.0700e+01 MeV - 6.4900e+01 MeV 
 # target                : W-0 
 # product               : Ta-176 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,NIM/B,391,27,2017) 
 # year                  : 2017 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4363.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4363
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.49000E+01      2.00000E-01      4.28200E-02      5.57000E-03
-      6.35000E+01      2.70000E-01      2.75300E-02      3.87000E-03
-      6.22000E+01      3.40000E-01      1.99900E-02      2.80000E-03
-      6.07000E+01      4.10000E-01      1.34000E-02      1.88000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.4900E+01        2.0000E-01        4.2820E-02        5.5700E-03
+        6.3500E+01        2.7000E-01        2.7530E-02        3.8700E-03
+        6.2200E+01        3.4000E-01        1.9990E-02        2.8000E-03
+        6.0700E+01        4.1000E-01        1.3400E-02        1.8800E-03

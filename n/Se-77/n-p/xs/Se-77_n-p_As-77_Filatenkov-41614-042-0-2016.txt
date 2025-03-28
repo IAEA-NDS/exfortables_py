@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41614-042-0 
-# EXFOR reaction        : ['34-SE-77', ['N,P'], '33-AS-77,,SIG'] 
+# EXFOR reaction        : (34-SE-77(N,P)33-AS-77,,SIG) 
 # incident energy       : 1.3490e+01 MeV - 1.4810e+01 MeV 
 # target                : Se-77 
 # product               : As-77 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,INDC(CCP)-0460,2016) 
 # year                  : 2016 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34900E+01      0.00000E+00      5.69000E-02      1.50216E-02
-      1.38900E+01      0.00000E+00      6.53000E-02      1.80881E-02
-      1.40500E+01      0.00000E+00      5.48000E-02      1.59468E-02
-      1.42600E+01      0.00000E+00      6.78000E-02      1.70178E-02
-      1.44400E+01      0.00000E+00      6.54000E-02      1.51074E-02
-      1.48100E+01      0.00000E+00      7.69000E-02      1.99940E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3490E+01        0.0000E+00        5.6900E-02        1.5022E-02
+        1.3890E+01        0.0000E+00        6.5300E-02        1.8088E-02
+        1.4050E+01        0.0000E+00        5.4800E-02        1.5947E-02
+        1.4260E+01        0.0000E+00        6.7800E-02        1.7018E-02
+        1.4440E+01        0.0000E+00        6.5400E-02        1.5107E-02
+        1.4810E+01        0.0000E+00        7.6900E-02        1.9994E-02

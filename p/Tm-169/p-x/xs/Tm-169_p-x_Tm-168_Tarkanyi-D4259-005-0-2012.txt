@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4259-005-0 
-# EXFOR reaction        : ['69-TM-169', ['P,X'], '69-TM-168,,SIG'] 
+# EXFOR reaction        : (69-TM-169(P,X)69-TM-168,,SIG) 
 # incident energy       : 2.4500e+01 MeV - 3.5800e+01 MeV 
 # target                : Tm-169 
 # product               : Tm-168 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,ARI,70,309,2012) 
 # year                  : 2012 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4259.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4259
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.45000E+01      7.00000E-01      8.93500E-02      1.02300E-02
-      2.63000E+01      6.00000E-01      1.31280E-01      1.54600E-02
-      2.80000E+01      6.00000E-01      1.30570E-01      1.52800E-02
-      2.96000E+01      5.00000E-01      1.21790E-01      1.63700E-02
-      3.12000E+01      5.00000E-01      2.22480E-01      2.62300E-02
-      3.28000E+01      4.00000E-01      1.59650E-01      1.89000E-02
-      3.43000E+01      4.00000E-01      2.51530E-01      2.96400E-02
-      3.58000E+01      3.00000E-01      1.80430E-01      2.17900E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4500E+01        7.0000E-01        8.9350E-02        1.0230E-02
+        2.6300E+01        6.0000E-01        1.3128E-01        1.5460E-02
+        2.8000E+01        6.0000E-01        1.3057E-01        1.5280E-02
+        2.9600E+01        5.0000E-01        1.2179E-01        1.6370E-02
+        3.1200E+01        5.0000E-01        2.2248E-01        2.6230E-02
+        3.2800E+01        4.0000E-01        1.5965E-01        1.8900E-02
+        3.4300E+01        4.0000E-01        2.5153E-01        2.9640E-02
+        3.5800E+01        3.0000E-01        1.8043E-01        2.1790E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11492-009-0 
-# EXFOR reaction        : ['15-P-31', ['N,P'], '14-SI-31,,SIG'] 
+# EXFOR reaction        : (15-P-31(N,P)14-SI-31,,SIG) 
 # incident energy       : 1.4400e+01 MeV 
 # target                : P-31 
 # product               : Si-31 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : F.L.Hassler 
+# first author          : Hassler 
 # institute             : (1USABRN): Brown University, Providence, RI 
 # reference             : (J,PR,125,1011,62) 
 # year                  : 1962 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11492.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11492
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.44000E+01      2.00000E-01      1.55000E-01      1.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4400E+01        2.0000E-01        1.5500E-01        1.6000E-02

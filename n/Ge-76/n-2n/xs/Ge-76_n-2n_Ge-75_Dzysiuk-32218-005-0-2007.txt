@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 32218-005-0 
-# EXFOR reaction        : ['32-GE-76', ['N,2N'], '32-GE-75,,SIG'] 
+# EXFOR reaction        : (32-GE-76(N,2N)32-GE-75,,SIG) 
 # incident energy       : 1.4530e+01 MeV 
 # target                : Ge-76 
 # product               : Ge-75 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : N.R.Dzysiuk 
+# first author          : Dzysiuk 
 # institute             : (4UKRKGU): Kyivsky Natsionalny University "Taras Shevchenko", Kyiv 
 # reference             : (J,YFE,8,(4/22),68,2007) 
 # year                  : 2007 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/322/32218.x4 
 # nds                   : https://nds.iaea.org/EXFOR/32218
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45300E+01      0.00000E+00      9.14000E-01      7.30000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4530E+01        0.0000E+00        9.1400E-01        7.3000E-02

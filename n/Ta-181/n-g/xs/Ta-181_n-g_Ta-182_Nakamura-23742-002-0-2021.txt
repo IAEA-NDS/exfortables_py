@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23742-002-0 
-# EXFOR reaction        : ['73-TA-181', ['N,G'], '73-TA-182,,SIG'] 
+# EXFOR reaction        : (73-TA-181(N,G)73-TA-182,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ta-181 
 # product               : Ta-182 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.Nakamura 
+# first author          : Nakamura 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (J,NST,58,1061,2021) 
 # year                  : 2021 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/237/23742.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23742
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.05000E+01      4.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.0500E+01        4.0000E-01

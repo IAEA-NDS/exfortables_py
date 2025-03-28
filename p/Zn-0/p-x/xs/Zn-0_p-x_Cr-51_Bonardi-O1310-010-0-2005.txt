@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1310-010-0 
-# EXFOR reaction        : ['30-ZN-0', ['P,X'], '24-CR-51,CUM,SIG'] 
+# EXFOR reaction        : (30-ZN-0(P,X)24-CR-51,CUM,SIG) 
 # incident energy       : 8.6650e+01 MeV - 1.4080e+02 MeV 
 # target                : Zn-0 
 # product               : Cr-51 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.L.Bonardi 
+# first author          : Bonardi 
 # institute             : (2ITYMIL): Universita degli Studi di Milano + INFN Milano 
 # reference             : (J,JRN,264,101,2005) 
 # year                  : 2005 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O13/O1310.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1310
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40800E+02      0.00000E+00      3.80000E-03      3.00000E-04
-      1.30450E+02      0.00000E+00      2.90000E-03      2.00000E-04
-      1.19750E+02      0.00000E+00      2.10000E-03      2.00000E-04
-      1.08450E+02      0.00000E+00      1.10000E-03      2.00000E-04
-      9.78000E+01      0.00000E+00      7.00000E-04      3.00000E-04
-      8.66500E+01      0.00000E+00      5.00000E-04      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4080E+02        0.0000E+00        3.8000E-03        3.0000E-04
+        1.3045E+02        0.0000E+00        2.9000E-03        2.0000E-04
+        1.1975E+02        0.0000E+00        2.1000E-03        2.0000E-04
+        1.0845E+02        0.0000E+00        1.1000E-03        2.0000E-04
+        9.7800E+01        0.0000E+00        7.0000E-04        3.0000E-04
+        8.6650E+01        0.0000E+00        5.0000E-04        2.0000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31848-002-2 
-# EXFOR reaction        : ['35-BR-81', ['N,2N'], '35-BR-80-G,,SIG'] 
+# EXFOR reaction        : (35-BR-81(N,2N)35-BR-80-G,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Br-81 
 # product               : Br-80-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.R.Palvanov 
+# first author          : Palvanov 
 # institute             : (4UZ NUU): National University of Uzbekistan, Tashkent 
 # reference             : (J,PPN/L,18,672,2021) 
 # year                  : 2021 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31848.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31848
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      0.00000E+00      3.91000E-01      4.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        3.9100E-01        4.7000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22440-003-0 
-# EXFOR reaction        : ['26-FE-54', ['N,X'], '25-MN-52-G,,SIG'] 
+# EXFOR reaction        : (26-FE-54(N,X)25-MN-52-G,,SIG) 
 # incident energy       : 1.6050e+01 MeV - 2.0350e+01 MeV 
 # target                : Fe-54 
 # product               : Mn-52-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.Fessler 
+# first author          : Fessler 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (R,JUEL-3502,1998) 
 # year                  : 1998 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22440.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22440
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.60500E+01      2.50000E-01      2.00000E-05      1.00000E-05
-      1.68900E+01      3.00000E-01      5.00000E-05      1.00000E-05
-      1.78200E+01      3.00000E-01      1.90000E-04      2.00000E-05
-      1.91400E+01      3.50000E-01      2.60000E-04      3.00000E-05
-      2.03500E+01      4.00000E-01      3.40000E-04      3.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6050E+01        2.5000E-01        2.0000E-05        1.0000E-05
+        1.6890E+01        3.0000E-01        5.0000E-05        1.0000E-05
+        1.7820E+01        3.0000E-01        1.9000E-04        2.0000E-05
+        1.9140E+01        3.5000E-01        2.6000E-04        3.0000E-05
+        2.0350E+01        4.0000E-01        3.4000E-04        3.0000E-05

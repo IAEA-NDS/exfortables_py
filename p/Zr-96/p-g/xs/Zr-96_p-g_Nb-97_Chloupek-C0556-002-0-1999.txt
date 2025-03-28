@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0556-002-0 
-# EXFOR reaction        : ['40-ZR-96', ['P,G'], '41-NB-97,,SIG,,SFC'] 
+# EXFOR reaction        : (40-ZR-96(P,G)41-NB-97,,SIG,,SFC) 
 # incident energy       : 3.4080e+00 MeV - 5.9320e+00 MeV 
 # target                : Zr-96 
 # product               : Nb-97 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : F.R.Chloupek 
+# first author          : Chloupek 
 # institute             : (1USAOSU): Ohio State University, Columbus, OH 
 # reference             : (J,NP/A,652,391,1999) 
 # year                  : 1999 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C05/C0556.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0556
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.40800E+00      0.00000E+00      1.07600E+11      1.94000E+10
-      3.66100E+00      0.00000E+00      7.93000E+10      1.82000E+10
-      3.91300E+00      0.00000E+00      9.20000E+10      2.02000E+10
-      4.16600E+00      0.00000E+00      6.34000E+10      1.33000E+10
-      4.41900E+00      0.00000E+00      5.16000E+10      1.13000E+10
-      4.92300E+00      0.00000E+00      3.62000E+10      6.50000E+09
-      5.42800E+00      0.00000E+00      2.49000E+10      4.50000E+09
-      5.93200E+00      0.00000E+00      1.46000E+10      2.80000E+09
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.4080E+00        0.0000E+00        1.0760E+11        1.9400E+10
+        3.6610E+00        0.0000E+00        7.9300E+10        1.8200E+10
+        3.9130E+00        0.0000E+00        9.2000E+10        2.0200E+10
+        4.1660E+00        0.0000E+00        6.3400E+10        1.3300E+10
+        4.4190E+00        0.0000E+00        5.1600E+10        1.1300E+10
+        4.9230E+00        0.0000E+00        3.6200E+10        6.5000E+09
+        5.4280E+00        0.0000E+00        2.4900E+10        4.5000E+09
+        5.9320E+00        0.0000E+00        1.4600E+10        2.8000E+09

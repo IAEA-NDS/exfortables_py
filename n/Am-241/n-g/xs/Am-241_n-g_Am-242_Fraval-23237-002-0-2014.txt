@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23237-002-0 
-# EXFOR reaction        : ['95-AM-241', ['N,G'], '95-AM-242,,SIG,,,DERIV'] 
+# EXFOR reaction        : (95-AM-241(N,G)95-AM-242,,SIG,,,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Am-241 
 # product               : Am-242 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : K.Fraval 
+# first author          : Fraval 
 # institute             : (2FR SAC): CEA/Saclay 
 # reference             : (J,PR/C,89,044609,2014) 
 # year                  : 2014 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23237.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23237
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      6.78000E+02      6.80000E+01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        6.7800E+02        6.8000E+01

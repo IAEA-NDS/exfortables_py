@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22775-002-0 
-# EXFOR reaction        : ['10-NE-20', ['N,G'], '10-NE-21,PAR,SIG'] 
+# EXFOR reaction        : (10-NE-20(N,G)10-NE-21,PAR,SIG) 
 # incident energy       : 2.6543e-02 MeV - 4.9014e-02 MeV 
 # target                : Ne-20 
 # product               : Ne-21 
 # level energy          : 4.7250e+00 MeV 
 # MF-MT number          : 3 - 10 
-# first author          : A.Tomyo 
+# first author          : Tomyo 
 # institute             : (2JPNOSA): Osaka University , Osaka 
 # reference             : (J,NP/A,718,527C,2003) 
 # year                  : 2003 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22775.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22775
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.65430E-02      6.80000E-05      2.82600E-05      1.63690E-06
-      4.90140E-02      6.80000E-05      1.69000E-05      2.18240E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6543E-02        6.8000E-05        2.8260E-05        1.6369E-06
+        4.9014E-02        6.8000E-05        1.6900E-05        2.1824E-06

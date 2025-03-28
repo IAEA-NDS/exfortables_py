@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40244-093-0 
-# EXFOR reaction        : ['29-CU-65', ['N,G'], '29-CU-66,,SIG'] 
+# EXFOR reaction        : (29-CU-65(N,G)29-CU-66,,SIG) 
 # incident energy       : 2.0000e-01 MeV - 4.0000e+00 MeV 
 # target                : Cu-65 
 # product               : Cu-66 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.I.Leipunskiy 
+# first author          : Leipunskiy 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (C,58GENEVA,15,50,1958) 
 # year                  : 1958 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40244.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40244
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-01      0.00000E+00      1.39000E-02      1.50000E-03
-      2.70000E+00      0.00000E+00      4.75000E-03      5.00000E-05
-      4.00000E+00      0.00000E+00      2.77000E-03      3.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-01        0.0000E+00        1.3900E-02        1.5000E-03
+        2.7000E+00        0.0000E+00        4.7500E-03        5.0000E-05
+        4.0000E+00        0.0000E+00        2.7700E-03        3.0000E-05

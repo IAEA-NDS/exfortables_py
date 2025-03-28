@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23445-004-0 
-# EXFOR reaction        : ['95-AM-241', ['N,TOT'], ',,SIG,,,DERIV'] 
+# EXFOR reaction        : (95-AM-241(N,TOT),,SIG,,,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Am-241 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : K.Terada 
+# first author          : Terada 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (J,NST,55,1198,2018) 
 # year                  : 2018 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/234/23445.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23445
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      7.30000E+02      2.10000E+01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        7.3000E+02        2.1000E+01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1850-009-0 
-# EXFOR reaction        : ['90-TH-232', ['P,F'], '61-PM-150,', ['CUM'], ',SIG'] 
+# EXFOR reaction        : (90-TH-232(P,F)61-PM-150,(CUM),SIG) 
 # incident energy       : 1.1000e+01 MeV - 1.5900e+01 MeV 
 # target                : Th-232 
 # product               : Pm-150 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : K.Tsukada 
+# first author          : Tsukada 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (J,RCA,76,173,1997) 
 # year                  : 1997 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E18/E1850.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1850
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.10000E+01      0.00000E+00      1.60000E-05      6.00000E-06
-      1.25000E+01      0.00000E+00      3.10000E-05      8.00000E-06
-      1.40000E+01      0.00000E+00      7.00000E-05      3.40000E-05
-      1.50000E+01      0.00000E+00      1.10000E-04      3.00000E-05
-      1.59000E+01      0.00000E+00      1.40000E-04      3.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1000E+01        0.0000E+00        1.6000E-05        6.0000E-06
+        1.2500E+01        0.0000E+00        3.1000E-05        8.0000E-06
+        1.4000E+01        0.0000E+00        7.0000E-05        3.4000E-05
+        1.5000E+01        0.0000E+00        1.1000E-04        3.0000E-05
+        1.5900E+01        0.0000E+00        1.4000E-04        3.0000E-05

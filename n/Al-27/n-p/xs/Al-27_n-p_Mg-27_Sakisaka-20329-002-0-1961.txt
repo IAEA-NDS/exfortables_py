@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20329-002-0 
-# EXFOR reaction        : ['13-AL-27', ['N,P'], '12-MG-27,,SIG'] 
+# EXFOR reaction        : (13-AL-27(N,P)12-MG-27,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Al-27 
 # product               : Mg-27 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.Sakisaka 
+# first author          : Sakisaka 
 # institute             : (2JPNKON): Konan University , Kobe 
 # reference             : (J,JPJ,16,1869,6110) 
 # year                  : 1961 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20329.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20329
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      2.00000E-01      8.50000E-02      2.80000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        2.0000E-01        8.5000E-02        2.8000E-03

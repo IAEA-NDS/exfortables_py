@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2034-002-0 
-# EXFOR reaction        : ['92-U-235', ['D,P'], '92-U-236-L,,SIG'] 
+# EXFOR reaction        : (92-U-235(D,P)92-U-236-L,,SIG) 
 # incident energy       : 1.2970e+01 MeV - 2.0000e+01 MeV 
 # target                : U-235 
 # product               : U-236-L 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : R.Repnow 
+# first author          : Repnow 
 # institute             : (2GERMPH): Max-Planck-Institut fuer Kernphysik, Heidelberg 
 # reference             : (J,NP/A,147,183,1970) 
 # year                  : 1970 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2034.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2034
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.29700E+01      0.00000E+00      3.59000E-07      6.28500E-08
-      1.30000E+01      0.00000E+00      3.03100E-07      3.67000E-08
-      1.50300E+01      0.00000E+00      2.68500E-07      4.54700E-08
-      1.60000E+01      0.00000E+00      2.24900E-07      6.38800E-08
-      1.60300E+01      0.00000E+00      2.23100E-07      4.36500E-08
-      1.75200E+01      0.00000E+00      1.38600E-07      3.82200E-08
-      1.84800E+01      0.00000E+00      1.59000E-07      3.91000E-08
-      1.99000E+01      0.00000E+00      2.04100E-07      4.16100E-08
-      2.00000E+01      0.00000E+00      7.94400E-08      2.88700E-08
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2970E+01        0.0000E+00        3.5900E-07        6.2850E-08
+        1.3000E+01        0.0000E+00        3.0310E-07        3.6700E-08
+        1.5030E+01        0.0000E+00        2.6850E-07        4.5470E-08
+        1.6000E+01        0.0000E+00        2.2490E-07        6.3880E-08
+        1.6030E+01        0.0000E+00        2.2310E-07        4.3650E-08
+        1.7520E+01        0.0000E+00        1.3860E-07        3.8220E-08
+        1.8480E+01        0.0000E+00        1.5900E-07        3.9100E-08
+        1.9900E+01        0.0000E+00        2.0410E-07        4.1610E-08
+        2.0000E+01        0.0000E+00        7.9440E-08        2.8870E-08

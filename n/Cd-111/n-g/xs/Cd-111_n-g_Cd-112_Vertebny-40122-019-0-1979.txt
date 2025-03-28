@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40122-019-0 
-# EXFOR reaction        : ['48-CD-111', ['N,G'], '48-CD-112,,SIG'] 
+# EXFOR reaction        : (48-CD-111(N,G)48-CD-112,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Cd-111 
 # product               : Cd-112 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.P.Vertebny 
+# first author          : Vertebny 
 # institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
 # reference             : (J,UPJ,17,48,1979) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40122.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40122
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      7.70000E+00      8.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        7.7000E+00        8.0000E-01

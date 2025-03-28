@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31515-002-0 
-# EXFOR reaction        : ['12-MG-24', ['N,P'], '11-NA-24,,SIG,,FIS'] 
+# EXFOR reaction        : (12-MG-24(N,P)11-NA-24,,SIG,,FIS) 
 # incident energy       : 1.3200e+00 MeV 
 # target                : Mg-24 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.A.Arribere 
+# first author          : Arribere 
 # institute             : (3ARGCAB): Institute Balseiro y Centro Atomico Bariloche, Bariloche 
 # reference             : (J,JRN,244,417,2000) 
 # year                  : 2000 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31515.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31515
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.32000E+00      0.00000E+00      1.44100E-03      9.20000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3200E+00        0.0000E+00        1.4410E-03        9.2000E-05

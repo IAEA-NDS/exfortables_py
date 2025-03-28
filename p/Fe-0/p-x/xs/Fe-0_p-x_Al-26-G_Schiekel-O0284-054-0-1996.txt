@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0284-054-0 
-# EXFOR reaction        : ['26-FE-0', ['P,X'], '13-AL-26-G,,SIG'] 
+# EXFOR reaction        : (26-FE-0(P,X)13-AL-26-G,,SIG) 
 # incident energy       : 2.3600e+02 MeV - 3.8300e+02 MeV 
 # target                : Fe-0 
 # product               : Al-26-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Th.Schiekel 
+# first author          : Schiekel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,114,91,1996) 
 # year                  : 1996 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0284.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0284
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.36000E+02      0.00000E+00      3.80000E-06      1.60000E-05
-      2.80000E+02      0.00000E+00      5.70000E-05      2.60000E-05
-      3.83000E+02      0.00000E+00      2.08000E-04      2.80000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3600E+02        0.0000E+00        3.8000E-06        1.6000E-05
+        2.8000E+02        0.0000E+00        5.7000E-05        2.6000E-05
+        3.8300E+02        0.0000E+00        2.0800E-04        2.8000E-05

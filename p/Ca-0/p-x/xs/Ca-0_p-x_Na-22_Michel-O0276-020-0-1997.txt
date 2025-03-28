@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0276-020-0 
-# EXFOR reaction        : ['20-CA-0', ['P,X'], '11-NA-22,CUM,SIG'] 
+# EXFOR reaction        : (20-CA-0(P,X)11-NA-22,CUM,SIG) 
 # incident energy       : 1.2000e+03 MeV - 1.6000e+03 MeV 
 # target                : Ca-0 
 # product               : Na-22 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,129,153,1997) 
 # year                  : 1997 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0276
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.20000E+03      9.89000E-01      8.23000E-03      5.85000E-04
-      1.20000E+03      9.71000E-01      8.02000E-03      5.73000E-04
-      1.60000E+03      9.90000E-01      8.34000E-03      5.93000E-04
-      1.60000E+03      9.72000E-01      8.35000E-03      5.99000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E+03        9.8900E-01        8.2300E-03        5.8500E-04
+        1.2000E+03        9.7100E-01        8.0200E-03        5.7300E-04
+        1.6000E+03        9.9000E-01        8.3400E-03        5.9300E-04
+        1.6000E+03        9.7200E-01        8.3500E-03        5.9900E-04

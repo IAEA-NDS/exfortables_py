@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20625-011-0 
-# EXFOR reaction        : ['27-CO-59', ['N,G'], '27-CO-60,,SIG,,MXW'] 
+# EXFOR reaction        : (27-CO-59(N,G)27-CO-60,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Co-59 
 # product               : Co-60 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : E.M.Gryntakis 
+# first author          : Gryntakis 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (T,GRYNTAKIS,1976) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20625.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20625
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      3.74500E+01      4.50000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        3.7450E+01        4.5000E-01

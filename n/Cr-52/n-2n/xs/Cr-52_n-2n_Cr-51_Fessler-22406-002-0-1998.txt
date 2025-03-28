@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22406-002-0 
-# EXFOR reaction        : ['24-CR-52', ['N,2N'], '24-CR-51,,SIG'] 
+# EXFOR reaction        : (24-CR-52(N,2N)24-CR-51,,SIG) 
 # incident energy       : 1.4250e+01 MeV - 1.9400e+01 MeV 
 # target                : Cr-52 
 # product               : Cr-51 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.Fessler 
+# first author          : Fessler 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,PR/C,58,996,1998) 
 # year                  : 1998 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22406.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22406
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42500E+01      2.00000E-01      3.30300E-01      1.70000E-02
-      1.72000E+01      2.50000E-01      5.91000E-01      2.91000E-02
-      1.88000E+01      3.00000E-01      6.21900E-01      3.13000E-02
-      1.94000E+01      3.20000E-01      6.37400E-01      3.32000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4250E+01        2.0000E-01        3.3030E-01        1.7000E-02
+        1.7200E+01        2.5000E-01        5.9100E-01        2.9100E-02
+        1.8800E+01        3.0000E-01        6.2190E-01        3.1300E-02
+        1.9400E+01        3.2000E-01        6.3740E-01        3.3200E-02

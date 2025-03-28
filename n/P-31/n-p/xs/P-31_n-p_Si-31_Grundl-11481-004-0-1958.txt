@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11481-004-0 
-# EXFOR reaction        : ['15-P-31', ['N,P'], '14-SI-31,,SIG'] 
+# EXFOR reaction        : (15-P-31(N,P)14-SI-31,,SIG) 
 # incident energy       : 6.1100e+00 MeV - 9.5700e+00 MeV 
 # target                : P-31 
 # product               : Si-31 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : J.A.Grundl 
+# first author          : Grundl 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
 # reference             : (J,PR,109,425,1958) 
 # year                  : 1958 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11481.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11481
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.11000E+00      1.20000E-01      1.45900E-01      1.40000E-02
-      6.61000E+00      1.10000E-01      1.48100E-01      1.40000E-02
-      7.11000E+00      1.10000E-01      1.36400E-01      1.30000E-02
-      7.61000E+00      1.00000E-01      1.36700E-01      1.30000E-02
-      8.09000E+00      9.00000E-02      1.44200E-01      1.40000E-02
-      8.58000E+00      9.00000E-02      1.38900E-01      1.30000E-02
-      9.07000E+00      9.00000E-02      1.43400E-01      1.40000E-02
-      9.57000E+00      1.00000E-01      1.42100E-01      1.40000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.1100E+00        1.2000E-01        1.4590E-01        1.4000E-02
+        6.6100E+00        1.1000E-01        1.4810E-01        1.4000E-02
+        7.1100E+00        1.1000E-01        1.3640E-01        1.3000E-02
+        7.6100E+00        1.0000E-01        1.3670E-01        1.3000E-02
+        8.0900E+00        9.0000E-02        1.4420E-01        1.4000E-02
+        8.5800E+00        9.0000E-02        1.3890E-01        1.3000E-02
+        9.0700E+00        9.0000E-02        1.4340E-01        1.4000E-02
+        9.5700E+00        1.0000E-01        1.4210E-01        1.4000E-02

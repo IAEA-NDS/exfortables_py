@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30532-008-0 
-# EXFOR reaction        : ['15-P-31', ['N,G'], '15-P-32,,SIG'] 
+# EXFOR reaction        : (15-P-31(N,G)15-P-32,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : P-31 
 # product               : P-32 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : M.Budnar 
+# first author          : Budnar 
 # institute             : (3SLNIJS): Institute Jozef Stefan, Ljubljana 
 # reference             : (R,INDC(YUG)-6,197912) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30532.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30532
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      6.75000E-01      4.00000E-04      7.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        6.7500E-01        4.0000E-04        7.0000E-05

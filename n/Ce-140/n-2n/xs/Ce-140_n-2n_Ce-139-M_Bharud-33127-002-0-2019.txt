@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33127-002-0 
-# EXFOR reaction        : ['58-CE-140', ['N,2N'], '58-CE-139-M,,SIG'] 
+# EXFOR reaction        : (58-CE-140(N,2N)58-CE-139-M,,SIG) 
 # incident energy       : 1.3730e+01 MeV - 1.4770e+01 MeV 
 # target                : Ce-140 
 # product               : Ce-139-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : V.D.Bharud 
+# first author          : Bharud 
 # institute             : (3INDPOO): University of Pune 
 # reference             : (J,ARI,146,10,2019) 
 # year                  : 2019 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33127.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33127
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.37300E+01      7.00000E-02      8.50000E-01      5.80000E-02
-      1.40700E+01      8.00000E-02      9.51000E-01      5.80000E-02
-      1.44200E+01      1.20000E-01      1.01500E+00      6.30000E-02
-      1.46800E+01      1.50000E-01      1.04700E+00      6.20000E-02
-      1.47700E+01      1.70000E-01      1.09200E+00      8.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3730E+01        7.0000E-02        8.5000E-01        5.8000E-02
+        1.4070E+01        8.0000E-02        9.5100E-01        5.8000E-02
+        1.4420E+01        1.2000E-01        1.0150E+00        6.3000E-02
+        1.4680E+01        1.5000E-01        1.0470E+00        6.2000E-02
+        1.4770E+01        1.7000E-01        1.0920E+00        8.1000E-02

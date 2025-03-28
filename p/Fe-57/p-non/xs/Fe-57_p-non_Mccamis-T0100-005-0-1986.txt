@@ -1,11 +1,11 @@
 # entry-subent-pointer  : T0100-005-0 
-# EXFOR reaction        : ['26-FE-57', ['P,NON'], ',,SIG'] 
+# EXFOR reaction        : (26-FE-57(P,NON),,SIG) 
 # incident energy       : 2.0900e+01 MeV - 4.7800e+01 MeV 
 # target                : Fe-57 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : R.H.Mccamis 
+# first author          : Mccamis 
 # institute             : (1CANMNA): University of Manitoba, Cyclotron Laboratory , Winnipeg, Manitoba 
 # reference             : (J,CJP,64,685,1986) 
 # year                  : 1986 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T01/T0100.x4 
 # nds                   : https://nds.iaea.org/EXFOR/T0100
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.09000E+01      0.00000E+00      1.22200E+00      3.70000E-02
-      2.49000E+01      0.00000E+00      1.20100E+00      2.80000E-02
-      2.98000E+01      0.00000E+00      1.16800E+00      2.60000E-02
-      3.48000E+01      0.00000E+00      1.14700E+00      3.00000E-02
-      3.98000E+01      0.00000E+00      1.10600E+00      2.80000E-02
-      4.49000E+01      0.00000E+00      1.04900E+00      2.90000E-02
-      4.78000E+01      0.00000E+00      1.02100E+00      3.80000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0900E+01        0.0000E+00        1.2220E+00        3.7000E-02
+        2.4900E+01        0.0000E+00        1.2010E+00        2.8000E-02
+        2.9800E+01        0.0000E+00        1.1680E+00        2.6000E-02
+        3.4800E+01        0.0000E+00        1.1470E+00        3.0000E-02
+        3.9800E+01        0.0000E+00        1.1060E+00        2.8000E-02
+        4.4900E+01        0.0000E+00        1.0490E+00        2.9000E-02
+        4.7800E+01        0.0000E+00        1.0210E+00        3.8000E-02

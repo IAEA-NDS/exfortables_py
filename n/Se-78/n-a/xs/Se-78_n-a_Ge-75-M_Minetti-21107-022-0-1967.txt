@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21107-022-0 
-# EXFOR reaction        : ['34-SE-78', ['N,A'], '32-GE-75-M,,SIG'] 
+# EXFOR reaction        : (34-SE-78(N,A)32-GE-75-M,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Se-78 
 # product               : Ge-75-M 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : B.Minetti 
+# first author          : Minetti 
 # institute             : (2ITYTUR): Universita degli Studi di Torino + INFN Torino 
 # reference             : (J,NP/A,100,186,196707) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/211/21107.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21107
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      1.00000E-01      7.60000E-03      9.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        1.0000E-01        7.6000E-03        9.0000E-04

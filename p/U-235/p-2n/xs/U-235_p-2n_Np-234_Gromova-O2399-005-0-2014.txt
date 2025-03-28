@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2399-005-0 
-# EXFOR reaction        : ['92-U-235', ['P,2N'], '93-NP-234,,SIG'] 
+# EXFOR reaction        : (92-U-235(P,2N)93-NP-234,,SIG) 
 # incident energy       : 9.0000e+00 MeV - 1.6080e+01 MeV 
 # target                : U-235 
 # product               : Np-234 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : E.Gromova 
+# first author          : Gromova 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (J,NDS,119,237,2014) 
 # year                  : 2014 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2399.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2399
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.00000E+00      3.00000E-01      1.88000E-04      9.00000E-06
-      9.82000E+00      1.00000E-01      4.30000E-04      5.00000E-05
-      9.82000E+00      1.00000E-01      3.90000E-04      2.00000E-05
-      1.04000E+01      2.00000E-01      3.06000E-03      1.30000E-04
-      1.17000E+01      2.00000E-01      1.54000E-02      7.00000E-04
-      1.29000E+01      2.00000E-01      3.11000E-02      8.00000E-04
-      1.40300E+01      1.40000E-01      4.60000E-02      2.00000E-03
-      1.50800E+01      1.20000E-01      4.20000E-02      2.00000E-03
-      1.60800E+01      1.10000E-01      3.01000E-02      9.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.0000E+00        3.0000E-01        1.8800E-04        9.0000E-06
+        9.8200E+00        1.0000E-01        4.3000E-04        5.0000E-05
+        9.8200E+00        1.0000E-01        3.9000E-04        2.0000E-05
+        1.0400E+01        2.0000E-01        3.0600E-03        1.3000E-04
+        1.1700E+01        2.0000E-01        1.5400E-02        7.0000E-04
+        1.2900E+01        2.0000E-01        3.1100E-02        8.0000E-04
+        1.4030E+01        1.4000E-01        4.6000E-02        2.0000E-03
+        1.5080E+01        1.2000E-01        4.2000E-02        2.0000E-03
+        1.6080E+01        1.1000E-01        3.0100E-02        9.0000E-04

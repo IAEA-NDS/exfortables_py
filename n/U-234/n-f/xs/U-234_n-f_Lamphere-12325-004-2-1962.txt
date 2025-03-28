@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12325-004-2 
-# EXFOR reaction        : ['92-U-234', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (92-U-234(N,F),,SIG) 
 # incident energy       : 5.0100e-01 MeV - 7.5600e-01 MeV 
 # target                : U-234 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : R.W.Lamphere 
+# first author          : Lamphere 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,NP,38,561,196209) 
 # year                  : 1962 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/123/12325.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12325
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.01000E-01      2.10000E-02      4.97000E-01      0.00000E+00
-      6.04000E-01      2.10000E-02      7.32000E-01      0.00000E+00
-      6.55000E-01      2.20000E-02      8.74000E-01      0.00000E+00
-      7.06000E-01      2.20000E-02      9.90000E-01      0.00000E+00
-      7.56000E-01      2.20000E-02      1.22000E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0100E-01        2.1000E-02        4.9700E-01        0.0000E+00
+        6.0400E-01        2.1000E-02        7.3200E-01        0.0000E+00
+        6.5500E-01        2.2000E-02        8.7400E-01        0.0000E+00
+        7.0600E-01        2.2000E-02        9.9000E-01        0.0000E+00
+        7.5600E-01        2.2000E-02        1.2200E+00        0.0000E+00

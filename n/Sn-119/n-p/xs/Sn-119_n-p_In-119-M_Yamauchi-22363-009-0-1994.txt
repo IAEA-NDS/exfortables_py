@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22363-009-0 
-# EXFOR reaction        : ['50-SN-119', ['N,P'], '49-IN-119-M,,SIG'] 
+# EXFOR reaction        : (50-SN-119(N,P)49-IN-119-M,,SIG) 
 # incident energy       : 1.3400e+01 MeV - 1.4870e+01 MeV 
 # target                : Sn-119 
 # product               : In-119-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : K.Yamauchi 
+# first author          : Yamauchi 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : ((S,JAERI-M-94-019,253,1994)=(S,INDC(JPN)-169,253,1994)) 
 # year                  : 1994 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22363.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22363
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34000E+01      0.00000E+00      2.35000E-03      5.87500E-04
-      1.36500E+01      0.00000E+00      2.62000E-03      1.02180E-03
-      1.45800E+01      0.00000E+00      2.88000E-03      9.79200E-04
-      1.48700E+01      0.00000E+00      3.51000E-03      9.82800E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3400E+01        0.0000E+00        2.3500E-03        5.8750E-04
+        1.3650E+01        0.0000E+00        2.6200E-03        1.0218E-03
+        1.4580E+01        0.0000E+00        2.8800E-03        9.7920E-04
+        1.4870E+01        0.0000E+00        3.5100E-03        9.8280E-04

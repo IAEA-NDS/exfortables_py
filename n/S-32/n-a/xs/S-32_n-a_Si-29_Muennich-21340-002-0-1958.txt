@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21340-002-0 
-# EXFOR reaction        : ['16-S-32', ['N,A'], '14-SI-29,,SIG,,MXW'] 
+# EXFOR reaction        : (16-S-32(N,A)14-SI-29,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : S-32 
 # product               : Si-29 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : F.Muennich 
+# first author          : Muennich 
 # institute             : (2GERUEN): University of Erlangen-Nuernberg 
 # reference             : (J,ZP,153,106,195810) 
 # year                  : 1958 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21340.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21340
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      6.80000E-03      2.30000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        6.8000E-03        2.3000E-03

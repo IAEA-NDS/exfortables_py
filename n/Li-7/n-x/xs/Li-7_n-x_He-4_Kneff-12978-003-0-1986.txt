@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12978-003-0 
-# EXFOR reaction        : ['3-LI-7', ['N,X'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (3-LI-7(N,X)2-HE-4,,SIG) 
 # incident energy       : 1.4950e+01 MeV 
 # target                : Li-7 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : D.W.Kneff 
+# first author          : Kneff 
 # institute             : (1USAAI ): Rockwell International , Energy Systems Group, Canoga Park, CA 
 # reference             : (J,NSE,94,136,8610) 
 # year                  : 1986 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12978.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12978
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49500E+01      4.00000E-02      3.36000E-01      1.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4950E+01        4.0000E-02        3.3600E-01        1.6000E-02

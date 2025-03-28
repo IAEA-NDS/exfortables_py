@@ -1,24 +1,24 @@
 # entry-subent-pointer  : 12936-002-0 
-# EXFOR reaction        : ['4-BE-9', ['N,2N'], '4-BE-8,,SIG'] 
+# EXFOR reaction        : (4-BE-9(N,2N)4-BE-8,,SIG) 
 # incident energy       : 6.0000e+00 MeV - 2.1000e+01 MeV 
 # target                : Be-9 
 # product               : Be-8 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : G.F.Auchampaugh 
+# first author          : Auchampaugh 
 # institute             : (1USALAS): Los Alamos National Laboratory, NM 
-# reference             : (C,77BNL,,231,7707) 
+# reference             : (C,77BNL,,231,1977) 
 # year                  : 1977 
 # facility              : (VDG): Van de Graaff 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12936.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12936
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+00      0.00000E+00      5.45000E-01      4.20000E-02
-      1.47000E+01      0.00000E+00      4.72000E-01      2.60000E-02
-      1.60000E+01      0.00000E+00      4.75000E-01      4.10000E-02
-      1.70000E+01      0.00000E+00      4.31000E-01      3.80000E-02
-      1.80000E+01      0.00000E+00      4.22000E-01      3.50000E-02
-      1.90000E+01      0.00000E+00      3.65000E-01      3.30000E-02
-      2.00000E+01      0.00000E+00      3.89000E-01      3.30000E-02
-      2.10000E+01      0.00000E+00      3.78000E-01      3.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+00        0.0000E+00        5.4500E-01        4.2000E-02
+        1.4700E+01        0.0000E+00        4.7200E-01        2.6000E-02
+        1.6000E+01        0.0000E+00        4.7500E-01        4.1000E-02
+        1.7000E+01        0.0000E+00        4.3100E-01        3.8000E-02
+        1.8000E+01        0.0000E+00        4.2200E-01        3.5000E-02
+        1.9000E+01        0.0000E+00        3.6500E-01        3.3000E-02
+        2.0000E+01        0.0000E+00        3.8900E-01        3.3000E-02
+        2.1000E+01        0.0000E+00        3.7800E-01        3.5000E-02

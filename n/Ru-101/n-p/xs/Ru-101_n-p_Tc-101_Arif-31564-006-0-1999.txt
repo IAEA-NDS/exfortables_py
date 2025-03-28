@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31564-006-0 
-# EXFOR reaction        : ['44-RU-101', ['N,P'], '43-TC-101,,SIG,,FIS'] 
+# EXFOR reaction        : (44-RU-101(N,P)43-TC-101,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Ru-101 
 # product               : Tc-101 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.Arif 
+# first author          : Arif 
 # institute             : (3PAKNIL): PINSTECH, Nilore, Rawalpindi 
 # reference             : (J,RCA,85,9,1999) 
 # year                  : 1999 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31564.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31564
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      1.20000E-03      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.2000E-03        2.0000E-04

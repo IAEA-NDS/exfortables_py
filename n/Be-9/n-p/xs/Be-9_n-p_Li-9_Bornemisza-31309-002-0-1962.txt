@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31309-002-0 
-# EXFOR reaction        : ['4-BE-9', ['N,P'], '3-LI-9,,SIG'] 
+# EXFOR reaction        : (4-BE-9(N,P)3-LI-9,,SIG) 
 # incident energy       : 1.4810e+01 MeV 
 # target                : Be-9 
 # product               : Li-9 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : Gy.Bornemisza 
+# first author          : Bornemisza 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,AK,4,79,196208) 
 # year                  : 1962 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/313/31309.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31309
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48100E+01      0.00000E+00      4.11000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4810E+01        0.0000E+00        4.1100E-03        0.0000E+00

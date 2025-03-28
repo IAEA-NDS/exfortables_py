@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20666-002-0 
-# EXFOR reaction        : ['57-LA-138', ['N,G'], '57-LA-139,,SIG,,MXW'] 
+# EXFOR reaction        : (57-LA-138(N,G)57-LA-139,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : La-138 
 # product               : La-139 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.Michael 
+# first author          : Michael 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,ARI,27,533,1976) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20666.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20666
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      5.72000E+01      5.70000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        5.7200E+01        5.7000E+00

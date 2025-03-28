@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0361-006-0 
-# EXFOR reaction        : ['92-U-0', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (92-U-0(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 3.0000e+03 MeV 
 # target                : U-0 
 # product               : Sc-47 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : G.Friedlander 
+# first author          : Friedlander 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR,117,578,60) 
 # year                  : 1960 
@@ -13,5 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0361.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0361
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+03      0.00000E+00      3.50000E-03      1.40000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+03        0.0000E+00        4.0000E-03        8.0000E-04
+        3.0000E+03        0.0000E+00        2.5000E-03        5.0000E-04
+        3.0000E+03        0.0000E+00        3.5000E-03        1.4000E-03
+        3.0000E+03        0.0000E+00        4.8000E-03        1.9200E-03

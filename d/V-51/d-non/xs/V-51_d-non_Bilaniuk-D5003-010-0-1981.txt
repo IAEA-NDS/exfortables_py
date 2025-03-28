@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D5003-010-0 
-# EXFOR reaction        : ['23-V-51', ['D,NON'], ',,SIG'] 
+# EXFOR reaction        : (23-V-51(D,NON),,SIG) 
 # incident energy       : 1.3600e+01 MeV 
 # target                : V-51 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : M.P.Bilaniuk 
+# first author          : Bilaniuk 
 # institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
 # reference             : (J,JP/G,7,1699,1981) 
 # year                  : 1981 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D50/D5003.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D5003
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36000E+01      0.00000E+00      1.48300E+00      6.90000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3600E+01        0.0000E+00        1.4830E+00        6.9000E-02

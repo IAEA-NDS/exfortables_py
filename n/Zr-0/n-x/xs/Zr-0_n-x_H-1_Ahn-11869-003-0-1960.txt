@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11869-003-0 
-# EXFOR reaction        : ['40-ZR-0', ['N,X'], '1-H-1,,SIG'] 
+# EXFOR reaction        : (40-ZR-0(N,X)1-H-1,,SIG) 
 # incident energy       : 1.4000e+01 MeV 
 # target                : Zr-0 
 # product               : H-1 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.H.Ahn 
+# first author          : Ahn 
 # institute             : (1USANWU): Northwestern University, Evanston, IL 
 # reference             : (J,PR,119,1667,60) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11869.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11869
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40000E+01      0.00000E+00      8.70000E-02      2.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        0.0000E+00        8.7000E-02        2.2000E-02

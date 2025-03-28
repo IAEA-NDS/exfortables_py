@@ -1,11 +1,11 @@
 # entry-subent-pointer  : L0173-002-0 
-# EXFOR reaction        : ['83-BI-209', ['G,F'], ',,SIG,,BRA'] 
+# EXFOR reaction        : (83-BI-209(G,F),,SIG,,BRA) 
 # incident energy       : 1.0010e+02 MeV - 3.2000e+02 MeV 
 # target                : Bi-209 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : G.Bernardini 
+# first author          : Bernardini 
 # institute             : (1USAUI): University of Illinois, Urbana-Champaign, IL 
 # reference             : (J,PR,90,(4),573,1953) 
 # year                  : 1953 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L01/L0173.x4 
 # nds                   : https://nds.iaea.org/EXFOR/L0173
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00100E+02      1.00300E+01      3.41600E-05      0.00000E+00
-      1.49900E+02      1.01900E+01      1.99800E-04      0.00000E+00
-      2.00000E+02      9.85600E+00      7.26800E-04      0.00000E+00
-      2.50700E+02      1.03600E+01      1.51600E-03      0.00000E+00
-      2.90900E+02      9.85900E+00      1.77100E-03      0.00000E+00
-      3.20000E+02      1.03600E+01      2.76300E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0010E+02        1.0030E+01        3.4160E-05        0.0000E+00
+        1.4990E+02        1.0190E+01        1.9980E-04        0.0000E+00
+        2.0000E+02        9.8560E+00        7.2680E-04        0.0000E+00
+        2.5070E+02        1.0360E+01        1.5160E-03        0.0000E+00
+        2.9090E+02        9.8590E+00        1.7710E-03        0.0000E+00
+        3.2000E+02        1.0360E+01        2.7630E-03        0.0000E+00

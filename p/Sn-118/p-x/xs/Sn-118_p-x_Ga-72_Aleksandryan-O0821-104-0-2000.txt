@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0821-104-0 
-# EXFOR reaction        : ['50-SN-118', ['P,X'], '31-GA-72,CUM,SIG'] 
+# EXFOR reaction        : (50-SN-118(P,X)31-GA-72,CUM,SIG) 
 # incident energy       : 8.1000e+03 MeV 
 # target                : Sn-118 
 # product               : Ga-72 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : V.Aleksandryan 
+# first author          : Aleksandryan 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (J,NP/A,674,539,2000) 
 # year                  : 2000 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O08/O0821.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0821
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.10000E+03      0.00000E+00      2.60000E-03      6.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.1000E+03        0.0000E+00        2.6000E-03        6.0000E-04

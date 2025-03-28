@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0236-007-1 
-# EXFOR reaction        : ['11-NA-23', ['P,X'], '3-LI-9,,SIG'] 
+# EXFOR reaction        : (11-NA-23(P,X)3-LI-9,,SIG) 
 # incident energy       : 1.0000e+03 MeV - 2.8000e+03 MeV 
 # target                : Na-23 
 # product               : Li-9 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : I.Dostrovsky 
+# first author          : Dostrovsky 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR,139,B1513,1965) 
 # year                  : 1965 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0236.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0236
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+03      0.00000E+00      1.58000E-04      0.00000E+00
-      2.80000E+03      0.00000E+00      3.02000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+03        0.0000E+00        1.8500E-04        0.0000E+00
+        2.8000E+03        0.0000E+00        3.0200E-04        0.0000E+00

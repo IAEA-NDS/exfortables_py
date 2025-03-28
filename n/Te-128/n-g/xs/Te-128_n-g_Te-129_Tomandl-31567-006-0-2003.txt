@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31567-006-0 
-# EXFOR reaction        : ['52-TE-128', ['N,G'], '52-TE-129,,SIG'] 
+# EXFOR reaction        : (52-TE-128(N,G)52-TE-129,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Te-128 
 # product               : Te-129 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : I.Tomandl 
+# first author          : Tomandl 
 # institute             : (3HUNII): MTA Izotop Intezete, Budapest 
 # reference             : (J,PR/C,68,067602,2003) 
 # year                  : 2003 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31567.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31567
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.40000E-01      3.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.4000E-01        3.0000E-02

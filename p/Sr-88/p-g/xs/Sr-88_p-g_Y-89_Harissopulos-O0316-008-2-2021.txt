@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0316-008-2 
-# EXFOR reaction        : ['38-SR-88', ['P,G'], '39-Y-89,,SIG,,SFC'] 
+# EXFOR reaction        : (38-SR-88(P,G)39-Y-89,,SIG,,SFC) 
 # incident energy       : 2.4780e+00 MeV - 4.5610e+00 MeV 
 # target                : Sr-88 
 # product               : Y-89 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.Harissopulos 
+# first author          : Harissopulos 
 # institute             : (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
 # reference             : (J,PR/C,104,025804,2021) 
 # year                  : 2021 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O03/O0316.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0316
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.47800E+00      0.00000E+00      9.48400E+12      1.74000E+12
-      2.97900E+00      0.00000E+00      5.21900E+12      6.88000E+11
-      3.55200E+00      0.00000E+00      2.87600E+12      4.16000E+11
-      3.95200E+00      0.00000E+00      1.89400E+12      2.42000E+11
-      4.56100E+00      0.00000E+00      8.63000E+11      1.21000E+11
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4780E+00        1.5900E-02        9.4840E+12        1.7400E+12
+        2.9790E+00        1.5900E-02        5.2190E+12        6.8800E+11
+        3.5520E+00        1.5900E-02        2.8760E+12        4.1600E+11
+        3.9520E+00        1.5900E-02        1.8940E+12        2.4200E+11
+        4.5610E+00        1.5900E-02        8.6300E+11        1.2100E+11

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20296-006-0 
-# EXFOR reaction        : ['1-H-1', ['N,EL'], '1-H-1,,SIG'] 
+# EXFOR reaction        : (1-H-1(N,EL)1-H-1,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : H-1 
 # product               : H-1 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : S.Shirato 
+# first author          : Shirato 
 # institute             : (2JPNYOK): Rikkyo (St.Paul) University , Yokosuka and Tokyo 
 # reference             : (J,JPJ,36,331,1974) 
 # year                  : 1974 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20296.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20296
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      3.00000E-01      6.86000E-01      1.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        3.0000E-01        6.8600E-01        1.1000E-02

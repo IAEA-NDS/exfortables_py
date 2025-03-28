@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0299-004-0 
-# EXFOR reaction        : ['16-S-0', ['P,X'], '12-MG-28,,SIG'] 
+# EXFOR reaction        : (16-S-0(P,X)12-MG-28,,SIG) 
 # incident energy       : 5.0170e+01 MeV - 1.5025e+02 MeV 
 # target                : S-0 
 # product               : Mg-28 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Lundqvist 
+# first author          : Lundqvist 
 # institute             : (2SWDUPP): Uppsala University , Uppsala 
 # reference             : (J,ARI,30,33,1979) 
 # year                  : 1979 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0299.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0299
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.01700E+01      1.10000E-01      3.00000E-07      0.00000E+00
-      7.51400E+01      1.10000E-01      1.48000E-05      0.00000E+00
-      9.99900E+01      1.10000E-01      2.74000E-05      0.00000E+00
-      1.25630E+02      1.10000E-01      3.57000E-05      0.00000E+00
-      1.30000E+02      1.10000E-01      3.60000E-05      5.00000E-06
-      1.50250E+02      1.10000E-01      3.41000E-05      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0170E+01        1.1000E-01        3.0000E-07        0.0000E+00
+        7.5140E+01        1.1000E-01        1.4800E-05        0.0000E+00
+        9.9990E+01        1.1000E-01        2.7400E-05        0.0000E+00
+        1.2563E+02        1.1000E-01        3.5700E-05        0.0000E+00
+        1.3000E+02        1.1000E-01        3.6000E-05        5.0000E-06
+        1.5025E+02        1.1000E-01        3.4100E-05        0.0000E+00

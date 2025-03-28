@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20669-003-0 
-# EXFOR reaction        : ['22-TI-46', ['N,T'], '21-SC-44-M,,SIG'] 
+# EXFOR reaction        : (22-TI-46(N,T)21-SC-44-M,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Ti-46 
 # product               : Sc-44-M 
 # level energy          : - 
 # MF-MT number          : 3 - 105 
-# first author          : S.M.Qaim 
+# first author          : Qaim 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,NP/A,257,(2),233,760202) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20669.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20669
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      4.00000E-01      2.00000E-05      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        4.0000E-01        2.0000E-05        0.0000E+00

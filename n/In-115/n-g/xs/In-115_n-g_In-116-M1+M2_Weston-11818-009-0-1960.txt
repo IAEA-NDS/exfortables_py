@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11818-009-0 
-# EXFOR reaction        : ['49-IN-115', ['N,G'], '49-IN-116-M1+M2,,SIG'] 
+# EXFOR reaction        : (49-IN-115(N,G)49-IN-116-M1+M2,,SIG) 
 # incident energy       : 5.0000e-03 MeV - 2.5000e-01 MeV 
 # target                : In-115 
 # product               : In-116-M1+M2 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : L.W.Weston 
+# first author          : Weston 
 # institute             : (1USADKE): Duke University, Durham, NC 
 # reference             : (J,AP,10,477,60) 
 # year                  : 1960 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11818.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11818
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.00000E-03      0.00000E+00      1.05000E+00      0.00000E+00
-      1.00000E-02      0.00000E+00      8.20000E-01      0.00000E+00
-      3.00000E-02      0.00000E+00      7.00000E-01      0.00000E+00
-      6.00000E-02      0.00000E+00      4.50000E-01      0.00000E+00
-      1.00000E-01      0.00000E+00      3.30000E-01      0.00000E+00
-      1.50000E-01      0.00000E+00      2.50000E-01      0.00000E+00
-      2.00000E-01      0.00000E+00      2.00000E-01      0.00000E+00
-      2.50000E-01      0.00000E+00      1.70000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E-03        0.0000E+00        1.0500E+00        0.0000E+00
+        1.0000E-02        0.0000E+00        8.2000E-01        0.0000E+00
+        3.0000E-02        0.0000E+00        7.0000E-01        0.0000E+00
+        6.0000E-02        0.0000E+00        4.5000E-01        0.0000E+00
+        1.0000E-01        0.0000E+00        3.3000E-01        0.0000E+00
+        1.5000E-01        0.0000E+00        2.5000E-01        0.0000E+00
+        2.0000E-01        0.0000E+00        2.0000E-01        0.0000E+00
+        2.5000E-01        0.0000E+00        1.7000E-01        0.0000E+00

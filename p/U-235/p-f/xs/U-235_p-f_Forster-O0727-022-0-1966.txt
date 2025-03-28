@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0727-022-0 
-# EXFOR reaction        : ['92-U-235', ['P,F'], '54-XE-133-M,,SIG'] 
+# EXFOR reaction        : (92-U-235(P,F)54-XE-133-M,,SIG) 
 # incident energy       : 2.0000e+01 MeV - 8.5000e+01 MeV 
 # target                : U-235 
 # product               : Xe-133-M 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : J.H.Forster 
+# first author          : Forster 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,CJC,44,2951,1966) 
 # year                  : 1966 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0727.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0727
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+01      0.00000E+00      5.40000E-03      1.35000E-03
-      2.50000E+01      0.00000E+00      1.28000E-02      3.20000E-03
-      3.50000E+01      0.00000E+00      1.52000E-02      3.80000E-03
-      4.50000E+01      0.00000E+00      2.02000E-02      5.05000E-03
-      5.50000E+01      0.00000E+00      1.89000E-02      4.72500E-03
-      7.00000E+01      0.00000E+00      1.20000E-02      3.00000E-03
-      8.50000E+01      0.00000E+00      1.36000E-02      3.40000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+01        0.0000E+00        5.4000E-03        1.3500E-03
+        2.5000E+01        0.0000E+00        1.2800E-02        3.2000E-03
+        3.5000E+01        0.0000E+00        1.5200E-02        3.8000E-03
+        4.5000E+01        0.0000E+00        2.0200E-02        5.0500E-03
+        5.5000E+01        0.0000E+00        1.8900E-02        4.7250E-03
+        7.0000E+01        0.0000E+00        1.2000E-02        3.0000E-03
+        8.5000E+01        0.0000E+00        1.3600E-02        3.4000E-03

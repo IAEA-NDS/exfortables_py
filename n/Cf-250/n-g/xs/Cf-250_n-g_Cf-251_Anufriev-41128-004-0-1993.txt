@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41128-004-0 
-# EXFOR reaction        : ['98-CF-250', ['N,G'], '98-CF-251,,SIG,,,DERIV'] 
+# EXFOR reaction        : (98-CF-250(N,G)98-CF-251,,SIG,,,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Cf-250 
 # product               : Cf-251 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.A.Anufriev 
+# first author          : Anufriev 
 # institute             : (4RUSNIR): NIIAR Dimitrovgrad 
 # reference             : (J,AE,74,(1),72,199301) 
 # year                  : 1993 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41128.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41128
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      7.00000E+02      1.00000E+02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        7.0000E+02        1.0000E+02

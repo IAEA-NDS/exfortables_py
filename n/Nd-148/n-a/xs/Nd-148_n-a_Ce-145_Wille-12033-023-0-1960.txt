@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12033-023-0 
-# EXFOR reaction        : ['60-ND-148', ['N,A'], '58-CE-145,,SIG'] 
+# EXFOR reaction        : (60-ND-148(N,A)58-CE-145,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Nd-148 
 # product               : Ce-145 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : R.G.Wille 
+# first author          : Wille 
 # institute             : (1USAARK): University of Arkansas, Fayetteville, AR 
 # reference             : (J,PR,118,242,1960) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12033.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12033
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      8.00000E-01      5.00000E-03      1.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        8.0000E-01        5.0000E-03        1.0000E-03

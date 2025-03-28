@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11590-051-0 
-# EXFOR reaction        : ['41-NB-93', ['N,G'], '41-NB-94-M,,SIG'] 
+# EXFOR reaction        : (41-NB-93(N,G)41-NB-94-M,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Nb-93 
 # product               : Nb-94-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : E.T.Bramlitt 
+# first author          : Bramlitt 
 # institute             : (1USAARK): University of Arkansas, Fayetteville, AR 
 # reference             : (J,PR,131,2649,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11590.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11590
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      2.00000E-01      4.40000E-04      2.60000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        2.0000E-01        4.4000E-04        2.6000E-04

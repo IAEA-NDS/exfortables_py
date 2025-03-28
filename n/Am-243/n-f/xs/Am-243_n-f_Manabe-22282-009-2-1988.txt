@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22282-009-2 
-# EXFOR reaction        : ['95-AM-243', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (95-AM-243(N,F),,SIG) 
 # incident energy       : 1.4000e+01 MeV - 1.4890e+01 MeV 
 # target                : Am-243 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : F.Manabe 
+# first author          : Manabe 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : (J,TRTU,52,(2),97,1988) 
 # year                  : 1988 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22282.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22282
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.40000E+01      6.00000E-02      2.23000E+00      1.04810E-01
-      1.44600E+01      1.60000E-01      2.21000E+00      1.03870E-01
-      1.48900E+01      2.90000E-01      2.22000E+00      1.04118E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        6.0000E-02        2.2300E+00        1.0481E-01
+        1.4460E+01        1.6000E-01        2.2100E+00        1.0387E-01
+        1.4890E+01        2.9000E-01        2.2200E+00        1.0412E-01

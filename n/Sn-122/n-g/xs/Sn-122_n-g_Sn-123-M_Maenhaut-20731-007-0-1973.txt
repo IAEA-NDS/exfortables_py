@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20731-007-0 
-# EXFOR reaction        : ['50-SN-122', ['N,G'], '50-SN-123-M,,SIG,,MXW'] 
+# EXFOR reaction        : (50-SN-122(N,G)50-SN-123-M,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Sn-122 
 # product               : Sn-123-M 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : W.Maenhaut 
+# first author          : Maenhaut 
 # institute             : (2BLGGHT): Universiteit Gent, Gent 
 # reference             : (J,JRC,16,39,73) 
 # year                  : 1973 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20731.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20731
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.45000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.4500E-01        0.0000E+00

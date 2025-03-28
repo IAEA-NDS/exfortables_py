@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22603-006-1 
-# EXFOR reaction        : ['64-GD-160', ['N,G'], '64-GD-161,,SIG,,MXW'] 
+# EXFOR reaction        : (64-GD-160(N,G)64-GD-161,,SIG,,MXW) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : Gd-160 
 # product               : Gd-161 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.Beer 
+# first author          : Beer 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,AJ,278,388,1984) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22603.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22603
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      0.00000E+00      1.55000E-01      1.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        1.5500E-01        1.5000E-02

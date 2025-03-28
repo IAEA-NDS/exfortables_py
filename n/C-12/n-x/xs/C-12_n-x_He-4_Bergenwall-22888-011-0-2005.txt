@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22888-011-0 
-# EXFOR reaction        : ['6-C-12', ['N,X'], '2-HE-4,,SIG,,,DERIV'] 
+# EXFOR reaction        : (6-C-12(N,X)2-HE-4,,SIG,,,DERIV) 
 # incident energy       : 9.6000e+01 MeV 
 # target                : C-12 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : B.E.Bergenwall 
+# first author          : Bergenwall 
 # institute             : (2SWDUPP): Uppsala University , Uppsala 
 # reference             : (J,NP/A,747,152,2005) 
 # year                  : 2005 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22888.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22888
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.60000E+01      3.00000E+00      3.01500E-01      2.97000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.6000E+01        3.0000E+00        3.0150E-01        2.9700E-02

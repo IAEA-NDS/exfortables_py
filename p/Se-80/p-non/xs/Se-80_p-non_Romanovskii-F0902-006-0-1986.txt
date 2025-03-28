@@ -1,11 +1,11 @@
 # entry-subent-pointer  : F0902-006-0 
-# EXFOR reaction        : ['34-SE-80', ['P,NON'], ',,SIG,,,DERIV'] 
+# EXFOR reaction        : (34-SE-80(P,NON),,SIG,,,DERIV) 
 # incident energy       : 3.7300e+00 MeV - 6.3400e+00 MeV 
 # target                : Se-80 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : E.A.Romanovskii 
+# first author          : Romanovskii 
 # institute             : (4RUSMOS): Moscow State University , Moscow 
 # reference             : (J,IZV,50,135,1986) 
 # year                  : 1986 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F09/F0902.x4 
 # nds                   : https://nds.iaea.org/EXFOR/F0902
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.73000E+00      1.00000E-02      3.55000E-02      1.73000E-02
-      4.24000E+00      1.00000E-02      7.04000E-02      2.14000E-02
-      4.73000E+00      1.00000E-02      1.51100E-01      3.25000E-02
-      5.96000E+00      1.00000E-02      3.68600E-01      5.90000E-02
-      6.34000E+00      1.00000E-02      4.46200E-01      5.39000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.7300E+00        1.0000E-02        3.5500E-02        1.7300E-02
+        4.2400E+00        1.0000E-02        7.0400E-02        2.1400E-02
+        4.7300E+00        1.0000E-02        1.5110E-01        3.2500E-02
+        5.9600E+00        1.0000E-02        3.6860E-01        5.9000E-02
+        6.3400E+00        1.0000E-02        4.4620E-01        5.3900E-02

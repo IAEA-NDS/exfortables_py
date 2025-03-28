@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12066-005-0 
-# EXFOR reaction        : ['60-ND-142', ['N,2N'], '60-ND-141-M,,SIG'] 
+# EXFOR reaction        : (60-ND-142(N,2N)60-ND-141-M,,SIG) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : Nd-142 
 # product               : Nd-141-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : M.P.Menon 
+# first author          : Menon 
 # institute             : (1USATAM): Texas A & M University, College Station, TX 
 # reference             : (J,PR,156,1340,67) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12066.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12066
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      3.00000E-01      6.73000E-01      6.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        3.0000E-01        6.7300E-01        6.6000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0342-007-0 
-# EXFOR reaction        : ['49-IN-0', ['P,X'], '49-IN-109,,SIG'] 
+# EXFOR reaction        : (49-IN-0(P,X)49-IN-109,,SIG) 
 # incident energy       : 1.0000e+03 MeV - 2.0000e+03 MeV 
 # target                : In-0 
 # product               : In-109 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : D.R.Nethaway 
+# first author          : Nethaway 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,119,1375,1960) 
 # year                  : 1960 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0342.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0342
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+03      0.00000E+00      1.00000E-02      3.00000E-03
-      2.00000E+03      0.00000E+00      1.10000E-02      3.30000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+03        0.0000E+00        1.0000E-02        3.0000E-03
+        2.0000E+03        0.0000E+00        1.1000E-02        3.3000E-03

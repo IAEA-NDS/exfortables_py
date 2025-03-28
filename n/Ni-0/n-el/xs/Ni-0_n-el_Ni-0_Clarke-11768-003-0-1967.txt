@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11768-003-0 
-# EXFOR reaction        : ['28-NI-0', ['N,EL'], '28-NI-0,,SIG'] 
+# EXFOR reaction        : (28-NI-0(N,EL)28-NI-0,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Ni-0 
 # product               : Ni-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : R.L.Clarke 
+# first author          : Clarke 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (J,NP/A,95,320,6704) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/117/11768.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11768
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      9.00000E-01      1.20000E+00      1.20000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        9.0000E-01        1.2000E+00        1.2000E-01

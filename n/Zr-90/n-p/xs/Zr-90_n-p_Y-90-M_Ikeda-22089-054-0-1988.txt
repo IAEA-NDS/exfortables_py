@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22089-054-0 
-# EXFOR reaction        : ['40-ZR-90', ['N,P'], '39-Y-90-M,,SIG'] 
+# EXFOR reaction        : (40-ZR-90(N,P)39-Y-90-M,,SIG) 
 # incident energy       : 1.3330e+01 MeV - 1.4930e+01 MeV 
 # target                : Zr-90 
 # product               : Y-90-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : Y.Ikeda 
+# first author          : Ikeda 
 # institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 # reference             : (R,JAERI-1312,1988) 
 # year                  : 1988 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22089.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22089
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.49300E+01      0.00000E+00      1.22800E-02      8.70000E-04
-      1.46700E+01      0.00000E+00      1.23800E-02      8.90000E-04
-      1.44300E+01      0.00000E+00      1.23400E-02      8.90000E-04
-      1.39800E+01      0.00000E+00      1.15900E-02      8.20000E-04
-      1.35700E+01      0.00000E+00      1.13900E-02      8.10000E-04
-      1.33300E+01      0.00000E+00      1.10800E-02      7.90000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4930E+01        0.0000E+00        1.2280E-02        8.7000E-04
+        1.4670E+01        0.0000E+00        1.2380E-02        8.9000E-04
+        1.4430E+01        0.0000E+00        1.2340E-02        8.9000E-04
+        1.3980E+01        0.0000E+00        1.1590E-02        8.2000E-04
+        1.3570E+01        0.0000E+00        1.1390E-02        8.1000E-04
+        1.3330E+01        0.0000E+00        1.1080E-02        7.9000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21724-008-0 
-# EXFOR reaction        : ['94-PU-239', ['N,A'], '92-U-236,,SIG,,MXW'] 
+# EXFOR reaction        : (94-PU-239(N,A)92-U-236,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Pu-239 
 # product               : U-236 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : C.Wagemans 
+# first author          : Wagemans 
 # institute             : (2FR ILL): Institut Laue-Langevin, Grenoble 
 # reference             : (J,NP/A,362,1,1981) 
 # year                  : 1981 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21724.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21724
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      3.70000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        3.7000E-04        0.0000E+00

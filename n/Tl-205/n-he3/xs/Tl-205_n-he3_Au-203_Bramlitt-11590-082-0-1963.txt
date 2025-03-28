@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11590-082-0 
-# EXFOR reaction        : ['81-TL-205', ['N,HE3'], '79-AU-203,,SIG'] 
+# EXFOR reaction        : (81-TL-205(N,HE3)79-AU-203,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Tl-205 
 # product               : Au-203 
 # level energy          : - 
 # MF-MT number          : 3 - 106 
-# first author          : E.T.Bramlitt 
+# first author          : Bramlitt 
 # institute             : (1USAARK): University of Arkansas, Fayetteville, AR 
 # reference             : (J,PR,131,2649,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11590.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11590
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      2.00000E-01      7.00000E-05      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        2.0000E-01        7.0000E-05        0.0000E+00

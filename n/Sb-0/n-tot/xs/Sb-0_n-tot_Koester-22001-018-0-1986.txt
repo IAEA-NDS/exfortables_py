@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22001-018-0 
-# EXFOR reaction        : ['51-SB-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (51-SB-0(N,TOT),,SIG) 
 # incident energy       : 1.2600e-06 MeV - 5.1900e-06 MeV 
 # target                : Sb-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : L.Koester 
+# first author          : Koester 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (J,ZP/A,323,359,1986) 
 # year                  : 1986 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22001.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22001
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.26000E-06      1.00000E-07      4.82400E+00      1.00000E-02
-      5.19000E-06      1.00000E-07      9.30000E+00      1.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2600E-06        1.0000E-07        4.8240E+00        1.0000E-02
+        5.1900E-06        1.0000E-07        9.3000E+00        1.0000E-01

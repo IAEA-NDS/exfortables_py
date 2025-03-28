@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12025-006-0 
-# EXFOR reaction        : ['53-I-129', ['N,G'], '53-I-130,,SIG,,,DERIV'] 
+# EXFOR reaction        : (53-I-129(N,G)53-I-130,,SIG,,,DERIV) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : I-129 
 # product               : I-130 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : N.J.Pattenden 
+# first author          : Pattenden 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,NSE,17,371,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12025.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12025
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.80000E+01      2.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.8000E+01        2.0000E+00

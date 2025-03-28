@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22238-005-0 
-# EXFOR reaction        : ['28-NI-58', ['N,P'], '27-CO-58,,SIG,,SPA'] 
+# EXFOR reaction        : (28-NI-58(N,P)27-CO-58,,SIG,,SPA) 
 # incident energy       : 9.0500e+00 MeV 
 # target                : Ni-58 
 # product               : Co-58 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : J.R.Dumais 
+# first author          : Dumais 
 # institute             : (2JPNTOH): Tohoku University , Sendai 
 # reference             : ((S,JAERI-M-90-025,277,1990)=(S,NEANDC(J)-149,277,1990)=(S,INDC(JPN)-136,277,1990)) 
 # year                  : 1990 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22238.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22238
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.05000E+00      0.00000E+00      1.62000E-01      1.15020E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.0500E+00        0.0000E+00        1.6200E-01        1.1502E-02

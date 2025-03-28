@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12839-006-0 
-# EXFOR reaction        : ['29-CU-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (29-CU-0(N,TOT),,SIG) 
 # incident energy       : 2.2914e+01 MeV - 4.4114e+01 MeV 
 # target                : Cu-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : M.S.Gordon 
+# first author          : Gordon 
 # institute             : (1USACLU): University of Colorado, Boulder, CO 
 # reference             : (P,NPL-951,40,1983) 
 # year                  : 1983 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12839.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12839
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.29140E+01      0.00000E+00      2.44500E+00      1.90000E-02
-      2.52750E+01      0.00000E+00      2.40300E+00      2.10000E-02
-      2.76750E+01      0.00000E+00      2.45200E+00      3.50000E-02
-      2.91790E+01      0.00000E+00      2.44200E+00      1.90000E-02
-      2.99540E+01      0.00000E+00      2.49000E+00      2.90000E-02
-      3.21030E+01      0.00000E+00      2.49600E+00      2.10000E-02
-      3.53560E+01      0.00000E+00      2.50400E+00      1.45000E-01
-      4.12550E+01      0.00000E+00      2.59500E+00      1.90000E-02
-      4.41140E+01      0.00000E+00      2.63300E+00      2.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2914E+01        0.0000E+00        2.4450E+00        1.9000E-02
+        2.5275E+01        0.0000E+00        2.4030E+00        2.1000E-02
+        2.7675E+01        0.0000E+00        2.4520E+00        3.5000E-02
+        2.9179E+01        0.0000E+00        2.4420E+00        1.9000E-02
+        2.9954E+01        0.0000E+00        2.4900E+00        2.9000E-02
+        3.2103E+01        0.0000E+00        2.4960E+00        2.1000E-02
+        3.5356E+01        0.0000E+00        2.5040E+00        1.4500E-01
+        4.1255E+01        0.0000E+00        2.5950E+00        1.9000E-02
+        4.4114E+01        0.0000E+00        2.6330E+00        2.1000E-02

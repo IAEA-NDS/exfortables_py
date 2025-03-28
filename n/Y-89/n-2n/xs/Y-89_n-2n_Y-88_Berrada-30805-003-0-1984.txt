@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30805-003-0 
-# EXFOR reaction        : ['39-Y-89', ['N,2N'], '39-Y-88,,SIG'] 
+# EXFOR reaction        : (39-Y-89(N,2N)39-Y-88,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Y-89 
 # product               : Y-88 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : M.Berrada 
+# first author          : Berrada 
 # institute             : (3MORMOH): University Mohammed V, Rabat 
 # reference             : (W,BERRADA,19840415) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/308/30805.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30805
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      2.00000E-01      8.77000E-01      2.90000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        2.0000E-01        8.7700E-01        2.9000E-02

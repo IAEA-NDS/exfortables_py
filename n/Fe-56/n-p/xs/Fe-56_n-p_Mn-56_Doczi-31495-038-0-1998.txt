@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31495-038-0 
-# EXFOR reaction        : ['26-FE-56', ['N,P'], '25-MN-56,,SIG,,SPA'] 
+# EXFOR reaction        : (26-FE-56(N,P)25-MN-56,,SIG,,SPA) 
 # incident energy       : 4.3000e+00 MeV 
 # target                : Fe-56 
 # product               : Mn-56 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : R.Doczi 
+# first author          : Doczi 
 # institute             : (2JPNJPN): Japan 
 # reference             : (J,NSE,129,164,1998) 
 # year                  : 1998 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31495.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31495
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.30000E+00      0.00000E+00      1.18700E-02      1.30000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.3000E+00        0.0000E+00        1.1870E-02        1.3000E-03

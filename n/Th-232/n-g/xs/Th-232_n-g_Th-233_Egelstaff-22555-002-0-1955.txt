@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22555-002-0 
-# EXFOR reaction        : ['90-TH-232', ['N,G'], '90-TH-233,,SIG'] 
+# EXFOR reaction        : (90-TH-232(N,G)90-TH-233,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Th-232 
 # product               : Th-233 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : P.A.Egelstaff 
+# first author          : Egelstaff 
 # institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 # reference             : (P,NRDC-84,9,1955) 
 # year                  : 1955 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/225/22555.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22555
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      7.20000E+00      2.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        7.2000E+00        2.0000E-01

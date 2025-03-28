@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12977-022-0 
-# EXFOR reaction        : ['69-TM-169', ['N,2N'], '69-TM-168,,SIG'] 
+# EXFOR reaction        : (69-TM-169(N,2N)69-TM-168,,SIG) 
 # incident energy       : 1.4500e+01 MeV - 1.4900e+01 MeV 
 # target                : Tm-169 
 # product               : Tm-168 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : L.R.Greenwood 
+# first author          : Greenwood 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (S,ASTM-STP-956,743,1987) 
 # year                  : 1987 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12977.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12977
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      0.00000E+00      1.93900E+00      2.90850E-02
-      1.49000E+01      0.00000E+00      1.94600E+00      2.91900E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        0.0000E+00        1.9390E+00        2.9085E-02
+        1.4900E+01        0.0000E+00        1.9460E+00        2.9190E-02

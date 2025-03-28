@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33138-002-0 
-# EXFOR reaction        : ['25-MN-53', ['N,X'], '1-H-1,,SIG,,,DERIV'] 
+# EXFOR reaction        : (25-MN-53(N,X)1-H-1,,SIG,,,DERIV) 
 # incident energy       : 8.2100e+00 MeV - 1.6360e+01 MeV 
 # target                : Mn-53 
 # product               : H-1 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Gandhi 
+# first author          : Gandhi 
 # institute             : (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
 # reference             : (J,PR/C,100,054613,2019) 
 # year                  : 2019 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33138.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33138
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.21000E+00      5.00000E-01      2.81000E-01      7.90000E-02
-      9.23000E+00      5.00000E-01      3.55000E-01      9.90000E-02
-      1.02500E+01      5.00000E-01      3.04000E-01      6.20000E-02
-      1.12700E+01      5.00000E-01      3.49000E-01      5.40000E-02
-      1.22900E+01      5.00000E-01      4.26000E-01      5.20000E-02
-      1.33100E+01      5.00000E-01      6.98000E-01      8.30000E-02
-      1.43300E+01      5.00000E-01      6.13000E-01      5.40000E-02
-      1.53400E+01      5.00000E-01      6.01000E-01      4.20000E-02
-      1.63600E+01      5.00000E-01      5.87000E-01      3.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.2100E+00        5.0000E-01        2.8100E-01        7.9000E-02
+        9.2300E+00        5.0000E-01        3.5500E-01        9.9000E-02
+        1.0250E+01        5.0000E-01        3.0400E-01        6.2000E-02
+        1.1270E+01        5.0000E-01        3.4900E-01        5.4000E-02
+        1.2290E+01        5.0000E-01        4.2600E-01        5.2000E-02
+        1.3310E+01        5.0000E-01        6.9800E-01        8.3000E-02
+        1.4330E+01        5.0000E-01        6.1300E-01        5.4000E-02
+        1.5340E+01        5.0000E-01        6.0100E-01        4.2000E-02
+        1.6360E+01        5.0000E-01        5.8700E-01        3.7000E-02

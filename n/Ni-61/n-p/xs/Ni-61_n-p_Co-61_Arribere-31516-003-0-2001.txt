@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31516-003-0 
-# EXFOR reaction        : ['28-NI-61', ['N,P'], '27-CO-61,,SIG,,FIS'] 
+# EXFOR reaction        : (28-NI-61(N,P)27-CO-61,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Ni-61 
 # product               : Co-61 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.A.Arribere 
+# first author          : Arribere 
 # institute             : (3ARGCAB): Institute Balseiro y Centro Atomico Bariloche, Bariloche 
 # reference             : (J,NSE,139,24,2001) 
 # year                  : 2001 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31516.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31516
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      1.63200E-03      9.60000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.6320E-03        9.6000E-05

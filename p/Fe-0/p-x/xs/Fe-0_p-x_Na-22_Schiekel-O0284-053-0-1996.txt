@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0284-053-0 
-# EXFOR reaction        : ['26-FE-0', ['P,X'], '11-NA-22,CUM,SIG'] 
+# EXFOR reaction        : (26-FE-0(P,X)11-NA-22,CUM,SIG) 
 # incident energy       : 2.6000e+02 MeV - 3.9900e+02 MeV 
 # target                : Fe-0 
 # product               : Na-22 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : Th.Schiekel 
+# first author          : Schiekel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,114,91,1996) 
 # year                  : 1996 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0284.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0284
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.60000E+02      1.30000E+00      3.19000E-05      5.52000E-06
-      2.80000E+02      9.87000E-01      4.04000E-05      8.35000E-06
-      2.99000E+02      5.74000E-01      5.58000E-05      7.14000E-06
-      3.28000E+02      1.71000E+00      7.98000E-05      9.65000E-06
-      3.46000E+02      1.52000E+00      8.48000E-05      8.77000E-06
-      3.66000E+02      1.28000E+00      1.07000E-04      9.87000E-06
-      3.83000E+02      9.97000E-01      1.20000E-04      1.09000E-05
-      3.99000E+02      5.65000E-01      1.31000E-04      1.24000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6000E+02        1.3000E+00        3.1900E-05        5.5200E-06
+        2.8000E+02        9.8700E-01        4.0400E-05        8.3500E-06
+        2.9900E+02        5.7400E-01        5.5800E-05        7.1400E-06
+        3.2800E+02        1.7100E+00        7.9800E-05        9.6500E-06
+        3.4600E+02        1.5200E+00        8.4800E-05        8.7700E-06
+        3.6600E+02        1.2800E+00        1.0700E-04        9.8700E-06
+        3.8300E+02        9.9700E-01        1.2000E-04        1.0900E-05
+        3.9900E+02        5.6500E-01        1.3100E-04        1.2400E-05

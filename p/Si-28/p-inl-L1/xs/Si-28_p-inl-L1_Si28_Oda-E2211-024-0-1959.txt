@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E2211-024-0 
-# EXFOR reaction        : ['14-SI-28', ['P,INL'], '14-SI-28,PAR,SIG'] 
+# EXFOR reaction        : (14-SI-28(P,INL)14-SI-28,PAR,SIG) 
 # incident energy       : 4.9500e+00 MeV - 5.4500e+00 MeV 
 # target                : Si-28 
 # product               : Si-28 
 # level energy          : 1.7800e+00 MeV 
 # MF-MT number          : 3 - 601 
-# first author          : Y.Oda 
+# first author          : Oda 
 # institute             : (2JPNOSA): Osaka University , Osaka 
 # reference             : (J,JPJ,14,1255,1959) 
 # year                  : 1959 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E22/E2211.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E2211
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.95000E+00      0.00000E+00      1.14600E-01      0.00000E+00
-      5.05000E+00      0.00000E+00      1.29000E-01      0.00000E+00
-      5.15000E+00      0.00000E+00      1.40200E-01      0.00000E+00
-      5.25000E+00      0.00000E+00      1.45800E-01      0.00000E+00
-      5.35000E+00      0.00000E+00      2.68600E-01      0.00000E+00
-      5.45000E+00      0.00000E+00      3.46900E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.9500E+00        0.0000E+00        1.1460E-01        0.0000E+00
+        5.0500E+00        0.0000E+00        1.2900E-01        0.0000E+00
+        5.1500E+00        0.0000E+00        1.4020E-01        0.0000E+00
+        5.2500E+00        0.0000E+00        1.4580E-01        0.0000E+00
+        5.3500E+00        0.0000E+00        2.6860E-01        0.0000E+00
+        5.4500E+00        0.0000E+00        3.4690E-01        0.0000E+00

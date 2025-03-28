@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11269-008-0 
-# EXFOR reaction        : ['73-TA-181', ['N,INL'], '73-TA-181,PAR,SIG'] 
+# EXFOR reaction        : (73-TA-181(N,INL)73-TA-181,PAR,SIG) 
 # incident energy       : 7.0700e-01 MeV - 9.0100e-01 MeV 
 # target                : Ta-181 
 # product               : Ta-181 
 # level energy          : 1.3700e-01 MeV 
 # MF-MT number          : 3 - 52 
-# first author          : W.L.Rogers 
+# first author          : Rogers 
 # institute             : (1USACSE): Case Western Reserve University, Cleveland, OH 
 # reference             : (J,BAP,6,61(TA7),6102) 
 # year                  : 1961 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11269.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11269
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.07000E-01      0.00000E+00      1.23000E+00      1.20000E-01
-      9.01000E-01      0.00000E+00      1.14000E+00      1.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0700E-01        0.0000E+00        1.2300E+00        1.2000E-01
+        9.0100E-01        0.0000E+00        1.1400E+00        1.0000E-01

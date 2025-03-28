@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31551-004-0 
-# EXFOR reaction        : ['50-SN-112', ['N,P'], '49-IN-112-G,,SIG'] 
+# EXFOR reaction        : (50-SN-112(N,P)49-IN-112-G,,SIG) 
 # incident energy       : 1.4400e+01 MeV 
 # target                : Sn-112 
 # product               : In-112-G 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : E.Betak 
+# first author          : Betak 
 # institute             : (3CZRCZR): Czech Republic 
 # reference             : (J,RCA,93,311,2005) 
 # year                  : 2005 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31551.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31551
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.44000E+01      2.00000E-01      4.27000E-02      3.10000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4400E+01        2.0000E-01        4.2700E-02        3.1000E-03

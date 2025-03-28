@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2516-009-0 
-# EXFOR reaction        : ['57-LA-139', ['P,X'], '57-LA-133,CUM,SIG'] 
+# EXFOR reaction        : (57-LA-139(P,X)57-LA-133,CUM,SIG) 
 # incident energy       : 6.7990e+01 MeV - 8.8660e+01 MeV 
 # target                : La-139 
 # product               : La-133 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : K.V.Becker 
+# first author          : Becker 
 # institute             : (1USAWIS): University of Wisconsin, Madison, WI 
 # reference             : (J,NIM/B,468,81,2020) 
 # year                  : 2020 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C25/C2516.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2516
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.79900E+01      1.40000E+00      6.90200E-02      1.34000E-03
-      7.80500E+01      2.00000E-01      1.49890E-01      2.98000E-03
-      8.86600E+01      6.00000E-01      2.00820E-01      4.55000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.7990E+01        1.4000E+00        6.9020E-02        1.3400E-03
+        7.8050E+01        2.0000E-01        1.4989E-01        2.9800E-03
+        8.8660E+01        6.0000E-01        2.0082E-01        4.5500E-03

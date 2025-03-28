@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0276-142-0 
-# EXFOR reaction        : ['38-SR-0', ['P,X'], '21-SC-44-M,,SIG'] 
+# EXFOR reaction        : (38-SR-0(P,X)21-SC-44-M,,SIG) 
 # incident energy       : 5.7400e+02 MeV - 1.6000e+03 MeV 
 # target                : Sr-0 
 # product               : Sc-44-M 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,129,153,1997) 
 # year                  : 1997 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0276
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.74000E+02      1.41000E+00      5.95000E-05      1.12000E-05
-      7.76000E+02      1.38000E+00      2.14000E-04      2.28000E-05
-      1.20000E+03      2.00000E+01      8.77000E-04      7.40000E-05
-      1.60000E+03      2.00000E+01      1.55000E-03      1.28000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.7400E+02        1.4100E+00        5.9500E-05        1.1200E-05
+        7.7600E+02        1.3800E+00        2.1400E-04        2.2800E-05
+        1.2000E+03        2.0000E+01        8.7700E-04        7.4000E-05
+        1.6000E+03        2.0000E+01        1.5500E-03        1.2800E-04

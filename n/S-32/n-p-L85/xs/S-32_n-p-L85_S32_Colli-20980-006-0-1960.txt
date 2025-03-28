@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20980-006-0 
-# EXFOR reaction        : ['16-S-32', ['N,P'], '15-P-32,PAR,SIG'] 
+# EXFOR reaction        : (16-S-32(N,P)15-P-32,PAR,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : S-32 
 # product               : P-32 
 # level energy          : 6.8000e+00 MeV 
 # MF-MT number          : 3 - 648 
-# first author          : L.Colli 
+# first author          : Colli 
 # institute             : (2ITYCIS): Centro Informazioni Studi ed Esperienze (CISE), Milan 
 # reference             : (J,NC,17,(5),634,196009) 
 # year                  : 1960 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20980.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20980
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      1.00000E-01      5.77000E-02      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        1.0000E-01        5.7700E-02        0.0000E+00

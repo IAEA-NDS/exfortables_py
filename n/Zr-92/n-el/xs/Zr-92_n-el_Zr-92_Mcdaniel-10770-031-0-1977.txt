@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10770-031-0 
-# EXFOR reaction        : ['40-ZR-92', ['N,EL'], '40-ZR-92,,SIG'] 
+# EXFOR reaction        : (40-ZR-92(N,EL)40-ZR-92,,SIG) 
 # incident energy       : 2.7500e+00 MeV 
 # target                : Zr-92 
 # product               : Zr-92 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : F.D.Mcdaniel 
+# first author          : Mcdaniel 
 # institute             : (1USAKTY): University of Kentucky, Lexington, KY 
 # reference             : (P,A-KTY-74/77,3,1977) 
 # year                  : 1977 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10770.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10770
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.75000E+00      0.00000E+00      2.57750E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7500E+00        0.0000E+00        2.5775E+00        0.0000E+00

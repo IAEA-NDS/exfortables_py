@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12095-002-0 
-# EXFOR reaction        : ['62-SM-144', ['N,G'], '62-SM-145,,SIG'] 
+# EXFOR reaction        : (62-SM-144(N,G)62-SM-145,,SIG) 
 # incident energy       : 3.0000e-02 MeV 
 # target                : Sm-144 
 # product               : Sm-145 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.L.Macklin 
+# first author          : Macklin 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,NAT,197,369(2),1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12095.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12095
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      7.00000E-03      1.19000E-01      5.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        7.0000E-03        1.1900E-01        5.5000E-02

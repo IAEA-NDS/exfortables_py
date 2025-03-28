@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13042-003-2 
-# EXFOR reaction        : ['63-EU-153', ['N,2N'], '63-EU-152-M2,,SIG'] 
+# EXFOR reaction        : (63-EU-153(N,2N)63-EU-152-M2,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Eu-153 
 # product               : Eu-152-M2 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : G.N.Salaita 
+# first author          : Salaita 
 # institute             : (1USASMU): Southern Methodist University, Dallas, TX 
 # reference             : (C,74COLUMB,,95,197407) 
 # year                  : 1974 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/130/13042.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13042
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      2.07500E+00      1.66000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        2.0750E+00        1.6600E-01

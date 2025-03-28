@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23089-002-0 
-# EXFOR reaction        : ['38-SR-88', ['N,G'], '38-SR-89,,SIG,,AV'] 
+# EXFOR reaction        : (38-SR-88(N,G)38-SR-89,,SIG,,AV) 
 # incident energy       : 1.1800e-02 MeV - 6.5650e-02 MeV 
 # target                : Sr-88 
 # product               : Sr-89 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : T.Katabuchi 
+# first author          : Katabuchi 
 # institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
 # reference             : (S,JAEA-C-2009-004,145,2009) 
 # year                  : 2009 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23089.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23089
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.18000E-02      0.00000E+00      5.27000E-02      3.63630E-03
-      1.64000E-02      0.00000E+00      2.55000E-03      6.37500E-04
-      2.26000E-02      0.00000E+00      1.06000E-02      8.79800E-04
-      2.99500E-02      0.00000E+00      9.40000E-03      6.29800E-04
-      3.92000E-02      0.00000E+00      4.37000E-03      3.88930E-04
-      6.56500E-02      0.00000E+00      4.83000E-03      2.70480E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1800E-02        0.0000E+00        5.2700E-02        3.6363E-03
+        1.6400E-02        0.0000E+00        2.5500E-03        6.3750E-04
+        2.2600E-02        0.0000E+00        1.0600E-02        8.7980E-04
+        2.9950E-02        0.0000E+00        9.4000E-03        6.2980E-04
+        3.9200E-02        0.0000E+00        4.3700E-03        3.8893E-04
+        6.5650E-02        0.0000E+00        4.8300E-03        2.7048E-04

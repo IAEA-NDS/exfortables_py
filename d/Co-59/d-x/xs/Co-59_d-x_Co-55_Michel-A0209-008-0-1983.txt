@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0209-008-0 
-# EXFOR reaction        : ['27-CO-59', ['D,X'], '27-CO-55,', ['CUM'], ',SIG'] 
+# EXFOR reaction        : (27-CO-59(D,X)27-CO-55,(CUM),SIG) 
 # incident energy       : 5.3170e+01 MeV - 8.4690e+01 MeV 
 # target                : Co-59 
 # product               : Co-55 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,ARI,34,1325,1983) 
 # year                  : 1983 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0209.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0209
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.46900E+01      2.90000E-01      4.76000E-03      3.60000E-04
-      7.91300E+01      4.40000E-01      4.53000E-03      3.40000E-04
-      7.37000E+01      5.30000E-01      3.75000E-03      2.60000E-04
-      6.89100E+01      5.80000E-01      2.72000E-03      2.20000E-04
-      6.35800E+01      6.50000E-01      1.44000E-03      1.20000E-04
-      5.81600E+01      7.00000E-01      6.48000E-04      6.20000E-05
-      5.31700E+01      7.60000E-01      3.17000E-04      4.10000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.4690E+01        2.9000E-01        4.7600E-03        3.6000E-04
+        7.9130E+01        4.4000E-01        4.5300E-03        3.4000E-04
+        7.3700E+01        5.3000E-01        3.7500E-03        2.6000E-04
+        6.8910E+01        5.8000E-01        2.7200E-03        2.2000E-04
+        6.3580E+01        6.5000E-01        1.4400E-03        1.2000E-04
+        5.8160E+01        7.0000E-01        6.4800E-04        6.2000E-05
+        5.3170E+01        7.6000E-01        3.1700E-04        4.1000E-05

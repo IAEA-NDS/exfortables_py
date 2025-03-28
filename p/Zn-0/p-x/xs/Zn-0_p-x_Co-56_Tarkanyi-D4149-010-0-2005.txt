@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4149-010-0 
-# EXFOR reaction        : ['30-ZN-0', ['P,X'], '27-CO-56,,SIG,,,EXP'] 
+# EXFOR reaction        : (30-ZN-0(P,X)27-CO-56,,SIG,,,EXP) 
 # incident energy       : 3.3100e+01 MeV - 6.7400e+01 MeV 
 # target                : Zn-0 
 # product               : Co-56 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,ARI,62,73,2005) 
 # year                  : 2005 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4149.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4149
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.31000E+01      1.70000E+00      5.80000E-05      1.60000E-05
-      3.95000E+01      1.40000E+00      1.01000E-03      1.30000E-04
-      4.51000E+01      1.20000E+00      2.12000E-03      2.70000E-04
-      5.02000E+01      1.00000E+00      1.97000E-03      2.50000E-04
-      5.49000E+01      8.00000E-01      1.32000E-03      1.70000E-04
-      5.93000E+01      6.00000E-01      1.00000E-03      1.30000E-04
-      6.34000E+01      5.00000E-01      1.01000E-03      1.40000E-04
-      6.74000E+01      3.00000E-01      1.32000E-03      1.70000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3100E+01        1.7000E+00        5.8000E-05        1.6000E-05
+        3.9500E+01        1.4000E+00        1.0100E-03        1.3000E-04
+        4.5100E+01        1.2000E+00        2.1200E-03        2.7000E-04
+        5.0200E+01        1.0000E+00        1.9700E-03        2.5000E-04
+        5.4900E+01        8.0000E-01        1.3200E-03        1.7000E-04
+        5.9300E+01        6.0000E-01        1.0000E-03        1.3000E-04
+        6.3400E+01        5.0000E-01        1.0100E-03        1.4000E-04
+        6.7400E+01        3.0000E-01        1.3200E-03        1.7000E-04

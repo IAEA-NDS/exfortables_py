@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0060-002-0 
-# EXFOR reaction        : ['6-C-0', ['P,X'], '6-C-11,,SIG'] 
+# EXFOR reaction        : (6-C-0(P,X)6-C-11,,SIG) 
 # incident energy       : 4.6100e+02 MeV 
 # target                : C-0 
 # product               : C-11 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.H.Rosenfeld 
+# first author          : Rosenfeld 
 # institute             : (1USACHI): University of Chicago, IL 
 # reference             : (J,PR,103,413,1956) 
 # year                  : 1956 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C00/C0060.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0060
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.61000E+02      3.00000E+00      3.09000E-02      8.65200E-04
-      4.61000E+02      3.00000E+00      3.02000E-02      7.24800E-04
-      4.61000E+02      3.00000E+00      3.04000E-02      6.68800E-04
-      4.61000E+02      3.00000E+00      3.17000E-02      6.97400E-04
-      4.61000E+02      3.00000E+00      3.12000E-02      6.24000E-04
-      4.61000E+02      3.00000E+00      3.19000E-02      6.69900E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.6100E+02        3.0000E+00        3.0900E-02        8.6520E-04
+        4.6100E+02        3.0000E+00        3.0200E-02        7.2480E-04
+        4.6100E+02        3.0000E+00        3.0400E-02        6.6880E-04
+        4.6100E+02        3.0000E+00        3.1700E-02        6.9740E-04
+        4.6100E+02        3.0000E+00        3.1200E-02        6.2400E-04
+        4.6100E+02        3.0000E+00        3.1900E-02        6.6990E-04

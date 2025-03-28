@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21673-003-0 
-# EXFOR reaction        : ['29-CU-63', ['N,2N'], '29-CU-62,,SIG'] 
+# EXFOR reaction        : (29-CU-63(N,2N)29-CU-62,,SIG) 
 # incident energy       : 1.3240e+01 MeV - 1.5940e+01 MeV 
 # target                : Cu-63 
 # product               : Cu-62 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : R.A.Jarjis 
+# first author          : Jarjis 
 # institute             : (2UK BIA): University of Aston, Birmingham 
 # reference             : (J,JP/G,4,(3),445,1978) 
 # year                  : 1978 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21673.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21673
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.32400E+01      1.20000E-01      2.77800E-01      0.00000E+00
-      1.50700E+01      1.90000E-01      6.24300E-01      0.00000E+00
-      1.53100E+01      2.20000E-01      6.79300E-01      0.00000E+00
-      1.57000E+01      2.30000E-01      7.00500E-01      0.00000E+00
-      1.59400E+01      2.40000E-01      7.62900E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3240E+01        1.2000E-01        2.7780E-01        0.0000E+00
+        1.5070E+01        1.9000E-01        6.2430E-01        0.0000E+00
+        1.5310E+01        2.2000E-01        6.7930E-01        0.0000E+00
+        1.5700E+01        2.3000E-01        7.0050E-01        0.0000E+00
+        1.5940E+01        2.4000E-01        7.6290E-01        0.0000E+00

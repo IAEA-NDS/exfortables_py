@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14803-003-0 
-# EXFOR reaction        : ['53-I-131', ['N,G'], '53-I-132,,SIG,,MXW'] 
+# EXFOR reaction        : (53-I-131(N,G)53-I-132,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : I-131 
 # product               : I-132 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : D.C.Santry 
+# first author          : Santry 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (R,INDC(SEC)-62,120(2),1977) 
 # year                  : 1977 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/148/14803.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14803
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      8.50000E+01      5.00000E+01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        8.5000E+01        5.0000E+01

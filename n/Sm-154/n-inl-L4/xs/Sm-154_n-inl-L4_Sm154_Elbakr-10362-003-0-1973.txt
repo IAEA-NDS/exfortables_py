@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 10362-003-0 
-# EXFOR reaction        : ['62-SM-154', ['N,INL'], '62-SM-154,PAR,SIG'] 
+# EXFOR reaction        : (62-SM-154(N,INL)62-SM-154,PAR,SIG) 
 # incident energy       : 6.7900e-01 MeV - 2.0100e+00 MeV 
 # target                : Sm-154 
 # product               : Sm-154 
 # level energy          : 9.2100e-01 MeV 
 # MF-MT number          : 3 - 54 
-# first author          : S.A.Elbakr 
+# first author          : Elbakr 
 # institute             : (1CANALA): University of Alberta, Edmonton, Alberta 
 # reference             : (J,NP/A,211,493,1973) 
 # year                  : 1973 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/103/10362.x4 
 # nds                   : https://nds.iaea.org/EXFOR/10362
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.79000E-01      0.00000E+00      2.09692E-01      4.75770E-02
-      8.80000E-01      0.00000E+00      3.25991E-01      5.63880E-02
-      1.07700E+00      0.00000E+00      3.91189E-01      8.98680E-02
-      1.31300E+00      0.00000E+00      3.71806E-01      8.45810E-02
-      1.54100E+00      0.00000E+00      3.29515E-01      7.04850E-02
-      1.76400E+00      0.00000E+00      2.80176E-01      5.28630E-02
-      2.01000E+00      0.00000E+00      3.27753E-01      6.51980E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.7900E-01        0.0000E+00        2.0969E-01        4.7577E-02
+        8.8000E-01        0.0000E+00        3.2599E-01        5.6388E-02
+        1.0770E+00        0.0000E+00        3.9119E-01        8.9868E-02
+        1.3130E+00        0.0000E+00        3.7181E-01        8.4581E-02
+        1.5410E+00        0.0000E+00        3.2952E-01        7.0485E-02
+        1.7640E+00        0.0000E+00        2.8018E-01        5.2863E-02
+        2.0100E+00        0.0000E+00        3.2775E-01        6.5198E-02

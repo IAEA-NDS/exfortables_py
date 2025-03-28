@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0272-014-1 
-# EXFOR reaction        : ['26-FE-0', ['P,X'], '22-TI-44,,SIG'] 
+# EXFOR reaction        : (26-FE-0(P,X)22-TI-44,,SIG) 
 # incident energy       : 3.2000e+02 MeV - 5.8500e+02 MeV 
 # target                : Fe-0 
 # product               : Ti-44 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.L.Brodzinski 
+# first author          : Brodzinski 
 # institute             : (1USABAT): Battelle Memorial Institute, Columbus, OH 
 # reference             : (J,PR/C,4,1257,1971) 
 # year                  : 1971 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0272.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0272
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.20000E+02      0.00000E+00      1.40000E-04      0.00000E+00
-      4.34000E+02      0.00000E+00      1.80000E-03      0.00000E+00
-      5.85000E+02      0.00000E+00      2.50000E-04      1.80000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.2000E+02        0.0000E+00        1.4000E-04        0.0000E+00
+        4.3400E+02        0.0000E+00        1.8000E-03        0.0000E+00
+        5.8500E+02        0.0000E+00        2.5000E-04        1.8000E-04

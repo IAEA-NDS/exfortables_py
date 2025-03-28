@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33059-003-0 
-# EXFOR reaction        : ['92-U-238', ['N,2N'], '92-U-237,,SIG'] 
+# EXFOR reaction        : (92-U-238(N,2N)92-U-237,,SIG) 
 # incident energy       : 8.0400e+00 MeV - 1.1900e+01 MeV 
 # target                : U-238 
 # product               : U-237 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : R.Crasta 
+# first author          : Crasta 
 # institute             : (3INDMNG): Mangalore University, Mangalagangotri, Konaje 
 # reference             : (J,NSE,178,66,2014) 
 # year                  : 2014 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33059.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33059
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.04000E+00      3.00000E-01      1.04405E+00      1.23950E-01
-      1.19000E+01      3.50000E-01      1.23139E+00      1.53410E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0400E+00        3.0000E-01        1.0440E+00        1.2395E-01
+        1.1900E+01        3.5000E-01        1.2314E+00        1.5341E-01

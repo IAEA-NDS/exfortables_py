@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0743-005-0 
-# EXFOR reaction        : ['60-ND-0', ['P,X'], '61-PM-146,,SIG'] 
+# EXFOR reaction        : (60-ND-0(P,X)61-PM-146,,SIG) 
 # incident energy       : 5.3800e+00 MeV - 3.5410e+01 MeV 
 # target                : Nd-0 
 # product               : Pm-146 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : O.Lebeda 
+# first author          : Lebeda 
 # institute             : (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
 # reference             : (J,NP/A,929,129,2014) 
 # year                  : 2014 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D07/D0743.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0743
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.54100E+01      2.00000E-01      2.78000E-02      3.20000E-03
-      3.36700E+01      2.10000E-01      2.07000E-02      2.50000E-03
-      3.18600E+01      2.10000E-01      1.71000E-02      2.10000E-03
-      3.05500E+01      2.20000E-01      1.78000E-02      2.20000E-03
-      9.01000E+00      2.10000E-01      3.69000E-02      4.20000E-03
-      7.93000E+00      2.30000E-01      2.47000E-02      2.80000E-03
-      6.74000E+00      2.60000E-01      8.57000E-03      1.10000E-03
-      5.38000E+00      3.00000E-01      1.35000E-03      2.70000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5410E+01        2.0000E-01        2.7800E-02        3.2000E-03
+        3.3670E+01        2.1000E-01        2.0700E-02        2.5000E-03
+        3.1860E+01        2.1000E-01        1.7100E-02        2.1000E-03
+        3.0550E+01        2.2000E-01        1.7800E-02        2.2000E-03
+        9.0100E+00        2.1000E-01        3.6900E-02        4.2000E-03
+        7.9300E+00        2.3000E-01        2.4700E-02        2.8000E-03
+        6.7400E+00        2.6000E-01        8.5700E-03        1.1000E-03
+        5.3800E+00        3.0000E-01        1.3500E-03        2.7000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40531-107-0 
-# EXFOR reaction        : ['30-ZN-64', ['N,INL'], '30-ZN-64,PAR,SIG'] 
+# EXFOR reaction        : (30-ZN-64(N,INL)30-ZN-64,PAR,SIG) 
 # incident energy       : 2.5000e+00 MeV 
 # target                : Zn-64 
 # product               : Zn-64 
 # level energy          : 1.9100e+00 MeV 
 # MF-MT number          : 3 - 53 
-# first author          : I.A.Korzh 
+# first author          : Korzh 
 # institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
 # reference             : ((C,75KIEV,4,220,1975)=(R,INDC(CCP)-099,(4),220,1975)) 
 # year                  : 1975 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40531.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40531
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E+00      0.00000E+00      1.39000E-01      8.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+00        0.0000E+00        1.3900E-01        8.0000E-03

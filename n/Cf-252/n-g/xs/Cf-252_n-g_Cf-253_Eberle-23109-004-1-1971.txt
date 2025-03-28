@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23109-004-1 
-# EXFOR reaction        : ['98-CF-252', ['N,G'], '98-CF-253,,SIG'] 
+# EXFOR reaction        : (98-CF-252(N,G)98-CF-253,,SIG) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Cf-252 
 # product               : Cf-253 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.H.Eberle 
+# first author          : Eberle 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (R,KFK-1456,45,1971) 
 # year                  : 1971 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23109.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23109
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.00000E+01      2.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.0000E+01        2.0000E+00

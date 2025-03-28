@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12730-004-0 
-# EXFOR reaction        : ['41-NB-93', ['N,2N'], '41-NB-92-M,,SIG'] 
+# EXFOR reaction        : (41-NB-93(N,2N)41-NB-92-M,,SIG) 
 # incident energy       : 1.4200e+01 MeV 
 # target                : Nb-93 
 # product               : Nb-92-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : R.C.Harper 
+# first author          : Harper 
 # institute             : (1USAAUB): Auburn University, Auburn, AL 
 # reference             : (J,JP/G,8,153,8201) 
 # year                  : 1982 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/127/12730.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12730
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+01      1.00000E-01      5.27000E-01      4.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        1.0000E-01        5.2700E-01        4.7000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20519-006-0 
-# EXFOR reaction        : ['55-CS-133', ['N,2N'], '55-CS-132,,SIG'] 
+# EXFOR reaction        : (55-CS-133(N,2N)55-CS-132,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Cs-133 
 # product               : Cs-132 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : S.M.Qaim 
+# first author          : Qaim 
 # institute             : (2GERMNZ): Johannes Gutenberg-Universitaet Mainz, Mainz 
 # reference             : (J,JIN,32,1799,7006) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20519.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20519
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      3.00000E-01      1.62000E+00      1.50000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        3.0000E-01        1.6200E+00        1.5000E-01

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30985-013-0 
-# EXFOR reaction        : ['28-NI-58', ['N,P'], '27-CO-58,,SIG'] 
+# EXFOR reaction        : (28-NI-58(N,P)27-CO-58,,SIG) 
 # incident energy       : 1.3640e+01 MeV - 1.4830e+01 MeV 
 # target                : Ni-58 
 # product               : Co-58 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : N.I.Molla 
+# first author          : Molla 
 # institute             : (3BANSAV): Institute Nuclear Science & Technology, AERE, Savar, Dhaka 
 # reference             : (C,91JUELIC,,355,199105) 
 # year                  : 1991 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30985.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30985
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36400E+01      0.00000E+00      2.22000E-01      2.30000E-02
-      1.38800E+01      0.00000E+00      1.52000E-01      1.80000E-02
-      1.41000E+01      0.00000E+00      1.68000E-01      1.90000E-02
-      1.43000E+01      0.00000E+00      3.00000E-01      3.00000E-02
-      1.48300E+01      0.00000E+00      3.10000E-01      3.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3640E+01        0.0000E+00        2.2200E-01        2.3000E-02
+        1.3880E+01        0.0000E+00        1.5200E-01        1.8000E-02
+        1.4100E+01        0.0000E+00        1.6800E-01        1.9000E-02
+        1.4300E+01        0.0000E+00        3.0000E-01        3.0000E-02
+        1.4830E+01        0.0000E+00        3.1000E-01        3.1000E-02

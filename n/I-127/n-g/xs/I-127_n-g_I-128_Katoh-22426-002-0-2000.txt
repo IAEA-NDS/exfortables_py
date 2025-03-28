@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22426-002-0 
-# EXFOR reaction        : ['53-I-127', ['N,G'], '53-I-128,,SIG'] 
+# EXFOR reaction        : (53-I-127(N,G)53-I-128,,SIG) 
 # incident energy       : 2.5000e-08 MeV 
 # target                : I-127 
 # product               : I-128 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : T.Katoh 
+# first author          : Katoh 
 # institute             : (2JPNPNC): Power Reactor and Nuclear Fuel Devel. Corp., Tokai 
 # reference             : ((S,JAERI-C-2000-005,20,2000)=(S,INDC(JPN)-185,20,2000)) 
 # year                  : 2000 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22426.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22426
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-08      0.00000E+00      6.40000E+00      2.90000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-08        0.0000E+00        6.4000E+00        2.9000E-01

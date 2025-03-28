@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11010-010-0 
-# EXFOR reaction        : ['46-PD-108', ['N,G'], '46-PD-109,,SIG'] 
+# EXFOR reaction        : (46-PD-108(N,G)46-PD-109,,SIG) 
 # incident energy       : 2.4000e-02 MeV 
 # target                : Pd-108 
 # product               : Pd-109 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : V.Hummel 
+# first author          : Hummel 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,PR,82,67,195104) 
 # year                  : 1951 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11010.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11010
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.40000E-02      0.00000E+00      3.60000E-01      9.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4000E-02        0.0000E+00        3.6000E-01        9.0000E-02

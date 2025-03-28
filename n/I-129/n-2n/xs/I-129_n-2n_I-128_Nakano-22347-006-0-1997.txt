@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22347-006-0 
-# EXFOR reaction        : ['53-I-129', ['N,2N'], '53-I-128,,SIG'] 
+# EXFOR reaction        : (53-I-129(N,2N)53-I-128,,SIG) 
 # incident energy       : 1.3500e+01 MeV - 1.4700e+01 MeV 
 # target                : I-129 
 # product               : I-128 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : D.Nakano 
+# first author          : Nakano 
 # institute             : (2JPNOSA): Osaka University , Osaka 
 # reference             : ((S,JAERI-C-97-004,177,1997)=(S,INDC(JPN)-178,177,1997)) 
 # year                  : 1997 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22347.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22347
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35000E+01      0.00000E+00      1.02000E+00      1.40000E-01
-      1.42000E+01      0.00000E+00      1.26000E+00      1.70000E-01
-      1.47000E+01      0.00000E+00      1.13000E+00      1.50000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3500E+01        0.0000E+00        1.0200E+00        1.4000E-01
+        1.4200E+01        0.0000E+00        1.2600E+00        1.7000E-01
+        1.4700E+01        0.0000E+00        1.1300E+00        1.5000E-01

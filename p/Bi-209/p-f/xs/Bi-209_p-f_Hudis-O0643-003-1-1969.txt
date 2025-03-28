@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0643-003-1 
-# EXFOR reaction        : ['83-BI-209', ['P,F'], ',,SIG'] 
+# EXFOR reaction        : (83-BI-209(P,F),,SIG) 
 # incident energy       : 6.0000e+02 MeV - 2.9000e+04 MeV 
 # target                : Bi-209 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : J.Hudis 
+# first author          : Hudis 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR,180,1122,1969) 
 # year                  : 1969 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0643.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0643
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+02      0.00000E+00      2.16000E-01      3.24000E-02
-      1.00000E+03      0.00000E+00      1.91000E-01      2.86500E-02
-      2.00000E+03      0.00000E+00      1.65000E-01      2.47500E-02
-      3.00000E+03      0.00000E+00      1.61000E-01      2.41500E-02
-      1.30000E+04      0.00000E+00      1.22000E-01      1.83000E-02
-      2.90000E+04      0.00000E+00      1.05000E-01      1.57500E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+02        0.0000E+00        2.1600E-01        3.2400E-02
+        1.0000E+03        0.0000E+00        1.9100E-01        2.8650E-02
+        2.0000E+03        0.0000E+00        1.6500E-01        2.4750E-02
+        3.0000E+03        0.0000E+00        1.6100E-01        2.4150E-02
+        1.3000E+04        0.0000E+00        1.2200E-01        1.8300E-02
+        2.9000E+04        0.0000E+00        1.0500E-01        1.5750E-02

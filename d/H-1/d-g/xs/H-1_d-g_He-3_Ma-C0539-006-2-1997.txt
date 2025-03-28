@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0539-006-2 
-# EXFOR reaction        : ['1-H-1', ['D,G'], '2-HE-3,,SIG,,SFC'] 
+# EXFOR reaction        : (1-H-1(D,G)2-HE-3,,SIG,,SFC) 
 # incident energy       : 7.5000e-02 MeV - 1.7300e-01 MeV 
 # target                : H-1 
 # product               : He-3 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : L.Ma 
+# first author          : Ma 
 # institute             : (1USATNL): Triangle Universities Nuclear Laboratory , Durham, NC 
 # reference             : (J,PR/C,55,588,199702) 
 # year                  : 1997 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C05/C0539.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0539
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      7.50000E-02      0.00000E+00      6.81000E-01      0.00000E+00
-      1.08000E-01      0.00000E+00      7.04000E-01      0.00000E+00
-      1.33000E-01      0.00000E+00      9.59000E-01      0.00000E+00
-      1.73000E-01      0.00000E+00      1.26700E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.5000E-02        0.0000E+00        6.8100E-01        0.0000E+00
+        1.0800E-01        0.0000E+00        7.0400E-01        0.0000E+00
+        1.3300E-01        0.0000E+00        9.5900E-01        0.0000E+00
+        1.7300E-01        0.0000E+00        1.2670E+00        0.0000E+00

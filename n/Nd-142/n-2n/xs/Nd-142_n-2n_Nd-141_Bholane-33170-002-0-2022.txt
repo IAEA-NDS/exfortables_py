@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33170-002-0 
-# EXFOR reaction        : ['60-ND-142', ['N,2N'], '60-ND-141,,SIG'] 
+# EXFOR reaction        : (60-ND-142(N,2N)60-ND-141,,SIG) 
 # incident energy       : 1.4770e+01 MeV 
 # target                : Nd-142 
 # product               : Nd-141 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : G.T.Bholane 
+# first author          : Bholane 
 # institute             : (3INDIND): India 
 # reference             : (J,NP/A,1020,122399,2022) 
 # year                  : 2022 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33170.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33170
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47700E+01      1.70000E-01      1.53763E+00      7.03038E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4770E+01        1.7000E-01        1.5376E+00        7.0304E-02

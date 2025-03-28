@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0576-017-0 
-# EXFOR reaction        : ['6-C-12', ['D,NON'], ',,SIG,,,DERIV'] 
+# EXFOR reaction        : (6-C-12(D,NON),,SIG,,,DERIV) 
 # incident energy       : 1.2800e+01 MeV 
 # target                : C-12 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : A.Budzanowski 
+# first author          : Budzanowski 
 # institute             : (3POLIFJ): Niewodniczanski Institute of Nuclear Physics, Krakow 
 # reference             : (J,NP,49,144,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D05/D0576.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0576
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.28000E+01      1.50000E-01      6.58000E-01      8.60000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2800E+01        1.5000E-01        6.5800E-01        8.6000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40966-015-0 
-# EXFOR reaction        : ['90-TH-232', ['N,INL'], '90-TH-232,PAR,SIG'] 
+# EXFOR reaction        : (90-TH-232(N,INL)90-TH-232,PAR,SIG) 
 # incident energy       : 3.0000e+00 MeV 
 # target                : Th-232 
 # product               : Th-232 
 # level energy          : 3.3320e-01 MeV 
 # MF-MT number          : 3 - 53 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (J,YK,,(2),56,1988) 
 # year                  : 1988 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40966.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40966
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+00      0.00000E+00      3.20000E-01      7.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+00        0.0000E+00        3.2000E-01        7.0000E-02

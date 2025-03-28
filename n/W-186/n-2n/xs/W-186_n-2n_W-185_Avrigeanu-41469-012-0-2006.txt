@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41469-012-0 
-# EXFOR reaction        : ['74-W-186', ['N,2N'], '74-W-185,,SIG'] 
+# EXFOR reaction        : (74-W-186(N,2N)74-W-185,,SIG) 
 # incident energy       : 1.3640e+01 MeV - 1.4820e+01 MeV 
 # target                : W-186 
 # product               : W-185 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : V.Avrigeanu 
+# first author          : Avrigeanu 
 # institute             : (4RUSRI ): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (J,NP/A,765,1,2006) 
 # year                  : 2006 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41469.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41469
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36400E+01      0.00000E+00      1.96000E+00      3.50000E-01
-      1.38800E+01      0.00000E+00      1.88000E+00      3.30000E-01
-      1.42800E+01      0.00000E+00      1.90000E+00      2.30000E-01
-      1.46800E+01      0.00000E+00      1.97000E+00      2.60000E-01
-      1.48200E+01      0.00000E+00      2.06000E+00      2.40000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3640E+01        0.0000E+00        1.9600E+00        3.5000E-01
+        1.3880E+01        0.0000E+00        1.8800E+00        3.3000E-01
+        1.4280E+01        0.0000E+00        1.9000E+00        2.3000E-01
+        1.4680E+01        0.0000E+00        1.9700E+00        2.6000E-01
+        1.4820E+01        0.0000E+00        2.0600E+00        2.4000E-01

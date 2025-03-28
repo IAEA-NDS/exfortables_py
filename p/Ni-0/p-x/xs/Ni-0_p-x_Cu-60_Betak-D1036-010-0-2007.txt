@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D1036-010-0 
-# EXFOR reaction        : ['28-NI-0', ['P,X'], '29-CU-60,,SIG'] 
+# EXFOR reaction        : (28-NI-0(P,X)29-CU-60,,SIG) 
 # incident energy       : 2.2800e+01 MeV 
 # target                : Ni-0 
 # product               : Cu-60 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : E.Betak 
+# first author          : Betak 
 # institute             : (3SLKSLO): Slovak Academy of Sciences, Physics Institute , Bratislava 
 # reference             : (J,NKA,52,17,2007) 
 # year                  : 2007 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D10/D1036.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D1036
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.28000E+01      0.00000E+00      6.44000E-02      7.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2800E+01        0.0000E+00        6.4400E-02        7.0000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22253-013-0 
-# EXFOR reaction        : ['54-XE-126', ['N,G'], '54-XE-127-G,,SIG,,MXW'] 
+# EXFOR reaction        : (54-XE-126(N,G)54-XE-127-G,,SIG,,MXW) 
 # incident energy       : 2.5000e-02 MeV 
 # target                : Xe-126 
 # product               : Xe-127-G 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : H.Beer 
+# first author          : Beer 
 # institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 # reference             : (J,AJ,375,823,1991) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22253.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22253
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-02      0.00000E+00      3.93000E-01      1.57200E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        3.9300E-01        1.5720E-02

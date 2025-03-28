@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M0947-010-0 
-# EXFOR reaction        : ['13-AL-27', ['G,ABS'], ',,SIG,,FCT'] 
+# EXFOR reaction        : (13-AL-27(G,ABS),,SIG,,FCT) 
 # incident energy       : 3.3000e+02 MeV 
 # target                : Al-27 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 27 
-# first author          : P.Carlos 
+# first author          : Carlos 
 # institute             : (2FR SAC): CEA/Saclay 
 # reference             : (J,NP/A,431,573,1984) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M09/M0947.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M0947
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.30000E+02      0.00000E+00      2.24350E-04      1.72400E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3000E+02        0.0000E+00        2.2435E-04        1.7240E-05

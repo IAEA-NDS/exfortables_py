@@ -1,11 +1,11 @@
 # entry-subent-pointer  : M0913-002-0 
-# EXFOR reaction        : ['50-SN-112', ['G,X'], '49-IN-111,,SIG,,BRA'] 
+# EXFOR reaction        : (50-SN-112(G,X)49-IN-111,,SIG,,BRA) 
 # incident energy       : 4.0000e+01 MeV 
 # target                : Sn-112 
 # product               : In-111 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.S.Danagulyan 
+# first author          : Danagulyan 
 # institute             : (4ARMJSU): Yerevan State University , Yerevan 
 # reference             : (J,YF,78,483,2015) 
 # year                  : 2015 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M09/M0913.x4 
 # nds                   : https://nds.iaea.org/EXFOR/M0913
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.00000E+01      0.00000E+00      1.52200E-01      1.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+01        0.0000E+00        1.5220E-01        1.5000E-02

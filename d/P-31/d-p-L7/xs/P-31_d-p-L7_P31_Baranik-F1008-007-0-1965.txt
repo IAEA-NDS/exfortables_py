@@ -1,11 +1,11 @@
 # entry-subent-pointer  : F1008-007-0 
-# EXFOR reaction        : ['15-P-31', ['D,P'], '15-P-32,PAR,SIG'] 
+# EXFOR reaction        : (15-P-31(D,P)15-P-32,PAR,SIG) 
 # incident energy       : 1.8537e+00 MeV - 2.3958e+00 MeV 
 # target                : P-31 
 # product               : P-32 
 # level energy          : 2.1770e+00 MeV 
 # MF-MT number          : 3 - 607 
-# first author          : A.T.Baranik 
+# first author          : Baranik 
 # institute             : (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
 # reference             : (J,NP,72,49,1965) 
 # year                  : 1965 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F10/F1008.x4 
 # nds                   : https://nds.iaea.org/EXFOR/F1008
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.85370E+00      3.00000E-03      1.83440E-03      0.00000E+00
-      1.99780E+00      3.00000E-03      1.63450E-03      0.00000E+00
-      2.19700E+00      3.00000E-03      3.86220E-03      0.00000E+00
-      2.29840E+00      3.00000E-03      4.37910E-03      0.00000E+00
-      2.39580E+00      3.00000E-03      4.11980E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8537E+00        3.0000E-03        1.8344E-03        0.0000E+00
+        1.9978E+00        3.0000E-03        1.6345E-03        0.0000E+00
+        2.1970E+00        3.0000E-03        3.8622E-03        0.0000E+00
+        2.2984E+00        3.0000E-03        4.3791E-03        0.0000E+00
+        2.3958E+00        3.0000E-03        4.1198E-03        0.0000E+00

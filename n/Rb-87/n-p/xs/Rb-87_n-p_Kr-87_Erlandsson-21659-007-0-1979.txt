@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21659-007-0 
-# EXFOR reaction        : ['37-RB-87', ['N,P'], '36-KR-87,,SIG'] 
+# EXFOR reaction        : (37-RB-87(N,P)36-KR-87,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Rb-87 
 # product               : Kr-87 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : B.Erlandsson 
+# first author          : Erlandsson 
 # institute             : (2SWDLND): Lund University + Tech.University  
 # reference             : (J,PS,19,(3),251,79) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21659.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21659
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      3.00000E-01      1.26000E-02      9.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        3.0000E-01        1.2600E-02        9.0000E-04

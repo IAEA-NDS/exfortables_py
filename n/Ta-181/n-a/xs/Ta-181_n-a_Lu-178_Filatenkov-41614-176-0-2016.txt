@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41614-176-0 
-# EXFOR reaction        : ['73-TA-181', ['N,A'], '71-LU-178,,SIG'] 
+# EXFOR reaction        : (73-TA-181(N,A)71-LU-178,,SIG) 
 # incident energy       : 1.3680e+01 MeV - 1.4710e+01 MeV 
 # target                : Ta-181 
 # product               : Lu-178 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,INDC(CCP)-0460,2016) 
 # year                  : 2016 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.36800E+01      0.00000E+00      4.54000E-04      1.67526E-04
-      1.38800E+01      0.00000E+00      5.75000E-04      2.25975E-04
-      1.42600E+01      0.00000E+00      6.25000E-04      2.15000E-04
-      1.44400E+01      0.00000E+00      6.38000E-04      2.22662E-04
-      1.47100E+01      0.00000E+00      7.33000E-04      2.77807E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3680E+01        0.0000E+00        4.5400E-04        1.6753E-04
+        1.3880E+01        0.0000E+00        5.7500E-04        2.2598E-04
+        1.4260E+01        0.0000E+00        6.2500E-04        2.1500E-04
+        1.4440E+01        0.0000E+00        6.3800E-04        2.2266E-04
+        1.4710E+01        0.0000E+00        7.3300E-04        2.7781E-04

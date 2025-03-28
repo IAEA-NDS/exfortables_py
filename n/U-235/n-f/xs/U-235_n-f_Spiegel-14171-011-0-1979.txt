@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 14171-011-0 
-# EXFOR reaction        : ['92-U-235', ['N,F'], '56-BA-140,,SIG,,FIS'] 
+# EXFOR reaction        : (92-U-235(N,F)56-BA-140,,SIG,,FIS) 
 # incident energy       : 1.4200e+00 MeV 
 # target                : U-235 
 # product               : Ba-140 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : V.Spiegel 
+# first author          : Spiegel 
 # institute             : (1USANBS): National Bureau of Standards, Washington, DC 
 # reference             : (S,NUREG/CP-0004,(3),959,1979) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/141/14171.x4 
 # nds                   : https://nds.iaea.org/EXFOR/14171
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+00      0.00000E+00      1.14000E+00      1.10580E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+00        0.0000E+00        1.1400E+00        1.1058E-01

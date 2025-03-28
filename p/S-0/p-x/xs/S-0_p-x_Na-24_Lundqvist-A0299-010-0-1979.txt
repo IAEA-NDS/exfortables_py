@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0299-010-0 
-# EXFOR reaction        : ['16-S-0', ['P,X'], '11-NA-24,,SIG'] 
-# incident energy       : 5.0070e+01 MeV - 1.5104e+02 MeV 
+# EXFOR reaction        : (16-S-0(P,X)11-NA-24,,SIG) 
+# incident energy       : 5.0100e+01 MeV - 1.5100e+02 MeV 
 # target                : S-0 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Lundqvist 
+# first author          : Lundqvist 
 # institute             : (2SWDUPP): Uppsala University , Uppsala 
 # reference             : (J,ARI,30,33,1979) 
 # year                  : 1979 
@@ -13,10 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0299.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0299
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.00700E+01      2.90000E-01      6.50000E-05      0.00000E+00
-      7.53600E+01      2.90000E-01      3.51000E-04      0.00000E+00
-      1.00000E+02      2.90000E-01      9.80000E-04      1.50000E-04
-      1.00940E+02      2.90000E-01      9.53700E-04      0.00000E+00
-      1.29790E+02      2.90000E-01      1.69540E-03      0.00000E+00
-      1.51040E+02      2.90000E-01      1.51670E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0100E+01        3.0000E-01        6.5000E-05        0.0000E+00
+        7.5400E+01        3.0000E-01        3.5100E-04        0.0000E+00
+        1.0000E+02        3.0000E-01        9.8000E-04        1.5000E-04
+        1.2980E+02        3.0000E-01        1.7000E-03        0.0000E+00
+        1.5100E+02        3.0000E-01        1.5200E-03        0.0000E+00

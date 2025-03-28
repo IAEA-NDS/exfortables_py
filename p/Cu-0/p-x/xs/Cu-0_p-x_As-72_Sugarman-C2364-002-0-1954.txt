@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2364-002-0 
-# EXFOR reaction        : ['29-CU-0', ['P,X'], 'ELEM/MASS,,SIG'] 
+# EXFOR reaction        : (29-CU-0(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 2.2000e+03 MeV 
 # target                : Cu-0 
 # product               : As-72 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : N.Sugarman 
+# first author          : Sugarman 
 # institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 # reference             : (J,PR,94,775(PB5),1954) 
 # year                  : 1954 
@@ -13,5 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2364.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2364
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.20000E+03      0.00000E+00      2.00000E-07      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2000E+03        0.0000E+00        4.0000E-05        0.0000E+00
+        2.2000E+03        0.0000E+00        6.0000E-05        0.0000E+00
+        2.2000E+03        0.0000E+00        4.0000E-05        0.0000E+00
+        2.2000E+03        0.0000E+00        1.0000E-05        0.0000E+00
+        2.2000E+03        0.0000E+00        2.0000E-07        0.0000E+00
+        2.2000E+03        0.0000E+00        2.0000E-07        0.0000E+00

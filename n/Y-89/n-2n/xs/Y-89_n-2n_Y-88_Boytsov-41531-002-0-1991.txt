@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41531-002-0 
-# EXFOR reaction        : ['39-Y-89', ['N,2N'], '39-Y-88,,SIG,,FIS'] 
+# EXFOR reaction        : (39-Y-89(N,2N)39-Y-88,,SIG,,FIS) 
 # incident energy       : 1.0000e+00 MeV 
 # target                : Y-89 
 # product               : Y-88 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Boytsov 
+# first author          : Boytsov 
 # institute             : (4RUSFRT): Fiziko-Tekh. i Radio-Tekh. Izmerenii, Mendeleevo 
 # reference             : ((J,YK,,(1),55,1992)=(R,INDC(CCP)-349,55,1991)) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/415/41531.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41531
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      1.79000E-04      1.80000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        1.7900E-04        1.8000E-05

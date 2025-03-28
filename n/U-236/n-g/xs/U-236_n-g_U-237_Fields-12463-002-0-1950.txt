@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12463-002-0 
-# EXFOR reaction        : ['92-U-236', ['N,G'], '92-U-237,,SIG,,SPA'] 
+# EXFOR reaction        : (92-U-236(N,G)92-U-237,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : U-236 
 # product               : U-237 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : P.R.Fields 
+# first author          : Fields 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (P,ANL-4490,5,195006) 
 # year                  : 1950 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/124/12463.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12463
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.35000E+01      5.00000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.3500E+01        5.0000E-01

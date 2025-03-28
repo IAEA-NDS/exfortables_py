@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30348-007-0 
-# EXFOR reaction        : ['38-SR-88', ['N,2N'], '38-SR-87-G,,SIG,,,CALC'] 
+# EXFOR reaction        : (38-SR-88(N,2N)38-SR-87-G,,SIG,,,CALC) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : Sr-88 
 # product               : Sr-87-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : E.Holub 
+# first author          : Holub 
 # institute             : (3CRORBZ): Institute Rudjer Boskovic, Zagreb 
 # reference             : (J,JP/G,2,(6),405,197606) 
 # year                  : 1976 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30348.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30348
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      3.00000E-01      7.65000E-01      1.15000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        3.0000E-01        7.6500E-01        1.1500E-01

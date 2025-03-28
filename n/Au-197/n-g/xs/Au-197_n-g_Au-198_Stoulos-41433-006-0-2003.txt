@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41433-006-0 
-# EXFOR reaction        : ['79-AU-197', ['N,G'], '79-AU-198,,SIG,,SPA'] 
+# EXFOR reaction        : (79-AU-197(N,G)79-AU-198,,SIG,,SPA) 
 # incident energy       : 1.0000e-04 MeV 
 # target                : Au-197 
 # product               : Au-198 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : S.Stoulos 
+# first author          : Stoulos 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (J,ARI,58,169,200302) 
 # year                  : 2003 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41433.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41433
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E-04      0.00000E+00      9.80000E+01      1.80000E+01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E-04        0.0000E+00        9.8000E+01        1.8000E+01

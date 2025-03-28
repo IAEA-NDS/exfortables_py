@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4401-006-0 
-# EXFOR reaction        : ['77-IR-0', ['D,X'], '78-PT-187,,SIG'] 
+# EXFOR reaction        : (77-IR-0(D,X)78-PT-187,,SIG) 
 # incident energy       : 4.2930e+01 MeV - 4.9500e+01 MeV 
 # target                : Ir-0 
 # product               : Pt-187 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : F.Tarkanyi 
+# first author          : Tarkanyi 
 # institute             : (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
 # reference             : (J,NIM/B,458,105,2019) 
 # year                  : 2019 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4401.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4401
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.95000E+01      2.00000E-01      6.74500E-02      8.28000E-03
-      4.78600E+01      2.80000E-01      5.22100E-02      6.40000E-03
-      4.61800E+01      3.10000E-01      2.75200E-02      3.47000E-03
-      4.44500E+01      3.40000E-01      1.36100E-02      1.85000E-03
-      4.29300E+01      3.80000E-01      6.33000E-03      8.80000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.9500E+01        2.0000E-01        6.7450E-02        8.2800E-03
+        4.7860E+01        2.8000E-01        5.2210E-02        6.4000E-03
+        4.6180E+01        3.1000E-01        2.7520E-02        3.4700E-03
+        4.4450E+01        3.4000E-01        1.3610E-02        1.8500E-03
+        4.2930E+01        3.8000E-01        6.3300E-03        8.8000E-04

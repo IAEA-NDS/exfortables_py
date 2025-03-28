@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1099-266-0 
-# EXFOR reaction        : ['83-BI-209', ['P,X'], '80-HG-197-G,CUM,SIG'] 
+# EXFOR reaction        : (83-BI-209(P,X)80-HG-197-G,CUM,SIG) 
 # incident energy       : 2.3500e+02 MeV - 3.1800e+02 MeV 
 # target                : Bi-209 
 # product               : Hg-197-G 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERUH): University Hannover (previously Tech.University Hannover) 
 # reference             : (J,NSTS,2,242,2002) 
 # year                  : 2002 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O10/O1099.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1099
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.35000E+02      0.00000E+00      9.74900E-02      1.48300E-02
-      3.18000E+02      1.96000E+00      1.31600E-01      3.14300E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3500E+02        0.0000E+00        9.7490E-02        1.4830E-02
+        3.1800E+02        1.9600E+00        1.3160E-01        3.1430E-02

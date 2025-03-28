@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11230-008-0 
-# EXFOR reaction        : ['29-CU-0', ['N,NON'], ',,SIG'] 
+# EXFOR reaction        : (29-CU-0(N,NON),,SIG) 
 # incident energy       : 2.1000e+01 MeV - 2.9200e+01 MeV 
 # target                : Cu-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : M.H.Macgregor 
+# first author          : Macgregor 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,PR,111,1155,1958) 
 # year                  : 1958 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11230.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11230
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.10000E+01      0.00000E+00      1.39000E+00      7.00000E-02
-      2.55000E+01      0.00000E+00      1.33000E+00      7.00000E-02
-      2.92000E+01      0.00000E+00      1.30000E+00      7.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1000E+01        0.0000E+00        1.3900E+00        7.0000E-02
+        2.5500E+01        0.0000E+00        1.3300E+00        7.0000E-02
+        2.9200E+01        0.0000E+00        1.3000E+00        7.0000E-02

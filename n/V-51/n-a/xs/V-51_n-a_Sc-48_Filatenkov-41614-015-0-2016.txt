@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41614-015-0 
-# EXFOR reaction        : ['23-V-51', ['N,A'], '21-SC-48,,SIG'] 
+# EXFOR reaction        : (23-V-51(N,A)21-SC-48,,SIG) 
 # incident energy       : 1.3560e+01 MeV - 1.4820e+01 MeV 
 # target                : V-51 
 # product               : Sc-48 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,INDC(CCP)-0460,2016) 
 # year                  : 2016 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35600E+01      0.00000E+00      1.46000E-02      4.23400E-04
-      1.37400E+01      0.00000E+00      1.51000E-02      5.28500E-04
-      1.39600E+01      0.00000E+00      1.51000E-02      5.49640E-04
-      1.41900E+01      0.00000E+00      1.66000E-02      5.09620E-04
-      1.44200E+01      0.00000E+00      1.69000E-02      5.28970E-04
-      1.46100E+01      0.00000E+00      1.75000E-02      6.21250E-04
-      1.47800E+01      0.00000E+00      1.84000E-02      5.72240E-04
-      1.48200E+01      0.00000E+00      1.86000E-02      4.48260E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3560E+01        0.0000E+00        1.4600E-02        4.2340E-04
+        1.3740E+01        0.0000E+00        1.5100E-02        5.2850E-04
+        1.3960E+01        0.0000E+00        1.5100E-02        5.4964E-04
+        1.4190E+01        0.0000E+00        1.6600E-02        5.0962E-04
+        1.4420E+01        0.0000E+00        1.6900E-02        5.2897E-04
+        1.4610E+01        0.0000E+00        1.7500E-02        6.2125E-04
+        1.4780E+01        0.0000E+00        1.8400E-02        5.7224E-04
+        1.4820E+01        0.0000E+00        1.8600E-02        4.4826E-04

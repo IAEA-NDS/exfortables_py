@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2325-006-0 
-# EXFOR reaction        : ['45-RH-103', ['D,P'], '45-RH-104-M,,SIG'] 
-# incident energy       : 5.5860e+00 MeV - 1.4404e+01 MeV 
+# EXFOR reaction        : (45-RH-103(D,P)45-RH-104-M,,SIG) 
+# incident energy       : 5.7500e+00 MeV - 1.4400e+01 MeV 
 # target                : Rh-103 
 # product               : Rh-104-M 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : J.B.Natowitz 
+# first author          : Natowitz 
 # institute             : (1USAPUP): University of Pittsburgh, Pittsburgh, PA 
 # reference             : (J,PR,155,1352,1967) 
 # year                  : 1967 
@@ -13,12 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2325.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2325
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.58600E+00      0.00000E+00      4.56000E-03      5.30400E-04
-      6.12200E+00      0.00000E+00      5.49400E-03      6.39300E-04
-      6.21700E+00      0.00000E+00      9.59100E-03      1.22000E-03
-      7.60400E+00      0.00000E+00      2.12200E-02      2.70100E-03
-      9.75700E+00      0.00000E+00      3.00900E-02      3.83000E-03
-      1.19710E+01      0.00000E+00      3.33100E-02      3.14300E-03
-      1.35930E+01      0.00000E+00      3.29700E-02      3.84200E-03
-      1.44040E+01      0.00000E+00      3.25900E-02      3.07500E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.7500E+00        0.0000E+00        4.5000E-03        5.3040E-04
+        6.2000E+00        0.0000E+00        5.5000E-03        6.3930E-04
+        6.3700E+00        0.0000E+00        9.5000E-03        1.2200E-03
+        7.7000E+00        0.0000E+00        2.1000E-02        2.7010E-03
+        9.7000E+00        0.0000E+00        3.0000E-02        0.0000E+00
+        9.9000E+00        0.0000E+00        3.0000E-02        3.8300E-03
+        1.2000E+01        0.0000E+00        3.5000E-02        3.1430E-03
+        1.3600E+01        0.0000E+00        3.3000E-02        3.8420E-03
+        1.4400E+01        0.0000E+00        3.2000E-02        3.0750E-03

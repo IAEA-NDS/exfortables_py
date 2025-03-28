@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11274-079-0 
-# EXFOR reaction        : ['51-SB-121', ['N,2N'], '51-SB-120-G,,SIG'] 
+# EXFOR reaction        : (51-SB-121(N,2N)51-SB-120-G,,SIG) 
 # incident energy       : 1.4500e+01 MeV 
 # target                : Sb-121 
 # product               : Sb-120-G 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : E.B.Paul 
+# first author          : Paul 
 # institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 # reference             : (J,CJP,31,267,1953) 
 # year                  : 1953 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11274.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11274
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.45000E+01      0.00000E+00      7.50000E-01      1.87500E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        0.0000E+00        7.5000E-01        1.8750E-01

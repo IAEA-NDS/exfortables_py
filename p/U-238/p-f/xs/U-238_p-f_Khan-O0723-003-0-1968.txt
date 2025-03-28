@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0723-003-0 
-# EXFOR reaction        : ['92-U-238', ['P,F'], '29-CU-67,CUM,SIG'] 
+# EXFOR reaction        : (92-U-238(P,F)29-CU-67,CUM,SIG) 
 # incident energy       : 2.0000e+01 MeV - 8.5000e+01 MeV 
 # target                : U-238 
 # product               : Cu-67 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : A.H.Khan 
+# first author          : Khan 
 # institute             : (1CANMCG): McGill University, Montreal,Quebec 
 # reference             : (J,CJC,46,3565,1968) 
 # year                  : 1968 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0723.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0723
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E+01      0.00000E+00      1.70000E-05      3.00000E-06
-      3.00000E+01      0.00000E+00      9.20000E-05      1.80000E-05
-      4.00000E+01      0.00000E+00      1.70000E-04      3.00000E-05
-      5.00000E+01      0.00000E+00      3.60000E-04      7.00000E-05
-      6.00000E+01      0.00000E+00      5.60000E-04      1.10000E-04
-      7.00000E+01      0.00000E+00      3.70000E-04      7.00000E-05
-      7.70000E+01      0.00000E+00      5.80000E-04      1.20000E-04
-      8.50000E+01      0.00000E+00      7.90000E-04      1.60000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+01        0.0000E+00        1.7000E-05        3.0000E-06
+        3.0000E+01        0.0000E+00        9.2000E-05        1.8000E-05
+        4.0000E+01        0.0000E+00        1.7000E-04        3.0000E-05
+        5.0000E+01        0.0000E+00        3.6000E-04        7.0000E-05
+        6.0000E+01        0.0000E+00        5.6000E-04        1.1000E-04
+        7.0000E+01        0.0000E+00        3.7000E-04        7.0000E-05
+        7.7000E+01        0.0000E+00        5.8000E-04        1.2000E-04
+        8.5000E+01        0.0000E+00        7.9000E-04        1.6000E-04

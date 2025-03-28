@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2139-054-0 
-# EXFOR reaction        : ['75-RE-0', ['P,F'], '21-SC-46,,SIG'] 
+# EXFOR reaction        : (75-RE-0(P,F)21-SC-46,,SIG) 
 # incident energy       : 5.5800e+02 MeV - 2.5900e+03 MeV 
 # target                : Re-0 
 # product               : Sc-46 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : S.A.M.Issa 
+# first author          : Issa 
 # institute             : (2GERUH): University Hannover (previously Tech.University Hannover) 
 # reference             : (J,NIM/B,298,19,2013) 
 # year                  : 2013 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2139.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2139
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.58000E+02      1.60000E+00      1.50000E-04      2.00000E-05
-      7.63000E+02      1.50000E+00      4.20000E-04      2.00000E-04
-      1.16500E+03      1.50000E+00      7.50000E-04      1.00000E-04
-      1.57000E+03      1.50000E+00      1.13000E-03      1.00000E-04
-      2.59000E+03      1.00000E+00      2.43000E-03      2.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.5800E+02        1.6000E+00        1.5000E-04        2.0000E-05
+        7.6300E+02        1.5000E+00        4.2000E-04        2.0000E-04
+        1.1650E+03        1.5000E+00        7.5000E-04        1.0000E-04
+        1.5700E+03        1.5000E+00        1.1300E-03        1.0000E-04
+        2.5900E+03        1.0000E+00        2.4300E-03        2.0000E-04

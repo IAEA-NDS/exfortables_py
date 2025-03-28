@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0026-008-0 
-# EXFOR reaction        : ['92-U-238', ['P,X'], '27-CO-60,,SIG'] 
+# EXFOR reaction        : (92-U-238(P,X)27-CO-60,,SIG) 
 # incident energy       : 1.1500e+04 MeV - 3.0000e+05 MeV 
 # target                : U-238 
 # product               : Co-60 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : S.K.Chang 
+# first author          : Chang 
 # institute             : (1USACHI): University of Chicago, IL 
 # reference             : (J,PR/C,9,1138,1974) 
 # year                  : 1974 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0026.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0026
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.15000E+04      0.00000E+00      5.00000E-03      0.00000E+00
-      3.00000E+05      0.00000E+00      5.40000E-03      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1500E+04        0.0000E+00        5.0000E-03        0.0000E+00
+        3.0000E+05        0.0000E+00        5.4000E-03        0.0000E+00

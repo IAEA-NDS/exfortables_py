@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30795-004-0 
-# EXFOR reaction        : ['42-MO-0', ['N,ABS'], ',,SIG,,MXW,DERIV'] 
+# EXFOR reaction        : (42-MO-0(N,ABS),,SIG,,MXW,DERIV) 
 # incident energy       : 2.5000e-08 MeV 
 # target                : Mo-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 27 
-# first author          : M.Salama 
+# first author          : Salama 
 # institute             : (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
 # reference             : (J,AKE,45,(4),282,1984) 
 # year                  : 1984 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30795.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30795
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.50000E-08      0.00000E+00      2.57000E+00      3.20000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-08        0.0000E+00        2.5700E+00        3.2000E-01

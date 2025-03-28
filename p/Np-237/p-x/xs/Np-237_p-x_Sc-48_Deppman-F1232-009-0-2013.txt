@@ -1,17 +1,34 @@
 # entry-subent-pointer  : F1232-009-0 
-# EXFOR reaction        : ['93-NP-237', ['P,X'], 'ELEM/MASS,IND,SIG'] 
+# EXFOR reaction        : (93-NP-237(P,X)ELEM/MASS,,SIG) 
 # incident energy       : 6.6000e+02 MeV 
 # target                : Np-237 
 # product               : Sc-48 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.Deppman 
-# institute             : (3BZLUSP): University de Sao Paulo, Sao Paulo 
+# first author          : Deppman 
+# institute             : (3BZLBZL): Brazil 
 # reference             : (J,PR/C,88,064609,2013) 
 # year                  : 2013 
 # facility              : (SYNCH): Synchrotron 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F12/F1232.x4 
 # nds                   : https://nds.iaea.org/EXFOR/F1232
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.60000E+02      0.00000E+00      4.20000E-04      4.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6000E+02        0.0000E+00        8.0000E-05        0.0000E+00
+        6.6000E+02        0.0000E+00        2.8000E-04        0.0000E+00
+        6.6000E+02        0.0000E+00        2.2000E-04        4.0000E-05
+        6.6000E+02        0.0000E+00        1.5000E-04        0.0000E+00
+        6.6000E+02        0.0000E+00        1.2000E-04        1.0000E-05
+        6.6000E+02        0.0000E+00        6.3000E-04        6.0000E-05
+        6.6000E+02        0.0000E+00        4.2000E-04        4.0000E-05
+        6.6000E+02        0.0000E+00        4.8000E-04        5.0000E-05
+        6.6000E+02        0.0000E+00        1.0000E-05        1.0000E-06
+        6.6000E+02        0.0000E+00        7.7000E-05        8.0000E-06
+        6.6000E+02        0.0000E+00        2.0500E-04        3.0000E-05
+        6.6000E+02        0.0000E+00        2.8000E-04        3.0000E-05
+        6.6000E+02        0.0000E+00        1.0000E-05        1.0000E-05
+        6.6000E+02        0.0000E+00        3.0000E-05        6.0000E-06
+        6.6000E+02        0.0000E+00        2.0000E-04        2.0000E-05
+        6.6000E+02        0.0000E+00        7.0000E-06        0.0000E+00
+        6.6000E+02        0.0000E+00        8.7000E-04        1.7000E-04
+        6.6000E+02        0.0000E+00        8.4000E-05        0.0000E+00

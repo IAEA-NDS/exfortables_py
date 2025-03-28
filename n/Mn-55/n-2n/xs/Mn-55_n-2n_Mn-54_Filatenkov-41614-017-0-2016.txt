@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41614-017-0 
-# EXFOR reaction        : ['25-MN-55', ['N,2N'], '25-MN-54,,SIG'] 
+# EXFOR reaction        : (25-MN-55(N,2N)25-MN-54,,SIG) 
 # incident energy       : 1.3560e+01 MeV - 1.4780e+01 MeV 
 # target                : Mn-55 
 # product               : Mn-54 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,INDC(CCP)-0460,2016) 
 # year                  : 2016 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.35600E+01      0.00000E+00      6.22000E-01      2.51288E-02
-      1.37400E+01      0.00000E+00      6.36000E-01      2.52492E-02
-      1.39600E+01      0.00000E+00      6.61000E-01      2.62417E-02
-      1.41900E+01      0.00000E+00      7.09000E-01      2.58785E-02
-      1.44200E+01      0.00000E+00      7.40000E-01      2.68620E-02
-      1.46100E+01      0.00000E+00      7.64000E-01      2.57468E-02
-      1.47800E+01      0.00000E+00      7.86000E-01      2.68812E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3560E+01        0.0000E+00        6.2200E-01        2.5129E-02
+        1.3740E+01        0.0000E+00        6.3600E-01        2.5249E-02
+        1.3960E+01        0.0000E+00        6.6100E-01        2.6242E-02
+        1.4190E+01        0.0000E+00        7.0900E-01        2.5878E-02
+        1.4420E+01        0.0000E+00        7.4000E-01        2.6862E-02
+        1.4610E+01        0.0000E+00        7.6400E-01        2.5747E-02
+        1.4780E+01        0.0000E+00        7.8600E-01        2.6881E-02

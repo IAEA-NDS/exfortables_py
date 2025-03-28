@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11346-002-0 
-# EXFOR reaction        : ['7-N-0', ['N,EL'], '7-N-0,,SIG'] 
+# EXFOR reaction        : (7-N-0(N,EL)7-N-0,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : N-0 
 # product               : N-0 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : R.W.Bauer 
+# first author          : Bauer 
 # institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 # reference             : (J,NP,47,241,6308) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11346.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11346
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      5.64000E-01      8.73000E-01      9.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        5.6400E-01        8.7300E-01        9.0000E-02

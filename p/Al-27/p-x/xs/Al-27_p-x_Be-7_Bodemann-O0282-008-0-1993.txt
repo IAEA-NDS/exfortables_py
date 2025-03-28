@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0282-008-0 
-# EXFOR reaction        : ['13-AL-27', ['P,X'], '4-BE-7,,SIG'] 
+# EXFOR reaction        : (13-AL-27(P,X)4-BE-7,,SIG) 
 # incident energy       : 3.1600e+01 MeV - 9.8500e+01 MeV 
 # target                : Al-27 
 # product               : Be-7 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Bodemann 
+# first author          : Bodemann 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,82,9,1993) 
 # year                  : 1993 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0282.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0282
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.16000E+01      2.47000E+00      6.13000E-05      1.84000E-05
-      5.40000E+01      1.37000E+00      5.21000E-04      6.59000E-05
-      6.29000E+01      1.21000E+00      6.29000E-04      8.10000E-05
-      7.10000E+01      9.29000E-01      6.92000E-04      7.77000E-05
-      8.56000E+01      6.84000E-01      8.29000E-04      9.02000E-05
-      9.39000E+01      5.02000E-01      9.80000E-04      1.15000E-04
-      9.85000E+01      3.46000E-01      9.12000E-04      9.80000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.1600E+01        2.4700E+00        6.1300E-05        1.8400E-05
+        5.4000E+01        1.3700E+00        5.2100E-04        6.5900E-05
+        6.2900E+01        1.2100E+00        6.2900E-04        8.1000E-05
+        7.1000E+01        9.2900E-01        6.9200E-04        7.7700E-05
+        8.5600E+01        6.8400E-01        8.2900E-04        9.0200E-05
+        9.3900E+01        5.0200E-01        9.8000E-04        1.1500E-04
+        9.8500E+01        3.4600E-01        9.1200E-04        9.8000E-05

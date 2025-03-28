@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C2171-003-0 
-# EXFOR reaction        : ['11-NA-23', ['D,T'], '11-NA-22,,SIG'] 
+# EXFOR reaction        : (11-NA-23(D,T)11-NA-22,,SIG) 
 # incident energy       : 1.5200e+01 MeV 
 # target                : Na-23 
 # product               : Na-22 
 # level energy          : - 
 # MF-MT number          : 3 - 105 
-# first author          : L.H.Bowen 
+# first author          : Bowen 
 # institute             : (1USAMIT): Massachusetts Institute of Technology, Cambridge, MA 
 # reference             : (J,PR,127,1698,1962) 
 # year                  : 1962 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C21/C2171.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2171
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.52000E+01      0.00000E+00      1.22000E-02      2.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5200E+01        0.0000E+00        1.2200E-02        2.0000E-03

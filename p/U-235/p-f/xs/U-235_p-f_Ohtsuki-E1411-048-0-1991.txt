@@ -1,11 +1,11 @@
 # entry-subent-pointer  : E1411-048-0 
-# EXFOR reaction        : ['92-U-235', ['P,F'], '38-SR-92,', ['CUM'], ',SIG'] 
+# EXFOR reaction        : (92-U-235(P,F)38-SR-92,(CUM),SIG) 
 # incident energy       : 9.0000e+00 MeV - 1.8000e+01 MeV 
 # target                : U-235 
 # product               : Sr-92 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : T.Ohtsuki 
+# first author          : Ohtsuki 
 # institute             : (2JPNTMU): Tokyo Metropolitan University , Hachioji, Tokyo 
 # reference             : (J,PR/C,44,1405,1991) 
 # year                  : 1991 
@@ -13,13 +13,13 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E14/E1411.x4 
 # nds                   : https://nds.iaea.org/EXFOR/E1411
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.00000E+00      0.00000E+00      2.60000E-04      2.00000E-05
-      1.02000E+01      0.00000E+00      1.66000E-03      9.00000E-05
-      1.14000E+01      0.00000E+00      4.06000E-03      2.40000E-04
-      1.20000E+01      0.00000E+00      5.47000E-03      1.40000E-04
-      1.25000E+01      0.00000E+00      9.61000E-03      5.90000E-04
-      1.36000E+01      0.00000E+00      1.25500E-02      5.10000E-04
-      1.46000E+01      0.00000E+00      1.85100E-02      6.60000E-04
-      1.56000E+01      0.00000E+00      2.43200E-02      1.37000E-03
-      1.80000E+01      0.00000E+00      3.31000E-02      1.61000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.0000E+00        0.0000E+00        2.6000E-04        2.0000E-05
+        1.0200E+01        0.0000E+00        1.6600E-03        9.0000E-05
+        1.1400E+01        0.0000E+00        4.0600E-03        2.4000E-04
+        1.2000E+01        0.0000E+00        5.4700E-03        1.4000E-04
+        1.2500E+01        0.0000E+00        9.6100E-03        5.9000E-04
+        1.3600E+01        0.0000E+00        1.2550E-02        5.1000E-04
+        1.4600E+01        0.0000E+00        1.8510E-02        6.6000E-04
+        1.5600E+01        0.0000E+00        2.4320E-02        1.3700E-03
+        1.8000E+01        0.0000E+00        3.3100E-02        1.6100E-03

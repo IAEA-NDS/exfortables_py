@@ -1,11 +1,11 @@
 # entry-subent-pointer  : K2023-125-0 
-# EXFOR reaction        : ['47-AG-0', ['G,X'], '27-CO-60,IND,SIG,,BRA'] 
+# EXFOR reaction        : (47-AG-0(G,X)27-CO-60,IND,SIG,,BRA) 
 # incident energy       : 4.0000e+02 MeV - 1.1000e+03 MeV 
 # target                : Ag-0 
 # product               : Co-60 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : H.Matsumura 
+# first author          : Matsumura 
 # institute             : (2JPNKNZ): Kanazawa University , Kanazawa 
 # reference             : (J,RCA,88,(6),313,200006) 
 # year                  : 2000 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K20/K2023.x4 
 # nds                   : https://nds.iaea.org/EXFOR/K2023
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.10000E+03      0.00000E+00      2.52000E-06      5.60000E-07
-      4.00000E+02      0.00000E+00      2.10000E-06      1.40000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1000E+03        0.0000E+00        2.5200E-06        5.6000E-07
+        4.0000E+02        0.0000E+00        2.1000E-06        1.4000E-06

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0466-006-1 
-# EXFOR reaction        : ['65-TB-159', ['P,F'], '37-RB-83,CUM,SIG'] 
+# EXFOR reaction        : (65-TB-159(P,F)37-RB-83,CUM,SIG) 
 # incident energy       : 6.0000e+02 MeV 
 # target                : Tb-159 
 # product               : Rb-83 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : M.Lagarde-Simonoff 
+# first author          : Lagarde-Simonoff 
 # institute             : (2FR GRA): Centre d'Etudes Nucleaires de Bordeaux-Gradignan 
 # reference             : (J,PR/C,20,1498,1979) 
 # year                  : 1979 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O04/O0466.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0466
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      6.00000E+02      0.00000E+00      1.00000E-04      4.00000E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+02        0.0000E+00        1.0000E-04        4.0000E-05

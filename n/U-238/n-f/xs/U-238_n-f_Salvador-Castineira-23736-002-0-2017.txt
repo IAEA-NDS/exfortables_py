@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23736-002-0 
-# EXFOR reaction        : ['92-U-238', ['N,F'], ',,SIG'] 
+# EXFOR reaction        : (92-U-238(N,F),,SIG) 
 # incident energy       : 1.8000e+00 MeV - 2.4000e+00 MeV 
 # target                : U-238 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : P.Salvador-Castineira 
+# first author          : Salvador-Castineira 
 # institute             : (2UK NPL): National Physics Laboratory , Teddington 
 # reference             : (J,EPJ/CS,146,04050,2017) 
 # year                  : 2017 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/237/23736.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23736
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.80000E+00      4.30000E-02      4.80000E-01      2.35200E-02
-      1.80000E+00      4.30000E-02      5.10000E-01      2.44800E-02
-      2.00000E+00      4.10000E-02      5.40000E-01      2.59200E-02
-      2.00000E+00      4.10000E-02      5.50000E-01      2.58500E-02
-      2.40000E+00      3.70000E-02      5.60000E-01      2.68800E-02
-      2.40000E+00      3.70000E-02      5.60000E-01      2.63200E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8000E+00        4.3000E-02        4.8000E-01        2.3520E-02
+        1.8000E+00        4.3000E-02        5.1000E-01        2.4480E-02
+        2.0000E+00        4.1000E-02        5.4000E-01        2.5920E-02
+        2.0000E+00        4.1000E-02        5.5000E-01        2.5850E-02
+        2.4000E+00        3.7000E-02        5.6000E-01        2.6880E-02
+        2.4000E+00        3.7000E-02        5.6000E-01        2.6320E-02

@@ -1,18 +1,17 @@
 # entry-subent-pointer  : 40609-002-0 
-# EXFOR reaction        : ['92-U-235', ['N,TOT'], ',,SIG'] 
-# incident energy       : 2.0000e-03 MeV - 2.4500e-02 MeV 
+# EXFOR reaction        : (92-U-235(N,TOT),,SIG) 
+# incident energy       : 2.4500e-02 MeV 
 # target                : U-235 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : V.P.Vertebnyy 
-# institute             : (4UKRIJI): Institute Yadernykh Issledovaniy Ukrainskoi A.N., Kiev 
-# reference             : (C,80KIEV,2,254,198009) 
+# first author          : Vertebnyy 
+# institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+# reference             : ((C,80KIEV,2,254,1980)=(R,INDC(CCP)-169,(3),254,1980)) 
 # year                  : 1980 
-# facility              : None 
+# facility              : (REAC): Reactor 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40609.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40609
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.00000E-03      0.00000E+00      1.99000E+01      1.00000E-01
-      2.45000E-02      0.00000E+00      1.40400E+01      2.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4500E-02        2.1000E-03        1.4040E+01        2.0000E-02

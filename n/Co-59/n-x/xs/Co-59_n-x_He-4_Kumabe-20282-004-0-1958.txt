@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20282-004-0 
-# EXFOR reaction        : ['27-CO-59', ['N,X'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,X)2-HE-4,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Co-59 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : I.Kumabe 
+# first author          : Kumabe 
 # institute             : (2JPNKTO): Kyoto University , Kyoto 
 # reference             : (J,JPJ,13,129,5802) 
 # year                  : 1958 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20282.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20282
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      7.00000E-02      8.40000E-02      1.26000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        7.0000E-02        8.4000E-02        1.2600E-02

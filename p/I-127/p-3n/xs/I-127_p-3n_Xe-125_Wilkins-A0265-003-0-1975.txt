@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0265-003-0 
-# EXFOR reaction        : ['53-I-127', ['P,3N'], '54-XE-125,,SIG'] 
+# EXFOR reaction        : (53-I-127(P,3N)54-XE-125,,SIG) 
 # incident energy       : 4.5150e+01 MeV - 6.2360e+01 MeV 
 # target                : I-127 
 # product               : Xe-125 
 # level energy          : - 
 # MF-MT number          : 3 - 17 
-# first author          : S.R.Wilkins 
+# first author          : Wilkins 
 # institute             : (1USADAV): University of California, Davis, CA 
 # reference             : (J,ARI,26,279,1975) 
 # year                  : 1975 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0265.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0265
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.51500E+01      0.00000E+00      2.96300E-01      3.55560E-02
-      4.82700E+01      0.00000E+00      2.11900E-01      2.54280E-02
-      5.36800E+01      0.00000E+00      1.87000E-01      2.24400E-02
-      5.66200E+01      0.00000E+00      1.40000E-01      1.68000E-02
-      5.92200E+01      0.00000E+00      1.22000E-01      1.46400E-02
-      5.94800E+01      0.00000E+00      1.25000E-01      1.50000E-02
-      6.22100E+01      0.00000E+00      1.33000E-01      1.59600E-02
-      6.23600E+01      0.00000E+00      1.35000E-01      1.62000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5150E+01        0.0000E+00        2.9630E-01        3.5556E-02
+        4.8270E+01        0.0000E+00        2.1190E-01        2.5428E-02
+        5.3680E+01        0.0000E+00        1.8700E-01        2.2440E-02
+        5.6620E+01        0.0000E+00        1.4000E-01        1.6800E-02
+        5.9220E+01        0.0000E+00        1.2200E-01        1.4640E-02
+        5.9480E+01        0.0000E+00        1.2500E-01        1.5000E-02
+        6.2210E+01        0.0000E+00        1.3300E-01        1.5960E-02
+        6.2360E+01        0.0000E+00        1.3500E-01        1.6200E-02

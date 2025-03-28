@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O1618-005-0 
-# EXFOR reaction        : ['36-KR-78', ['P,2N'], '37-RB-77,,SIG'] 
+# EXFOR reaction        : (36-KR-78(P,2N)37-RB-77,,SIG) 
 # incident energy       : 2.0950e+01 MeV - 2.9070e+01 MeV 
 # target                : Kr-78 
 # product               : Rb-77 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : F.Helus 
+# first author          : Helus 
 # institute             : (2GERDKZ): Deutsches Krebsforschungszentrum, Heidelberg 
 # reference             : (J,JRN/L,153,417,1991) 
 # year                  : 1991 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O16/O1618.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O1618
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.09500E+01      6.00000E-02      1.00200E-02      2.00400E-03
-      2.30500E+01      6.00000E-02      2.85000E-01      5.70000E-02
-      2.45600E+01      6.00000E-02      6.94000E-01      1.38800E-01
-      2.60200E+01      6.00000E-02      9.38000E-01      1.87600E-01
-      2.75200E+01      6.00000E-02      1.13200E+00      2.26400E-01
-      2.90700E+01      6.00000E-02      1.36700E+00      2.73400E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0950E+01        6.0000E-02        1.0020E-02        2.0040E-03
+        2.3050E+01        6.0000E-02        2.8500E-01        5.7000E-02
+        2.4560E+01        6.0000E-02        6.9400E-01        1.3880E-01
+        2.6020E+01        6.0000E-02        9.3800E-01        1.8760E-01
+        2.7520E+01        6.0000E-02        1.1320E+00        2.2640E-01
+        2.9070E+01        6.0000E-02        1.3670E+00        2.7340E-01

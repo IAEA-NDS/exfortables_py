@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20939-005-0 
-# EXFOR reaction        : ['94-PU-239', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (94-PU-239(N,TOT),,SIG) 
 # incident energy       : 1.0230e-04 MeV - 1.6320e-04 MeV 
 # target                : Pu-239 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : C.A.Uttley 
+# first author          : Uttley 
 # institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 # reference             : (C,65ANTWERP,,535(98),196507) 
 # year                  : 1965 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20939.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20939
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.02300E-04      0.00000E+00      2.00100E-01      0.00000E+00
-      1.08600E-04      0.00000E+00      7.00700E-01      0.00000E+00
-      1.63200E-04      0.00000E+00      3.02900E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0230E-04        0.0000E+00        2.0010E-01        0.0000E+00
+        1.0860E-04        0.0000E+00        7.0070E-01        0.0000E+00
+        1.6320E-04        0.0000E+00        3.0290E-01        0.0000E+00

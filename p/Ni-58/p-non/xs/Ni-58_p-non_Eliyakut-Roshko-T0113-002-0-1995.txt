@@ -1,11 +1,11 @@
 # entry-subent-pointer  : T0113-002-0 
-# EXFOR reaction        : ['28-NI-58', ['P,NON'], ',,SIG'] 
+# EXFOR reaction        : (28-NI-58(P,NON),,SIG) 
 # incident energy       : 2.2700e+01 MeV - 4.7900e+01 MeV 
 # target                : Ni-58 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : T.Eliyakut-Roshko 
+# first author          : Eliyakut-Roshko 
 # institute             : (1CANMNA): University of Manitoba, Cyclotron Laboratory , Winnipeg, Manitoba 
 # reference             : (J,PR/C,51,1295,199503) 
 # year                  : 1995 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T01/T0113.x4 
 # nds                   : https://nds.iaea.org/EXFOR/T0113
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.27000E+01      0.00000E+00      1.08500E+00      2.10000E-02
-      2.51000E+01      0.00000E+00      1.08200E+00      2.20000E-02
-      3.01000E+01      0.00000E+00      1.05800E+00      1.60000E-02
-      3.48000E+01      0.00000E+00      1.04100E+00      2.50000E-02
-      3.97000E+01      0.00000E+00      1.00300E+00      1.30000E-02
-      4.52000E+01      0.00000E+00      9.62000E-01      1.40000E-02
-      4.79000E+01      0.00000E+00      9.70000E-01      1.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2700E+01        0.0000E+00        1.0850E+00        2.1000E-02
+        2.5100E+01        0.0000E+00        1.0820E+00        2.2000E-02
+        3.0100E+01        0.0000E+00        1.0580E+00        1.6000E-02
+        3.4800E+01        0.0000E+00        1.0410E+00        2.5000E-02
+        3.9700E+01        0.0000E+00        1.0030E+00        1.3000E-02
+        4.5200E+01        0.0000E+00        9.6200E-01        1.4000E-02
+        4.7900E+01        0.0000E+00        9.7000E-01        1.0000E-02

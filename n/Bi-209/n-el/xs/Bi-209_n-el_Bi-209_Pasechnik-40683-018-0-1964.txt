@@ -1,18 +1,18 @@
 # entry-subent-pointer  : 40683-018-0 
-# EXFOR reaction        : ['83-BI-209', ['N,EL'], '83-BI-209,,SIG'] 
+# EXFOR reaction        : (83-BI-209(N,EL)83-BI-209,,SIG) 
 # incident energy       : 5.0000e-01 MeV - 8.0000e-01 MeV 
 # target                : Bi-209 
 # product               : Bi-209 
 # level energy          : - 
 # MF-MT number          : 3 - 2 
-# first author          : M.V.Pasechnik 
-# institute             : (4UKRIJI): Institute Yadernykh Issledovaniy Ukrainskoi A.N., Kiev 
-# reference             : (J,AE,16,(3),207,196403) 
+# first author          : Pasechnik 
+# institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+# reference             : (J,SJA,16,246,1964) 
 # year                  : 1964 
 # facility              : None 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40683.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40683
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.00000E-01      5.00000E-02      6.40000E+00      2.20000E-01
-      8.00000E-01      5.00000E-02      5.30000E+00      1.60000E-01
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E-01        0.0000E+00        6.4000E+00        2.2000E-01
+        8.0000E-01        0.0000E+00        5.3000E+00        1.6000E-01

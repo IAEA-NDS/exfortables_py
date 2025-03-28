@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 30061-003-0 
-# EXFOR reaction        : ['29-CU-63', ['N,2N'], '29-CU-62,,SIG'] 
+# EXFOR reaction        : (29-CU-63(N,2N)29-CU-62,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Cu-63 
 # product               : Cu-62 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.Chatterjee 
+# first author          : Chatterjee 
 # institute             : (3INDBOS): Bose Institute, Kolkata 
 # reference             : (P,BARC-305,30,196710) 
 # year                  : 1967 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30061.x4 
 # nds                   : https://nds.iaea.org/EXFOR/30061
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      1.00000E-01      5.09000E-01      5.10000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        1.0000E-01        5.0900E-01        5.1000E-02

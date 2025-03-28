@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20285-004-0 
-# EXFOR reaction        : ['4-BE-9', ['N,X'], '2-HE-4,,SIG'] 
+# EXFOR reaction        : (4-BE-9(N,X)2-HE-4,,SIG) 
 # incident energy       : 1.4100e+01 MeV 
 # target                : Be-9 
 # product               : He-4 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Sakisaka 
+# first author          : Sakisaka 
 # institute             : (2JPNKON): Konan University , Kobe 
 # reference             : (J,JPJ,14,554,195905) 
 # year                  : 1959 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20285.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20285
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.41000E+01      2.00000E-01      5.40000E-01      9.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        2.0000E-01        5.4000E-01        9.0000E-02

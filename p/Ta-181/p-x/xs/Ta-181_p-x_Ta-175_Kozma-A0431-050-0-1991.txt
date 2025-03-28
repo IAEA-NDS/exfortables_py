@@ -1,11 +1,11 @@
 # entry-subent-pointer  : A0431-050-0 
-# EXFOR reaction        : ['73-TA-181', ['P,X'], '73-TA-175,CUM,SIG'] 
+# EXFOR reaction        : (73-TA-181(P,X)73-TA-175,CUM,SIG) 
 # incident energy       : 3.6500e+03 MeV 
 # target                : Ta-181 
 # product               : Ta-175 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : P.Kozma 
+# first author          : Kozma 
 # institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 # reference             : (J,JP/G,17,675,1991) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0431.x4 
 # nds                   : https://nds.iaea.org/EXFOR/A0431
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.65000E+03      0.00000E+00      1.93000E-02      1.80000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6500E+03        0.0000E+00        1.9300E-02        1.8000E-03

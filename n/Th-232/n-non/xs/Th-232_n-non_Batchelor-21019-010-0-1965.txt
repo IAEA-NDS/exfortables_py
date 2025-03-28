@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 21019-010-0 
-# EXFOR reaction        : ['90-TH-232', ['N,NON'], ',,SIG,,,DERIV'] 
+# EXFOR reaction        : (90-TH-232(N,NON),,SIG,,,DERIV) 
 # incident energy       : 3.0000e+00 MeV - 7.0000e+00 MeV 
 # target                : Th-232 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : R.Batchelor 
+# first author          : Batchelor 
 # institute             : (2UK ALD): Atomic Weapons Establishment (AWE), Aldermaston 
 # reference             : (J,NP,65,236,1965) 
 # year                  : 1965 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21019.x4 
 # nds                   : https://nds.iaea.org/EXFOR/21019
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E+00      7.00000E-02      3.26000E+00      0.00000E+00
-      4.00000E+00      6.00000E-02      3.03000E+00      0.00000E+00
-      7.00000E+00      1.20000E-01      3.35000E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+00        7.0000E-02        3.2600E+00        0.0000E+00
+        4.0000E+00        6.0000E-02        3.0300E+00        0.0000E+00
+        7.0000E+00        1.2000E-01        3.3500E+00        0.0000E+00

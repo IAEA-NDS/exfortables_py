@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22414-008-0 
-# EXFOR reaction        : ['14-SI-29', ['N,P'], '13-AL-29,,SIG'] 
+# EXFOR reaction        : (14-SI-29(N,P)13-AL-29,,SIG) 
 # incident energy       : 1.6047e+01 MeV - 2.0272e+01 MeV 
 # target                : Si-29 
 # product               : Al-29 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : A.Fessler 
+# first author          : Fessler 
 # institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 # reference             : (J,NSE,134,(2),171,2000) 
 # year                  : 2000 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22414.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22414
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.60470E+01      0.00000E+00      1.33220E-01      5.57000E-03
-      1.70040E+01      0.00000E+00      1.17990E-01      5.95000E-03
-      1.77490E+01      0.00000E+00      9.64100E-02      5.17000E-03
-      1.90660E+01      0.00000E+00      8.74900E-02      5.99000E-03
-      2.02720E+01      0.00000E+00      6.28100E-02      6.31000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6047E+01        0.0000E+00        1.3322E-01        5.5700E-03
+        1.7004E+01        0.0000E+00        1.1799E-01        5.9500E-03
+        1.7749E+01        0.0000E+00        9.6410E-02        5.1700E-03
+        1.9066E+01        0.0000E+00        8.7490E-02        5.9900E-03
+        2.0272E+01        0.0000E+00        6.2810E-02        6.3100E-03

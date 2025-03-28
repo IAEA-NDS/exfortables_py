@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31789-002-0 
-# EXFOR reaction        : ['27-CO-59', ['N,2N'], '27-CO-58,,SIG,,FIS'] 
+# EXFOR reaction        : (27-CO-59(N,2N)27-CO-58,,SIG,,FIS) 
 # incident energy       : 1.4200e+00 MeV 
 # target                : Co-59 
 # product               : Co-58 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : M.Schulc 
+# first author          : Schulc 
 # institute             : (3CZRUJV): Research Centre Rez, Husinec-Rez 
 # reference             : (J,ARI,143,132,2019) 
 # year                  : 2019 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31789.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31789
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+00      0.00000E+00      4.19900E-04      1.46965E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+00        0.0000E+00        4.1990E-04        1.4697E-05

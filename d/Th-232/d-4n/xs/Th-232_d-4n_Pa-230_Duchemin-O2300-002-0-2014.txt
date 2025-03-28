@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O2300-002-0 
-# EXFOR reaction        : ['90-TH-232', ['D,4N'], '91-PA-230,,SIG'] 
+# EXFOR reaction        : (90-TH-232(D,4N)91-PA-230,,SIG) 
 # incident energy       : 1.9870e+01 MeV - 3.0040e+01 MeV 
 # target                : Th-232 
 # product               : Pa-230 
 # level energy          : - 
 # MF-MT number          : 3 - 37 
-# first author          : C.Duchemin 
+# first author          : Duchemin 
 # institute             : (2FR NTE): Universite de Nantes 
 # reference             : (J,NDS,119,267,2014) 
 # year                  : 2014 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2300.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O2300
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.98700E+01      0.00000E+00      3.66200E-03      0.00000E+00
-      2.15700E+01      0.00000E+00      5.42200E-02      0.00000E+00
-      2.31200E+01      0.00000E+00      2.33500E-01      3.33700E-02
-      2.35500E+01      0.00000E+00      2.50700E-01      3.81400E-02
-      2.54700E+01      0.00000E+00      2.95500E-01      4.38600E-02
-      2.78900E+01      0.00000E+00      2.34500E-01      3.81400E-02
-      2.84700E+01      0.00000E+00      2.02100E-01      2.86000E-02
-      3.00400E+01      0.00000E+00      1.50700E-01      2.00200E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9870E+01        0.0000E+00        3.6620E-03        0.0000E+00
+        2.1570E+01        0.0000E+00        5.4220E-02        0.0000E+00
+        2.3120E+01        0.0000E+00        2.3350E-01        3.3370E-02
+        2.3550E+01        0.0000E+00        2.5070E-01        3.8140E-02
+        2.5470E+01        0.0000E+00        2.9550E-01        4.3860E-02
+        2.7890E+01        0.0000E+00        2.3450E-01        3.8140E-02
+        2.8470E+01        0.0000E+00        2.0210E-01        2.8600E-02
+        3.0040E+01        0.0000E+00        1.5070E-01        2.0020E-02

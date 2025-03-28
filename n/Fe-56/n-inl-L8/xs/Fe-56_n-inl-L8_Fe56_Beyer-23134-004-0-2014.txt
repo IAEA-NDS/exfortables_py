@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23134-004-0 
-# EXFOR reaction        : ['26-FE-56', ['N,INL'], '26-FE-56,PAR,SIG'] 
+# EXFOR reaction        : (26-FE-56(N,INL)26-FE-56,PAR,SIG) 
 # incident energy       : 4.8180e+00 MeV - 9.5620e+00 MeV 
 # target                : Fe-56 
 # product               : Fe-56 
 # level energy          : 3.3880e+00 MeV 
 # MF-MT number          : 3 - 58 
-# first author          : R.Beyer 
+# first author          : Beyer 
 # institute             : (2GERZFK): Helmholtz-Zentrum Dresden-Rossendorf, Dresden 
 # reference             : (J,NP/A,927,41,2014) 
 # year                  : 2014 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23134.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23134
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      4.81800E+00      0.00000E+00      2.60000E-02      7.00000E-03
-      5.42800E+00      0.00000E+00      2.10000E-02      5.00000E-03
-      6.16300E+00      0.00000E+00      2.10000E-02      4.00000E-03
-      7.06000E+00      0.00000E+00      3.70000E-02      6.00000E-03
-      8.16800E+00      0.00000E+00      5.10000E-02      7.00000E-03
-      9.56200E+00      0.00000E+00      5.10000E-02      1.80000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.8180E+00        0.0000E+00        2.6000E-02        7.0000E-03
+        5.4280E+00        0.0000E+00        2.1000E-02        5.0000E-03
+        6.1630E+00        0.0000E+00        2.1000E-02        4.0000E-03
+        7.0600E+00        0.0000E+00        3.7000E-02        6.0000E-03
+        8.1680E+00        0.0000E+00        5.1000E-02        7.0000E-03
+        9.5620E+00        0.0000E+00        5.1000E-02        1.8000E-02

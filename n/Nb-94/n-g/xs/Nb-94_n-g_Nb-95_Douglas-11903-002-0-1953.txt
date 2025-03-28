@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11903-002-0 
-# EXFOR reaction        : ['41-NB-94', ['N,G'], '41-NB-95,,SIG,,SPA'] 
+# EXFOR reaction        : (41-NB-94(N,G)41-NB-95,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Nb-94 
 # product               : Nb-95 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : D.Douglas 
+# first author          : Douglas 
 # institute             : (1USAKAP): Knolls Atomic Power Laboratory, Schenectady, NY 
 # reference             : (J,PR,92,369,5310) 
 # year                  : 1953 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11903.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11903
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      1.50000E+01      4.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.5000E+01        4.0000E+00

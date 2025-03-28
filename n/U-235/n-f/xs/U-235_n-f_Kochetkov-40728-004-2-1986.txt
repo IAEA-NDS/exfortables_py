@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40728-004-2 
-# EXFOR reaction        : ['92-U-235', ['N,F'], ',,SIG,,SPA'] 
+# EXFOR reaction        : (92-U-235(N,F),,SIG,,SPA) 
 # incident energy       : 1.0000e+00 MeV 
 # target                : U-235 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 18 
-# first author          : A.L.Kochetkov 
+# first author          : Kochetkov 
 # institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
 # reference             : (J,AE,60,271,1986) 
 # year                  : 1986 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/407/40728.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40728
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.00000E+00      0.00000E+00      1.89480E+00      6.00000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        1.8948E+00        6.0000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12370-002-0 
-# EXFOR reaction        : ['92-U-0', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (92-U-0(N,TOT),,SIG) 
 # incident energy       : 2.0199e-02 MeV - 2.6506e-01 MeV 
 # target                : U-0 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : H.H.Barschall 
+# first author          : Barschall 
 # institute             : (1USAWIS): University of Wisconsin, Madison, WI 
 # reference             : (R,LA-1060,1950) 
 # year                  : 1950 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/123/12370.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12370
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.01990E-02      1.50000E-02      1.52560E+01      0.00000E+00
-      4.11910E-02      1.50000E-02      1.30080E+01      0.00000E+00
-      6.52850E-02      1.50000E-02      1.26140E+01      0.00000E+00
-      9.28080E-02      1.50000E-02      1.21360E+01      0.00000E+00
-      1.14520E-01      1.50000E-02      1.15740E+01      0.00000E+00
-      1.43451E-01      1.50000E-02      1.16870E+01      0.00000E+00
-      2.29416E-01      1.50000E-02      1.00850E+01      0.00000E+00
-      2.65063E-01      1.50000E-02      9.69100E+00      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0199E-02        1.5000E-02        1.5256E+01        0.0000E+00
+        4.1191E-02        1.5000E-02        1.3008E+01        0.0000E+00
+        6.5285E-02        1.5000E-02        1.2614E+01        0.0000E+00
+        9.2808E-02        1.5000E-02        1.2136E+01        0.0000E+00
+        1.1452E-01        1.5000E-02        1.1574E+01        0.0000E+00
+        1.4345E-01        1.5000E-02        1.1687E+01        0.0000E+00
+        2.2942E-01        1.5000E-02        1.0085E+01        0.0000E+00
+        2.6506E-01        1.5000E-02        9.6910E+00        0.0000E+00

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0722-015-0 
-# EXFOR reaction        : ['30-ZN-0', ['P,X'], '31-GA-67,,SIG'] 
+# EXFOR reaction        : (30-ZN-0(P,X)31-GA-67,,SIG) 
 # incident energy       : 1.3400e+02 MeV - 2.5430e+02 MeV 
 # target                : Zn-0 
 # product               : Ga-67 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : M.Fassbender 
+# first author          : Fassbender 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,ARI,48,1221,1997) 
 # year                  : 1997 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0722.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0722
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.54300E+02      0.00000E+00      1.20000E-03      5.00000E-04
-      2.14700E+02      0.00000E+00      1.20000E-03      5.00000E-04
-      1.72000E+02      0.00000E+00      3.00000E-03      1.00000E-03
-      1.57000E+02      0.00000E+00      2.90000E-03      1.00000E-03
-      1.34000E+02      0.00000E+00      2.80000E-03      1.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5430E+02        0.0000E+00        1.2000E-03        5.0000E-04
+        2.1470E+02        0.0000E+00        1.2000E-03        5.0000E-04
+        1.7200E+02        0.0000E+00        3.0000E-03        1.0000E-03
+        1.5700E+02        0.0000E+00        2.9000E-03        1.0000E-03
+        1.3400E+02        0.0000E+00        2.8000E-03        1.0000E-03

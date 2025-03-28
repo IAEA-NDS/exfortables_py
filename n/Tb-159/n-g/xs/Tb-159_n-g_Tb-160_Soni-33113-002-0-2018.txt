@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 33113-002-0 
-# EXFOR reaction        : ['65-TB-159', ['N,G'], '65-TB-160,,SIG'] 
+# EXFOR reaction        : (65-TB-159(N,G)65-TB-160,,SIG) 
 # incident energy       : 5.0800e+00 MeV - 1.6630e+01 MeV 
 # target                : Tb-159 
 # product               : Tb-160 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : B.K.Soni 
+# first author          : Soni 
 # institute             : (3INDIND): India 
 # reference             : (J,ARI,141,10,2018) 
 # year                  : 2018 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33113.x4 
 # nds                   : https://nds.iaea.org/EXFOR/33113
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.08000E+00      1.65000E-01      9.93110E-04      1.29410E-04
-      1.24700E+01      8.25000E-01      1.28563E-03      1.45400E-04
-      1.66300E+01      9.50000E-01      6.18910E-04      8.25300E-05
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0800E+00        1.6500E-01        9.9311E-04        1.2941E-04
+        1.2470E+01        8.2500E-01        1.2856E-03        1.4540E-04
+        1.6630E+01        9.5000E-01        6.1891E-04        8.2530E-05

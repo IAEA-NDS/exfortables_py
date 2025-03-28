@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 13023-015-0 
-# EXFOR reaction        : ['13-AL-27', ['N,A'], '11-NA-24,,SIG,,FIS'] 
+# EXFOR reaction        : (13-AL-27(N,A)11-NA-24,,SIG,,FIS) 
 # incident energy       : 1.5000e+00 MeV 
 # target                : Al-27 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : J.D.Jenkins 
+# first author          : Jenkins 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,ANS,14,381,7106) 
 # year                  : 1971 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/130/13023.x4 
 # nds                   : https://nds.iaea.org/EXFOR/13023
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.50000E+00      0.00000E+00      6.10000E-04      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        6.1000E-04        0.0000E+00

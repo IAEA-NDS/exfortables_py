@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40789-002-0 
-# EXFOR reaction        : ['39-Y-89', ['N,2N'], '39-Y-88-L1,,SIG'] 
+# EXFOR reaction        : (39-Y-89(N,2N)39-Y-88-L1,,SIG) 
 # incident energy       : 1.4700e+01 MeV 
 # target                : Y-89 
 # product               : Y-88-L1 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : V.L.Glagolev 
+# first author          : Glagolev 
 # institute             : (4RUSICP): Institute of Chemical Physics , Moscow 
 # reference             : (J,ZET,40,743,196103) 
 # year                  : 1961 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/407/40789.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40789
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47000E+01      2.50000E-01      4.00000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        2.5000E-01        4.0000E-01        0.0000E+00

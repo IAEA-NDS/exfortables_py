@@ -1,24 +1,24 @@
 # entry-subent-pointer  : C2026-004-0 
-# EXFOR reaction        : ['28-NI-61', ['P,G'], '29-CU-62,,SIG'] 
+# EXFOR reaction        : (28-NI-61(P,G)29-CU-62,,SIG) 
 # incident energy       : 1.9500e+00 MeV - 3.0300e+00 MeV 
 # target                : Ni-61 
 # product               : Cu-62 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : A.Simon 
-# institute             : (2UK UK): United Kingdom 
+# first author          : Simon 
+# institute             : (1USAMSU): Michigan State University, East Lansing, MI 
 # reference             : (J,PR/C,87,055802,2013) 
 # year                  : 2013 
 # facility              : (VDGT): Tandem van de Graaff 
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C20/C2026.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C2026
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.95000E+00      0.00000E+00      3.40000E-04      4.00000E-05
-      2.14000E+00      0.00000E+00      4.90000E-04      6.00000E-05
-      2.34000E+00      0.00000E+00      6.40000E-04      8.00000E-05
-      2.54000E+00      0.00000E+00      7.50000E-04      9.00000E-05
-      2.74000E+00      0.00000E+00      9.20000E-04      1.10000E-04
-      2.84000E+00      0.00000E+00      8.90000E-04      1.10000E-04
-      2.94000E+00      0.00000E+00      9.60000E-04      1.20000E-04
-      3.03000E+00      0.00000E+00      8.30000E-04      1.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9500E+00        0.0000E+00        3.4000E-04        4.0000E-05
+        2.1400E+00        0.0000E+00        4.9000E-04        6.0000E-05
+        2.3400E+00        0.0000E+00        6.4000E-04        8.0000E-05
+        2.5400E+00        0.0000E+00        7.5000E-04        9.0000E-05
+        2.7400E+00        0.0000E+00        9.2000E-04        1.1000E-04
+        2.8400E+00        0.0000E+00        8.9000E-04        1.1000E-04
+        2.9400E+00        0.0000E+00        9.6000E-04        1.2000E-04
+        3.0300E+00        0.0000E+00        8.3000E-04        1.0000E-04

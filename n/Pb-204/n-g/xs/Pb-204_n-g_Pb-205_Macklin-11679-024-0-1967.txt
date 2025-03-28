@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11679-024-0 
-# EXFOR reaction        : ['82-PB-204', ['N,G'], '82-PB-205,,SIG'] 
+# EXFOR reaction        : (82-PB-204(N,G)82-PB-205,,SIG) 
 # incident energy       : 3.0000e-02 MeV - 1.5700e-01 MeV 
 # target                : Pb-204 
 # product               : Pb-205 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : R.L.Macklin 
+# first author          : Macklin 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,PR,159,1007,67) 
 # year                  : 1967 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11679.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11679
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      3.00000E-02      1.00000E-02      4.26000E-02      5.40000E-03
-      5.00000E-02      1.00000E-02      3.19000E-02      3.30000E-03
-      8.50000E-02      1.70000E-02      3.56000E-02      4.00000E-03
-      1.04000E-01      1.50000E-02      2.76000E-02      3.70000E-03
-      1.57000E-01      2.10000E-02      2.54000E-02      6.40000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        1.0000E-02        4.2600E-02        5.4000E-03
+        5.0000E-02        1.0000E-02        3.1900E-02        3.3000E-03
+        8.5000E-02        1.7000E-02        3.5600E-02        4.0000E-03
+        1.0400E-01        1.5000E-02        2.7600E-02        3.7000E-03
+        1.5700E-01        2.1000E-02        2.5400E-02        6.4000E-03

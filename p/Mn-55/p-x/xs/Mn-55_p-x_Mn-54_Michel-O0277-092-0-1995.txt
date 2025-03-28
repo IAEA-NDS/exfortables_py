@@ -1,11 +1,11 @@
 # entry-subent-pointer  : O0277-092-0 
-# EXFOR reaction        : ['25-MN-55', ['P,X'], '25-MN-54,,SIG'] 
+# EXFOR reaction        : (25-MN-55(P,X)25-MN-54,,SIG) 
 # incident energy       : 8.0000e+02 MeV - 2.6000e+03 MeV 
 # target                : Mn-55 
 # product               : Mn-54 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.Michel 
+# first author          : Michel 
 # institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
 # reference             : (J,NIM/B,103,183,1995) 
 # year                  : 1995 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0277.x4 
 # nds                   : https://nds.iaea.org/EXFOR/O0277
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.00000E+02      0.00000E+00      4.75000E-02      4.00000E-03
-      1.20000E+03      0.00000E+00      4.33000E-02      4.00000E-03
-      1.60000E+03      0.00000E+00      3.38000E-02      3.70000E-03
-      2.60000E+03      0.00000E+00      2.22000E-02      2.70000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+02        0.0000E+00        4.7500E-02        4.0000E-03
+        1.2000E+03        0.0000E+00        4.3300E-02        4.0000E-03
+        1.6000E+03        0.0000E+00        3.3800E-02        3.7000E-03
+        2.6000E+03        0.0000E+00        2.2200E-02        2.7000E-03

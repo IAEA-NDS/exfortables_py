@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22325-007-0 
-# EXFOR reaction        : ['32-GE-76', ['N,2N'], '32-GE-75-M,,SIG'] 
+# EXFOR reaction        : (32-GE-76(N,2N)32-GE-75-M,,SIG) 
 # incident energy       : 1.3700e+01 MeV - 1.4950e+01 MeV 
 # target                : Ge-76 
 # product               : Ge-75-M 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : Y.Kasugai 
+# first author          : Kasugai 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : (C,94GATLIN,2,935,1994) 
 # year                  : 1994 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22325.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22325
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.37000E+01      5.00000E-02      7.97000E-01      3.90000E-02
-      1.40300E+01      5.00000E-02      7.94000E-01      3.90000E-02
-      1.43600E+01      5.00000E-02      8.32000E-01      4.10000E-02
-      1.46600E+01      5.00000E-02      9.14000E-01      4.50000E-02
-      1.49500E+01      5.00000E-02      9.58000E-01      4.70000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3700E+01        5.0000E-02        7.9700E-01        3.9000E-02
+        1.4030E+01        5.0000E-02        7.9400E-01        3.9000E-02
+        1.4360E+01        5.0000E-02        8.3200E-01        4.1000E-02
+        1.4660E+01        5.0000E-02        9.1400E-01        4.5000E-02
+        1.4950E+01        5.0000E-02        9.5800E-01        4.7000E-02

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20221-006-0 
-# EXFOR reaction        : ['63-EU-151', ['N,G'], '63-EU-152-M1,,SIG,,MXW'] 
+# EXFOR reaction        : (63-EU-151(N,G)63-EU-152-M1,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Eu-151 
 # product               : Eu-152-M1 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : F.Poortmans 
+# first author          : Poortmans 
 # institute             : (2BLGMOL): SCK CEN (Belgian Nuclear Research Centre), Mol 
 # reference             : (J,NP/A,172,489,197109) 
 # year                  : 1971 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20221.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20221
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      2.80900E+03      1.20000E+02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.8090E+03        1.2000E+02

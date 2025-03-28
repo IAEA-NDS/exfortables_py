@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 41240-071-0 
-# EXFOR reaction        : ['95-AM-241', ['N,2N'], '95-AM-240,,SIG'] 
+# EXFOR reaction        : (95-AM-241(N,2N)95-AM-240,,SIG) 
 # incident energy       : 1.3420e+01 MeV - 1.4860e+01 MeV 
 # target                : Am-241 
 # product               : Am-240 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : A.A.Filatenkov 
+# first author          : Filatenkov 
 # institute             : (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
 # reference             : (R,RI-252,1999) 
 # year                  : 1999 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41240.x4 
 # nds                   : https://nds.iaea.org/EXFOR/41240
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.34200E+01      0.00000E+00      2.53000E-01      2.40000E-02
-      1.34800E+01      0.00000E+00      2.47000E-01      2.00000E-02
-      1.35600E+01      0.00000E+00      2.39000E-01      2.50000E-02
-      1.40900E+01      0.00000E+00      2.07000E-01      2.20000E-02
-      1.42100E+01      0.00000E+00      2.29000E-01      2.50000E-02
-      1.46900E+01      0.00000E+00      1.99000E-01      2.20000E-02
-      1.48400E+01      0.00000E+00      1.93000E-01      2.20000E-02
-      1.48600E+01      0.00000E+00      2.15000E-01      1.50000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3420E+01        0.0000E+00        2.5300E-01        2.4000E-02
+        1.3480E+01        0.0000E+00        2.4700E-01        2.0000E-02
+        1.3560E+01        0.0000E+00        2.3900E-01        2.5000E-02
+        1.4090E+01        0.0000E+00        2.0700E-01        2.2000E-02
+        1.4210E+01        0.0000E+00        2.2900E-01        2.5000E-02
+        1.4690E+01        0.0000E+00        1.9900E-01        2.2000E-02
+        1.4840E+01        0.0000E+00        1.9300E-01        2.2000E-02
+        1.4860E+01        0.0000E+00        2.1500E-01        1.5000E-02

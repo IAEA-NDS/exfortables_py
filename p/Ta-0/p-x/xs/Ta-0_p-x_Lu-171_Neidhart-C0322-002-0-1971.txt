@@ -1,11 +1,11 @@
 # entry-subent-pointer  : C0322-002-0 
-# EXFOR reaction        : ['73-TA-0', ['P,X'], 'ELEM/MASS,CUM,SIG'] 
+# EXFOR reaction        : (73-TA-0(P,X)ELEM/MASS,CUM,SIG) 
 # incident energy       : 1.9000e+04 MeV 
 # target                : Ta-0 
 # product               : Lu-171 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : B.Neidhart 
+# first author          : Neidhart 
 # institute             : (2GERTHD): Technische Universitaet Darmstadt 
 # reference             : (J,JIN,33,3227,1971) 
 # year                  : 1971 
@@ -13,5 +13,24 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0322.x4 
 # nds                   : https://nds.iaea.org/EXFOR/C0322
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.90000E+04      0.00000E+00      2.34000E-02      4.40000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9000E+04        0.0000E+00        1.3700E-02        2.6000E-03
+        1.9000E+04        0.0000E+00        2.0900E-02        2.7000E-03
+        1.9000E+04        0.0000E+00        1.6900E-02        4.7000E-03
+        1.9000E+04        0.0000E+00        2.9600E-03        8.9000E-04
+        1.9000E+04        0.0000E+00        1.4800E-02        1.3000E-03
+        1.9000E+04        0.0000E+00        1.2000E-05        6.0000E-06
+        1.9000E+04        0.0000E+00        1.9400E-02        2.3000E-03
+        1.9000E+04        0.0000E+00        1.7300E-02        3.3000E-03
+        1.9000E+04        0.0000E+00        1.9300E-02        2.2000E-03
+        1.9000E+04        0.0000E+00        2.2200E-02        1.8000E-03
+        1.9000E+04        0.0000E+00        1.2600E-02        1.5000E-03
+        1.9000E+04        0.0000E+00        1.0300E-02        2.7000E-03
+        1.9000E+04        0.0000E+00        1.5400E-02        4.1000E-03
+        1.9000E+04        0.0000E+00        5.1000E-03        1.1000E-03
+        1.9000E+04        0.0000E+00        1.7400E-02        1.2000E-03
+        1.9000E+04        0.0000E+00        2.4100E-02        4.6000E-03
+        1.9000E+04        0.0000E+00        1.7800E-02        1.6000E-03
+        1.9000E+04        0.0000E+00        2.8700E-02        3.4000E-03
+        1.9000E+04        0.0000E+00        3.9400E-02        4.1000E-03
+        1.9000E+04        0.0000E+00        2.3400E-02        4.4000E-03

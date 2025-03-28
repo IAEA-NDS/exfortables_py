@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12335-003-0 
-# EXFOR reaction        : ['92-U-233', ['N,G'], '92-U-234,,SIG,,SPA'] 
+# EXFOR reaction        : (92-U-233(N,G)92-U-234,,SIG,,SPA) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : U-233 
 # product               : U-234 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : J.Halperin 
+# first author          : Halperin 
 # institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 # reference             : (J,NSE,16,245,1963) 
 # year                  : 1963 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/123/12335.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12335
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      6.13000E+01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        6.1300E+01        0.0000E+00

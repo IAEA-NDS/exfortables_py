@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22187-007-0 
-# EXFOR reaction        : ['16-S-32', ['N,T'], '15-P-30,,SIG'] 
+# EXFOR reaction        : (16-S-32(N,T)15-P-30,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : S-32 
 # product               : P-30 
 # level energy          : - 
 # MF-MT number          : 3 - 105 
-# first author          : K.Kawade 
+# first author          : Kawade 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : ((R,JAERI-M-90-171,1990)=(R,NEANDC(J)-154,1990)=(R,INDC(JPN)-141,1990)) 
 # year                  : 1990 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22187.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22187
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      2.00000E-01      1.60000E-05      8.00000E-06
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        2.0000E-01        1.6000E-05        8.0000E-06

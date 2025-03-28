@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40223-020-1 
-# EXFOR reaction        : ['39-Y-89', ['N,P'], '38-SR-89,,SIG'] 
+# EXFOR reaction        : (39-Y-89(N,P)38-SR-89,,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : Y-89 
 # product               : Sr-89 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : V.N.Levkovskii 
+# first author          : Levkovskii 
 # institute             : (4KASKAZ): Institute Yadernoi Fiziki, Almaty 
 # reference             : (J,SNP,8,4,1969) 
 # year                  : 1969 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40223.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40223
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      2.50000E-02      5.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        2.5000E-02        5.0000E-03

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 31670-003-0 
-# EXFOR reaction        : ['10-NE-22', ['N,G'], '10-NE-23,,SIG,,MXW'] 
+# EXFOR reaction        : (10-NE-22(N,G)10-NE-23,,SIG,,MXW) 
 # incident energy       : 2.5300e-08 MeV 
 # target                : Ne-22 
 # product               : Ne-23 
 # level energy          : - 
 # MF-MT number          : 3 - 102 
-# first author          : T.Belgya 
+# first author          : Belgya 
 # institute             : (3HUNII): MTA Izotop Intezete, Budapest 
 # reference             : (S,AIP-1090,367,2009) 
 # year                  : 2009 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31670.x4 
 # nds                   : https://nds.iaea.org/EXFOR/31670
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.53000E-08      0.00000E+00      5.27000E-02      7.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        5.2700E-02        7.0000E-04

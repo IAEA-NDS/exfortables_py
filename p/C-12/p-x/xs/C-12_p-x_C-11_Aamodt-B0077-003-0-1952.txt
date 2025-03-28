@@ -1,11 +1,11 @@
 # entry-subent-pointer  : B0077-003-0 
-# EXFOR reaction        : ['6-C-12', ['P,X'], '6-C-11,IND,SIG,,A,EXP'] 
+# EXFOR reaction        : (6-C-12(P,X)6-C-11,IND,SIG,,A,EXP) 
 # incident energy       : 9.3000e+01 MeV - 3.4000e+02 MeV 
 # target                : C-12 
 # product               : C-11 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : R.L.Aamodt 
+# first author          : Aamodt 
 # institute             : (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
 # reference             : (J,PR,88,739,1952) 
 # year                  : 1952 
@@ -13,12 +13,12 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0077.x4 
 # nds                   : https://nds.iaea.org/EXFOR/B0077
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      9.30000E+01      0.00000E+00      7.05000E-02      3.60000E-03
-      1.44000E+02      0.00000E+00      5.65000E-02      1.50000E-03
-      1.94000E+02      0.00000E+00      5.20000E-02      1.50000E-03
-      2.45000E+02      0.00000E+00      4.98000E-02      1.20000E-03
-      2.63000E+02      0.00000E+00      5.05000E-02      2.60000E-03
-      2.93000E+02      0.00000E+00      4.77000E-02      1.00000E-03
-      3.13000E+02      0.00000E+00      4.76000E-02      2.10000E-03
-      3.40000E+02      0.00000E+00      4.12000E-02      6.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.3000E+01        0.0000E+00        7.0500E-02        3.6000E-03
+        1.4400E+02        0.0000E+00        5.6500E-02        1.5000E-03
+        1.9400E+02        0.0000E+00        5.2000E-02        1.5000E-03
+        2.4500E+02        0.0000E+00        4.9800E-02        1.2000E-03
+        2.6300E+02        0.0000E+00        5.0500E-02        2.6000E-03
+        2.9300E+02        0.0000E+00        4.7700E-02        1.0000E-03
+        3.1300E+02        0.0000E+00        4.7600E-02        2.1000E-03
+        3.4000E+02        0.0000E+00        4.1200E-02        6.0000E-04

@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 22716-004-0 
-# EXFOR reaction        : ['82-PB-206', ['N,TOT'], ',,SIG'] 
+# EXFOR reaction        : (82-PB-206(N,TOT),,SIG) 
 # incident energy       : 1.2600e-06 MeV - 1.9700e-03 MeV 
 # target                : Pb-206 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 1 
-# first author          : L.Koester 
+# first author          : Koester 
 # institute             : (2GERMUN): Technische Universitaet Muenchen 
 # reference             : (J,PR/C,51,3363,1995) 
 # year                  : 1995 
@@ -13,7 +13,7 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22716.x4 
 # nds                   : https://nds.iaea.org/EXFOR/22716
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.26000E-06      0.00000E+00      1.17990E+01      5.00000E-03
-      5.19000E-06      0.00000E+00      1.08270E+01      7.00000E-03
-      1.97000E-03      0.00000E+00      1.08030E+01      6.00000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2600E-06        0.0000E+00        1.1799E+01        5.0000E-03
+        5.1900E-06        0.0000E+00        1.0827E+01        7.0000E-03
+        1.9700E-03        0.0000E+00        1.0803E+01        6.0000E-03

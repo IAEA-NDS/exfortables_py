@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40226-035-0 
-# EXFOR reaction        : ['53-I-127', ['N,A'], '51-SB-124-G,M+,SIG'] 
+# EXFOR reaction        : (53-I-127(N,A)51-SB-124-G,M+,SIG) 
 # incident energy       : 1.4800e+01 MeV 
 # target                : I-127 
 # product               : Sb-124-G 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : V.N.Levkovskii 
+# first author          : Levkovskii 
 # institute             : (4KASKAZ): Institute Yadernoi Fiziki, Almaty 
 # reference             : (J,SNP,10,25,1970) 
 # year                  : 1970 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40226.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40226
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.48000E+01      0.00000E+00      1.80000E-03      4.00000E-04
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        1.8000E-03        4.0000E-04

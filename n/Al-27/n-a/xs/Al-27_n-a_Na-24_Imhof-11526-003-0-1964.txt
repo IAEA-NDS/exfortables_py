@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 11526-003-0 
-# EXFOR reaction        : ['13-AL-27', ['N,A'], '11-NA-24,,SIG'] 
+# EXFOR reaction        : (13-AL-27(N,A)11-NA-24,,SIG) 
 # incident energy       : 1.2660e+01 MeV - 1.7980e+01 MeV 
 # target                : Al-27 
 # product               : Na-24 
 # level energy          : - 
 # MF-MT number          : 3 - 107 
-# first author          : W.L.Imhof 
+# first author          : Imhof 
 # institute             : (1USALMS): Lockheed Missiles and Space Division , Palo Alto, CA 
 # reference             : (W,IMHOF,1964) 
 # year                  : 1964 
@@ -13,8 +13,8 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11526.x4 
 # nds                   : https://nds.iaea.org/EXFOR/11526
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.26600E+01      0.00000E+00      1.21600E-01      1.82400E-02
-      1.52600E+01      0.00000E+00      1.06500E-01      1.59750E-02
-      1.69600E+01      0.00000E+00      7.84000E-02      1.17600E-02
-      1.79800E+01      0.00000E+00      6.14000E-02      9.21000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2660E+01        0.0000E+00        1.2160E-01        1.8240E-02
+        1.5260E+01        0.0000E+00        1.0650E-01        1.5975E-02
+        1.6960E+01        0.0000E+00        7.8400E-02        1.1760E-02
+        1.7980E+01        0.0000E+00        6.1400E-02        9.2100E-03

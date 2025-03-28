@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23032-004-0 
-# EXFOR reaction        : ['14-SI-29', ['N,P'], '13-AL-29,,SIG'] 
+# EXFOR reaction        : (14-SI-29(N,P)13-AL-29,,SIG) 
 # incident energy       : 4.5600e+00 MeV - 5.9300e+00 MeV 
 # target                : Si-29 
 # product               : Al-29 
 # level energy          : - 
 # MF-MT number          : 3 - 103 
-# first author          : M.Furuta 
+# first author          : Furuta 
 # institute             : (2JPNNAG): Nagoya University , Nagoya 
 # reference             : (J,ANE,35,1652,2008) 
 # year                  : 2008 
@@ -13,9 +13,9 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23032.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23032
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      5.93000E+00      0.00000E+00      2.70000E-02      7.29000E-03
-      5.61000E+00      0.00000E+00      2.24000E-02      2.68800E-03
-      5.26000E+00      0.00000E+00      1.96000E-02      5.09600E-03
-      5.01000E+00      0.00000E+00      1.42000E-02      2.41400E-03
-      4.56000E+00      0.00000E+00      9.60000E-03      1.34400E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.9300E+00        0.0000E+00        2.7000E-02        7.2900E-03
+        5.6100E+00        0.0000E+00        2.2400E-02        2.6880E-03
+        5.2600E+00        0.0000E+00        1.9600E-02        5.0960E-03
+        5.0100E+00        0.0000E+00        1.4200E-02        2.4140E-03
+        4.5600E+00        0.0000E+00        9.6000E-03        1.3440E-03

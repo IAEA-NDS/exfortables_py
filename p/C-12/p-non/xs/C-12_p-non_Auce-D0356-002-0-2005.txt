@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D0356-002-0 
-# EXFOR reaction        : ['6-C-12', ['P,NON'], ',,SIG'] 
+# EXFOR reaction        : (6-C-12(P,NON),,SIG) 
 # incident energy       : 8.1000e+01 MeV - 1.8000e+02 MeV 
 # target                : C-12 
 # product               : - 
 # level energy          : - 
 # MF-MT number          : 3 - 3 
-# first author          : A.Auce 
+# first author          : Auce 
 # institute             : (2SWDUPP): Uppsala University , Uppsala 
 # reference             : (J,PR/C,71,064606,2005) 
 # year                  : 2005 
@@ -13,10 +13,10 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D03/D0356.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D0356
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      8.10000E+01      3.00000E-01      2.79000E-01      0.00000E+00
-      1.00000E+02      3.00000E-01      2.75000E-01      0.00000E+00
-      1.19000E+02      3.00000E-01      2.37000E-01      0.00000E+00
-      1.41000E+02      3.00000E-01      2.22000E-01      0.00000E+00
-      1.58000E+02      3.00000E-01      2.12000E-01      0.00000E+00
-      1.80000E+02      3.00000E-01      2.11000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.1000E+01        3.0000E-01        2.7900E-01        0.0000E+00
+        1.0000E+02        3.0000E-01        2.7500E-01        0.0000E+00
+        1.1900E+02        3.0000E-01        2.3700E-01        0.0000E+00
+        1.4100E+02        3.0000E-01        2.2200E-01        0.0000E+00
+        1.5800E+02        3.0000E-01        2.1200E-01        0.0000E+00
+        1.8000E+02        3.0000E-01        2.1100E-01        0.0000E+00

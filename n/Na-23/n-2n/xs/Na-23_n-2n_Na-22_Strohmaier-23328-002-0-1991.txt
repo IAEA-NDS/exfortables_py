@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 23328-002-0 
-# EXFOR reaction        : ['11-NA-23', ['N,2N'], '11-NA-22,,SIG'] 
+# EXFOR reaction        : (11-NA-23(N,2N)11-NA-22,,SIG) 
 # incident energy       : 1.9449e+01 MeV 
 # target                : Na-23 
 # product               : Na-22 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : B.Strohmaier 
+# first author          : Strohmaier 
 # institute             : (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
 # reference             : (C,91JUELIC,,663,1991) 
 # year                  : 1991 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/233/23328.x4 
 # nds                   : https://nds.iaea.org/EXFOR/23328
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.94490E+01      0.00000E+00      1.14500E-01      6.60000E-03
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9449E+01        0.0000E+00        1.1450E-01        6.6000E-03

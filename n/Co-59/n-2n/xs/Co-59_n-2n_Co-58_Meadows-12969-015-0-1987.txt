@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 12969-015-0 
-# EXFOR reaction        : ['27-CO-59', ['N,2N'], '27-CO-58,,SIG'] 
+# EXFOR reaction        : (27-CO-59(N,2N)27-CO-58,,SIG) 
 # incident energy       : 1.4740e+01 MeV 
 # target                : Co-59 
 # product               : Co-58 
 # level energy          : - 
 # MF-MT number          : 3 - 16 
-# first author          : J.W.Meadows 
+# first author          : Meadows 
 # institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 # reference             : (J,ANE,14,489,1987) 
 # year                  : 1987 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12969.x4 
 # nds                   : https://nds.iaea.org/EXFOR/12969
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.47400E+01      0.00000E+00      7.54300E-01      3.46978E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4740E+01        0.0000E+00        7.5430E-01        3.4698E-02

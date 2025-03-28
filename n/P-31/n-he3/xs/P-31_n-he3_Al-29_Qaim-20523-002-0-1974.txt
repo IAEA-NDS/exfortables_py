@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 20523-002-0 
-# EXFOR reaction        : ['15-P-31', ['N,HE3'], '13-AL-29,,SIG'] 
+# EXFOR reaction        : (15-P-31(N,HE3)13-AL-29,,SIG) 
 # incident energy       : 1.4600e+01 MeV 
 # target                : P-31 
 # product               : Al-29 
 # level energy          : - 
 # MF-MT number          : 3 - 106 
-# first author          : S.M.Qaim 
+# first author          : Qaim 
 # institute             : (2GERJUL): Forschungszentrum Juelich, Juelich 
 # reference             : (J,JIN,36,239,197402) 
 # year                  : 1974 
@@ -13,5 +13,5 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20523.x4 
 # nds                   : https://nds.iaea.org/EXFOR/20523
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.46000E+01      4.00000E-01      1.30000E-05      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        4.0000E-01        1.3000E-05        0.0000E+00

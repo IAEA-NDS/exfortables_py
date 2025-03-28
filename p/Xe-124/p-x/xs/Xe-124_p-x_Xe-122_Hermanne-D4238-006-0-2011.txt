@@ -1,11 +1,11 @@
 # entry-subent-pointer  : D4238-006-0 
-# EXFOR reaction        : ['54-XE-124', ['P,X'], '54-XE-122,CUM,SIG'] 
+# EXFOR reaction        : (54-XE-124(P,X)54-XE-122,CUM,SIG) 
 # incident energy       : 2.7300e+01 MeV - 3.7200e+01 MeV 
 # target                : Xe-124 
 # product               : Xe-122 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : A.Hermanne 
+# first author          : Hermanne 
 # institute             : (2GERGER): Germany 
 # reference             : (J,ARI,69,358,2011) 
 # year                  : 2011 
@@ -13,11 +13,11 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4238.x4 
 # nds                   : https://nds.iaea.org/EXFOR/D4238
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.73000E+01      4.00000E-01      7.60000E-02      1.00000E-02
-      2.86000E+01      4.00000E-01      8.60000E-02      1.10000E-02
-      2.98000E+01      5.00000E-01      2.45000E-01      3.20000E-02
-      3.16000E+01      4.00000E-01      2.98000E-01      3.90000E-02
-      3.38000E+01      4.00000E-01      3.53000E-01      4.60000E-02
-      3.56000E+01      3.00000E-01      3.83000E-01      5.00000E-02
-      3.72000E+01      2.00000E-01      4.02000E-01      5.20000E-02
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7300E+01        4.0000E-01        7.6000E-02        1.0000E-02
+        2.8600E+01        4.0000E-01        8.6000E-02        1.1000E-02
+        2.9800E+01        5.0000E-01        2.4500E-01        3.2000E-02
+        3.1600E+01        4.0000E-01        2.9800E-01        3.9000E-02
+        3.3800E+01        4.0000E-01        3.5300E-01        4.6000E-02
+        3.5600E+01        3.0000E-01        3.8300E-01        5.0000E-02
+        3.7200E+01        2.0000E-01        4.0200E-01        5.2000E-02

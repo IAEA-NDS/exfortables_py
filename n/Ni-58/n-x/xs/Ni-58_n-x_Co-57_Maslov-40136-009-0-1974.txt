@@ -1,11 +1,11 @@
 # entry-subent-pointer  : 40136-009-0 
-# EXFOR reaction        : ['28-NI-58', ['N,X'], '27-CO-57,,SIG'] 
+# EXFOR reaction        : (28-NI-58(N,X)27-CO-57,,SIG) 
 # incident energy       : 1.4200e+01 MeV - 1.4600e+01 MeV 
 # target                : Ni-58 
 # product               : Co-57 
 # level energy          : - 
 # MF-MT number          : 3 - 10 
-# first author          : G.N.Maslov 
+# first author          : Maslov 
 # institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 # reference             : (R,INDC(CCP)-42,10,1974) 
 # year                  : 1974 
@@ -13,6 +13,6 @@
 # git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40136.x4 
 # nds                   : https://nds.iaea.org/EXFOR/40136
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      1.42000E+01      2.00000E-01      6.58000E-01      0.00000E+00
-      1.46000E+01      2.00000E-01      8.12000E-01      0.00000E+00
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        2.0000E-01        6.5800E-01        0.0000E+00
+        1.4600E+01        2.0000E-01        8.1200E-01        0.0000E+00
