@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 58-CE-138(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 58 
+#   A: 138 
+#   Nuclide: 58-CE-138 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 139 
+#   Nuclide: 58-CE-139 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23420-009-2 (entry-subentry-pointer) 
+#   Reaction code: (58-CE-138(N,G)58-CE-139,,SIG,,MXW,DERIV) 
+#   First author: F.Kappeler 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,PR/C,53,1397,1996) 
+#   Year:  1996 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/234/23420.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23420
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00               NAN        0.0000E+00
+        3.0000E-02        0.0000E+00        1.7900E-01        5.0000E-03

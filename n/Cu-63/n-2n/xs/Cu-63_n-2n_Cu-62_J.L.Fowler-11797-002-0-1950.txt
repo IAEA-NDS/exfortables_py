@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 29-CU-63(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.1440e+01 MeV - 1.2700e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 62 
+#   Nuclide: 29-CU-62 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11797-002-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-63(N,2N)29-CU-62,,SIG) 
+#   First author: J.L.Fowler 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,77,787,1950) 
+#   Year:  1950 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/117/11797.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11797
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1440E+01        0.0000E+00        1.0000E-02        0.0000E+00
+        1.2050E+01        0.0000E+00        5.0000E-02        0.0000E+00
+        1.2280E+01        0.0000E+00        9.0000E-02        0.0000E+00
+        1.2400E+01        0.0000E+00        1.3500E-01        0.0000E+00
+        1.2700E+01        0.0000E+00        1.6000E-01        0.0000E+00

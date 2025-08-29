@@ -1,0 +1,53 @@
+# Header: 
+#   Title: 10-NE-20(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 10 
+#   A: 20 
+#   Nuclide: 10-NE-20 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.4690e+01 MeV - 7.6020e+01 MeV 
+# Residual: 
+#   Z: 9 
+#   A: 18 
+#   Nuclide: 9-F-18 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0175-002-0 (entry-subentry-pointer) 
+#   Reaction code: (10-NE-20(D,X)9-F-18,CUM,SIG) 
+#   First author: H.Backhausen 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,RCA,29,1,1981) 
+#   Year:  1981 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A01/A0175.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0175
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4690E+01        5.0000E-01        1.1600E-02        2.3000E-03
+        2.5660E+01        5.0000E-01        8.1000E-03        1.6000E-03
+        2.7140E+01        5.0000E-01        6.0000E-03        1.2000E-03
+        2.9060E+01        5.0000E-01        6.1000E-03        1.1000E-03
+        3.1020E+01        5.0000E-01        6.1000E-03        1.2000E-03
+        3.4960E+01        5.0000E-01        5.8000E-03        1.1000E-03
+        3.5870E+01        5.0000E-01        5.0000E-03        1.0000E-03
+        3.7910E+01        5.0000E-01        5.8000E-03        1.2000E-03
+        3.9200E+01        5.0000E-01        8.8000E-03        1.7000E-03
+        4.3930E+01        5.0000E-01        1.5200E-02        3.0000E-03
+        4.5870E+01        5.0000E-01        1.6000E-02        3.2000E-03
+        4.7200E+01        5.0000E-01        1.8200E-02        3.6000E-03
+        4.8580E+01        5.0000E-01        1.7100E-02        3.4000E-03
+        5.4970E+01        5.0000E-01        2.4500E-02        4.8000E-03
+        5.5940E+01        5.0000E-01        1.9000E-02        3.7000E-03
+        5.7230E+01        5.0000E-01        2.4300E-02        4.8000E-03
+        5.7540E+01        5.0000E-01        2.3600E-02        5.2000E-03
+        5.7970E+01        5.0000E-01        2.0900E-02        4.1000E-03
+        5.8880E+01        5.0000E-01        2.4100E-02        4.0000E-03
+        6.0170E+01        5.0000E-01        1.9500E-02        4.3000E-03
+        7.2660E+01        5.0000E-01        2.3600E-02        4.6000E-03
+        7.2960E+01        5.0000E-01        1.8700E-02        3.7000E-03
+        7.4410E+01        5.0000E-01        2.5800E-02        5.1000E-03
+        7.6020E+01        5.0000E-01        2.4000E-02        4.7000E-03

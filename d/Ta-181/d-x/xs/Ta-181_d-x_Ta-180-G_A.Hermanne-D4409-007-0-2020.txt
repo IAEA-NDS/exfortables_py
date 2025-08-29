@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 73-TA-181(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3900e+01 MeV - 4.8600e+01 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 180 
+#   Nuclide: 73-TA-180-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4409-007-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-181(D,X)73-TA-180-G,,SIG) 
+#   First author: A.Hermanne 
+#   Institute:  (2BLGVUB): Vrije Universiteit Brussels, Brussels 
+#   Reference:  (J,NIM/B,481,82,2020) 
+#   Year:  2020 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4409.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4409
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.8600E+01        2.0000E-01        1.2024E-01        1.3000E-02
+        4.6900E+01        2.0000E-01        1.2742E-01        1.4000E-02
+        4.5100E+01        3.0000E-01        1.2748E-01        1.4000E-02
+        4.3300E+01        4.0000E-01        1.3481E-01        1.5000E-02
+        4.1900E+01        5.0000E-01        1.3660E-01        1.5000E-02
+        4.0500E+01        6.0000E-01        1.4070E-01        1.5000E-02
+        3.9100E+01        7.0000E-01        1.5185E-01        1.7000E-02
+        3.7600E+01        8.0000E-01        1.5208E-01        1.7000E-02
+        3.6100E+01        9.0000E-01        1.4061E-01        1.5000E-02
+        3.4500E+01        1.0000E+00        1.3970E-01        1.5000E-02
+        3.2900E+01        1.1000E+00        1.3690E-01        1.5000E-02
+        3.1300E+01        1.2000E+00        1.3010E-01        1.4000E-02
+        2.9500E+01        1.3000E+00        1.0547E-01        1.2000E-02
+        2.7700E+01        1.4000E+00        9.4830E-02        1.0000E-02
+        2.5800E+01        1.5000E+00        7.0670E-02        8.0000E-03
+        2.3800E+01        1.6000E+00        4.7870E-02        5.0000E-03
+        2.1600E+01        1.7000E+00        3.1640E-02        3.0000E-03
+        1.9300E+01        1.8000E+00        2.4820E-02        3.0000E-03
+        1.6800E+01        2.0000E+00        2.9410E-02        3.0000E-03
+        1.3900E+01        2.2000E+00        1.3380E-02        1.0000E-03

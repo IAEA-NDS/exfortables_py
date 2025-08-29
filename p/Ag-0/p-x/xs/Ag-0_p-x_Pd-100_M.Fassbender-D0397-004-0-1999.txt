@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 47-AG-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 47 
+#   A: 0 
+#   Nuclide: 47-AG-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.5700e+01 MeV - 9.9500e+01 MeV 
+# Residual: 
+#   Z: 46 
+#   A: 100 
+#   Nuclide: 46-PD-100 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0397-004-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-0(P,X)46-PD-100,CUM,SIG) 
+#   First author: M.Fassbender 
+#   Institute:  (3SAFNAC): National Accelerator Centre, Faure 
+#   Reference:  (J,RCA,87,87,1999) 
+#   Year:  1999 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D03/D0397.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0397
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5700E+01        0.0000E+00        1.8000E-03        4.0000E-04
+        5.0400E+01        0.0000E+00        2.9000E-03        6.0000E-04
+        5.5700E+01        0.0000E+00        9.2000E-03        9.0000E-04
+        5.9200E+01        0.0000E+00        1.0800E-02        1.0000E-03
+        6.0700E+01        0.0000E+00        1.5200E-02        1.5000E-03
+        6.2300E+01        0.0000E+00        1.3400E-02        1.2000E-03
+        6.5300E+01        0.0000E+00        1.3900E-02        1.3000E-03
+        6.6100E+01        0.0000E+00        1.4600E-02        1.5000E-03
+        6.9700E+01        0.0000E+00        1.1500E-02        1.1000E-03
+        7.4700E+01        0.0000E+00        9.8000E-03        9.0000E-04
+        8.0100E+01        0.0000E+00        9.3000E-03        9.0000E-04
+        8.5200E+01        0.0000E+00        1.0800E-02        1.0000E-03
+        9.0100E+01        0.0000E+00        1.2100E-02        1.1000E-03
+        9.4900E+01        0.0000E+00        1.5200E-02        1.4000E-03
+        9.9500E+01        0.0000E+00        1.7500E-02        1.5000E-03

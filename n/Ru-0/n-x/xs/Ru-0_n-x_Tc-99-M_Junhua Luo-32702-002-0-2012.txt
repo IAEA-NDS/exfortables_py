@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32702-002-0 
-# EXFOR reaction        : (44-RU-0(N,X)43-TC-99-M,IND,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4800e+01 MeV 
-# target                : Ru-0 
-# product               : Tc-99-M 
-# level energy          : - 
-# MF-MT number          : 3 - 10 
-# first author          : Junhua Luo 
-# institute             : (3CPRHXU): Hexi University , Zhangye 
-# reference             : (J,RPC,81,495,2012) 
-# year                  : 2012 
-# facility              : (NGEN): Neutron generator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32702.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32702
+# Header: 
+#   Title: 44-RU-0(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 44 
+#   A: 0 
+#   Nuclide: 44-RU-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 99 
+#   Nuclide: 43-TC-99-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32702-002-0 (entry-subentry-pointer) 
+#   Reaction code: (44-RU-0(N,X)43-TC-99-M,IND,SIG) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRHXU): Hexi University , Zhangye 
+#   Reference:  (J,RPC,81,495,2012) 
+#   Year:  2012 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32702.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32702
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3500E+01        2.0000E-01        9.6000E-03        1.5000E-03

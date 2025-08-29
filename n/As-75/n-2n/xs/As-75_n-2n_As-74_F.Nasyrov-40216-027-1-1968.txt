@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 33-AS-75(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 33 
+#   A: 75 
+#   Nuclide: 33-AS-75 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4200e+00 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 74 
+#   Nuclide: 33-AS-74 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40216-027-1 (entry-subentry-pointer) 
+#   Reaction code: (33-AS-75(N,2N)33-AS-74,,SIG,,FIS,DERIV) 
+#   First author: F.Nasyrov 
+#   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference:  (J,AE,25,(5),437,1968) 
+#   Year:  1968 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40216.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40216
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+00        4.0000E-02        3.0400E-04        3.6000E-05

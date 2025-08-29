@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 30671-003-0 
-# EXFOR reaction        : (26-FE-54(N,A)24-CR-51,,SIG) 
-# incident energy       : 1.2370e+01 MeV - 1.8230e+01 MeV 
-# target                : Fe-54 
-# product               : Cr-51 
-# level energy          : - 
-# MF-MT number          : 3 - 107 
-# first author          : Lu Han-Lin 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (R,INDC(CPR)-16,198908) 
-# year                  : 1989 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30671.x4 
-# nds                   : https://nds.iaea.org/EXFOR/30671
+# Header: 
+#   Title: 26-FE-54(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 54 
+#   Nuclide: 26-FE-54 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.2370e+01 MeV - 1.8230e+01 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 51 
+#   Nuclide: 24-CR-51 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30671-003-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-54(N,A)24-CR-51,,SIG) 
+#   First author: Lu Han-Lin 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (R,INDC(CPR)-16,198908) 
+#   Year:  1989 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30671.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30671
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.2370E+01        2.6000E-01        7.2000E-02        4.2000E-03

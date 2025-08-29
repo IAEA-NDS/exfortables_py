@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 47-AG-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 47 
+#   A: 0 
+#   Nuclide: 47-AG-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.5800e+01 MeV - 4.0500e+01 MeV 
+# Residual: 
+#   Z: 47 
+#   A: 106 
+#   Nuclide: 47-AG-106-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0517-004-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-0(P,X)47-AG-106-M,,SIG) 
+#   First author: M.U.Khandaker 
+#   Institute:  (3KORKNU): Kyungpook National University, Daegu 
+#   Reference:  (J,NIM/B,266,5101,2008) 
+#   Year:  2008 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D05/D0517.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0517
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5800E+01        8.0000E-01        4.5000E-03        7.0000E-04
+        1.7800E+01        8.0000E-01        1.4700E-02        1.3000E-03
+        2.1100E+01        7.0000E-01        4.0400E-02        3.1000E-03
+        2.4100E+01        7.0000E-01        6.3100E-02        4.7000E-03
+        2.6800E+01        6.0000E-01        7.0800E-02        5.3000E-03
+        2.8300E+01        6.0000E-01        7.0200E-02        5.3000E-03
+        3.0800E+01        5.0000E-01        6.3000E-02        4.7000E-03
+        3.2200E+01        5.0000E-01        5.8400E-02        4.4000E-03
+        3.4400E+01        4.0000E-01        5.3200E-02        4.0000E-03
+        3.5500E+01        4.0000E-01        5.3600E-02        4.1000E-03
+        3.7500E+01        3.0000E-01        6.0100E-02        4.5000E-03
+        3.8600E+01        3.0000E-01        6.5800E-02        4.9000E-03
+        4.0500E+01        3.0000E-01        8.1800E-02        6.1000E-03

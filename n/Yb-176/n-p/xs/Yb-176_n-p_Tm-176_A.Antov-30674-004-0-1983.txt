@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 70-YB-176(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 70 
+#   A: 176 
+#   Nuclide: 70-YB-176 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4540e+01 MeV 
+# Residual: 
+#   Z: 69 
+#   A: 176 
+#   Nuclide: 69-TM-176 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30674-004-0 (entry-subentry-pointer) 
+#   Reaction code: (70-YB-176(N,P)69-TM-176,,SIG) 
+#   First author: A.Antov 
+#   Institute:  (3BULSOF): University of Sofia 
+#   Reference:  (J,BJP,10,(6),601,1983) 
+#   Year:  1983 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30674.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30674
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4540E+01        0.0000E+00        1.8000E-03        2.0000E-04

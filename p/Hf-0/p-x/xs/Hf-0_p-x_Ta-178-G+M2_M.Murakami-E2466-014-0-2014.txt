@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 72-HF-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 72 
+#   A: 0 
+#   Nuclide: 72-HF-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.9000e+00 MeV - 1.4100e+01 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 178 
+#   Nuclide: 73-TA-178-G+M2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2466-014-0 (entry-subentry-pointer) 
+#   Reaction code: (72-HF-0(P,X)73-TA-178-G+M2,,SIG) 
+#   First author: M.Murakami 
+#   Institute:  (2JPNNII): Niigata University , Niigata 
+#   Reference:  (J,ARI,90,149,2014) 
+#   Year:  2014 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E24/E2466.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2466
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        3.0000E-01        3.8900E-02        2.7000E-03
+        1.3500E+01        3.0000E-01        3.0600E-02        1.6000E-03
+        1.2800E+01        3.0000E-01        2.8900E-02        2.0000E-03
+        1.2100E+01        3.0000E-01        2.3800E-02        1.6000E-03
+        1.1300E+01        3.0000E-01        1.6400E-02        8.0000E-04
+        1.0600E+01        4.0000E-01        1.0600E-02        5.0000E-04
+        9.8000E+00        4.0000E-01        4.5000E-03        2.0000E-04
+        8.9000E+00        4.0000E-01        1.5000E-03        1.0000E-04
+        8.0000E+00        4.0000E-01        5.6000E-04        3.0000E-05
+        7.0000E+00        5.0000E-01        1.2000E-04        1.0000E-05
+        5.9000E+00        5.0000E-01        1.5000E-05        2.0000E-06

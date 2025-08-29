@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 29-CU-63(HE3,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+# Reaction: 
+#   Process: HE3,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  8.7000e+00 MeV - 2.3600e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 65 
+#   Nuclide: 31-GA-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0079-003-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-63(HE3,N)31-GA-65,,SIG) 
+#   First author: E.A.Bryant 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,130,1512,1963) 
+#   Year:  1963 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0079.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0079
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.7000E+00        0.0000E+00        3.6000E-03        3.9600E-04
+        1.0800E+01        0.0000E+00        8.4000E-03        9.2400E-04
+        1.0900E+01        0.0000E+00        8.5000E-03        9.3500E-04
+        1.1000E+01        0.0000E+00        7.7000E-03        8.4700E-04
+        1.2700E+01        0.0000E+00        9.3000E-03        1.0230E-03
+        1.6300E+01        0.0000E+00        6.8000E-03        7.4800E-04
+        1.8800E+01        0.0000E+00        5.9000E-03        6.4900E-04
+        2.0300E+01        0.0000E+00        5.4000E-03        5.9400E-04
+        2.1400E+01        0.0000E+00        5.0000E-03        5.5000E-04
+        2.2400E+01        0.0000E+00        4.7000E-03        5.1700E-04
+        2.3600E+01        0.0000E+00        4.2000E-03        4.6200E-04

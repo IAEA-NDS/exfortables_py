@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 69-TM-169(N,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 69 
+#   A: 169 
+#   Nuclide: 69-TM-169 
+# Reaction: 
+#   Process: N,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  1.7550e+01 MeV - 3.0090e+01 MeV 
+# Residual: 
+#   Z: 69 
+#   A: 167 
+#   Nuclide: 69-TM-167 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23279-013-0 (entry-subentry-pointer) 
+#   Reaction code: (69-TM-169(N,3N)69-TM-167,,SIG) 
+#   First author: Y.Uno 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (C,96PRAHA,,465,1996) 
+#   Year:  1996 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23279.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23279
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7550E+01        0.0000E+00        3.3270E-01        6.4200E-02
+        1.9840E+01        0.0000E+00        1.0415E+00        2.0090E-01
+        2.2660E+01        0.0000E+00        1.3979E+00        2.6960E-01
+        2.4990E+01        0.0000E+00        1.7004E+00        3.2790E-01
+        2.7790E+01        0.0000E+00        1.4252E+00        2.7490E-01
+        3.0090E+01        0.0000E+00        9.4720E-01        1.8270E-01

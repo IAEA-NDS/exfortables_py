@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 1-H-3(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  4.8400e-01 MeV - 1.3280e+00 MeV 
+# Residual: 
+#   Z: 3 
+#   A: 7 
+#   Nuclide: 3-LI-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1087-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-3(A,G)3-LI-7,,SIG) 
+#   First author: H.D.Holmgren 
+#   Institute:  (1USANRL): U.S. Naval Research Laboratory , Washington, DC 
+#   Reference:  (J,PR,113,1556,1959) 
+#   Year:  1959 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A10/A1087.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1087
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.8400E-01        4.0000E-03        6.3900E-07        0.0000E+00
+        7.1900E-01        4.0000E-03        9.4800E-07        0.0000E+00
+        9.4000E-01        4.0000E-03        1.1000E-06        0.0000E+00
+        1.1340E+00        4.0000E-03        1.2000E-06        0.0000E+00
+        1.3280E+00        4.0000E-03        1.3000E-06        0.0000E+00

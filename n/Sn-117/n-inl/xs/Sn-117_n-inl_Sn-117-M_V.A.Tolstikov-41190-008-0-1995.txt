@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 50-SN-117(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 117 
+#   Nuclide: 50-SN-117 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  5.2400e-01 MeV - 6.8500e-01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 117 
+#   Nuclide: 50-SN-117-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41190-008-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-117(N,INL)50-SN-117-M,,SIG) 
+#   First author: V.A.Tolstikov 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (J,YK,,(3-4),46,1995) 
+#   Year:  1995 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41190.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41190
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.2400E-01        4.7000E-02        2.0400E-03        5.9160E-05
+        6.8500E-01        4.5500E-02        8.2900E-03        5.1398E-04

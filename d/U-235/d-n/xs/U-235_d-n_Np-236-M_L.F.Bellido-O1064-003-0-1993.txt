@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 92-U-235(D,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: D,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.5400e+01 MeV - 2.8400e+01 MeV 
+# Residual: 
+#   Z: 93 
+#   A: 236 
+#   Nuclide: 93-NP-236-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1064-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(D,N)93-NP-236-M,,SIG) 
+#   First author: L.F.Bellido 
+#   Institute:  (2UK MAN): University of Manchester, England 
+#   Reference:  (J,RCA,62,123,1993) 
+#   Year:  1993 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O10/O1064.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1064
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5400E+01        7.0000E-01        5.8000E-03        3.0000E-04
+        1.7900E+01        7.0000E-01        7.6000E-03        3.0000E-04
+        2.0500E+01        6.0000E-01        7.9000E-03        6.0000E-04
+        2.2800E+01        7.0000E-01        8.5000E-03        5.0000E-04
+        2.4700E+01        3.0000E-01        8.2000E-03        5.0000E-04
+        2.6600E+01        4.0000E-01        8.4000E-03        6.0000E-04
+        2.8400E+01        3.0000E-01        7.7000E-03        5.0000E-04

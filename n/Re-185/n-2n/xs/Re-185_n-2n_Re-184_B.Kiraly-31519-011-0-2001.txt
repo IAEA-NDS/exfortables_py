@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 75-RE-185(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 75 
+#   A: 185 
+#   Nuclide: 75-RE-185 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.1200e+01 MeV - 1.4700e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 184 
+#   Nuclide: 75-RE-184 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31519-011-0 (entry-subentry-pointer) 
+#   Reaction code: (75-RE-185(N,2N)75-RE-184,,SIG) 
+#   First author: B.Kiraly 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (S,JAERI-C-2001-006,283,200103) 
+#   Year:  2001 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31519.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31519
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1200E+01        2.0000E-01        1.8520E+00        1.1500E-01
+        1.4300E+01        1.5000E-01        2.0500E+00        1.1000E-01
+        1.4700E+01        1.5000E-01        2.1700E+00        1.3000E-01

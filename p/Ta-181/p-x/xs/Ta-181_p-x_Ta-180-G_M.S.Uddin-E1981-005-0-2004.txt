@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 73-TA-181(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.8570e+01 MeV - 6.8990e+01 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 180 
+#   Nuclide: 73-TA-180-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1981-005-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-181(P,X)73-TA-180-G,(CUM),SIG) 
+#   First author: M.S.Uddin 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,NSTS,4,160,200403) 
+#   Year:  2004 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1981.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1981
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.8990E+01        0.0000E+00        1.2208E-01        1.7300E-02
+        6.5560E+01        0.0000E+00        1.2090E-01        2.1200E-02
+        6.0920E+01        0.0000E+00        1.3224E-01        2.1300E-02
+        5.6710E+01        0.0000E+00        1.2576E-01        1.7000E-02
+        5.1940E+01        0.0000E+00        1.4526E-01        2.0400E-02
+        4.6740E+01        0.0000E+00        2.0721E-01        2.5300E-02
+        4.1480E+01        0.0000E+00        3.3463E-01        3.9800E-02
+        3.5500E+01        0.0000E+00        4.4698E-01        5.3000E-02
+        2.8570E+01        0.0000E+00        1.5733E-01        1.9400E-02

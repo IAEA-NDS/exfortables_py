@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 27-CO-59(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 12 - None 
+#   Incident energy:  2.2500e+00 MeV - 2.9000e+00 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 0 
+#   Nuclide: 0-G-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20298-003-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,X)0-G-0,,SIG) 
+#   First author: I.Nonaka 
+#   Institute:  (2JPNNIG): Toshiba Corporation 
+#   Reference:  (J,JMJ,26,66,1944) 
+#   Year:  1944 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20298.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20298
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2500E+00        4.0000E-02        1.4400E+00        0.0000E+00
+        2.3800E+00        3.0000E-02        1.8900E+00        0.0000E+00
+        2.5200E+00        3.0000E-02        2.0000E+00        0.0000E+00
+        2.6600E+00        5.0000E-02        1.9000E+00        0.0000E+00
+        2.7800E+00        8.0000E-02        1.7500E+00        0.0000E+00
+        2.8700E+00        1.0000E-01        1.7800E+00        0.0000E+00
+        2.9000E+00        1.1000E-01        1.9300E+00        0.0000E+00

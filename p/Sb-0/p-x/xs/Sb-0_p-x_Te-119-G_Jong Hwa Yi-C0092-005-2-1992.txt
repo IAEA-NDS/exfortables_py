@@ -1,19 +1,35 @@
-# entry-subent-pointer  : C0092-005-2 
-# EXFOR reaction        : (51-SB-0(P,X)52-TE-119-G,,SIG) 
-# incident energy       : 3.0600e+01 MeV - 4.2000e+01 MeV 
-# target                : Sb-0 
-# product               : Te-119-G 
-# level energy          : - 
-# MF-MT number          : 3 - 10 
-# first author          : Jong Hwa Yi 
-# institute             : (1USACFN): California State University, Northridge, CA 
-# reference             : (J,ARI,43,1103,1992) 
-# year                  : 1992 
-# facility              : (CYCLO): Cyclotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C00/C0092.x4 
-# nds                   : https://nds.iaea.org/EXFOR/C0092
+# Header: 
+#   Title: 51-SB-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 51 
+#   A: 0 
+#   Nuclide: 51-SB-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.0600e+01 MeV - 4.5500e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 119 
+#   Nuclide: 52-TE-119-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0092-005-2 (entry-subentry-pointer) 
+#   Reaction code: (51-SB-0(P,X)52-TE-119-G,,SIG) 
+#   First author: Jong Hwa Yi 
+#   Institute:  (1USACFN): California State University, Northridge, CA 
+#   Reference:  (J,ARI,43,1103,1992) 
+#   Year:  1992 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C00/C0092.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0092
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5500E+01        0.0000E+00               NAN        0.0000E+00
+        4.4400E+01        0.0000E+00               NAN        0.0000E+00
+        4.3200E+01        0.0000E+00               NAN        0.0000E+00
         4.2000E+01        0.0000E+00        1.6900E-01        0.0000E+00
         4.0800E+01        0.0000E+00        2.3300E-01        0.0000E+00
         3.9200E+01        0.0000E+00        3.0900E-01        3.1000E-02

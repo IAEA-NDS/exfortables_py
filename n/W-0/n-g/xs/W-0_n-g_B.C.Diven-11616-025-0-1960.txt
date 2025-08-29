@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 74-W-0(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 74 
+#   A: 0 
+#   Nuclide: 74-W-0 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.7500e-01 MeV - 1.0000e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11616-025-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-0(N,G),,SIG) 
+#   First author: B.C.Diven 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,120,556,1960) 
+#   Year:  1960 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11616.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11616
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7500E-01        2.5000E-02        1.3000E-01        0.0000E+00
+        2.5000E-01        4.0000E-02        1.3000E-01        0.0000E+00
+        4.0000E-01        9.0000E-02        1.0000E-01        1.6000E-02
+        6.0000E-01        7.5000E-02        9.8000E-02        0.0000E+00
+        8.0000E-01        6.6000E-02        1.0000E-01        0.0000E+00
+        9.0000E-01        6.3000E-02        1.0000E-01        0.0000E+00
+        1.0000E+00        6.0000E-02        1.1400E-01        0.0000E+00

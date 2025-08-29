@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 12-MG-24(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 12 
+#   A: 24 
+#   Nuclide: 12-MG-24 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4400e+01 MeV - 1.6700e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11536-002-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-24(N,P)11-NA-24,,SIG) 
+#   First author: I.G.Clator 
+#   Institute:  (1USAWVU): University of West Virginia, Morgentown, WV 
+#   Reference:  (T,CLATOR,69) 
+#   Year:  1969 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11536.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11536
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4400E+01        0.0000E+00        1.9900E-01        3.2000E-02
+        1.5700E+01        0.0000E+00        1.7600E-01        2.8000E-02
+        1.6700E+01        0.0000E+00        1.5000E-01        2.4000E-02

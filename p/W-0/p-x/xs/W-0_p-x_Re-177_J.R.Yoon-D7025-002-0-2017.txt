@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 74-W-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 74 
+#   A: 0 
+#   Nuclide: 74-W-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.7900e+01 MeV - 9.3200e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 177 
+#   Nuclide: 75-RE-177 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D7025-002-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-0(P,X)75-RE-177,,SIG) 
+#   First author: J.R.Yoon 
+#   Institute:  (3KORDAU): Donga University, Busan 
+#   Reference:  (J,KPS,70,47,2017) 
+#   Year:  2017 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D70/D7025.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D7025
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.7900E+01        0.0000E+00        1.3540E-01        1.3900E-02
+        8.3200E+01        0.0000E+00        1.1730E-01        1.5000E-02
+        8.8300E+01        0.0000E+00        1.1670E-01        1.2200E-02
+        9.3200E+01        0.0000E+00        1.0960E-01        1.3100E-02

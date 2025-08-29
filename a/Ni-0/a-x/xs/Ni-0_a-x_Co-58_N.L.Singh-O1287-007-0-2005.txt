@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 28-NI-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.3000e+01 MeV - 4.8300e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1287-007-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(A,X)27-CO-58,,SIG) 
+#   First author: N.L.Singh 
+#   Institute:  (3INDBDA): M.S. University of Baroda, Baroda 
+#   Reference:  (J,IMP/E,14,611,2005) 
+#   Year:  2005 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O12/O1287.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1287
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3000E+01        4.0000E-01        2.5000E-03        4.0000E-04
+        3.5500E+01        3.0000E-01        9.6000E-03        1.0000E-03
+        3.7900E+01        3.0000E-01        2.7000E-02        2.5000E-03
+        4.0200E+01        3.0000E-01        4.6200E-02        4.1000E-03
+        4.2300E+01        3.0000E-01        8.3000E-02        6.6000E-03
+        4.4600E+01        3.0000E-01        1.0500E-01        8.0000E-03
+        4.6600E+01        3.0000E-01        1.4100E-01        1.1000E-02
+        4.8300E+01        3.0000E-01        1.9500E-01        1.6000E-02

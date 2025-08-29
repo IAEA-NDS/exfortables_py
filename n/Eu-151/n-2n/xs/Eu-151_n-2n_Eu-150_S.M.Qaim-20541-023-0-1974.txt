@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 63-EU-151(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 63 
+#   A: 151 
+#   Nuclide: 63-EU-151 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 150 
+#   Nuclide: 63-EU-150 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20541-023-0 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-151(N,2N)63-EU-150,,SIG) 
+#   First author: S.M.Qaim 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,NP/A,224,319,197405) 
+#   Year:  1974 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20541.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20541
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        1.7370E+00        1.9200E-01

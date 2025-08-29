@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 52-TE-120(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 52 
+#   A: 120 
+#   Nuclide: 52-TE-120 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5000e-02 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 121 
+#   Nuclide: 52-TE-121 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22939-012-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-120(N,G)52-TE-121,,SIG,,SPA) 
+#   First author: I.Dillmann 
+#   Institute:  (2GERMUN): Technische Universitaet Muenchen 
+#   Reference:  (J,PR/C,81,015801,2010) 
+#   Year:  2010 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22939.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22939
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        5.0000E-04        5.3820E-01        2.5600E-02

@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 50-SN-116(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 116 
+#   Nuclide: 50-SN-116 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  9.6300e+00 MeV - 1.2350e+01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 115 
+#   Nuclide: 50-SN-115 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: K2164-002-1 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-116(G,N)50-SN-115,,SIG) 
+#   First author: H.Utsunomiya 
+#   Institute:  (2JPNKON): Konan University , Kobe 
+#   Reference:  (J,PR/C,80,055806,2009) 
+#   Year:  2009 
+#   Facility:  (ESTRG): Electron storage ring 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K21/K2164.x4 
+#   nds:  https://nds.iaea.org/EXFOR/K2164
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.6300E+00        0.0000E+00        1.8800E-02        0.0000E+00
+        9.7400E+00        0.0000E+00        2.1840E-02        0.0000E+00
+        9.8900E+00        0.0000E+00        1.9750E-02        0.0000E+00
+        1.0010E+01        0.0000E+00        2.1250E-02        0.0000E+00
+        1.0320E+01        0.0000E+00        2.5490E-02        0.0000E+00
+        1.0530E+01        0.0000E+00        2.3680E-02        0.0000E+00
+        1.0940E+01        0.0000E+00        3.2790E-02        0.0000E+00
+        1.1400E+01        0.0000E+00        3.9630E-02        0.0000E+00
+        1.1740E+01        0.0000E+00        4.4830E-02        0.0000E+00
+        1.2350E+01        0.0000E+00        7.7370E-02        0.0000E+00

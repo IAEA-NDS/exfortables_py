@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 49-IN-113(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 49 
+#   A: 113 
+#   Nuclide: 49-IN-113 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.0030e+01 MeV - 1.4140e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 116 
+#   Nuclide: 51-SB-116-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1715-004-2 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-113(A,N)51-SB-116-G,,SIG) 
+#   First author: C.Yalcyn 
+#   Institute:  (2TUKTUK): Turkey 
+#   Reference:  (J,PR/C,79,065801,2009) 
+#   Year:  2009 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C17/C1715.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1715
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0030E+01        0.0000E+00        5.5000E-05        2.2000E-05
+        1.0570E+01        0.0000E+00        2.0500E-04        3.5000E-05
+        1.1000E+01        0.0000E+00        6.5400E-04        6.6000E-05
+        1.1110E+01        0.0000E+00        7.9000E-04        7.6000E-05
+        1.1500E+01        0.0000E+00        1.6220E-03        1.5000E-04
+        1.2000E+01        0.0000E+00        4.6600E-03        4.9000E-04
+        1.2610E+01        0.0000E+00        9.6570E-03        1.0300E-03
+        1.3000E+01        0.0000E+00        1.8197E-02        1.9150E-03
+        1.3500E+01        0.0000E+00        3.5395E-02        3.6930E-03
+        1.4140E+01        0.0000E+00        6.0236E-02        5.7200E-03

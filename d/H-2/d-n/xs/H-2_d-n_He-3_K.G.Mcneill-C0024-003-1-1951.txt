@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 1-H-2(D,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: D,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.2000e-01 MeV - 3.0000e-01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0024-003-1 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(D,N)2-HE-3,,SIG) 
+#   First author: K.G.Mcneill 
+#   Institute:  (2UK OXF): University of Oxford, Oxford 
+#   Reference:  (J,PR,81,602,1951) 
+#   Year:  1951 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C00/C0024.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0024
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E-01        0.0000E+00        1.9000E-02        0.0000E+00
+        1.4000E-01        0.0000E+00        2.6000E-02        0.0000E+00
+        1.6000E-01        0.0000E+00        2.6000E-02        0.0000E+00
+        2.5000E-01        0.0000E+00        3.8000E-02        0.0000E+00
+        3.0000E-01        0.0000E+00               NAN        0.0000E+00

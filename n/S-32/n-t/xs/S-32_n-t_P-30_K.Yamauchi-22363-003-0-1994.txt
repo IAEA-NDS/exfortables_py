@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 16-S-32(N,T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 16 
+#   A: 32 
+#   Nuclide: 16-S-32 
+# Reaction: 
+#   Process: N,T 
+#   MF-MT number: 3 - 105 
+#   Incident energy:  1.3650e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 15 
+#   A: 30 
+#   Nuclide: 15-P-30 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22363-003-0 (entry-subentry-pointer) 
+#   Reaction code: (16-S-32(N,T)15-P-30,,SIG) 
+#   First author: K.Yamauchi 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((S,JAERI-M-94-019,253,1994)=(S,INDC(JPN)-169,253,1994)) 
+#   Year:  1994 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22363.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22363
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3650E+01        0.0000E+00        6.0000E-06        1.9800E-06
+        1.3880E+01        0.0000E+00        7.4000E-06        3.1080E-06
+        1.4280E+01        0.0000E+00        1.1200E-05        3.6960E-06
+        1.4580E+01        0.0000E+00        1.7400E-05        3.3060E-06
+        1.4870E+01        0.0000E+00        2.1200E-05        2.5440E-06

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 11-NA-23(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 11 
+#   A: 23 
+#   Nuclide: 11-NA-23 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 10 
+#   A: 23 
+#   Nuclide: 10-NE-23 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30013-004-0 (entry-subentry-pointer) 
+#   Reaction code: (11-NA-23(N,P)10-NE-23,,SIG) 
+#   First author: B.Mitra 
+#   Institute:  (3INDBOS): Bose Institute, Kolkata 
+#   Reference:  (J,NP,83,157,1966) 
+#   Year:  1966 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30013.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30013
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        1.0000E-01        4.1800E-02        2.8000E-03

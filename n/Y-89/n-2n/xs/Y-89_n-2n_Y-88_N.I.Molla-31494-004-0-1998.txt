@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 39-Y-89(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4000e+01 MeV - 1.4710e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 88 
+#   Nuclide: 39-Y-88 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31494-004-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(N,2N)39-Y-88,,SIG) 
+#   First author: N.I.Molla 
+#   Institute:  (3BANSAV): Institute Nuclear Science & Technology, AERE, Savar, Dhaka 
+#   Reference:  (J,RCA,80,189,1998) 
+#   Year:  1998 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31494.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31494
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        1.2000E-01        8.0200E-01        8.0000E-02
+        1.4410E+01        1.8000E-01        8.2300E-01        8.5000E-02
+        1.4630E+01        1.6000E-01        9.1500E-01        9.5000E-02
+        1.4710E+01        1.2000E-01        9.6600E-01        1.0000E-01

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 75-RE-185(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 75 
+#   A: 185 
+#   Nuclide: 75-RE-185 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3400e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 74 
+#   A: 185 
+#   Nuclide: 74-W-185-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22428-010-0 (entry-subentry-pointer) 
+#   Reaction code: (75-RE-185(N,P)74-W-185-M,,SIG) 
+#   First author: H.Sakane 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((S,JAERI-C-98-003,318,1998)=(S,INDC(JPN)-180,318,1998)) 
+#   Year:  1998 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22428.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22428
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3400E+01        0.0000E+00        9.0000E-04        3.8000E-04
+        1.4870E+01        0.0000E+00        1.8900E-03        7.4000E-04

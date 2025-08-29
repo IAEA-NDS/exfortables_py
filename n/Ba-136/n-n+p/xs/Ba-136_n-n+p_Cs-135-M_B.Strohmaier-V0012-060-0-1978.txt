@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 56-BA-136(N,N+P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 56 
+#   A: 136 
+#   Nuclide: 56-BA-136 
+# Reaction: 
+#   Process: N,N+P 
+#   MF-MT number: 3 - 28 
+#   Incident energy:  1.0161e+01 MeV - 2.0098e+01 MeV 
+# Residual: 
+#   Z: 55 
+#   A: 135 
+#   Nuclide: 55-CS-135-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: V0012-060-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-136(N,N+P)55-CS-135-M,SEQ,SIG,,,EVAL) 
+#   First author: B.Strohmaier 
+#   Institute:  (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
+#   Reference:  (J,NSE,65,368,1978) 
+#   Year:  1978 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/V00/V0012.x4 
+#   nds:  https://nds.iaea.org/EXFOR/V0012
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0161E+01        0.0000E+00        0.0000E+00        0.0000E+00
+        1.1098E+01        0.0000E+00        0.0000E+00        0.0000E+00
+        1.2098E+01        0.0000E+00        0.0000E+00        0.0000E+00
+        1.3098E+01        0.0000E+00        1.3180E-10        0.0000E+00
+        1.4098E+01        0.0000E+00        9.3920E-09        0.0000E+00
+        1.5098E+01        0.0000E+00        1.5440E-07        0.0000E+00
+        1.6098E+01        0.0000E+00        1.0140E-06        0.0000E+00
+        1.7098E+01        0.0000E+00        3.7840E-06        0.0000E+00
+        1.8098E+01        0.0000E+00        9.6780E-06        0.0000E+00
+        1.9098E+01        0.0000E+00        1.8900E-05        0.0000E+00
+        2.0098E+01        0.0000E+00        3.0300E-05        0.0000E+00

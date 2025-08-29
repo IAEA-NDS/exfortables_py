@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 74-W-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 74 
+#   A: 0 
+#   Nuclide: 74-W-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.6000e+00 MeV - 3.9900e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 182 
+#   Nuclide: 75-RE-182-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0282-003-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-0(P,X)75-RE-182-G,,SIG) 
+#   First author: M.U.Khandaker 
+#   Institute:  (3KORKNU): Kyungpook National University, Daegu 
+#   Reference:  (J,NIM/B,266,1021,2008) 
+#   Year:  2008 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D02/D0282.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0282
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6000E+00        1.1000E+00        7.6000E-03        1.0000E-03
+        1.0800E+01        9.0000E-01        8.6000E-03        1.1000E-03
+        1.3000E+01        8.0000E-01        3.7400E-02        3.1000E-03
+        1.5900E+01        8.0000E-01        4.6900E-02        4.6000E-03
+        1.8900E+01        7.0000E-01        7.3000E-02        5.7000E-03
+        2.1600E+01        7.0000E-01        8.1200E-02        7.1000E-03
+        2.3400E+01        7.0000E-01        1.0850E-01        8.4000E-03
+        2.5800E+01        6.0000E-01        1.2080E-01        1.1600E-02
+        2.8000E+01        6.0000E-01        1.4620E-01        1.1200E-02
+        3.0000E+01        5.0000E-01        1.2130E-01        1.1700E-02
+        3.1500E+01        5.0000E-01        1.0330E-01        8.0000E-03
+        3.3400E+01        5.0000E-01        9.4300E-02        9.1000E-03
+        3.5200E+01        4.0000E-01        8.6600E-02        6.8000E-03
+        3.6900E+01        4.0000E-01        7.3900E-02        7.2000E-03
+        3.8300E+01        3.0000E-01        8.0600E-02        6.3000E-03
+        3.9900E+01        3.0000E-01        9.1300E-02        8.8000E-03

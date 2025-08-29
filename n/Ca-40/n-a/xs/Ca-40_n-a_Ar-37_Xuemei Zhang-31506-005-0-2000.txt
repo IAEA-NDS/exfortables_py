@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31506-005-0 
-# EXFOR reaction        : (20-CA-40(N,A)18-AR-37,,SIG) 
-# incident energy       : 4.9300e+00 MeV - 5.9800e+00 MeV 
-# target                : Ca-40 
-# product               : Ar-37 
-# level energy          : - 
-# MF-MT number          : 3 - 107 
-# first author          : Xuemei Zhang 
-# institute             : (3CPRTSI): Tsinghua University , Beijing 
-# reference             : (J,NSE,134,89,2000) 
-# year                  : 2000 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31506.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31506
+# Header: 
+#   Title: 20-CA-40(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 20 
+#   A: 40 
+#   Nuclide: 20-CA-40 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  4.9300e+00 MeV - 5.9800e+00 MeV 
+# Residual: 
+#   Z: 18 
+#   A: 37 
+#   Nuclide: 18-AR-37 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31506-005-0 (entry-subentry-pointer) 
+#   Reaction code: (20-CA-40(N,A)18-AR-37,,SIG) 
+#   First author: Xuemei Zhang 
+#   Institute:  (3CPRTSI): Tsinghua University , Beijing 
+#   Reference:  (J,NSE,134,89,2000) 
+#   Year:  2000 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31506.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31506
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         4.9300E+00        1.2000E-01        1.9900E-01        2.0000E-02

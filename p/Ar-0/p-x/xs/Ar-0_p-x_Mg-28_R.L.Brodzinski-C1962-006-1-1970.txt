@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 18-AR-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 18 
+#   A: 0 
+#   Nuclide: 18-AR-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.1000e+02 MeV - 5.7800e+02 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 28 
+#   Nuclide: 12-MG-28 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1962-006-1 (entry-subentry-pointer) 
+#   Reaction code: (18-AR-0(P,X)12-MG-28,,SIG) 
+#   First author: R.L.Brodzinski 
+#   Institute:  (1USABNW): Pacific Northwest Laboratories, Richland, WA 
+#   Reference:  (J,PR/C,1,(6),1955,1970) 
+#   Year:  1970 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C19/C1962.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1962
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.1000E+02        0.0000E+00        5.1000E-04        1.9000E-04
+        5.7800E+02        0.0000E+00        1.0200E-02        5.4000E-03

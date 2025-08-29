@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 22-TI-46(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 22 
+#   A: 46 
+#   Nuclide: 22-TI-46 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 46 
+#   Nuclide: 21-SC-46 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30825-003-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-46(N,P)21-SC-46,,SIG) 
+#   First author: N.I.Molla 
+#   Institute:  (3BANSAV): Institute Nuclear Science & Technology, AERE, Savar, Dhaka 
+#   Reference:  (R,INDC(BAN)-003,1986) 
+#   Year:  1986 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/308/30825.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30825
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        3.4000E-01        2.2620E-01        2.2400E-02

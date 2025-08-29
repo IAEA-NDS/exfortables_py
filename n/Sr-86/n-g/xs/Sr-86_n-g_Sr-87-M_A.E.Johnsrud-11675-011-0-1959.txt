@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 38-SR-86(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 38 
+#   A: 86 
+#   Nuclide: 38-SR-86 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.6500e-01 MeV - 3.2500e-01 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 87 
+#   Nuclide: 38-SR-87-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11675-011-0 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-86(N,G)38-SR-87-M,,SIG) 
+#   First author: A.E.Johnsrud 
+#   Institute:  (1USAWIS): University of Wisconsin, Madison, WI 
+#   Reference:  (J,PR,116,927,1959) 
+#   Year:  1959 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11675.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11675
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6500E-01        0.0000E+00        3.1500E-02        0.0000E+00
+        2.4000E-01        0.0000E+00        2.9000E-02        0.0000E+00
+        3.1000E-01        0.0000E+00        2.4500E-02        0.0000E+00
+        3.2500E-01        0.0000E+00        2.4500E-02        0.0000E+00

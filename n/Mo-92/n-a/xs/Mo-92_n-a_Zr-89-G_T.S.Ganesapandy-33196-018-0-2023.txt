@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 42-MO-92(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 92 
+#   Nuclide: 42-MO-92 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4770e+01 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 89 
+#   Nuclide: 40-ZR-89-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33196-018-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-92(N,A)40-ZR-89-G,(M),SIG) 
+#   First author: T.S.Ganesapandy 
+#   Institute:  (3INDPOO): University of Pune 
+#   Reference:  (J,CPH,47,034002,2023) 
+#   Year:  2023 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33196.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33196
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4770E+01        1.7000E-01        2.2160E-02        2.8411E-03

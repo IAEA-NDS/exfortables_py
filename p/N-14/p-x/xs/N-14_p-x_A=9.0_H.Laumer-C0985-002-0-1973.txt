@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 7-N-14(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 7 
+#   A: 14 
+#   Nuclide: 7-N-14 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.5800e+01 MeV - 4.1900e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0985-002-0 (entry-subentry-pointer) 
+#   Reaction code: (7-N-14(P,X)MASS,,SIG) 
+#   First author: H.Laumer 
+#   Institute:  (1USAMSU): Michigan State University, East Lansing, MI 
+#   Reference:  (J,PR/C,8,483,1973) 
+#   Year:  1973 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C09/C0985.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0985
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5800E+01        0.0000E+00        2.1000E-03        7.0000E-04
+        2.8600E+01        0.0000E+00        6.6000E-03        1.6000E-03
+        3.1900E+01        0.0000E+00        6.7000E-03        9.0000E-04
+        3.5100E+01        0.0000E+00        1.1200E-02        2.2000E-03
+        3.7900E+01        0.0000E+00        9.5000E-03        2.1000E-03
+        4.0000E+01        0.0000E+00        9.4000E-03        2.2000E-03
+        4.1900E+01        0.0000E+00        6.8000E-03        1.5000E-03

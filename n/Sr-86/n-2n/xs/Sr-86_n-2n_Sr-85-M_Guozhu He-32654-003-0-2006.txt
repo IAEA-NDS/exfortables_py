@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32654-003-0 
-# EXFOR reaction        : (38-SR-86(N,2N)38-SR-85-M,,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4600e+01 MeV 
-# target                : Sr-86 
-# product               : Sr-85-M 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Guozhu He 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,ANE,33,37,2006) 
-# year                  : 2006 
-# facility              : None 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32654.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32654
+# Header: 
+#   Title: 38-SR-86(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 38 
+#   A: 86 
+#   Nuclide: 38-SR-86 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4600e+01 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 85 
+#   Nuclide: 38-SR-85-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32654-003-0 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-86(N,2N)38-SR-85-M,,SIG) 
+#   First author: Guozhu He 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,ANE,33,37,2006) 
+#   Year:  2006 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32654.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32654
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3500E+01        3.0000E-01        1.5600E-01        1.0000E-02

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.4630e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 12826-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F),,SIG) 
+#   First author: M.Mahdavi 
+#   Institute:  (1USAMHG): University of Michigan, Ann Arbor, MI 
+#   Reference:  (C,82ANTWER,,58,1982) 
+#   Year:  1982 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12826.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12826
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4630E+01        2.0000E-02        2.0700E+00        4.5540E-02

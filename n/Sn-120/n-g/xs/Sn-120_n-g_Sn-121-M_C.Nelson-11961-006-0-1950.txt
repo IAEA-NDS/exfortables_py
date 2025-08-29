@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 50-SN-120(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 120 
+#   Nuclide: 50-SN-120 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 121 
+#   Nuclide: 50-SN-121-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11961-006-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-120(N,G)50-SN-121-M,,SIG,,SPA) 
+#   First author: C.Nelson 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (R,ORNL-828,1950) 
+#   Year:  1950 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11961.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11961
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.0000E-03        2.0000E-04

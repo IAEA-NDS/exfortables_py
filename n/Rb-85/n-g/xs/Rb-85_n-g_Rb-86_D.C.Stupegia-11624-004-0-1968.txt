@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 37-RB-85(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 37 
+#   A: 85 
+#   Nuclide: 37-RB-85 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.4000e-01 MeV - 2.6020e+00 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 86 
+#   Nuclide: 37-RB-86 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11624-004-0 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-85(N,G)37-RB-86,,SIG) 
+#   First author: D.C.Stupegia 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,JNE,22,267,1968) 
+#   Year:  1968 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11624.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11624
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E-01        2.5000E-02        1.3900E-01        9.0000E-03
+        1.5200E-01        1.8000E-02        1.3100E-01        9.0000E-03
+        2.6600E-01        2.4000E-02        1.0100E-01        7.0000E-03
+        3.2600E-01        2.2000E-02        8.3000E-02        6.0000E-03
+        4.4000E-01        2.2000E-02        6.6000E-02        4.5000E-03
+        5.2700E-01        4.6000E-02        5.5000E-02        3.8000E-03
+        7.4600E-01        4.0000E-02        4.1000E-02        2.7000E-03
+        9.5400E-01        4.1000E-02        3.7000E-02        2.5000E-03
+        1.1510E+00        5.4000E-02        2.5400E-02        2.0000E-03
+        1.2400E+00        5.4000E-02        2.9600E-02        2.0000E-03
+        1.6200E+00        6.7000E-02        1.8800E-02        1.3000E-03
+        2.1150E+00        7.0000E-02        1.4700E-02        1.0000E-03
+        2.6020E+00        8.0000E-02        1.1100E-02        7.0000E-04

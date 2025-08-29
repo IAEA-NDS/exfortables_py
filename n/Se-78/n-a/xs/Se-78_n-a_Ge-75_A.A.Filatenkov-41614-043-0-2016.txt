@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 34-SE-78(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 34 
+#   A: 78 
+#   Nuclide: 34-SE-78 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3490e+01 MeV - 1.4810e+01 MeV 
+# Residual: 
+#   Z: 32 
+#   A: 75 
+#   Nuclide: 32-GE-75 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41614-043-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-78(N,A)32-GE-75,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,INDC(CCP)-0460,2016) 
+#   Year:  2016 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41614
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3490E+01        0.0000E+00        7.5900E-03        1.2979E-03
+        1.3890E+01        0.0000E+00        6.4400E-03        1.3073E-03
+        1.4260E+01        0.0000E+00        9.0900E-03        1.3999E-03
+        1.4810E+01        0.0000E+00        1.0000E-02        2.0000E-03

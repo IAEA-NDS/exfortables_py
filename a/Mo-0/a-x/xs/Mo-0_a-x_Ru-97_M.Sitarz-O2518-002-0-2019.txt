@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 42-MO-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 0 
+#   Nuclide: 42-MO-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.1800e+01 MeV - 6.6840e+01 MeV 
+# Residual: 
+#   Z: 44 
+#   A: 97 
+#   Nuclide: 44-RU-97 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2518-002-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-0(A,X)44-RU-97,,SIG) 
+#   First author: M.Sitarz 
+#   Institute:  (2FR ARN): GIP Arronax, Saint Herblain 
+#   Reference:  (J,INST,3,7,2019) 
+#   Year:  2019 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O25/O2518.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2518
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.1800E+01        7.5000E-01        2.3700E-01        2.0000E-02
+        4.6030E+01        6.8000E-01        2.2500E-01        2.0000E-02
+        5.0000E+01        6.4000E-01        1.9900E-01        1.8000E-02
+        5.1930E+01        6.2000E-01        1.6600E-01        1.4000E-02
+        5.5300E+01        6.0000E-01        1.5900E-01        1.3000E-02
+        5.8510E+01        5.6000E-01        1.7600E-01        1.5000E-02
+        5.9970E+01        5.5000E-01        1.7600E-01        1.5000E-02
+        6.3470E+01        5.3000E-01        1.8000E-01        1.6000E-02
+        6.6840E+01        5.0000E-01        1.7300E-01        1.4000E-02

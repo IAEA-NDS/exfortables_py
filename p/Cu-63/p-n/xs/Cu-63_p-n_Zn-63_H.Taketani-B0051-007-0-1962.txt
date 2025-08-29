@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 29-CU-63(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  4.3100e+00 MeV - 6.5600e+00 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 63 
+#   Nuclide: 30-ZN-63 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0051-007-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-63(P,N)30-ZN-63,,SIG,,,EXP) 
+#   First author: H.Taketani 
+#   Institute:  (1USAROC): University of Rochester, Rochester, NY 
+#   Reference:  (J,PR,125,291,1962) 
+#   Year:  1962 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0051.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0051
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.3100E+00        1.0000E-02        2.2700E-02        0.0000E+00
+        4.8300E+00        1.0000E-02        8.4700E-02        0.0000E+00
+        5.5700E+00        1.0000E-02        1.7500E-01        0.0000E+00
+        6.5600E+00        1.0000E-02        2.4200E-01        0.0000E+00

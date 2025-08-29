@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 27-CO-59(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  9.6000e+00 MeV - 1.3300e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 59 
+#   Nuclide: 26-FE-59 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31498-002-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,P)26-FE-59,,SIG) 
+#   First author: J.Cezar Suita 
+#   Institute:  (3BZLIEN): Instit. de Engenharia Nuclear, Rio de Janeiro 
+#   Reference:  (J,NSE,126,101,1997) 
+#   Year:  1997 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31498.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31498
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.6000E+00        2.0000E-01        5.5000E-02        1.9000E-02
+        1.3300E+01        2.0000E-01        6.1000E-02        4.0000E-03

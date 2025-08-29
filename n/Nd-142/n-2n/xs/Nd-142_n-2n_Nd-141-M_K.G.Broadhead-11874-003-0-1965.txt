@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 60-ND-142(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 60 
+#   A: 142 
+#   Nuclide: 60-ND-142 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 141 
+#   Nuclide: 60-ND-141-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11874-003-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-142(N,2N)60-ND-141-M,,SIG) 
+#   First author: K.G.Broadhead 
+#   Institute:  (1USAREN): Reno Metallurgical Research Center, Reno, NV 
+#   Reference:  (J,PR,139,B1525,1965) 
+#   Year:  1965 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11874.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11874
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        3.0000E-01        5.4500E-01        6.0000E-02

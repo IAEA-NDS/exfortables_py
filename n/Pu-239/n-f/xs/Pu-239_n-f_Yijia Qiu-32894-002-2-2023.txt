@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32894-002-2 
-# EXFOR reaction        : (94-PU-239(N,F),,SIG) 
-# incident energy       : 4.3698e-03 MeV - 1.0236e+02 MeV 
-# target                : Pu-239 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 18 
-# first author          : Yijia Qiu 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,PR/C,107,024606,2023) 
-# year                  : 2023 
-# facility              : (SYNCH): Synchrotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32894.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32894
+# Header: 
+#   Title: 94-PU-239(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 94 
+#   A: 239 
+#   Nuclide: 94-PU-239 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  4.3698e-03 MeV - 1.0236e+02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32894-002-2 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-239(N,F),,SIG) 
+#   First author: Yijia Qiu 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,PR/C,107,024606,2023) 
+#   Year:  2023 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32894.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32894
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         4.3698E-03        0.0000E+00        2.5243E+00        1.0408E-01

@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 28-NI-58(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.5000e+01 MeV - 4.0000e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 60 
+#   Nuclide: 29-CU-60 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6067-003-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(A,X)29-CU-60,,SIG) 
+#   First author: Abhishek Yadav 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  (J,PR/C,78,044606,2008) 
+#   Year:  2008 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6067.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6067
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+01        8.0000E-01        1.4800E-01        2.2000E-02
+        2.9000E+01        8.0000E-01        2.7010E-01        4.0000E-02
+        3.6000E+01        7.0000E-01        2.5100E-01        3.8000E-02
+        4.0000E+01        7.0000E-01        1.1100E-01        1.7000E-02

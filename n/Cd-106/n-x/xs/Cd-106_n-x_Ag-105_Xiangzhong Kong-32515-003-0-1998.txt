@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32515-003-0 
-# EXFOR reaction        : (48-CD-106(N,X)47-AG-105,,SIG) 
-# incident energy       : 1.4700e+01 MeV 
-# target                : Cd-106 
-# product               : Ag-105 
-# level energy          : - 
-# MF-MT number          : 3 - 10 
-# first author          : Xiangzhong Kong 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,RCA,81,63,1998) 
-# year                  : 1998 
-# facility              : (CCW): Cockcroft-Walton accelerator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32515.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32515
+# Header: 
+#   Title: 48-CD-106(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 48 
+#   A: 106 
+#   Nuclide: 48-CD-106 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 47 
+#   A: 105 
+#   Nuclide: 47-AG-105 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32515-003-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-106(N,X)47-AG-105,,SIG) 
+#   First author: Xiangzhong Kong 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,RCA,81,63,1998) 
+#   Year:  1998 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32515.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32515
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.4700E+01        2.0000E-01        2.5600E-01        8.3000E-02

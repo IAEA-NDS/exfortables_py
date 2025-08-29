@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 39-Y-89(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.9730e+00 MeV - 4.7430e+00 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2150-003-1 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(P,G)40-ZR-90,,SIG) 
+#   First author: S.Harissopulos 
+#   Institute:  (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
+#   Reference:  (J,PR/C,87,025806,2013) 
+#   Year:  2013 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2150.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2150
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9730E+00        0.0000E+00        1.9000E-05        3.0000E-06
+        2.9620E+00        0.0000E+00        6.5900E-04        9.6000E-05
+        3.9520E+00        0.0000E+00        2.6140E-03        3.5600E-04
+        4.7430E+00        0.0000E+00        2.0480E-03        2.9300E-04

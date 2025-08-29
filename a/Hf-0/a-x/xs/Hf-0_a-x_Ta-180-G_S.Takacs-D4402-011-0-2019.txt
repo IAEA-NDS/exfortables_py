@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 72-HF-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 72 
+#   A: 0 
+#   Nuclide: 72-HF-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.6010e+01 MeV - 4.9600e+01 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 180 
+#   Nuclide: 73-TA-180-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4402-011-0 (entry-subentry-pointer) 
+#   Reaction code: (72-HF-0(A,X)73-TA-180-G,,SIG) 
+#   First author: S.Takacs 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,459,50,2019) 
+#   Year:  2019 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4402.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4402
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.9600E+01        2.2000E-01        9.1900E-02        1.0600E-02
+        4.7280E+01        2.5000E-01        7.8700E-02        9.1000E-03
+        4.6360E+01        2.6000E-01        7.2100E-02        8.5000E-03
+        4.5410E+01        2.7000E-01        6.8200E-02        7.9000E-03
+        4.2950E+01        3.1000E-01        4.9900E-02        5.9000E-03
+        4.1950E+01        3.3000E-01        4.8800E-02        5.7000E-03
+        4.0940E+01        3.4000E-01        4.2400E-02        5.0000E-03
+        3.8280E+01        3.8000E-01        2.3900E-02        2.9000E-03
+        3.5490E+01        4.3000E-01        1.4500E-02        1.8000E-03
+        3.2540E+01        4.9000E-01        1.1700E-02        1.5000E-03
+        2.9390E+01        5.6000E-01        6.7500E-03        8.7000E-04
+        2.6010E+01        6.4000E-01        2.8100E-03        4.4000E-04

@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 30-ZN-67(G,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 67 
+#   Nuclide: 30-ZN-67 
+# Reaction: 
+#   Process: G,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.2650e+01 MeV - 2.6430e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 66 
+#   Nuclide: 29-CU-66 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M0959-002-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-67(G,P)29-CU-66,,SIG,,BRS) 
+#   First author: V.G.Ivanchenko 
+#   Institute:  (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
+#   Reference:  (J,ZEP,3,(11),452,1966) 
+#   Year:  1966 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M09/M0959.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0959
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2650E+01        0.0000E+00        3.9900E-04        0.0000E+00
+        1.3630E+01        0.0000E+00        1.3290E-03        0.0000E+00
+        1.4080E+01        0.0000E+00        2.5250E-03        3.3300E-04
+        1.4590E+01        0.0000E+00        3.9870E-03        0.0000E+00
+        1.5610E+01        0.0000E+00        6.0400E-03        0.0000E+00
+        1.6120E+01        0.0000E+00        7.6410E-03        3.9700E-04
+        1.6530E+01        0.0000E+00        7.4420E-03        0.0000E+00
+        1.7650E+01        0.0000E+00        9.7500E-03        0.0000E+00
+        1.8060E+01        0.0000E+00        1.0698E-02        7.3800E-04
+        1.8570E+01        0.0000E+00        1.0365E-02        0.0000E+00
+        1.9590E+01        0.0000E+00        1.6700E-02        0.0000E+00
+        2.0200E+01        0.0000E+00        1.7940E-02        1.6640E-03
+        2.0610E+01        0.0000E+00        1.8937E-02        0.0000E+00
+        2.2470E+01        0.0000E+00        1.8206E-02        0.0000E+00
+        2.2960E+01        0.0000E+00        1.6478E-02        0.0000E+00
+        2.3520E+01        0.0000E+00        1.5216E-02        0.0000E+00
+        2.4390E+01        0.0000E+00        1.1519E-02        0.0000E+00
+        2.4800E+01        0.0000E+00        9.1690E-03        0.0000E+00
+        2.5510E+01        0.0000E+00        7.1100E-03        0.0000E+00
+        2.6430E+01        0.0000E+00        2.9120E-03        0.0000E+00

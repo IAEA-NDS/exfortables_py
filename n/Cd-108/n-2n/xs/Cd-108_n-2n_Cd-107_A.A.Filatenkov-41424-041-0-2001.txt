@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 48-CD-108(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 48 
+#   A: 108 
+#   Nuclide: 48-CD-108 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4440e+01 MeV - 1.4810e+01 MeV 
+# Residual: 
+#   Z: 48 
+#   A: 107 
+#   Nuclide: 48-CD-107 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41424-041-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-108(N,2N)48-CD-107,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,RI-258,20010615) 
+#   Year:  2001 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41424.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41424
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4440E+01        0.0000E+00        1.1400E+00        1.0000E-01
+        1.4640E+01        0.0000E+00        1.4600E+00        1.3000E-01
+        1.4800E+01        0.0000E+00        1.2500E+00        1.2000E-01
+        1.4810E+01        0.0000E+00        1.4100E+00        1.2000E-01

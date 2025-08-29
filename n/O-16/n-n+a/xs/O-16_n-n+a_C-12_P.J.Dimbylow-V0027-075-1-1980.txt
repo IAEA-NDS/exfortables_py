@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 8-O-16(N,N+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: N,N+A 
+#   MF-MT number: 3 - 22 
+#   Incident energy:  2.0000e+01 MeV - 6.0700e+01 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: V0027-075-1 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(N,N+A)6-C-12,SEQ,SIG,,,CALC) 
+#   First author: P.J.Dimbylow 
+#   Institute:  (2UK NRP): National Radiological Protection Board, Harwell 
+#   Reference:  (J,PMB,25,637,1980) 
+#   Year:  1980 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/V00/V0027.x4 
+#   nds:  https://nds.iaea.org/EXFOR/V0027
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+01        0.0000E+00        2.5140E-01        0.0000E+00
+        2.2000E+01        0.0000E+00        2.4270E-01        0.0000E+00
+        2.4000E+01        0.0000E+00        2.0790E-01        0.0000E+00
+        2.6000E+01        0.0000E+00        1.7240E-01        0.0000E+00
+        2.8000E+01        0.0000E+00        1.3520E-01        0.0000E+00
+        3.0000E+01        0.0000E+00        1.1780E-01        0.0000E+00
+        3.2000E+01        0.0000E+00        8.6000E-02        0.0000E+00
+        3.6000E+01        0.0000E+00        4.3500E-02        0.0000E+00
+        4.0000E+01        0.0000E+00        3.3900E-02        0.0000E+00
+        4.5000E+01        0.0000E+00        1.9500E-02        0.0000E+00
+        5.0000E+01        0.0000E+00        1.2400E-02        0.0000E+00
+        6.0700E+01        0.0000E+00        6.2000E-03        0.0000E+00

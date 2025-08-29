@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 52-TE-122(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 52 
+#   A: 122 
+#   Nuclide: 52-TE-122 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.1088e+01 MeV - 3.9574e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 123 
+#   Nuclide: 52-TE-123-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0234-014-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-122(D,P)52-TE-123-M,,SIG) 
+#   First author: J.H.Zaidi 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,ARI,34,1425,1983) 
+#   Year:  1983 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0234.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0234
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1088E+01        2.5000E-02        3.3770E-03        2.7300E-04
+        1.1939E+01        2.5000E-02        8.5190E-03        6.2800E-04
+        1.3145E+01        2.5000E-02        2.0682E-02        1.9880E-03
+        1.4526E+01        2.5000E-02        4.6509E-02        3.4260E-03
+        1.6254E+01        2.5000E-02        6.5079E-02        5.1740E-03
+        1.9159E+01        2.5000E-02        6.1151E-02        5.8790E-03
+        2.0933E+01        2.5000E-02        4.8580E-02        5.4900E-03
+        2.2948E+01        2.5000E-02        4.4969E-02        4.7010E-03
+        2.6322E+01        2.5000E-02        3.2822E-02        2.6090E-03
+        2.9458E+01        2.5000E-02        2.3776E-02        2.4860E-03
+        3.1764E+01        2.5000E-02        1.6967E-02        1.4900E-03
+        3.3775E+01        2.5000E-02        1.3375E-02        1.0630E-03
+        3.5375E+01        2.5000E-02        1.2383E-02        1.1900E-03
+        3.6793E+01        2.5000E-02        9.6890E-03        7.7000E-04
+        3.8981E+01        2.5000E-02        7.1840E-03        5.1200E-04
+        3.9574E+01        2.5000E-02        6.9130E-03        4.9300E-04

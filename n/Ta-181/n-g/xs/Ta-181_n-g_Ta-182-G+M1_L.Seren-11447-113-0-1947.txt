@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 73-TA-181(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 182 
+#   Nuclide: 73-TA-182-G+M1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11447-113-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-181(N,G)73-TA-182-G+M1,,SIG,,MXW) 
+#   First author: L.Seren 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,PR,72,888,1947) 
+#   Year:  1947 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11447.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11447
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.0600E+01        4.1200E+00

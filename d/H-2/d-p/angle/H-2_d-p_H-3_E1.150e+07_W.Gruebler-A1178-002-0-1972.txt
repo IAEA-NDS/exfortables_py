@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 1-H-2(D,P)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 4 - 103 
+#   Incident energy:  1.1500e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1178-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(D,P)1-H-3,,DA,,,EXP) 
+#   First author: W.Gruebler 
+#   Institute:  (2SWTETH): Eidgenossische Technische Hochschule, Zuerich 
+#   Reference:  (J,NP/A,193,(1),129,197210) 
+#   Year:  1972 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A11/A1178.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1178
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+        3.1280E+01        1.0000E+00        5.2110E-03        1.0000E-04
+        4.1860E+01        1.0000E+00        2.0850E-03        1.0000E-04
+        5.3200E+01        1.0000E+00        2.7200E-03        1.0000E-04
+        6.3660E+01        1.0000E+00        3.6400E-03        1.0000E-04
+        7.3110E+01        1.0000E+00        4.1850E-03        1.0000E-04
+        8.2430E+01        1.0000E+00        4.0720E-03        1.0000E-04
+        9.1750E+01        1.0000E+00        3.9390E-03        1.0000E-04
+        1.0110E+02        1.0000E+00        4.0340E-03        1.0000E-04
+        1.0860E+02        1.0000E+00        4.1130E-03        1.0000E-04
+        1.1600E+02        1.0000E+00        3.7210E-03        1.0000E-04
+        1.2240E+02        1.0000E+00        3.0500E-03        1.0000E-04
+        1.2880E+02        1.0000E+00        2.4270E-03        1.0000E-04
+        1.3620E+02        1.0000E+00        2.0810E-03        1.0000E-04
+        1.4200E+02        1.0000E+00        3.1040E-03        1.0000E-04
+        1.4820E+02        1.0000E+00        5.8200E-03        1.0000E-04
+        1.5290E+02        1.0000E+00        1.0608E-02        1.0000E-04
+        1.5840E+02        1.0000E+00        1.4925E-02        1.0000E-04
+        1.6360E+02        1.0000E+00        2.1970E-02        1.0000E-04
+        1.6840E+02        1.0000E+00        2.7510E-02        1.0000E-04

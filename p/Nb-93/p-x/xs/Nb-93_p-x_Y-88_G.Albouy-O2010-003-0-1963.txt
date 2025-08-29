@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 41-NB-93(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.5550e+01 MeV - 1.5017e+02 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 88 
+#   Nuclide: 39-Y-88 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2010-003-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(P,X)39-Y-88,,SIG) 
+#   First author: G.Albouy 
+#   Institute:  (2FR PAR): Universite de Paris 
+#   Reference:  (J,JPR,24,67,1963) 
+#   Year:  1963 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2010.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2010
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5550E+01        4.6400E+00        3.2660E-03        1.3060E-03
+        4.0420E+01        4.8100E+00        8.0660E-03        1.7080E-03
+        5.0380E+01        3.8100E+00        1.0666E-02        2.1090E-03
+        5.2690E+01        3.8000E+00        1.0806E-02        2.0090E-03
+        5.8470E+01        3.8100E+00        1.4067E-02        2.3110E-03
+        6.7110E+01        3.8100E+00        1.0637E-02        2.0090E-03
+        8.7020E+01        3.6400E+00        1.2858E-02        2.3450E-03
+        1.0534E+02        3.4800E+00        2.3013E-02        3.7170E-03
+        1.1489E+02        2.3200E+00        2.4006E-02        3.7850E-03
+        1.1859E+02        2.4800E+00        2.2976E-02        3.5490E-03
+        1.2862E+02        2.8200E+00        2.4338E-02        3.9850E-03
+        1.5017E+02        2.6500E+00        3.0079E-02        4.8220E-03

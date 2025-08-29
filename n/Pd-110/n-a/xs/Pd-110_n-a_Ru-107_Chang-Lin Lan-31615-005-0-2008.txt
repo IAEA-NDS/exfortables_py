@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31615-005-0 
-# EXFOR reaction        : (46-PD-110(N,A)44-RU-107,,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4800e+01 MeV 
-# target                : Pd-110 
-# product               : Ru-107 
-# level energy          : - 
-# MF-MT number          : 3 - 107 
-# first author          : Chang-Lin Lan 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,RPC,77,854,2008) 
-# year                  : 2008 
-# facility              : (CYCLO): Cyclotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31615.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31615
+# Header: 
+#   Title: 46-PD-110(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 46 
+#   A: 110 
+#   Nuclide: 46-PD-110 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 44 
+#   A: 107 
+#   Nuclide: 44-RU-107 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31615-005-0 (entry-subentry-pointer) 
+#   Reaction code: (46-PD-110(N,A)44-RU-107,,SIG) 
+#   First author: Chang-Lin Lan 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,RPC,77,854,2008) 
+#   Year:  2008 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31615.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31615
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3500E+01        3.0000E-01        1.8760E-03        1.1800E-03

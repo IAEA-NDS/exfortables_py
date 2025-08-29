@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 32-GE-70(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 32 
+#   A: 70 
+#   Nuclide: 32-GE-70 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.0000e+01 MeV - 3.8000e+01 MeV 
+# Residual: 
+#   Z: 32 
+#   A: 69 
+#   Nuclide: 32-GE-69 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M0496-002-0 (entry-subentry-pointer) 
+#   Reaction code: (32-GE-70(G,N)32-GE-69,,SIG,,BRS) 
+#   First author: J.J.Mccarthy 
+#   Institute:  (1USAIOW): University of Iowa, Iowa City, IA 
+#   Reference:  (J,PR/C,11,772,1975) 
+#   Year:  1975 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M04/M0496.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0496
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+01        0.0000E+00        2.5000E-02        2.5000E-03
+        1.2000E+01        0.0000E+00        7.2000E-02        5.0000E-03
+        1.4000E+01        0.0000E+00        1.2700E-01        7.0000E-03
+        1.6000E+01        0.0000E+00        1.4500E-01        6.0000E-03
+        1.8000E+01        0.0000E+00        1.0500E-01        8.0000E-03
+        2.0000E+01        0.0000E+00        3.5000E-02        1.2000E-02
+        2.2000E+01        0.0000E+00       -1.5000E-02        1.0000E-02
+        2.4000E+01        0.0000E+00       -3.5000E-02        1.0000E-02
+        2.6000E+01        0.0000E+00       -3.0000E-02        1.3000E-02
+        3.0000E+01        0.0000E+00        1.2500E-02        1.2000E-02
+        3.2000E+01        0.0000E+00        3.0000E-02        1.0000E-02
+        3.4000E+01        0.0000E+00        3.5000E-02        8.0000E-03
+        3.6000E+01        0.0000E+00        2.0000E-02        1.3000E-02
+        3.8000E+01        0.0000E+00        1.2000E-02        3.5000E-02

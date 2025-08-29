@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 29-CU-63(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3470e+01 MeV - 1.4860e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 60 
+#   Nuclide: 27-CO-60 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41240-022-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-63(N,A)27-CO-60,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,RI-252,1999) 
+#   Year:  1999 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41240.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41240
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3470E+01        0.0000E+00        4.7500E-02        2.7000E-03
+        1.3640E+01        0.0000E+00        4.5600E-02        1.6000E-03
+        1.3880E+01        0.0000E+00        4.5600E-02        2.5000E-03
+        1.4050E+01        0.0000E+00        4.5500E-02        1.4000E-03
+        1.4280E+01        0.0000E+00        4.5800E-02        1.4000E-03
+        1.4440E+01        0.0000E+00        4.6100E-02        1.7000E-03
+        1.4630E+01        0.0000E+00        4.3200E-02        1.5000E-03
+        1.4860E+01        0.0000E+00        4.2300E-02        1.3000E-03

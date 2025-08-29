@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 29-CU-65(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  2.9000e+00 MeV - 3.0900e+00 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 65 
+#   Nuclide: 28-NI-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22837-010-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(N,P)28-NI-65,,SIG) 
+#   First author: T.Shimizu 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  (J,ANE,31,975,2004) 
+#   Year:  2004 
+#   Facility:  (FNS): Fusion neutron source 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22837.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22837
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0900E+00        0.0000E+00        1.1300E-04        1.7000E-05
+        2.9000E+00        0.0000E+00        5.2000E-05        1.4000E-05

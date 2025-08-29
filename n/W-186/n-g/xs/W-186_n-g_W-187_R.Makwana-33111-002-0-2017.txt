@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 74-W-186(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 74 
+#   A: 186 
+#   Nuclide: 74-W-186 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.0800e+00 MeV - 1.6630e+01 MeV 
+# Residual: 
+#   Z: 74 
+#   A: 187 
+#   Nuclide: 74-W-187 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33111-002-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-186(N,G)74-W-187,,SIG,,SPA) 
+#   First author: R.Makwana 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,PR/C,96,024608,2017) 
+#   Year:  2017 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33111.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33111
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0800E+00        1.6500E-01        5.0790E-03        3.9000E-04
+        8.9600E+00        7.7000E-01        2.7670E-03        1.9000E-04
+        1.2470E+01        8.2500E-01        1.6200E-03        1.1000E-04
+        1.6630E+01        9.5000E-01        2.5700E-04        2.0000E-05

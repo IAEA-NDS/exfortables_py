@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 3-LI-6(HE3,P+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: HE3,P+A 
+#   MF-MT number: 3 - 112 
+#   Incident energy:  2.9230e+00 MeV - 5.9460e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F0001-005-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(HE3,P+A)2-HE-4,,SIG,,,EVAL) 
+#   First author: C.R.Gould 
+#   Institute:  (1USATNL): Triangle Universities Nuclear Laboratory , Durham, NC 
+#   Reference:  (J,NSE,60,(4),477,197608) 
+#   Year:  1976 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F00/F0001.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0001
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9230E+00        4.0000E-02        3.9130E-02        9.7825E-03
+        3.9320E+00        4.0000E-02        4.4210E-02        1.1052E-02
+        5.0590E+00        4.0000E-02        5.0760E-02        1.2690E-02
+        5.9460E+00        4.0000E-02        6.0260E-02        1.5065E-02

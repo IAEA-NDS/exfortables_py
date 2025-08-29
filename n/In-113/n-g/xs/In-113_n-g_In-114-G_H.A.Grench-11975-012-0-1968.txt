@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 49-IN-113(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 49 
+#   A: 113 
+#   Nuclide: 49-IN-113 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.6800e-01 MeV - 1.0220e+00 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 114 
+#   Nuclide: 49-IN-114-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11975-012-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-113(N,G)49-IN-114-G,,SIG) 
+#   First author: H.A.Grench 
+#   Institute:  (1USALOK): Lockheed Aircraft Corp., Sunnyvale, CA 
+#   Reference:  (J,PR,165,1298,68) 
+#   Year:  1968 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11975.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11975
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6800E-01        2.9000E-02        8.5200E-02        2.2152E-02
+        4.5300E-01        2.8000E-02        7.3400E-02        1.9084E-02
+        5.3000E-01        2.6000E-02        7.5600E-02        1.9656E-02
+        6.1400E-01        2.8000E-02        7.9200E-02        2.0592E-02
+        6.7400E-01        2.7000E-02        7.6700E-02        1.9942E-02
+        7.2300E-01        2.7000E-02        7.8000E-02        2.0280E-02
+        7.8400E-01        2.7000E-02        7.7200E-02        2.0072E-02
+        8.5000E-01        2.7000E-02        7.8100E-02        2.0306E-02
+        9.0800E-01        3.0000E-02        7.8600E-02        2.0436E-02
+        9.6500E-01        3.0000E-02        7.8700E-02        2.0462E-02
+        1.0220E+00        3.0000E-02        7.9000E-02        2.0540E-02

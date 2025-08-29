@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 29-CU-65(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  9.3000e+00 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 65 
+#   Nuclide: 30-ZN-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0070-003-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(P,N)30-ZN-65,,SIG) 
+#   First author: K.F.Chackett 
+#   Institute:  (2UK BIR): University of Birmingham, England 
+#   Reference:  (J,PPS,80,738,1962) 
+#   Year:  1962 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0070.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0070
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.3000E+00        3.0000E-01        8.9500E-01        3.5000E-02

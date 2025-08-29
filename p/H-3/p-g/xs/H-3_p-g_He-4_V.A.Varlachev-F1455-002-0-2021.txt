@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 1-H-3(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.2000e-02 MeV - 3.4000e-02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1455-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-3(P,G)2-HE-4,,SIG,,SFC) 
+#   First author: V.A.Varlachev 
+#   Institute:  (4RUSTPI): Tomskii Politekhnicheskii Universitet, Tomsk 
+#   Reference:  (J,ZEP,113,229,2021) 
+#   Year:  2021 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F14/F1455.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1455
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E-02        0.0000E+00        2.0100E+00        0.0000E+00
+        1.4000E-02        0.0000E+00        2.1100E+00        0.0000E+00
+        1.6000E-02        0.0000E+00        2.1100E+00        0.0000E+00
+        2.0000E-02        0.0000E+00        2.1800E+00        0.0000E+00
+        2.4000E-02        0.0000E+00        2.2400E+00        0.0000E+00
+        2.8000E-02        0.0000E+00        2.2400E+00        0.0000E+00
+        3.0000E-02        0.0000E+00        2.2800E+00        0.0000E+00
+        3.2000E-02        0.0000E+00        2.3400E+00        0.0000E+00
+        3.4000E-02        0.0000E+00        2.2800E+00        0.0000E+00

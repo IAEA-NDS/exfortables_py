@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 92-U-235(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  1.5750e-06 MeV - 3.3950e-05 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10134-004-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,TOT),,SIG,,AV) 
+#   First author: R.L.Bramblett 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,NSE,35,350,1969) 
+#   Year:  1969 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10134.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10134
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5750E-06        0.0000E+00        6.0000E+01        0.0000E+00
+        3.3950E-06        0.0000E+00        3.5000E+01        0.0000E+00
+        7.3200E-06        0.0000E+00        1.0600E+02        0.0000E+00
+        1.5750E-05        0.0000E+00        1.0700E+02        0.0000E+00
+        3.3950E-05        0.0000E+00        8.3000E+01        0.0000E+00

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 24-CR-54(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 24 
+#   A: 54 
+#   Nuclide: 24-CR-54 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 23 
+#   A: 54 
+#   Nuclide: 23-V-54 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30812-008-0 (entry-subentry-pointer) 
+#   Reaction code: (24-CR-54(N,P)23-V-54,,SIG) 
+#   First author: I.Ribansky 
+#   Institute:  (3SLKSLO): Slovak Academy of Sciences, Physics Institute , Bratislava 
+#   Reference:  (J,ANE,12,577,1985) 
+#   Year:  1985 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/308/30812.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30812
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        1.5300E-02        7.0000E-04

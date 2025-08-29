@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 40-ZR-90(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.2500e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 88 
+#   Nuclide: 39-Y-88 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20840-046-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(N,X)39-Y-88,,SIG,,SPA) 
+#   First author: S.M.Qaim 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,NP/A,295,150,197801) 
+#   Year:  1978 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20840.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20840
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2500E+01        1.5800E+01        5.1000E-02        1.1000E-02

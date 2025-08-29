@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 21-SC-45(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 21 
+#   A: 45 
+#   Nuclide: 21-SC-45 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 19 
+#   A: 42 
+#   Nuclide: 19-K-42 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11590-006-0 (entry-subentry-pointer) 
+#   Reaction code: (21-SC-45(N,A)19-K-42,,SIG) 
+#   First author: E.T.Bramlitt 
+#   Institute:  (1USAARK): University of Arkansas, Fayetteville, AR 
+#   Reference:  (J,PR,131,2649,1963) 
+#   Year:  1963 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11590.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11590
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        2.0000E-01        6.3000E-02        1.2000E-02

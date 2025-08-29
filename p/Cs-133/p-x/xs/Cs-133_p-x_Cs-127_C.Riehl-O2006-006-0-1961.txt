@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 55-CS-133(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 55 
+#   A: 133 
+#   Nuclide: 55-CS-133 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.6040e+01 MeV - 1.5316e+02 MeV 
+# Residual: 
+#   Z: 55 
+#   A: 127 
+#   Nuclide: 55-CS-127 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2006-006-0 (entry-subentry-pointer) 
+#   Reaction code: (55-CS-133(P,X)55-CS-127,CUM,SIG) 
+#   First author: C.Riehl 
+#   Institute:  (2FR PAR): Universite de Paris 
+#   Reference:  (J,JPR,22,770,1961) 
+#   Year:  1961 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2006.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2006
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6040E+01        0.0000E+00        4.9600E-04        0.0000E+00
+        4.8280E+01        0.0000E+00        1.1193E-02        4.5130E-03
+        5.7840E+01        0.0000E+00        1.1724E-01        2.4260E-02
+        7.4590E+01        0.0000E+00        1.5754E-01        2.9901E-02
+        1.0098E+02        0.0000E+00        1.6737E-01        3.3003E-02
+        1.4215E+02        0.0000E+00        1.1200E-01        2.2284E-02
+        1.5316E+02        0.0000E+00        7.9824E-02        1.5514E-02

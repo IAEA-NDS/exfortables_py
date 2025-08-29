@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 49-IN-113(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 49 
+#   A: 113 
+#   Nuclide: 49-IN-113 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  5.0640e+00 MeV - 1.0030e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 113 
+#   Nuclide: 49-IN-113-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10521-005-1 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-113(N,INL)49-IN-113-M,,SIG) 
+#   First author: D.L.Smith 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,NSE,60,319,197607) 
+#   Year:  1976 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10521.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10521
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0640E+00        3.2940E-01        2.9480E-01        1.8290E-02
+        5.4250E+00        3.1240E-01        2.9450E-01        1.8000E-02
+        5.7560E+00        3.0340E-01        2.9890E-01        1.9110E-02
+        6.4060E+00        2.9840E-01        2.8910E-01        1.7670E-02
+        6.7210E+00        2.9980E-01        2.5050E-01        1.6010E-02
+        7.0340E+00        3.0300E-01        2.4090E-01        1.5430E-02
+        7.3300E+00        3.0720E-01        2.4560E-01        1.5240E-02
+        7.6460E+00        3.1300E-01        2.5810E-01        1.5700E-02
+        7.9570E+00        3.1940E-01        2.5620E-01        1.5610E-02
+        8.2560E+00        3.2660E-01        2.4840E-01        1.5120E-02
+        8.5330E+00        3.3360E-01        2.4400E-01        1.4900E-02
+        8.8430E+00        3.4180E-01        2.3390E-01        1.4490E-02
+        9.1460E+00        3.5060E-01        2.2840E-01        1.3910E-02
+        9.4290E+00        3.5900E-01        2.0510E-01        1.2490E-02
+        9.7400E+00        3.6860E-01        2.1670E-01        1.3220E-02
+        1.0030E+01        3.7780E-01        2.0680E-01        1.2620E-02

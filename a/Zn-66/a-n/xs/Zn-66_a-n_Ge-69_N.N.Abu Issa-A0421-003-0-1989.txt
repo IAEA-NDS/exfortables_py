@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 30-ZN-66(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 66 
+#   Nuclide: 30-ZN-66 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.4800e+01 MeV - 2.4400e+01 MeV 
+# Residual: 
+#   Z: 32 
+#   A: 69 
+#   Nuclide: 32-GE-69 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0421-003-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-66(A,N)32-GE-69,,SIG) 
+#   First author: N.N.Abu Issa 
+#   Institute:  (4RUSSUL): Gosudarstvennyi University (State University ), St.Petersburg 
+#   Reference:  (C,89TASHKE,,350,1989) 
+#   Year:  1989 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0421.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0421
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        1.2000E-01        2.0000E-02
+        1.5000E+01        0.0000E+00        1.4000E-01        3.0000E-02
+        1.6400E+01        0.0000E+00        2.2000E-01        4.0000E-02
+        1.6800E+01        0.0000E+00        2.6000E-01        5.0000E-02
+        1.8200E+01        0.0000E+00        2.9000E-01        6.0000E-02
+        1.9100E+01        0.0000E+00        3.2000E-01        6.0000E-02
+        2.0000E+01        0.0000E+00        3.2000E-01        6.0000E-02
+        2.0600E+01        0.0000E+00        3.2000E-01        6.0000E-02
+        2.1800E+01        0.0000E+00        2.9000E-01        5.0000E-02
+        2.3400E+01        0.0000E+00        2.3000E-01        4.0000E-02
+        2.4400E+01        0.0000E+00        1.7000E-01        3.0000E-02

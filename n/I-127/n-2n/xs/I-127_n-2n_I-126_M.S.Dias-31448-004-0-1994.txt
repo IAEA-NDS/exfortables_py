@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 53-I-127(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 53 
+#   A: 127 
+#   Nuclide: 53-I-127 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 126 
+#   Nuclide: 53-I-126 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31448-004-0 (entry-subentry-pointer) 
+#   Reaction code: (53-I-127(N,2N)53-I-126,,SIG,,FIS) 
+#   First author: M.S.Dias 
+#   Institute:  (3BZLIPE): Institute de Pesquisas Energeticas e Nucleares, Sao Paulo 
+#   Reference:  (C,94GATLIN,1,257,199405) 
+#   Year:  1994 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31448.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31448
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.2920E-03        4.0000E-05

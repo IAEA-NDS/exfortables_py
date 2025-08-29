@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 58-CE-136(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 58 
+#   A: 136 
+#   Nuclide: 58-CE-136 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3470e+01 MeV - 1.4860e+01 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 135 
+#   Nuclide: 58-CE-135 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41240-095-0 (entry-subentry-pointer) 
+#   Reaction code: (58-CE-136(N,2N)58-CE-135,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,RI-252,1999) 
+#   Year:  1999 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41240.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41240
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3470E+01        0.0000E+00        1.2890E+00        9.3000E-02
+        1.3640E+01        0.0000E+00        1.3180E+00        9.5000E-02
+        1.3880E+01        0.0000E+00        1.3400E+00        9.8000E-02
+        1.4050E+01        0.0000E+00        1.3990E+00        1.0000E-01
+        1.4280E+01        0.0000E+00        1.4500E+00        1.0600E-01
+        1.4470E+01        0.0000E+00        1.4800E+00        1.0800E-01
+        1.4680E+01        0.0000E+00        1.5000E+00        1.0900E-01
+        1.4860E+01        0.0000E+00        1.5320E+00        1.0900E-01

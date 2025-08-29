@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 47-AG-107(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 47 
+#   A: 107 
+#   Nuclide: 47-AG-107 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  7.8330e+00 MeV - 1.1888e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 111 
+#   Nuclide: 49-IN-111 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1474-003-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-107(A,G)49-IN-111,,SIG) 
+#   First author: C.M.Baglin 
+#   Institute:  (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
+#   Reference:  (C,2004SANTA,,1370,2004) 
+#   Year:  2004 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C14/C1474.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1474
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.8330E+00        1.2600E-01        1.5480E-07        2.5690E-08
+        8.1320E+00        1.0200E-01        2.5720E-07        3.3990E-08
+        8.3600E+00        1.1400E-01        4.5340E-07        7.5240E-08
+        8.3900E+00        9.0000E-02        3.8890E-07        5.1380E-08
+        8.6290E+00        1.1400E-01        6.8550E-07        9.0580E-08
+        8.6950E+00        1.6200E-01        6.2370E-07        1.5940E-07
+        8.8750E+00        1.0200E-01        8.9940E-07        2.5320E-07
+        9.8210E+00        1.6800E-01        4.5360E-06        1.8380E-06
+        9.8870E+00        9.6000E-02        4.3780E-06        6.2300E-07
+        1.0947E+01        9.0000E-02        2.1820E-05        2.8830E-06
+        1.1678E+01        1.0800E-01        3.0010E-05        3.9650E-06
+        1.1888E+01        1.0200E-01        3.9840E-05        4.4380E-06

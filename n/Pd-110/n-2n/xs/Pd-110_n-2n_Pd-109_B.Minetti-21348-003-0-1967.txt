@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 46-PD-110(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 46 
+#   A: 110 
+#   Nuclide: 46-PD-110 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 46 
+#   A: 109 
+#   Nuclide: 46-PD-109 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21348-003-0 (entry-subentry-pointer) 
+#   Reaction code: (46-PD-110(N,2N)46-PD-109,,SIG) 
+#   First author: B.Minetti 
+#   Institute:  (2ITYTUR): Universita degli Studi di Torino + INFN Torino 
+#   Reference:  (J,ZP,207,132,6710) 
+#   Year:  1967 
+#   Facility:  (CCW  ): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21348.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21348
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        0.0000E+00        1.5900E+00        8.0000E-02

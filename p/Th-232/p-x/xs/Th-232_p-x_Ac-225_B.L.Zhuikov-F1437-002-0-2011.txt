@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 90-TH-232(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  9.0000e+01 MeV - 1.3500e+02 MeV 
+# Residual: 
+#   Z: 89 
+#   A: 225 
+#   Nuclide: 89-AC-225 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1437-002-0 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(P,X)89-AC-225,CUM,SIG) 
+#   First author: B.L.Zhuikov 
+#   Institute:  (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
+#   Reference:  (J,RDC,53,73,2011) 
+#   Year:  2011 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F14/F1437.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1437
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.0000E+01        2.5000E+00        6.7000E-03        9.0000E-04
+        1.1000E+02        2.5000E+00        9.8000E-03        1.9000E-03
+        1.3500E+02        2.5000E+00        1.3900E-02        1.5000E-03

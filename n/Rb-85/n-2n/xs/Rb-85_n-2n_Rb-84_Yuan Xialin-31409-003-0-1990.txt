@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31409-003-0 
-# EXFOR reaction        : (37-RB-85(N,2N)37-RB-84,,SIG) 
-# incident energy       : 1.2490e+01 MeV - 1.7540e+01 MeV 
-# target                : Rb-85 
-# product               : Rb-84 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Yuan Xialin 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CNP,12,289,1990) 
-# year                  : 1990 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31409.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31409
+# Header: 
+#   Title: 37-RB-85(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 37 
+#   A: 85 
+#   Nuclide: 37-RB-85 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2490e+01 MeV - 1.7540e+01 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 84 
+#   Nuclide: 37-RB-84 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31409-003-0 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-85(N,2N)37-RB-84,,SIG) 
+#   First author: Yuan Xialin 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CNP,12,289,1990) 
+#   Year:  1990 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31409.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31409
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.2490E+01        1.1000E-01        6.5200E-01        2.6000E-02

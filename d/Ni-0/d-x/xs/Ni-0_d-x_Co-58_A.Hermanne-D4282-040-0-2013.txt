@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 28-NI-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.8700e+01 MeV - 4.8300e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4282-040-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(D,X)27-CO-58,,SIG) 
+#   First author: A.Hermanne 
+#   Institute:  (2BLGVUB): Vrije Universiteit Brussels, Brussels 
+#   Reference:  (J,NIM/B,299,8,2013) 
+#   Year:  2013 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4282.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4282
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.8300E+01        2.0000E-01        1.1900E-01        1.3000E-02
+        4.6400E+01        2.0000E-01        1.1700E-01        1.3000E-02
+        4.4500E+01        2.0000E-01        1.1800E-01        1.3000E-02
+        4.2500E+01        3.0000E-01        1.1600E-01        1.3000E-02
+        4.0400E+01        3.0000E-01        1.1500E-01        1.3000E-02
+        3.8200E+01        4.0000E-01        1.1500E-01        1.3000E-02
+        3.5900E+01        4.0000E-01        1.1000E-01        1.2000E-02
+        3.4100E+01        5.0000E-01        1.1400E-01        1.3000E-02
+        3.2300E+01        6.0000E-01        1.2300E-01        1.4000E-02
+        3.0300E+01        7.0000E-01        1.3200E-01        1.5000E-02
+        2.8300E+01        8.0000E-01        1.5600E-01        1.7000E-02
+        2.6100E+01        9.0000E-01        1.8000E-01        2.0000E-02
+        2.3800E+01        1.0000E+00        2.0700E-01        2.3000E-02
+        2.1400E+01        1.2000E+00        2.3600E-01        2.6000E-02
+        1.8700E+01        1.4000E+00        2.4100E-01        2.6000E-02

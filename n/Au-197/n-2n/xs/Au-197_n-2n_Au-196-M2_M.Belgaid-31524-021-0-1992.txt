@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 79-AU-197(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4730e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 196 
+#   Nuclide: 79-AU-196-M2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31524-021-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,2N)79-AU-196-M2,,SIG) 
+#   First author: M.Belgaid 
+#   Institute:  (3ALGUHB): Universite Sci. et Tech. Houari Boumediene, Algiers 
+#   Reference:  (J,JRN/L,166,493,1992) 
+#   Year:  1992 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31524.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31524
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4730E+01        5.0000E-02        1.1500E-01        6.0000E-03

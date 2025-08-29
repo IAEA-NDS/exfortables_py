@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 92-U-238(N,SCT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,SCT 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.2467e-06 MeV - 6.5908e-06 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41549-007-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,SCT)92-U-238,,SIG) 
+#   First author: T.L.Enik 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  ((S,ISINN-8,371,2000)=(S,JINR-E3-2000-192,371,2000)) 
+#   Year:  2000 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/415/41549.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41549
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.2467E-06        0.0000E+00        2.3100E+00        4.5200E-01
+        6.2673E-06        0.0000E+00        2.3540E+00        4.1100E-01
+        6.2879E-06        0.0000E+00        2.1090E+00        4.5200E-01
+        6.3094E-06        0.0000E+00        1.8240E+00        4.5200E-01
+        6.3304E-06        0.0000E+00        1.4150E+00        4.5200E-01
+        6.3515E-06        0.0000E+00        2.2820E+00        4.9300E-01
+        6.3725E-06        0.0000E+00        1.4610E+00        4.9300E-01
+        6.3940E-06        0.0000E+00        1.8750E+00        5.7600E-01
+        6.4151E-06        0.0000E+00        1.1780E+00        5.7600E-01
+        6.4371E-06        0.0000E+00        1.5100E+00        6.5800E-01
+        6.4586E-06        0.0000E+00        1.6360E+00        7.4000E-01
+        6.4801E-06        0.0000E+00        1.2270E+00        9.0500E-01
+        6.5021E-06        0.0000E+00       -9.5000E-01        9.4600E-01
+        6.5245E-06        0.0000E+00        2.1380E+00        1.3580E+00
+        6.5465E-06        0.0000E+00        2.0170E+00        1.6040E+00
+        6.5680E-06        0.0000E+00        6.1350E+00        2.2220E+00
+        6.5908E-06        0.0000E+00        1.2393E+01        3.2920E+00

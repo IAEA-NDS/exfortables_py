@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 25-MN-55(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 25 
+#   A: 55 
+#   Nuclide: 25-MN-55 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 54 
+#   Nuclide: 25-MN-54 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41298-011-0 (entry-subentry-pointer) 
+#   Reaction code: (25-MN-55(N,2N)25-MN-54,,SIG,,,DERIV) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,RI-252,1999) 
+#   Year:  1999 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41298.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41298
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        6.9000E-01        2.5000E-02

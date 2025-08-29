@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 28-NI-58(D,P+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: D,P+A 
+#   MF-MT number: 3 - 112 
+#   Incident energy:  1.0900e+01 MeV - 2.4000e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 55 
+#   Nuclide: 26-FE-55 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0705-006-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(D,P+A)26-FE-55,,SIG) 
+#   First author: M.Blann 
+#   Institute:  (1USAROC): University of Rochester, Rochester, NY 
+#   Reference:  (J,PR,131,764,196307) 
+#   Year:  1963 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C07/C0705.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0705
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0900E+01        0.0000E+00        7.0000E-04        2.1000E-04
+        1.2600E+01        0.0000E+00        5.0000E-03        1.5000E-03
+        1.4200E+01        0.0000E+00        1.5000E-02        4.5000E-03
+        1.5600E+01        0.0000E+00        2.2000E-02        6.6000E-03
+        1.7000E+01        0.0000E+00        2.1000E-02        6.3000E-03
+        1.8300E+01        0.0000E+00        4.8000E-02        1.4400E-02
+        1.9000E+01        0.0000E+00        4.8000E-02        1.4400E-02
+        1.9600E+01        0.0000E+00        6.7000E-02        2.0100E-02
+        2.0300E+01        0.0000E+00        6.6000E-02        1.9800E-02
+        2.0800E+01        0.0000E+00        7.4000E-02        2.2200E-02
+        2.1400E+01        0.0000E+00        7.1000E-02        2.1300E-02
+        2.1800E+01        0.0000E+00        7.7000E-02        2.3100E-02
+        2.2400E+01        0.0000E+00        7.3000E-02        2.1900E-02
+        2.2900E+01        0.0000E+00        6.5000E-02        1.9500E-02
+        2.3500E+01        0.0000E+00        7.3000E-02        2.1900E-02
+        2.4000E+01        0.0000E+00        7.3000E-02        2.1900E-02

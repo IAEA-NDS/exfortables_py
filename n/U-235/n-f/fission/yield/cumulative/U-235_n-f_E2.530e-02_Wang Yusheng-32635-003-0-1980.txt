@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32635-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW) 
+#   First author: Wang Yusheng 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,HFH,2,(3),129,198008) 
+#   Year:  1980 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32635.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32635
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             40.0             95.0                         6.3700E-02        2.2000E-03
+             44.0            103.0                         3.0800E-02        1.9000E-03
+             53.0            131.0                         3.1800E-02        2.0000E-03
+             53.0            132.0                         3.5500E-02        3.0000E-03
+             56.0            140.0                         6.2000E-02        3.9000E-03

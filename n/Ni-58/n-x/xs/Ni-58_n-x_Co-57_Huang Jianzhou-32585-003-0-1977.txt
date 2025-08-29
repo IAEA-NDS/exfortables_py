@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32585-003-0 
-# EXFOR reaction        : (28-NI-58(N,X)27-CO-57,,SIG) 
-# incident energy       : 1.2790e+01 MeV - 1.8260e+01 MeV 
-# target                : Ni-58 
-# product               : Co-57 
-# level energy          : - 
-# MF-MT number          : 3 - 10 
-# first author          : Huang Jianzhou 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CST,11,(3),211,197707) 
-# year                  : 1977 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32585.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32585
+# Header: 
+#   Title: 28-NI-58(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.2790e+01 MeV - 1.8260e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 57 
+#   Nuclide: 27-CO-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32585-003-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,X)27-CO-57,,SIG) 
+#   First author: Huang Jianzhou 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CST,11,(3),211,197707) 
+#   Year:  1977 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32585.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32585
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.2790E+01        2.9000E-01        3.5000E-01        2.2000E-02

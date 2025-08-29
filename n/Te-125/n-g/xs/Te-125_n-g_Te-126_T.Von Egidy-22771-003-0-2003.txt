@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 52-TE-125(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 52 
+#   A: 125 
+#   Nuclide: 52-TE-125 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5000e-08 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 126 
+#   Nuclide: 52-TE-126 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22771-003-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-125(N,G)52-TE-126,,SIG,,MXW) 
+#   First author: T.Von Egidy 
+#   Institute:  (2GERMUN): Technische Universitaet Muenchen 
+#   Reference:  (J,NP/A,714,355,2003) 
+#   Year:  2003 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22771.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22771
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-08        0.0000E+00        1.0900E+00        1.7000E-01

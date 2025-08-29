@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 57-LA-139(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 57 
+#   A: 139 
+#   Nuclide: 57-LA-139 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.2020e+01 MeV - 6.4090e+01 MeV 
+# Residual: 
+#   Z: 57 
+#   A: 133 
+#   Nuclide: 57-LA-133 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4375-009-0 (entry-subentry-pointer) 
+#   Reaction code: (57-LA-139(P,X)57-LA-133,CUM,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,JRN,312,691,2017) 
+#   Year:  2017 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4375.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4375
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.2020E+01        2.3000E-01        7.5200E-03        2.0600E-03
+        6.4090E+01        2.0000E-01        2.0750E-02        3.6600E-03

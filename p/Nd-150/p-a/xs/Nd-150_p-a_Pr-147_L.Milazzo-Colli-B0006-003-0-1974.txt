@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 60-ND-150(P,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 60 
+#   A: 150 
+#   Nuclide: 60-ND-150 
+# Reaction: 
+#   Process: P,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.8000e+01 MeV 
+# Residual: 
+#   Z: 59 
+#   A: 147 
+#   Nuclide: 59-PR-147 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0006-003-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-150(P,A)59-PR-147,,SIG,,,EXP) 
+#   First author: L.Milazzo-Colli 
+#   Institute:  (2ITYMIL): Universita degli Studi di Milano + INFN Milano 
+#   Reference:  (J,NP/A,218,274,1974) 
+#   Year:  1974 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0006.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0006
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8000E+01        0.0000E+00        6.7000E-03        0.0000E+00

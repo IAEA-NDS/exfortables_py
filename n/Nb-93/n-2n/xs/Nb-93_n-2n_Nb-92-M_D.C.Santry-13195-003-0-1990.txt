@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 41-NB-93(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2540e+01 MeV - 1.9800e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 92 
+#   Nuclide: 41-NB-92-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13195-003-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(N,2N)41-NB-92-M,,SIG) 
+#   First author: D.C.Santry 
+#   Institute:  (1CANCRC): A.E.C.L., Chalk River, Ontario 
+#   Reference:  (J,CJP,68,582,9007) 
+#   Year:  1990 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13195.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13195
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2540E+01        4.0000E-01        4.2200E-01        2.1000E-02
+        1.3580E+01        1.0000E-01        4.4600E-01        1.8000E-02
+        1.3890E+01        6.0000E-02        4.5000E-01        1.8000E-02
+        1.4240E+01        8.0000E-02        4.4300E-01        1.8000E-02
+        1.4500E+01        1.5000E-01        4.4400E-01        1.8000E-02
+        1.4740E+01        2.0000E-01        4.4400E-01        2.2000E-02
+        1.6220E+01        6.0000E-01        4.2300E-01        2.1000E-02
+        1.6300E+01        6.0000E-01        4.2000E-01        2.1000E-02
+        1.7900E+01        5.0000E-01        4.1000E-01        2.0000E-02
+        1.9000E+01        3.0000E-01        3.7600E-01        1.9000E-02
+        1.9500E+01        3.0000E-01        3.4800E-01        1.7000E-02
+        1.9800E+01        3.0000E-01        2.9300E-01        1.4000E-02

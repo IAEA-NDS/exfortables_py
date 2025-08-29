@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 27-CO-59(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.1400e+00 MeV - 2.6800e+00 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40036-014-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,INL)27-CO-59,,SIG) 
+#   First author: D.L.Broder 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (R,FEI-155,1969) 
+#   Year:  1969 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40036.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40036
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1400E+00        0.0000E+00        7.0000E-02        4.9000E-03
+        1.2100E+00        0.0000E+00        3.6000E-01        2.5200E-02
+        1.2400E+00        0.0000E+00        4.4000E-01        3.0800E-02
+        1.2700E+00        0.0000E+00        4.3000E-01        3.0100E-02
+        1.3500E+00        0.0000E+00        5.9000E-01        4.1300E-02
+        1.4400E+00        0.0000E+00        6.0000E-01        4.2000E-02
+        1.5700E+00        0.0000E+00        7.5000E-01        5.2500E-02
+        1.6500E+00        0.0000E+00        9.0000E-01        6.3000E-02
+        1.7400E+00        0.0000E+00        9.8000E-01        6.8600E-02
+        1.8300E+00        0.0000E+00        1.0800E+00        7.5600E-02
+        1.9100E+00        0.0000E+00        1.0600E+00        7.4200E-02
+        2.0000E+00        0.0000E+00        9.9000E-01        6.9300E-02
+        2.1000E+00        0.0000E+00        1.1100E+00        7.7700E-02
+        2.2000E+00        0.0000E+00        1.0800E+00        7.5600E-02
+        2.2800E+00        0.0000E+00        1.2600E+00        8.8200E-02
+        2.3600E+00        0.0000E+00        1.3500E+00        9.4500E-02
+        2.5400E+00        0.0000E+00        1.4400E+00        1.0080E-01
+        2.6100E+00        0.0000E+00        1.4300E+00        1.0010E-01
+        2.6800E+00        0.0000E+00        1.4900E+00        1.0430E-01

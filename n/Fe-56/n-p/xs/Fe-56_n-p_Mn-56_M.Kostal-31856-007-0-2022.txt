@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 26-FE-56(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 56 
+#   Nuclide: 26-FE-56 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 56 
+#   Nuclide: 25-MN-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31856-007-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-56(N,P)25-MN-56,,SIG,,SPA) 
+#   First author: M.Kostal 
+#   Institute:  (3CZRUJV): Research Centre Rez, Husinec-Rez 
+#   Reference:  (J,ANE,179,109418,2022) 
+#   Year:  2022 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31856.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31856
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.6800E-04        5.3760E-06
+        1.5000E+00        0.0000E+00        3.2300E-04        6.4600E-06
+        1.5000E+00        0.0000E+00        1.7300E-04        4.4980E-06
+        1.5000E+00        0.0000E+00        3.0100E-04        7.8260E-06
+        1.5000E+00        0.0000E+00        1.3100E-04        5.5020E-06
+        1.5000E+00        0.0000E+00        1.5700E-04        5.1810E-06

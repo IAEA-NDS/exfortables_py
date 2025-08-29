@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 52-TE-128(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 52 
+#   A: 128 
+#   Nuclide: 52-TE-128 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4350e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 127 
+#   Nuclide: 51-SB-127 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22827-016-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-128(N,X)51-SB-127,,SIG) 
+#   First author: H.Sakane 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,ANE,30,1847,2003) 
+#   Year:  2003 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22827.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22827
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4870E+01        0.0000E+00        8.0000E-04        1.2000E-04
+        1.4350E+01        0.0000E+00        5.0000E-04        1.1000E-04

@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31626-004-0 
-# EXFOR reaction        : (74-W-0(N,X)73-TA-183,,SIG) 
-# incident energy       : 1.4700e+01 MeV 
-# target                : W-0 
-# product               : Ta-183 
-# level energy          : - 
-# MF-MT number          : 3 - 10 
-# first author          : Zhang Feng 
-# institute             : (3CPRUPD): University of Petroleum, Dongying, Shandong 
-# reference             : (J,PHE,27,28,2003) 
-# year                  : 2003 
-# facility              : (FNS): Fusion neutron source 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31626.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31626
+# Header: 
+#   Title: 74-W-0(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 74 
+#   A: 0 
+#   Nuclide: 74-W-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 183 
+#   Nuclide: 73-TA-183 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31626-004-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-0(N,X)73-TA-183,,SIG) 
+#   First author: Zhang Feng 
+#   Institute:  (3CPRUPD): University of Petroleum, Dongying, Shandong 
+#   Reference:  (J,PHE,27,28,2003) 
+#   Year:  2003 
+#   Facility:  (FNS): Fusion neutron source 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31626.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31626
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.4700E+01        2.0000E-01        7.0700E-04        4.0000E-05

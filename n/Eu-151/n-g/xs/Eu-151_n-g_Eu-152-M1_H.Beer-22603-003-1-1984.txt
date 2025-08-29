@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 63-EU-151(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 63 
+#   A: 151 
+#   Nuclide: 63-EU-151 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 152 
+#   Nuclide: 63-EU-152-M1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22603-003-1 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-151(N,G)63-EU-152-M1,,SIG,,MXW) 
+#   First author: H.Beer 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,AJ,278,388,1984) 
+#   Year:  1984 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22603.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22603
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        1.7660E+00        1.9800E-01
+        3.0000E-02        0.0000E+00               NAN        0.0000E+00

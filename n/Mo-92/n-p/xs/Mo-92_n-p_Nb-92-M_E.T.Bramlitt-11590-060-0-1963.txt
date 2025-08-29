@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 42-MO-92(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 92 
+#   Nuclide: 42-MO-92 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 92 
+#   Nuclide: 41-NB-92-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11590-060-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-92(N,P)41-NB-92-M,,SIG) 
+#   First author: E.T.Bramlitt 
+#   Institute:  (1USAARK): University of Arkansas, Fayetteville, AR 
+#   Reference:  (J,PR,131,2649,1963) 
+#   Year:  1963 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11590.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11590
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        2.0000E-01        6.0000E-02        1.5000E-02

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 28-NI-58(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  5.0500e+00 MeV - 5.5800e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10037-007-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,TOT),,SIG) 
+#   First author: P.Boschung 
+#   Institute:  (1USACSE): Case Western Reserve University, Cleveland, OH 
+#   Reference:  (J,NP/A,161,593,1971) 
+#   Year:  1971 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10037.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10037
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0500E+00        0.0000E+00        3.5540E+00        3.6000E-02
+        5.5800E+00        0.0000E+00        3.6250E+00        5.7000E-02

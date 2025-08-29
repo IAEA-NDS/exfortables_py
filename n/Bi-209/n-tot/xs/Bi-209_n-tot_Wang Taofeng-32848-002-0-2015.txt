@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32848-002-0 
-# EXFOR reaction        : (83-BI-209(N,TOT),,SIG) 
-# incident energy       : 1.2251e-07 MeV - 9.3376e-05 MeV 
-# target                : Bi-209 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 1 
-# first author          : Wang Taofeng 
-# institute             : (3BANBAN): Bangladesh 
-# reference             : (J,CNPR,32,280,2015) 
-# year                  : 2015 
-# facility              : (LINAC): Linear accelerator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32848.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32848
+# Header: 
+#   Title: 83-BI-209(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  1.2251e-07 MeV - 9.3376e-05 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32848-002-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(N,TOT),,SIG) 
+#   First author: Wang Taofeng 
+#   Institute:  (3BANBAN): Bangladesh 
+#   Reference:  (J,CNPR,32,280,2015) 
+#   Year:  2015 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32848.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32848
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         9.3376E-05        0.0000E+00        9.0744E+00        5.6470E-01

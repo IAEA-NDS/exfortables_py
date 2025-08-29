@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 27-CO-59(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.7550e+01 MeV - 3.0090e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 59 
+#   Nuclide: 26-FE-59 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23279-009-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,P)26-FE-59,,SIG) 
+#   First author: Y.Uno 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (C,96PRAHA,,465,1996) 
+#   Year:  1996 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23279.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23279
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7550E+01        0.0000E+00        3.5600E-02        1.8000E-03
+        1.9840E+01        0.0000E+00        2.6700E-02        1.3000E-03
+        2.2660E+01        0.0000E+00        2.4500E-02        1.2000E-03
+        2.4990E+01        0.0000E+00        2.1400E-02        1.1000E-03
+        2.7790E+01        0.0000E+00        1.5100E-02        8.0000E-04
+        3.0090E+01        0.0000E+00        1.1700E-02        6.0000E-04

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 56-BA-137(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 56 
+#   A: 137 
+#   Nuclide: 56-BA-137 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.0000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z: 56 
+#   A: 138 
+#   Nuclide: 56-BA-138 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22307-027-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-137(N,G)56-BA-138,,SIG,,MXW,DERIV) 
+#   First author: F.Voss 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,PR/C,50,2582,1994) 
+#   Year:  1994 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22307.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22307
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E-02        0.0000E+00        1.3770E-01        1.0600E-02
+        3.0000E-02        0.0000E+00        7.6900E-02        3.3000E-03

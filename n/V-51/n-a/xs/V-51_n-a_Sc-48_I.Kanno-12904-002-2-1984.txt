@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 23-V-51(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 23 
+#   A: 51 
+#   Nuclide: 23-V-51 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  5.5150e+00 MeV - 9.5670e+00 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 48 
+#   Nuclide: 21-SC-48 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 12904-002-2 (entry-subentry-pointer) 
+#   Reaction code: (23-V-51(N,A)21-SC-48,,SIG) 
+#   First author: I.Kanno 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,ANE,11,623,8412) 
+#   Year:  1984 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12904.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12904
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.5150E+00        1.9100E-01        1.4860E-06        3.6556E-07
+        5.8020E+00        1.7600E-01        2.8890E-06        3.8424E-07
+        6.0730E+00        1.6600E-01        7.6930E-06        1.0539E-06
+        6.3380E+00        1.6100E-01        2.0240E-05        3.4206E-06
+        6.3380E+00        1.5800E-01        2.1100E-05        2.3421E-06
+        6.5980E+00        1.5300E-01        3.8990E-05        4.6398E-06
+        6.5980E+00        1.5400E-01        4.3890E-05        4.3451E-06
+        6.8560E+00        1.6100E-01        8.1790E-05        8.3426E-06
+        7.1100E+00        1.7000E-01        1.5700E-04        1.8840E-05
+        7.1100E+00        1.6900E-01        1.5820E-04        1.6611E-05
+        7.3630E+00        1.7300E-01        2.7220E-04        2.8037E-05
+        7.5830E+00        1.7500E-01        4.5400E-04        4.4946E-05
+        7.8620E+00        1.8400E-01        7.7700E-04        5.8275E-05
+        8.1080E+00        1.9300E-01        1.0320E-03        8.2560E-05
+        8.3540E+00        1.9700E-01        1.4620E-03        1.0965E-04
+        8.5980E+00        2.0600E-01        2.0220E-03        1.2941E-04
+        8.8430E+00        2.1500E-01        2.3210E-03        1.6015E-04
+        9.0850E+00        2.1600E-01        3.0370E-03        2.0044E-04
+        9.3260E+00        2.2400E-01        3.3180E-03        2.1567E-04
+        9.5670E+00        2.3300E-01        3.9600E-03        2.5344E-04

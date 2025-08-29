@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 62-SM-144(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 62 
+#   A: 144 
+#   Nuclide: 62-SM-144 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2900e+01 MeV - 1.7800e+01 MeV 
+# Residual: 
+#   Z: 62 
+#   A: 143 
+#   Nuclide: 62-SM-143 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11955-003-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-144(N,2N)62-SM-143,,SIG) 
+#   First author: L.A.Rayburn 
+#   Institute:  (1USAGEO): University of Georgia, Athens, GA 
+#   Reference:  (J,BAP,8,121(M13),6303) 
+#   Year:  1963 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11955.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11955
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2900E+01        4.0000E-01        7.6900E-01        7.6900E-02
+        1.3300E+01        4.0000E-01        9.5300E-01        9.5300E-02
+        1.3800E+01        5.0000E-01        1.2470E+00        1.2470E-01
+        1.4100E+01        6.0000E-01        1.5440E+00        1.5440E-01
+        1.4400E+01        6.0000E-01        1.5080E+00        1.5080E-01
+        1.4900E+01        6.0000E-01        1.5690E+00        1.5690E-01
+        1.5200E+01        6.0000E-01        1.6700E+00        1.6700E-01
+        1.5700E+01        6.0000E-01        1.5160E+00        1.5160E-01
+        1.6000E+01        6.0000E-01        1.6500E+00        1.6500E-01
+        1.6400E+01        7.0000E-01        1.6310E+00        1.6310E-01
+        1.7200E+01        6.0000E-01        1.6340E+00        1.6340E-01
+        1.7500E+01        5.0000E-01        2.0000E+00        2.0000E-01
+        1.7800E+01        2.0000E-01        2.3360E+00        2.3360E-01

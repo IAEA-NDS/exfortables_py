@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 94-PU-239(G,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 94 
+#   A: 239 
+#   Nuclide: 94-PU-239 
+# Reaction: 
+#   Process: G,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2750e+01 MeV - 1.7650e+01 MeV 
+# Residual: 
+#   Z: 94 
+#   A: 237 
+#   Nuclide: 94-PU-237 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M0722-020-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-239(G,2N)94-PU-237,,SIG,,,EVAL) 
+#   First author: V.V.Varlamov 
+#   Institute:  (4RUSMOS): Moscow State University , Moscow 
+#   Reference:  (R,MSU-INP-2007-8/829,2007) 
+#   Year:  2007 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M07/M0722.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0722
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2750E+01        0.0000E+00        4.6000E-03        2.5790E-02
+        1.3240E+01        0.0000E+00        5.8940E-02        2.4870E-02
+        1.3730E+01        0.0000E+00        3.2230E-02        1.6580E-02
+        1.4220E+01        0.0000E+00        5.6180E-02        1.8420E-02
+        1.4710E+01        0.0000E+00        1.5660E-02        2.7630E-02
+        1.5200E+01        0.0000E+00        3.7760E-02        1.6580E-02
+        1.5690E+01        0.0000E+00        0.0000E+00        2.3950E-02
+        1.6180E+01        0.0000E+00        2.0260E-02        2.6710E-02
+        1.6670E+01        0.0000E+00        1.5660E-02        1.4740E-02
+        1.7650E+01        0.0000E+00        4.0520E-02        1.5660E-02

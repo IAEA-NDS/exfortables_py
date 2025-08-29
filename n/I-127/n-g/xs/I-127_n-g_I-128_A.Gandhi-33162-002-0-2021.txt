@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 53-I-127(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 53 
+#   A: 127 
+#   Nuclide: 53-I-127 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  6.0000e-01 MeV - 2.5100e+00 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 128 
+#   Nuclide: 53-I-128 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33162-002-0 (entry-subentry-pointer) 
+#   Reaction code: (53-I-127(N,G)53-I-128,,SIG) 
+#   First author: A.Gandhi 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,EPJ/P,136,819,2021) 
+#   Year:  2021 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33162.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33162
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E-01        1.0000E-02        4.7580E-02        7.1180E-03
+        1.2600E+00        2.0000E-02        3.1580E-02        3.0159E-03
+        2.5100E+00        2.0000E-02        2.7340E-02        1.7498E-03

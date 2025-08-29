@@ -1,0 +1,52 @@
+# Header: 
+#   Title: 22-TI-46(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 22 
+#   A: 46 
+#   Nuclide: 22-TI-46 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  4.5580e+00 MeV - 1.0110e+01 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 49 
+#   Nuclide: 24-CR-49 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0180-004-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-46(A,N)24-CR-49,,SIG) 
+#   First author: A.J.Howard 
+#   Institute:  (1USACAL): California Institute of Technology, Pasadena, CA 
+#   Reference:  (J,AJ,188,131,197402) 
+#   Year:  1974 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C01/C0180.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0180
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5580E+00        0.0000E+00        5.5770E-05        8.3655E-06
+        4.6370E+00        0.0000E+00        6.7890E-05        1.0184E-05
+        4.7350E+00        0.0000E+00        1.1970E-04        1.7955E-05
+        4.8320E+00        0.0000E+00        2.1090E-04        3.1635E-05
+        4.9100E+00        0.0000E+00        3.9580E-04        5.9370E-05
+        5.0030E+00        0.0000E+00        4.7810E-04        7.1715E-05
+        5.1280E+00        0.0000E+00        7.9110E-04        1.1867E-04
+        5.2590E+00        0.0000E+00        1.3300E-03        1.9950E-04
+        5.4780E+00        0.0000E+00        1.9550E-03        2.9325E-04
+        5.7100E+00        0.0000E+00        3.3380E-03        5.0070E-04
+        5.9280E+00        0.0000E+00        6.3650E-03        9.5475E-04
+        6.3720E+00        0.0000E+00        2.0560E-02        3.0840E-03
+        6.5110E+00        0.0000E+00        2.5220E-02        3.7830E-03
+        6.6170E+00        0.0000E+00        3.5370E-02        5.3055E-03
+        6.8580E+00        0.0000E+00        3.7070E-02        5.5605E-03
+        7.0840E+00        0.0000E+00        5.3240E-02        7.9860E-03
+        7.3170E+00        0.0000E+00        6.7930E-02        1.0190E-02
+        7.5500E+00        0.0000E+00        9.2320E-02        1.3848E-02
+        7.8180E+00        0.0000E+00        9.9840E-02        1.4976E-02
+        8.2390E+00        0.0000E+00        1.2840E-01        1.9260E-02
+        8.7200E+00        0.0000E+00        1.8000E-01        2.7000E-02
+        9.1690E+00        0.0000E+00        1.9770E-01        2.9655E-02
+        1.0110E+01        0.0000E+00        2.7050E-01        4.0575E-02

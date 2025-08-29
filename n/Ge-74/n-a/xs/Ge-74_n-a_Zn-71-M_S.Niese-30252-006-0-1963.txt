@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 32-GE-74(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 32 
+#   A: 74 
+#   Nuclide: 32-GE-74 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 71 
+#   Nuclide: 30-ZN-71-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30252-006-0 (entry-subentry-pointer) 
+#   Reaction code: (32-GE-74(N,A)30-ZN-71-M,,SIG,,FIS) 
+#   First author: S.Niese 
+#   Institute:  (3DDRROS): Zentralinstitut fuer Kernforschung (ZFK), Rossendorf 
+#   Reference:  (J,KE,6,37,1963) 
+#   Year:  1963 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/302/30252.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30252
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        2.0000E-06        1.0000E-06

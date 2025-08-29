@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 72-HF-180(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 72 
+#   A: 180 
+#   Nuclide: 72-HF-180 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5400e+01 MeV 
+# Residual: 
+#   Z: 72 
+#   A: 179 
+#   Nuclide: 72-HF-179-M2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22246-004-0 (entry-subentry-pointer) 
+#   Reaction code: (72-HF-180(N,2N)72-HF-179-M2,,SIG) 
+#   First author: B.H.Patrick 
+#   Institute:  (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference:  (S,INDC(NDS)-232,69,9001) 
+#   Year:  1990 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22246.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22246
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5400E+01        0.0000E+00        1.6700E-02        1.9000E-03

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 22-TI-46(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 22 
+#   A: 46 
+#   Nuclide: 22-TI-46 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  6.0100e+00 MeV - 7.0400e+00 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 46 
+#   Nuclide: 21-SC-46 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10205-003-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-46(N,P)21-SC-46,,SIG) 
+#   First author: Y.Lukic 
+#   Institute:  (1USAFLA): University of Florida, Gainesville, FL 
+#   Reference:  (J,NSE,43,233,1971) 
+#   Year:  1971 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10205.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10205
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0100E+00        0.0000E+00        1.3900E-01        2.1000E-02
+        6.5300E+00        0.0000E+00        1.9700E-01        3.3000E-02
+        7.0400E+00        0.0000E+00        2.0500E-01        3.1000E-02

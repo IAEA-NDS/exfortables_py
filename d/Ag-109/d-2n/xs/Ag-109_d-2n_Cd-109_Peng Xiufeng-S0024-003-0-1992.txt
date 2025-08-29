@@ -1,17 +1,30 @@
-# entry-subent-pointer  : S0024-003-0 
-# EXFOR reaction        : (47-AG-109(D,2N)48-CD-109,,SIG) 
-# incident energy       : 3.3000e+00 MeV - 1.3300e+01 MeV 
-# target                : Ag-109 
-# product               : Cd-109 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Peng Xiufeng 
-# institute             : (3CPRSIU): Sichuan University , Chengdu 
-# reference             : (J,NIM/B,68,145,1992) 
-# year                  : 1992 
-# facility              : (CYCLO): Cyclotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S00/S0024.x4 
-# nds                   : https://nds.iaea.org/EXFOR/S0024
+# Header: 
+#   Title: 47-AG-109(D,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 47 
+#   A: 109 
+#   Nuclide: 47-AG-109 
+# Reaction: 
+#   Process: D,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  3.3000e+00 MeV - 1.3300e+01 MeV 
+# Residual: 
+#   Z: 48 
+#   A: 109 
+#   Nuclide: 48-CD-109 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: S0024-003-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-109(D,2N)48-CD-109,,SIG) 
+#   First author: Peng Xiufeng 
+#   Institute:  (3CPRSIU): Sichuan University , Chengdu 
+#   Reference:  (J,NIM/B,68,145,1992) 
+#   Year:  1992 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S00/S0024.x4 
+#   nds:  https://nds.iaea.org/EXFOR/S0024
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3300E+01        0.0000E+00        9.0100E-01        6.1000E-02

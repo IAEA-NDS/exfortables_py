@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 30-ZN-64(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.7600e+01 MeV - 2.7300e+01 MeV 
+# Residual: 
+#   Z: 32 
+#   A: 66 
+#   Nuclide: 32-GE-66 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: T0197-008-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(A,2N)32-GE-66,,SIG) 
+#   First author: S.Mirzadeh 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (C,91JUELIC,,619,1991) 
+#   Year:  1991 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T01/T0197.x4 
+#   nds:  https://nds.iaea.org/EXFOR/T0197
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7300E+01        0.0000E+00        3.5500E-02        3.2000E-03
+        2.4400E+01        0.0000E+00        1.3800E-02        1.5000E-03
+        2.1200E+01        0.0000E+00        1.8100E-03        3.8000E-04
+        1.7600E+01        0.0000E+00        9.5000E-04        0.0000E+00

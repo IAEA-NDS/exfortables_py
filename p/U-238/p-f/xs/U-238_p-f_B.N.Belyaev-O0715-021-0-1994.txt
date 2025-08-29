@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-238(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  9.0000e+01 MeV 
+# Residual: 
+#   Z: 55 
+#   A: 137 
+#   Nuclide: 55-CS-137 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0715-021-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(P,F)55-CS-137,IND,SIG) 
+#   First author: B.N.Belyaev 
+#   Institute:  (4RUSRI ): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (J,YF,57,1231,1994) 
+#   Year:  1994 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0715.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0715
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.0000E+01        0.0000E+00        2.1300E-02        8.0000E-04

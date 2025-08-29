@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 8-O-16(N,EL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 3 - 2 
+#   Incident energy:  6.3690e+00 MeV - 1.4888e+01 MeV 
+# Residual: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22113-002-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(N,EL)8-O-16,,SIG) 
+#   First author: G.Boerker 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (C,88MITO,,193,88) 
+#   Year:  1988 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22113.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22113
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.3690E+00        5.6000E-02        8.6730E-01        1.8100E-02
+        7.5120E+00        5.0000E-02        8.1550E-01        1.6900E-02
+        7.9330E+00        4.8000E-02        7.4850E-01        1.6000E-02
+        9.0110E+00        4.6000E-02        7.3140E-01        1.5900E-02
+        1.0131E+01        4.9000E-02        8.6460E-01        1.8200E-02
+        1.0131E+01        4.9000E-02        8.6040E-01        1.8000E-02
+        1.0159E+01        4.9000E-02        8.1220E-01        1.7400E-02
+        1.0159E+01        4.9000E-02        8.0300E-01        1.7500E-02
+        1.0163E+01        4.9000E-02        8.2830E-01        1.7600E-02
+        1.0163E+01        4.9000E-02        8.2250E-01        1.8200E-02
+        1.1354E+01        5.1000E-02        9.7970E-01        2.0800E-02
+        1.2486E+01        5.2000E-02        8.9150E-01        1.9300E-02
+        1.3610E+01        5.3000E-02        9.6220E-01        2.2100E-02
+        1.4888E+01        5.5000E-02        1.0705E+00        2.4200E-02

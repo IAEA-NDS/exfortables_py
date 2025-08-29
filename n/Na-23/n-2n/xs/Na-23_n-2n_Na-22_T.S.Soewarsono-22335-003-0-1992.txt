@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 11-NA-23(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 11 
+#   A: 23 
+#   Nuclide: 11-NA-23 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.7550e+01 MeV - 3.8260e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 22 
+#   Nuclide: 11-NA-22 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22335-003-0 (entry-subentry-pointer) 
+#   Reaction code: (11-NA-23(N,2N)11-NA-22,,SIG) 
+#   First author: T.S.Soewarsono 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (S,JAERI-M-92-027,354,1992) 
+#   Year:  1992 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22335.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22335
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7550E+01        2.2400E+00        9.0100E-02        1.1600E-02
+        2.1800E+01        1.9100E+00        7.6000E-02        1.0600E-02
+        2.7580E+01        1.6400E+00        6.0100E-02        1.1900E-02
+        3.2800E+01        1.4400E+00        5.0000E-02        1.4600E-02
+        3.8260E+01        1.2200E+00        9.0100E-02        1.8700E-02

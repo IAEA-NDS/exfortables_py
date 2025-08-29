@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 3-LI-6(N,T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: N,T 
+#   MF-MT number: 3 - 105 
+#   Incident energy:  8.8000e-01 MeV - 1.4100e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11094-002-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(N,T)2-HE-4,,SIG) 
+#   First author: F.L.Ribe 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,103,741,56) 
+#   Year:  1956 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11094.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11094
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.8000E-01        1.0000E-02        3.2300E-01        3.5000E-02
+        1.4000E+00        1.0000E-02        2.8400E-01        3.0000E-02
+        1.8600E+00        1.0000E-02        2.5900E-01        2.7000E-02
+        2.3900E+00        1.0000E-02        2.1800E-01        2.6000E-02
+        2.5000E+00        3.0000E-02        2.1900E-01        3.0000E-02
+        2.5000E+00        3.0000E-02        1.8800E-01        2.7000E-02
+        2.9000E+00        1.0000E-02        1.5800E-01        2.0000E-02
+        4.4400E+00        1.2000E-01        9.7000E-02        1.4000E-02
+        5.5300E+00        7.0000E-02        7.0000E-02        1.3000E-02
+        6.5200E+00        4.0000E-02        5.5000E-02        1.0000E-02
+        1.4100E+01        8.0000E-02        2.6000E-02        4.0000E-03

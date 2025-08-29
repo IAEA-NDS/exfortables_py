@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 32-GE-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 32 
+#   A: 0 
+#   Nuclide: 32-GE-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4600e+01 MeV - 5.4200e+01 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 73 
+#   Nuclide: 33-AS-73 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D1065-009-0 (entry-subentry-pointer) 
+#   Reaction code: (32-GE-0(P,X)33-AS-73,,SIG) 
+#   First author: A.A.Ahmed 
+#   Institute:  (3POLIFJ): Niewodniczanski Institute of Nuclear Physics, Krakow 
+#   Reference:  (J,JP/G,52,035102,2025) 
+#   Year:  2025 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D10/D1065.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D1065
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        2.3000E+00        1.2800E-01        1.4000E-02
+        1.9500E+01        1.8000E+00        3.2000E-01        3.5000E-02
+        2.3900E+01        1.9000E+00        2.2900E-01        2.5000E-02
+        2.8100E+01        1.7000E+00        1.2200E-01        1.4000E-02
+        3.3100E+01        2.9000E+00        5.1900E-02        5.7000E-03
+        3.9100E+01        2.6000E+00        4.7500E-02        5.2000E-03
+        4.4600E+01        2.5000E+00        4.5300E-02        5.1000E-03
+        4.9700E+01        2.1000E+00        5.8400E-02        6.4000E-03
+        5.4200E+01        2.1000E+00        3.1100E-02        3.4000E-03

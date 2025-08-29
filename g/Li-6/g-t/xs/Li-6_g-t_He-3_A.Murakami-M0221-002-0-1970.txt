@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 3-LI-6(G,T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: G,T 
+#   MF-MT number: 3 - 105 
+#   Incident energy:  1.8000e+01 MeV - 2.7000e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M0221-002-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(G,T)2-HE-3,,SIG,,BRS) 
+#   First author: A.Murakami 
+#   Institute:  (2JPNTOK): University of Tokyo, Tokyo 
+#   Reference:  (J,JPJ,28,(1),1,1970) 
+#   Year:  1970 
+#   Facility:  (BETAT): Betatron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M02/M0221.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0221
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8000E+01        0.0000E+00        4.7000E-04        0.0000E+00
+        1.9000E+01        0.0000E+00        9.8000E-04        0.0000E+00
+        2.0000E+01        0.0000E+00        1.7000E-03        0.0000E+00
+        2.1000E+01        0.0000E+00        5.1000E-03        0.0000E+00
+        2.2000E+01        0.0000E+00        2.2900E-03        0.0000E+00
+        2.4000E+01        0.0000E+00        1.2000E-03        0.0000E+00
+        2.5000E+01        0.0000E+00        3.3000E-04        0.0000E+00
+        2.6000E+01        0.0000E+00        1.0000E-04        0.0000E+00
+        2.7000E+01        0.0000E+00        1.3000E-04        0.0000E+00

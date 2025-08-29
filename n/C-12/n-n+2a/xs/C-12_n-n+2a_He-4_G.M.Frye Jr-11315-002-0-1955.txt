@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 6-C-12(N,N+2A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: N,N+2A 
+#   MF-MT number: 3 - 29 
+#   Incident energy:  1.2900e+01 MeV - 1.8850e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11315-002-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(N,N+2A)2-HE-4,,SIG) 
+#   First author: G.M.Frye Jr 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,99,1375,5509) 
+#   Year:  1955 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11315.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11315
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2900E+01        0.0000E+00        1.9000E-01        5.0000E-02
+        1.4200E+01        0.0000E+00        2.3000E-01        5.0000E-02
+        1.5500E+01        0.0000E+00        3.1600E-01        7.3000E-02
+        1.8850E+01        0.0000E+00        2.8300E-01        5.9000E-02

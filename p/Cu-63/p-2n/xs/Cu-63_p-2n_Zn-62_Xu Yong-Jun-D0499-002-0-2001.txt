@@ -1,17 +1,30 @@
-# entry-subent-pointer  : D0499-002-0 
-# EXFOR reaction        : (29-CU-63(P,2N)30-ZN-62,,SIG) 
-# incident energy       : 2.2900e+01 MeV 
-# target                : Cu-63 
-# product               : Zn-62 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Xu Yong-Jun 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CST,35,(6),547,200111) 
-# year                  : 2001 
-# facility              : (VDGT): Tandem van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D04/D0499.x4 
-# nds                   : https://nds.iaea.org/EXFOR/D0499
+# Header: 
+#   Title: 29-CU-63(P,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+# Reaction: 
+#   Process: P,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  2.2900e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 62 
+#   Nuclide: 30-ZN-62 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0499-002-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-63(P,2N)30-ZN-62,,SIG) 
+#   First author: Xu Yong-Jun 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CST,35,(6),547,200111) 
+#   Year:  2001 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D04/D0499.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0499
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         2.2900E+01        1.0000E-01        1.0100E-01        4.0000E-03

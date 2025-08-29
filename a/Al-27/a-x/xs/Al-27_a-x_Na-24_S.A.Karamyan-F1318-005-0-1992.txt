@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 13-AL-27(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.8046e+01 MeV - 3.5283e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1318-005-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(A,X)11-NA-24,,SIG) 
+#   First author: S.A.Karamyan 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (C,92ALMAAT,291,1992) 
+#   Year:  1992 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F13/F1318.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1318
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.8046E+01        1.0200E-01        2.7291E-05        0.0000E+00
+        2.9392E+01        1.0200E-01        2.5864E-05        0.0000E+00
+        3.0586E+01        1.0200E-01        2.7571E-05        0.0000E+00
+        3.2237E+01        1.0200E-01        2.1139E-05        0.0000E+00
+        3.5283E+01        1.0200E-01        3.4798E-05        0.0000E+00

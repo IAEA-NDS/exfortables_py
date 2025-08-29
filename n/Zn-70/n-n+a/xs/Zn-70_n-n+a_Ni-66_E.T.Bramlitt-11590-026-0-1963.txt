@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 30-ZN-70(N,N+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 70 
+#   Nuclide: 30-ZN-70 
+# Reaction: 
+#   Process: N,N+A 
+#   MF-MT number: 3 - 22 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 66 
+#   Nuclide: 28-NI-66 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11590-026-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-70(N,N+A)28-NI-66,,SIG) 
+#   First author: E.T.Bramlitt 
+#   Institute:  (1USAARK): University of Arkansas, Fayetteville, AR 
+#   Reference:  (J,PR,131,2649,1963) 
+#   Year:  1963 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11590.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11590
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        2.0000E-01        8.9000E-04        4.0000E-04

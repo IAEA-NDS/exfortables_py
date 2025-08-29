@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 96-CM-244(A,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 96 
+#   A: 244 
+#   Nuclide: 96-CM-244 
+# Reaction: 
+#   Process: A,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  2.8518e+01 MeV - 4.0540e+01 MeV 
+# Residual: 
+#   Z: 98 
+#   A: 245 
+#   Nuclide: 98-CF-245 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2295-002-0 (entry-subentry-pointer) 
+#   Reaction code: (96-CM-244(A,3N)98-CF-245,,SIG) 
+#   First author: A.Chetham-Strode Jr 
+#   Institute:  (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
+#   Reference:  (J,PR,102,747,1956) 
+#   Year:  1956 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C22/C2295.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2295
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.8518E+01        0.0000E+00        2.1640E-04        3.3450E-05
+        2.9671E+01        0.0000E+00        7.4780E-04        1.2370E-04
+        3.1046E+01        0.0000E+00        2.3310E-03        3.6030E-04
+        3.1756E+01        0.0000E+00        3.5240E-03        4.2700E-04
+        3.2954E+01        0.0000E+00        4.2220E-03        6.0630E-04
+        3.3930E+01        0.0000E+00        4.8040E-03        7.4270E-04
+        3.5083E+01        0.0000E+00        5.0590E-03        6.7010E-04
+        3.6148E+01        0.0000E+00        5.3960E-03        6.5390E-04
+        3.6148E+01        0.0000E+00        4.2770E-03        4.1990E-04
+        3.8322E+01        0.0000E+00        4.6220E-03        6.6360E-04
+        3.9919E+01        0.0000E+00        4.3890E-03        8.6530E-04
+        4.0495E+01        0.0000E+00        3.6630E-03        4.8520E-04
+        4.0495E+01        0.0000E+00        3.2190E-03        3.1600E-04
+        4.0540E+01        0.0000E+00        2.7930E-03        3.6990E-04

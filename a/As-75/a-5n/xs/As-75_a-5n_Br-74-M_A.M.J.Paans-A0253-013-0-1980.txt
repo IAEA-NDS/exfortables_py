@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 33-AS-75(A,5N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 33 
+#   A: 75 
+#   Nuclide: 33-AS-75 
+# Reaction: 
+#   Process: A,5N 
+#   MF-MT number: 3 - 152 
+#   Incident energy:  6.6570e+01 MeV - 7.1530e+01 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 74 
+#   Nuclide: 35-BR-74-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0253-013-0 (entry-subentry-pointer) 
+#   Reaction code: (33-AS-75(A,5N)35-BR-74-M,,SIG) 
+#   First author: A.M.J.Paans 
+#   Institute:  (2NEDGRN): Groningen 
+#   Reference:  (J,ARI,31,267,1980) 
+#   Year:  1980 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0253.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0253
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6570E+01        9.0000E-02        5.3700E-03        2.6850E-04
+        7.1530E+01        9.0000E-02        2.4320E-02        1.2160E-03

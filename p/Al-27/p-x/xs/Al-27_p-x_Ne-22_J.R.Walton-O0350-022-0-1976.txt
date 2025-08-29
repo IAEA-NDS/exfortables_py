@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 13-AL-27(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.5900e+01 MeV - 4.2100e+01 MeV 
+# Residual: 
+#   Z: 10 
+#   A: 22 
+#   Nuclide: 10-NE-22 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0350-022-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(P,X)10-NE-22,CUM,SIG) 
+#   First author: J.R.Walton 
+#   Institute:  (1USARIC): Rice University, Houston, TX 
+#   Reference:  (J,JGR,81,5689,1976) 
+#   Year:  1976 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O03/O0350.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0350
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5900E+01        8.0000E-01        7.0000E-06        7.0000E-06
+        1.8100E+01        7.0000E-01        2.3000E-05        6.9000E-06
+        1.9100E+01        6.0000E-01        2.4000E-05        2.4000E-05
+        2.1000E+01        0.0000E+00        3.8000E-07        0.0000E+00
+        2.2400E+01        6.0000E-01        3.1000E-05        9.3000E-06
+        2.3600E+01        7.0000E-01        3.3000E-05        1.6500E-05
+        2.7000E+01        1.4000E+00        5.3000E-04        7.9500E-05
+        3.0100E+01        1.1000E+00        5.1000E-03        8.1600E-04
+        3.0700E+01        9.0000E-01        3.6000E-03        6.8400E-04
+        3.1100E+01        1.0000E+00        7.4000E-03        6.6600E-04
+        3.3200E+01        1.2000E+00        9.1000E-03        2.3660E-03
+        3.7800E+01        1.0000E+00        1.8000E-02        2.3400E-03
+        3.9800E+01        1.6000E+00        2.8000E-02        7.0000E-03
+        4.2100E+01        1.6000E+00        2.2800E-02        2.0520E-03

@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 82-PB-0(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  1.2600e-06 MeV - 1.4300e-01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22104-002-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(N,TOT),,SIG) 
+#   First author: L.Koester 
+#   Institute:  (2GERMUN): Technische Universitaet Muenchen 
+#   Reference:  (J,ZP/A,329,229,1988) 
+#   Year:  1988 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22104.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22104
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2600E-06        0.0000E+00        1.1233E+01        5.0000E-03
+        5.1900E-06        0.0000E+00        1.1252E+01        5.0000E-03
+        1.8800E-05        0.0000E+00        1.1258E+01        1.0000E-02
+        1.3200E-04        0.0000E+00        1.1258E+01        5.0000E-03
+        1.9700E-03        8.0000E-05        1.1197E+01        3.0000E-03
+        1.4300E-01        2.0000E-02        9.4400E+00        4.0000E-02

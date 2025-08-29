@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32585-004-0 
-# EXFOR reaction        : (41-NB-93(N,A)39-Y-90-M,,SIG) 
-# incident energy       : 1.2870e+01 MeV - 1.7550e+01 MeV 
-# target                : Nb-93 
-# product               : Y-90-M 
-# level energy          : - 
-# MF-MT number          : 3 - 107 
-# first author          : Huang Jianzhou 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CST,11,(3),211,197707) 
-# year                  : 1977 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32585.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32585
+# Header: 
+#   Title: 41-NB-93(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.2870e+01 MeV - 1.7550e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 90 
+#   Nuclide: 39-Y-90-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32585-004-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(N,A)39-Y-90-M,,SIG) 
+#   First author: Huang Jianzhou 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CST,11,(3),211,197707) 
+#   Year:  1977 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32585.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32585
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.2870E+01        1.0000E-01        4.1500E-03        3.9000E-04

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 83-BI-209(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  9.9900e+02 MeV - 2.5890e+03 MeV 
+# Residual: 
+#   Z: 18 
+#   A: 36 
+#   Nuclide: 18-AR-36 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1710-006-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(P,X)18-AR-36,,SIG) 
+#   First author: I.Leya 
+#   Institute:  (2SWTUBE): Universitaet Bern, Bern 
+#   Reference:  (J,NIM/B,266,1030,2008) 
+#   Year:  2008 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O17/O1710.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1710
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.9900E+02        1.0000E+00        1.2500E-03        1.3000E-04
+        2.5890E+03        1.0000E+00        2.1800E-03        2.4000E-04

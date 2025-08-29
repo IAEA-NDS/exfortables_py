@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 69-TM-169(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 69 
+#   A: 169 
+#   Nuclide: 69-TM-169 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  8.4300e+00 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 69 
+#   A: 168 
+#   Nuclide: 69-TM-168 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14496-002-0 (entry-subentry-pointer) 
+#   Reaction code: (69-TM-169(N,2N)69-TM-168,,SIG) 
+#   First author: J.Soter 
+#   Institute:  (1USADKE): Duke University, Durham, NC 
+#   Reference:  (J,PR/C,96,064619,2017) 
+#   Year:  2017 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/144/14496.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14496
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.4300E+00        1.2000E-01        1.3340E-01        1.2400E-02
+        8.9300E+00        1.2000E-01        4.0130E-01        2.3900E-02
+        9.4300E+00        1.2000E-01        8.2500E-01        5.6600E-02
+        9.9300E+00        1.1000E-01        1.1493E+00        7.4400E-02
+        1.0420E+01        1.0000E-01        1.3219E+00        7.8500E-02
+        1.0920E+01        1.2000E-01        1.4671E+00        5.3600E-02
+        1.1410E+01        1.1000E-01        1.5843E+00        6.6000E-02
+        1.1910E+01        1.1000E-01        1.6974E+00        6.9300E-02
+        1.2410E+01        1.1000E-01        1.8076E+00        6.9700E-02
+        1.2900E+01        1.0000E-01        1.9236E+00        6.8400E-02
+        1.3400E+01        1.0000E-01        1.9824E+00        6.8600E-02
+        1.3900E+01        9.0000E-02        2.0584E+00        6.7100E-02
+        1.4800E+01        6.0000E-02        2.0682E+00        7.0900E-02

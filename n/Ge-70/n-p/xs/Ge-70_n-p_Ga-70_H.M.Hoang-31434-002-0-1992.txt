@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 32-GE-70(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 32 
+#   A: 70 
+#   Nuclide: 32-GE-70 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3400e+01 MeV - 1.5400e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 70 
+#   Nuclide: 31-GA-70 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31434-002-0 (entry-subentry-pointer) 
+#   Reaction code: (32-GE-70(N,P)31-GA-70,,SIG) 
+#   First author: H.M.Hoang 
+#   Institute:  (3POLIPJ): Narodowe Centrum Badan Jadrowych, Swierk+Warszawa 
+#   Reference:  (J,ZP/A,342,(3),283,199205) 
+#   Year:  1992 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31434.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31434
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3400E+01        2.0000E-01        1.6200E-01        2.0000E-02
+        1.3900E+01        3.0000E-01        1.4100E-01        1.8000E-02
+        1.4500E+01        3.0000E-01        1.1900E-01        1.8000E-02
+        1.5000E+01        3.0000E-01        1.0000E-01        1.5000E-02
+        1.5400E+01        2.0000E-01        9.3000E-02        1.6000E-02

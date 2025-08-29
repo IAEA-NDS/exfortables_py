@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32537-002-0 
-# EXFOR reaction        : (47-AG-0(N,G),,SIG) 
-# incident energy       : 1.0900e-02 MeV - 9.9900e-02 MeV 
-# target                : Ag-0 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Wang Chunhao 
-# institute             : (3CPRSIU): Sichuan University , Chengdu 
-# reference             : (J,CNP,11,(4),63,198912) 
-# year                  : 1989 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32537.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32537
+# Header: 
+#   Title: 47-AG-0(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 47 
+#   A: 0 
+#   Nuclide: 47-AG-0 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.0900e-02 MeV - 9.9900e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32537-002-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-0(N,G),,SIG) 
+#   First author: Wang Chunhao 
+#   Institute:  (3CPRSIU): Sichuan University , Chengdu 
+#   Reference:  (J,CNP,11,(4),63,198912) 
+#   Year:  1989 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32537.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32537
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.0900E-02        3.2000E-04        1.2060E+00        1.0975E-01

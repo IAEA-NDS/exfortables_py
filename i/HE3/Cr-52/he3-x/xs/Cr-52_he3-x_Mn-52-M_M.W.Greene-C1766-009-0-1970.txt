@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 24-CR-52(HE3,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 24 
+#   A: 52 
+#   Nuclide: 24-CR-52 
+# Reaction: 
+#   Process: HE3,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.9220e+01 MeV - 3.9527e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 52 
+#   Nuclide: 25-MN-52-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1766-009-0 (entry-subentry-pointer) 
+#   Reaction code: (24-CR-52(HE3,X)25-MN-52-M,,SIG) 
+#   First author: M.W.Greene 
+#   Institute:  (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference:  (J,ARI,21,719,1970) 
+#   Year:  1970 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C17/C1766.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1766
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9220E+01        1.2190E+00        2.0630E-02        0.0000E+00
+        3.3550E+01        1.1170E+00        4.2420E-02        0.0000E+00
+        3.9527E+01        1.2190E+00        5.5400E-02        0.0000E+00

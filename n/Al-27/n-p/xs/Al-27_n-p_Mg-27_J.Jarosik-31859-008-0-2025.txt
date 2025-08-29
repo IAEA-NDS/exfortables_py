@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 13-AL-27(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.8500e+01 MeV - 2.2500e+01 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 27 
+#   Nuclide: 12-MG-27 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31859-008-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,P)12-MG-27,,SIG) 
+#   First author: J.Jarosik 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,NIM/B,559,165566,2025) 
+#   Year:  2025 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31859.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31859
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8500E+01        4.0000E-01        2.6000E-02        4.0000E-03
+        2.2500E+01        8.0000E-01        1.6500E-02        2.5000E-03

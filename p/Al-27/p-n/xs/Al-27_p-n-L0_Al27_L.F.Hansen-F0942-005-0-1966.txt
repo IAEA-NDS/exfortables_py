@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 13-AL-27(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 50 
+#   Incident energy:  6.0300e+00 MeV - 6.8100e+00 MeV 
+# Residual: 
+#   Z: 14 
+#   A: 27 
+#   Nuclide: 14-SI-27 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: F0942-005-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(P,N)14-SI-27,PAR,SIG) 
+#   First author: L.F.Hansen 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR,143,800,1966) 
+#   Year:  1966 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F09/F0942.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0942
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0300E+00        0.0000E+00        1.9600E-02        1.9600E-03
+        6.1500E+00        0.0000E+00        1.5400E-02        1.5400E-03
+        6.3800E+00        0.0000E+00        1.5300E-02        1.5300E-03
+        6.5000E+00        0.0000E+00        3.3300E-02        3.3300E-03
+        6.6300E+00        0.0000E+00        2.5800E-02        2.5800E-03
+        6.8100E+00        0.0000E+00        3.8200E-02        3.8200E-03

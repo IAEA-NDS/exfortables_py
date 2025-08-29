@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 30-ZN-66(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 66 
+#   Nuclide: 30-ZN-66 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4100e+01 MeV - 1.8060e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 65 
+#   Nuclide: 30-ZN-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20835-008-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-66(N,2N)30-ZN-65,,SIG) 
+#   First author: M.Bormann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (J,NP/A,130,195,6906) 
+#   Year:  1969 
+#   Facility:  (VDG  ): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20835.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20835
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        1.4000E-01        7.5800E-01        0.0000E+00
+        1.4820E+01        1.4000E-01        8.6400E-01        0.0000E+00
+        1.5460E+01        1.5000E-01        9.6300E-01        0.0000E+00
+        1.6050E+01        1.5000E-01        9.6500E-01        0.0000E+00
+        1.6510E+01        1.5000E-01        1.0280E+00        0.0000E+00
+        1.7080E+01        1.4000E-01        1.0810E+00        0.0000E+00
+        1.7480E+01        1.4000E-01        1.0820E+00        0.0000E+00
+        1.7840E+01        1.3000E-01        1.1250E+00        0.0000E+00
+        1.8060E+01        1.3000E-01        1.1350E+00        0.0000E+00

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 41-NB-93(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4050e+01 MeV - 1.4700e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 92 
+#   Nuclide: 41-NB-92-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20033-012-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(N,2N)41-NB-92-M,,SIG) 
+#   First author: R.Rieder 
+#   Institute:  (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
+#   Reference:  (J,APA,23,42,1966) 
+#   Year:  1966 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20033.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20033
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4050E+01        5.0000E-02        4.7000E-01        2.3500E-02
+        1.4700E+01        1.0000E-01        4.6400E-01        2.3200E-02

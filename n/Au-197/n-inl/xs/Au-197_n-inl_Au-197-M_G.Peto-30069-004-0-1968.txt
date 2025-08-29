@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 79-AU-197(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.5000e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30069-004-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,INL)79-AU-197-M,,SIG) 
+#   First author: G.Peto 
+#   Institute:  (3HUNKOS): University of Debrecen, Debrecen 
+#   Reference:  (J,AHP,25,91,1968) 
+#   Year:  1968 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30069.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30069
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+01        3.0000E-01        2.8000E-01        6.4000E-02

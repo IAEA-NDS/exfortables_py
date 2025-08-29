@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 45-RH-103(N,A)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 4 - 107 
+#   Incident energy:  1.4400e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 100 
+#   Nuclide: 43-TC-100 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30126-002-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,A)43-TC-100,,DA) 
+#   First author: D.Veselic 
+#   Institute:  (3CRORBZ): Institute Rudjer Boskovic, Zagreb 
+#   Reference:  (J,NP/A,110,225,196803) 
+#   Year:  1968 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30126.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30126
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+        0.0000E+00        1.2500E+01        2.6000E-03        1.7000E-04
+        4.5000E+01        1.2500E+01        1.7000E-03        1.7000E-04
+        7.5000E+01        1.2500E+01        7.0000E-04        1.6000E-04

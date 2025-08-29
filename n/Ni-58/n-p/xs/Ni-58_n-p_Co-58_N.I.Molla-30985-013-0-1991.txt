@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 28-NI-58(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3640e+01 MeV - 1.4830e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30985-013-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,P)27-CO-58,,SIG) 
+#   First author: N.I.Molla 
+#   Institute:  (3BANSAV): Institute Nuclear Science & Technology, AERE, Savar, Dhaka 
+#   Reference:  (C,91JUELIC,,355,199105) 
+#   Year:  1991 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30985.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30985
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3640E+01        0.0000E+00        2.2200E-01        2.3000E-02
+        1.3880E+01        0.0000E+00        1.5200E-01        1.8000E-02
+        1.4100E+01        0.0000E+00        1.6800E-01        1.9000E-02
+        1.4300E+01        0.0000E+00        3.0000E-01        3.0000E-02
+        1.4830E+01        0.0000E+00        3.1000E-01        3.1000E-02

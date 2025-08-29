@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 38-SR-84(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 38 
+#   A: 84 
+#   Nuclide: 38-SR-84 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.3780e+01 MeV - 5.2170e+01 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 82 
+#   Nuclide: 38-SR-82 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0683-002-0 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-84(P,X)38-SR-82,CUM,SIG) 
+#   First author: G.E.Kodina 
+#   Institute:  (4RUSBIO): Biophysical Institute , Moscow 
+#   Reference:  (C,91VILLIG,,66,1991) 
+#   Year:  1991 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0683.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0683
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3780E+01        1.1000E-01        1.9000E-01        9.0000E-02
+        3.5260E+01        1.1000E-01        2.7000E-01        7.0000E-02
+        3.7820E+01        1.1000E-01        5.0000E-01        7.0000E-02
+        3.9550E+01        1.1000E-01        6.5000E-01        8.0000E-02
+        4.2190E+01        1.1000E-01        8.4000E-01        1.1000E-01
+        4.4160E+01        1.1000E-01        9.0500E-01        1.2000E-01
+        4.5380E+01        1.1000E-01        9.0000E-01        9.0000E-02
+        4.7160E+01        1.1000E-01        8.5000E-01        1.2000E-01
+        4.8780E+01        1.1000E-01        8.0000E-01        7.0000E-02
+        5.0310E+01        1.1000E-01        7.1000E-01        7.0000E-02
+        5.2170E+01        1.1000E-01        6.0100E-01        8.0000E-02

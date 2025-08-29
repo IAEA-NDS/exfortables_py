@@ -1,0 +1,53 @@
+# Header: 
+#   Title: 44-RU-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 44 
+#   A: 0 
+#   Nuclide: 44-RU-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.5000e+01 MeV - 3.3400e+01 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 100 
+#   Nuclide: 45-RH-100-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4418-004-0 (entry-subentry-pointer) 
+#   Reaction code: (44-RU-0(P,X)45-RH-100-G,M+,SIG) 
+#   First author: A.Hermanne 
+#   Institute:  (2BLGVUB): Vrije Universiteit Brussels, Brussels 
+#   Reference:  (J,NIM/B,502,205,2021) 
+#   Year:  2021 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4418.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4418
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+01        1.2000E+00        1.1900E-01        1.3000E-02
+        1.6400E+01        1.1000E+00        1.3500E-01        1.5000E-02
+        1.7600E+01        1.0000E+00        1.2400E-01        1.4000E-02
+        1.8600E+01        9.0000E-01        1.2300E-01        1.3000E-02
+        1.9800E+01        8.0000E-01        1.2700E-01        1.4000E-02
+        2.1000E+01        7.0000E-01        1.2100E-01        1.3000E-02
+        2.2500E+01        6.0000E-01        1.1200E-01        1.2000E-02
+        2.3800E+01        5.0000E-01        1.2900E-01        1.4000E-02
+        2.5000E+01        4.0000E-01        1.2800E-01        1.4000E-02
+        2.6100E+01        4.0000E-01        1.7000E-01        1.9000E-02
+        2.6700E+01        9.0000E-01        1.8800E-01        2.1000E-02
+        2.7100E+01        3.0000E-01        1.7700E-01        2.0000E-02
+        2.7500E+01        8.0000E-01        1.9500E-01        2.1000E-02
+        2.7900E+01        3.0000E-01        1.8700E-01        2.1000E-02
+        2.8400E+01        7.0000E-01        2.2800E-01        2.5000E-02
+        2.8700E+01        2.0000E-01        1.9600E-01        2.2000E-02
+        2.9200E+01        6.0000E-01        2.1900E-01        2.4000E-02
+        2.9400E+01        2.0000E-01        1.9900E-01        2.2000E-02
+        2.9900E+01        6.0000E-01        1.8700E-01        2.1000E-02
+        3.0800E+01        5.0000E-01        1.8800E-01        2.1000E-02
+        3.1700E+01        4.0000E-01        1.9500E-01        2.1000E-02
+        3.2400E+01        4.0000E-01        2.0100E-01        2.2000E-02
+        3.3100E+01        3.0000E-01        2.0200E-01        2.2000E-02
+        3.3400E+01        2.0000E-01        1.8700E-01        2.1000E-02

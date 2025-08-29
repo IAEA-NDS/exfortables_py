@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31672-005-0 
-# EXFOR reaction        : (47-AG-109(N,A)45-RH-106-M,,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4800e+01 MeV 
-# target                : Ag-109 
-# product               : Rh-106-M 
-# level energy          : - 
-# MF-MT number          : 3 - 107 
-# first author          : Junhua Luo 
-# institute             : (3CPRCPR): China, People's Rep. 
-# reference             : (J,ANE,36,718,2009) 
-# year                  : 2009 
-# facility              : (CYCLO): Cyclotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31672.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31672
+# Header: 
+#   Title: 47-AG-109(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 47 
+#   A: 109 
+#   Nuclide: 47-AG-109 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 106 
+#   Nuclide: 45-RH-106-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31672-005-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-109(N,A)45-RH-106-M,,SIG) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRCPR): China, People's Rep. 
+#   Reference:  (J,ANE,36,718,2009) 
+#   Year:  2009 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31672.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31672
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3500E+01        2.0000E-01        2.6000E-02        1.9000E-03

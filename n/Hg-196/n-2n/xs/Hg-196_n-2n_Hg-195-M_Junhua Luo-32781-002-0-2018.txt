@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32781-002-0 
-# EXFOR reaction        : (80-HG-196(N,2N)80-HG-195-M,,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4800e+01 MeV 
-# target                : Hg-196 
-# product               : Hg-195-M 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Junhua Luo 
-# institute             : (3CPRHXU): Hexi University , Zhangye 
-# reference             : (J,PR/C,98,014619,2018) 
-# year                  : 2018 
-# facility              : (NGEN): Neutron generator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32781.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32781
+# Header: 
+#   Title: 80-HG-196(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 80 
+#   A: 196 
+#   Nuclide: 80-HG-196 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 80 
+#   A: 195 
+#   Nuclide: 80-HG-195-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32781-002-0 (entry-subentry-pointer) 
+#   Reaction code: (80-HG-196(N,2N)80-HG-195-M,,SIG) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRHXU): Hexi University , Zhangye 
+#   Reference:  (J,PR/C,98,014619,2018) 
+#   Year:  2018 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32781.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32781
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3500E+01        2.0000E-01        9.6700E-01        1.0100E-01

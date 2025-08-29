@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 41-NB-93(N,N+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: N,N+A 
+#   MF-MT number: 3 - 22 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30737-002-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(N,N+A)39-Y-89-M,,SIG) 
+#   First author: Y.S.Kim 
+#   Institute:  (3KORKOR): Republic of Korea 
+#   Reference:  (J,KNS,18,(2),92,198606) 
+#   Year:  1986 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30737.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30737
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        4.0000E-01        2.4700E-03        2.8000E-04

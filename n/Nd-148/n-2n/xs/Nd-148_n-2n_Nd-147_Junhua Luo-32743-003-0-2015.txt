@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32743-003-0 
-# EXFOR reaction        : (60-ND-148(N,2N)60-ND-147,,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4800e+01 MeV 
-# target                : Nd-148 
-# product               : Nd-147 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Junhua Luo 
-# institute             : (3CPRHXU): Hexi University , Zhangye 
-# reference             : (J,RPC,109,63,2015) 
-# year                  : 2015 
-# facility              : (NGEN): Neutron generator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32743.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32743
+# Header: 
+#   Title: 60-ND-148(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 60 
+#   A: 148 
+#   Nuclide: 60-ND-148 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 147 
+#   Nuclide: 60-ND-147 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32743-003-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-148(N,2N)60-ND-147,,SIG) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRHXU): Hexi University , Zhangye 
+#   Reference:  (J,RPC,109,63,2015) 
+#   Year:  2015 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32743.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32743
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3500E+01        2.0000E-01        1.7050E+00        9.5000E-02

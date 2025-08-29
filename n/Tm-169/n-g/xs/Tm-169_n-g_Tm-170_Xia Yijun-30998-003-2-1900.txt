@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 30998-003-2 
-# EXFOR reaction        : (69-TM-169(N,G)69-TM-170,,SIG) 
-# incident energy       : 1.1200e-02 MeV - 1.0000e-01 MeV 
-# target                : Tm-169 
-# product               : Tm-170 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Xia Yijun 
-# institute             : (3CPRSIU): Sichuan University , Chengdu 
-# reference             : no reference 
-# year                  : no info 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30998.x4 
-# nds                   : https://nds.iaea.org/EXFOR/30998
+# Header: 
+#   Title: 69-TM-169(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 69 
+#   A: 169 
+#   Nuclide: 69-TM-169 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.1200e-02 MeV - 1.0000e-01 MeV 
+# Residual: 
+#   Z: 69 
+#   A: 170 
+#   Nuclide: 69-TM-170 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30998-003-2 (entry-subentry-pointer) 
+#   Reaction code: (69-TM-169(N,G)69-TM-170,,SIG) 
+#   First author: Xia Yijun 
+#   Institute:  (3CPRSIU): Sichuan University , Chengdu 
+#   Reference:  no reference 
+#   Year:  no info 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30998.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30998
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.1200E-02        3.6000E-04        2.5090E+00        3.9391E-01

@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 66-DY-161(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 66 
+#   A: 161 
+#   Nuclide: 66-DY-161 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.2500e-02 MeV - 1.7500e-01 MeV 
+# Residual: 
+#   Z: 66 
+#   A: 162 
+#   Nuclide: 66-DY-162 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22483-003-0 (entry-subentry-pointer) 
+#   Reaction code: (66-DY-161(N,G)66-DY-162,,SIG,,AV) 
+#   First author: H.Beer 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,PR/C,30,464,1984) 
+#   Year:  1984 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22483.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22483
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2500E-02        0.0000E+00        3.4300E+00        0.0000E+00
+        1.7500E-02        0.0000E+00        2.7870E+00        0.0000E+00
+        2.5000E-02        0.0000E+00        2.3720E+00        0.0000E+00
+        3.5000E-02        0.0000E+00        2.0000E+00        0.0000E+00
+        5.0000E-02        0.0000E+00        1.5790E+00        0.0000E+00
+        7.0000E-02        0.0000E+00        1.2290E+00        0.0000E+00
+        9.0000E-02        0.0000E+00        9.9300E-01        0.0000E+00
+        1.2500E-01        0.0000E+00        7.6700E-01        0.0000E+00
+        1.7500E-01        0.0000E+00        5.4800E-01        0.0000E+00

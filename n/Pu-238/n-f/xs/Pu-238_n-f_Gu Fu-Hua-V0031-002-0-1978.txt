@@ -1,17 +1,30 @@
-# entry-subent-pointer  : V0031-002-0 
-# EXFOR reaction        : (94-PU-238(N,F),,SIG,,,EVAL) 
-# incident energy       : 1.2500e-03 MeV - 1.7000e+01 MeV 
-# target                : Pu-238 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 18 
-# first author          : Gu Fu-Hua 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (R,HSJ-77065,197801) 
-# year                  : 1978 
-# facility              : None 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/V00/V0031.x4 
-# nds                   : https://nds.iaea.org/EXFOR/V0031
+# Header: 
+#   Title: 94-PU-238(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 94 
+#   A: 238 
+#   Nuclide: 94-PU-238 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.2500e-03 MeV - 1.7000e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: V0031-002-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-238(N,F),,SIG,,,EVAL) 
+#   First author: Gu Fu-Hua 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (R,HSJ-77065,197801) 
+#   Year:  1978 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/V00/V0031.x4 
+#   nds:  https://nds.iaea.org/EXFOR/V0031
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.2500E-03        0.0000E+00        1.2900E+00        8.0000E-02

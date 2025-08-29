@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 1-H-1(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.0000e-02 MeV - 6.4000e-02 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22310-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-1(N,G)1-H-2,,SIG) 
+#   First author: T.S.Suzuki 
+#   Institute:  (2JPNTIT): Tokyo Institute of Technology, Tokyo 
+#   Reference:  (J,AJ,439,(L),59,9502) 
+#   Year:  1995 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22310.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22310
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-02        0.0000E+00        3.5300E-04        2.6000E-05
+        2.0000E-02        0.0000E+00        3.2900E-04        2.6000E-05
+        2.0000E-02        0.0000E+00        2.8700E-04        2.2000E-05
+        2.0000E-02        0.0000E+00        3.0400E-04        1.8000E-05
+        4.0000E-02        0.0000E+00        2.3000E-04        1.5000E-05
+        4.0000E-02        0.0000E+00        1.9800E-04        1.2000E-05
+        4.0000E-02        0.0000E+00        1.7700E-04        1.0000E-05
+        4.0000E-02        0.0000E+00        2.0700E-04        1.3000E-05
+        6.4000E-02        0.0000E+00        1.5600E-04        1.1000E-05
+        6.4000E-02        0.0000E+00        1.5000E-04        7.0000E-06
+        6.4000E-02        0.0000E+00        1.5800E-04        1.1000E-05
+        6.4000E-02        0.0000E+00        1.4000E-04        9.0000E-06

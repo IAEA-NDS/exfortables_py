@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 20903-006-0 
-# EXFOR reaction        : (47-AG-109(N,2N)47-AG-108-G,,SIG) 
-# incident energy       : 1.4100e+01 MeV 
-# target                : Ag-109 
-# product               : Ag-108-G 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Langmann 
-# institute             : (2GERHAM): Hamburg, Universitaet 
-# reference             : (W,LANGMANN,6209) 
-# year                  : 1962 
-# facility              : (CCW  ): Cockcroft-Walton accelerator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20903.x4 
-# nds                   : https://nds.iaea.org/EXFOR/20903
+# Header: 
+#   Title: 47-AG-109(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 47 
+#   A: 109 
+#   Nuclide: 47-AG-109 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 47 
+#   A: 108 
+#   Nuclide: 47-AG-108-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20903-006-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-109(N,2N)47-AG-108-G,,SIG) 
+#   First author: Langmann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (W,LANGMANN,6209) 
+#   Year:  1962 
+#   Facility:  (CCW  ): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20903.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20903
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.4100E+01        1.0000E-01        1.0800E+00        2.0520E-01

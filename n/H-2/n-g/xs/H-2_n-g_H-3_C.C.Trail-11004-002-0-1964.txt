@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 1-H-2(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.0000e-08 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11004-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(N,G)1-H-3,,SIG) 
+#   First author: C.C.Trail 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,BAP,9,176(III8),6402) 
+#   Year:  1964 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11004.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11004
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E-08        0.0000E+00        3.6000E-04        3.0000E-05

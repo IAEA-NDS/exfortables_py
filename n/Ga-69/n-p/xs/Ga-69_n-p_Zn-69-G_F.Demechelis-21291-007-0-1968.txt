@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 31-GA-69(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 31 
+#   A: 69 
+#   Nuclide: 31-GA-69 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4500e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 69 
+#   Nuclide: 30-ZN-69-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21291-007-0 (entry-subentry-pointer) 
+#   Reaction code: (31-GA-69(N,P)30-ZN-69-G,,SIG) 
+#   First author: F.Demechelis 
+#   Institute:  (2ITYTUR): Universita degli Studi di Torino + INFN Torino 
+#   Reference:  (J,NC/B,58,(1),177,6811) 
+#   Year:  1968 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21291.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21291
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        2.0000E-01        1.7000E-02        4.0000E-03

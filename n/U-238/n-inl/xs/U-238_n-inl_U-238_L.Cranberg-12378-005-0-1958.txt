@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-238(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  5.5000e-01 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 12378-005-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,INL)92-U-238,,SIG) 
+#   First author: L.Cranberg 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,109,2063,1958) 
+#   Year:  1958 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/123/12378.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12378
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.5000E-01        1.0000E-02        1.7000E+00        2.0000E-01

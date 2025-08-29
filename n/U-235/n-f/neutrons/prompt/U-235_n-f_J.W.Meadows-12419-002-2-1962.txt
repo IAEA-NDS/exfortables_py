@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission-neutron yield, nu-bar 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 1 - 18 
+#   Incident energy:  3.0000e-02 MeV - 1.7600e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 12419-002-2 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F),PR,NU) 
+#   First author: J.W.Meadows 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,PR,126,197,1962) 
+#   Year:  1962 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/124/12419.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12419
+#
+#     E_in(MeV)        dE_in(MeV)       Multiplicity            dMultiplicity
+        3.0000E-02        0.0000E+00        2.4210E+00        3.8978E-02
+        2.0000E-01        0.0000E+00        2.4360E+00        3.4104E-02
+        6.2000E-01        0.0000E+00        2.4700E+00        3.6062E-02
+        1.1100E+00        0.0000E+00        2.5200E+00        3.5784E-02
+        1.5800E+00        0.0000E+00        2.5800E+00        3.7410E-02
+        1.7600E+00        0.0000E+00        2.5750E+00        3.7852E-02

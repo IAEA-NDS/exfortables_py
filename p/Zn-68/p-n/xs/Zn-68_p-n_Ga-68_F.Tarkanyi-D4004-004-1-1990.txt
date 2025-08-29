@@ -1,0 +1,56 @@
+# Header: 
+#   Title: 30-ZN-68(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 68 
+#   Nuclide: 30-ZN-68 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.1300e+01 MeV - 2.1600e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 68 
+#   Nuclide: 31-GA-68 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4004-004-1 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-68(P,N)31-GA-68,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,RCA,50,19,1990) 
+#   Year:  1990 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4004.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4004
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1300E+01        2.0000E-01        8.4300E-01        1.0959E-01
+        1.2700E+01        2.0000E-01        9.2300E-01        1.1999E-01
+        1.3100E+01        2.0000E-01               NAN        0.0000E+00
+        1.3600E+01        2.0000E-01               NAN        0.0000E+00
+        1.4000E+01        2.0000E-01        7.6700E-01        9.9710E-02
+        1.4000E+01        2.0000E-01               NAN        0.0000E+00
+        1.4400E+01        2.0000E-01               NAN        0.0000E+00
+        1.4500E+01        2.0000E-01               NAN        0.0000E+00
+        1.4600E+01        2.0000E-01               NAN        0.0000E+00
+        1.5000E+01        2.0000E-01               NAN        0.0000E+00
+        1.5300E+01        2.0000E-01        5.2600E-01        6.8380E-02
+        1.5400E+01        2.0000E-01               NAN        0.0000E+00
+        1.5500E+01        2.0000E-01               NAN        0.0000E+00
+        1.5800E+01        2.0000E-01               NAN        0.0000E+00
+        1.6000E+01        2.0000E-01               NAN        0.0000E+00
+        1.6400E+01        2.0000E-01        3.3700E-01        4.3810E-02
+        1.6500E+01        2.0000E-01               NAN        0.0000E+00
+        1.6900E+01        2.0000E-01               NAN        0.0000E+00
+        1.7400E+01        2.0000E-01               NAN        0.0000E+00
+        1.7600E+01        2.0000E-01        2.2700E-01        2.9510E-02
+        1.7600E+01        2.0000E-01               NAN        0.0000E+00
+        1.7800E+01        2.0000E-01               NAN        0.0000E+00
+        1.8000E+01        2.0000E-01               NAN        0.0000E+00
+        1.8600E+01        2.0000E-01        1.6700E-01        2.1710E-02
+        1.9700E+01        2.0000E-01        1.0700E-01        1.3910E-02
+        2.0700E+01        2.0000E-01        1.0000E-01        1.3000E-02
+        2.1600E+01        2.0000E-01        8.4000E-02        1.0920E-02

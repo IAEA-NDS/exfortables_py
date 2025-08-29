@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 95-AM-241(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 95 
+#   A: 241 
+#   Nuclide: 95-AM-241 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 95 
+#   A: 240 
+#   Nuclide: 95-AM-240-L 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40504-008-1 (entry-subentry-pointer) 
+#   Reaction code: (95-AM-241(N,2N)95-AM-240-L,,SIG) 
+#   First author: Yu.P.Gangrskiy 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  ((C,75KIEV,5,245,1975)=(S,INDC(CCP)-099,(5),245,1975)) 
+#   Year:  1975 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40504.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40504
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        0.0000E+00        2.0000E-04        5.0000E-05

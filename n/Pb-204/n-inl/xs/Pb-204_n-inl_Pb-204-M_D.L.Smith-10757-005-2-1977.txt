@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 82-PB-204(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 82 
+#   A: 204 
+#   Nuclide: 82-PB-204 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  3.3680e+00 MeV - 3.9600e+00 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 204 
+#   Nuclide: 82-PB-204-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10757-005-2 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-204(N,INL)82-PB-204-M,,SIG) 
+#   First author: D.L.Smith 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (R,ANL-NDM-37,197712) 
+#   Year:  1977 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10757.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10757
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3680E+00        1.1400E-01        3.8320E-02        0.0000E+00
+        3.4680E+00        1.1500E-01        4.0530E-02        0.0000E+00
+        3.5730E+00        1.1600E-01        4.4110E-02        0.0000E+00
+        3.6640E+00        1.1700E-01        4.9730E-02        0.0000E+00
+        3.7630E+00        1.1800E-01        5.3990E-02        0.0000E+00
+        3.8610E+00        1.1900E-01        5.6880E-02        0.0000E+00
+        3.9550E+00        1.5000E-01        5.4260E-02        0.0000E+00
+        3.9600E+00        1.2000E-01        6.1070E-02        0.0000E+00

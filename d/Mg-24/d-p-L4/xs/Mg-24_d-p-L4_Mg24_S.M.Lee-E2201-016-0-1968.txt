@@ -1,0 +1,52 @@
+# Header: 
+#   Title: 12-MG-24(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 12 
+#   A: 24 
+#   Nuclide: 12-MG-24 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 604 
+#   Incident energy:  2.0330e+00 MeV - 4.2050e+00 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 25 
+#   Nuclide: 12-MG-25 
+#   Level energy: 4.0000e-06 MeV 
+# EXFOR BIB:
+#   Entry id: E2201-016-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-24(D,P)12-MG-25,PAR,SIG) 
+#   First author: S.M.Lee 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,NP/A,122,(1),97,196812) 
+#   Year:  1968 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E22/E2201.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2201
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0330E+00        2.0330E-03        5.6670E-03        0.0000E+00
+        2.1040E+00        2.1040E-03        6.9810E-03        0.0000E+00
+        2.2000E+00        2.2000E-03        7.5950E-03        0.0000E+00
+        2.3010E+00        2.3010E-03        9.5150E-03        0.0000E+00
+        2.4000E+00        2.4000E-03        1.6950E-02        0.0000E+00
+        2.5010E+00        2.5010E-03        2.0980E-02        0.0000E+00
+        2.5990E+00        2.5990E-03        1.7080E-02        0.0000E+00
+        2.7000E+00        2.7000E-03        1.8200E-02        0.0000E+00
+        2.8020E+00        2.8020E-03        1.7310E-02        0.0000E+00
+        2.8990E+00        2.8990E-03        1.7220E-02        0.0000E+00
+        3.0040E+00        3.0040E-03        2.2450E-02        0.0000E+00
+        3.0970E+00        3.0970E-03        1.5840E-02        0.0000E+00
+        3.1990E+00        3.1990E-03        1.6960E-02        0.0000E+00
+        3.2920E+00        3.2920E-03        1.2950E-02        0.0000E+00
+        3.3980E+00        3.3980E-03        1.3570E-02        0.0000E+00
+        3.4990E+00        3.4990E-03        1.6890E-02        0.0000E+00
+        3.6040E+00        3.6040E-03        2.2030E-02        0.0000E+00
+        3.7060E+00        3.7060E-03        2.1640E-02        0.0000E+00
+        3.7980E+00        3.7980E-03        1.8040E-02        0.0000E+00
+        3.9030E+00        3.9030E-03        2.5280E-02        0.0000E+00
+        3.9990E+00        3.9990E-03        2.5190E-02        0.0000E+00
+        4.1050E+00        4.1050E-03        2.8310E-02        0.0000E+00
+        4.2050E+00        4.2050E-03        2.7270E-02        3.0950E-03

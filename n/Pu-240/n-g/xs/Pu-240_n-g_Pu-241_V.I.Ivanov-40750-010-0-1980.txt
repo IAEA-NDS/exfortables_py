@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 94-PU-240(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 94 
+#   A: 240 
+#   Nuclide: 94-PU-240 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.0000e+00 MeV 
+# Residual: 
+#   Z: 94 
+#   A: 241 
+#   Nuclide: 94-PU-241 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40750-010-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-240(N,G)94-PU-241,,SIG,,SPA) 
+#   First author: V.I.Ivanov 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  ((J,YK,,(1/36),26,1980)=(R,INDC(CCP)-155,26,1980)) 
+#   Year:  1980 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/407/40750.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40750
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        2.1000E-01        1.4000E-02

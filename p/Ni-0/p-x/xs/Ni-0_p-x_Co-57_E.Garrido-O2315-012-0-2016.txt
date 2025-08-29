@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 28-NI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0390e+01 MeV - 6.9810e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 57 
+#   Nuclide: 27-CO-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2315-012-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(P,X)27-CO-57,CUM,SIG) 
+#   First author: E.Garrido 
+#   Institute:  (2FR NTE): Universite de Nantes 
+#   Reference:  (J,NIM/B,383,191,2016) 
+#   Year:  2016 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2315.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2315
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.9810E+01        5.7000E-01        1.5677E-01        1.0420E-02
+        5.7340E+01        1.0700E+00        1.9961E-01        1.8180E-02
+        4.5660E+01        5.8000E-01        1.9822E-01        1.7170E-02
+        4.0780E+01        8.0000E-01        2.0367E-01        1.7600E-02
+        3.6630E+01        9.2000E-01        2.3248E-01        2.0110E-02
+        2.9850E+01        5.8000E-01        4.2846E-01        3.6160E-02
+        2.5130E+01        8.5000E-01        5.4991E-01        4.8680E-02
+        1.9630E+01        1.0800E+00        4.3630E-01        5.5850E-02
+        1.7620E+01        1.1700E+00        3.1311E-01        4.1960E-02
+        1.7330E+01        1.2000E+00        2.6899E-01        1.8390E-02
+        1.5430E+01        1.3500E+00        1.3296E-01        1.5680E-02
+        1.3860E+01        1.4900E+00        2.4420E-02        1.7200E-03
+        1.0390E+01        1.8600E+00        5.4500E-03        5.9000E-04

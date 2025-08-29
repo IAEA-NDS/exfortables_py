@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 40-ZR-94(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 94 
+#   Nuclide: 40-ZR-94 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  6.4800e+00 MeV - 7.7040e+00 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 91 
+#   Nuclide: 38-SR-91 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22144-006-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-94(N,A)38-SR-91,,SIG) 
+#   First author: M.Ibn Majah 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,NSE,104,271,9003) 
+#   Year:  1990 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22144.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22144
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.4800E+00        1.8900E-01        7.0000E-05        2.0000E-05
+        7.1800E+00        1.2700E-01        1.9000E-04        4.0000E-05
+        7.7040E+00        1.3000E-01        2.3000E-04        4.0000E-05

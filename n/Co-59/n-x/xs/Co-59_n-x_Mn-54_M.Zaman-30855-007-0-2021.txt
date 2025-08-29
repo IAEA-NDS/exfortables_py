@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 27-CO-59(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.6400e+01 MeV - 3.7200e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 54 
+#   Nuclide: 25-MN-54 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30855-007-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,X)25-MN-54,,SIG,,SPA) 
+#   First author: M.Zaman 
+#   Institute:  (3KORKNU): Kyungpook National University, Daegu 
+#   Reference:  (J,CPH/C,45,044004,2021) 
+#   Year:  2021 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/308/30855.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30855
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6400E+01        2.7700E+00        3.1800E-03        4.3000E-04
+        3.7200E+01        2.2000E+00        5.8740E-02        9.6700E-03

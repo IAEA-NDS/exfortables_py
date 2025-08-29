@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 28-NI-58(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  4.3000e+00 MeV - 5.8800e+00 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 59 
+#   Nuclide: 29-CU-59 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2026-002-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(P,G)29-CU-59,,SIG) 
+#   First author: A.Simon 
+#   Institute:  (1USAMSU): Michigan State University, East Lansing, MI 
+#   Reference:  (J,PR/C,87,055802,2013) 
+#   Year:  2013 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C20/C2026.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2026
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.3000E+00        0.0000E+00        1.4700E-04        1.9000E-05
+        4.5000E+00        0.0000E+00        1.6100E-04        2.0000E-05
+        4.7000E+00        0.0000E+00        1.3400E-04        1.7000E-05
+        4.8900E+00        0.0000E+00        1.5200E-04        1.9000E-05
+        5.0900E+00        0.0000E+00        2.6600E-04        3.4000E-05
+        5.2900E+00        0.0000E+00        4.3200E-04        5.6000E-05
+        5.4900E+00        0.0000E+00        4.8200E-04        6.2000E-05
+        5.8800E+00        0.0000E+00        3.7800E-04        4.9000E-05

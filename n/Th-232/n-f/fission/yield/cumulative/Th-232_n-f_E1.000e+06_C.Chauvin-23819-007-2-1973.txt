@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 90-TH-232(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  1.0000e+00 MeV 
+# Residual: 
+#   Z: 44 
+#   A: 105 
+#   Nuclide: 44-RU-105 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23819-007-2 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(N,F)44-RU-105,CUM,FY,,FST) 
+#   First author: C.Chauvin 
+#   Institute:  (2FR GRE): Universite Joseph Fourier, Grenoble 
+#   Reference:  ((R,FRNC-TH-470,1973)=(T,CHAUVIN,1973)) 
+#   Year:  1973 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/238/23819.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23819
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+               44              105                         4.9000E-04        5.0000E-05

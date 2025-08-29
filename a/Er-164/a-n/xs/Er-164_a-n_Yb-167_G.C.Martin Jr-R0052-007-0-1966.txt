@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 68-ER-164(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 68 
+#   A: 164 
+#   Nuclide: 68-ER-164 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.7850e+01 MeV - 2.4800e+01 MeV 
+# Residual: 
+#   Z: 70 
+#   A: 167 
+#   Nuclide: 70-YB-167 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: R0052-007-0 (entry-subentry-pointer) 
+#   Reaction code: (68-ER-164(A,N)70-YB-167,,SIG) 
+#   First author: G.C.Martin Jr 
+#   Institute:  (1USANOT): University of Notre Dame, Notre Dame, IN 
+#   Reference:  (J,NP,89,481,1966) 
+#   Year:  1966 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/R00/R0052.x4 
+#   nds:  https://nds.iaea.org/EXFOR/R0052
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7850E+01        2.0000E-01        2.7000E-01        4.5000E-02
+        1.9950E+01        2.0000E-01        1.6000E-01        3.5000E-02
+        2.3150E+01        2.0000E-01        1.1500E-01        2.5000E-02
+        2.4800E+01        2.0000E-01        1.0500E-01        3.5000E-02

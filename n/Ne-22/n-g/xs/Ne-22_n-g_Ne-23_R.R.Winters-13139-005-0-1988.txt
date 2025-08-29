@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 10-NE-22(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 10 
+#   A: 22 
+#   Nuclide: 10-NE-22 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.0000e-03 MeV - 1.0000e-01 MeV 
+# Residual: 
+#   Z: 10 
+#   A: 23 
+#   Nuclide: 10-NE-23 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13139-005-0 (entry-subentry-pointer) 
+#   Reaction code: (10-NE-22(N,G)10-NE-23,,SIG,,MXW) 
+#   First author: R.R.Winters 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,AJ,329,943,198806) 
+#   Year:  1988 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13139.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13139
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E-03        0.0000E+00        7.8900E-04        5.4000E-05
+        1.0000E-02        0.0000E+00        4.7700E-04        4.4000E-05
+        1.5000E-02        0.0000E+00        3.4200E-04        3.7000E-05
+        2.0000E-02        0.0000E+00        2.8000E-04        3.1000E-05
+        2.5000E-02        0.0000E+00        2.5100E-04        2.8000E-05
+        3.0000E-02        0.0000E+00        2.4000E-04        2.7000E-05
+        4.0000E-02        0.0000E+00        2.3700E-04        2.8000E-05
+        5.0000E-02        0.0000E+00        2.4300E-04        3.0000E-05
+        7.0000E-02        0.0000E+00        2.5100E-04        3.2000E-05
+        8.5000E-02        0.0000E+00        2.4900E-04        3.2000E-05
+        1.0000E-01        0.0000E+00        2.4300E-04        3.0000E-05

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 45-RH-103(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.3200e+00 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23401-005-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,INL)45-RH-103-M,,SIG,,FIS) 
+#   First author: K.Kanda 
+#   Institute:  (2JPNKTO): Kyoto University , Kyoto 
+#   Reference:  (R,KURRI-AR-4,94,1971) 
+#   Year:  1971 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/234/23401.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23401
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3200E+00        0.0000E+00        5.6600E-01        2.3000E-02

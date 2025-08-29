@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 90-TH-232(D,4N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: D,4N 
+#   MF-MT number: 3 - 37 
+#   Incident energy:  1.9870e+01 MeV - 3.0040e+01 MeV 
+# Residual: 
+#   Z: 91 
+#   A: 230 
+#   Nuclide: 91-PA-230 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2300-002-0 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(D,4N)91-PA-230,,SIG) 
+#   First author: C.Duchemin 
+#   Institute:  (2FR NTE): Universite de Nantes 
+#   Reference:  (J,NDS,119,267,2014) 
+#   Year:  2014 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2300.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2300
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9870E+01        0.0000E+00        3.6620E-03        0.0000E+00
+        2.1570E+01        0.0000E+00        5.4220E-02        0.0000E+00
+        2.3120E+01        0.0000E+00        2.3350E-01        3.3370E-02
+        2.3550E+01        0.0000E+00        2.5070E-01        3.8140E-02
+        2.5470E+01        0.0000E+00        2.9550E-01        4.3860E-02
+        2.7890E+01        0.0000E+00        2.3450E-01        3.8140E-02
+        2.8470E+01        0.0000E+00        2.0210E-01        2.8600E-02
+        3.0040E+01        0.0000E+00        1.5070E-01        2.0020E-02

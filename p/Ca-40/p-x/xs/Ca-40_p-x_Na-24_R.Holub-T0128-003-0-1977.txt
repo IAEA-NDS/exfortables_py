@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 20-CA-40(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 20 
+#   A: 40 
+#   Nuclide: 20-CA-40 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.0000e+01 MeV - 8.5000e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: T0128-003-0 (entry-subentry-pointer) 
+#   Reaction code: (20-CA-40(P,X)11-NA-24,CUM,SIG) 
+#   First author: R.Holub 
+#   Institute:  (1USAFSU): Florida State University, Tallahassee, FL 
+#   Reference:  (J,NP/A,288,291,1977) 
+#   Year:  1977 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T01/T0128.x4 
+#   nds:  https://nds.iaea.org/EXFOR/T0128
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+01        0.0000E+00        1.9000E-07        2.0000E-08
+        6.0000E+01        0.0000E+00        3.2000E-07        4.0000E-08
+        7.0000E+01        0.0000E+00        6.2000E-07        5.0000E-08
+        8.0000E+01        0.0000E+00        1.7000E-06        1.2000E-07
+        8.5000E+01        0.0000E+00        1.1000E-05        8.0000E-07

@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 8-O-16(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.0900e+01 MeV - 6.7400e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 10 
+#   Nuclide: 4-BE-10 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0507-016-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(P,X)4-BE-10,,SIG) 
+#   First author: J.M.Sisterson 
+#   Institute:  (1USAHRV): Harvard University, Cambridge, MA 
+#   Reference:  (J,NIM/B,123,324,1997) 
+#   Year:  1997 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C05/C0507.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0507
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0900E+01        0.0000E+00        5.2000E-06        4.0000E-07
+        4.1800E+01        0.0000E+00        7.9000E-06        8.0000E-07
+        4.9900E+01        0.0000E+00        3.8000E-05        2.9000E-06
+        6.7400E+01        0.0000E+00        3.3000E-04        2.0000E-05

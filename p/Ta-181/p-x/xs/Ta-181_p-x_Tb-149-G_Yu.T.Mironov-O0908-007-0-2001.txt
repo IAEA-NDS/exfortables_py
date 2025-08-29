@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 73-TA-181(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.3500e+02 MeV - 1.0000e+03 MeV 
+# Residual: 
+#   Z: 65 
+#   A: 149 
+#   Nuclide: 65-TB-149-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0908-007-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-181(P,X)65-TB-149-G,,SIG) 
+#   First author: Yu.T.Mironov 
+#   Institute:  (4RUSLIN): Peterburgskiy Institute Yad.Fiz.,Russ.Ak.Nauk., Gatchina 
+#   Reference:  (C,2001SAROV,,276,200109) 
+#   Year:  2001 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O09/O0908.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0908
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+03        2.0000E+01        1.8000E-02        1.8000E-03
+        9.4000E+02        2.0000E+01        1.3800E-02        1.4000E-03
+        8.4000E+02        2.0000E+01        1.2300E-02        1.6000E-03
+        7.8000E+02        2.0000E+01        1.1400E-02        1.2000E-03
+        6.2500E+02        2.0000E+01        7.2000E-03        8.0000E-04
+        4.4000E+02        2.0000E+01        2.8000E-03        3.0000E-04
+        2.3500E+02        2.0000E+01        6.0000E-06        0.0000E+00

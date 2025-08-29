@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 28-NI-0(N,EL)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 4 - 2 
+#   Incident energy:  3.2800e-01 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10593-003-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(N,EL)28-NI-0,,DA) 
+#   First author: P.Guenther 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,NSE,59,106,1976) 
+#   Year:  1976 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10593.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10593
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+        3.0000E+01        0.0000E+00        5.6750E-01        1.0487E-01
+        4.5000E+01        0.0000E+00        5.1460E-01        7.7190E-02
+        6.0000E+01        0.0000E+00        4.5280E-01        6.0630E-02
+        7.5000E+01        0.0000E+00        4.0510E-01        4.9058E-02
+        9.0000E+01        0.0000E+00        3.7510E-01        4.3099E-02
+        1.0500E+02        0.0000E+00        3.2860E-01        3.7756E-02
+        1.2000E+02        0.0000E+00        3.3330E-01        3.8296E-02
+        1.3500E+02        0.0000E+00        3.2440E-01        4.2432E-02
+        1.4500E+02        0.0000E+00        3.5650E-01        5.2299E-02

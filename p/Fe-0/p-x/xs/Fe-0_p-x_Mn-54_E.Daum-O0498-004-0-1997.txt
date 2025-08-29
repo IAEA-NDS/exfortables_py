@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 26-FE-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 0 
+#   Nuclide: 26-FE-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0600e+01 MeV - 2.9900e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 54 
+#   Nuclide: 25-MN-54 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0498-004-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-0(P,X)25-MN-54,,SIG) 
+#   First author: E.Daum 
+#   Institute:  (2GERKRU): Karlsruhe, University  
+#   Reference:  (P,INDC(GER)-043,4,1997) 
+#   Year:  1997 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O04/O0498.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0498
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0600E+01        1.4000E+00        8.0000E-04        2.6000E-04
+        1.5400E+01        1.0000E+00        1.2800E-03        4.3000E-04
+        1.9800E+01        7.0000E-01        1.0800E-03        4.4000E-04
+        2.5000E+01        6.0000E-01        1.4200E-03        2.9000E-04
+        2.9900E+01        4.0000E-01        3.8300E-02        5.7000E-03

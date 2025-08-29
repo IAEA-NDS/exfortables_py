@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 60-ND-144(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 60 
+#   A: 144 
+#   Nuclide: 60-ND-144 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 141 
+#   Nuclide: 58-CE-141 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20509-011-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-144(N,A)58-CE-141,,SIG) 
+#   First author: E.Havlik 
+#   Institute:  (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
+#   Reference:  (J,APA,34,209,197109) 
+#   Year:  1971 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20509.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20509
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        1.5000E-01        1.5500E-02        0.0000E+00

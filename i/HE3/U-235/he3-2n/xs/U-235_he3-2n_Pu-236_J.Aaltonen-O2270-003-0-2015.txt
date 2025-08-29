@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 92-U-235(HE3,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: HE3,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  2.0400e+01 MeV - 4.2000e+01 MeV 
+# Residual: 
+#   Z: 94 
+#   A: 236 
+#   Nuclide: 94-PU-236 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2270-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(HE3,2N)94-PU-236,,SIG) 
+#   First author: J.Aaltonen 
+#   Institute:  (2SF HLS): University of Helsinki, Helsinki 
+#   Reference:  (J,IZV,79,941,2015) 
+#   Year:  2015 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O22/O2270.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2270
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0400E+01        4.0000E-01        2.0000E-03        5.0000E-04
+        2.5900E+01        4.0000E-01        5.2000E-03        1.2000E-03
+        3.0500E+01        3.0000E-01        5.7000E-03        8.0000E-04
+        3.4700E+01        3.0000E-01        4.2000E-03        8.0000E-04
+        3.8500E+01        3.0000E-01        2.4000E-03        1.9000E-03
+        4.2000E+01        2.0000E-01        5.2000E-03        1.1000E-03

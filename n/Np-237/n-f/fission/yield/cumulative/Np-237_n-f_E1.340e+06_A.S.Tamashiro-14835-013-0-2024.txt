@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 93-NP-237(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 93 
+#   A: 237 
+#   Nuclide: 93-NP-237 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  1.3400e+00 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 131 
+#   Nuclide: 52-TE-131-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14835-013-0 (entry-subentry-pointer) 
+#   Reaction code: (93-NP-237(N,F)52-TE-131-M,CUM,FY,,FST) 
+#   First author: A.S.Tamashiro 
+#   Institute:  (1USAORU): Oregon State University, Corvallis, OR 
+#   Reference:  (J,NDS,193,131,2024) 
+#   Year:  2024 
+#   Facility:  (CRASS): Critical assembly 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/148/14835.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14835
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+               52              131M                        1.0630E-02        2.6000E-04
+               52              131M                        7.9300E-03        2.2000E-04
+               52              131M                        8.0600E-03        2.6000E-04
+               52              131M                        7.8400E-03        2.1000E-04

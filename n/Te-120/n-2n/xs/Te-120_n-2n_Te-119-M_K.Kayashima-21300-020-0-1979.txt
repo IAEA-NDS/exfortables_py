@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 52-TE-120(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 52 
+#   A: 120 
+#   Nuclide: 52-TE-120 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 119 
+#   Nuclide: 52-TE-119-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21300-020-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-120(N,2N)52-TE-119-M,,SIG) 
+#   First author: K.Kayashima 
+#   Institute:  (2JPNKYU): Kyushu University , Fukuoka 
+#   Reference:  ((P,INDC(JAP)-47,94,1979)=(P,NEANDC(J)-61,94,1979)) 
+#   Year:  1979 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21300.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21300
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        6.7300E-01        7.4000E-02

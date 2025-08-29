@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32868-004-0 
-# EXFOR reaction        : (3-LI-0(N,TOT),,SIG) 
-# incident energy       : 4.2500e-07 MeV - 1.9990e+01 MeV 
-# target                : Li-0 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 1 
-# first author          : Zhang Jiang-Lin 
-# institute             : (3CPRCPR): China, People's Rep. 
-# reference             : (J,ASI,71,052901,2022) 
-# year                  : 2022 
-# facility              : (SYNCH): Synchrotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32868.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32868
+# Header: 
+#   Title: 3-LI-0(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 0 
+#   Nuclide: 3-LI-0 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  4.2500e-07 MeV - 1.9990e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32868-004-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-0(N,TOT),,SIG) 
+#   First author: Zhang Jiang-Lin 
+#   Institute:  (3CPRCPR): China, People's Rep. 
+#   Reference:  (J,ASI,71,052901,2022) 
+#   Year:  2022 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32868.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32868
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         4.2500E-07        0.0000E+00        1.7653E+01        3.0400E-01

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 82-PB-0(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4000e+01 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 1 
+#   Nuclide: 0-NN-1 
+#   Level energy: 6.0000e-01 MeV 
+# EXFOR BIB:
+#   Entry id: 40646-003-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(N,X)0-NN-1,EM/PAR,SIG) 
+#   First author: V.I.Sukhanov 
+#   Institute:  (4RUSRUS): Russia 
+#   Reference:  (J,AE,11,398,1961) 
+#   Year:  1961 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40646.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40646
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        0.0000E+00        1.8000E+00        3.0000E-01

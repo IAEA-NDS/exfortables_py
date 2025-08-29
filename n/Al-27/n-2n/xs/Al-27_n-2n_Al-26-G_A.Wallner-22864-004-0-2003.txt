@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 13-AL-27(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 13 
+#   A: 26 
+#   Nuclide: 13-AL-26-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22864-004-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,2N)13-AL-26-G,,SIG) 
+#   First author: A.Wallner 
+#   Institute:  (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
+#   Reference:  (J,EPJ/A,17,285,2003) 
+#   Year:  2003 
+#   Facility:  (SPECM): Mass spectrometer 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22864.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22864
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        5.0000E-02        2.9000E-02        2.0000E-03

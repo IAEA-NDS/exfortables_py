@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 41-NB-93(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.0000e-02 MeV - 3.8240e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 90 
+#   Nuclide: 39-Y-90-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4156-008-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(D,X)39-Y-90-M,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,255,297,2007) 
+#   Year:  2007 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4156.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4156
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-02        2.7000E+00        2.1000E-05        3.0000E-06
+        8.5100E+00        2.2300E+00        2.6000E-05        6.0000E-06
+        1.3170E+01        1.9300E+00        6.5000E-05        3.3000E-05
+        1.6840E+01        1.6900E+00        1.0000E-04        2.1000E-05
+        2.0090E+01        1.4800E+00        2.4700E-04        3.3000E-05
+        2.2810E+01        1.3000E+00        5.1000E-04        6.0000E-05
+        2.5490E+01        1.1300E+00        6.9000E-04        8.0000E-05
+        2.7910E+01        9.7000E-01        8.7000E-04        1.0000E-04
+        3.0190E+01        8.2000E-01        9.8000E-04        1.1000E-04
+        3.2340E+01        6.8000E-01        1.0600E-03        1.2000E-04
+        3.4390E+01        5.5000E-01        8.2000E-04        9.0000E-05
+        3.6360E+01        4.2000E-01        1.1600E-03        1.3000E-04
+        3.8240E+01        3.0000E-01        1.1400E-03        1.3000E-04

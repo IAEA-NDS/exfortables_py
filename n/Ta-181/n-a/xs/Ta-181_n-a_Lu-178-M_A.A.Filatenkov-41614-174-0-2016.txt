@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 73-TA-181(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3680e+01 MeV - 1.4710e+01 MeV 
+# Residual: 
+#   Z: 71 
+#   A: 178 
+#   Nuclide: 71-LU-178-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41614-174-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-181(N,A)71-LU-178-M,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,INDC(CCP)-0460,2016) 
+#   Year:  2016 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41614
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3680E+01        0.0000E+00        1.5100E-04        1.3937E-05
+        1.3880E+01        0.0000E+00        1.7100E-04        1.5014E-05
+        1.4260E+01        0.0000E+00        2.0300E-04        1.4799E-05
+        1.4440E+01        0.0000E+00        2.1600E-04        1.4926E-05
+        1.4640E+01        0.0000E+00        2.4200E-04        3.0250E-05
+        1.4710E+01        0.0000E+00        2.0900E-04        1.9980E-05

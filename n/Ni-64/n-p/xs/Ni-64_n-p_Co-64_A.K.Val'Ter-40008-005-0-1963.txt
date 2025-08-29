@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 28-NI-64(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 64 
+#   Nuclide: 28-NI-64 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 64 
+#   Nuclide: 27-CO-64 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40008-005-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-64(N,P)27-CO-64,,SIG) 
+#   First author: A.K.Val'Ter 
+#   Institute:  (4KASKAZ): Institute Yadernoi Fiziki, Almaty 
+#   Reference:  (J,BAS,26,1086,1963) 
+#   Year:  1963 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40008.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40008
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        5.0000E-03        1.0000E-03

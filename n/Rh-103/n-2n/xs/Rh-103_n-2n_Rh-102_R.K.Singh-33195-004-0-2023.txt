@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 45-RH-103(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.6860e+01 MeV - 1.9890e+01 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 102 
+#   Nuclide: 45-RH-102 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33195-004-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,2N)45-RH-102,,SIG) 
+#   First author: R.K.Singh 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,ARI,200,110949,2023) 
+#   Year:  2023 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33195.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33195
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6860E+01        5.5000E-01        1.4818E+00        1.3157E-01
+        1.9890E+01        5.9000E-01        1.0355E+00        1.0425E-01

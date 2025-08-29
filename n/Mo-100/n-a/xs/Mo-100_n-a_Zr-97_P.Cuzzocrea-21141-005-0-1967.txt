@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 42-MO-100(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 100 
+#   Nuclide: 42-MO-100 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 97 
+#   Nuclide: 40-ZR-97 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21141-005-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-100(N,A)40-ZR-97,,SIG) 
+#   First author: P.Cuzzocrea 
+#   Institute:  (2ITYNAP): University degli Studi di Napoli Federico II + INFN Napoli 
+#   Reference:  (J,NP/A,103,616,196711) 
+#   Year:  1967 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/211/21141.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21141
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        2.0000E-01        2.5000E-02        1.5000E-02

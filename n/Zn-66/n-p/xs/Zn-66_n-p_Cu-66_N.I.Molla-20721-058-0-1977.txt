@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 30-ZN-66(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 66 
+#   Nuclide: 30-ZN-66 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 66 
+#   Nuclide: 29-CU-66 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20721-058-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-66(N,P)29-CU-66,,SIG) 
+#   First author: N.I.Molla 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,NP/A,283,269,197706) 
+#   Year:  1977 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20721.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20721
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        7.2000E-02        8.0000E-03

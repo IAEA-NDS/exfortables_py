@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 27-CO-59(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.2200e+01 MeV - 1.1410e+02 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 56 
+#   Nuclide: 27-CO-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1210-003-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(A,X)27-CO-56,,SIG) 
+#   First author: J.Rama Rao 
+#   Institute:  (3INDBHU): Banaras Hindu University , Varanasi 
+#   Reference:  (J,NIM/B,24-25,484,1987) 
+#   Year:  1987 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O12/O1210.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1210
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.2200E+01        4.0000E-01        3.1000E-04        3.1000E-05
+        4.7600E+01        4.0000E-01        5.7000E-03        3.9900E-04
+        5.3100E+01        4.0000E-01        2.6400E-02        2.1120E-03
+        5.8900E+01        4.0000E-01        5.2000E-02        4.1600E-03
+        6.5000E+01        4.0000E-01        6.0000E-02        4.2000E-03
+        6.9500E+01        4.0000E-01        5.0100E-02        2.5050E-03
+        7.5300E+01        4.0000E-01        4.0900E-02        2.0450E-03
+        7.6500E+01        4.0000E-01        4.1500E-02        2.9050E-03
+        7.9800E+01        4.0000E-01        3.5500E-02        1.0650E-03
+        8.4100E+01        4.0000E-01        3.2400E-02        2.2680E-03
+        8.8600E+01        4.0000E-01        3.1400E-02        2.5120E-03
+        9.4100E+01        4.0000E-01        3.2400E-02        2.2680E-03
+        9.8600E+01        4.0000E-01        3.7800E-02        2.2680E-03
+        1.0380E+02        4.0000E-01        3.9000E-02        2.7300E-03
+        1.0870E+02        4.0000E-01        4.5000E-02        3.1500E-03
+        1.1410E+02        4.0000E-01        4.9000E-02        2.9400E-03

@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 29-CU-65(HE3,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: HE3,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.2800e+01 MeV - 2.4100e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 65 
+#   Nuclide: 30-ZN-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0079-010-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(HE3,X)30-ZN-65,,SIG) 
+#   First author: E.A.Bryant 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,130,1512,1963) 
+#   Year:  1963 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0079.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0079
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2800E+01        0.0000E+00        6.0000E-03        6.6000E-04
+        1.6300E+01        0.0000E+00        1.1000E-01        1.2100E-02
+        1.8700E+01        0.0000E+00        2.8500E-01        3.1350E-02
+        1.9900E+01        0.0000E+00        3.8000E-01        4.1800E-02
+        2.2100E+01        0.0000E+00        5.3600E-01        5.8960E-02
+        2.4100E+01        0.0000E+00        6.9000E-01        7.5900E-02

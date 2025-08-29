@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 79-AU-197(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.5000e+02 MeV - 2.4000e+04 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 99 
+#   Nuclide: 42-MO-99 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2001-056-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(P,X)42-MO-99,CUM,SIG) 
+#   First author: S.Kraemer 
+#   Institute:  (2GERTHD): Technische Universitaet Darmstadt 
+#   Reference:  (J,INC,13,205,1977) 
+#   Year:  1977 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2001.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2001
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5000E+02        0.0000E+00        1.5200E-03        2.0000E-05
+        2.4000E+04        0.0000E+00        7.4000E-04        3.6000E-04

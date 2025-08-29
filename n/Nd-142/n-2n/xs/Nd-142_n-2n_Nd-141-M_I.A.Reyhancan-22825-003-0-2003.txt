@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 60-ND-142(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 60 
+#   A: 142 
+#   Nuclide: 60-ND-142 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3570e+01 MeV - 1.4830e+01 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 141 
+#   Nuclide: 60-ND-141-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22825-003-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-142(N,2N)60-ND-141-M,,SIG) 
+#   First author: I.A.Reyhancan 
+#   Institute:  (2TUKCNA): Cekmece Nuclear Research Centre, Istanbul 
+#   Reference:  (J,ANE,30,1539,2003) 
+#   Year:  2003 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22825.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22825
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3570E+01        4.0000E-02        6.4600E-01        3.0000E-02
+        1.3750E+01        5.0000E-02        7.2600E-01        3.4000E-02
+        1.4150E+01        7.0000E-02        6.7100E-01        3.2000E-02
+        1.4520E+01        9.0000E-02        7.2700E-01        3.4000E-02
+        1.4750E+01        9.0000E-02        6.9900E-01        3.3000E-02
+        1.4830E+01        1.0000E-01        7.1100E-01        3.3000E-02

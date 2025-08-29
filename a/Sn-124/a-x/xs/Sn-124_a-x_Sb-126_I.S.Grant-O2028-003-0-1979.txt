@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 50-SN-124(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 124 
+#   Nuclide: 50-SN-124 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  9.1000e+00 MeV - 3.5690e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 126 
+#   Nuclide: 51-SB-126 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2028-003-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-124(A,X)51-SB-126,,SIG) 
+#   First author: I.S.Grant 
+#   Institute:  (2UK MAN): University of Manchester, England 
+#   Reference:  (J,JP/G,5,1741,1979) 
+#   Year:  1979 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2028.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2028
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.1000E+00        0.0000E+00        4.4700E-03        4.2600E-04
+        1.5020E+01        0.0000E+00        6.9700E-03        5.9100E-04
+        2.1300E+01        0.0000E+00        9.1400E-03        9.8500E-04
+        2.4270E+01        0.0000E+00        1.0702E-02        1.3480E-03
+        3.0130E+01        0.0000E+00        9.5580E-03        6.8900E-04
+        3.5690E+01        0.0000E+00        9.9250E-03        1.0840E-03

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 82-PB-208(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 82 
+#   A: 208 
+#   Nuclide: 82-PB-208 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 207 
+#   Nuclide: 82-PB-207 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41156-010-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-208(N,2N)82-PB-207,,SIG,,,DERIV) 
+#   First author: S.P.Simakov 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  ((J,YK,,(3-4),93,1992)=(R,INDC(CCP)-358,93,1992)) 
+#   Year:  1992 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41156.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41156
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        2.3800E+00        1.4000E-01

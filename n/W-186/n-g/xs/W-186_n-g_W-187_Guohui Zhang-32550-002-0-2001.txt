@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32550-002-0 
-# EXFOR reaction        : (74-W-186(N,G)74-W-187,,SIG) 
-# incident energy       : 5.0000e-01 MeV - 1.5000e+00 MeV 
-# target                : W-186 
-# product               : W-187 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Guohui Zhang 
-# institute             : (3CPRBJG): Peking University , Beijing 
-# reference             : (J,NSE,137,107,2001) 
-# year                  : 2001 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32550.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32550
+# Header: 
+#   Title: 74-W-186(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 74 
+#   A: 186 
+#   Nuclide: 74-W-186 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.0000e-01 MeV - 1.5000e+00 MeV 
+# Residual: 
+#   Z: 74 
+#   A: 187 
+#   Nuclide: 74-W-187 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32550-002-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-186(N,G)74-W-187,,SIG) 
+#   First author: Guohui Zhang 
+#   Institute:  (3CPRBJG): Peking University , Beijing 
+#   Reference:  (J,NSE,137,107,2001) 
+#   Year:  2001 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32550.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32550
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         5.0000E-01        8.0000E-02        4.4500E-02        2.2000E-03

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 42-MO-92(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 92 
+#   Nuclide: 42-MO-92 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4200e+01 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 91 
+#   Nuclide: 42-MO-91 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30576-004-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-92(N,2N)42-MO-91,,SIG) 
+#   First author: C.V.Srinivasa Rao 
+#   Institute:  (3INDITK): Indian Institute of Technology, Kanpur 
+#   Reference:  (J,PS,24,935,1981) 
+#   Year:  1981 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30576.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30576
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        2.0000E-01        2.2600E-01        1.1000E-02

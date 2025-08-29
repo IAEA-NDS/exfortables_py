@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 1-H-2(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  7.0000e+00 MeV - 1.9000e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M0949-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(G,N)1-H-1,,SIG,,BRS) 
+#   First author: A.De Graeve 
+#   Institute:  (2BLGGHT): Universiteit Gent, Gent 
+#   Reference:  (J,PR/C,45,860,1992) 
+#   Year:  1992 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M09/M0949.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0949
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0000E+00        0.0000E+00        2.0200E-03        6.1000E-05
+        8.0000E+00        0.0000E+00        1.7760E-03        5.3000E-05
+        9.0000E+00        0.0000E+00        1.5710E-03        4.7000E-05
+        1.0000E+01        0.0000E+00        1.4090E-03        4.2000E-05
+        1.1000E+01        0.0000E+00        1.2780E-03        3.8000E-05
+        1.2000E+01        0.0000E+00        1.1610E-03        3.5000E-05
+        1.3000E+01        0.0000E+00        1.0580E-03        3.2000E-05
+        1.4000E+01        0.0000E+00        9.6300E-04        2.9000E-05
+        1.5000E+01        0.0000E+00        8.8400E-04        2.7000E-05
+        1.6000E+01        0.0000E+00        8.2200E-04        2.5000E-05
+        1.7000E+01        0.0000E+00        7.4800E-04        2.2000E-05
+        1.8000E+01        0.0000E+00        7.1600E-04        2.2000E-05
+        1.9000E+01        0.0000E+00        6.8700E-04        2.1000E-05

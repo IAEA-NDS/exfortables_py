@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32913-002-0 
-# EXFOR reaction        : (47-AG-107(N,G)47-AG-108,,SIG) 
-# incident energy       : 1.0010e-06 MeV - 9.9904e-02 MeV 
-# target                : Ag-107 
-# product               : Ag-108 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Xin-Xiang Li 
-# institute             : (3CPRCPR): China, People's Rep. 
-# reference             : (J,CPH/B,31,038204,2022) 
-# year                  : 2022 
-# facility              : (SYNCH): Synchrotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/329/32913.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32913
+# Header: 
+#   Title: 47-AG-107(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 47 
+#   A: 107 
+#   Nuclide: 47-AG-107 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.0010e-06 MeV - 9.9904e-02 MeV 
+# Residual: 
+#   Z: 47 
+#   A: 108 
+#   Nuclide: 47-AG-108 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32913-002-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-107(N,G)47-AG-108,,SIG) 
+#   First author: Xin-Xiang Li 
+#   Institute:  (3CPRCPR): China, People's Rep. 
+#   Reference:  (J,CPH/B,31,038204,2022) 
+#   Year:  2022 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/329/32913.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32913
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.0010E-06        9.6000E-10        1.2502E+01        1.0840E+00

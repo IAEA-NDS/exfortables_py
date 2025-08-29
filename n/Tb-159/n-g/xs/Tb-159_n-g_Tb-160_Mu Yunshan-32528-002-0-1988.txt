@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32528-002-0 
-# EXFOR reaction        : (65-TB-159(N,G)65-TB-160,,SIG) 
-# incident energy       : 7.7000e-01 MeV - 1.6100e+00 MeV 
-# target                : Tb-159 
-# product               : Tb-160 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Mu Yunshan 
-# institute             : (3CPRSIU): Sichuan University , Chengdu 
-# reference             : (J,CNP,10,(3),233,198808) 
-# year                  : 1988 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32528.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32528
+# Header: 
+#   Title: 65-TB-159(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 65 
+#   A: 159 
+#   Nuclide: 65-TB-159 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  7.7000e-01 MeV - 1.6100e+00 MeV 
+# Residual: 
+#   Z: 65 
+#   A: 160 
+#   Nuclide: 65-TB-160 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32528-002-0 (entry-subentry-pointer) 
+#   Reaction code: (65-TB-159(N,G)65-TB-160,,SIG) 
+#   First author: Mu Yunshan 
+#   Institute:  (3CPRSIU): Sichuan University , Chengdu 
+#   Reference:  (J,CNP,10,(3),233,198808) 
+#   Year:  1988 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32528.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32528
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         7.7000E-01        6.0000E-02        2.1600E-01        2.5000E-02

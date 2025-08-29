@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 77-IR-193(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 77 
+#   A: 193 
+#   Nuclide: 77-IR-193 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3640e+01 MeV - 1.4820e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 190 
+#   Nuclide: 75-RE-190-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41428-026-0 (entry-subentry-pointer) 
+#   Reaction code: (77-IR-193(N,A)75-RE-190-M,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,RI-259,2003) 
+#   Year:  2003 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41428.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41428
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3640E+01        0.0000E+00        5.0000E-05        3.0000E-05
+        1.3880E+01        0.0000E+00        1.3000E-04        6.0000E-05
+        1.4100E+01        0.0000E+00        1.0000E-04        5.0000E-05
+        1.4280E+01        0.0000E+00        1.3000E-04        5.0000E-05
+        1.4470E+01        0.0000E+00        9.0000E-05        5.0000E-05
+        1.4680E+01        0.0000E+00        1.6000E-04        6.0000E-05
+        1.4820E+01        0.0000E+00        1.8000E-04        6.0000E-05

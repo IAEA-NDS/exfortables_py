@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 6-C-0(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 6 
+#   A: 0 
+#   Nuclide: 6-C-0 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  2.4230e-02 MeV - 9.4090e-01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14154-002-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-0(N,TOT),,SIG) 
+#   First author: Y.Danon 
+#   Institute:  (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
+#   Reference:  (C,2007NICE,1,401,2007) 
+#   Year:  2007 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/141/14154.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14154
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4230E-02        1.0550E-03        4.6680E+00        2.1010E-02
+        8.2250E-02        2.1100E-03        4.4190E+00        3.8970E-02
+        1.2760E-01        3.1650E-03        4.3620E+00        3.5980E-02
+        1.3820E-01        1.0550E-03        4.3230E+00        2.0990E-02
+        1.6880E-01        2.1100E-03        4.2390E+00        2.3980E-02
+        1.8460E-01        2.1100E-03        4.1670E+00        2.0990E-02
+        2.1940E-01        3.1650E-03        4.0530E+00        1.4990E-02
+        2.4470E-01        2.1100E-03        4.0230E+00        2.9980E-02
+        2.7210E-01        5.2740E-03        3.9420E+00        8.9940E-03
+        3.0690E-01        9.4940E-03        3.8310E+00        8.9940E-03
+        3.5120E-01        9.4940E-03        3.7500E+00        1.1990E-02
+        3.7550E-01        4.2200E-03        3.6750E+00        1.4990E-02
+        4.3560E-01        5.2740E-03        3.5970E+00        4.4970E-02
+        4.6730E-01        5.2740E-03        3.4650E+00        2.3980E-02
+        4.9680E-01        6.3290E-03        3.3960E+00        5.3960E-02
+        5.5380E-01        1.0550E-02        3.3240E+00        4.4970E-02
+        6.0650E-01        1.3710E-02        3.2340E+00        2.3980E-02
+        6.9940E-01        1.3710E-02        3.0010E+00        2.0990E-02
+        9.4090E-01        3.0590E-02        2.6470E+00        2.3980E-02

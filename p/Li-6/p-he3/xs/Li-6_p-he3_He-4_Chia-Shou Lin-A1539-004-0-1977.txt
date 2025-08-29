@@ -1,17 +1,30 @@
-# entry-subent-pointer  : A1539-004-0 
-# EXFOR reaction        : (3-LI-6(P,HE3)2-HE-4,,SIG) 
-# incident energy       : 1.0000e+00 MeV - 2.6000e+00 MeV 
-# target                : Li-6 
-# product               : He-4 
-# level energy          : - 
-# MF-MT number          : 3 - 106 
-# first author          : Chia-Shou Lin 
-# institute             : (3CHFSHI): Institute of Nuclear Energy Research, Lung-Tan 
-# reference             : (J,NP/A,275,93,197701) 
-# year                  : 1977 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A15/A1539.x4 
-# nds                   : https://nds.iaea.org/EXFOR/A1539
+# Header: 
+#   Title: 3-LI-6(P,HE3)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: P,HE3 
+#   MF-MT number: 3 - 106 
+#   Incident energy:  1.0000e+00 MeV - 2.6000e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1539-004-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(P,HE3)2-HE-4,,SIG) 
+#   First author: Chia-Shou Lin 
+#   Institute:  (3CHFSHI): Institute of Nuclear Energy Research, Lung-Tan 
+#   Reference:  (J,NP/A,275,93,197701) 
+#   Year:  1977 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A15/A1539.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1539
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.0000E+00        0.0000E+00        1.0700E-01        3.3600E-03

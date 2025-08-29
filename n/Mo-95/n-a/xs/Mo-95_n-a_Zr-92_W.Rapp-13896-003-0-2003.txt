@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 42-MO-95(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 95 
+#   Nuclide: 42-MO-95 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.5000e-03 MeV - 4.5000e-01 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 92 
+#   Nuclide: 40-ZR-92 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13896-003-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-95(N,A)40-ZR-92,,SIG,,AV) 
+#   First author: W.Rapp 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,PR/C,68,015802,200307) 
+#   Year:  2003 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/138/13896.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13896
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E-03        5.0000E-04        8.9600E-05        4.4000E-06
+        2.5000E-03        5.0000E-04        1.0440E-04        5.1000E-06
+        3.5000E-03        5.0000E-04        7.2000E-05        4.9000E-06
+        4.5000E-03        5.0000E-04        8.7000E-05        5.8000E-06
+        6.2500E-03        1.2500E-03        3.0600E-05        3.5000E-06
+        8.7500E-03        1.2500E-03        4.7800E-05        3.8000E-06
+        1.2500E-02        2.5000E-03        3.0100E-05        2.6000E-06
+        2.0000E-02        5.0000E-03        2.4000E-05        1.7000E-06
+        3.2500E-02        7.5000E-03        1.4400E-05        1.1000E-06
+        5.0000E-02        1.0000E-02        1.3600E-05        1.0000E-06
+        7.0000E-02        1.0000E-02        1.3100E-05        1.1000E-06
+        1.5000E-01        5.0000E-02        1.0940E-05        7.8000E-07
+        2.5000E-01        5.0000E-02        1.1200E-05        1.1000E-06
+        3.5000E-01        5.0000E-02        5.6200E-06        8.3000E-07
+        4.5000E-01        5.0000E-02        4.2500E-06        8.5000E-07

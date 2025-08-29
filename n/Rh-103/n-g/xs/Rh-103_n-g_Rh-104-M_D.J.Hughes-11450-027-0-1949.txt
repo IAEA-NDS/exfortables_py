@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 45-RH-103(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.0000e+00 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 104 
+#   Nuclide: 45-RH-104-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11450-027-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,G)45-RH-104-M,,SIG,,FIS) 
+#   First author: D.J.Hughes 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,PR,75,1781,1949) 
+#   Year:  1949 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11450.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11450
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        1.6500E-02        0.0000E+00

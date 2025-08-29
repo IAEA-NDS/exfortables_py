@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 6-C-12(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.8300e+02 MeV - 3.8700e+02 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 11 
+#   Nuclide: 6-C-11 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2359-002-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(P,X)6-C-11,,SIG) 
+#   First author: S.D.Warshaw 
+#   Institute:  (1USACHI): University of Chicago, IL 
+#   Reference:  (J,PR,95,649(SA2),1954) 
+#   Year:  1954 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2359.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2359
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.8300E+02        1.4000E+01        4.8900E-02        2.5000E-03
+        3.8700E+02        1.6000E+01        4.3600E-02        2.2000E-03

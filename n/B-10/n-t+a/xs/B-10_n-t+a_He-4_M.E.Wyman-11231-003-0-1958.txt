@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 5-B-10(N,T+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 5 
+#   A: 10 
+#   Nuclide: 5-B-10 
+# Reaction: 
+#   Process: N,T+A 
+#   MF-MT number: 3 - 155 
+#   Incident energy:  4.0000e+00 MeV - 1.4100e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11231-003-0 (entry-subentry-pointer) 
+#   Reaction code: (5-B-10(N,T+A)2-HE-4,,SIG) 
+#   First author: M.E.Wyman 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,112,1264,58) 
+#   Year:  1958 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11231.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11231
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+00        2.0000E-01        9.5000E-02        1.0000E-02
+        5.6000E+00        5.0000E-02        2.3000E-01        2.5000E-02
+        9.6000E+00        1.5000E-01        1.2500E-01        1.5000E-02
+        1.4100E+01        1.0000E-01        8.5000E-02        6.0000E-03

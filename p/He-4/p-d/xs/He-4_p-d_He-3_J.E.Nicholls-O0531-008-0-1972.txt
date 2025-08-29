@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 2-HE-4(P,D)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+# Reaction: 
+#   Process: P,D 
+#   MF-MT number: 3 - 104 
+#   Incident energy:  1.4100e+02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0531-008-0 (entry-subentry-pointer) 
+#   Reaction code: (2-HE-4(P,D)2-HE-3,,SIG,,,DERIV) 
+#   First author: J.E.Nicholls 
+#   Institute:  (2UK LON): University of London, London, England 
+#   Reference:  (J,NP/A,181,329,1972) 
+#   Year:  1972 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0531.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0531
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+02        2.0000E+00        3.2000E-03        8.0000E-04

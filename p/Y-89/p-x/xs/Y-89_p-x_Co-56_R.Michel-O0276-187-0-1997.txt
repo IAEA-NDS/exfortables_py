@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 39-Y-89(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.6900e+02 MeV - 1.6000e+03 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 56 
+#   Nuclide: 27-CO-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0276-187-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(P,X)27-CO-56,CUM,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,NIM/B,129,153,1997) 
+#   Year:  1997 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0276
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.6900E+02        1.2400E+00        2.9800E-04        5.3000E-05
+        7.7200E+02        1.2300E+00        7.1000E-04        8.8800E-05
+        1.2000E+03        2.0000E+01        1.8400E-03        1.3500E-04
+        1.6000E+03        0.0000E+00        2.3600E-03        1.8300E-04
+        1.6000E+03        2.0000E+01        2.3900E-03        1.7200E-04

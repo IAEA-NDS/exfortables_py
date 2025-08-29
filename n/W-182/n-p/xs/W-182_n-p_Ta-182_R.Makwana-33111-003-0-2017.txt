@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 74-W-182(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 74 
+#   A: 182 
+#   Nuclide: 74-W-182 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  8.9600e+00 MeV - 1.6630e+01 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 182 
+#   Nuclide: 73-TA-182 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33111-003-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-182(N,P)73-TA-182,,SIG,,SPA) 
+#   First author: R.Makwana 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,PR/C,96,024608,2017) 
+#   Year:  2017 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33111.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33111
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.9600E+00        7.7000E-01        4.3000E-05        3.0000E-06
+        1.2470E+01        8.2500E-01        7.9300E-04        6.0000E-05
+        1.6630E+01        9.5000E-01        4.0920E-03        2.8000E-04

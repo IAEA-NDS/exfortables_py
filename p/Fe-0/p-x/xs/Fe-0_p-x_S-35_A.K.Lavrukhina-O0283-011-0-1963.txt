@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 26-FE-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 0 
+#   Nuclide: 26-FE-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.5000e+02 MeV 
+# Residual: 
+#   Z: 16 
+#   A: 35 
+#   Nuclide: 16-S-35 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0283-011-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-0(P,X)16-S-35,CUM,SIG) 
+#   First author: A.K.Lavrukhina 
+#   Institute:  (4RUSGAC): Institute for Geo- and Analytical Chemistry, Moscow 
+#   Reference:  (J,ZET,44,1429,1963) 
+#   Year:  1963 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0283.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0283
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+02        0.0000E+00        1.8000E-04        9.0000E-05

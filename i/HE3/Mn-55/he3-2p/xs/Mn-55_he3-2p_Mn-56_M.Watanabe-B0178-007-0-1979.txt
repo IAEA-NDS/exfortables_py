@@ -1,0 +1,54 @@
+# Header: 
+#   Title: 25-MN-55(HE3,2P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 25 
+#   A: 55 
+#   Nuclide: 25-MN-55 
+# Reaction: 
+#   Process: HE3,2P 
+#   MF-MT number: 3 - 111 
+#   Incident energy:  1.1371e+01 MeV - 3.8679e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 56 
+#   Nuclide: 25-MN-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0178-007-0 (entry-subentry-pointer) 
+#   Reaction code: (25-MN-55(HE3,2P)25-MN-56,,SIG) 
+#   First author: M.Watanabe 
+#   Institute:  (2JPNTMU): Tokyo Metropolitan University , Hachioji, Tokyo 
+#   Reference:  (J,ARI,30,625,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0178.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0178
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1371E+01        0.0000E+00        2.1720E-02        0.0000E+00
+        1.2938E+01        0.0000E+00        2.9220E-02        0.0000E+00
+        1.3912E+01        0.0000E+00        3.7810E-02        0.0000E+00
+        1.6137E+01        0.0000E+00        4.7670E-02        0.0000E+00
+        1.8010E+01        0.0000E+00        4.9630E-02        0.0000E+00
+        1.8185E+01        0.0000E+00        5.5980E-02        0.0000E+00
+        1.9945E+01        0.0000E+00        5.0290E-02        0.0000E+00
+        2.1791E+01        0.0000E+00        4.9310E-02        0.0000E+00
+        2.1935E+01        0.0000E+00        5.6520E-02        0.0000E+00
+        2.3632E+01        0.0000E+00        5.5410E-02        0.0000E+00
+        2.3932E+01        0.0000E+00        5.1630E-02        0.0000E+00
+        2.5360E+01        0.0000E+00        5.4320E-02        0.0000E+00
+        2.5660E+01        0.0000E+00        4.9250E-02        0.0000E+00
+        2.7451E+01        0.0000E+00        4.2360E-02        0.0000E+00
+        2.7503E+01        0.0000E+00        5.3560E-02        0.0000E+00
+        2.8997E+01        0.0000E+00        4.5800E-02        0.0000E+00
+        3.0729E+01        0.0000E+00        3.8740E-02        0.0000E+00
+        3.1558E+01        0.0000E+00        4.3730E-02        0.0000E+00
+        3.2184E+01        0.0000E+00        4.2120E-02        0.0000E+00
+        3.3735E+01        0.0000E+00        3.8240E-02        0.0000E+00
+        3.4092E+01        0.0000E+00        3.9100E-02        0.0000E+00
+        3.6000E+01        0.0000E+00        3.5910E-02        0.0000E+00
+        3.6207E+01        0.0000E+00        3.7520E-02        0.0000E+00
+        3.8025E+01        0.0000E+00        3.4830E-02        0.0000E+00
+        3.8679E+01        0.0000E+00        3.5430E-02        0.0000E+00

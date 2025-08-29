@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 48-CD-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 48 
+#   A: 0 
+#   Nuclide: 48-CD-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.3200e+01 MeV - 4.9200e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 111 
+#   Nuclide: 49-IN-111 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4354-004-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-0(D,X)49-IN-111,,SIG) 
+#   First author: A.Hermanne 
+#   Institute:  (2BLGVUB): Vrije Universiteit Brussels, Brussels 
+#   Reference:  (J,NIM/B,385,19,2016) 
+#   Year:  2016 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4354.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4354
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.9200E+01        2.0000E-01        2.0800E-01        2.3000E-02
+        4.8100E+01        2.0000E-01        2.1800E-01        2.4000E-02
+        4.7000E+01        3.0000E-01        2.3800E-01        2.6000E-02
+        4.5900E+01        3.0000E-01        2.3200E-01        2.6000E-02
+        4.4800E+01        4.0000E-01        2.3800E-01        2.6000E-02
+        4.3600E+01        4.0000E-01        2.2600E-01        2.5000E-02
+        4.2400E+01        5.0000E-01        2.2200E-01        2.4000E-02
+        4.1200E+01        5.0000E-01        2.0200E-01        2.2000E-02
+        3.9900E+01        6.0000E-01        2.2000E-01        2.4000E-02
+        3.8600E+01        7.0000E-01        2.1300E-01        2.3000E-02
+        3.7300E+01        9.0000E-01        2.1900E-01        2.4000E-02
+        3.6000E+01        9.0000E-01        2.1600E-01        2.4000E-02
+        3.4600E+01        1.0000E+00        2.3300E-01        2.6000E-02
+        3.3200E+01        1.1000E+00        2.4000E-01        2.6000E-02

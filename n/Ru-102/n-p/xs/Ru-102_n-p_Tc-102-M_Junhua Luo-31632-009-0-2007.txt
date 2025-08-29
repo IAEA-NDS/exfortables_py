@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31632-009-0 
-# EXFOR reaction        : (44-RU-102(N,P)43-TC-102-M,,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4800e+01 MeV 
-# target                : Ru-102 
-# product               : Tc-102-M 
-# level energy          : - 
-# MF-MT number          : 3 - 103 
-# first author          : Junhua Luo 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,PR/C,76,057601,2007) 
-# year                  : 2007 
-# facility              : (CYCLO): Cyclotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31632.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31632
+# Header: 
+#   Title: 44-RU-102(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 44 
+#   A: 102 
+#   Nuclide: 44-RU-102 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 102 
+#   Nuclide: 43-TC-102-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31632-009-0 (entry-subentry-pointer) 
+#   Reaction code: (44-RU-102(N,P)43-TC-102-M,,SIG) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,PR/C,76,057601,2007) 
+#   Year:  2007 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31632.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31632
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3500E+01        2.0000E-01        4.4000E-03        4.0000E-04

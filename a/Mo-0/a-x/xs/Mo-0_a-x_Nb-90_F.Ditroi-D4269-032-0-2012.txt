@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 42-MO-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 0 
+#   Nuclide: 42-MO-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.3900e+01 MeV - 3.9400e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 90 
+#   Nuclide: 41-NB-90 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4269-032-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-0(A,X)41-NB-90,CUM,SIG) 
+#   First author: F.Ditroi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,285,125,2012) 
+#   Year:  2012 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4269.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4269
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.9400E+01        3.0000E-01        1.9200E-03        2.2000E-04
+        3.8200E+01        3.0000E-01        1.5100E-03        2.2000E-04
+        3.5700E+01        3.0000E-01        2.0100E-03        3.3000E-04
+        3.3000E+01        4.0000E-01        1.3600E-03        2.2000E-04
+        3.0200E+01        4.0000E-01        1.0100E-03        1.7000E-04
+        2.7200E+01        4.0000E-01        3.9000E-04        9.0000E-05
+        2.3900E+01        5.0000E-01        1.9000E-04        5.0000E-05

@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 7-N-14(D,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 7 
+#   A: 14 
+#   Nuclide: 7-N-14 
+# Reaction: 
+#   Process: D,A 
+#   MF-MT number: 3 - 800 
+#   Incident energy:  1.4800e+00 MeV - 3.0200e+00 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: E2227-010-0 (entry-subentry-pointer) 
+#   Reaction code: (7-N-14(D,A)6-C-12,PAR,SIG) 
+#   First author: T.Ishimatsu 
+#   Institute:  (2JPNKYU): Kyushu University , Fukuoka 
+#   Reference:  (J,JPJ,16,1529,1961) 
+#   Year:  1961 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E22/E2227.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2227
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+00        0.0000E+00        1.5405E-02        0.0000E+00
+        1.7300E+00        0.0000E+00        2.2481E-02        0.0000E+00
+        1.9400E+00        0.0000E+00        1.9959E-02        0.0000E+00
+        2.2300E+00        0.0000E+00        1.9140E-02        0.0000E+00
+        2.4900E+00        0.0000E+00        1.8054E-02        0.0000E+00
+        2.7400E+00        0.0000E+00        1.9095E-02        0.0000E+00
+        3.0200E+00        0.0000E+00        1.0154E-02        0.0000E+00

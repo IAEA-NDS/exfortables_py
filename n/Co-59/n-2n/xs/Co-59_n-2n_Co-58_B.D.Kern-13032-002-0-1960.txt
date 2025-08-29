@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 27-CO-59(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2620e+01 MeV - 1.6750e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13032-002-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,2N)27-CO-58,,SIG) 
+#   First author: B.D.Kern 
+#   Institute:  (1USAKTY): University of Kentucky, Lexington, KY 
+#   Reference:  (P,A-KTY-59/60,3,6002) 
+#   Year:  1960 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/130/13032.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13032
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2620E+01        0.0000E+00        3.5000E-01        0.0000E+00
+        1.6750E+01        0.0000E+00        7.0000E-01        0.0000E+00

@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 30-ZN-64(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3000e+01 MeV - 1.7550e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 63 
+#   Nuclide: 30-ZN-63 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11814-002-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(N,2N)30-ZN-63,,SIG) 
+#   First author: F.Gabbard 
+#   Institute:  (1USAKTY): University of Kentucky, Lexington, KY 
+#   Reference:  (W,GABBARD,1961) 
+#   Year:  1961 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11814.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11814
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3000E+01        1.0000E-01        4.5000E-02        5.0000E-03
+        1.3470E+01        5.0000E-02        9.6000E-02        7.0000E-03
+        1.4000E+01        0.0000E+00        1.1500E-01        8.0000E-03
+        1.4470E+01        1.0000E-01        1.8500E-01        1.5000E-02
+        1.4750E+01        1.5000E-01        2.3200E-01        2.0000E-02
+        1.5300E+01        1.5000E-01        2.3000E-01        1.5000E-02
+        1.5500E+01        2.0000E-01        2.9000E-01        2.0000E-02
+        1.6000E+01        1.5000E-01        2.7500E-01        1.5000E-02
+        1.6600E+01        2.0000E-01        2.7600E-01        1.6000E-02
+        1.7100E+01        1.5000E-01        3.0500E-01        2.0000E-02
+        1.7550E+01        2.0000E-01        2.9000E-01        2.0000E-02

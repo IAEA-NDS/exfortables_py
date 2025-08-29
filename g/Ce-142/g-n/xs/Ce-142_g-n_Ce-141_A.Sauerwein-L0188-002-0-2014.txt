@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 58-CE-142(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 58 
+#   A: 142 
+#   Nuclide: 58-CE-142 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  7.6400e+00 MeV - 9.6690e+00 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 141 
+#   Nuclide: 58-CE-141 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: L0188-002-0 (entry-subentry-pointer) 
+#   Reaction code: (58-CE-142(G,N)58-CE-141,,SIG) 
+#   First author: A.Sauerwein 
+#   Institute:  (2GERGER): Germany 
+#   Reference:  (J,PR/C,89,035803,2014) 
+#   Year:  2014 
+#   Facility:  (ESTRG): Electron storage ring 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L01/L0188.x4 
+#   nds:  https://nds.iaea.org/EXFOR/L0188
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.6400E+00        0.0000E+00        1.0210E-02        2.4000E-03
+        8.1490E+00        0.0000E+00        2.2080E-02        4.6400E-03
+        8.4650E+00        0.0000E+00        2.0100E-02        4.3300E-03
+        8.7580E+00        0.0000E+00        2.5320E-02        4.6000E-03
+        9.1020E+00        0.0000E+00        3.0160E-02        5.4500E-03
+        9.3150E+00        0.0000E+00        2.9820E-02        4.9300E-03
+        9.6690E+00        0.0000E+00        3.9320E-02        6.9800E-03

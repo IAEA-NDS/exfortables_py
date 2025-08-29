@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 2-HE-3(HE3,2P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+# Reaction: 
+#   Process: HE3,2P 
+#   MF-MT number: 3 - 111 
+#   Incident energy:  3.0200e-02 MeV - 1.1310e-01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1067-003-0 (entry-subentry-pointer) 
+#   Reaction code: (2-HE-3(HE3,2P)2-HE-4,,SIG,,SFC) 
+#   First author: M.R.Dwarakanath 
+#   Institute:  (1USACAL): California Institute of Technology, Pasadena, CA 
+#   Reference:  (J,PR/C,9,805,1974) 
+#   Year:  1974 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A10/A1067.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1067
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0200E-02        2.0000E-04        3.0000E+06        0.0000E+00
+        3.3300E-02        2.0000E-04        6.2100E+06        0.0000E+00
+        3.4200E-02        2.0000E-04        5.9000E+06        3.0200E+06
+        4.3600E-02        2.0000E-04        4.5900E+06        0.0000E+00
+        4.7400E-02        2.0000E-04        4.8800E+06        1.2300E+06
+        4.9000E-02        2.0000E-04        3.1900E+06        0.0000E+00
+        6.0900E-02        2.0000E-04        3.6900E+06        0.0000E+00
+        7.3000E-02        2.0000E-04        3.9800E+06        0.0000E+00
+        9.8000E-02        2.0000E-04        3.7800E+06        0.0000E+00
+        1.1310E-01        2.0000E-04        4.0500E+06        7.2000E+05

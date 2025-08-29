@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 40-ZR-90(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.0000e+00 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 89 
+#   Nuclide: 40-ZR-89-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31782-002-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(N,2N)40-ZR-89-G,M+,SIG,,SPA) 
+#   First author: M.Kostal 
+#   Institute:  (3CZRUJV): Research Centre Rez, Husinec-Rez 
+#   Reference:  (J,ARI,128,92,2017) 
+#   Year:  2017 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31782.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31782
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        2.8900E-05        1.2716E-06

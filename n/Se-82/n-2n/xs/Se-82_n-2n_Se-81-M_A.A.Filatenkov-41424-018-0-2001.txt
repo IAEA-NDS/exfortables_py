@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 34-SE-82(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 34 
+#   A: 82 
+#   Nuclide: 34-SE-82 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3490e+01 MeV - 1.4840e+01 MeV 
+# Residual: 
+#   Z: 34 
+#   A: 81 
+#   Nuclide: 34-SE-81-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41424-018-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-82(N,2N)34-SE-81-M,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,RI-258,20010615) 
+#   Year:  2001 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41424.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41424
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3490E+01        0.0000E+00        9.8000E-01        1.5000E-01
+        1.3890E+01        0.0000E+00        1.0600E+00        1.6000E-01
+        1.4050E+01        0.0000E+00        9.0000E-01        1.5000E-01
+        1.4260E+01        0.0000E+00        1.1200E+00        1.6000E-01
+        1.4440E+01        0.0000E+00        9.2500E-01        1.6000E-01
+        1.4640E+01        0.0000E+00        1.0400E+00        1.6000E-01
+        1.4810E+01        0.0000E+00        1.2300E+00        2.0000E-01
+        1.4840E+01        0.0000E+00        1.0800E+00        2.5000E-01

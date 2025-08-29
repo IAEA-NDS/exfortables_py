@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 28-NI-58(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31464-016-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,P)27-CO-58-G,,SIG) 
+#   First author: K.T.Osman 
+#   Institute:  (3SUDKHA): University of Khartoum 
+#   Reference:  (R,INDC(SUD)-001,1996) 
+#   Year:  1996 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31464.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31464
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        0.0000E+00        3.0500E-01        8.0000E-03

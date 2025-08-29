@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31408-002-0 
-# EXFOR reaction        : (30-ZN-66(N,2N)30-ZN-65,,SIG) 
-# incident energy       : 1.2820e+01 MeV - 1.7690e+01 MeV 
-# target                : Zn-66 
-# product               : Zn-65 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Lu Hanlin 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CNP,13,11,1991) 
-# year                  : 1991 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31408.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31408
+# Header: 
+#   Title: 30-ZN-66(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 66 
+#   Nuclide: 30-ZN-66 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2820e+01 MeV - 1.7690e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 65 
+#   Nuclide: 30-ZN-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31408-002-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-66(N,2N)30-ZN-65,,SIG) 
+#   First author: Lu Hanlin 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CNP,13,11,1991) 
+#   Year:  1991 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31408.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31408
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.2820E+01        4.5000E-01        2.7400E-01        9.0000E-03

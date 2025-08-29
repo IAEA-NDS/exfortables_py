@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 57-LA-139(P,6N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 57 
+#   A: 139 
+#   Nuclide: 57-LA-139 
+# Reaction: 
+#   Process: P,6N 
+#   MF-MT number: 3 - 153 
+#   Incident energy:  5.3670e+01 MeV - 6.4090e+01 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 134 
+#   Nuclide: 58-CE-134 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4375-006-0 (entry-subentry-pointer) 
+#   Reaction code: (57-LA-139(P,6N)58-CE-134,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,JRN,312,691,2017) 
+#   Year:  2017 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4375.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4375
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.3670E+01        3.6000E-01        5.5200E-02        1.0850E-02
+        5.4760E+01        3.4000E-01        7.1090E-02        1.3540E-02
+        5.5830E+01        3.2000E-01        1.1740E-01        2.2540E-02
+        5.7500E+01        3.0000E-01        1.4481E-01        2.7010E-02
+        5.9800E+01        2.6000E-01        2.2118E-01        3.3550E-02
+        6.2020E+01        2.3000E-01        2.5628E-01        3.4210E-02
+        6.4090E+01        2.0000E-01        2.7151E-01        3.6520E-02

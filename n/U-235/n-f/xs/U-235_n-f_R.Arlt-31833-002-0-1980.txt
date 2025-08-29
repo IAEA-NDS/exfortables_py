@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  8.2000e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31833-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F),,SIG) 
+#   First author: R.Arlt 
+#   Institute:  (3DDRTUD): Dresden, Techn.University at Dresden and Pirna 
+#   Reference:  ((S,ZFK-410,122,1980)=(S,INDC(GDR)-13,122,1980)) 
+#   Year:  1980 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31833.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31833
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.2000E+00        0.0000E+00        1.7400E+00        1.1000E-01

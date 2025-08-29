@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 82-PB-206(D,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 82 
+#   A: 206 
+#   Nuclide: 82-PB-206 
+# Reaction: 
+#   Process: D,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  8.0900e+00 MeV - 1.5500e+01 MeV 
+# Residual: 
+#   Z: 83 
+#   A: 206 
+#   Nuclide: 83-BI-206 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0727-003-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-206(D,2N)83-BI-206,,SIG) 
+#   First author: S.Mukhammedov 
+#   Institute:  (4UZ UZB): Institute of Nuclear Physics, Tashkent 
+#   Reference:  (J,IZU,,(5),81,1985) 
+#   Year:  1985 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D07/D0727.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0727
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0900E+00        0.0000E+00        1.2840E-02        0.0000E+00
+        1.0010E+01        0.0000E+00        4.1070E-02        0.0000E+00
+        1.1110E+01        0.0000E+00        1.1127E-01        0.0000E+00
+        1.2050E+01        0.0000E+00        4.7393E-01        0.0000E+00
+        1.2810E+01        0.0000E+00        9.5820E-01        0.0000E+00
+        1.3710E+01        0.0000E+00        2.4273E-01        0.0000E+00
+        1.5500E+01        0.0000E+00        7.2370E-02        0.0000E+00

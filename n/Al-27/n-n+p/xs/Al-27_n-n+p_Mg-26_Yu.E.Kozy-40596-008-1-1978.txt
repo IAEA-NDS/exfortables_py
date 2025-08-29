@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 13-AL-27(N,N+P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,N+P 
+#   MF-MT number: 3 - 28 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 26 
+#   Nuclide: 12-MG-26 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40596-008-1 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,N+P)12-MG-26,SEQ,SIG) 
+#   First author: Yu.E.Kozy 
+#   Institute:  (4UKRKGU): Kyivsky Natsionalny University "Taras Shevchenko", Kyiv 
+#   Reference:  (J,YF,28,16,1978) 
+#   Year:  1978 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40596.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40596
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        1.3000E-01        1.0000E-02

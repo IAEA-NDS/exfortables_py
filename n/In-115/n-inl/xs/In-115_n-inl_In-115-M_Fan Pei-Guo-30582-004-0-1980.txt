@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 30582-004-0 
-# EXFOR reaction        : (49-IN-115(N,INL)49-IN-115-M,,SIG) 
-# incident energy       : 1.7000e+00 MeV - 5.4600e+00 MeV 
-# target                : In-115 
-# product               : In-115-M 
-# level energy          : - 
-# MF-MT number          : 3 - 4 
-# first author          : Fan Pei-Guo 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CNP,2,(4),337,198011) 
-# year                  : 1980 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30582.x4 
-# nds                   : https://nds.iaea.org/EXFOR/30582
+# Header: 
+#   Title: 49-IN-115(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 49 
+#   A: 115 
+#   Nuclide: 49-IN-115 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.7000e+00 MeV - 5.4600e+00 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 115 
+#   Nuclide: 49-IN-115-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30582-004-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-115(N,INL)49-IN-115-M,,SIG) 
+#   First author: Fan Pei-Guo 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CNP,2,(4),337,198011) 
+#   Year:  1980 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30582.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30582
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.7000E+00        2.0000E-02        1.9330E-01        1.1300E-02

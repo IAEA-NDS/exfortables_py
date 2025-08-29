@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 22-TI-46(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 22 
+#   A: 46 
+#   Nuclide: 22-TI-46 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 46 
+#   Nuclide: 21-SC-46 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23230-004-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-46(N,P)21-SC-46,,SIG,,FIS) 
+#   First author: K.Kobayashi 
+#   Institute:  (2JPNKTO): Kyoto University , Kyoto 
+#   Reference:  (C,93VAIL,720,1993) 
+#   Year:  1993 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23230.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23230
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.1000E-02        6.5000E-04

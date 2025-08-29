@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 40-ZR-96(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 96 
+#   Nuclide: 40-ZR-96 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3330e+01 MeV - 1.4920e+01 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 95 
+#   Nuclide: 40-ZR-95 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22089-063-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-96(N,2N)40-ZR-95,,SIG) 
+#   First author: Y.Ikeda 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (R,JAERI-1312,1988) 
+#   Year:  1988 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22089.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22089
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4920E+01        0.0000E+00        1.4120E+00        8.3000E-02
+        1.4660E+01        0.0000E+00        1.3820E+00        8.2000E-02
+        1.4430E+01        0.0000E+00        1.5500E+00        9.1000E-02
+        1.3980E+01        0.0000E+00        1.4250E+00        8.4000E-02
+        1.3570E+01        0.0000E+00        1.5310E+00        9.0000E-02
+        1.3330E+01        0.0000E+00        1.4620E+00        8.6000E-02

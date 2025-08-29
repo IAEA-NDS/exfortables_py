@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21590-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW) 
+#   First author: J.Blachot 
+#   Institute:  (2FR GRE): Universite Joseph Fourier, Grenoble 
+#   Reference:  (J,JIN,36,495,1974) 
+#   Year:  1974 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/215/21590.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21590
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             36.0             85.0                         1.3700E-02        1.0000E-03
+             36.0             88.0                         3.4400E-02        1.4000E-03
+             38.0             91.0                         5.8300E-02        1.7000E-03
+             39.0             92.0                         5.9000E-02        3.7000E-03
+             40.0             95.0                         6.5500E-02        3.5000E-03
+             40.0             97.0                         6.1100E-02        3.5000E-03
+             41.0             97.0                         6.1800E-02        4.3000E-03
+             42.0             99.0                         6.0200E-02        5.4000E-03
+             44.0            103.0                         3.4200E-02        1.8000E-03
+             45.0            105.0                         1.0200E-02        5.0000E-04
+             51.0            127.0                         1.4000E-03        2.0000E-04
+             53.0            131.0                         2.6800E-02        1.8000E-03
+             53.0            132.0                         4.4000E-02        1.7000E-03
+             53.0            133.0                         6.3700E-02        5.1000E-03
+             53.0            135.0                         5.6400E-02        1.5000E-03
+             58.0            141.0                         6.1400E-02        1.9000E-03
+             58.0            143.0                         6.1500E-02        2.9000E-03
+             58.0            144.0                         5.2600E-02        1.8000E-03
+             60.0            147.0                         2.3100E-02        1.3000E-03
+             61.0            151.0                         3.7000E-03        3.0000E-04

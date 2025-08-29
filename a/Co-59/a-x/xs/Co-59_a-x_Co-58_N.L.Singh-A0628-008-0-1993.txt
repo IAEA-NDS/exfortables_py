@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 27-CO-59(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.9900e+01 MeV - 4.7400e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0628-008-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(A,X)27-CO-58,,SIG) 
+#   First author: N.L.Singh 
+#   Institute:  (3INDBDA): M.S. University of Baroda, Baroda 
+#   Reference:  (J,CJP,71,115,1993) 
+#   Year:  1993 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A06/A0628.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0628
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9900E+01        2.0000E-01        8.5000E-03        7.6500E-04
+        2.2800E+01        2.0000E-01        7.2000E-02        7.2000E-03
+        2.9900E+01        2.0000E-01        2.6300E-01        2.8930E-02
+        3.4500E+01        2.0000E-01        2.7000E-01        2.9700E-02
+        3.8900E+01        2.0000E-01        2.3400E-01        2.5740E-02
+        4.3300E+01        2.0000E-01        1.8200E-01        2.0020E-02
+        4.7400E+01        2.0000E-01        1.3400E-01        1.3400E-02

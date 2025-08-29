@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 40-ZR-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 0 
+#   Nuclide: 40-ZR-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.0000e+02 MeV - 5.5000e+02 MeV 
+# Residual: 
+#   Z: 15 
+#   A: 33 
+#   Nuclide: 15-P-33 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0293-009-2 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-0(P,X)15-P-33,CUM,SIG) 
+#   First author: R.Korteling 
+#   Institute:  (1CANSFU): Simon Frazer University, Burnaby, B.C. 
+#   Reference:  (J,PR/C,2,957,70) 
+#   Year:  1970 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0293.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0293
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+02        0.0000E+00        3.0100E-06        6.8000E-07
+        5.5000E+02        0.0000E+00        5.0000E-05        1.7000E-05

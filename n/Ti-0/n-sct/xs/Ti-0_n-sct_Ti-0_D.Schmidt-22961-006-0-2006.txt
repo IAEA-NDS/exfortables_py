@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 22-TI-0(N,SCT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 22 
+#   A: 0 
+#   Nuclide: 22-TI-0 
+# Reaction: 
+#   Process: N,SCT 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.9300e+00 MeV - 1.4720e+01 MeV 
+# Residual: 
+#   Z: 22 
+#   A: 0 
+#   Nuclide: 22-TI-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22961-006-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-0(N,SCT)22-TI-0,,SIG) 
+#   First author: D.Schmidt 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (R,PTB-N-50,2006) 
+#   Year:  2006 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22961.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22961
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.9300E+00        0.0000E+00        1.7610E+00        3.4868E-02
+        8.9100E+00        0.0000E+00        1.5314E+00        3.5835E-02
+        9.5100E+00        0.0000E+00        1.4622E+00        3.0706E-02
+        1.0200E+01        0.0000E+00        1.3682E+00        2.7364E-02
+        1.1280E+01        0.0000E+00        1.2359E+00        2.5212E-02
+        1.1820E+01        0.0000E+00        1.1742E+00        2.8181E-02
+        1.2380E+01        0.0000E+00        1.1264E+00        2.3429E-02
+        1.3150E+01        0.0000E+00        1.0584E+00        2.2756E-02
+        1.3750E+01        0.0000E+00        1.0235E+00        2.2108E-02
+        1.4350E+01        0.0000E+00        1.0343E+00        2.2134E-02
+        1.4720E+01        0.0000E+00        9.7515E-01        2.0868E-02

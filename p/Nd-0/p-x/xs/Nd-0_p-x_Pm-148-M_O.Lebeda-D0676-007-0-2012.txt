@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 60-ND-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 60 
+#   A: 0 
+#   Nuclide: 60-ND-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  9.9600e+00 MeV - 2.9040e+01 MeV 
+# Residual: 
+#   Z: 61 
+#   A: 148 
+#   Nuclide: 61-PM-148-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0676-007-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-0(P,X)61-PM-148-M,,SIG) 
+#   First author: O.Lebeda 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,PR/C,85,014602,2012) 
+#   Year:  2012 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D06/D0676.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0676
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9040E+01        2.0000E-01        1.0700E-02        1.2000E-03
+        2.7660E+01        2.0000E-01        1.4700E-02        1.6000E-03
+        2.6220E+01        2.0000E-01        1.9500E-02        2.1000E-03
+        2.5180E+01        2.0000E-01        2.6800E-02        2.9000E-03
+        2.3630E+01        2.0000E-01        3.1500E-02        3.4000E-03
+        2.2000E+01        2.0000E-01        3.0000E-02        3.3000E-03
+        2.1380E+01        2.0000E-01        3.1100E-02        3.4000E-03
+        2.0100E+01        2.0000E-01        2.6000E-02        2.8000E-03
+        1.9080E+01        2.0000E-01        2.0800E-02        2.3000E-03
+        1.8600E+01        2.0000E-01        2.2800E-02        2.5000E-03
+        1.7520E+01        2.0000E-01        1.5300E-02        1.7000E-03
+        1.6380E+01        2.0000E-01        6.4400E-03        7.0000E-04
+        1.5500E+01        2.0000E-01        3.5100E-03        3.8000E-04
+        1.4250E+01        2.0000E-01        8.8600E-04        9.8000E-05
+        1.2920E+01        2.0000E-01        9.2800E-04        1.0300E-04
+        1.1530E+01        2.0000E-01        1.2900E-03        1.4000E-04
+        9.9600E+00        2.0000E-01        1.9100E-03        2.1000E-04

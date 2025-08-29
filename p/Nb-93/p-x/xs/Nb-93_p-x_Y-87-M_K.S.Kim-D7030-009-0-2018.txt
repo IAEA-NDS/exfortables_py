@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 41-NB-93(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.9600e+01 MeV - 4.2000e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 87 
+#   Nuclide: 39-Y-87-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D7030-009-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(P,X)39-Y-87-M,,SIG) 
+#   First author: K.S.Kim 
+#   Institute:  (3KORKNU): Kyungpook National University, Daegu 
+#   Reference:  (J,JRN,317,1021,2018) 
+#   Year:  2018 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D70/D7030.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D7030
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.2000E+01        1.8000E-01        1.1100E-03        1.8000E-04
+        4.0800E+01        1.8000E-01        2.6000E-04        4.0000E-05
+        3.9600E+01        2.0000E-01        4.2000E-04        5.0000E-05

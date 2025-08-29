@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 48-CD-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 48 
+#   A: 0 
+#   Nuclide: 48-CD-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.9700e+01 MeV - 4.4600e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 117 
+#   Nuclide: 49-IN-117-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D7018-015-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-0(A,X)49-IN-117-M,,SIG) 
+#   First author: M.U.Khandaker 
+#   Institute:  (3MALMAL): Malaysia 
+#   Reference:  (J,NIM/B,333,80,2014) 
+#   Year:  2014 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D70/D7018.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D7018
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9700E+01        1.3000E+00        4.2000E-04        2.4000E-04
+        2.2400E+01        1.2000E+00        8.5000E-04        1.7000E-04
+        2.5000E+01        1.1000E+00        7.1000E-04        1.6000E-04
+        2.7400E+01        1.1000E+00        1.1900E-03        2.2000E-04
+        2.9700E+01        1.0000E+00        5.5000E-04        1.8000E-04
+        3.1800E+01        1.0000E+00        9.9000E-04        3.2000E-04
+        3.3800E+01        9.0000E-01        1.2300E-03        4.1000E-04
+        3.5800E+01        9.0000E-01        8.6000E-04        4.2000E-04
+        3.7700E+01        8.0000E-01        8.6000E-04        4.4000E-04
+        3.9500E+01        8.0000E-01        8.8000E-04        4.6000E-04
+        4.1300E+01        8.0000E-01        2.2200E-03        4.5000E-04
+        4.3000E+01        8.0000E-01        1.7100E-03        4.6000E-04
+        4.4600E+01        8.0000E-01        6.9000E-04        4.2000E-04

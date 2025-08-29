@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 29-CU-65(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.5460e+01 MeV - 3.1950e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6021-009-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(A,X)2-HE-4,,SIG) 
+#   First author: A.Navin 
+#   Institute:  (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference:  (J,PR/C,70,044601,2004) 
+#   Year:  2004 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6021.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6021
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5460E+01        0.0000E+00        2.9760E-02        0.0000E+00
+        1.6860E+01        0.0000E+00        5.0200E-02        4.9830E-03
+        1.7780E+01        0.0000E+00        5.2720E-02        5.2330E-03
+        1.8750E+01        0.0000E+00        6.2820E-02        6.5650E-03
+        1.9640E+01        0.0000E+00        4.5900E-02        5.4490E-03
+        2.2510E+01        0.0000E+00        3.4200E-02        4.9880E-03
+        2.5380E+01        0.0000E+00        2.4430E-02        5.1940E-03
+        2.8210E+01        0.0000E+00        1.7550E-02        5.1150E-03
+        3.1950E+01        0.0000E+00        3.1160E-02        6.2130E-03

@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 13-AL-27(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3030e+01 MeV - 1.5660e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11464-003-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,A)11-NA-24,,SIG) 
+#   First author: B.D.Kern 
+#   Institute:  (1USANRD): U.S. Naval Radiolog. Defense Laboratory , San Francisco, CA 
+#   Reference:  (J,NP,10,226,1959) 
+#   Year:  1959 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11464.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11464
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3030E+01        2.0000E-01        1.4140E-01        1.7000E-02
+        1.3380E+01        0.0000E+00        1.3550E-01        1.6000E-02
+        1.3840E+01        3.0000E-02        1.2990E-01        1.5000E-02
+        1.4280E+01        0.0000E+00        1.1390E-01        1.5000E-02
+        1.4740E+01        0.0000E+00        1.1310E-01        1.4000E-02
+        1.4740E+01        0.0000E+00        1.2060E-01        1.5000E-02
+        1.5060E+01        0.0000E+00        1.1460E-01        1.5000E-02
+        1.5440E+01        0.0000E+00        1.1120E-01        1.5000E-02
+        1.5440E+01        0.0000E+00        1.1380E-01        1.4000E-02
+        1.5510E+01        0.0000E+00        1.0150E-01        1.3000E-02
+        1.5510E+01        0.0000E+00        9.8290E-02        1.3000E-02
+        1.5660E+01        4.0000E-01        1.0680E-01        1.3000E-02

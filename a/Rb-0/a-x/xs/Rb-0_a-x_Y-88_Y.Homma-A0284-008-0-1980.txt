@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 37-RB-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 37 
+#   A: 0 
+#   Nuclide: 37-RB-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.2360e+01 MeV - 5.9300e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 88 
+#   Nuclide: 39-Y-88 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0284-008-0 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-0(A,X)39-Y-88,,SIG) 
+#   First author: Y.Homma 
+#   Institute:  (2JPNKYO): Kyoritsu College of Pharmacy, Tokyo 
+#   Reference:  (J,ARI,31,399,1980) 
+#   Year:  1980 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0284.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0284
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2360E+01        7.0000E-02        1.1000E-04        2.5400E-04
+        2.1170E+01        7.0000E-02        1.6700E-01        0.0000E+00
+        2.8840E+01        7.0000E-02        1.0300E-01        0.0000E+00
+        3.6850E+01        7.0000E-02        2.9600E-01        0.0000E+00
+        4.6060E+01        7.0000E-02        2.0900E-01        0.0000E+00
+        5.2330E+01        7.0000E-02        1.0800E-01        0.0000E+00
+        5.9300E+01        7.0000E-02        5.8300E-02        0.0000E+00

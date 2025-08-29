@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32534-002-0 
-# EXFOR reaction        : (68-ER-0(N,G),,SIG) 
-# incident energy       : 3.4000e-01 MeV - 1.6900e+00 MeV 
-# target                : Er-0 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Xiang Zhengyu 
-# institute             : (3CPRSIU): Sichuan University , Chengdu 
-# reference             : (J,JSIU,27,(3),372,199008) 
-# year                  : 1990 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32534.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32534
+# Header: 
+#   Title: 68-ER-0(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 68 
+#   A: 0 
+#   Nuclide: 68-ER-0 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.4000e-01 MeV - 1.6900e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32534-002-0 (entry-subentry-pointer) 
+#   Reaction code: (68-ER-0(N,G),,SIG) 
+#   First author: Xiang Zhengyu 
+#   Institute:  (3CPRSIU): Sichuan University , Chengdu 
+#   Reference:  (J,JSIU,27,(3),372,199008) 
+#   Year:  1990 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32534.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32534
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         3.4000E-01        0.0000E+00        2.1040E-01        2.7000E-02

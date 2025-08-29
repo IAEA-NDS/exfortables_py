@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 40-ZR-92(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 92 
+#   Nuclide: 40-ZR-92 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3400e+01 MeV - 1.6600e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 92 
+#   Nuclide: 39-Y-92 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30940-004-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-92(N,P)39-Y-92,,SIG) 
+#   First author: A.Marcinkowski 
+#   Institute:  (3POLIPJ): Narodowe Centrum Badan Jadrowych, Swierk+Warszawa 
+#   Reference:  (J,NP/A,510,93,1990) 
+#   Year:  1990 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30940.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30940
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3400E+01        4.0000E-01        1.4300E-02        2.6000E-03
+        1.3600E+01        3.0000E-01        1.8400E-02        2.4000E-03
+        1.4200E+01        3.0000E-01        1.8300E-02        2.3000E-03
+        1.4800E+01        3.0000E-01        1.7600E-02        2.3000E-03
+        1.5200E+01        2.0000E-01        2.0800E-02        2.6000E-03
+        1.5400E+01        2.0000E-01        2.1000E-02        2.6000E-03
+        1.5900E+01        5.0000E-01        2.2500E-02        3.3000E-03
+        1.6600E+01        1.0000E-01        2.1900E-02        3.3000E-03

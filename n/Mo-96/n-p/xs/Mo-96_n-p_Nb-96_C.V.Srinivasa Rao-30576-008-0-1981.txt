@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 42-MO-96(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 96 
+#   Nuclide: 42-MO-96 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4200e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 96 
+#   Nuclide: 41-NB-96 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30576-008-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-96(N,P)41-NB-96,,SIG) 
+#   First author: C.V.Srinivasa Rao 
+#   Institute:  (3INDITK): Indian Institute of Technology, Kanpur 
+#   Reference:  (J,PS,24,935,1981) 
+#   Year:  1981 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30576.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30576
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        2.0000E-01        1.2000E-02        2.0000E-03

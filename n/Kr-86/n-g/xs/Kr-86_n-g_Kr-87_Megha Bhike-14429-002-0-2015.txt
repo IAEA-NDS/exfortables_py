@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 14429-002-0 
-# EXFOR reaction        : (36-KR-86(N,G)36-KR-87,,SIG) 
-# incident energy       : 3.7000e-01 MeV - 1.4800e+01 MeV 
-# target                : Kr-86 
-# product               : Kr-87 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Megha Bhike 
-# institute             : (1USAUSA): United States of America 
-# reference             : (J,PR/C,92,014624,2015) 
-# year                  : 2015 
-# facility              : (VDGT): Tandem van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/144/14429.x4 
-# nds                   : https://nds.iaea.org/EXFOR/14429
+# Header: 
+#   Title: 36-KR-86(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 36 
+#   A: 86 
+#   Nuclide: 36-KR-86 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.7000e-01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 36 
+#   A: 87 
+#   Nuclide: 36-KR-87 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14429-002-0 (entry-subentry-pointer) 
+#   Reaction code: (36-KR-86(N,G)36-KR-87,,SIG) 
+#   First author: Megha Bhike 
+#   Institute:  (1USAUSA): United States of America 
+#   Reference:  (J,PR/C,92,014624,2015) 
+#   Year:  2015 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/144/14429.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14429
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         3.7000E-01        1.0000E-01        5.7200E-03        5.9000E-04

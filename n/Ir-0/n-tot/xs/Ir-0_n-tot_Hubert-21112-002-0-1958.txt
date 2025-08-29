@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 21112-002-0 
-# EXFOR reaction        : (77-IR-0(N,TOT),,SIG) 
-# incident energy       : 2.0000e-09 MeV - 2.4000e-08 MeV 
-# target                : Ir-0 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 1 
-# first author          : Hubert 
-# institute             : (2FR SAC): CEA/Saclay 
-# reference             : (W,HUBERT,,58) 
-# year                  : 1958 
-# facility              : (SPECC): Crystal spectrometer 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/211/21112.x4 
-# nds                   : https://nds.iaea.org/EXFOR/21112
+# Header: 
+#   Title: 77-IR-0(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 77 
+#   A: 0 
+#   Nuclide: 77-IR-0 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  2.0000e-09 MeV - 2.4000e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21112-002-0 (entry-subentry-pointer) 
+#   Reaction code: (77-IR-0(N,TOT),,SIG) 
+#   First author: Hubert 
+#   Institute:  (2FR SAC): CEA/Saclay 
+#   Reference:  (W,HUBERT,,58) 
+#   Year:  1958 
+#   Facility:  (SPECC): Crystal spectrometer 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/211/21112.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21112
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         2.0000E-09        0.0000E+00        1.4500E+03        0.0000E+00

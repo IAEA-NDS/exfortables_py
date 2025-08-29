@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 71-LU-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 71 
+#   A: 0 
+#   Nuclide: 71-LU-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.9000e+01 MeV - 4.9400e+01 MeV 
+# Residual: 
+#   Z: 71 
+#   A: 173 
+#   Nuclide: 71-LU-173 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4411-010-0 (entry-subentry-pointer) 
+#   Reaction code: (71-LU-0(D,X)71-LU-173,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,JRN,324,1405,2020) 
+#   Year:  2020 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4411.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4411
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.9400E+01        3.0000E-01        2.1260E-01        5.3200E-02
+        4.8200E+01        3.0000E-01        2.1940E-01        5.6800E-02
+        4.6900E+01        3.0000E-01        1.9220E-01        5.8300E-02
+        4.5600E+01        4.0000E-01        1.9300E-01        6.1100E-02
+        4.4300E+01        4.0000E-01        1.8280E-01        6.4500E-02
+        4.3000E+01        4.0000E-01        1.6480E-01        7.0700E-02
+        4.1600E+01        4.0000E-01        1.4330E-01        7.7000E-02
+        4.0200E+01        5.0000E-01        1.2840E-01        8.4700E-02
+        3.8700E+01        5.0000E-01        1.1890E-01        9.3900E-02
+        3.7200E+01        5.0000E-01        1.2840E-01        1.1440E-01
+        3.5700E+01        5.0000E-01        9.7100E-02        1.2570E-01
+        3.4100E+01        6.0000E-01        7.6600E-02        1.3730E-01
+        3.2500E+01        6.0000E-01        5.8400E-02        1.4510E-01
+        3.0800E+01        6.0000E-01        3.1300E-02        1.3740E-01
+        2.9000E+01        7.0000E-01        1.6400E-02        1.1980E-01

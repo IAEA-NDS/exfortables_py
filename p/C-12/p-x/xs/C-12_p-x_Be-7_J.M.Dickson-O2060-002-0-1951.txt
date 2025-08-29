@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 6-C-12(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.0325e+01 MeV - 1.5600e+02 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2060-002-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(P,X)4-BE-7,,SIG) 
+#   First author: J.M.Dickson 
+#   Institute:  (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference:  (J,PPS/A,64,902,1951) 
+#   Year:  1951 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2060.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2060
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0325E+01        0.0000E+00        2.0300E-04        0.0000E+00
+        3.3998E+01        0.0000E+00        2.4760E-03        0.0000E+00
+        3.6566E+01        0.0000E+00        6.4250E-03        2.7600E-04
+        4.1435E+01        0.0000E+00        1.1737E-02        5.1300E-04
+        4.7107E+01        0.0000E+00        1.3204E-02        5.1300E-04
+        5.7449E+01        0.0000E+00        1.4618E-02        8.0900E-04
+        6.8186E+01        0.0000E+00        1.3231E-02        4.9300E-04
+        7.2402E+01        0.0000E+00        1.2841E-02        5.3200E-04
+        8.4234E+01        0.0000E+00        1.1830E-02        4.1500E-04
+        1.1323E+02        0.0000E+00        1.1452E-02        3.9500E-04
+        1.4255E+02        0.0000E+00        1.1134E-02        4.5400E-04
+        1.5221E+02        0.0000E+00        1.1087E-02        4.9300E-04
+        1.5600E+02        0.0000E+00        1.1000E-02        1.3000E-03

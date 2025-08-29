@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 79-AU-197(G,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: G,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  6.5000e+02 MeV - 1.1000e+03 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 77 
+#   Nuclide: 35-BR-77 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: K2021-043-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(G,F)35-BR-77,CUM,SIG,,BRA) 
+#   First author: H.Haba 
+#   Institute:  (2JPNKNZ): Kanazawa University , Kanazawa 
+#   Reference:  (J,JNRS,1,53,2000) 
+#   Year:  2000 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K20/K2021.x4 
+#   nds:  https://nds.iaea.org/EXFOR/K2021
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1000E+03        0.0000E+00        1.6000E-05        3.0000E-06
+        1.0000E+03        0.0000E+00        2.1000E-05        4.0000E-06
+        9.5000E+02        0.0000E+00        2.4000E-05        8.0000E-06
+        9.0000E+02        0.0000E+00        1.3000E-05        3.0000E-06
+        8.0000E+02        0.0000E+00        1.2000E-05        3.0000E-06
+        7.0000E+02        0.0000E+00        9.5000E-06        2.1000E-06
+        6.5000E+02        0.0000E+00        1.3000E-05        5.0000E-06

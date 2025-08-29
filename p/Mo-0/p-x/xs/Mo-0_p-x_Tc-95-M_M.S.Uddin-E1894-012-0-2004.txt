@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 42-MO-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 0 
+#   Nuclide: 42-MO-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.2343e+01 MeV - 6.6580e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 95 
+#   Nuclide: 43-TC-95-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1894-012-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-0(P,X)43-TC-95-M,,SIG) 
+#   First author: M.S.Uddin 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,ARI,60,911,2004) 
+#   Year:  2004 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E18/E1894.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1894
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2343E+01        0.0000E+00        3.7430E-02        2.4600E-03
+        2.9671E+01        0.0000E+00        2.6260E-02        1.9900E-03
+        3.5800E+01        0.0000E+00        2.0900E-02        1.5200E-03
+        4.1239E+01        0.0000E+00        2.3820E-02        1.6400E-03
+        4.6193E+01        0.0000E+00        2.1210E-02        1.4600E-03
+        5.0781E+01        0.0000E+00        1.6980E-02        1.3500E-03
+        5.5055E+01        0.0000E+00        1.3400E-02        1.1700E-03
+        5.9093E+01        0.0000E+00        1.0850E-02        9.7000E-04
+        6.2903E+01        0.0000E+00        1.1500E-02        9.9000E-04
+        6.6580E+01        0.0000E+00        1.1330E-02        1.0600E-03

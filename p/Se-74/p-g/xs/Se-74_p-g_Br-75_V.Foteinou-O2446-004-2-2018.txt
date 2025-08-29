@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 34-SE-74(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 34 
+#   A: 74 
+#   Nuclide: 34-SE-74 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.9520e+00 MeV - 5.9110e+00 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 75 
+#   Nuclide: 35-BR-75 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2446-004-2 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-74(P,G)35-BR-75,,SIG,,SFC) 
+#   First author: V.Foteinou 
+#   Institute:  (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
+#   Reference:  (J,PR/C,97,035806,2018) 
+#   Year:  2018 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O24/O2446.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2446
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9520E+00        0.0000E+00        4.4600E+12        5.1000E+11
+        2.4510E+00        0.0000E+00        2.2900E+12        2.5000E+11
+        2.9450E+00        0.0000E+00        1.0500E+12        1.1000E+11
+        3.4380E+00        0.0000E+00        5.4600E+11        5.9000E+10
+        3.9330E+00        0.0000E+00        3.3200E+11        3.6000E+10
+        4.4260E+00        0.0000E+00        1.5900E+11        1.7000E+10
+        4.9220E+00        0.0000E+00        1.1900E+11        1.3000E+10
+        5.4160E+00        0.0000E+00        7.7800E+10        8.6000E+09
+        5.9110E+00        0.0000E+00        5.2000E+10        5.8000E+09

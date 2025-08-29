@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 68-ER-168(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 68 
+#   A: 168 
+#   Nuclide: 68-ER-168 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3380e+01 MeV - 1.4950e+01 MeV 
+# Residual: 
+#   Z: 67 
+#   A: 168 
+#   Nuclide: 67-HO-168 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22393-016-0 (entry-subentry-pointer) 
+#   Reaction code: (68-ER-168(N,P)67-HO-168,,SIG) 
+#   First author: Y.Kasugai 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (C,97TRIEST,1,635,199705) 
+#   Year:  1997 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22393.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22393
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3380E+01        0.0000E+00        2.2000E-03        4.0000E-04
+        1.3700E+01        0.0000E+00        2.8000E-03        5.0000E-04
+        1.4030E+01        0.0000E+00        2.3000E-03        5.0000E-04
+        1.4360E+01        0.0000E+00        3.3000E-03        7.0000E-04
+        1.4660E+01        0.0000E+00        4.2000E-03        8.0000E-04
+        1.4950E+01        0.0000E+00        3.5000E-03        7.0000E-04

@@ -1,0 +1,54 @@
+# Header: 
+#   Title: 4-BE-9(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 4 
+#   A: 9 
+#   Nuclide: 4-BE-9 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.1790e+00 MeV - 2.7580e+00 MeV 
+# Residual: 
+#   Z: 5 
+#   A: 9 
+#   Nuclide: 5-B-9 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F0118-005-0 (entry-subentry-pointer) 
+#   Reaction code: (4-BE-9(P,N)5-B-9,,SIG) 
+#   First author: J.B.Marion 
+#   Institute:  (1USACAL): California Institute of Technology, Pasadena, CA 
+#   Reference:  (J,PR,103,713,1956) 
+#   Year:  1956 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F01/F0118.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0118
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1790E+00        2.0000E-03        1.0700E-02        0.0000E+00
+        2.2260E+00        2.0000E-03        1.3700E-02        0.0000E+00
+        2.2650E+00        2.0000E-03        1.6000E-02        0.0000E+00
+        2.3120E+00        2.0000E-03        1.9700E-02        0.0000E+00
+        2.3550E+00        2.0000E-03        2.4000E-02        0.0000E+00
+        2.3990E+00        2.0000E-03        3.0800E-02        0.0000E+00
+        2.4460E+00        2.0000E-03        4.2100E-02        0.0000E+00
+        2.4650E+00        2.0000E-03        4.7800E-02        0.0000E+00
+        2.4880E+00        2.0000E-03        5.8000E-02        0.0000E+00
+        2.5110E+00        2.0000E-03        7.0100E-02        0.0000E+00
+        2.5310E+00        2.0000E-03        8.5400E-02        0.0000E+00
+        2.5420E+00        2.0000E-03        9.2400E-02        0.0000E+00
+        2.5540E+00        2.0000E-03        9.9400E-02        0.0000E+00
+        2.5680E+00        2.0000E-03        9.9900E-02        0.0000E+00
+        2.5780E+00        2.0000E-03        9.1600E-02        0.0000E+00
+        2.5880E+00        2.0000E-03        8.5700E-02        0.0000E+00
+        2.5980E+00        2.0000E-03        8.1800E-02        0.0000E+00
+        2.6150E+00        2.0000E-03        7.9800E-02        0.0000E+00
+        2.6260E+00        2.0000E-03        7.9200E-02        0.0000E+00
+        2.6430E+00        2.0000E-03        7.8400E-02        0.0000E+00
+        2.6680E+00        2.0000E-03        7.9000E-02        0.0000E+00
+        2.6900E+00        2.0000E-03        7.9500E-02        0.0000E+00
+        2.7080E+00        2.0000E-03        8.0000E-02        0.0000E+00
+        2.7330E+00        2.0000E-03        8.0600E-02        0.0000E+00
+        2.7580E+00        2.0000E-03        8.2400E-02        0.0000E+00

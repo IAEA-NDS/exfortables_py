@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13255-004-2 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)ELEM/MASS,CUM,FY) 
+#   First author: G.P.Ford 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (R,LA-6129,43,1976) 
+#   Year:  1976 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/132/13255.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13255
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             38.0             89.0                         4.3000E-02        0.0000E+00
+             47.0            111.0                         1.2900E-02        0.0000E+00
+             48.0            115.0              0.0               NAN        0.0000E+00
+             48.0            115.0              1.0               NAN        0.0000E+00
+             56.0            140.0                         4.8600E-02        0.0000E+00
+             58.0            143.0                         4.1100E-02        0.0000E+00
+             58.0            144.0                         3.3200E-02        0.0000E+00
+             60.0            147.0                         1.7400E-02        0.0000E+00
+             63.0            156.0                         5.7600E-04        0.0000E+00
+             65.0            161.0                         5.1100E-05        0.0000E+00

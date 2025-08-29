@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 28-NI-58(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.2000e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 58 
+#   Nuclide: 29-CU-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0068-066-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(P,N)29-CU-58,,SIG,,,DERIV) 
+#   First author: N.S.Biryukov 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (J,SNP,31,291,1980) 
+#   Year:  1980 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A00/A0068.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0068
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2000E+01        2.0000E-01        1.3500E-01        0.0000E+00

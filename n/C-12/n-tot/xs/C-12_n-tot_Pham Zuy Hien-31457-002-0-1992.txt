@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31457-002-0 
-# EXFOR reaction        : (6-C-12(N,TOT),,SIG) 
-# incident energy       : 5.5000e-02 MeV - 1.4400e-01 MeV 
-# target                : C-12 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 1 
-# first author          : Pham Zuy Hien 
-# institute             : (3VN DAL): Nuclear Research Institute , Dalat 
-# reference             : (R,INDC(NDS)-265,199210) 
-# year                  : 1992 
-# facility              : (REAC): Reactor 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31457.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31457
+# Header: 
+#   Title: 6-C-12(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  5.5000e-02 MeV - 1.4400e-01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31457-002-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(N,TOT),,SIG) 
+#   First author: Pham Zuy Hien 
+#   Institute:  (3VN DAL): Nuclear Research Institute , Dalat 
+#   Reference:  (R,INDC(NDS)-265,199210) 
+#   Year:  1992 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31457.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31457
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         5.5000E-02        0.0000E+00        4.3700E+00        1.5000E-01

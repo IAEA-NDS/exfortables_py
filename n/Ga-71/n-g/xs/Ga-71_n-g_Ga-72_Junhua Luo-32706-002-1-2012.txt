@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32706-002-1 
-# EXFOR reaction        : (31-GA-71(N,G)31-GA-72,,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4800e+01 MeV 
-# target                : Ga-71 
-# product               : Ga-72 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Junhua Luo 
-# institute             : (3CPRHXU): Hexi University , Zhangye 
-# reference             : (J,NSE,172,122,2012) 
-# year                  : 2012 
-# facility              : (NGEN): Neutron generator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32706.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32706
+# Header: 
+#   Title: 31-GA-71(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 31 
+#   A: 71 
+#   Nuclide: 31-GA-71 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 72 
+#   Nuclide: 31-GA-72 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32706-002-1 (entry-subentry-pointer) 
+#   Reaction code: (31-GA-71(N,G)31-GA-72,,SIG) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRHXU): Hexi University , Zhangye 
+#   Reference:  (J,NSE,172,122,2012) 
+#   Year:  2012 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32706.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32706
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3500E+01        2.0000E-01        2.2200E-03        2.0000E-04

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 72-HF-174(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 72 
+#   A: 174 
+#   Nuclide: 72-HF-174 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5000e-02 MeV 
+# Residual: 
+#   Z: 72 
+#   A: 175 
+#   Nuclide: 72-HF-175 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22963-010-0 (entry-subentry-pointer) 
+#   Reaction code: (72-HF-174(N,G)72-HF-175,,SIG,,SPA) 
+#   First author: C.Vockenhuber 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,PR/C,75,015804,2007) 
+#   Year:  2007 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22963.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22963
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        0.0000E+00        1.0410E+00        4.6845E-02
+        2.5000E-02        0.0000E+00        1.0460E+00        4.7070E-02
+        2.5000E-02        0.0000E+00        1.0670E+00        4.8015E-02

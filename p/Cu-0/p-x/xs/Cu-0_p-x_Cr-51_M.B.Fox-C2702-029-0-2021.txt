@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 29-CU-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.7110e+01 MeV - 1.9254e+02 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 51 
+#   Nuclide: 24-CR-51 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2702-029-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(P,X)24-CR-51,CUM,SIG) 
+#   First author: M.B.Fox 
+#   Institute:  (1USAUCX): University of California, Berkeley, CA 
+#   Reference:  (J,PR/C,104,064615,2021) 
+#   Year:  2021 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C27/C2702.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2702
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9254E+02        4.9000E-01        1.1590E-02        4.2000E-04
+        1.7728E+02        5.2000E-01        9.7900E-03        2.9000E-04
+        1.6349E+02        5.4000E-01        8.4400E-03        2.1000E-04
+        1.4886E+02        5.8000E-01        6.4600E-03        2.6000E-04
+        1.3408E+02        6.2000E-01        5.3300E-03        1.3000E-04
+        1.2002E+02        6.7000E-01        4.3500E-03        1.3000E-04
+        1.0449E+02        7.4000E-01        1.6760E-03        6.8000E-05
+        9.0940E+01        5.2000E-01        1.2200E-03        6.1000E-05
+        7.9030E+01        5.7000E-01        4.2700E-04        4.9000E-05
+        7.2220E+01        6.1000E-01        4.6900E-04        4.3000E-05
+        6.6810E+01        6.5000E-01        5.1200E-04        3.7000E-05
+        6.2730E+01        6.8000E-01        4.0900E-04        3.8000E-05
+        5.9730E+01        7.1000E-01        3.2800E-04        3.3000E-05
+        5.7110E+01        7.3000E-01        2.7800E-04        2.9000E-05

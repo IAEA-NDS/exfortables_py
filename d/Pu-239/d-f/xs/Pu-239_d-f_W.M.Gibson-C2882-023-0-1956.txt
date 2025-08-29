@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 94-PU-239(D,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 94 
+#   A: 239 
+#   Nuclide: 94-PU-239 
+# Reaction: 
+#   Process: D,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.6100e+01 MeV - 2.0200e+01 MeV 
+# Residual: 
+#   Z: 65 
+#   A: 161 
+#   Nuclide: 65-TB-161 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2882-023-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-239(D,F)65-TB-161,,SIG) 
+#   First author: W.M.Gibson 
+#   Institute:  (1USADAV): University of California, Davis, CA 
+#   Reference:  (R,UCRL-3493,1956) 
+#   Year:  1956 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C28/C2882.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2882
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6100E+01        5.0000E-01        4.8000E-04        0.0000E+00
+        2.0200E+01        5.0000E-01        9.5000E-04        0.0000E+00

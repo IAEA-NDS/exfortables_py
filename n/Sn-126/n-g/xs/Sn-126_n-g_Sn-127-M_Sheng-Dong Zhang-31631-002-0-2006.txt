@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31631-002-0 
-# EXFOR reaction        : (50-SN-126(N,G)50-SN-127-M,,SIG) 
-# incident energy       : 2.5300e-08 MeV 
-# target                : Sn-126 
-# product               : Sn-127-M 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Sheng-Dong Zhang 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,RCA,94,385,2006) 
-# year                  : 2006 
-# facility              : (REAC): Reactor 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31631.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31631
+# Header: 
+#   Title: 50-SN-126(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 126 
+#   Nuclide: 50-SN-126 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 127 
+#   Nuclide: 50-SN-127-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31631-002-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-126(N,G)50-SN-127-M,,SIG) 
+#   First author: Sheng-Dong Zhang 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,RCA,94,385,2006) 
+#   Year:  2006 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31631.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31631
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         2.5300E-08        0.0000E+00        3.9000E-01        1.0000E-01

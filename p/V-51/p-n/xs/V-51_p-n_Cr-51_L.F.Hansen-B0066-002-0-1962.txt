@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 23-V-51(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 23 
+#   A: 51 
+#   Nuclide: 23-V-51 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  5.0000e+00 MeV - 1.1000e+01 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 51 
+#   Nuclide: 24-CR-51 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0066-002-0 (entry-subentry-pointer) 
+#   Reaction code: (23-V-51(P,N)24-CR-51,,SIG,,,EXP) 
+#   First author: L.F.Hansen 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR,128,291,1962) 
+#   Year:  1962 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0066.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0066
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+00        0.0000E+00        2.7500E-01        2.8000E-02
+        6.0000E+00        0.0000E+00        3.8000E-01        3.8000E-02
+        7.0000E+00        0.0000E+00        4.7500E-01        4.8000E-02
+        8.0000E+00        0.0000E+00        5.3500E-01        5.4000E-02
+        9.0000E+00        0.0000E+00        5.5500E-01        5.6000E-02
+        1.0000E+01        0.0000E+00        5.9000E-01        5.9000E-02
+        1.1000E+01        0.0000E+00        5.9500E-01        6.0000E-02

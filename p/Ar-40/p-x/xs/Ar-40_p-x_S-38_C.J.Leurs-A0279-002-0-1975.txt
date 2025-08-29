@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 18-AR-40(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 18 
+#   A: 40 
+#   Nuclide: 18-AR-40 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.1530e+01 MeV - 4.9570e+01 MeV 
+# Residual: 
+#   Z: 16 
+#   A: 38 
+#   Nuclide: 16-S-38 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0279-002-0 (entry-subentry-pointer) 
+#   Reaction code: (18-AR-40(P,X)16-S-38,CUM,SIG) 
+#   First author: C.J.Leurs 
+#   Institute:  (2NEDIKO): Nat'l Institute for Nuclear and High Energy Physics, Sect.K 
+#   Reference:  (J,ARI,26,771,1975) 
+#   Year:  1975 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0279.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0279
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.1530E+01        2.0000E-02        4.0000E-07        4.0000E-08
+        3.4790E+01        2.0000E-02        8.4000E-06        8.4000E-07
+        3.7930E+01        2.0000E-02        2.1500E-05        2.1500E-06
+        4.1000E+01        2.0000E-02        4.3500E-05        4.3500E-06
+        4.3780E+01        2.0000E-02        6.7200E-05        6.7200E-06
+        4.5360E+01        2.0000E-02        7.8800E-05        7.8800E-06
+        4.7030E+01        2.0000E-02        9.4800E-05        9.4800E-06
+        4.8250E+01        2.0000E-02        9.5800E-05        9.5800E-06
+        4.9570E+01        2.0000E-02        9.6300E-05        9.6300E-06

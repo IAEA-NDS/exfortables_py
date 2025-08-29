@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32918-002-0 
-# EXFOR reaction        : (90-TH-232(N,G)90-TH-233,,SIG) 
-# incident energy       : 1.0190e-02 MeV - 1.8538e-01 MeV 
-# target                : Th-232 
-# product               : Th-233 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Jincheng Wang 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,EPJ/A,59,224,2023) 
-# year                  : 2023 
-# facility              : (SYNCH): Synchrotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/329/32918.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32918
+# Header: 
+#   Title: 90-TH-232(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.0190e-02 MeV - 1.8538e-01 MeV 
+# Residual: 
+#   Z: 90 
+#   A: 233 
+#   Nuclide: 90-TH-233 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32918-002-0 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(N,G)90-TH-233,,SIG) 
+#   First author: Jincheng Wang 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,EPJ/A,59,224,2023) 
+#   Year:  2023 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/329/32918.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32918
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.0190E-02        0.0000E+00        8.9000E-01        3.9961E-02

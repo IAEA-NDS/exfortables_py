@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 41-NB-93(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.7010e+01 MeV - 1.9210e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 91 
+#   Nuclide: 39-Y-91 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22023-002-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(N,X)39-Y-91,,SIG) 
+#   First author: S.M.Qaim 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,PR/C,34,(2),489,8608) 
+#   Year:  1986 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22023.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22023
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9210E+01        3.7000E-01        2.9600E-05        6.3000E-06
+        1.8310E+01        5.3000E-01        1.1600E-05        2.5000E-06
+        1.7010E+01        7.6000E-01        5.5000E-06        1.3000E-06

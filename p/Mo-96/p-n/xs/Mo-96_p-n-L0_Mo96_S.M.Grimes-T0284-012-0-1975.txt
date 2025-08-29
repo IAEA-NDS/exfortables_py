@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 42-MO-96(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 96 
+#   Nuclide: 42-MO-96 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 50 
+#   Incident energy:  1.6000e+01 MeV - 2.6000e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 96 
+#   Nuclide: 43-TC-96 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: T0284-012-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-96(P,N)43-TC-96,PAR,SIG) 
+#   First author: S.M.Grimes 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR/C,11,158,197501) 
+#   Year:  1975 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T02/T0284.x4 
+#   nds:  https://nds.iaea.org/EXFOR/T0284
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6000E+01        0.0000E+00        4.9200E-03        2.4000E-04
+        1.8000E+01        0.0000E+00        6.3300E-03        2.3000E-04
+        2.0000E+01        0.0000E+00        6.2000E-03        3.0000E-04
+        2.2000E+01        0.0000E+00        5.1900E-03        3.4000E-04
+        2.4000E+01        0.0000E+00        5.2400E-03        3.5000E-04
+        2.6000E+01        0.0000E+00        4.0600E-03        2.7000E-04

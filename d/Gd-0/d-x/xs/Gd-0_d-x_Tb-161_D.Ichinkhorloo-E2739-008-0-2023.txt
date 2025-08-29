@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 64-GD-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 64 
+#   A: 0 
+#   Nuclide: 64-GD-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.2000e+00 MeV - 2.3400e+01 MeV 
+# Residual: 
+#   Z: 65 
+#   A: 161 
+#   Nuclide: 65-TB-161 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2739-008-0 (entry-subentry-pointer) 
+#   Reaction code: (64-GD-0(D,X)65-TB-161,CUM,SIG) 
+#   First author: D.Ichinkhorloo 
+#   Institute:  (2JPNHOK): Hokkaido Univesity, Sapporo 
+#   Reference:  (J,NIM/B,536,30,2023) 
+#   Year:  2023 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E27/E2739.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2739
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3400E+01        1.0000E-01        2.5900E-02        2.7000E-03
+        2.2400E+01        1.0000E-01        2.8800E-02        3.4000E-03
+        2.1300E+01        1.0000E-01        3.3000E-02        3.8000E-03
+        2.0100E+01        1.0000E-01        3.1700E-02        3.8000E-03
+        1.8900E+01        1.0000E-01        3.4300E-02        3.9000E-03
+        1.7700E+01        1.0000E-01        3.7500E-02        4.3000E-03
+        1.6400E+01        2.0000E-01        4.2400E-02        4.8000E-03
+        1.5100E+01        2.0000E-01        4.6800E-02        5.1000E-03
+        1.3600E+01        2.0000E-01        5.0400E-02        5.5000E-03
+        1.2100E+01        2.0000E-01        5.5500E-02        6.0000E-03
+        1.0300E+01        3.0000E-01        5.2300E-02        5.7000E-03
+        8.4000E+00        3.0000E-01        2.6100E-02        2.9000E-03
+        6.2000E+00        4.0000E-01        1.7100E-03        2.1000E-04

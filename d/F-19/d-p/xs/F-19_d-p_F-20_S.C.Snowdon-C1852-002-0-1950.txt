@@ -1,0 +1,51 @@
+# Header: 
+#   Title: 9-F-19(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 9 
+#   A: 19 
+#   Nuclide: 9-F-19 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  7.0066e-01 MeV - 1.7960e+00 MeV 
+# Residual: 
+#   Z: 9 
+#   A: 20 
+#   Nuclide: 9-F-20 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1852-002-0 (entry-subentry-pointer) 
+#   Reaction code: (9-F-19(D,P)9-F-20,,SIG) 
+#   First author: S.C.Snowdon 
+#   Institute:  (1USABAR): Bartol Research Foundation, Swarthmore, PA 
+#   Reference:  (J,PR,78,299(2),1950) 
+#   Year:  1950 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C18/C1852.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1852
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0066E-01        0.0000E+00        1.6820E-03        5.0460E-04
+        7.4721E-01        0.0000E+00        2.3650E-03        7.0950E-04
+        7.9668E-01        0.0000E+00        3.3900E-03        1.0170E-03
+        8.4907E-01        0.0000E+00        4.7590E-03        1.4277E-03
+        8.9272E-01        0.0000E+00        5.6710E-03        1.7013E-03
+        9.4224E-01        0.0000E+00        7.6130E-03        2.2839E-03
+        9.9466E-01        0.0000E+00        9.6680E-03        2.9004E-03
+        1.0442E+00        0.0000E+00        1.1724E-02        3.5172E-03
+        1.0937E+00        0.0000E+00        1.4008E-02        4.2024E-03
+        1.1462E+00        0.0000E+00        1.6407E-02        4.9221E-03
+        1.1899E+00        0.0000E+00        1.8234E-02        5.4702E-03
+        1.2452E+00        0.0000E+00        2.0976E-02        6.2928E-03
+        1.2889E+00        0.0000E+00        2.2917E-02        6.8751E-03
+        1.3385E+00        0.0000E+00        2.5316E-02        7.5948E-03
+        1.3938E+00        0.0000E+00        2.7943E-02        8.3829E-03
+        1.4404E+00        0.0000E+00        3.0228E-02        9.0684E-03
+        1.4987E+00        0.0000E+00        3.2970E-02        9.8910E-03
+        1.5424E+00        0.0000E+00        3.4568E-02        1.0370E-02
+        1.5919E+00        0.0000E+00        3.6852E-02        1.1056E-02
+        1.6531E+00        0.0000E+00        3.9823E-02        1.1947E-02
+        1.6939E+00        0.0000E+00        4.1764E-02        1.2529E-02
+        1.7960E+00        0.0000E+00        4.8164E-02        1.4449E-02

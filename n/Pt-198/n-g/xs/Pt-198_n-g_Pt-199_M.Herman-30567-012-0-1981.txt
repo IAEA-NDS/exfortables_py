@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 78-PT-198(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 78 
+#   A: 198 
+#   Nuclide: 78-PT-198 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.3000e-01 MeV - 1.3100e+00 MeV 
+# Residual: 
+#   Z: 78 
+#   A: 199 
+#   Nuclide: 78-PT-199 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30567-012-0 (entry-subentry-pointer) 
+#   Reaction code: (78-PT-198(N,G)78-PT-199,,SIG) 
+#   First author: M.Herman 
+#   Institute:  (3POLIBJ): Institute Badan Jadr., Swierk and Warszawa 
+#   Reference:  (J,NP/A,357,1,198103) 
+#   Year:  1981 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30567.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30567
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.3000E-01        1.4000E-01        2.9500E-02        5.5000E-03
+        8.6000E-01        2.1000E-01        3.2300E-02        6.0000E-03
+        1.2000E+00        1.5000E-01        2.5300E-02        4.1000E-03
+        1.3100E+00        7.0000E-02        2.1300E-02        3.9000E-03

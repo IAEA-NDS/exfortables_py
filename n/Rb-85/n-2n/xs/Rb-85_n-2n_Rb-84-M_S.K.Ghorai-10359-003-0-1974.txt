@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 37-RB-85(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 37 
+#   A: 85 
+#   Nuclide: 37-RB-85 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5000e+01 MeV - 1.7000e+01 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 84 
+#   Nuclide: 37-RB-84-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10359-003-0 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-85(N,2N)37-RB-84-M,,SIG) 
+#   First author: S.K.Ghorai 
+#   Institute:  (1USAUSA): United States of America 
+#   Reference:  (J,NP/A,223,118,1974) 
+#   Year:  1974 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/103/10359.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10359
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+01        4.0000E-01        6.6200E-01        8.3000E-02
+        1.6200E+01        7.0000E-01        6.8800E-01        8.7000E-02
+        1.7000E+01        9.0000E-01        7.6500E-01        9.9000E-02

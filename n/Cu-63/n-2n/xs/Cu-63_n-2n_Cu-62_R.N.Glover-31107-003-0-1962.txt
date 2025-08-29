@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 29-CU-63(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3860e+01 MeV - 1.4770e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 62 
+#   Nuclide: 29-CU-62 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31107-003-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-63(N,2N)29-CU-62,,SIG) 
+#   First author: R.N.Glover 
+#   Institute:  (3AULCBR): Australian National University, Canberra 
+#   Reference:  (J,NP,29,309,1962) 
+#   Year:  1962 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/311/31107.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31107
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3860E+01        1.0000E-01        4.2400E-01        2.1200E-02
+        1.4110E+01        1.0000E-01        4.5500E-01        2.2750E-02
+        1.4370E+01        1.5000E-01        4.8800E-01        2.4400E-02
+        1.4590E+01        2.0000E-01        5.1900E-01        2.5950E-02
+        1.4770E+01        2.5000E-01        5.5000E-01        0.0000E+00

@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 75-RE-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 75 
+#   A: 0 
+#   Nuclide: 75-RE-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.3100e+02 MeV - 2.5900e+03 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 145 
+#   Nuclide: 63-EU-145 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2139-029-0 (entry-subentry-pointer) 
+#   Reaction code: (75-RE-0(P,X)63-EU-145,CUM,SIG) 
+#   First author: S.A.M.Issa 
+#   Institute:  (2GERUH): University Hannover (previously Tech.University Hannover) 
+#   Reference:  (J,NIM/B,298,19,2013) 
+#   Year:  2013 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2139.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2139
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3100E+02        1.8000E+00        4.0000E-03        2.0000E-04
+        5.5800E+02        1.6000E+00        5.5000E-03        9.0000E-04
+        7.6300E+02        1.5000E+00        1.2900E-02        1.8000E-03
+        1.1650E+03        1.5000E+00        2.6900E-02        7.0000E-04
+        1.5700E+03        1.5000E+00        2.8500E-02        2.2000E-03
+        2.5900E+03        1.0000E+00        2.2300E-02        1.7000E-03

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 50-SN-124(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 124 
+#   Nuclide: 50-SN-124 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0100e+03 MeV - 8.1100e+03 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 86 
+#   Nuclide: 40-ZR-86 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0612-128-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-124(P,X)40-ZR-86,CUM,SIG) 
+#   First author: A.S.Danagulyan 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (C,98MOSCOW,,219,199806) 
+#   Year:  1998 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A06/A0612.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0612
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0100E+03        0.0000E+00        1.2300E-03        1.0000E-04
+        8.1100E+03        0.0000E+00        1.6500E-03        5.0000E-05

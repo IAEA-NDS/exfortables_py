@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 45-RH-103(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  5.6890e+00 MeV - 1.2003e+01 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22367-002-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,INL)45-RH-103-M,,SIG) 
+#   First author: M.M.H.Miah 
+#   Institute:  (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
+#   Reference:  (J,PR/C,54,(1),222,199607) 
+#   Year:  1996 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22367.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22367
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.6890E+00        0.0000E+00        1.3140E+00        9.1980E-04
+        6.0390E+00        0.0000E+00        1.2960E+00        9.0720E-04
+        6.5250E+00        0.0000E+00        1.3120E+00        9.1840E-04
+        6.9320E+00        0.0000E+00        1.3210E+00        9.2470E-04
+        7.5750E+00        0.0000E+00        1.2030E+00        8.4210E-04
+        7.9790E+00        0.0000E+00        1.2470E+00        8.7290E-04
+        8.5500E+00        0.0000E+00        1.2210E+00        8.5470E-04
+        8.9650E+00        0.0000E+00        1.2930E+00        9.0510E-04
+        9.5500E+00        0.0000E+00        1.2280E+00        8.5960E-04
+        9.9150E+00        0.0000E+00        1.1950E+00        8.3650E-04
+        1.0579E+01        0.0000E+00        9.3800E-01        6.5660E-04
+        1.1039E+01        0.0000E+00        7.7100E-01        5.3970E-04
+        1.1424E+01        0.0000E+00        7.2100E-01        5.0470E-04
+        1.2003E+01        0.0000E+00        5.6500E-01        3.9550E-04

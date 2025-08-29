@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 30670-002-0 
-# EXFOR reaction        : (94-PU-239(N,F),,SIG) 
-# incident energy       : 1.0000e+00 MeV - 5.6000e+00 MeV 
-# target                : Pu-239 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 18 
-# first author          : Zhou Xianjian 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CNP,4,131,1982) 
-# year                  : 1982 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30670.x4 
-# nds                   : https://nds.iaea.org/EXFOR/30670
+# Header: 
+#   Title: 94-PU-239(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 94 
+#   A: 239 
+#   Nuclide: 94-PU-239 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.0000e+00 MeV - 5.6000e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30670-002-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-239(N,F),,SIG) 
+#   First author: Zhou Xianjian 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CNP,4,131,1982) 
+#   Year:  1982 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30670.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30670
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.0000E+00        0.0000E+00        1.8600E+00        5.0220E-02

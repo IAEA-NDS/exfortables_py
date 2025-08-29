@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 34-SE-0(HE3,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 34 
+#   A: 0 
+#   Nuclide: 34-SE-0 
+# Reaction: 
+#   Process: HE3,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4410e+01 MeV - 3.6050e+01 MeV 
+# Residual: 
+#   Z: 36 
+#   A: 79 
+#   Nuclide: 36-KR-79 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0154-008-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-0(HE3,X)36-KR-79,,SIG) 
+#   First author: He Youfeng 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,ARI,33,13,1982) 
+#   Year:  1982 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A01/A0154.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0154
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4410E+01        3.1000E-01        2.4600E-03        0.0000E+00
+        1.5980E+01        3.1000E-01        4.9900E-02        0.0000E+00
+        1.7330E+01        3.1000E-01        5.8500E-02        0.0000E+00
+        1.8900E+01        3.1000E-01        1.1600E-01        0.0000E+00
+        1.9770E+01        3.1000E-01        1.1200E-01        0.0000E+00
+        2.0920E+01        3.1000E-01        1.8300E-01        0.0000E+00
+        2.1640E+01        3.1000E-01        1.6400E-01        0.0000E+00
+        2.3330E+01        3.1000E-01        1.3700E-01        0.0000E+00
+        2.3750E+01        3.1000E-01        1.3100E-01        0.0000E+00
+        2.5660E+01        3.1000E-01        6.8400E-02        0.0000E+00
+        2.7230E+01        3.1000E-01        6.2500E-02        0.0000E+00
+        2.8590E+01        3.1000E-01        5.3100E-02        0.0000E+00
+        3.0550E+01        3.1000E-01        8.9000E-02        0.0000E+00
+        3.1770E+01        3.1000E-01        1.5000E-01        0.0000E+00
+        3.3660E+01        3.1000E-01        1.8900E-01        0.0000E+00
+        3.4540E+01        3.1000E-01        2.1900E-01        0.0000E+00
+        3.6050E+01        3.1000E-01        2.0400E-01        0.0000E+00

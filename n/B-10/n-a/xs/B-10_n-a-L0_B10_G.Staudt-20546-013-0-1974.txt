@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 5-B-10(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 5 
+#   A: 10 
+#   Nuclide: 5-B-10 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 800 
+#   Incident energy:  1.3900e+01 MeV 
+# Residual: 
+#   Z: 3 
+#   A: 7 
+#   Nuclide: 3-LI-7 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 20546-013-0 (entry-subentry-pointer) 
+#   Reaction code: (5-B-10(N,A)3-LI-7,PAR,SIG) 
+#   First author: G.Staudt 
+#   Institute:  (2GERTUE): Universitaet Tuebingen 
+#   Reference:  (W,STAUDT,7404) 
+#   Year:  1974 
+#   Facility:  (VDG  ): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20546.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20546
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3900E+01        1.5000E-01        1.1000E-02        2.0000E-03

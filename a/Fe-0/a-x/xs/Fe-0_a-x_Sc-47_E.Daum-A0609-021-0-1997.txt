@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 26-FE-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 0 
+#   Nuclide: 26-FE-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.3100e+01 MeV - 1.0360e+02 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 47 
+#   Nuclide: 21-SC-47 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0609-021-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-0(A,X)21-SC-47,(CUM),SIG) 
+#   First author: E.Daum 
+#   Institute:  (2GERKRU): Karlsruhe, University  
+#   Reference:  (R,INDC(GER)-043,6,1997) 
+#   Year:  1997 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A06/A0609.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0609
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0360E+02        7.0000E-01        6.4100E-04        9.3000E-05
+        9.9700E+01        1.0000E+00        5.1800E-04        7.4000E-05
+        9.5400E+01        1.3000E+00        4.5200E-04        6.5000E-05
+        9.4600E+01        7.0000E-01        5.7300E-04        1.0700E-04
+        9.1000E+01        1.7000E+00        4.0600E-04        5.9000E-05
+        8.4500E+01        7.0000E-01        4.0700E-04        7.3000E-05
+        7.8500E+01        2.3000E+00        3.9000E-04        7.1000E-05
+        7.4500E+01        7.0000E-01        3.7200E-04        9.0000E-05
+        6.4500E+01        7.0000E-01        2.7000E-04        5.2000E-05
+        6.3100E+01        1.3000E+00        8.3000E-05        3.8000E-05

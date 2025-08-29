@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 74-W-186(P,3P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 74 
+#   A: 186 
+#   Nuclide: 74-W-186 
+# Reaction: 
+#   Process: P,3P 
+#   MF-MT number: 3 - 197 
+#   Incident energy:  1.3000e+02 MeV - 4.2500e+02 MeV 
+# Residual: 
+#   Z: 72 
+#   A: 184 
+#   Nuclide: 72-HF-184 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0697-015-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-186(P,3P)72-HF-184,,SIG) 
+#   First author: D.L.Morrison 
+#   Institute:  (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
+#   Reference:  (J,PR,127,1731,1962) 
+#   Year:  1962 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C06/C0697.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0697
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3000E+02        0.0000E+00        2.4300E-04        3.3000E-05
+        2.1000E+02        0.0000E+00        1.4400E-04        1.0000E-06
+        3.0000E+02        0.0000E+00        2.9500E-04        5.9000E-05
+        4.0000E+02        0.0000E+00        3.1600E-04        6.5000E-05
+        4.2500E+02        0.0000E+00        3.1900E-04        8.2000E-05

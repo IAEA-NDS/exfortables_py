@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 82-PB-204(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 82 
+#   A: 204 
+#   Nuclide: 82-PB-204 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3000e+01 MeV - 1.6250e+01 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 203 
+#   Nuclide: 82-PB-203-M1+M2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21503-008-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-204(N,2N)82-PB-203-M1+M2,,SIG) 
+#   First author: M.Bormann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (P,EANDC(E)-76,51,1967) 
+#   Year:  1967 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/215/21503.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21503
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3000E+01        0.0000E+00        1.0140E+00        1.8300E-01
+        1.3250E+01        0.0000E+00        1.0680E+00        1.9500E-01
+        1.3500E+01        0.0000E+00        1.1880E+00        1.5700E-01
+        1.3750E+01        0.0000E+00        1.2350E+00        2.0400E-01
+        1.4000E+01        0.0000E+00        1.2620E+00        2.7100E-01
+        1.4500E+01        0.0000E+00        1.3310E+00        2.1700E-01
+        1.4750E+01        0.0000E+00        1.2890E+00        1.3000E-01
+        1.5000E+01        0.0000E+00        1.4020E+00        1.2300E-01
+        1.5250E+01        0.0000E+00        1.3420E+00        1.6800E-01
+        1.5500E+01        0.0000E+00        1.1350E+00        1.3500E-01
+        1.5750E+01        0.0000E+00        1.2430E+00        1.2900E-01
+        1.6000E+01        0.0000E+00        1.1120E+00        1.0700E-01
+        1.6250E+01        0.0000E+00        1.0980E+00        1.0800E-01

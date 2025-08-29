@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.4200e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: V0104-033-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F),,SIG,,FIS,EVAL) 
+#   First author: W.Mannhart 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (R,STI/DOC/10-452,30,2006) 
+#   Year:  2006 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/V01/V0104.x4 
+#   nds:  https://nds.iaea.org/EXFOR/V0104
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+00        0.0000E+00        1.2100E+00        1.4520E-02

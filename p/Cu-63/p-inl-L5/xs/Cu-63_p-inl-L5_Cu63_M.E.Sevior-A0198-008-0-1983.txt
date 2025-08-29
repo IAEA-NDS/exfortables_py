@@ -1,0 +1,50 @@
+# Header: 
+#   Title: 29-CU-63(P,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+# Reaction: 
+#   Process: P,INL 
+#   MF-MT number: 3 - 605 
+#   Incident energy:  3.0910e+00 MeV - 4.1520e+00 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+#   Level energy: 5.0000e-06 MeV 
+# EXFOR BIB:
+#   Entry id: A0198-008-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-63(P,INL)29-CU-63,PAR,SIG) 
+#   First author: M.E.Sevior 
+#   Institute:  (3AULAML): University of Melbourne, Parkville, Victoria 
+#   Reference:  (J,AUJ,36,463,1983) 
+#   Year:  1983 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A01/A0198.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0198
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0910E+00        9.0000E-03        6.3000E-05        6.9300E-06
+        3.1410E+00        9.0000E-03        7.9000E-05        8.6900E-06
+        3.1910E+00        9.0000E-03        1.0500E-04        1.1550E-05
+        3.2330E+00        9.0000E-03        1.0700E-04        1.1770E-05
+        3.2990E+00        9.0000E-03        1.1900E-04        1.3090E-05
+        3.3430E+00        9.0000E-03        1.3800E-04        1.5180E-05
+        3.3970E+00        9.0000E-03        1.6800E-04        1.8480E-05
+        3.4460E+00        9.0000E-03        2.5000E-04        2.7500E-05
+        3.4600E+00        9.0000E-03        3.0200E-04        3.3220E-05
+        3.6030E+00        9.0000E-03        5.6000E-04        6.1600E-05
+        3.6530E+00        9.0000E-03        5.2000E-04        5.7200E-05
+        3.6880E+00        9.0000E-03        5.1000E-04        5.6100E-05
+        3.7560E+00        9.0000E-03        6.9300E-04        7.6230E-05
+        3.7890E+00        9.0000E-03        8.5100E-04        9.3610E-05
+        3.8530E+00        9.0000E-03        1.1100E-03        1.2210E-04
+        3.8930E+00        9.0000E-03        1.2900E-03        1.4190E-04
+        3.9500E+00        9.0000E-03        1.2900E-03        1.4190E-04
+        3.9920E+00        9.0000E-03        1.8000E-03        1.9800E-04
+        4.0510E+00        9.0000E-03        1.9700E-03        2.1670E-04
+        4.0960E+00        9.0000E-03        1.9900E-03        2.1890E-04
+        4.1520E+00        9.0000E-03        3.0900E-03        3.3990E-04

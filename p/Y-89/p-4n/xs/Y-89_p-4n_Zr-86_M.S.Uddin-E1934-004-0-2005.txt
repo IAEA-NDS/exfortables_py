@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 39-Y-89(P,4N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: P,4N 
+#   MF-MT number: 3 - 37 
+#   Incident energy:  4.4300e+01 MeV - 7.9100e+01 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 86 
+#   Nuclide: 40-ZR-86 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1934-004-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(P,4N)40-ZR-86,,SIG) 
+#   First author: M.S.Uddin 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,ARI,63,(3),367,200509) 
+#   Year:  2005 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1934.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1934
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.9100E+01        0.0000E+00        3.6600E-02        2.7000E-03
+        7.4300E+01        0.0000E+00        4.1700E-02        4.0000E-03
+        6.9400E+01        0.0000E+00        4.9700E-02        3.7000E-03
+        6.4300E+01        0.0000E+00        6.9700E-02        5.2000E-03
+        5.8800E+01        0.0000E+00        9.7700E-02        6.7000E-03
+        5.4200E+01        0.0000E+00        1.1300E-01        6.7000E-03
+        4.9300E+01        0.0000E+00        9.5700E-02        7.9000E-03
+        4.4300E+01        0.0000E+00        3.3200E-02        3.4000E-03

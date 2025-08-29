@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 42-MO-96(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 96 
+#   Nuclide: 42-MO-96 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 96 
+#   Nuclide: 41-NB-96 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30825-017-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-96(N,P)41-NB-96,,SIG) 
+#   First author: N.I.Molla 
+#   Institute:  (3BANSAV): Institute Nuclear Science & Technology, AERE, Savar, Dhaka 
+#   Reference:  (R,INDC(BAN)-003,1986) 
+#   Year:  1986 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/308/30825.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30825
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        3.0000E-01        1.4000E-02        1.6000E-03

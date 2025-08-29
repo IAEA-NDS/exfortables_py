@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 28-NI-58(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  2.2000e+00 MeV - 1.4790e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11761-002-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,P)27-CO-58,,SIG) 
+#   First author: J.K.Temperley 
+#   Institute:  (1USANDL): U.S. Army Nuclear Defence Laboratory , Edgewood Arsenal, MD 
+#   Reference:  (J,NSE,32,195,1968) 
+#   Year:  1968 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/117/11761.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11761
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2000E+00        1.4000E-01        1.0900E-01        1.1000E-02
+        2.5700E+00        1.9000E-01        1.5600E-01        1.6000E-02
+        2.9800E+00        2.2000E-01        2.0400E-01        2.0000E-02
+        3.1200E+00        2.2000E-01        2.2700E-01        2.3000E-02
+        3.3400E+00        2.0000E-01        2.1300E-01        2.1000E-02
+        3.4800E+00        1.2000E-01        2.0100E-01        2.0000E-02
+        1.3720E+01        2.0000E-01        5.1600E-01        5.2000E-02
+        1.3950E+01        2.0000E-01        4.8100E-01        4.8000E-02
+        1.4200E+01        2.5000E-01        3.8100E-01        3.8000E-02
+        1.4310E+01        3.1000E-01        3.9200E-01        3.9000E-02
+        1.4530E+01        3.2000E-01        3.1700E-01        3.2000E-02
+        1.4790E+01        3.0000E-01        3.0300E-01        3.0000E-02

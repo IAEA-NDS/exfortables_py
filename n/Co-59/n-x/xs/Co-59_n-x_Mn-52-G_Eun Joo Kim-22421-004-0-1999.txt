@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 22421-004-0 
-# EXFOR reaction        : (27-CO-59(N,X)25-MN-52-G,M+,SIG,,SPA) 
-# incident energy       : 6.1000e+01 MeV - 7.5000e+01 MeV 
-# target                : Co-59 
-# product               : Mn-52-G 
-# level energy          : - 
-# MF-MT number          : 3 - 10 
-# first author          : Eun Joo Kim 
-# institute             : (2JPNTOH): Tohoku University , Sendai 
-# reference             : (J,NST,36,(1),29,1999) 
-# year                  : 1999 
-# facility              : (CYCLO): Cyclotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22421.x4 
-# nds                   : https://nds.iaea.org/EXFOR/22421
+# Header: 
+#   Title: 27-CO-59(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.1000e+01 MeV - 7.5000e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 52 
+#   Nuclide: 25-MN-52-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22421-004-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,X)25-MN-52-G,M+,SIG,,SPA) 
+#   First author: Eun Joo Kim 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,NST,36,(1),29,1999) 
+#   Year:  1999 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22421.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22421
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         6.1000E+01        2.6000E+00        2.5200E-03        2.3260E-04

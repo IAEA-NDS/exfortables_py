@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 52-TE-123(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 52 
+#   A: 123 
+#   Nuclide: 52-TE-123 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  2.4500e-02 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 120 
+#   Nuclide: 50-SN-120 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41396-002-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-123(N,A)50-SN-120,,SIG) 
+#   First author: V.A.Vtyurin 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (R,JINR-P15-88-186,1988) 
+#   Year:  1988 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/413/41396.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41396
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4500E-02        2.0000E-03        2.8000E-06        7.0000E-07

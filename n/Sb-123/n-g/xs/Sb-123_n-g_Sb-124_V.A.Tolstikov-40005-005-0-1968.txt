@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 51-SB-123(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 51 
+#   A: 123 
+#   Nuclide: 51-SB-123 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.0000e-01 MeV - 2.7230e+00 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 124 
+#   Nuclide: 51-SB-124 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40005-005-0 (entry-subentry-pointer) 
+#   Reaction code: (51-SB-123(N,G)51-SB-124,,SIG) 
+#   First author: V.A.Tolstikov 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (J,SJA,24,709,1968) 
+#   Year:  1968 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40005.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40005
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E-01        0.0000E+00        1.2700E-01        2.9591E-02
+        2.4200E-01        0.0000E+00        1.0700E-01        2.4931E-02
+        3.9400E-01        0.0000E+00        1.0500E-01        2.4360E-02
+        5.1500E-01        0.0000E+00        1.0200E-01        2.5500E-02
+        6.1200E-01        0.0000E+00        9.1000E-02        2.1567E-02
+        6.9000E-01        0.0000E+00        1.0000E-01        2.7700E-02
+        7.2000E-01        0.0000E+00        1.0900E-01        2.6487E-02
+        7.8000E-01        0.0000E+00        1.1100E-01        2.7306E-02
+        8.2400E-01        0.0000E+00        1.0600E-01        2.4486E-02
+        9.3000E-01        0.0000E+00        1.0000E-01        2.3300E-02
+        1.0340E+00        0.0000E+00        1.0200E-01        2.5704E-02
+        1.3350E+00        0.0000E+00        8.5000E-02        2.3885E-02
+        1.5200E+00        0.0000E+00        8.7000E-02        2.4186E-02
+        1.6900E+00        0.0000E+00        7.7000E-02        1.9789E-02
+        1.9170E+00        0.0000E+00        7.2000E-02        2.1600E-02
+        2.1200E+00        0.0000E+00        6.3000E-02        1.7325E-02
+        2.3200E+00        0.0000E+00        5.9000E-02        1.9588E-02
+        2.7230E+00        0.0000E+00        2.8200E-02        7.8960E-03

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 21-SC-45(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 21 
+#   A: 45 
+#   Nuclide: 21-SC-45 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 44 
+#   Nuclide: 21-SC-44-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10776-018-0 (entry-subentry-pointer) 
+#   Reaction code: (21-SC-45(N,2N)21-SC-44-G,,SIG) 
+#   First author: R.A.Sigg 
+#   Institute:  (1USAARK): University of Arkansas, Fayetteville, AR 
+#   Reference:  (T,SIGG,1976) 
+#   Year:  1976 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10776.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10776
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        1.7100E-01        1.4000E-02

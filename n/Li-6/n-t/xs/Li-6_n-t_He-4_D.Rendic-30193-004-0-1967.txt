@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 3-LI-6(N,T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: N,T 
+#   MF-MT number: 3 - 105 
+#   Incident energy:  2.7000e+00 MeV - 1.4400e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30193-004-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(N,T)2-HE-4,,SIG) 
+#   First author: D.Rendic 
+#   Institute:  (3CRORBZ): Institute Rudjer Boskovic, Zagreb 
+#   Reference:  (R,ZFK-130,143,196712) 
+#   Year:  1967 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30193.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30193
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7000E+00        0.0000E+00        1.6600E-01        0.0000E+00
+        1.4400E+01        0.0000E+00        2.6000E-02        0.0000E+00

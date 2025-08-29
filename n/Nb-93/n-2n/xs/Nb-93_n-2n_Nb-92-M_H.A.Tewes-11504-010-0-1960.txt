@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 41-NB-93(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  9.3500e+00 MeV - 1.5100e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 92 
+#   Nuclide: 41-NB-92-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11504-010-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(N,2N)41-NB-92-M,,SIG) 
+#   First author: H.A.Tewes 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (R,UCRL-6028-T,1960) 
+#   Year:  1960 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11504.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11504
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.3500E+00        2.0000E-01        8.0000E-03        1.6000E-03
+        9.8000E+00        2.0000E-01        4.5600E-02        9.1200E-03
+        1.0350E+01        2.0000E-01        1.6000E-01        3.2000E-02
+        1.1000E+01        2.0000E-01        2.5900E-01        5.1800E-02
+        1.1500E+01        2.0000E-01        3.0900E-01        6.1800E-02
+        1.2100E+01        2.0000E-01        3.3100E-01        6.6200E-02
+        1.2300E+01        2.0000E-01        3.7700E-01        7.5400E-02
+        1.3000E+01        2.0000E-01        4.1700E-01        8.3400E-02
+        1.3850E+01        2.0000E-01        4.4100E-01        8.8200E-02
+        1.4000E+01        2.0000E-01        4.5100E-01        9.0200E-02
+        1.4500E+01        2.0000E-01        4.6600E-01        9.3200E-02
+        1.5100E+01        2.0000E-01        4.8500E-01        9.7000E-02

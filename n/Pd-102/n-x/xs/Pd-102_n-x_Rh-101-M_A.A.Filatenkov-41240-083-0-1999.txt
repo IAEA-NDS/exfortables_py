@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 46-PD-102(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 46 
+#   A: 102 
+#   Nuclide: 46-PD-102 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3470e+01 MeV - 1.4860e+01 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 101 
+#   Nuclide: 45-RH-101-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41240-083-0 (entry-subentry-pointer) 
+#   Reaction code: (46-PD-102(N,X)45-RH-101-M,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,RI-252,1999) 
+#   Year:  1999 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41240.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41240
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3470E+01        0.0000E+00        2.0600E-01        7.5000E-02
+        1.3640E+01        0.0000E+00        2.4000E-01        8.0000E-02
+        1.3880E+01        0.0000E+00        2.8300E-01        9.0000E-02
+        1.4050E+01        0.0000E+00        2.4300E-01        9.5000E-02
+        1.4280E+01        0.0000E+00        2.7600E-01        9.5000E-02
+        1.4470E+01        0.0000E+00        2.7600E-01        1.0000E-01
+        1.4680E+01        0.0000E+00        3.1200E-01        1.0000E-01
+        1.4860E+01        0.0000E+00        2.9800E-01        1.1000E-01

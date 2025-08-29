@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 29-CU-65(A,3P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: A,3P 
+#   MF-MT number: 3 - 197 
+#   Incident energy:  5.6990e+00 MeV - 7.7910e+00 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 66 
+#   Nuclide: 28-NI-66 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2304-004-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(A,3P)28-NI-66,,SIG) 
+#   First author: D.R.Nethaway 
+#   Institute:  (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
+#   Reference:  (J,PR,109,504,1958) 
+#   Year:  1958 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2304.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2304
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.6990E+00        0.0000E+00        7.5060E-07        0.0000E+00
+        7.4050E+00        0.0000E+00        2.3590E-06        0.0000E+00
+        7.7910E+00        0.0000E+00        3.0270E-06        0.0000E+00

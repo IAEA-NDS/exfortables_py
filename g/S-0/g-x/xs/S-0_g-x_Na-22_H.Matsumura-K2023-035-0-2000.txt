@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 16-S-0(G,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 16 
+#   A: 0 
+#   Nuclide: 16-S-0 
+# Reaction: 
+#   Process: G,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.5000e+02 MeV - 1.0000e+03 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 22 
+#   Nuclide: 11-NA-22 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: K2023-035-0 (entry-subentry-pointer) 
+#   Reaction code: (16-S-0(G,X)11-NA-22,CUM,SIG,,BRA) 
+#   First author: H.Matsumura 
+#   Institute:  (2JPNKNZ): Kanazawa University , Kanazawa 
+#   Reference:  (J,RCA,88,(6),313,200006) 
+#   Year:  2000 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K20/K2023.x4 
+#   nds:  https://nds.iaea.org/EXFOR/K2023
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+03        0.0000E+00        3.0600E-04        2.3000E-05
+        7.0000E+02        0.0000E+00        2.3100E-04        1.8000E-05
+        5.5000E+02        0.0000E+00        2.2700E-04        1.7000E-05
+        4.5000E+02        0.0000E+00        1.9600E-04        1.6000E-05

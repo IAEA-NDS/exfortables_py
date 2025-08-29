@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32503-002-0 
-# EXFOR reaction        : (38-SR-87(N,INL)38-SR-87-M,,SIG) 
-# incident energy       : 9.7500e-01 MeV - 5.6900e+00 MeV 
-# target                : Sr-87 
-# product               : Sr-87-M 
-# level energy          : - 
-# MF-MT number          : 3 - 4 
-# first author          : Song Linggen 
-# institute             : (3CPRFUD): Fudan University , Shanghai 
-# reference             : (J,CNP,7,(1),58,1985) 
-# year                  : 1985 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32503.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32503
+# Header: 
+#   Title: 38-SR-87(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 38 
+#   A: 87 
+#   Nuclide: 38-SR-87 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  9.7500e-01 MeV - 5.6900e+00 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 87 
+#   Nuclide: 38-SR-87-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32503-002-0 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-87(N,INL)38-SR-87-M,,SIG) 
+#   First author: Song Linggen 
+#   Institute:  (3CPRFUD): Fudan University , Shanghai 
+#   Reference:  (J,CNP,7,(1),58,1985) 
+#   Year:  1985 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32503.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32503
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         9.7500E-01        2.2300E-02        3.2490E-02        3.9400E-03

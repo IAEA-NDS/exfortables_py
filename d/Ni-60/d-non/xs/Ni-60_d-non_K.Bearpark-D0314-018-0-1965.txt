@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 28-NI-60(D,NON)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: D,NON 
+#   MF-MT number: 3 - 3 
+#   Incident energy:  1.0060e+01 MeV - 1.1100e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0314-018-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(D,NON),,SIG) 
+#   First author: K.Bearpark 
+#   Institute:  (2UK OXF): University of Oxford, Oxford 
+#   Reference:  (J,NP,73,206,1965) 
+#   Year:  1965 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D03/D0314.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0314
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0060E+01        4.4000E-01        1.4410E+00        6.0000E-02
+        1.1100E+01        4.0000E-01        1.5080E+00        6.3000E-02

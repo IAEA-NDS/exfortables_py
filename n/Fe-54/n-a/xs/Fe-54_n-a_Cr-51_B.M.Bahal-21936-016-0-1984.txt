@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 26-FE-54(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 54 
+#   Nuclide: 26-FE-54 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 51 
+#   Nuclide: 24-CR-51 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21936-016-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-54(N,A)24-CR-51,,SIG) 
+#   First author: B.M.Bahal 
+#   Institute:  (2GERKIG): GKSS, Geesthacht 
+#   Reference:  ((P,INDC(GER)-27,28,1984)=(P,NEANDC(E)-252,(5),28,1984)) 
+#   Year:  1984 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21936.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21936
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        8.8000E-02        6.0000E-03

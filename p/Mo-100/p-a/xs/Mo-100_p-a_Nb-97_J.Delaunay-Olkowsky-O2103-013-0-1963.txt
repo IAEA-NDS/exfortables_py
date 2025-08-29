@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 42-MO-100(P,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 100 
+#   Nuclide: 42-MO-100 
+# Reaction: 
+#   Process: P,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.1200e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 97 
+#   Nuclide: 41-NB-97 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2103-013-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-100(P,A)41-NB-97,,SIG) 
+#   First author: J.Delaunay-Olkowsky 
+#   Institute:  (2FR SAC): CEA/Saclay 
+#   Reference:  (J,NP,47,266,1963) 
+#   Year:  1963 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2103.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2103
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1200E+01        0.0000E+00        1.6000E-02        0.0000E+00

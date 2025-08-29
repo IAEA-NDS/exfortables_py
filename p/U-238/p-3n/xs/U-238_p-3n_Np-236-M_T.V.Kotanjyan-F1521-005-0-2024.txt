@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 92-U-238(P,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: P,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  1.4700e+01 MeV - 1.7000e+01 MeV 
+# Residual: 
+#   Z: 93 
+#   A: 236 
+#   Nuclide: 93-NP-236-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1521-005-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(P,3N)93-NP-236-M,,SIG) 
+#   First author: T.V.Kotanjyan 
+#   Institute:  (4ARMJER): A.I. Alikhanyan National Sci. Laboratory (YerPhI), Yerevan 
+#   Reference:  (J,PR/C,109,065802,2024) 
+#   Year:  2024 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F15/F1521.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1521
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7000E+01        3.6000E-01        6.9220E-02        5.0600E-03
+        1.5800E+01        1.0000E-01        2.7170E-02        1.9900E-03
+        1.4700E+01        1.4000E-01        8.9900E-03        6.9000E-04

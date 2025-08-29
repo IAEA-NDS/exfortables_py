@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32782-003-3 
-# EXFOR reaction        : (37-RB-87(N,2N)37-RB-86,,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4800e+01 MeV 
-# target                : Rb-87 
-# product               : Rb-86 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Junhua Luo 
-# institute             : (3CPRHXU): Hexi University , Zhangye 
-# reference             : (J,RCA,106,709,2018) 
-# year                  : 2018 
-# facility              : (NGEN): Neutron generator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32782.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32782
+# Header: 
+#   Title: 37-RB-87(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 37 
+#   A: 87 
+#   Nuclide: 37-RB-87 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 86 
+#   Nuclide: 37-RB-86 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32782-003-3 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-87(N,2N)37-RB-86,,SIG) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRHXU): Hexi University , Zhangye 
+#   Reference:  (J,RCA,106,709,2018) 
+#   Year:  2018 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32782.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32782
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3500E+01        2.0000E-01        1.2230E+00        9.9000E-02

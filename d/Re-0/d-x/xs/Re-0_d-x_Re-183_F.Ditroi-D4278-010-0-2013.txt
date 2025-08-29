@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 75-RE-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 75 
+#   A: 0 
+#   Nuclide: 75-RE-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.5200e+01 MeV - 3.8500e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 183 
+#   Nuclide: 75-RE-183 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4278-010-0 (entry-subentry-pointer) 
+#   Reaction code: (75-RE-0(D,X)75-RE-183,CUM,SIG) 
+#   First author: F.Ditroi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,296,92,2013) 
+#   Year:  2013 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4278.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4278
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.8500E+01        3.0000E-01        3.8370E-01        4.5300E-02
+        3.5600E+01        3.0000E-01        4.7030E-01        5.5200E-02
+        3.2400E+01        4.0000E-01        4.8340E-01        5.6000E-02
+        2.9000E+01        4.0000E-01        3.6640E-01        4.3200E-02
+        2.5200E+01        5.0000E-01        1.4400E-01        1.8600E-02

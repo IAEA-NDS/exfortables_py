@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32871-007-0 
-# EXFOR reaction        : (54-XE-130(N,P)53-I-130-G,M+,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4800e+01 MeV 
-# target                : Xe-130 
-# product               : I-130-G 
-# level energy          : - 
-# MF-MT number          : 3 - 103 
-# first author          : Junhua Luo 
-# institute             : (3CPRCPR): China, People's Rep. 
-# reference             : (J,CPH/C,46,044001,2022) 
-# year                  : 2022 
-# facility              : (NGEN): Neutron generator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32871.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32871
+# Header: 
+#   Title: 54-XE-130(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 54 
+#   A: 130 
+#   Nuclide: 54-XE-130 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 130 
+#   Nuclide: 53-I-130-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32871-007-0 (entry-subentry-pointer) 
+#   Reaction code: (54-XE-130(N,P)53-I-130-G,M+,SIG) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRCPR): China, People's Rep. 
+#   Reference:  (J,CPH/C,46,044001,2022) 
+#   Year:  2022 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32871.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32871
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3500E+01        2.0000E-01        6.7000E-03        7.0000E-04

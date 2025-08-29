@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 65-TB-159(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 65 
+#   A: 159 
+#   Nuclide: 65-TB-159 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.6800e-10 MeV - 2.5300e-08 MeV 
+# Residual: 
+#   Z: 65 
+#   A: 160 
+#   Nuclide: 65-TB-160 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22450-028-2 (entry-subentry-pointer) 
+#   Reaction code: (65-TB-159(N,G)65-TB-160,,SIG,,,DERIV) 
+#   First author: K.Knopf 
+#   Institute:  (2GERMUN): Technische Universitaet Muenchen 
+#   Reference:  (J,ZP/A,357,297,1997) 
+#   Year:  1997 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22450.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22450
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.6800E-10        0.0000E+00               NAN        0.0000E+00
+        2.5300E-08        0.0000E+00        3.0000E+01        2.0000E+00

@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 53-I-127(G,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 53 
+#   A: 127 
+#   Nuclide: 53-I-127 
+# Reaction: 
+#   Process: G,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  9.8000e+02 MeV - 7.4000e+03 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 119 
+#   Nuclide: 52-TE-119-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: G0088-009-0 (entry-subentry-pointer) 
+#   Reaction code: (53-I-127(G,X)52-TE-119-M,CUM,SIG,,BRA) 
+#   First author: G.Andersson 
+#   Institute:  (2SWDLND): Lund University + Tech.University  
+#   Reference:  (J,NP/A,197,44,1972) 
+#   Year:  1972 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G00/G0088.x4 
+#   nds:  https://nds.iaea.org/EXFOR/G0088
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.8000E+02        0.0000E+00        1.8600E-03        0.0000E+00
+        1.3000E+03        0.0000E+00        2.1800E-03        0.0000E+00
+        1.6000E+03        0.0000E+00        2.2900E-03        0.0000E+00
+        2.0000E+03        0.0000E+00        2.4300E-03        0.0000E+00
+        2.5000E+03        0.0000E+00        2.4700E-03        0.0000E+00
+        3.2000E+03        0.0000E+00        2.6100E-03        0.0000E+00
+        4.0000E+03        0.0000E+00        2.6700E-03        0.0000E+00
+        5.0000E+03        0.0000E+00        2.7800E-03        0.0000E+00
+        6.0000E+03        0.0000E+00        2.8800E-03        0.0000E+00
+        7.4000E+03        0.0000E+00        2.8800E-03        0.0000E+00

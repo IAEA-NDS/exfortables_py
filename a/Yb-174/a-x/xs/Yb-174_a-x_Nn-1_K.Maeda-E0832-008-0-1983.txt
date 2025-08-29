@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 70-YB-174(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 70 
+#   A: 174 
+#   Nuclide: 70-YB-174 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.0000e+01 MeV - 1.2000e+02 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 1 
+#   Nuclide: 0-NN-1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E0832-008-0 (entry-subentry-pointer) 
+#   Reaction code: (70-YB-174(A,X)0-NN-1,NUM,SIG) 
+#   First author: K.Maeda 
+#   Institute:  (2JPNOSA): Osaka University , Osaka 
+#   Reference:  (J,PR/C,28,635,1983) 
+#   Year:  1983 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E08/E0832.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E0832
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E+02        0.0000E+00        2.1140E-02        5.7870E-03
+        1.2000E+02        0.0000E+00        6.9030E-02        3.0840E-02
+        1.2000E+02        0.0000E+00        5.2780E-02        1.0810E-02
+        1.2000E+02        0.0000E+00        9.2350E-02        2.5180E-02
+        1.2000E+02        0.0000E+00        1.5550E-01        2.7040E-02
+        1.2000E+02        0.0000E+00        1.9790E-01        4.2530E-02
+        1.2000E+02        0.0000E+00        1.2660E-01        2.7210E-02
+        9.0000E+01        0.0000E+00        3.7070E-02        7.5740E-03
+        9.0000E+01        0.0000E+00        9.7200E-02        1.6860E-02
+        9.0000E+01        0.0000E+00        2.3920E-01        4.6450E-02
+        9.0000E+01        0.0000E+00        3.8710E-01        5.2430E-02
+        9.0000E+01        0.0000E+00        1.7590E-01        3.0510E-02
+        7.0000E+01        0.0000E+00        1.2910E-02        2.9070E-03
+        7.0000E+01        0.0000E+00        9.1880E-02        1.6570E-02
+        7.0000E+01        0.0000E+00        2.7480E-01        6.1880E-02
+        7.0000E+01        0.0000E+00        5.0560E-01        7.1770E-02

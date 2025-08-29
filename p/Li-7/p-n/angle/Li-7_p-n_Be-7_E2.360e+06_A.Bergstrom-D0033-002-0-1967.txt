@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 3-LI-7(P,N)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 7 
+#   Nuclide: 3-LI-7 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 4 - 4 
+#   Incident energy:  2.3600e+00 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0033-002-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-7(P,N)4-BE-7,,DA) 
+#   First author: A.Bergstrom 
+#   Institute:  (2SWDFOA): Research Institute for National Defence, Stockholm 
+#   Reference:  (J,AF,34,153,19670303) 
+#   Year:  1967 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D00/D0033.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0033
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+        1.0000E+00        0.0000E+00        7.2304E-02        3.6152E-03
+        8.9680E-01        0.0000E+00        6.5579E-02        3.2789E-03
+        6.1790E-01        0.0000E+00        5.0952E-02        2.5476E-03
+        2.4130E-01        0.0000E+00        3.7353E-02        1.3676E-03
+       -5.0900E-02        0.0000E+00        2.7175E-02        1.3587E-03
+       -1.4500E-01        0.0000E+00        2.3297E-02        1.1664E-03
+       -4.7470E-01        0.0000E+00        1.5376E-02        7.6880E-04
+       -5.4350E-01        0.0000E+00        1.4461E-02        7.2300E-04
+       -7.1990E-01        0.0000E+00        1.1393E-02        5.6960E-04
+       -8.8170E-01        0.0000E+00        6.9388E-03        3.0190E-04

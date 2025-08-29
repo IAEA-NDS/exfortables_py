@@ -1,17 +1,30 @@
-# entry-subent-pointer  : S0041-003-0 
-# EXFOR reaction        : (26-FE-56(P,2N)27-CO-55,,SIG) 
-# incident energy       : 1.5946e+01 MeV - 1.8864e+01 MeV 
-# target                : Fe-56 
-# product               : Co-55 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Zhao Wenrong 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CNP,15,(4),337,199312) 
-# year                  : 1993 
-# facility              : (VDGT): Tandem van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S00/S0041.x4 
-# nds                   : https://nds.iaea.org/EXFOR/S0041
+# Header: 
+#   Title: 26-FE-56(P,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 56 
+#   Nuclide: 26-FE-56 
+# Reaction: 
+#   Process: P,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5946e+01 MeV - 1.8864e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 55 
+#   Nuclide: 27-CO-55 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: S0041-003-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-56(P,2N)27-CO-55,,SIG) 
+#   First author: Zhao Wenrong 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CNP,15,(4),337,199312) 
+#   Year:  1993 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S00/S0041.x4 
+#   nds:  https://nds.iaea.org/EXFOR/S0041
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.5946E+01        8.4000E-02        1.3000E-03        8.0000E-05

@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 92-U-238(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.0000e+00 MeV - 4.3000e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0241-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(P,F),,SIG) 
+#   First author: N.N.Ajitanand 
+#   Institute:  (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference:  (J,PRL,58,1520,1987) 
+#   Year:  1987 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0241.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0241
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        5.0000E-10        1.0000E-10
+        1.5000E+00        0.0000E+00        1.0000E-09        2.0000E-10
+        2.0000E+00        0.0000E+00        3.0000E-10        6.0000E-11
+        2.5000E+00        0.0000E+00        3.0000E-10        6.0000E-11
+        3.0000E+00        0.0000E+00        2.0000E-09        4.0000E-10
+        3.5000E+00        0.0000E+00        1.1000E-09        2.2000E-10
+        4.0000E+00        0.0000E+00        2.4700E-08        4.9400E-09
+        4.3000E+00        0.0000E+00        7.2300E-08        1.4460E-08

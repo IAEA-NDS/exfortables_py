@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 26-FE-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 0 
+#   Nuclide: 26-FE-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.2000e+03 MeV - 2.6000e+03 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 55 
+#   Nuclide: 27-CO-55 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0277-120-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-0(P,X)27-CO-55,,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,NIM/B,103,183,1995) 
+#   Year:  1995 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0277.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0277
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E+03        0.0000E+00        1.5600E-04        2.8000E-05
+        1.6000E+03        0.0000E+00        1.8800E-04        3.1000E-05
+        2.6000E+03        0.0000E+00        5.9000E-05        1.3000E-05

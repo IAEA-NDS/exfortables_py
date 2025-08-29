@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 26-FE-57(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 57 
+#   Nuclide: 26-FE-57 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  4.3000e+00 MeV - 6.5000e+00 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 54 
+#   Nuclide: 24-CR-54 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41653-003-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-57(N,A)24-CR-54,,SIG) 
+#   First author: T.Khromyleva 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (J,NSE,191,282,2018) 
+#   Year:  2018 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41653.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41653
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.3000E+00        1.3000E-01        1.1900E-03        2.0000E-04
+        4.5000E+00        1.1000E-01        1.6500E-03        2.0000E-04
+        5.0000E+00        9.0000E-02        2.4500E-03        3.7000E-04
+        5.5000E+00        8.0000E-02        3.3500E-03        3.4000E-04
+        6.0000E+00        7.0000E-02        3.3800E-03        3.8000E-04
+        6.5000E+00        6.0000E-02        4.0100E-03        4.7000E-04

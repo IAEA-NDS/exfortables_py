@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 17-CL-36(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 17 
+#   A: 36 
+#   Nuclide: 17-CL-36 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  3.0000e-02 MeV 
+# Residual: 
+#   Z: 16 
+#   A: 36 
+#   Nuclide: 16-S-36 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22749-017-0 (entry-subentry-pointer) 
+#   Reaction code: (17-CL-36(N,P)16-S-36,,SIG,,MXW,DERIV) 
+#   First author: H.Schatz 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,PR/C,51,379,1995) 
+#   Year:  1995 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22749.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22749
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        9.6000E-02        8.0000E-03

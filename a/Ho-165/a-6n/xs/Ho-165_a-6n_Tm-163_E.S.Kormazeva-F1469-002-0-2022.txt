@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 67-HO-165(A,6N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 67 
+#   A: 165 
+#   Nuclide: 67-HO-165 
+# Reaction: 
+#   Process: A,6N 
+#   MF-MT number: 3 - 153 
+#   Incident energy:  5.5500e+01 MeV - 5.8800e+01 MeV 
+# Residual: 
+#   Z: 69 
+#   A: 163 
+#   Nuclide: 69-TM-163 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1469-002-0 (entry-subentry-pointer) 
+#   Reaction code: (67-HO-165(A,6N)69-TM-163,,SIG) 
+#   First author: E.S.Kormazeva 
+#   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference:  (J,JRN,331,4259,2022) 
+#   Year:  2022 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F14/F1469.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1469
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.8800E+01        6.0000E-01        4.0100E-02        7.0000E-03
+        5.5500E+01        7.0000E-01        2.9000E-03        9.0000E-04

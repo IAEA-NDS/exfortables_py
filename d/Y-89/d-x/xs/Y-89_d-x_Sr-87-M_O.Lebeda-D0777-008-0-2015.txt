@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 39-Y-89(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.8800e+00 MeV - 1.9490e+01 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 87 
+#   Nuclide: 38-SR-87-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0777-008-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(D,X)38-SR-87-M,,SIG) 
+#   First author: O.Lebeda 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,NIM/B,360,118,2015) 
+#   Year:  2015 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D07/D0777.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0777
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.8800E+00        6.2000E-01        5.6200E-06        6.1000E-07
+        5.0400E+00        5.0000E-01        7.1000E-05        7.5000E-06
+        6.0400E+00        4.3000E-01        2.7300E-04        2.9000E-05
+        7.7400E+00        3.4000E-01        9.9300E-04        1.0500E-04
+        8.9300E+00        3.0000E-01        1.5400E-03        1.6400E-04
+        1.0030E+01        2.6000E-01        2.0280E-03        2.1600E-04
+        1.1060E+01        2.3000E-01        2.4250E-03        2.5800E-04
+        1.1740E+01        4.3000E-01        2.5850E-03        2.7400E-04
+        1.3000E+01        3.8000E-01        2.6580E-03        2.8200E-04
+        1.4180E+01        3.4000E-01        2.6040E-03        2.7600E-04
+        1.5290E+01        3.1000E-01        2.5330E-03        2.6900E-04
+        1.6360E+01        2.8000E-01        2.3490E-03        2.4900E-04
+        1.7360E+01        2.6000E-01        2.3090E-03        2.4500E-04
+        1.8320E+01        2.3000E-01        2.2190E-03        2.3500E-04
+        1.9490E+01        2.1000E-01        2.0590E-03        2.1800E-04

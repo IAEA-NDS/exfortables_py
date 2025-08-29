@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 35-BR-79(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 35 
+#   A: 79 
+#   Nuclide: 35-BR-79 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.7070e+01 MeV - 3.7520e+01 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 77 
+#   Nuclide: 35-BR-77 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1967-006-0 (entry-subentry-pointer) 
+#   Reaction code: (35-BR-79(A,X)35-BR-77,,SIG) 
+#   First author: Y.Homma 
+#   Institute:  (2JPNKYO): Kyoritsu College of Pharmacy, Tokyo 
+#   Reference:  (J,ARI,30,345,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1967.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1967
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7070E+01        0.0000E+00        1.0560E-03        2.9030E-04
+        3.0790E+01        0.0000E+00        3.1630E-03        5.9340E-04
+        3.4310E+01        0.0000E+00        7.5060E-03        1.1420E-03
+        3.7520E+01        0.0000E+00        1.5300E-02        2.3270E-03

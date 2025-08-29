@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 82-PB-208(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 82 
+#   A: 208 
+#   Nuclide: 82-PB-208 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 207 
+#   Nuclide: 82-PB-207-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30562-014-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-208(N,2N)82-PB-207-M,,SIG) 
+#   First author: P.N.Ngoc 
+#   Institute:  (3HUNELU): Eotvos Lorand University , Budapest 
+#   Reference:  (T,NGOC,1980) 
+#   Year:  1980 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30562.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30562
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        2.0000E-01        1.2740E+00        9.7000E-02

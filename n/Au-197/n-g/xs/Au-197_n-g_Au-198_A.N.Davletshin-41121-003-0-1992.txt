@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 79-AU-197(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  8.1330e-01 MeV - 2.4350e+00 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 198 
+#   Nuclide: 79-AU-198 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41121-003-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,G)79-AU-198,,SIG) 
+#   First author: A.N.Davletshin 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (J,YK,,(1),41,1992) 
+#   Year:  1992 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41121.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41121
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.1330E-01        3.5300E-02        9.2200E-02        4.0568E-03
+        1.0300E+00        3.3000E-02        8.0400E-02        2.7336E-03
+        1.5330E+00        3.0000E-02        7.0900E-02        2.6588E-03
+        2.0360E+00        3.0000E-02        4.8200E-02        1.7834E-03
+        2.4350E+00        3.1000E-02        3.5600E-02        1.3172E-03

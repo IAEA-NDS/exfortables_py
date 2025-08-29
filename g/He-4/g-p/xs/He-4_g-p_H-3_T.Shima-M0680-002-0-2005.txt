@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 2-HE-4(G,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+# Reaction: 
+#   Process: G,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  2.1800e+01 MeV - 2.9800e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M0680-002-0 (entry-subentry-pointer) 
+#   Reaction code: (2-HE-4(G,P)1-H-3,,SIG) 
+#   First author: T.Shima 
+#   Institute:  (2JPNOSA): Osaka University , Osaka 
+#   Reference:  (J,PR/C,72,044004,2005) 
+#   Year:  2005 
+#   Facility:  (ESTRG): Electron storage ring 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M06/M0680.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0680
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1800E+01        1.7004E+00        1.9000E-04        0.0000E+00
+        2.4300E+01        1.8954E+00        7.1000E-04        0.0000E+00
+        2.6500E+01        2.0670E+00        8.9000E-04        0.0000E+00
+        2.9800E+01        2.3244E+00        1.3900E-03        0.0000E+00

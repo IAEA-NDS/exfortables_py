@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 30935-008-0 
-# EXFOR reaction        : (71-LU-175(N,2N)71-LU-174-G,,SIG) 
-# incident energy       : 1.3540e+01 MeV - 1.4810e+01 MeV 
-# target                : Lu-175 
-# product               : Lu-174-G 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Wang Xiuyuan 
-# institute             : (3CPRSIU): Sichuan University , Chengdu 
-# reference             : (W,WANG,19890712) 
-# year                  : 1989 
-# facility              : None 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30935.x4 
-# nds                   : https://nds.iaea.org/EXFOR/30935
+# Header: 
+#   Title: 71-LU-175(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 71 
+#   A: 175 
+#   Nuclide: 71-LU-175 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3540e+01 MeV - 1.4810e+01 MeV 
+# Residual: 
+#   Z: 71 
+#   A: 174 
+#   Nuclide: 71-LU-174-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30935-008-0 (entry-subentry-pointer) 
+#   Reaction code: (71-LU-175(N,2N)71-LU-174-G,,SIG) 
+#   First author: Wang Xiuyuan 
+#   Institute:  (3CPRSIU): Sichuan University , Chengdu 
+#   Reference:  (W,WANG,19890712) 
+#   Year:  1989 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30935.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30935
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.4810E+01        2.9000E-01        1.3914E+00        7.0200E-02

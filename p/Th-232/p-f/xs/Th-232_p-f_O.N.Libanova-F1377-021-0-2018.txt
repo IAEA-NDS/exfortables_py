@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 90-TH-232(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  2.1000e+01 MeV - 1.4130e+02 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 154 
+#   Nuclide: 63-EU-154 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1377-021-0 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(P,F)63-EU-154,,SIG) 
+#   First author: O.N.Libanova 
+#   Institute:  (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
+#   Reference:  (J,FCY/L,15,234,2018) 
+#   Year:  2018 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F13/F1377.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1377
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4130E+02        1.0000E+00        5.2000E-04        1.6000E-04
+        1.1790E+02        2.1000E+00        7.9000E-04        3.0000E-04
+        1.0630E+02        2.8000E+00        2.5000E-04        2.5000E-04
+        9.3800E+01        3.8000E+00        4.0000E-04        1.7000E-04
+        8.7100E+01        4.5000E+00        3.8000E-04        1.5000E-04
+        7.9900E+01        5.3000E+00        6.1000E-04        3.4000E-04
+        7.4800E+01        9.0000E-01        4.7000E-04        1.8000E-04
+        6.6900E+01        1.4000E+00        3.8000E-04        1.1000E-04
+        5.8000E+01        2.2000E+00        3.6000E-04        2.2000E-04
+        4.7900E+01        3.5000E+00        3.9000E-04        1.3000E-04
+        2.1000E+01        8.1000E+00        4.4000E-04        1.5000E-04

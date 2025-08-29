@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 7-N-14(G,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 7 
+#   A: 14 
+#   Nuclide: 7-N-14 
+# Reaction: 
+#   Process: G,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.5000e+01 MeV - 8.5000e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: G4048-003-0 (entry-subentry-pointer) 
+#   Reaction code: (7-N-14(G,X)4-BE-7,,SIG,,BRS) 
+#   First author: A.N.Dovbnua 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,PAN,77,805,2014) 
+#   Year:  2014 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G40/G4048.x4 
+#   nds:  https://nds.iaea.org/EXFOR/G4048
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5000E+01        0.0000E+00        3.2000E-05        5.0000E-06
+        5.5000E+01        0.0000E+00        4.6000E-05        5.0000E-06
+        6.5000E+01        0.0000E+00        4.8000E-05        5.0000E-06
+        7.5000E+01        0.0000E+00        5.3000E-05        5.0000E-06
+        8.5000E+01        0.0000E+00        5.2000E-05        5.0000E-06

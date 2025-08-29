@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 45-RH-103(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.2000e-01 MeV - 3.0000e+00 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 104 
+#   Nuclide: 45-RH-104 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20787-002-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,G)45-RH-104,,SIG) 
+#   First author: S.Joly 
+#   Institute:  (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
+#   Reference:  (J,NSE,70,53,1979) 
+#   Year:  1979 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20787.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20787
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.2000E-01        8.0000E-02        1.1100E-01        8.0000E-03
+        7.2000E-01        8.0000E-02        9.2000E-02        7.0000E-03
+        9.4000E-01        7.0000E-02        6.4000E-02        7.0000E-03
+        2.0000E+00        6.0000E-02        4.8000E-02        6.0000E-03
+        3.0000E+00        5.0000E-02        1.7000E-02        3.0000E-03

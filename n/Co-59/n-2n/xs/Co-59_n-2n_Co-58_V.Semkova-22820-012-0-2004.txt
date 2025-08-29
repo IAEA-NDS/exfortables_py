@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 27-CO-59(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3320e+01 MeV - 2.0350e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22820-012-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,2N)27-CO-58,,SIG) 
+#   First author: V.Semkova 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,NP/A,730,255,2004) 
+#   Year:  2004 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22820.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22820
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3320E+01        2.5000E-01        6.1400E-01        3.6000E-02
+        1.4810E+01        1.7000E-01        7.7000E-01        2.6000E-02
+        1.5270E+01        1.6000E-01        7.8700E-01        4.4000E-02
+        1.5560E+01        1.9000E-01        8.4100E-01        3.0000E-02
+        1.5680E+01        1.8000E-01        8.0000E-01        2.8000E-02
+        1.6260E+01        2.0000E-01        8.0800E-01        3.1000E-02
+        1.7030E+01        1.7000E-01        8.5300E-01        3.3000E-02
+        1.7980E+01        6.0000E-02        8.6900E-01        4.5000E-02
+        1.8040E+01        1.2000E-01        8.8700E-01        5.4000E-02
+        1.8360E+01        1.5000E-01        8.8900E-01        7.0000E-02
+        1.9280E+01        9.0000E-02        9.1000E-01        4.7000E-02
+        1.9940E+01        9.0000E-02        9.1500E-01        4.5000E-02
+        2.0350E+01        8.0000E-02        9.0000E-01        5.0000E-02

@@ -1,0 +1,51 @@
+# Header: 
+#   Title: 81-TL-205(P,4N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 81 
+#   A: 205 
+#   Nuclide: 81-TL-205 
+# Reaction: 
+#   Process: P,4N 
+#   MF-MT number: 3 - 37 
+#   Incident energy:  3.3870e+01 MeV - 5.8360e+01 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 202 
+#   Nuclide: 82-PB-202-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0180-004-0 (entry-subentry-pointer) 
+#   Reaction code: (81-TL-205(P,4N)82-PB-202-M,,SIG) 
+#   First author: M.C.Lagunas-Solar 
+#   Institute:  (1USADAV): University of California, Davis, CA 
+#   Reference:  (J,ARI,31,117,1980) 
+#   Year:  1980 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A01/A0180.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0180
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3870E+01        0.0000E+00        2.0970E-01        2.5164E-02
+        3.6060E+01        0.0000E+00        2.8400E-01        3.4080E-02
+        3.6370E+01        0.0000E+00        2.5840E-01        3.1008E-02
+        3.7980E+01        0.0000E+00        2.4770E-01        2.9724E-02
+        3.8350E+01        0.0000E+00        2.3520E-01        2.8224E-02
+        4.0040E+01        0.0000E+00        1.9740E-01        2.3688E-02
+        4.0540E+01        0.0000E+00        1.8330E-01        2.1996E-02
+        4.1870E+01        0.0000E+00        1.5760E-01        1.8912E-02
+        4.2310E+01        0.0000E+00        1.1980E-01        1.4376E-02
+        4.3190E+01        0.0000E+00        1.1780E-01        1.4136E-02
+        4.4190E+01        0.0000E+00        9.5600E-02        1.1472E-02
+        4.5210E+01        0.0000E+00        1.0160E-01        1.2192E-02
+        4.5610E+01        0.0000E+00        7.6400E-02        9.1680E-03
+        4.6590E+01        0.0000E+00        9.7000E-02        1.1640E-02
+        4.7590E+01        0.0000E+00        7.5300E-02        9.0360E-03
+        4.8100E+01        0.0000E+00        6.8800E-02        8.2560E-03
+        4.9750E+01        0.0000E+00        5.0600E-02        6.0720E-03
+        5.0210E+01        0.0000E+00        5.4100E-02        6.4920E-03
+        5.2280E+01        0.0000E+00        4.2400E-02        5.0880E-03
+        5.2840E+01        0.0000E+00        4.8900E-02        5.8680E-03
+        5.5550E+01        0.0000E+00        3.4700E-02        4.1640E-03
+        5.8360E+01        0.0000E+00        2.7100E-02        3.2520E-03

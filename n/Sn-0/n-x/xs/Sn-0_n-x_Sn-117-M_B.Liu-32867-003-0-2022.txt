@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 50-SN-0(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 0 
+#   Nuclide: 50-SN-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3600e+01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 117 
+#   Nuclide: 50-SN-117-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32867-003-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-0(N,X)50-SN-117-M,,SIG) 
+#   First author: B.Liu 
+#   Institute:  (3CPRIMP): Institute of Modern Physics, Academy Sinica, Lanzhou 
+#   Reference:  (J,ARI,184,110209,2022) 
+#   Year:  2022 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32867.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32867
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3600E+01        2.0000E-01        2.0240E-01        2.1000E-02

@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32656-002-0 
-# EXFOR reaction        : (34-SE-82(N,2N)34-SE-81-M,,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4600e+01 MeV 
-# target                : Se-82 
-# product               : Se-81-M 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Guozhu He 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,IPA,43,729,200510) 
-# year                  : 2005 
-# facility              : None 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32656.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32656
+# Header: 
+#   Title: 34-SE-82(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 34 
+#   A: 82 
+#   Nuclide: 34-SE-82 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4600e+01 MeV 
+# Residual: 
+#   Z: 34 
+#   A: 81 
+#   Nuclide: 34-SE-81-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32656-002-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-82(N,2N)34-SE-81-M,,SIG) 
+#   First author: Guozhu He 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,IPA,43,729,200510) 
+#   Year:  2005 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32656.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32656
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3500E+01        3.0000E-01        8.0500E-01        4.8000E-02

@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.1710e+00 MeV - 3.1140e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 12848-004-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F),,SIG) 
+#   First author: A.D.Carlson 
+#   Institute:  (1USANBS): National Bureau of Standards, Washington, DC 
+#   Reference:  (C,78HARWELL,,880,1978) 
+#   Year:  1978 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12848.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12848
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1710E+00        0.0000E+00        1.1830E+00        0.0000E+00
+        1.2880E+00        0.0000E+00        1.2050E+00        0.0000E+00
+        1.4040E+00        0.0000E+00        1.2250E+00        0.0000E+00
+        1.5350E+00        0.0000E+00        1.2630E+00        0.0000E+00
+        1.6860E+00        0.0000E+00        1.2480E+00        0.0000E+00
+        1.8300E+00        0.0000E+00        1.2600E+00        0.0000E+00
+        1.9580E+00        0.0000E+00        1.2440E+00        0.0000E+00
+        2.1000E+00        0.0000E+00        1.2450E+00        0.0000E+00
+        2.2590E+00        0.0000E+00        1.2660E+00        0.0000E+00
+        2.4360E+00        0.0000E+00        1.2570E+00        0.0000E+00
+        2.6350E+00        0.0000E+00        1.2180E+00        0.0000E+00
+        2.8600E+00        0.0000E+00        1.1670E+00        0.0000E+00
+        3.1140E+00        0.0000E+00        1.1350E+00        0.0000E+00

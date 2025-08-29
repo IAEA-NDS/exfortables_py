@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 33-AS-75(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 33 
+#   A: 75 
+#   Nuclide: 33-AS-75 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 32 
+#   A: 75 
+#   Nuclide: 32-GE-75 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10776-010-0 (entry-subentry-pointer) 
+#   Reaction code: (33-AS-75(N,P)32-GE-75,,SIG) 
+#   First author: R.A.Sigg 
+#   Institute:  (1USAARK): University of Arkansas, Fayetteville, AR 
+#   Reference:  (T,SIGG,1976) 
+#   Year:  1976 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10776.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10776
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        2.1900E-02        1.6000E-03

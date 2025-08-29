@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 28-NI-60(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  2.0000e+01 MeV - 3.9000e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 62 
+#   Nuclide: 30-ZN-62 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0017-003-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(A,2N)30-ZN-62,,SIG) 
+#   First author: S.N.Ghoshal 
+#   Institute:  (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
+#   Reference:  (J,PR,80,939,1950) 
+#   Year:  1950 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0017.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0017
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+01        0.0000E+00        1.2000E-02        0.0000E+00
+        2.3000E+01        0.0000E+00        6.2000E-02        0.0000E+00
+        2.6000E+01        0.0000E+00        1.1900E-01        0.0000E+00
+        2.8500E+01        0.0000E+00        1.7500E-01        0.0000E+00
+        3.1300E+01        0.0000E+00        2.2300E-01        1.7000E-02
+        3.3800E+01        0.0000E+00        2.2400E-01        0.0000E+00
+        3.6200E+01        0.0000E+00        1.5800E-01        0.0000E+00
+        3.9000E+01        0.0000E+00        1.2900E-01        0.0000E+00

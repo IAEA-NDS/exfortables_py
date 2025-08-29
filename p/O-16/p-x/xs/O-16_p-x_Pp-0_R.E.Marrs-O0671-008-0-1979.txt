@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 8-O-16(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4700e+02 MeV - 1.5440e+02 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 0 
+#   Nuclide: 1-PP-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0671-008-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(P,X)1-PP-0,,SIG) 
+#   First author: R.E.Marrs 
+#   Institute:  (1USAINU): Indiana University, Bloomington, IN 
+#   Reference:  (J,PR/C,20,2308,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0671.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0671
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+02        0.0000E+00        7.6000E-08        0.0000E+00
+        1.4870E+02        0.0000E+00        2.8000E-07        0.0000E+00
+        1.5010E+02        0.0000E+00        7.4000E-07        0.0000E+00
+        1.5250E+02        0.0000E+00        1.2800E-06        0.0000E+00
+        1.5440E+02        0.0000E+00        2.0300E-06        0.0000E+00

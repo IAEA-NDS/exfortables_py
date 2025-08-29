@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 26-FE-54(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 54 
+#   Nuclide: 26-FE-54 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.0000e+00 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 54 
+#   Nuclide: 25-MN-54 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31822-006-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-54(N,P)25-MN-54,,SIG,,SPA) 
+#   First author: N.Burianova 
+#   Institute:  (3CZRUJV): Research Centre Rez, Husinec-Rez 
+#   Reference:  (J,ARI,154,108855,2019) 
+#   Year:  2019 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31822.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31822
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        7.2994E-02        4.9636E-03

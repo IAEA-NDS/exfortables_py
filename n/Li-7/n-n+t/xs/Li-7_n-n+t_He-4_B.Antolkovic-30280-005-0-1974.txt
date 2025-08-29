@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 3-LI-7(N,N+T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 7 
+#   Nuclide: 3-LI-7 
+# Reaction: 
+#   Process: N,N+T 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4400e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: 4.6300e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 30280-005-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-7(N,N+T)2-HE-4,ISP,SIG) 
+#   First author: B.Antolkovic 
+#   Institute:  (3CRORBZ): Institute Rudjer Boskovic, Zagreb 
+#   Reference:  (J,NP/A,219,332,1974) 
+#   Year:  1974 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/302/30280.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30280
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4400E+01        0.0000E+00        1.5000E-01        1.5000E-02
+        1.4400E+01        0.0000E+00        5.4000E-02        0.0000E+00

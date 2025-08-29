@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32615-003-0 
-# EXFOR reaction        : (63-EU-151(N,G)63-EU-152-M1,,SIG) 
-# incident energy       : 3.6000e-02 MeV - 1.1200e+00 MeV 
-# target                : Eu-151 
-# product               : Eu-152-M1 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Yu Weixiang 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CNP,15,(1),71,1993) 
-# year                  : 1993 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32615.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32615
+# Header: 
+#   Title: 63-EU-151(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 63 
+#   A: 151 
+#   Nuclide: 63-EU-151 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.6000e-02 MeV - 1.1200e+00 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 152 
+#   Nuclide: 63-EU-152-M1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32615-003-0 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-151(N,G)63-EU-152-M1,,SIG) 
+#   First author: Yu Weixiang 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CNP,15,(1),71,1993) 
+#   Year:  1993 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32615.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32615
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         3.6000E-02        0.0000E+00        1.1710E+00        7.2000E-02

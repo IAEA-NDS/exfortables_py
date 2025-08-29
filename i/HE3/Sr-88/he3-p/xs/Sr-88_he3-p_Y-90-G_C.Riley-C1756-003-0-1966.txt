@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 38-SR-88(HE3,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 38 
+#   A: 88 
+#   Nuclide: 38-SR-88 
+# Reaction: 
+#   Process: HE3,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4000e+01 MeV - 1.9000e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 90 
+#   Nuclide: 39-Y-90-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1756-003-0 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-88(HE3,P)39-Y-90-G,,SIG) 
+#   First author: C.Riley 
+#   Institute:  (1USAFSU): Florida State University, Tallahassee, FL 
+#   Reference:  (J,NP,83,364,1966) 
+#   Year:  1966 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C17/C1756.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1756
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        0.0000E+00        5.2000E-03        1.3000E-03
+        1.4000E+01        0.0000E+00        4.7000E-03        1.1750E-03
+        1.5000E+01        0.0000E+00        5.9000E-03        1.4750E-03
+        1.6000E+01        0.0000E+00        6.4000E-03        1.6000E-03
+        1.7000E+01        0.0000E+00        6.7000E-03        1.6750E-03
+        1.8000E+01        0.0000E+00        7.0000E-03        1.7500E-03
+        1.9000E+01        0.0000E+00        5.7000E-03        1.4250E-03

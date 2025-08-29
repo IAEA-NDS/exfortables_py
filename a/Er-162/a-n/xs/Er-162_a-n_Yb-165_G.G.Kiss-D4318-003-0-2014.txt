@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 68-ER-162(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 68 
+#   A: 162 
+#   Nuclide: 68-ER-162 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.2180e+01 MeV - 1.6090e+01 MeV 
+# Residual: 
+#   Z: 70 
+#   A: 165 
+#   Nuclide: 70-YB-165 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4318-003-0 (entry-subentry-pointer) 
+#   Reaction code: (68-ER-162(A,N)70-YB-165,,SIG) 
+#   First author: G.G.Kiss 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,PL/B,735,40,2014) 
+#   Year:  2014 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4318.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4318
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2180E+01        7.0000E-02        3.8600E-06        8.2000E-07
+        1.2670E+01        7.0000E-02        1.2200E-05        1.6000E-06
+        1.3160E+01        6.0000E-02        5.3000E-05        5.6000E-06
+        1.3650E+01        6.0000E-02        1.6100E-04        1.4000E-05
+        1.4140E+01        7.0000E-02        6.1200E-04        6.6000E-05
+        1.5100E+01        8.0000E-02        3.6630E-03        3.4500E-04
+        1.6090E+01        8.0000E-02        1.7368E-02        1.6800E-03

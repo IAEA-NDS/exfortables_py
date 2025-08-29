@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 76-OS-188(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 76 
+#   A: 188 
+#   Nuclide: 76-OS-188 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3360e+01 MeV - 1.4960e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 188 
+#   Nuclide: 75-RE-188 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22637-084-0 (entry-subentry-pointer) 
+#   Reaction code: (76-OS-188(N,P)75-RE-188,,SIG) 
+#   First author: C.Konno 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (R,JAERI-1329,1993) 
+#   Year:  1993 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22637.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22637
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4960E+01        0.0000E+00        5.4000E-03        1.4000E-03
+        1.4690E+01        0.0000E+00        4.6600E-03        9.1000E-04
+        1.4450E+01        0.0000E+00        4.0100E-03        7.9000E-04
+        1.4230E+01        0.0000E+00        3.6100E-03        8.4000E-04
+        1.3990E+01        0.0000E+00        4.0500E-03        9.2000E-04
+        1.3760E+01        0.0000E+00        2.7400E-03        7.7000E-04
+        1.3580E+01        0.0000E+00        2.4000E-03        7.8000E-04
+        1.3360E+01        0.0000E+00        2.3600E-03        4.4000E-04

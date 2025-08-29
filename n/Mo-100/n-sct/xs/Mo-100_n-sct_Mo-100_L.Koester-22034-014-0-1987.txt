@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 42-MO-100(N,SCT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 100 
+#   Nuclide: 42-MO-100 
+# Reaction: 
+#   Process: N,SCT 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 100 
+#   Nuclide: 42-MO-100 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22034-014-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-100(N,SCT)42-MO-100,FA,SIG,,,DERIV) 
+#   First author: L.Koester 
+#   Institute:  (2GERMUN): Technische Universitaet Muenchen 
+#   Reference:  (J,ZP/A,326,227,1987) 
+#   Year:  1987 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22034.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22034
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        5.5000E+00        6.0000E-01

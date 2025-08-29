@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 50-SN-122(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 122 
+#   Nuclide: 50-SN-122 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 123 
+#   Nuclide: 50-SN-123-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23488-051-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-122(N,G)50-SN-123-M,,SIG) 
+#   First author: F.De Corte 
+#   Institute:  (2BLGGHT): Universiteit Gent, Gent 
+#   Reference:  (C,88MITO,,583,1988) 
+#   Year:  1988 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/234/23488.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23488
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.4600E-01        3.6500E-03

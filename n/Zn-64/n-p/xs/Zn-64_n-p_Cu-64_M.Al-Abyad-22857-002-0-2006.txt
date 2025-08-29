@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 30-ZN-64(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  3.0000e+00 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 64 
+#   Nuclide: 29-CU-64 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22857-002-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(N,P)29-CU-64,,SIG,,SPA) 
+#   First author: M.Al-Abyad 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,ARI,64,717,2006) 
+#   Year:  2006 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22857.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22857
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+00        0.0000E+00        1.3200E-01        2.5000E-02

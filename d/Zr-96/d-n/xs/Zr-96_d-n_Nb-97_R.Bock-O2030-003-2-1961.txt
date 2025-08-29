@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 40-ZR-96(D,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 96 
+#   Nuclide: 40-ZR-96 
+# Reaction: 
+#   Process: D,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  7.5000e+00 MeV - 9.4000e+00 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 97 
+#   Nuclide: 41-NB-97 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2030-003-2 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-96(D,N)41-NB-97,,SIG) 
+#   First author: R.Bock 
+#   Institute:  (2GERMPH): Max-Planck-Institut fuer Kernphysik, Heidelberg 
+#   Reference:  (J,ZP,164,546,1961) 
+#   Year:  1961 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2030.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2030
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.4000E+00        0.0000E+00               NAN        0.0000E+00
+        9.0000E+00        0.0000E+00               NAN        0.0000E+00
+        7.5000E+00        0.0000E+00        8.4000E-02        5.0000E-03

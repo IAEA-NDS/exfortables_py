@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 27-CO-59(N,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  2.7600e+01 MeV - 3.8300e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 57 
+#   Nuclide: 27-CO-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22702-008-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,3N)27-CO-57,,SIG) 
+#   First author: Y.Uno 
+#   Institute:  (2JPNTOK): University of Tokyo, Tokyo 
+#   Reference:  (J,NSE,122,247,1996) 
+#   Year:  1996 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22702.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22702
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7600E+01        1.7000E+00        2.4100E-01        2.7500E-02
+        3.2800E+01        1.5000E+00        2.9400E-01        3.0500E-02
+        3.8300E+01        1.4000E+00        2.1000E-01        2.8800E-02

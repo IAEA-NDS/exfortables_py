@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 1-H-1(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  4.5000e+01 MeV - 7.0000e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21989-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-1(N,G)1-H-2,,SIG) 
+#   First author: C.Dupont 
+#   Institute:  (2BLGBLG): Belgium 
+#   Reference:  (J,NP/A,445,13,851118) 
+#   Year:  1985 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21989.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21989
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5000E+01        1.5000E+00        1.7060E-05        0.0000E+00
+        5.0000E+01        1.4000E+00        1.6070E-05        0.0000E+00
+        5.5100E+01        1.3000E+00        1.5160E-05        0.0000E+00
+        6.1600E+01        1.6000E+00        1.4000E-05        0.0000E+00
+        7.0000E+01        1.0000E+00        1.3750E-05        0.0000E+00

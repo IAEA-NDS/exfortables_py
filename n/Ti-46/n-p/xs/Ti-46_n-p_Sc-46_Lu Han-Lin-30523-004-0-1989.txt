@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 30523-004-0 
-# EXFOR reaction        : (22-TI-46(N,P)21-SC-46,,SIG) 
-# incident energy       : 4.5000e+00 MeV - 1.7970e+01 MeV 
-# target                : Ti-46 
-# product               : Sc-46 
-# level energy          : - 
-# MF-MT number          : 3 - 103 
-# first author          : Lu Han-Lin 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (R,INDC(CPR)-16,198908) 
-# year                  : 1989 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30523.x4 
-# nds                   : https://nds.iaea.org/EXFOR/30523
+# Header: 
+#   Title: 22-TI-46(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 22 
+#   A: 46 
+#   Nuclide: 22-TI-46 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  4.5000e+00 MeV - 1.7970e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 46 
+#   Nuclide: 21-SC-46 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30523-004-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-46(N,P)21-SC-46,,SIG) 
+#   First author: Lu Han-Lin 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (R,INDC(CPR)-16,198908) 
+#   Year:  1989 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30523.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30523
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.7970E+01        2.7000E-01        2.9270E-01        1.7700E-02

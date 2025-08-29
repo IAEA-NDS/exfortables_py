@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 29-CU-65(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  2.9100e+01 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 65 
+#   Nuclide: 28-NI-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31834-011-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(N,P)28-NI-65,,SIG) 
+#   First author: D.Kral 
+#   Institute:  (3CZRCZR): Czech Republic 
+#   Reference:  (J,EPJ/CS,239,20004,2020) 
+#   Year:  2020 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31834.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31834
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9100E+01        0.0000E+00        1.2800E-02        1.9000E-03

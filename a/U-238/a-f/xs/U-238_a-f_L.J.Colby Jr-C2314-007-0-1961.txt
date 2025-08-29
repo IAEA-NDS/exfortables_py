@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 92-U-238(A,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: A,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.9800e+01 MeV - 3.9900e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2314-007-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(A,F),,SIG,,,DERIV) 
+#   First author: L.J.Colby Jr 
+#   Institute:  (1USAPUR): Purdue University, West Lafayette, IN 
+#   Reference:  (J,PR,121,1415,1961) 
+#   Year:  1961 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2314.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2314
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9800E+01        5.0000E-01        5.4000E-03        0.0000E+00
+        2.4200E+01        5.0000E-01        1.6800E-01        0.0000E+00
+        3.1000E+01        5.0000E-01        8.0000E-01        0.0000E+00
+        3.3800E+01        5.0000E-01        9.7000E-01        0.0000E+00
+        3.6800E+01        5.0000E-01        1.1270E+00        0.0000E+00
+        3.9900E+01        5.0000E-01        1.3170E+00        0.0000E+00

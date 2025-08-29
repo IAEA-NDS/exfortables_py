@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 22-TI-46(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 22 
+#   A: 46 
+#   Nuclide: 22-TI-46 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 46 
+#   Nuclide: 21-SC-46 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20734-003-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-46(N,P)21-SC-46,,SIG,,FIS) 
+#   First author: A.M.Bresesti 
+#   Institute:  (2ZZZISP): EC Joint Research Center (EC-JRC), Ispra 
+#   Reference:  (J,NSE,40,331,1970) 
+#   Year:  1970 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20734.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20734
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.0200E-02        4.0000E-04

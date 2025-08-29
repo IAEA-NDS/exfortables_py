@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 27-CO-59(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3550e+01 MeV - 2.1000e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 59 
+#   Nuclide: 26-FE-59 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20922-006-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,P)26-FE-59,,SIG) 
+#   First author: J.M.F.Jeronymo 
+#   Institute:  (2FR SAC): CEA/Saclay 
+#   Reference:  (J,NP,47,157,1963) 
+#   Year:  1963 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20922.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20922
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3550E+01        2.0000E-01        6.3900E-01        7.5000E-02
+        1.4900E+01        2.0000E-01        5.3400E-01        7.0000E-02
+        1.6500E+01        2.0000E-01        4.2800E-01        6.0000E-02
+        1.8150E+01        2.0000E-01        1.9500E-01        3.0000E-02
+        1.9600E+01        2.0000E-01        1.2000E-01        1.4000E-02
+        2.0600E+01        2.0000E-01        1.0500E-01        1.0000E-02
+        2.1000E+01        2.0000E-01        6.8000E-02        1.0000E-02

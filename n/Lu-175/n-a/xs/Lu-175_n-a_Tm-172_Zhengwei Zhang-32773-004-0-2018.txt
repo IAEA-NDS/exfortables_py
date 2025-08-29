@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32773-004-0 
-# EXFOR reaction        : (71-LU-175(N,A)69-TM-172,,SIG) 
-# incident energy       : 1.4100e+01 MeV - 1.4700e+01 MeV 
-# target                : Lu-175 
-# product               : Tm-172 
-# level energy          : - 
-# MF-MT number          : 3 - 107 
-# first author          : Zhengwei Zhang 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,ARI,132,61,2018) 
-# year                  : 2018 
-# facility              : (NGEN): Neutron generator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32773.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32773
+# Header: 
+#   Title: 71-LU-175(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 71 
+#   A: 175 
+#   Nuclide: 71-LU-175 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4100e+01 MeV - 1.4700e+01 MeV 
+# Residual: 
+#   Z: 69 
+#   A: 172 
+#   Nuclide: 69-TM-172 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32773-004-0 (entry-subentry-pointer) 
+#   Reaction code: (71-LU-175(N,A)69-TM-172,,SIG) 
+#   First author: Zhengwei Zhang 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,ARI,132,61,2018) 
+#   Year:  2018 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32773.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32773
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.4100E+01        3.0000E-01        1.3000E-03        1.0000E-04

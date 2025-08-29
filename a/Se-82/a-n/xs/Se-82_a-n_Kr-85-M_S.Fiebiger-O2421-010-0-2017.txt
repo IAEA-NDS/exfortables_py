@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 34-SE-82(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 34 
+#   A: 82 
+#   Nuclide: 34-SE-82 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.2000e+01 MeV - 1.4000e+01 MeV 
+# Residual: 
+#   Z: 36 
+#   A: 85 
+#   Nuclide: 36-KR-85-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2421-010-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-82(A,N)36-KR-85-M,,SIG,,,DERIV) 
+#   First author: S.Fiebiger 
+#   Institute:  (2GERFRK): J.W.Goethe University , Frankfurt/Main 
+#   Reference:  (J,JP/G,44,075101,2017) 
+#   Year:  2017 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O24/O2421.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2421
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E+01        0.0000E+00        3.7500E-02        0.0000E+00
+        1.4000E+01        0.0000E+00        1.6900E-02        0.0000E+00

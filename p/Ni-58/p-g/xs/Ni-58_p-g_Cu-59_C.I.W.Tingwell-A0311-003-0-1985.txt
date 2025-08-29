@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 28-NI-58(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.1380e+00 MeV - 4.0900e+00 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 59 
+#   Nuclide: 29-CU-59 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0311-003-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(P,G)29-CU-59,,SIG) 
+#   First author: C.I.W.Tingwell 
+#   Institute:  (3AULAML): University of Melbourne, Parkville, Victoria 
+#   Reference:  (J,NP/A,439,371,1985) 
+#   Year:  1985 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A03/A0311.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0311
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1380E+00        1.2000E-02        6.7000E-07        0.0000E+00
+        1.3430E+00        1.2000E-02        7.4000E-06        0.0000E+00
+        1.5540E+00        1.2000E-02        5.6500E-06        0.0000E+00
+        1.9750E+00        1.2000E-02        8.7000E-06        0.0000E+00
+        2.1840E+00        1.2000E-02        1.7700E-05        0.0000E+00
+        2.3860E+00        1.2000E-02        1.3800E-05        0.0000E+00
+        2.5970E+00        1.2000E-02        1.8500E-05        0.0000E+00
+        2.7370E+00        1.2000E-02        2.0000E-05        0.0000E+00
+        2.8790E+00        1.2000E-02        3.3700E-05        0.0000E+00
+        3.0310E+00        1.2000E-02        3.8800E-05        0.0000E+00
+        3.1860E+00        1.2000E-02        3.5800E-05        0.0000E+00
+        3.3290E+00        1.2000E-02        4.0700E-05        0.0000E+00
+        3.4900E+00        1.2000E-02        8.1500E-05        0.0000E+00
+        3.6480E+00        1.2000E-02        5.0100E-05        0.0000E+00
+        3.7990E+00        1.2000E-02        5.9100E-05        0.0000E+00
+        3.9830E+00        1.2000E-02        6.5700E-05        0.0000E+00
+        4.0900E+00        1.2000E-02        7.8100E-05        0.0000E+00

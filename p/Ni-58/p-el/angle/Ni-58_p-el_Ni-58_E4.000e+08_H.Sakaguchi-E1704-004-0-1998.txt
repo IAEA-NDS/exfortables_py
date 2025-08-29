@@ -1,0 +1,56 @@
+# Header: 
+#   Title: 28-NI-58(P,EL)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: P,EL 
+#   MF-MT number: 4 - 2 
+#   Incident energy:  4.0000e+02 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1704-004-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(P,EL)28-NI-58,,DA) 
+#   First author: H.Sakaguchi 
+#   Institute:  (2JPNKTO): Kyoto University , Kyoto 
+#   Reference:  (J,PR/C,57,(4),1749,199804) 
+#   Year:  1998 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E17/E1704.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1704
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+        4.0990E+00        0.0000E+00        9.2630E+00        8.7000E-02
+        5.6350E+00        0.0000E+00        4.8520E+00        2.7000E-02
+        7.1720E+00        0.0000E+00        1.7910E+00        9.0000E-03
+        8.7090E+00        0.0000E+00        4.4950E-01        2.6000E-03
+        1.0245E+01        0.0000E+00        3.4720E-02        3.2000E-04
+        1.1782E+01        0.0000E+00        3.6760E-02        2.6000E-04
+        1.3318E+01        0.0000E+00        6.8490E-02        5.1000E-04
+        1.4854E+01        0.0000E+00        5.9450E-02        4.3000E-04
+        1.6389E+01        0.0000E+00        3.0260E-02        2.3000E-04
+        1.7925E+01        0.0000E+00        8.8310E-03        7.0000E-05
+        1.9460E+01        0.0000E+00        1.8450E-03        9.0000E-06
+        2.0995E+01        0.0000E+00        2.4050E-03        1.6000E-05
+        2.2529E+01        0.0000E+00        3.4600E-03        1.7000E-05
+        2.4063E+01        0.0000E+00        2.9050E-03        2.6000E-05
+        2.5597E+01        0.0000E+00        1.5060E-03        1.1000E-05
+        2.7130E+01        0.0000E+00        4.8790E-04        3.7000E-06
+        2.8663E+01        0.0000E+00        1.5050E-04        1.8000E-06
+        3.0195E+01        0.0000E+00        1.6980E-04        1.7000E-06
+        3.1727E+01        0.0000E+00        2.0630E-04        2.5000E-06
+        3.3258E+01        0.0000E+00        1.6090E-04        1.6000E-06
+        3.4789E+01        0.0000E+00        8.2880E-05        9.2000E-07
+        3.6319E+01        0.0000E+00        2.5670E-05        5.8000E-07
+        3.7849E+01        0.0000E+00        8.0020E-06        2.1100E-07
+        3.9378E+01        0.0000E+00        7.5570E-06        2.5400E-07
+        4.0907E+01        0.0000E+00        9.6770E-06        2.4200E-07
+        4.2435E+01        0.0000E+00        7.4640E-06        2.5100E-07
+        4.3962E+01        0.0000E+00        4.0440E-06        2.0400E-07

@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 45-RH-103(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.2000e+00 MeV - 1.4000e+01 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11697-002-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,INL)45-RH-103-M,,SIG) 
+#   First author: W.G.Cross 
+#   Institute:  (1CANCRC): A.E.C.L., Chalk River, Ontario 
+#   Reference:  (P,EANDC(CAN)-17,1,6310) 
+#   Year:  1963 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11697.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11697
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2000E+00        0.0000E+00        6.8000E-01        0.0000E+00
+        2.6000E+00        0.0000E+00        8.4000E-01        1.1000E-01
+        2.8600E+00        0.0000E+00        8.7000E-01        0.0000E+00
+        1.4000E+01        0.0000E+00        3.0000E-01        4.0000E-02

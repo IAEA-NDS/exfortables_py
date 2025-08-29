@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 1-H-3(P,N)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 4 - 4 
+#   Incident energy:  9.4200e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1159-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-3(P,N)2-HE-3,,DA) 
+#   First author: W.E.Wilson 
+#   Institute:  (1USAWIS): University of Wisconsin, Madison, WI 
+#   Reference:  (J,NP,27,421,1961) 
+#   Year:  1961 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A11/A1159.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1159
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+       -9.4510E-01        3.3000E-03        4.6230E-02        6.9345E-03
+       -8.9580E-01        3.3000E-03        3.9730E-02        5.9595E-03
+       -8.2730E-01        3.3000E-03        3.1480E-02        4.7220E-03
+       -7.4110E-01        3.3000E-03        2.1880E-02        3.2820E-03
+       -6.3310E-01        3.3000E-03        1.4880E-02        2.2320E-03
+       -5.0900E-01        3.3000E-03        1.0360E-02        1.5540E-03
+       -3.5770E-01        3.3000E-03        1.0290E-02        1.5435E-03
+       -1.8460E-01        3.3000E-03        1.0330E-02        1.5495E-03
+        6.1000E-03        3.3000E-03        1.2550E-02        1.8825E-03
+        2.0370E-01        3.3000E-03        1.2390E-02        1.8585E-03
+        4.0400E-01        3.3000E-03        1.1820E-02        1.7730E-03
+        5.8940E-01        3.3000E-03        1.1550E-02        1.7325E-03
+        7.5150E-01        3.3000E-03        1.1690E-02        1.7535E-03
+        8.7830E-01        3.3000E-03        1.1930E-02        1.7895E-03
+        9.5990E-01        3.3000E-03        1.4120E-02        2.1180E-03
+        9.8990E-01        3.3000E-03        1.4440E-02        2.1660E-03

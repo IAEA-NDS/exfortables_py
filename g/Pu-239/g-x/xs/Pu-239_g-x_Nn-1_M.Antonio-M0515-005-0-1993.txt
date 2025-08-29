@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 94-PU-239(G,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 94 
+#   A: 239 
+#   Nuclide: 94-PU-239 
+# Reaction: 
+#   Process: G,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.7300e+00 MeV - 9.7200e+00 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 1 
+#   Nuclide: 0-NN-1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M0515-005-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-239(G,X)0-NN-1,,SIG) 
+#   First author: M.Antonio 
+#   Institute:  (3BZLIPE): Institute de Pesquisas Energeticas e Nucleares, Sao Paulo 
+#   Reference:  (J,PS,47,519,1993) 
+#   Year:  1993 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M05/M0515.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0515
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.7300E+00        0.0000E+00        7.4600E-02        1.3400E-02
+        7.2300E+00        0.0000E+00        9.6400E-02        2.0800E-02
+        7.3800E+00        0.0000E+00        1.1780E-01        1.9000E-02
+        7.6400E+00        0.0000E+00        1.3740E-01        2.3500E-02
+        7.7200E+00        0.0000E+00        1.5350E-01        2.3600E-02
+        7.8800E+00        0.0000E+00        1.5070E-01        2.8200E-02
+        7.9100E+00        0.0000E+00        1.2650E-01        2.4400E-02
+        9.0000E+00        0.0000E+00        3.4480E-01        5.3100E-02
+        9.7200E+00        0.0000E+00        5.4310E-01        1.1750E-01

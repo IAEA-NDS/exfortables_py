@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 82-PB-206(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 82 
+#   A: 206 
+#   Nuclide: 82-PB-206 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.0000e+02 MeV - 8.0000e+02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1728-007-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-206(P,X)ELEM/MASS,,SIG) 
+#   First author: Yu.E.Titarenko 
+#   Institute:  (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
+#   Reference:  ((R,INDC(CCP)-0447,2009)=(R,ISTC-2002,2004)) 
+#   Year:  2004 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O17/O1728.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1728
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+02        0.0000E+00        3.1500E-04        2.9000E-05
+        6.0000E+02        0.0000E+00        3.8500E-04        3.6000E-05
+        8.0000E+02        0.0000E+00        3.9300E-04        3.3000E-05

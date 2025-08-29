@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 73-TA-181(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.0800e+01 MeV - 1.1800e+02 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 177 
+#   Nuclide: 73-TA-177 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1099-152-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-181(P,X)73-TA-177,CUM,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERUH): University Hannover (previously Tech.University Hannover) 
+#   Reference:  (J,NSTS,2,242,2002) 
+#   Year:  2002 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O10/O1099.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1099
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0800E+01        2.0000E+00        2.7600E-01        2.7000E-02
+        8.1600E+01        2.0000E+00        2.3200E-01        2.2000E-02
+        8.6100E+01        1.9000E+00        2.1500E-01        2.2000E-02
+        9.1600E+01        1.9000E+00        2.2200E-01        2.2000E-02
+        1.1800E+02        2.0000E+00        1.8200E-01        2.9000E-02

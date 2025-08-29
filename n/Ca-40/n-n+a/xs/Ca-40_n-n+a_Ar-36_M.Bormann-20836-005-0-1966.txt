@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 20-CA-40(N,N+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 20 
+#   A: 40 
+#   Nuclide: 20-CA-40 
+# Reaction: 
+#   Process: N,N+A 
+#   MF-MT number: 3 - 22 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 18 
+#   A: 36 
+#   Nuclide: 18-AR-36 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20836-005-0 (entry-subentry-pointer) 
+#   Reaction code: (20-CA-40(N,N+A)18-AR-36,SEQ,SIG) 
+#   First author: M.Bormann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (J,ZN/A,21,988,1966) 
+#   Year:  1966 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20836.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20836
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        1.0000E-01        2.3000E-02        6.0000E-03

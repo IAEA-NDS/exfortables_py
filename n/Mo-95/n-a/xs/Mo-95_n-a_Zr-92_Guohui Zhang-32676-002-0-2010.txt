@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32676-002-0 
-# EXFOR reaction        : (42-MO-95(N,A)40-ZR-92,,SIG) 
-# incident energy       : 4.0000e+00 MeV - 6.0000e+00 MeV 
-# target                : Mo-95 
-# product               : Zr-92 
-# level energy          : - 
-# MF-MT number          : 3 - 107 
-# first author          : Guohui Zhang 
-# institute             : (3CPRBJG): Peking University , Beijing 
-# reference             : (J,ARI,68,180,2010) 
-# year                  : 2010 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32676.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32676
+# Header: 
+#   Title: 42-MO-95(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 95 
+#   Nuclide: 42-MO-95 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  4.0000e+00 MeV - 6.0000e+00 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 92 
+#   Nuclide: 40-ZR-92 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32676-002-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-95(N,A)40-ZR-92,,SIG) 
+#   First author: Guohui Zhang 
+#   Institute:  (3CPRBJG): Peking University , Beijing 
+#   Reference:  (J,ARI,68,180,2010) 
+#   Year:  2010 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32676.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32676
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         4.0000E+00        2.3000E-01        7.0000E-04        7.0000E-05

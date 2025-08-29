@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 13-AL-27(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0010e+02 MeV - 1.8065e+02 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2424-005-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(P,X)11-NA-24,,SIG,,AV) 
+#   First author: C.Baumer 
+#   Institute:  (2GERGER): Germany 
+#   Reference:  (J,NIM/B,440,75,2019) 
+#   Year:  2019 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O24/O2424.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2424
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0010E+02        0.0000E+00        1.1480E-02        0.0000E+00
+        1.8065E+02        0.0000E+00        1.1600E-02        0.0000E+00

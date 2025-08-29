@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 45-RH-103(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.4060e+01 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 104 
+#   Nuclide: 45-RH-104 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20532-004-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,G)45-RH-104,,SIG) 
+#   First author: F.Rigaud 
+#   Institute:  (2FR BOR): Universite de Bordeaux 
+#   Reference:  (J,NP/A,173,551,197110) 
+#   Year:  1971 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20532.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20532
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4060E+01        1.0000E-02        7.5000E-04        2.0000E-04

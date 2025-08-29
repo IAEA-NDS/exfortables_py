@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 33-AS-75(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 33 
+#   A: 75 
+#   Nuclide: 33-AS-75 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3800e+01 MeV - 2.8100e+01 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 77 
+#   Nuclide: 35-BR-77 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0243-002-0 (entry-subentry-pointer) 
+#   Reaction code: (33-AS-75(A,2N)35-BR-77,,SIG) 
+#   First author: S.L.Waters 
+#   Institute:  (2UK UK): United Kingdom 
+#   Reference:  (J,JIN,35,3413,1973) 
+#   Year:  1973 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0243.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0243
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.8100E+01        0.0000E+00        6.7000E-01        1.0100E-01
+        2.7800E+01        0.0000E+00        6.4400E-01        9.6600E-02
+        2.7400E+01        0.0000E+00        7.0600E-01        1.0600E-01
+        2.6300E+01        0.0000E+00        8.0300E-01        1.2000E-01
+        2.5100E+01        0.0000E+00        7.2100E-01        1.0800E-01
+        2.3900E+01        0.0000E+00        6.3800E-01        9.5600E-02
+        2.2700E+01        0.0000E+00        7.9800E-01        1.2000E-01
+        2.1400E+01        0.0000E+00        6.5100E-01        9.7600E-02
+        2.0100E+01        0.0000E+00        5.5000E-01        8.2500E-02
+        1.8600E+01        0.0000E+00        5.0600E-01        7.5900E-02
+        1.7100E+01        0.0000E+00        4.2700E-01        6.4000E-02
+        1.5500E+01        0.0000E+00        3.2100E-01        4.8200E-02
+        1.3800E+01        0.0000E+00        8.0300E-02        1.2000E-02

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 51-SB-121(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 51 
+#   A: 121 
+#   Nuclide: 51-SB-121 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.0000e+00 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 122 
+#   Nuclide: 51-SB-122-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30031-015-0 (entry-subentry-pointer) 
+#   Reaction code: (51-SB-121(N,G)51-SB-122-G,(M),SIG) 
+#   First author: G.Peto 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,JNE,21,797,1967) 
+#   Year:  1967 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30031.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30031
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+00        2.0000E-01        3.3000E-02        7.0000E-03

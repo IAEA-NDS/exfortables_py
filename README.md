@@ -1,18 +1,25 @@
-## exfortables_py: An EXFORTABLES-Inspired Structured Database Created by EXFOR_Parser
-### About
+# exfortables\_py: An EXFORTABLES-Inspired Structured Database
 
-**Please note that this repository is currently being updated and tested (as of April 2025).**
+## About
 
-This repository contains tabulated format (x, dx, y, dy) of a directory-structured projectile/nuclide/reaction/ database, `exfortables_py` which is inspired by [EXFORTABLES](https://nds.iaea.org/talys/tutorials/exfortables.pdf). The datasets are extracted from Experimental Nuclear Reaction Database ([EXFOR](https://nds.iaea.org/exfor/)) using [EXFOR_Parser](https://github.com/IAEA-NDS/exforparser) originating from [EXFOR Master Files](https://github.com/IAEA-NDS/exfor_master) for making retrieval and utilization of EXFOR data more straightforward for users. The new version of [IAEA Nuclear Reaction Dataexplorer](https://nds.iaea.org/dataexplorer/) will be built on top of this database.
+**Note:** This repository is under active development and testing (as of April 2025).
 
-### Download formatted datasets
+`exfortables_py` provides tabulated datasets in the format `(x, dx, y, dy)` organized in a directory structure by **projectile / nuclide / reaction**. It is inspired by [EXFORTABLES](https://nds.iaea.org/talys/tutorials/exfortables.pdf) and built using [EXFOR\_Parser](https://github.com/IAEA-NDS/exforparser) to extract data from [EXFOR Master Files](https://github.com/IAEA-NDS/exfor_master).
 
-In order to download the entire repository from the terminal, you can invoke
+The goal is to make retrieval and utilization of EXFOR data more straightforward. The upcoming version of the [IAEA Nuclear Reaction Data Explorer](https://nds.iaea.org/dataexplorer/) will be based on this database.
+
+---
+
+## Downloading Datasets
+
+To download the entire repository:
+
 ```bash
 git clone https://github.com/IAEA-NDS/exfortables_py.git
 ```
 
-Since the repository contains large amount of files, it will take a while to get entire files to download. If you aim to clone a particular folder, i.e, projectile or projectile/nuclide, then the `sparse-checkout` command should be used. It works on git version above 2.25.0, so please make sure you have your git version updated. The following is the example to download n/Al-27 reaction datasets only.
+Since this repository contains a large number of files, cloning may take a while.
+If you only need a specific folder (e.g., `n/Al-27`), use **sparse-checkout** (requires Git ≥ 2.25.0):
 
 ```bash
 git clone --filter=blob:none --no-checkout https://github.com/IAEA-NDS/exfortables_py.git
@@ -22,9 +29,23 @@ git checkout main
 git sparse-checkout set n/Al-27
 ```
 
-### About Dataset
-The root directory's name corresponds to the projectile, with `0` indicating a spontaneous reaction involving the target nuclide, formatted as `Al-27`, for example. In this format, `0` represents the mass number of the target nuclide, such as `Ag-0`, indicating natural abundance. Currently, datasets are available only for cross sections (`xs`), fission yields (`fission/yield`), and certain neutron observables (`neutron`). Below is a preview of the repository's directory structure. 
-> Please note that the `angle` and `energy` directories contain the working versions of the datasets.
+---
+
+## Dataset Structure
+
+* Root directories are named after the projectile.
+* `0` indicates a spontaneous reaction with a target nuclide (e.g., `Al-27`).
+* Natural abundance is denoted with `-0` (e.g., `Ag-0`).
+* Currently available datasets:
+
+  * Cross sections (`xs`)
+  * Fission yields (`fission/yield`)
+  * Selected neutron observables (`neutron`)
+
+> Note: The `angle` and `energy` directories contain working versions of datasets.
+
+**Example structure:**
+
 ```
 exfortables_py
  ├──  0
@@ -34,79 +55,97 @@ exfortables_py
  |                   └── yield
  |                        ├── cumulative
  |                        ├── independent
- |                        |    ├── Pu-240_0-f_Bushuev-41499-002-0-2007.txt
- │                        │    ├── ....
- |                        |    └── Pu-240_0-f_Laidler-21482-002-0-1962.txt
+ │                        │    ├── Pu-240_0-f_Bushuev-41499-002-0-2007.txt
+ │                        │    └── ...
  |                        └── primary
- ├──  a
- ├──  d
- ├──  e
- ├──  g
- ├──  i
  ├──  n
- |    └── Al-27
- │         ├── n-el
- │         │    ├── angle
- │         │    └── xs
- │         ├── n-inl-L1
- │         │    ├── angle
- │         │    └── xs
- │         │        ├── Al-27_n-inl-L1_Al27_Almen-Ramstrom-20788-002-0-1975.txt
- │         │        ├── ....
- │         │        └── Al-27_n-inl-L1_Al27_Whisnant-12875-005-0-1984.txt
- │         └── n-x
- ├──  p
- ├──  t
+ |     └── Al-27
+ │          ├── n-el
+ │          │    ├── angle
+ │          │    └── xs
+ │          ├── n-inl-L1
+ │          │    ├── angle
+ │          │    └── xs
+ │          │        ├── Al-27_n-inl-L1_Almen-Ramstrom-20788-002-0-1975.txt
+ │          │        └── ...
+ │          └── n-x
  ├──  LICENSE.md
  └──  README.md
 ```
 
-### File format
-An example of the file format for `n/Al-27/n-inl-L1/xs/Al-27_n-inl-L1_Almen-Ramstrom-20788-002-0-1975.txt` is provided below.
-```
-# entry-subent-pointer  : 20788-002-0 
-# EXFOR reaction        : ['13-AL-27', ['N,INL'], '13-AL-27,PAR,SIG'] 
-# incident energy       : 2.0200e+00 MeV - 4.5000e+00 MeV 
-# target                : Al-27 
-# product               : Al-27 
-# level energy          : 8.4200e-01 MeV 
-# MF-MT number          : 3 - 51 
-# first author          : E.Almen-Ramstrom 
-# institute             : (2SWDAE ): Studsvik Energiteknik AB 
-# reference             : (R,AE-503,197504) 
-# year                  : 1975 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20788.x4 
-# nds                   : https://nds.iaea.org/EXFOR/20788
+---
+
+## File Format
+
+Example file:
+`n/Al-27/n-inl-L1/xs/Al-27_n-inl-L1_Almen-Ramstrom-20788-002-0-1975.txt`
+
+```txt
+# Header:
+#   Title: 26-FE-56(N,P) Cross section
+#   Source: EXFOR
+#   Date created: 2025-08-29
+# Target:
+#   Z: 26
+#   A: 56
+#   Nuclide: 26-FE-56
+# Reaction:
+#   Process: N,P
+#   MF-MT number: 3 - 103
+#   Incident energy:  1.3560e+01 MeV - 1.4610e+01 MeV
+# Residual:
+#   Z: 25
+#   A: 56
+#   Nuclide: 25-MN-56
+# EXFOR BIB:
+#   Entry id: 41614-019-0
+#   Reaction code: (26-FE-56(N,P)25-MN-56,,SIG)
+#   First author: A.A. Filatenkov
+#   Institute: (4RUSRI) Khlopin Radievij Institute, St. Petersburg
+#   Reference: (R,INDC(CCP)-0460,2016)
+#   Year: 2016
+#   Facility: (CCW) Cockcroft-Walton accelerator
+#   Master file: https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4
+#   NDS: https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)       dE_in(MeV)            XS(B)           dXS(B)
-      2.02000E+00      0.00000E+00      8.00000E-02      1.20000E-02
-      2.27000E+00      0.00000E+00      6.60000E-02      1.00000E-02
-      2.50000E+00      0.00000E+00      5.80000E-02      9.00000E-03
-      2.77000E+00      0.00000E+00      1.05000E-01      1.60000E-02
-      3.01000E+00      0.00000E+00      5.80000E-02      9.00000E-03
-      3.29000E+00      0.00000E+00      5.10000E-02      8.00000E-03
-      3.52000E+00      0.00000E+00      4.90000E-02      7.00000E-03
-      3.78000E+00      0.00000E+00      8.50000E-02      1.30000E-02
-      4.02000E+00      0.00000E+00      4.90000E-02      7.00000E-03
-      4.26000E+00      0.00000E+00      6.60000E-02      1.00000E-02
-      4.50000E+00      0.00000E+00      5.00000E-02      8.00000E-03
+#   E_in(MeV)    dE_in(MeV)    XS(B)    dXS(B)
+    1.3560E+01   0.0000E+00    1.1580E-01   4.0183E-03
+    1.3740E+01   0.0000E+00    1.1610E-01   4.1448E-03
+    ...
 ```
 
+---
 
-### Citations
-For this database:
-* **S. Okumura, G. Schnabel, and A. Koning** - “Development of an EXFORTABLES-Inspired Structured Database through EXFOR Parser” - [*Proceedings of the Joint Symposium on Nuclear Data and PHITS in 2023, November 15-17, 2023, Tokai, Japan*](https://jopss.jaea.go.jp) (Submitted)
+## Citations
 
-For [EXFOR_Parser](https://github.com/IAEA-NDS/exforparser) and [IAEA Nuclear Reaction Dataexplorer](https://nds.iaea.org/dataexplorer/):
-* **S. Okumura, G. Schnabel, and A. Koning** - “Developing a New Web Service for Experimental Nuclear Reaction Database (EXFOR) Using RESTful API and JSON” - [*Proceedings of the 16th International Conference on Nuclear Reaction Mechanisms, 11–16 Jun 2023, Varenna, Italy, EPJ Web of Conf.*](https://www.epj-conferences.org/) (Accepted)
+If you use this database, please cite:
 
-### License and Disclaimer
-* This project is licensed under the CC BY-SA License - see the [LICENSE.md](LICENSE.md) file for details.
-* Changes: The developers of this repository reserve the right to modify or update datasets at any time without prior notice.
+* **S. Okumura, G. Schnabel, and A. Koning**
+  *Development of an EXFORTABLES-Inspired Structured Database through EXFOR Parser*
+  Proceedings of the Joint Symposium on Nuclear Data and PHITS, Nov 15–17, 2023, Tokai, Japan. [JOPSS](https://jopss.jaea.go.jp) (submitted)
 
-### Get in touch
-To report a bug, error, or feature request, please open an [issue](https://github.com/IAEA-NDS/exfortables_py/issues).
+For [EXFOR\_Parser](https://github.com/IAEA-NDS/exforparser) and [IAEA Data Explorer](https://nds.iaea.org/dataexplorer/):
 
-## The original EXFORTABLES
-aThe original EXFORTABLES is actively used for the [TENDL library](https://tendl.web.psi.ch/) and is also downloadable from [here](https://nds.iaea.org/talys/) as a compressed package.
+* **S. Okumura, G. Schnabel, and A. Koning**
+  *Developing a New Web Service for Experimental Nuclear Reaction Database (EXFOR) Using RESTful API and JSON*
+  16th Int. Conf. on Nuclear Reaction Mechanisms, Jun 11–16, 2023, Varenna, Italy. [EPJ Web of Conferences](https://www.epj-conferences.org/) (accepted)
+
+---
+
+## License & Disclaimer
+
+* Licensed under **CC BY-SA** — see [LICENSE.md](LICENSE.md).
+* The developers reserve the right to modify or update datasets at any time without prior notice.
+
+---
+
+## Contact
+
+* To report a bug, error, or request a feature, please open an [issue](https://github.com/IAEA-NDS/exfortables_py/issues).
+
+---
+
+## Original EXFORTABLES
+
+The original **EXFORTABLES** is actively used in the [TENDL library](https://tendl.web.psi.ch/) and can be downloaded as a compressed package from [IAEA TALYS](https://nds.iaea.org/talys/).
+

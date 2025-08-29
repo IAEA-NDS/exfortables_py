@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 29-CU-63(P,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+# Reaction: 
+#   Process: P,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5200e+01 MeV - 3.1800e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 62 
+#   Nuclide: 30-ZN-62 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0017-006-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-63(P,2N)30-ZN-62,,SIG) 
+#   First author: S.N.Ghoshal 
+#   Institute:  (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
+#   Reference:  (J,PR,80,939,1950) 
+#   Year:  1950 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0017.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0017
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5200E+01        0.0000E+00        7.2000E-03        0.0000E+00
+        1.7500E+01        0.0000E+00        7.1000E-02        0.0000E+00
+        1.9500E+01        0.0000E+00        1.2800E-01        0.0000E+00
+        2.2000E+01        0.0000E+00        1.9100E-01        0.0000E+00
+        2.4100E+01        0.0000E+00        2.1800E-01        0.0000E+00
+        2.6200E+01        0.0000E+00        2.1800E-01        0.0000E+00
+        2.8200E+01        0.0000E+00        1.9700E-01        0.0000E+00
+        3.0300E+01        0.0000E+00        1.4800E-01        0.0000E+00
+        3.1800E+01        0.0000E+00        1.1500E-01        0.0000E+00

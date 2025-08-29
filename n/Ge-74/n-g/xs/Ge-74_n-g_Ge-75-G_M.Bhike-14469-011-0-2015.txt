@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 32-GE-74(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 32 
+#   A: 74 
+#   Nuclide: 32-GE-74 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.8000e-01 MeV - 7.3600e+00 MeV 
+# Residual: 
+#   Z: 32 
+#   A: 75 
+#   Nuclide: 32-GE-75-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14469-011-0 (entry-subentry-pointer) 
+#   Reaction code: (32-GE-74(N,G)32-GE-75-G,,SIG) 
+#   First author: M.Bhike 
+#   Institute:  (1USATNL): Triangle Universities Nuclear Laboratory , Durham, NC 
+#   Reference:  (J,PL/B,741,150,2015) 
+#   Year:  2015 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/144/14469.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14469
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.8000E-01        1.1000E-01        1.0130E-02        2.3000E-03
+        8.6000E-01        1.1000E-01        4.8700E-03        1.0600E-03
+        1.3200E+00        1.1000E-01        4.1300E-03        5.7000E-04
+        1.8700E+00        1.1000E-01        2.3400E-03        8.8000E-04
+        2.7700E+00        1.3000E-01        2.5200E-03        8.8000E-04
+        4.3900E+00        3.3000E-01        3.5000E-04        7.0000E-05
+        5.3300E+00        3.5000E-01        2.7000E-04        6.0000E-05
+        6.6400E+00        3.3000E-01        1.2000E-04        4.0000E-05
+        7.3600E+00        2.9000E-01        5.0000E-05        1.0000E-05

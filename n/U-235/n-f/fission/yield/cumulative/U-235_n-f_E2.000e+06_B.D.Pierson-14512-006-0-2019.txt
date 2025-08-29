@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  2.0000e+00 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 94 
+#   Nuclide: 39-Y-94 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14512-006-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)39-Y-94,CUM,FY,,FIS) 
+#   First author: B.D.Pierson 
+#   Institute:  (1USABNW): Pacific Northwest Laboratories, Richland, WA 
+#   Reference:  (J,NDS,155,86,2019) 
+#   Year:  2019 
+#   Facility:  (CRASS): Critical assembly 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/145/14512.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14512
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+               39               94                         5.3400E-02        3.8000E-03

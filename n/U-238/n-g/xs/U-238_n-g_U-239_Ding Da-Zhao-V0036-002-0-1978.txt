@@ -1,17 +1,30 @@
-# entry-subent-pointer  : V0036-002-0 
-# EXFOR reaction        : (92-U-238(N,G)92-U-239,,SIG,,,EVAL) 
-# incident energy       : 1.5000e-03 MeV - 9.5000e-02 MeV 
-# target                : U-238 
-# product               : U-239 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Ding Da-Zhao 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (R,HSJ-77106,197805) 
-# year                  : 1978 
-# facility              : None 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/V00/V0036.x4 
-# nds                   : https://nds.iaea.org/EXFOR/V0036
+# Header: 
+#   Title: 92-U-238(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.5000e-03 MeV - 9.5000e-02 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 239 
+#   Nuclide: 92-U-239 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: V0036-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,G)92-U-239,,SIG,,,EVAL) 
+#   First author: Ding Da-Zhao 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (R,HSJ-77106,197805) 
+#   Year:  1978 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/V00/V0036.x4 
+#   nds:  https://nds.iaea.org/EXFOR/V0036
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.5000E-03        0.0000E+00        1.9740E+00        2.1714E-01

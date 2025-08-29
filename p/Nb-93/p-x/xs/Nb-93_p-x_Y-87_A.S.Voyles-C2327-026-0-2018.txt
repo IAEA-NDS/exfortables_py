@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 41-NB-93(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.0340e+01 MeV - 8.9370e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 87 
+#   Nuclide: 39-Y-87 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2327-026-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(P,X)39-Y-87,IND,SIG) 
+#   First author: A.S.Voyles 
+#   Institute:  (1USAUCX): University of California, Berkeley, CA 
+#   Reference:  (J,NIM/B,429,53,2018) 
+#   Year:  2018 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2327.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2327
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0340E+01        0.0000E+00        2.9100E-03        1.7000E-04
+        5.1510E+01        0.0000E+00        6.7200E-02        3.6000E-03
+        6.1070E+01        0.0000E+00        9.0000E-02        4.9000E-03
+        6.9700E+01        0.0000E+00        6.1000E-02        2.9000E-03
+        7.9550E+01        0.0000E+00        5.4700E-02        2.8000E-03
+        8.9370E+01        0.0000E+00        1.1000E-01        7.2000E-03

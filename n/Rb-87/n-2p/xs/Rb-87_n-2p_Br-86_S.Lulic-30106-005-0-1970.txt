@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 37-RB-87(N,2P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 37 
+#   A: 87 
+#   Nuclide: 37-RB-87 
+# Reaction: 
+#   Process: N,2P 
+#   MF-MT number: 3 - 111 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 86 
+#   Nuclide: 35-BR-86 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30106-005-0 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-87(N,2P)35-BR-86,,SIG) 
+#   First author: S.Lulic 
+#   Institute:  (3CRORBZ): Institute Rudjer Boskovic, Zagreb 
+#   Reference:  (J,NP/A,154,273,1970) 
+#   Year:  1970 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30106.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30106
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        2.0000E-01        5.0000E-06        0.0000E+00

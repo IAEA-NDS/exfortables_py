@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 26-FE-55(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 55 
+#   Nuclide: 26-FE-55 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.9442e+00 MeV - 2.0161e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33099-002-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-55(N,X)1-H-1,,SIG,,,DERIV) 
+#   First author: B.Pandey 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,PR/C,93,021602,2016) 
+#   Year:  2016 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33099.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33099
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.9442E+00        0.0000E+00        1.9640E-01        3.6100E-02
+        8.9623E+00        0.0000E+00        2.3450E-01        3.6100E-02
+        9.9804E+00        0.0000E+00        2.3110E-01        4.2700E-02
+        1.0998E+01        0.0000E+00        2.1970E-01        3.1400E-02
+        1.2017E+01        0.0000E+00        2.3340E-01        2.7600E-02
+        1.3035E+01        0.0000E+00        1.9640E-01        1.9400E-02
+        1.4053E+01        0.0000E+00        1.8930E-01        1.5700E-02
+        1.5071E+01        0.0000E+00        1.6320E-01        1.2000E-02
+        1.6089E+01        0.0000E+00        1.3960E-01        1.0100E-02
+        1.7107E+01        0.0000E+00        1.0390E-01        7.8000E-03
+        1.8125E+01        0.0000E+00        7.7000E-02        6.7000E-03
+        1.9143E+01        0.0000E+00        5.9300E-02        6.7000E-03
+        2.0161E+01        0.0000E+00        3.7900E-02        1.5400E-02

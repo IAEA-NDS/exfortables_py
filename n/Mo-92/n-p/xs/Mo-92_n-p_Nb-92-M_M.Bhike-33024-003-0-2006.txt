@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 42-MO-92(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 92 
+#   Nuclide: 42-MO-92 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  3.7000e+00 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 92 
+#   Nuclide: 41-NB-92-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33024-003-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-92(N,P)41-NB-92-M,,SIG) 
+#   First author: M.Bhike 
+#   Institute:  (3INDTAT): Tata Institute of Fundamental Research, Mumbai 
+#   Reference:  (C,2006MANGAL,,(TP15),2006) 
+#   Year:  2006 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33024.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33024
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.7000E+00        3.0000E-02        1.9700E-02        1.4000E-03

@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 8-O-0(N,EL)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 8 
+#   A: 0 
+#   Nuclide: 8-O-0 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 4 - 2 
+#   Incident energy:  3.4405e+00 MeV 
+# Residual: 
+#   Z: 8 
+#   A: 0 
+#   Nuclide: 8-O-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10028-002-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-0(N,EL)8-O-0,,DA) 
+#   First author: J.L.Fowler 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,PR/C,2,124,197007) 
+#   Year:  1970 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10028.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10028
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+       -8.4000E-01        0.0000E+00        2.9900E-01        1.7000E-02
+       -7.3900E-01        0.0000E+00        2.1200E-01        1.4000E-02
+       -6.4300E-01        0.0000E+00        1.8100E-01        1.2000E-02
+       -3.9900E-01        0.0000E+00        2.1100E-01        1.3000E-02
+       -2.0400E-01        0.0000E+00        2.1400E-01        1.8000E-02
+        4.0000E-03        0.0000E+00        1.9800E-01        1.7000E-02
+        1.9700E-01        0.0000E+00        1.8800E-01        1.8000E-02
+        4.0100E-01        0.0000E+00        1.6400E-01        1.8000E-02
+        6.0300E-01        0.0000E+00        2.8800E-01        1.7000E-02
+        7.9700E-01        0.0000E+00        6.2600E-01        2.9000E-02
+        8.9000E-01        0.0000E+00        9.7900E-01        4.1000E-02
+        9.3800E-01        0.0000E+00        1.1880E+00        5.1000E-02

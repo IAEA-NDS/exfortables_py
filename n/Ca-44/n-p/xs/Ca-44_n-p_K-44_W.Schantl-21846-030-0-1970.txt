@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 20-CA-44(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 20 
+#   A: 44 
+#   Nuclide: 20-CA-44 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 19 
+#   A: 44 
+#   Nuclide: 19-K-44 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21846-030-0 (entry-subentry-pointer) 
+#   Reaction code: (20-CA-44(N,P)19-K-44,,SIG) 
+#   First author: W.Schantl 
+#   Institute:  (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
+#   Reference:  (T,SCHANTL,1970) 
+#   Year:  1970 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21846.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21846
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        1.5000E-01        2.2000E-02        4.0000E-03

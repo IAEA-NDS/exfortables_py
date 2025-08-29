@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 23-V-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 23 
+#   A: 0 
+#   Nuclide: 23-V-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.5900e+01 MeV - 3.9700e+01 MeV 
+# Residual: 
+#   Z: 20 
+#   A: 47 
+#   Nuclide: 20-CA-47 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4246-007-0 (entry-subentry-pointer) 
+#   Reaction code: (23-V-0(D,X)20-CA-47,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,269,1792,2011) 
+#   Year:  2011 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4246.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4246
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5900E+01        4.0000E-01        1.0230E-04        8.3000E-05
+        3.7800E+01        4.0000E-01        1.1460E-04        7.5000E-05
+        3.9700E+01        3.0000E-01        1.3360E-04        7.5000E-05

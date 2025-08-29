@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 36-KR-78(P,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 36 
+#   A: 78 
+#   Nuclide: 36-KR-78 
+# Reaction: 
+#   Process: P,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.2830e+01 MeV - 2.8820e+01 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 75 
+#   Nuclide: 35-BR-75 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1618-002-0 (entry-subentry-pointer) 
+#   Reaction code: (36-KR-78(P,A)35-BR-75,,SIG) 
+#   First author: F.Helus 
+#   Institute:  (2GERDKZ): Deutsches Krebsforschungszentrum, Heidelberg 
+#   Reference:  (J,JRN/L,153,417,1991) 
+#   Year:  1991 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O16/O1618.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1618
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2830E+01        8.0000E-02        2.3000E-02        4.6000E-03
+        1.5180E+01        8.0000E-02        5.0000E-02        1.0000E-02
+        1.7270E+01        8.0000E-02        7.5100E-02        1.5020E-02
+        1.9160E+01        8.0000E-02        9.6000E-02        1.9200E-02
+        2.0830E+01        8.0000E-02        1.0800E-01        2.1600E-02
+        2.2510E+01        8.0000E-02        1.0590E-01        2.1180E-02
+        2.4470E+01        8.0000E-02        7.3600E-02        1.4720E-02
+        2.5710E+01        8.0000E-02        5.8000E-02        1.1600E-02
+        2.8820E+01        8.0000E-02        4.3800E-02        8.7600E-03

@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 5-B-10(N,N+D+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 5 
+#   A: 10 
+#   Nuclide: 5-B-10 
+# Reaction: 
+#   Process: N,N+D+A 
+#   MF-MT number: 3 - 158 
+#   Incident energy:  1.2200e+01 MeV - 1.9500e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11255-003-0 (entry-subentry-pointer) 
+#   Reaction code: (5-B-10(N,N+D+A)2-HE-4,,SIG) 
+#   First author: G.M.Frye Jr 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,103,328,5608) 
+#   Year:  1956 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11255.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11255
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2200E+01        0.0000E+00        6.9000E-02        1.5000E-02
+        1.4100E+01        0.0000E+00        1.2800E-01        1.9000E-02
+        1.6100E+01        0.0000E+00        1.0000E-01        1.7000E-02
+        1.8200E+01        0.0000E+00        1.2600E-01        2.0000E-02
+        1.9500E+01        0.0000E+00        1.4000E-01        2.3000E-02

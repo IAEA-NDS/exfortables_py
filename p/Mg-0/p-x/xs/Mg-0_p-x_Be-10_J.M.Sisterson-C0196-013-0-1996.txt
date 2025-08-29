@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 12-MG-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 12 
+#   A: 0 
+#   Nuclide: 12-MG-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.2300e+01 MeV - 6.7400e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 10 
+#   Nuclide: 4-BE-10 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0196-013-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-0(P,X)4-BE-10,,SIG) 
+#   First author: J.M.Sisterson 
+#   Institute:  (1USAHRV): Harvard University, Cambridge, MA 
+#   Reference:  (C,96DENTON,,811,1996) 
+#   Year:  1996 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C01/C0196.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0196
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.2300E+01        0.0000E+00        7.0000E-06        1.0000E-06
+        4.9900E+01        0.0000E+00        1.1000E-05        2.0000E-06
+        5.9700E+01        0.0000E+00        2.3000E-05        2.0000E-06
+        6.7400E+01        0.0000E+00        3.3000E-05        3.0000E-06

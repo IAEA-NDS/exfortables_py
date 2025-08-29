@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32657-005-0 
-# EXFOR reaction        : (30-ZN-64(N,A)28-NI-61,,SIG) 
-# incident energy       : 5.0300e+00 MeV - 6.5000e+00 MeV 
-# target                : Zn-64 
-# product               : Ni-61 
-# level energy          : - 
-# MF-MT number          : 3 - 107 
-# first author          : Jing Yuan 
-# institute             : (3CPRTSI): Tsinghua University , Beijing 
-# reference             : (J,NSE,144,108,2003) 
-# year                  : 2003 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32657.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32657
+# Header: 
+#   Title: 30-ZN-64(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  5.0300e+00 MeV - 6.5000e+00 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 61 
+#   Nuclide: 28-NI-61 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32657-005-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(N,A)28-NI-61,,SIG) 
+#   First author: Jing Yuan 
+#   Institute:  (3CPRTSI): Tsinghua University , Beijing 
+#   Reference:  (J,NSE,144,108,2003) 
+#   Year:  2003 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32657.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32657
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         5.0300E+00        2.6000E-01        7.2500E-02        7.0000E-03

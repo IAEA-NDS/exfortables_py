@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 45-RH-103(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4100e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 102 
+#   Nuclide: 45-RH-102-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21709-004-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,2N)45-RH-102-G,,SIG) 
+#   First author: J.Laurec 
+#   Institute:  (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
+#   Reference:  (R,CEA-R-5109,198106) 
+#   Year:  1981 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21709.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21709
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        1.0000E-01        8.0500E-01        4.8000E-02
+        1.4800E+01        3.0000E-01        8.3000E-01        5.0000E-02

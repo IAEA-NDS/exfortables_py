@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 63-EU-151(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 63 
+#   A: 151 
+#   Nuclide: 63-EU-151 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.7600e-04 MeV - 4.8300e-03 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 152 
+#   Nuclide: 63-EU-152 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14221-002-0 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-151(N,G)63-EU-152,,SIG) 
+#   First author: W.E.Parker 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (C,2007NICE,1,491,2007) 
+#   Year:  2007 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/142/14221.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14221
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.7600E-04        0.0000E+00        6.1400E+01        1.6000E+00
+        4.7500E-04        0.0000E+00        5.8900E+01        2.1000E+00
+        5.9600E-04        0.0000E+00        4.5400E+01        1.8000E+00
+        7.5600E-04        0.0000E+00        4.1500E+01        1.9000E+00
+        9.5000E-04        0.0000E+00        3.4600E+01        1.4000E+00
+        1.2000E-03        0.0000E+00        2.9800E+01        1.6000E+00
+        1.5100E-03        0.0000E+00        2.1900E+01        1.3000E+00
+        1.9000E-03        0.0000E+00        2.3400E+01        1.2000E+00
+        2.4000E-03        0.0000E+00        1.6700E+01        1.3000E+00
+        3.0300E-03        0.0000E+00        1.6200E+01        1.3000E+00
+        3.8200E-03        0.0000E+00        1.3900E+01        1.0000E+00
+        4.8300E-03        0.0000E+00        1.1900E+01        9.0000E-01

@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 62-SM-144(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 62 
+#   A: 144 
+#   Nuclide: 62-SM-144 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.3000e+01 MeV - 2.0000e+01 MeV 
+# Residual: 
+#   Z: 64 
+#   A: 147 
+#   Nuclide: 64-GD-147 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4427-002-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-144(A,N)64-GD-147,,SIG) 
+#   First author: Gy.Gyurky 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,PR/C,107,025803,2023) 
+#   Year:  2023 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4427.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4427
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3000E+01        4.0000E-02        1.3900E-04        1.6000E-05
+        1.4000E+01        4.0000E-02        1.3600E-03        1.2000E-04
+        1.5000E+01        5.0000E-02        8.0300E-03        7.3000E-04
+        1.6000E+01        5.0000E-02        3.1000E-02        2.8000E-03
+        1.7000E+01        5.0000E-02        9.8300E-02        9.0000E-03
+        1.8000E+01        6.0000E-02        1.8800E-01        1.7000E-02
+        1.8900E+01        1.1000E-01        2.8100E-01        2.5000E-02
+        2.0000E+01        6.0000E-02        4.1700E-01        3.6000E-02

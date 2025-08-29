@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 22-TI-47(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 22 
+#   A: 47 
+#   Nuclide: 22-TI-47 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 47 
+#   Nuclide: 21-SC-47 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20317-007-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-47(N,P)21-SC-47,,SIG,,FIS) 
+#   First author: I.Kimura 
+#   Institute:  (2JPNKTO): Kyoto University , Kyoto 
+#   Reference:  (J,NST,8,59,7102) 
+#   Year:  1971 
+#   Facility:  (REAC ): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20317.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20317
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.9000E-02        1.2000E-03

@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 42-MO-96(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 96 
+#   Nuclide: 42-MO-96 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  9.3800e+00 MeV - 1.1680e+01 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 95 
+#   Nuclide: 42-MO-95 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: K2433-004-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-96(G,N)42-MO-95,,SIG) 
+#   First author: H.Utsunomiya 
+#   Institute:  (2JPNKON): Konan University , Kobe 
+#   Reference:  (J,PR/C,88,015805,2013) 
+#   Year:  2013 
+#   Facility:  (ESTRG): Electron storage ring 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K24/K2433.x4 
+#   nds:  https://nds.iaea.org/EXFOR/K2433
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.3800E+00        0.0000E+00        1.2770E-02        0.0000E+00
+        9.5100E+00        0.0000E+00        1.2650E-02        0.0000E+00
+        1.0290E+01        0.0000E+00        1.8580E-02        0.0000E+00
+        1.0620E+01        0.0000E+00        1.9950E-02        0.0000E+00
+        1.0920E+01        0.0000E+00        2.6590E-02        0.0000E+00
+        1.1400E+01        0.0000E+00        2.9630E-02        0.0000E+00
+        1.1680E+01        0.0000E+00        3.2600E-02        0.0000E+00

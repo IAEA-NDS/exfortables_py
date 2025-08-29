@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 2-HE-4(N,EL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 3 - 2 
+#   Incident energy:  1.7600e+01 MeV - 2.3700e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10190-005-0 (entry-subentry-pointer) 
+#   Reaction code: (2-HE-4(N,EL)2-HE-4,,SIG) 
+#   First author: A.Niiler 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR/C,4,36,1971) 
+#   Year:  1971 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10190.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10190
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7600E+01        0.0000E+00        8.6100E-01        2.6691E-02
+        2.0900E+01        0.0000E+00        7.2800E-01        1.9656E-02
+        2.3700E+01        0.0000E+00        6.2100E-01        2.1735E-02

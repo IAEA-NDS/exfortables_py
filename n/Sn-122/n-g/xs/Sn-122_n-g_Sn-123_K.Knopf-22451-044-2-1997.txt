@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 50-SN-122(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 122 
+#   Nuclide: 50-SN-122 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.5300e-10 MeV - 2.5300e-08 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 123 
+#   Nuclide: 50-SN-123 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22451-044-2 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-122(N,G)50-SN-123,,SIG,,,DERIV) 
+#   First author: K.Knopf 
+#   Institute:  (2GERMUN): Technische Universitaet Muenchen 
+#   Reference:  (J,ZN/A,52,270,1997) 
+#   Year:  1997 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22451.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22451
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.5300E-10        0.0000E+00               NAN        0.0000E+00
+        2.5300E-08        0.0000E+00        1.9000E-01        6.0000E-02

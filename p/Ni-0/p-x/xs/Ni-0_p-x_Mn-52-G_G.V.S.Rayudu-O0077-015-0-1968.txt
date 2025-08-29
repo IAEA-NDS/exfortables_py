@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 28-NI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.0000e+02 MeV - 2.9000e+03 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 52 
+#   Nuclide: 25-MN-52-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0077-015-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(P,X)25-MN-52-G,CUM,SIG) 
+#   First author: G.V.S.Rayudu 
+#   Institute:  (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
+#   Reference:  (J,JIN,30,2311,1968) 
+#   Year:  1968 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0077.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0077
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+02        0.0000E+00        1.8700E-02        0.0000E+00
+        8.0000E+02        0.0000E+00        1.2000E-02        0.0000E+00
+        1.5000E+03        0.0000E+00        1.2400E-02        1.8600E-03
+        2.2000E+03        0.0000E+00        1.2200E-02        1.8300E-03
+        2.9000E+03        0.0000E+00        8.9000E-03        1.3350E-03

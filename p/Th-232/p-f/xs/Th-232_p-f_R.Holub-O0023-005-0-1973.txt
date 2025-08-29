@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 90-TH-232(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  6.8000e+01 MeV - 8.3000e+01 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 139 
+#   Nuclide: 58-CE-139 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0023-005-0 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(P,F)58-CE-139,,SIG) 
+#   First author: R.Holub 
+#   Institute:  (1CANMCG): McGill University, Montreal,Quebec 
+#   Reference:  (J,JIN,35,3991,1973) 
+#   Year:  1973 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0023.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0023
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.8000E+01        2.0000E+00        2.0000E-06        7.0000E-07
+        7.5000E+01        2.0000E+00        8.0000E-06        2.0000E-06
+        8.3000E+01        2.0000E+00        1.6000E-05        5.0000E-06

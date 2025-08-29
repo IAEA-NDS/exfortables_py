@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 62-SM-144(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 62 
+#   A: 144 
+#   Nuclide: 62-SM-144 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4200e+01 MeV 
+# Residual: 
+#   Z: 62 
+#   A: 143 
+#   Nuclide: 62-SM-143-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30051-005-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-144(N,2N)62-SM-143-M,,SIG) 
+#   First author: P.Rama Prasad 
+#   Institute:  (3INDAUW): Andhra University , Visakhapatnam 
+#   Reference:  (J,NP/A,125,57,1969) 
+#   Year:  1969 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30051.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30051
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        2.0000E-01        5.5400E-01        5.5000E-02

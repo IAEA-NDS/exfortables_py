@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 26-FE-0(N,EL)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 0 
+#   Nuclide: 26-FE-0 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 4 - 2 
+#   Incident energy:  8.0500e+00 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 0 
+#   Nuclide: 26-FE-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20019-099-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-0(N,EL)26-FE-0,,DA) 
+#   First author: B.Holmqvist 
+#   Institute:  (2SWDAE ): Studsvik Energiteknik AB 
+#   Reference:  (R,AE-366,1969) 
+#   Year:  1969 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20019.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20019
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+       -9.4200E-01        0.0000E+00        2.5000E-02        1.2500E-03
+       -8.7100E-01        0.0000E+00        1.2000E-02        6.0000E-04
+       -7.7300E-01        0.0000E+00        4.0000E-03        2.0000E-04
+       -6.5300E-01        0.0000E+00        3.7000E-03        1.8500E-04
+       -5.1300E-01        0.0000E+00        5.6000E-03        2.8000E-04
+       -3.5800E-01        0.0000E+00        1.1000E-02        5.5000E-04
+       -1.9100E-01        0.0000E+00        1.9000E-02        9.5000E-04
+       -1.8000E-02        0.0000E+00        2.3000E-02        1.1500E-03
+        1.5600E-01        0.0000E+00        2.0000E-02        1.0000E-03
+        3.2600E-01        0.0000E+00        1.4000E-02        7.0000E-04
+        4.8700E-01        0.0000E+00        1.1000E-02        5.5000E-04
+        5.6200E-01        0.0000E+00        1.9000E-02        9.5000E-04
+        6.3200E-01        0.0000E+00        5.9000E-02        2.9500E-03
+        6.9800E-01        0.0000E+00        1.0000E-01        5.0000E-03
+        7.5900E-01        0.0000E+00        2.4800E-01        1.2400E-02
+        8.1300E-01        0.0000E+00        4.1600E-01        2.0800E-02
+        8.6200E-01        0.0000E+00        6.2200E-01        3.1100E-02
+        9.0300E-01        0.0000E+00        1.0040E+00        5.0200E-02
+        9.3800E-01        0.0000E+00        1.5180E+00        7.5900E-02

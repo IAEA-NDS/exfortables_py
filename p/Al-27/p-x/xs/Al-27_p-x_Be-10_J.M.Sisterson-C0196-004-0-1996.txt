@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 13-AL-27(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0160e+02 MeV - 1.5940e+02 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 10 
+#   Nuclide: 4-BE-10 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0196-004-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(P,X)4-BE-10,,SIG) 
+#   First author: J.M.Sisterson 
+#   Institute:  (1USAHRV): Harvard University, Cambridge, MA 
+#   Reference:  (C,96DENTON,,811,1996) 
+#   Year:  1996 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C01/C0196.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0196
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0160E+02        3.0000E+00        1.1000E-04        1.0000E-05
+        1.3050E+02        2.0000E+00        1.6000E-04        1.0000E-05
+        1.5940E+02        1.0000E+00        2.5000E-04        2.0000E-05

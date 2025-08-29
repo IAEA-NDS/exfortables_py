@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 24-CR-50(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 24 
+#   A: 50 
+#   Nuclide: 24-CR-50 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 49 
+#   Nuclide: 24-CR-49 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31247-006-0 (entry-subentry-pointer) 
+#   Reaction code: (24-CR-50(N,2N)24-CR-49,,SIG) 
+#   First author: C.S.Khurana 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  (J,NP,28,560,1961) 
+#   Year:  1961 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/312/31247.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31247
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        5.0000E-01        2.7000E-02        6.7500E-03

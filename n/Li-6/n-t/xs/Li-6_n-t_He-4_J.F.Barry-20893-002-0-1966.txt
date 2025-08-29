@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 3-LI-6(N,T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: N,T 
+#   MF-MT number: 3 - 105 
+#   Incident energy:  2.5000e-02 MeV - 1.0000e-01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20893-002-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(N,T)2-HE-4,,SIG) 
+#   First author: J.F.Barry 
+#   Institute:  (2UK ALD): Atomic Weapons Establishment (AWE), Aldermaston 
+#   Reference:  (C,66WASH,2,763,1966) 
+#   Year:  1966 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20893.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20893
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        6.0000E-03        1.0900E+00        7.0000E-02
+        6.7000E-02        1.0000E-02        8.1000E-01        6.0000E-02
+        1.0000E-01        1.3000E-02        6.9500E-01        2.0000E-03

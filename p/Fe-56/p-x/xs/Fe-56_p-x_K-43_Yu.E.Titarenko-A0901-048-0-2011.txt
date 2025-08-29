@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 26-FE-56(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 56 
+#   Nuclide: 26-FE-56 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  9.9000e+01 MeV - 2.6050e+03 MeV 
+# Residual: 
+#   Z: 19 
+#   A: 43 
+#   Nuclide: 19-K-43 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0901-048-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-56(P,X)19-K-43,CUM,SIG) 
+#   First author: Yu.E.Titarenko 
+#   Institute:  (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
+#   Reference:  (J,YF,74,548,2011) 
+#   Year:  2011 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0901.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0901
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.9000E+01        1.0000E+00        1.6000E-05        3.0000E-06
+        1.4900E+02        1.0000E+00        9.4000E-05        9.0000E-06
+        2.4900E+02        1.0000E+00        3.1000E-04        2.4000E-05
+        4.0000E+02        2.0000E+00        7.0100E-04        6.7000E-05
+        6.0000E+02        2.0000E+00        1.0600E-03        9.0000E-05
+        7.9900E+02        2.0000E+00        1.2700E-03        1.2000E-04
+        1.1990E+03        3.0000E+00        1.4400E-03        1.2000E-04
+        1.5980E+03        4.0000E+00        1.5500E-03        1.4000E-04
+        2.6050E+03        8.0000E+00        1.1300E-03        1.0000E-04

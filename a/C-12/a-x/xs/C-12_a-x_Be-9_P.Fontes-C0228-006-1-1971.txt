@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 6-C-12(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.1000e+02 MeV - 1.3700e+02 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 9 
+#   Nuclide: 4-BE-9 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0228-006-1 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(A,X)4-BE-9,,SIG) 
+#   First author: P.Fontes 
+#   Institute:  (2FR CSN): Centre Sci. Nuclear et Sci. Matiere (CSNSM), Orsay 
+#   Reference:  (J,NP/A,165,405,71) 
+#   Year:  1971 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0228.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0228
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1000E+02        0.0000E+00        2.0000E-02        4.0000E-03
+        1.1400E+02        0.0000E+00        2.2000E-02        4.0000E-03
+        1.2600E+02        0.0000E+00        2.0000E-02        4.0000E-03
+        1.3700E+02        0.0000E+00        2.1000E-02        4.0000E-03

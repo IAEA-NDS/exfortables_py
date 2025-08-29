@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 26-FE-54(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 54 
+#   Nuclide: 26-FE-54 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3510e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 53 
+#   Nuclide: 26-FE-53 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23171-004-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-54(N,2N)26-FE-53,,SIG) 
+#   First author: A.Wallner 
+#   Institute:  (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
+#   Reference:  (J,KPS,59,(2),1378,2011) 
+#   Year:  2011 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23171.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23171
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3510E+01        4.0000E-02        6.0000E-05        1.0000E-05
+        1.3680E+01        4.0000E-02        1.3000E-04        3.0000E-05
+        1.3840E+01        5.0000E-02        4.7000E-04        3.0000E-05
+        1.4110E+01        5.0000E-02        1.6200E-03        7.0000E-05
+        1.4320E+01        5.0000E-02        3.7200E-03        1.3000E-04
+        1.4580E+01        5.0000E-02        6.6400E-03        3.5000E-04
+        1.4600E+01        5.0000E-02        7.2500E-03        6.0000E-04
+        1.4610E+01        6.0000E-02        6.5700E-03        2.0000E-04
+        1.4800E+01        5.0000E-02        1.0220E-02        3.0000E-04

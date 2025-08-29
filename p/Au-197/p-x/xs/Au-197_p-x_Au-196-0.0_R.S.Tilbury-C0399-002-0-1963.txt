@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 79-AU-197(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.4000e+01 MeV - 6.0000e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0399-002-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(P,X)ELEM/MASS,,SIG) 
+#   First author: R.S.Tilbury 
+#   Institute:  (1CANMCG): McGill University, Montreal,Quebec 
+#   Reference:  (J,CJC,41,2634,63) 
+#   Year:  1963 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0399.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0399
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4000E+01        0.0000E+00        2.3000E-02        5.7500E-03
+        2.8000E+01        0.0000E+00        9.8000E-02        2.4500E-02
+        3.1000E+01        0.0000E+00        1.2400E-01        3.1000E-02
+        3.4000E+01        0.0000E+00        1.4900E-01        3.7250E-02
+        3.7000E+01        0.0000E+00        1.5400E-01        3.8500E-02
+        4.0000E+01        0.0000E+00        1.4700E-01        3.6750E-02
+        4.6000E+01        0.0000E+00        1.4000E-01        3.5000E-02
+        5.2000E+01        0.0000E+00        1.4500E-01        3.6250E-02
+        6.0000E+01        0.0000E+00        1.3600E-01        3.4000E-02

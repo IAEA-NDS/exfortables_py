@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 14-SI-29(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 14 
+#   A: 29 
+#   Nuclide: 14-SI-29 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.9420e+00 MeV - 4.6210e+00 MeV 
+# Residual: 
+#   Z: 16 
+#   A: 32 
+#   Nuclide: 16-S-32 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6014-003-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-29(A,N)16-S-32,,SIG) 
+#   First author: M.Balakrishnan 
+#   Institute:  (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference:  (J,PR/C,11,(1),54,1975) 
+#   Year:  1975 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6014.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6014
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9420E+00        0.0000E+00        3.6500E-03        0.0000E+00
+        3.0660E+00        0.0000E+00        1.8000E-03        0.0000E+00
+        3.2030E+00        0.0000E+00        2.6400E-03        0.0000E+00
+        3.2840E+00        0.0000E+00        2.9200E-03        0.0000E+00
+        3.3110E+00        0.0000E+00        6.4300E-03        0.0000E+00
+        3.3750E+00        0.0000E+00        3.1600E-03        0.0000E+00
+        3.4350E+00        0.0000E+00        3.4000E-03        0.0000E+00
+        3.4920E+00        0.0000E+00        6.3200E-03        0.0000E+00
+        3.6370E+00        0.0000E+00        1.8300E-03        0.0000E+00
+        3.7590E+00        0.0000E+00        8.0000E-03        0.0000E+00
+        3.8060E+00        0.0000E+00        4.3700E-03        0.0000E+00
+        3.8450E+00        0.0000E+00        3.2100E-03        0.0000E+00
+        4.0070E+00        0.0000E+00        2.2870E-02        0.0000E+00
+        4.0590E+00        0.0000E+00        1.9800E-02        0.0000E+00
+        4.3540E+00        0.0000E+00        1.7070E-02        0.0000E+00
+        4.4080E+00        0.0000E+00        1.6270E-02        0.0000E+00
+        4.4300E+00        0.0000E+00        2.7890E-02        0.0000E+00
+        4.5070E+00        0.0000E+00        2.1830E-02        0.0000E+00
+        4.6210E+00        0.0000E+00        3.1940E-02        0.0000E+00

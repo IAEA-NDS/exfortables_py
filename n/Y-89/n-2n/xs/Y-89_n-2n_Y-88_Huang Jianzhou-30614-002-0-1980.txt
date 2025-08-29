@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 30614-002-0 
-# EXFOR reaction        : (39-Y-89(N,2N)39-Y-88,,SIG) 
-# incident energy       : 1.2810e+01 MeV - 1.8000e+01 MeV 
-# target                : Y-89 
-# product               : Y-88 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Huang Jianzhou 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CNP,2,(3),213,1980) 
-# year                  : 1980 
-# facility              : (CCW): Cockcroft-Walton accelerator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30614.x4 
-# nds                   : https://nds.iaea.org/EXFOR/30614
+# Header: 
+#   Title: 39-Y-89(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2810e+01 MeV - 1.8000e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 88 
+#   Nuclide: 39-Y-88 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30614-002-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(N,2N)39-Y-88,,SIG) 
+#   First author: Huang Jianzhou 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CNP,2,(3),213,1980) 
+#   Year:  1980 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30614
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.2810E+01        0.0000E+00        3.8100E-01        2.2000E-02

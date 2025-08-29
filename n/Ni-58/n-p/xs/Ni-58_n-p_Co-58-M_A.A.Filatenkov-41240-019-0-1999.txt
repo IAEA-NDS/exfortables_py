@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 28-NI-58(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3560e+01 MeV - 1.4780e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41240-019-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,P)27-CO-58-M,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,RI-252,1999) 
+#   Year:  1999 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41240.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41240
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3560E+01        0.0000E+00        2.3400E-01        9.0000E-03
+        1.3740E+01        0.0000E+00        2.1800E-01        9.0000E-03
+        1.3960E+01        0.0000E+00        1.9700E-01        8.0000E-03
+        1.4190E+01        0.0000E+00        1.8200E-01        8.0000E-03
+        1.4420E+01        0.0000E+00        1.7000E-01        7.0000E-03
+        1.4610E+01        0.0000E+00        1.7300E-01        1.1000E-02
+        1.4780E+01        0.0000E+00        1.5000E-01        6.0000E-03

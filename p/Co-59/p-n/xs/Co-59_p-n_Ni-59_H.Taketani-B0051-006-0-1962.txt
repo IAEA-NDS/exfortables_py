@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 27-CO-59(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  4.3700e+00 MeV - 6.5900e+00 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 59 
+#   Nuclide: 28-NI-59 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0051-006-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(P,N)28-NI-59,,SIG,,,EXP) 
+#   First author: H.Taketani 
+#   Institute:  (1USAROC): University of Rochester, Rochester, NY 
+#   Reference:  (J,PR,125,291,1962) 
+#   Year:  1962 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0051.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0051
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.3700E+00        1.0000E-01        1.2500E-01        1.0000E-02
+        4.8700E+00        1.0000E-01        1.7600E-01        1.4000E-02
+        5.6100E+00        1.0000E-01        2.2200E-01        1.7000E-02
+        6.5900E+00        1.0000E-01        2.7500E-01        2.2000E-02

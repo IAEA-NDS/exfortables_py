@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 6-C-0(N,EL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 6 
+#   A: 0 
+#   Nuclide: 6-C-0 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 3 - 2 
+#   Incident energy:  1.3330e+01 MeV - 1.5820e+01 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 0 
+#   Nuclide: 6-C-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22404-005-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-0(N,EL)6-C-0,,SIG) 
+#   First author: G.Boerker 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (C,91JUELIC,,317,1991) 
+#   Year:  1991 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22404.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22404
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3330E+01        1.3400E-01        8.9626E-01        1.8642E-02
+        1.4060E+01        1.2300E-01        8.1266E-01        1.7066E-02
+        1.4530E+01        1.1600E-01        8.1406E-01        1.7421E-02
+        1.5820E+01        1.2100E-01        1.0204E+00        2.2449E-02

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 90-TH-232(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4500e+01 MeV 
+# Residual: 
+#   Z: 90 
+#   A: 231 
+#   Nuclide: 90-TH-231 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22235-002-0 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(N,2N)90-TH-231,,SIG) 
+#   First author: H.Chatani 
+#   Institute:  (2JPNKTO): Kyoto University , Kyoto 
+#   Reference:  (J,ANE,19,(8),425,1992) 
+#   Year:  1992 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22235.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22235
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        2.0000E-01        1.1980E+00        2.3960E-03

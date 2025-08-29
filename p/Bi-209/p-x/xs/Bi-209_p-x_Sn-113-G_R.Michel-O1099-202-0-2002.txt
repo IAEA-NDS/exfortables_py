@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 83-BI-209(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.5410e+02 MeV - 2.5980e+03 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 113 
+#   Nuclide: 50-SN-113-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1099-202-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(P,X)50-SN-113-G,CUM,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERUH): University Hannover (previously Tech.University Hannover) 
+#   Reference:  (J,NSTS,2,242,2002) 
+#   Year:  2002 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O10/O1099.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1099
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5410E+02        1.5210E+00        1.4210E-05        3.2920E-06
+        1.6050E+02        1.4830E+00        2.9440E-05        4.7300E-06
+        2.7650E+02        8.3610E-01        1.4910E-04        1.1100E-05
+        3.1800E+02        1.9600E+00        3.0730E-04        4.4130E-05
+        5.5100E+02        1.6900E+00        6.7820E-04        5.3620E-05
+        7.5700E+02        1.6500E+00        9.5670E-04        7.9340E-05
+        9.9800E+02        6.9000E-01        1.1410E-03        7.2790E-05
+        1.1700E+03        1.4500E+00        1.2030E-03        1.0850E-04
+        1.3980E+03        6.8590E-01        1.3670E-03        8.4190E-05
+        1.5700E+03        1.4700E+00        1.6280E-03        1.2730E-04
+        2.5980E+03        7.2510E-01        2.9210E-03        1.9030E-04

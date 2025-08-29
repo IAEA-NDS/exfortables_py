@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 79-AU-197(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.0000e-02 MeV - 5.2000e-02 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 198 
+#   Nuclide: 79-AU-198 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22099-004-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,G)79-AU-198,,SIG,,MXW,DERIV) 
+#   First author: W.Ratynski 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,PR/C,37,595,1988) 
+#   Year:  1988 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22099.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22099
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E-02        0.0000E+00        1.2060E+00        1.8000E-02
+        1.5000E-02        0.0000E+00        9.0400E-01        1.3000E-02
+        2.0000E-02        0.0000E+00        7.4600E-01        1.1000E-02
+        3.0000E-02        0.0000E+00        5.8200E-01        9.0000E-03
+        3.5000E-02        0.0000E+00        5.3300E-01        8.0000E-03
+        4.0000E-02        0.0000E+00        4.9600E-01        7.0000E-03
+        4.5000E-02        0.0000E+00        4.6700E-01        7.0000E-03
+        5.0000E-02        0.0000E+00        4.4400E-01        7.0000E-03
+        5.2000E-02        0.0000E+00        4.2600E-01        6.0000E-03

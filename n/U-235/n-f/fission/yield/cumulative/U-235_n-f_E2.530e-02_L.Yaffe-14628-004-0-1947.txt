@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 134 
+#   Nuclide: 53-I-134 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14628-004-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)53-I-134,CUM,FY,,SPA) 
+#   First author: L.Yaffe 
+#   Institute:  (1CANCRC): A.E.C.L., Chalk River, Ontario 
+#   Reference:  (J,CJR/B,25,371,1947) 
+#   Year:  1947 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/146/14628.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14628
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+               53              134                         5.8000E-02        1.0000E-03
+               53              134                         5.7000E-02        2.5000E-03

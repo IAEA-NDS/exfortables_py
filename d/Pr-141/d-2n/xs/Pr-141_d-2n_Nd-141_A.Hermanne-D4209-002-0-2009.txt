@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 59-PR-141(D,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 59 
+#   A: 141 
+#   Nuclide: 59-PR-141 
+# Reaction: 
+#   Process: D,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  7.4000e+00 MeV - 2.0600e+01 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 141 
+#   Nuclide: 60-ND-141 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4209-002-0 (entry-subentry-pointer) 
+#   Reaction code: (59-PR-141(D,2N)60-ND-141,,SIG) 
+#   First author: A.Hermanne 
+#   Institute:  (2BLGVUB): Vrije Universiteit Brussels, Brussels 
+#   Reference:  (J,NIM/B,267,727,2009) 
+#   Year:  2009 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4209.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4209
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0600E+01        2.0000E-01        7.1640E-01        7.1600E-02
+        1.8600E+01        3.0000E-01        1.0247E+00        1.0250E-01
+        1.6800E+01        3.0000E-01        1.1001E+00        1.1000E-01
+        1.4800E+01        4.0000E-01        1.3749E+00        1.3750E-01
+        1.2700E+01        5.0000E-01        9.9010E-01        9.9000E-02
+        1.0300E+01        6.0000E-01        6.1920E-01        6.1900E-02
+        7.4000E+00        8.0000E-01        5.2700E-02        5.3000E-03

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-238(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 1 
+#   Nuclide: 0-NN-1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21725-007-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,X)0-NN-1,EM,SIG) 
+#   First author: J.Voignier 
+#   Institute:  (2FR VNV): Centre d'Etudes de Limeil, Villeneuve-Saint-Georges 
+#   Reference:  (R,CEA-R-3503,1968) 
+#   Year:  1968 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21725.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21725
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        1.0000E-01        8.4700E+00        7.2000E-01

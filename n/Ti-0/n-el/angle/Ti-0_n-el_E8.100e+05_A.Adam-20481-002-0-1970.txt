@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 22-TI-0(N,EL)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 22 
+#   A: 0 
+#   Nuclide: 22-TI-0 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 4 - 2 
+#   Incident energy:  8.1000e-01 MeV 
+# Residual: 
+#   Z: 22 
+#   A: 0 
+#   Nuclide: 22-TI-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20481-002-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-0(N,EL)22-TI-0,,DA) 
+#   First author: A.Adam 
+#   Institute:  (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
+#   Reference:  (J,JPR/C,31,C2-217,1970) 
+#   Year:  1970 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20481.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20481
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+       -8.6602E-01        0.0000E+00        1.5400E-01        1.2320E-02
+       -6.4278E-01        0.0000E+00        1.0700E-01        8.5600E-03
+       -3.2556E-01        0.0000E+00        9.7000E-02        7.7600E-03
+       -1.5643E-01        0.0000E+00        1.0300E-01        8.2400E-03
+        0.0000E+00        0.0000E+00        1.1500E-01        9.2000E-03
+        2.2495E-01        0.0000E+00        1.5100E-01        1.2080E-02
+        4.0673E-01        0.0000E+00        2.0300E-01        1.6240E-02
+        5.8778E-01        0.0000E+00        2.7000E-01        2.1600E-02
+        7.6604E-01        0.0000E+00        3.5900E-01        2.8720E-02
+        8.6602E-01        0.0000E+00        4.2500E-01        3.4000E-02
+        9.3969E-01        0.0000E+00        4.8200E-01        3.8560E-02

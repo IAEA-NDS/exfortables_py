@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32846-002-0 
-# EXFOR reaction        : (33-AS-75(N,G)33-AS-76,,SIG) 
-# incident energy       : 2.9000e-02 MeV - 1.1000e+00 MeV 
-# target                : As-75 
-# product               : As-76 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Shi Shu-Ting 
-# institute             : (3CPRSIU): Sichuan University , Chengdu 
-# reference             : (J,CNPR,24,29,2007) 
-# year                  : 2007 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32846.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32846
+# Header: 
+#   Title: 33-AS-75(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 33 
+#   A: 75 
+#   Nuclide: 33-AS-75 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.9000e-02 MeV - 1.1000e+00 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 76 
+#   Nuclide: 33-AS-76 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32846-002-0 (entry-subentry-pointer) 
+#   Reaction code: (33-AS-75(N,G)33-AS-76,,SIG) 
+#   First author: Shi Shu-Ting 
+#   Institute:  (3CPRSIU): Sichuan University , Chengdu 
+#   Reference:  (J,CNPR,24,29,2007) 
+#   Year:  2007 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32846.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32846
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         2.9000E-02        7.0000E-03        2.9970E-01        0.0000E+00

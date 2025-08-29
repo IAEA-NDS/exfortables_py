@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-238(N,EL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 3 - 2 
+#   Incident energy:  1.4200e+01 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30762-019-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,EL)92-U-238,EXL,SIG,,,DERIV) 
+#   First author: Ma Gonggui 
+#   Institute:  (3CPRSIU): Sichuan University , Chengdu 
+#   Reference:  (R,INDC(CPR)-11,135,1988) 
+#   Year:  1988 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30762.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30762
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        0.0000E+00        3.0530E+00        1.3652E-01

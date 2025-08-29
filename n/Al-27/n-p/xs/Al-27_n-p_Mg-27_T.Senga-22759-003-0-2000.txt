@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 13-AL-27(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  2.7847e+00 MeV - 3.2843e+00 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 27 
+#   Nuclide: 12-MG-27 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22759-003-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,P)12-MG-27,,SIG) 
+#   First author: T.Senga 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((S,JAERI-C-2000-005,208,2000)=(S,INDC(JPN)-185,208,2000)) 
+#   Year:  2000 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22759.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22759
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7847E+00        7.3613E-03        1.2825E-04        7.9827E-05
+        3.0441E+00        7.3613E-03        8.4121E-04        3.7268E-04
+        3.2843E+00        7.3613E-03        1.3695E-03        5.1305E-04

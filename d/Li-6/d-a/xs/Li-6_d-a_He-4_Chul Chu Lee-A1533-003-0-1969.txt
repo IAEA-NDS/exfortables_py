@@ -1,17 +1,30 @@
-# entry-subent-pointer  : A1533-003-0 
-# EXFOR reaction        : (3-LI-6(D,A)2-HE-4,,SIG) 
-# incident energy       : 4.0400e-02 MeV - 8.9400e-02 MeV 
-# target                : Li-6 
-# product               : He-4 
-# level energy          : - 
-# MF-MT number          : 3 - 107 
-# first author          : Chul Chu Lee 
-# institute             : (3KORYON): Yonsei University, Seoul 
-# reference             : (J,KPS,2,(1),1,196904) 
-# year                  : 1969 
-# facility              : (CCW): Cockcroft-Walton accelerator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A15/A1533.x4 
-# nds                   : https://nds.iaea.org/EXFOR/A1533
+# Header: 
+#   Title: 3-LI-6(D,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: D,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  4.0400e-02 MeV - 8.9400e-02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1533-003-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(D,A)2-HE-4,,SIG) 
+#   First author: Chul Chu Lee 
+#   Institute:  (3KORYON): Yonsei University, Seoul 
+#   Reference:  (J,KPS,2,(1),1,196904) 
+#   Year:  1969 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A15/A1533.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1533
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         4.0400E-02        4.0000E-04        6.2000E-06        3.7200E-08

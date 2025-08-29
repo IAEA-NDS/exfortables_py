@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 74-W-182(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 74 
+#   A: 182 
+#   Nuclide: 74-W-182 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 182 
+#   Nuclide: 73-TA-182-M2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20668-006-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-182(N,P)73-TA-182-M2,,SIG) 
+#   First author: S.M.Qaim 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,NP/A,242,317,1975) 
+#   Year:  1975 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20668.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20668
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        1.2000E-04        1.5000E-05

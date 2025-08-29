@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 59-PR-141(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 59 
+#   A: 141 
+#   Nuclide: 59-PR-141 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2410e+01 MeV - 1.7980e+01 MeV 
+# Residual: 
+#   Z: 59 
+#   A: 140 
+#   Nuclide: 59-PR-140 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11356-005-0 (entry-subentry-pointer) 
+#   Reaction code: (59-PR-141(N,2N)59-PR-140,,SIG) 
+#   First author: J.M.Ferguson 
+#   Institute:  (1USANRD): U.S. Naval Radiolog. Defense Laboratory , San Francisco, CA 
+#   Reference:  (J,PR,118,228,1960) 
+#   Year:  1960 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11356.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11356
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2410E+01        1.2000E-01        1.2310E+00        1.1100E-01
+        1.3770E+01        2.0000E-01        1.3860E+00        1.2500E-01
+        1.4740E+01        2.7000E-01        1.5910E+00        1.4300E-01
+        1.5780E+01        3.2000E-01        1.7370E+00        1.5600E-01
+        1.6960E+01        3.4000E-01        1.6060E+00        1.4500E-01
+        1.7980E+01        2.4000E-01        1.6670E+00        1.5000E-01

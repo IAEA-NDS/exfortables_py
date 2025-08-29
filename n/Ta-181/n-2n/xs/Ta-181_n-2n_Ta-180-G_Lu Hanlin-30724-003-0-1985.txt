@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 30724-003-0 
-# EXFOR reaction        : (73-TA-181(N,2N)73-TA-180-G,,SIG) 
-# incident energy       : 1.2320e+01 MeV - 1.8250e+01 MeV 
-# target                : Ta-181 
-# product               : Ta-180-G 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Lu Hanlin 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,NSE,90,304,1985) 
-# year                  : 1985 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30724.x4 
-# nds                   : https://nds.iaea.org/EXFOR/30724
+# Header: 
+#   Title: 73-TA-181(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2320e+01 MeV - 1.8250e+01 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 180 
+#   Nuclide: 73-TA-180-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30724-003-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-181(N,2N)73-TA-180-G,,SIG) 
+#   First author: Lu Hanlin 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,NSE,90,304,1985) 
+#   Year:  1985 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30724.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30724
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.2320E+01        2.2000E-01        1.2860E+00        5.0000E-02

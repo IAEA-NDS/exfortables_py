@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 83-BI-209(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.2500e+01 MeV - 2.1800e+01 MeV 
+# Residual: 
+#   Z: 83 
+#   A: 210 
+#   Nuclide: 83-BI-210 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0574-008-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(D,P)83-BI-210,,SIG) 
+#   First author: A.V.Gonchar 
+#   Institute:  (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+#   Reference:  (J,IZV,58,(5),81,1994) 
+#   Year:  1994 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0574.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0574
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1800E+01        0.0000E+00        7.8000E-02        2.0000E-02
+        2.1500E+01        0.0000E+00        7.2000E-02        1.8000E-02
+        1.7500E+01        0.0000E+00        1.0500E-01        2.5000E-02
+        1.7200E+01        0.0000E+00        9.3000E-02        2.4000E-02
+        1.2800E+01        0.0000E+00        1.2900E-01        2.8000E-02
+        1.2500E+01        0.0000E+00        1.0900E-01        2.4000E-02

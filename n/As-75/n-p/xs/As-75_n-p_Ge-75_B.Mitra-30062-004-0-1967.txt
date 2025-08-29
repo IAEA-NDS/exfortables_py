@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 33-AS-75(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 33 
+#   A: 75 
+#   Nuclide: 33-AS-75 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4100e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 32 
+#   A: 75 
+#   Nuclide: 32-GE-75 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30062-004-0 (entry-subentry-pointer) 
+#   Reaction code: (33-AS-75(N,P)32-GE-75,,SIG) 
+#   First author: B.Mitra 
+#   Institute:  (3INDBOS): Bose Institute, Kolkata 
+#   Reference:  (C,67KANPUR,,367,1967) 
+#   Year:  1967 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30062.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30062
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        1.8000E-01        1.5000E-02        4.0000E-03
+        1.4800E+01        2.0000E-02        3.3000E-02        3.0000E-03

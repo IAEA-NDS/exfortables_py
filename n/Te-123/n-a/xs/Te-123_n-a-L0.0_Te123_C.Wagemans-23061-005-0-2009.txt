@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 52-TE-123(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 52 
+#   A: 123 
+#   Nuclide: 52-TE-123 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 800.0 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 120 
+#   Nuclide: 50-SN-120 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 23061-005-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-123(N,A)50-SN-120,PAR,SIG,,MXW) 
+#   First author: C.Wagemans 
+#   Institute:  (2FR ILL): Institut Laue-Langevin, Grenoble 
+#   Reference:  (S,AIP-1090,84,2009) 
+#   Year:  2009 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23061.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23061
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        6.2000E-05        5.0000E-06

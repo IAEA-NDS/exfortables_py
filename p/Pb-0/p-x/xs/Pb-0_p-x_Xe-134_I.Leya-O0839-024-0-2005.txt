@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 82-PB-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.4200e+01 MeV - 2.5950e+03 MeV 
+# Residual: 
+#   Z: 54 
+#   A: 134 
+#   Nuclide: 54-XE-134 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0839-024-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(P,X)54-XE-134,CUM,SIG) 
+#   First author: I.Leya 
+#   Institute:  (2SWTETH): Eidgenossische Technische Hochschule, Zuerich 
+#   Reference:  (J,NIM/B,229,1,2005) 
+#   Year:  2005 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O08/O0839.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0839
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.4200E+01        9.0000E-01        3.3800E-06        3.3000E-07
+        5.7500E+01        8.0000E-01        5.8200E-06        5.3000E-07
+        6.5500E+01        7.0000E-01        1.0900E-05        9.0000E-07
+        7.6500E+01        1.8000E+00        1.2000E-05        1.5000E-06
+        8.7000E+01        1.8000E+00        1.4600E-05        1.9000E-06
+        9.6500E+01        1.7000E+00        1.7100E-05        2.0000E-06
+        1.0500E+02        2.0000E+00        1.7600E-05        2.1000E-06
+        1.1400E+02        2.0000E+00        2.0300E-05        2.0000E-06
+        1.2200E+02        2.0000E+00        1.7600E-05        2.0000E-06
+        1.5800E+02        1.0000E+00        1.5400E-05        1.8000E-06
+        2.7300E+02        1.0000E+00        7.1200E-06        1.2300E-06
+        5.5400E+02        2.0000E+00        2.3900E-05        9.2000E-06
+        7.5900E+02        2.0000E+00        2.5700E-05        3.0000E-06
+        9.9300E+02        1.0000E+00        1.0300E-05        1.3000E-06
+        1.3950E+03        1.0000E+00        9.1000E-06        8.2000E-07
+        1.5670E+03        1.0000E+00        1.3400E-05        4.9000E-06
+        2.5950E+03        1.0000E+00        9.9800E-06        1.4800E-06

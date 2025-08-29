@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31629-002-0 
-# EXFOR reaction        : (52-TE-128(N,2N)52-TE-127-M,,SIG) 
-# incident energy       : 1.4100e+01 MeV - 1.4600e+01 MeV 
-# target                : Te-128 
-# product               : Te-127-M 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Zhou Feng-Qun 
-# institute             : (3CPRPDU): Pingdingshan University , Pingdingshan 
-# reference             : (J,PHE,31,625,2007) 
-# year                  : 2007 
-# facility              : (FNS): Fusion neutron source 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31629.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31629
+# Header: 
+#   Title: 52-TE-128(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 52 
+#   A: 128 
+#   Nuclide: 52-TE-128 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4100e+01 MeV - 1.4600e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 127 
+#   Nuclide: 52-TE-127-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31629-002-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-128(N,2N)52-TE-127-M,,SIG) 
+#   First author: Zhou Feng-Qun 
+#   Institute:  (3CPRPDU): Pingdingshan University , Pingdingshan 
+#   Reference:  (J,PHE,31,625,2007) 
+#   Year:  2007 
+#   Facility:  (FNS): Fusion neutron source 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31629.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31629
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.4100E+01        2.0000E-01        7.3700E-01        6.9000E-02

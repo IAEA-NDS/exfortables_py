@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 30685-003-0 
-# EXFOR reaction        : (62-SM-152(N,G)62-SM-153,,SIG) 
-# incident energy       : 1.5900e-01 MeV - 1.4730e+00 MeV 
-# target                : Sm-152 
-# product               : Sm-153 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Zhou Zuying 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CNP,6,174,1984) 
-# year                  : 1984 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30685.x4 
-# nds                   : https://nds.iaea.org/EXFOR/30685
+# Header: 
+#   Title: 62-SM-152(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 62 
+#   A: 152 
+#   Nuclide: 62-SM-152 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.5900e-01 MeV - 1.4730e+00 MeV 
+# Residual: 
+#   Z: 62 
+#   A: 153 
+#   Nuclide: 62-SM-153 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30685-003-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-152(N,G)62-SM-153,,SIG) 
+#   First author: Zhou Zuying 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CNP,6,174,1984) 
+#   Year:  1984 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30685.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30685
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.5900E-01        0.0000E+00        2.1230E-01        1.3300E-02

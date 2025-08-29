@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 1-H-2(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  6.8500e+00 MeV - 1.4000e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13121-003-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(N,G)1-H-3,,SIG) 
+#   First author: G.Mitev 
+#   Institute:  (1USATNL): Triangle Universities Nuclear Laboratory , Durham, NC 
+#   Reference:  (J,PR/C,34,389,8608) 
+#   Year:  1986 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13121.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13121
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.8500E+00        0.0000E+00        1.1500E-05        0.0000E+00
+        9.0000E+00        0.0000E+00        1.1500E-05        0.0000E+00
+        1.0800E+01        0.0000E+00        1.0700E-05        0.0000E+00
+        1.4000E+01        0.0000E+00        7.9800E-06        0.0000E+00

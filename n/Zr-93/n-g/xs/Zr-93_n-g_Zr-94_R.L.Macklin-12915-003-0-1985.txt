@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 40-ZR-93(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 93 
+#   Nuclide: 40-ZR-93 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.5000e-03 MeV - 2.5000e-01 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 94 
+#   Nuclide: 40-ZR-94 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 12915-003-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-93(N,G)40-ZR-94,,SIG,,AV) 
+#   First author: R.L.Macklin 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,ASP,115,71,85) 
+#   Year:  1985 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12915.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12915
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5000E-03        0.0000E+00        5.0700E-01        8.0000E-03
+        5.0000E-03        0.0000E+00        4.6800E-01        5.0000E-03
+        7.0000E-03        0.0000E+00        2.9800E-01        4.0000E-03
+        9.0000E-03        0.0000E+00        1.7100E-01        3.0000E-03
+        1.2500E-02        0.0000E+00        1.9600E-01        3.0000E-03
+        1.7500E-02        0.0000E+00        1.1600E-01        3.0000E-03
+        2.5000E-02        0.0000E+00        1.1500E-01        1.6000E-02
+        3.5000E-02        0.0000E+00        1.1500E-01        1.3000E-02
+        5.0000E-02        0.0000E+00        6.4000E-02        1.1000E-02
+        7.0000E-02        0.0000E+00        3.9000E-02        9.0000E-03
+        9.0000E-02        0.0000E+00        3.2000E-02        8.0000E-03
+        1.2500E-01        0.0000E+00        1.9000E-02        7.0000E-03
+        1.7500E-01        0.0000E+00        2.7000E-02        6.0000E-03
+        2.5000E-01        0.0000E+00        2.7000E-02        5.0000E-03

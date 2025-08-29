@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31500-002-0 
-# EXFOR reaction        : (30-ZN-64(N,P)29-CU-64,,SIG) 
-# incident energy       : 4.0000e+00 MeV - 1.9020e+01 MeV 
-# target                : Zn-64 
-# product               : Cu-64 
-# level energy          : - 
-# MF-MT number          : 3 - 103 
-# first author          : Xiaolong Huang 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,NSE,131,267,1999) 
-# year                  : 1999 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31500.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31500
+# Header: 
+#   Title: 30-ZN-64(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  4.0000e+00 MeV - 1.9020e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 64 
+#   Nuclide: 29-CU-64 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31500-002-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(N,P)29-CU-64,,SIG) 
+#   First author: Xiaolong Huang 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,NSE,131,267,1999) 
+#   Year:  1999 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31500.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31500
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         4.0000E+00        1.6000E-01        1.3290E-01        3.8000E-03

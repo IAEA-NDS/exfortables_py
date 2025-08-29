@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 63-EU-151(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 63 
+#   A: 151 
+#   Nuclide: 63-EU-151 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.2250e+01 MeV - 1.7040e+01 MeV 
+# Residual: 
+#   Z: 65 
+#   A: 155 
+#   Nuclide: 65-TB-155 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4241-002-0 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-151(A,G)65-TB-155,,SIG) 
+#   First author: Gy.Gyurky 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,JP/G,37,115201,2010) 
+#   Year:  2010 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4241.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4241
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2250E+01        4.0000E-02        4.9300E-06        1.1600E-06
+        1.2650E+01        4.0000E-02        1.2200E-05        2.4000E-06
+        1.3140E+01        4.0000E-02        1.8800E-05        2.7000E-06
+        1.3720E+01        4.0000E-02        4.0300E-05        5.1000E-06
+        1.4110E+01        4.0000E-02        5.0700E-05        6.9000E-06
+        1.4110E+01        4.0000E-02        5.7300E-05        7.3000E-06
+        1.4690E+01        5.0000E-02        9.9300E-05        1.2700E-05
+        1.4690E+01        4.0000E-02        8.0200E-05        1.1600E-05
+        1.5100E+01        5.0000E-02        1.2300E-04        1.8000E-05
+        1.5580E+01        5.0000E-02        1.8700E-04        2.4000E-05
+        1.5580E+01        5.0000E-02        1.9000E-04        2.7000E-05
+        1.6070E+01        5.0000E-02        2.2800E-04        2.9000E-05
+        1.6620E+01        5.0000E-02        2.8700E-04        3.7000E-05
+        1.7040E+01        5.0000E-02        3.0500E-04        4.3000E-05

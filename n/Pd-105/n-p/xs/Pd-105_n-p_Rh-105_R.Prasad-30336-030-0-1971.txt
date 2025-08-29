@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 46-PD-105(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 46 
+#   A: 105 
+#   Nuclide: 46-PD-105 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 105 
+#   Nuclide: 45-RH-105 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30336-030-0 (entry-subentry-pointer) 
+#   Reaction code: (46-PD-105(N,P)45-RH-105,,SIG) 
+#   First author: R.Prasad 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  (J,NC/A,3,467,1971) 
+#   Year:  1971 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30336.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30336
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        5.0000E-01        5.0000E-02        6.0000E-03

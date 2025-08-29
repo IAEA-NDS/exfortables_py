@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 62-SM-154(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 62 
+#   A: 154 
+#   Nuclide: 62-SM-154 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 151 
+#   Nuclide: 60-ND-151 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21997-021-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-154(N,A)60-ND-151,,SIG) 
+#   First author: S.M.Qaim 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,RCA,35,5,1984) 
+#   Year:  1984 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21997.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21997
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        1.1500E-03        1.5000E-04

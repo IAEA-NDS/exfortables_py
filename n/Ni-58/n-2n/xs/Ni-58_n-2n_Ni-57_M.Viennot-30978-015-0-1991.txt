@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 28-NI-58(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3770e+01 MeV - 1.4830e+01 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 57 
+#   Nuclide: 28-NI-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30978-015-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,2N)28-NI-57,,SIG) 
+#   First author: M.Viennot 
+#   Institute:  (2FR FR ): France 
+#   Reference:  (J,NSE,108,289,1991) 
+#   Year:  1991 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30978.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30978
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3770E+01        1.3000E-01        1.3600E-02        5.0000E-04
+        1.3930E+01        1.2000E-01        1.7600E-02        5.0000E-04
+        1.4110E+01        1.3000E-01        2.0200E-02        6.0000E-04
+        1.4300E+01        1.4000E-01        2.4300E-02        7.0000E-04
+        1.4470E+01        1.7000E-01        2.7400E-02        7.0000E-04
+        1.4830E+01        2.5000E-01        3.0700E-02        8.0000E-04

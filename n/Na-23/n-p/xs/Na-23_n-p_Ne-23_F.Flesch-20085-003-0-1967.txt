@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 11-NA-23(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 11 
+#   A: 23 
+#   Nuclide: 11-NA-23 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 10 
+#   A: 23 
+#   Nuclide: 10-NE-23 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20085-003-0 (entry-subentry-pointer) 
+#   Reaction code: (11-NA-23(N,P)10-NE-23,,SIG) 
+#   First author: F.Flesch 
+#   Institute:  (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
+#   Reference:  (J,OAW,176,45,1967) 
+#   Year:  1967 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20085.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20085
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        1.0000E-01        4.4000E-02        9.2400E-03

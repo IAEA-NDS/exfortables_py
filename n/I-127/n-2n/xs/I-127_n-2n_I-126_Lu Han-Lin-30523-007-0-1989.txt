@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 30523-007-0 
-# EXFOR reaction        : (53-I-127(N,2N)53-I-126,,SIG) 
-# incident energy       : 1.1400e+01 MeV - 1.7970e+01 MeV 
-# target                : I-127 
-# product               : I-126 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Lu Han-Lin 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (R,INDC(CPR)-16,198908) 
-# year                  : 1989 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30523.x4 
-# nds                   : https://nds.iaea.org/EXFOR/30523
+# Header: 
+#   Title: 53-I-127(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 53 
+#   A: 127 
+#   Nuclide: 53-I-127 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.1400e+01 MeV - 1.7970e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 126 
+#   Nuclide: 53-I-126 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30523-007-0 (entry-subentry-pointer) 
+#   Reaction code: (53-I-127(N,2N)53-I-126,,SIG) 
+#   First author: Lu Han-Lin 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (R,INDC(CPR)-16,198908) 
+#   Year:  1989 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30523.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30523
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.7970E+01        2.7000E-01        1.6240E+00        9.4000E-02

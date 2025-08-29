@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 45-RH-103(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.3580e+01 MeV - 1.4740e+01 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10386-006-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,INL)45-RH-103-M,,SIG) 
+#   First author: D.C.Santry 
+#   Institute:  (1CANCRC): A.E.C.L., Chalk River, Ontario 
+#   Reference:  (J,CJP,52,1421,197408) 
+#   Year:  1974 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/103/10386.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10386
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3580E+01        1.0000E-01        3.5900E-01        1.6000E-02
+        1.3890E+01        6.0000E-02        3.2500E-01        1.5000E-02
+        1.4240E+01        8.0000E-02        2.9700E-01        1.3000E-02
+        1.4500E+01        1.5000E-01        2.8100E-01        1.3000E-02
+        1.4740E+01        2.0000E-01        2.7200E-01        1.2000E-02

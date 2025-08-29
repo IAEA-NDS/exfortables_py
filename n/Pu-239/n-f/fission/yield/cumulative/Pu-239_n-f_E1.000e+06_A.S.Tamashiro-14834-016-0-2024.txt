@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 94-PU-239(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 94 
+#   A: 239 
+#   Nuclide: 94-PU-239 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  1.0000e+00 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 129 
+#   Nuclide: 51-SB-129-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14834-016-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-239(N,F)51-SB-129-G,CUM,FY,,FST) 
+#   First author: A.S.Tamashiro 
+#   Institute:  (1USAORU): Oregon State University, Corvallis, OR 
+#   Reference:  (J,NDS,193,153,2024) 
+#   Year:  2024 
+#   Facility:  (CRASS): Critical assembly 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/148/14834.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14834
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+               51              129G                        1.3140E-02        8.8000E-04
+               51              129G                        1.3730E-02        1.1900E-03

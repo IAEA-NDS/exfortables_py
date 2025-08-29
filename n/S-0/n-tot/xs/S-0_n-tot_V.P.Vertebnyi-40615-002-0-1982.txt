@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 16-S-0(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 16 
+#   A: 0 
+#   Nuclide: 16-S-0 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  2.5300e-08 MeV - 1.0000e-06 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40615-002-0 (entry-subentry-pointer) 
+#   Reaction code: (16-S-0(N,TOT),,SIG) 
+#   First author: V.P.Vertebnyi 
+#   Institute:  (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+#   Reference:  ((J,YK,,(1/45),10,1982)=(R,INDC(CCP)-181,10,1982)) 
+#   Year:  1982 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40615.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40615
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.5090E+00        1.0000E-02
+        3.0000E-08        0.0000E+00        1.4620E+00        1.0000E-02
+        4.0000E-08        0.0000E+00        1.3930E+00        9.0000E-03
+        5.0000E-08        0.0000E+00        1.3330E+00        9.0000E-03
+        6.0000E-08        0.0000E+00        1.3230E+00        8.0000E-03
+        1.2000E-07        0.0000E+00        1.2140E+00        8.0000E-03
+        2.4000E-07        0.0000E+00        1.1450E+00        8.0000E-03
+        5.0000E-07        0.0000E+00        1.0770E+00        7.0000E-03
+        1.0000E-06        0.0000E+00        1.0480E+00        7.0000E-03

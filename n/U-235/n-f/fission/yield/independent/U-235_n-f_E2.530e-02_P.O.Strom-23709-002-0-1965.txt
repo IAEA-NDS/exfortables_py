@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23709-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)ELEM/MASS,IND,FY) 
+#   First author: P.O.Strom 
+#   Institute:  (2NOROSL): University of Oslo, Oslo 
+#   Reference:  (J,CJC,43,2493,1965) 
+#   Year:  1965 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/237/23709.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23709
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             51.0            124.0              0.0        1.3500E-06        0.0000E+00
+             51.0            124.0              0.0        5.5000E-07        0.0000E+00
+             51.0            124.0              0.0        9.3000E-08        0.0000E+00
+             51.0            124.0              0.0        9.6000E-08        0.0000E+00
+             51.0            124.0              0.0        9.5000E-08        1.4000E-08
+             51.0            126.0              0.0        9.1000E-06        0.0000E+00
+             51.0            126.0              0.0        8.8000E-06        0.0000E+00
+             51.0            126.0              0.0        1.1100E-05        0.0000E+00
+             51.0            126.0              0.0        1.2300E-05        0.0000E+00
+             51.0            126.0              0.0        1.0400E-05        1.8000E-06

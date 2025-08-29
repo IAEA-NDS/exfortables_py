@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 47-AG-109(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 47 
+#   A: 109 
+#   Nuclide: 47-AG-109 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4500e+01 MeV 
+# Residual: 
+#   Z: 47 
+#   A: 108 
+#   Nuclide: 47-AG-108-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22205-004-2 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-109(N,2N)47-AG-108-M,,SIG) 
+#   First author: J.Csikai 
+#   Institute:  (2GERKIG): GKSS, Geesthacht 
+#   Reference:  (J,ANE,18,(1),1,1991) 
+#   Year:  1991 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22205.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22205
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        3.0000E-01        2.6300E-01        2.0000E-02

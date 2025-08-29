@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 38-SR-84(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 38 
+#   A: 84 
+#   Nuclide: 38-SR-84 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5000e-02 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 85 
+#   Nuclide: 38-SR-85-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22892-019-2 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-84(N,G)38-SR-85-G,,SIG,,MXW) 
+#   First author: I.Dillmann 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,PR/C,73,015803,2006) 
+#   Year:  2006 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22892.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22892
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E-02        5.0000E-04        1.1900E-01        9.0000E-03

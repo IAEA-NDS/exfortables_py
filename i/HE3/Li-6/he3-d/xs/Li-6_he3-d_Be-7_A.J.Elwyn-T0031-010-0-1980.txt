@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 3-LI-6(HE3,D)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: HE3,D 
+#   MF-MT number: 3 - 104 
+#   Incident energy:  1.2910e+00 MeV - 1.6020e+00 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: T0031-010-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(HE3,D)4-BE-7,,SIG) 
+#   First author: A.J.Elwyn 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,PR/C,22,1406,198010) 
+#   Year:  1980 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T00/T0031.x4 
+#   nds:  https://nds.iaea.org/EXFOR/T0031
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2910E+00        1.0000E-02        2.0950E-01        5.2375E-02
+        1.3840E+00        1.0000E-02        2.4140E-01        6.0350E-02
+        1.4940E+00        1.0000E-02        2.4490E-01        6.1225E-02
+        1.6020E+00        1.0000E-02        2.1900E-01        5.4750E-02

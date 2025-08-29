@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 12-MG-25(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 12 
+#   A: 25 
+#   Nuclide: 12-MG-25 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  4.0000e+00 MeV - 6.0000e+00 MeV 
+# Residual: 
+#   Z: 10 
+#   A: 22 
+#   Nuclide: 10-NE-22 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32783-002-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-25(N,A)10-NE-22,,SIG) 
+#   First author: Yu.M.Gledenov 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,PR/C,98,034605,2018) 
+#   Year:  2018 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32783.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32783
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+00        2.0000E-01        2.2320E-02        3.0300E-03
+        4.5000E+00        2.0000E-01        2.6710E-02        2.6200E-03
+        5.0000E+00        1.0000E-01        2.9310E-02        6.0900E-03
+        5.5000E+00        1.0000E-01        3.7470E-02        2.7900E-03
+        6.0000E+00        1.0000E-01        3.9460E-02        3.1800E-03

@@ -1,0 +1,51 @@
+# Header: 
+#   Title: 12-MG-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 12 
+#   A: 0 
+#   Nuclide: 12-MG-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.5880e+00 MeV - 1.3799e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 22 
+#   Nuclide: 11-NA-22 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1220-002-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-0(D,X)11-NA-22,,SIG) 
+#   First author: N.A.Vlasov 
+#   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference:  (J,AE,2,169,1957) 
+#   Year:  1957 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F12/F1220.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1220
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5880E+00        2.3000E-02        1.3300E-03        1.9950E-04
+        3.4590E+00        2.3000E-02        1.0590E-02        1.5885E-03
+        4.4110E+00        2.3000E-02        3.8410E-02        5.7615E-03
+        5.1640E+00        2.3000E-02        7.4470E-02        1.1170E-02
+        5.7990E+00        2.3000E-02        1.1157E-01        1.6736E-02
+        6.4730E+00        2.3000E-02        1.3939E-01        2.0908E-02
+        7.0670E+00        2.3000E-02        1.5381E-01        2.3072E-02
+        7.6220E+00        2.3000E-02        1.7133E-01        2.5700E-02
+        8.1370E+00        2.3000E-02        1.8472E-01        2.7708E-02
+        8.6920E+00        2.3000E-02        1.8883E-01        2.8325E-02
+        9.1280E+00        2.3000E-02        1.8985E-01        2.8477E-02
+        9.5640E+00        2.3000E-02        2.0325E-01        3.0488E-02
+        1.0078E+01        2.3000E-02        1.9499E-01        2.9249E-02
+        1.0474E+01        2.3000E-02        1.8571E-01        2.7857E-02
+        1.0909E+01        2.3000E-02        1.7848E-01        2.6772E-02
+        1.1345E+01        2.3000E-02        1.6919E-01        2.5379E-02
+        1.1820E+01        2.3000E-02        1.6609E-01        2.4914E-02
+        1.2255E+01        2.3000E-02        1.5681E-01        2.3522E-02
+        1.2611E+01        2.3000E-02        1.4340E-01        2.1510E-02
+        1.3126E+01        2.3000E-02        1.4029E-01        2.1044E-02
+        1.3640E+01        2.3000E-02        1.2998E-01        1.9497E-02
+        1.3799E+01        2.3000E-02        1.1657E-01        1.7485E-02

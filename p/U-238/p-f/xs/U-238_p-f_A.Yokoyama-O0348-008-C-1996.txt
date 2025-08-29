@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-238(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  8.6000e+00 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 94 
+#   Nuclide: 37-RB-94 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0348-008-C (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(P,F)37-RB-94,CUM,SIG) 
+#   First author: A.Yokoyama 
+#   Institute:  (2JPNOSA): Osaka University , Osaka 
+#   Reference:  (J,ZP/A,356,55,1996) 
+#   Year:  1996 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O03/O0348.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0348
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.6000E+00        0.0000E+00        2.7000E-04        6.0000E-05

@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 13-AL-27(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  4.4200e+00 MeV - 8.3500e+00 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 27 
+#   Nuclide: 12-MG-27 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21049-002-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,P)12-MG-27,,SIG) 
+#   First author: A.B.M.G.Mostafa 
+#   Institute:  (2UK BIR): University of Birmingham, England 
+#   Reference:  (J,NSP/B,9,10,7610) 
+#   Year:  1976 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21049.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21049
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.4200E+00        0.0000E+00        1.2000E-02        1.3000E-03
+        5.0000E+00        0.0000E+00        2.7000E-02        2.0000E-03
+        6.1000E+00        0.0000E+00        4.3000E-02        3.0000E-03
+        7.1000E+00        0.0000E+00        6.2000E-02        4.0000E-03
+        8.0000E+00        0.0000E+00        7.5000E-02        4.0000E-03
+        8.3500E+00        0.0000E+00        8.6000E-02        5.0000E-03

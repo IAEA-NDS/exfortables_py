@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 24-CR-50(N,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 24 
+#   A: 50 
+#   Nuclide: 24-CR-50 
+# Reaction: 
+#   Process: N,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  3.0000e+01 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 48 
+#   Nuclide: 24-CR-48 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21649-003-0 (entry-subentry-pointer) 
+#   Reaction code: (24-CR-50(N,3N)24-CR-48,,SIG,,SPA) 
+#   First author: S.M.Qaim 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (R,BNL-NCS-51245,539,1980) 
+#   Year:  1980 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21649.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21649
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+01        0.0000E+00        7.0000E-05        3.0000E-05

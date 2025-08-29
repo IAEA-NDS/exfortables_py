@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 45-RH-103(N,HE3)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,HE3 
+#   MF-MT number: 3 - 106 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 101 
+#   Nuclide: 43-TC-101 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20030-006-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,HE3)43-TC-101,,SIG) 
+#   First author: E.Frevert 
+#   Institute:  (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
+#   Reference:  (J,APA,20,304,1965) 
+#   Year:  1965 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20030.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20030
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        1.3000E-05        6.5000E-06

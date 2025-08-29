@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 41-NB-93(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  3.4300e+01 MeV - 1.1350e+02 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 95 
+#   Nuclide: 43-TC-95 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1230-003-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(A,2N)43-TC-95,,SIG) 
+#   First author: S.Mukherjee 
+#   Institute:  (3INDVUU): Vikram University , Ujjain 
+#   Reference:  (J,PS,55,409,1997) 
+#   Year:  1997 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O12/O1230.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1230
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.4300E+01        3.0000E-01        4.7000E-01        5.1700E-02
+        4.0800E+01        3.0000E-01        1.1400E-01        1.0260E-02
+        4.6300E+01        3.0000E-01        5.5000E-02        2.7500E-03
+        5.1700E+01        3.0000E-01        3.3100E-02        1.6550E-03
+        5.7600E+01        3.0000E-01        2.5600E-02        1.5360E-03
+        6.3800E+01        3.0000E-01        2.0000E-02        1.0000E-03
+        6.5400E+01        3.0000E-01        1.5900E-02        1.2720E-03
+        6.9700E+01        3.0000E-01        1.4500E-02        8.7000E-04
+        7.0900E+01        3.0000E-01        1.2300E-02        9.8400E-04
+        7.5600E+01        3.0000E-01        1.1200E-02        8.9600E-04
+        7.6500E+01        3.0000E-01        9.6000E-03        6.7200E-04
+        7.8400E+01        3.0000E-01        8.2000E-03        8.2000E-04
+        8.1500E+01        3.0000E-01        7.8000E-03        7.0200E-04
+        8.6900E+01        3.0000E-01        6.3000E-03        5.0400E-04
+        9.2100E+01        3.0000E-01        5.2000E-03        4.1600E-04
+        9.7500E+01        3.0000E-01        4.3000E-03        3.0100E-04
+        1.0300E+02        3.0000E-01        2.8100E-03        1.6860E-04
+        1.0790E+02        3.0000E-01        2.4600E-03        2.2140E-04
+        1.1350E+02        3.0000E-01        3.4000E-03        3.0600E-04

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 35-BR-81(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 35 
+#   A: 81 
+#   Nuclide: 35-BR-81 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  2.0000e+00 MeV 
+# Residual: 
+#   Z: 34 
+#   A: 81 
+#   Nuclide: 34-SE-81-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30379-002-0 (entry-subentry-pointer) 
+#   Reaction code: (35-BR-81(N,P)34-SE-81-M,,SIG,,FIS) 
+#   First author: G.Pfrepper 
+#   Institute:  (3BULBLA): Sofia, Institute of Nuclear Research and Nuclear Energy 
+#   Reference:  (J,RCA,23,(1),55,1976) 
+#   Year:  1976 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30379.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30379
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+00        0.0000E+00        8.5600E-05        5.4000E-06

@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 4-BE-9(D,N+T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 4 
+#   A: 9 
+#   Nuclide: 4-BE-9 
+# Reaction: 
+#   Process: D,N+T 
+#   MF-MT number: 3 - 33 
+#   Incident energy:  1.7060e+01 MeV - 2.1560e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F0127-004-0 (entry-subentry-pointer) 
+#   Reaction code: (4-BE-9(D,N+T)4-BE-7,,SIG) 
+#   First author: R.E.Heft 
+#   Institute:  (1USAAIF): Argonne National Laboratory - West, Idaho Falls, ID 
+#   Reference:  (J,PR,100,799,1955) 
+#   Year:  1955 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F01/F0127.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0127
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7060E+01        2.1000E-01        0.0000E+00        1.0000E-07
+        1.7160E+01        2.1000E-01        8.0000E-07        1.0000E-07
+        1.8260E+01        1.6800E+00        2.7000E-06        1.0000E-07
+        1.9240E+01        2.0000E-01        1.3500E-05        5.0000E-07
+        1.9420E+01        2.0000E-01        1.9400E-05        5.0000E-07
+        1.9560E+01        1.9000E-01        2.4800E-05        6.0000E-07
+        1.9800E+01        1.9000E-01        3.0100E-05        7.0000E-07
+        2.0070E+01        1.9000E-01        3.7600E-05        7.0000E-07
+        2.0260E+01        1.8000E-01        5.0400E-05        1.0000E-06
+        2.0480E+01        1.8000E-01        4.7900E-05        1.0000E-06
+        2.0800E+01        1.8000E-01        6.2900E-05        1.0000E-06
+        2.1160E+01        1.7000E-01        6.9800E-05        1.3000E-06
+        2.1560E+01        1.7000E-01        7.7800E-05        1.3000E-06

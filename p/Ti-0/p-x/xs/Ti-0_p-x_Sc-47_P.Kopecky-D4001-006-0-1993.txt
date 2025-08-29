@@ -1,0 +1,52 @@
+# Header: 
+#   Title: 22-TI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 22 
+#   A: 0 
+#   Nuclide: 22-TI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  8.8800e+00 MeV - 1.7540e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 47 
+#   Nuclide: 21-SC-47 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4001-006-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-0(P,X)21-SC-47,,SIG) 
+#   First author: P.Kopecky 
+#   Institute:  (3CZRUJV): Research Centre Rez, Husinec-Rez 
+#   Reference:  (J,ARI,44,687,1993) 
+#   Year:  1993 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4001.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4001
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.8800E+00        3.1000E-01        1.3300E-04        1.9000E-05
+        9.1900E+00        3.1000E-01        1.3900E-04        4.9000E-05
+        1.0050E+01        2.9000E-01        2.8600E-04        5.6000E-05
+        1.0340E+01        2.8000E-01        3.0000E-04        9.9000E-05
+        1.0450E+01        3.7000E-01        4.0000E-04        5.2000E-05
+        1.0910E+01        3.6000E-01        4.6000E-04        6.3000E-05
+        1.1350E+01        3.5000E-01        4.7500E-04        1.3700E-04
+        1.1390E+01        2.6000E-01        4.6900E-04        7.9000E-05
+        1.1780E+01        3.4000E-01        5.7500E-04        7.2000E-05
+        1.1890E+01        2.5000E-01        5.1900E-04        1.0000E-04
+        1.2190E+01        3.3000E-01        6.0100E-04        1.0100E-04
+        1.2600E+01        3.2000E-01        6.6600E-04        1.1700E-04
+        1.2610E+01        2.4000E-01        6.0100E-04        1.0100E-04
+        1.3280E+01        3.0000E-01        7.5700E-04        1.6100E-04
+        1.3290E+01        2.2000E-01        7.8700E-04        7.6000E-05
+        1.3950E+01        2.9000E-01        8.5700E-04        1.0200E-04
+        1.3960E+01        2.1000E-01        8.9300E-04        1.7800E-04
+        1.4590E+01        2.7000E-01        9.7100E-04        1.0400E-04
+        1.5220E+01        2.6000E-01        1.2100E-03        1.2400E-04
+        1.5820E+01        2.5000E-01        1.3900E-03        1.3000E-04
+        1.6410E+01        2.3000E-01        1.7200E-03        1.4000E-04
+        1.6980E+01        2.2000E-01        2.2400E-03        1.8000E-04
+        1.7540E+01        2.1000E-01        2.7200E-03        2.2000E-04

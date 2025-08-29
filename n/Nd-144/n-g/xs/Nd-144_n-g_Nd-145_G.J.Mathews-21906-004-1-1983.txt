@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 60-ND-144(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 60 
+#   A: 144 
+#   Nuclide: 60-ND-144 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.0000e-02 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 145 
+#   Nuclide: 60-ND-145 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21906-004-1 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-144(N,G)60-ND-145,,SIG,,MXW) 
+#   First author: G.J.Mathews 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  ((P,NEANDC(E)-242U,7,198306)=(P,INDC(GER)-25/L,7,1983)) 
+#   Year:  1983 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21906.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21906
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-02        0.0000E+00        1.1600E-01        6.0000E-03

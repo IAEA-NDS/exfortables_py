@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 34-SE-77(HE3,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 34 
+#   A: 77 
+#   Nuclide: 34-SE-77 
+# Reaction: 
+#   Process: HE3,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0440e+01 MeV - 3.4240e+01 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 78 
+#   Nuclide: 35-BR-78 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0154-005-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-77(HE3,X)35-BR-78,,SIG) 
+#   First author: He Youfeng 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,ARI,33,13,1982) 
+#   Year:  1982 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A01/A0154.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0154
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0440E+01        3.1000E-01        7.2100E-02        0.0000E+00
+        1.3610E+01        3.1000E-01        3.4900E-01        0.0000E+00
+        1.6490E+01        3.1000E-01        5.4800E-01        0.0000E+00
+        1.9190E+01        3.1000E-01        6.7500E-01        0.0000E+00
+        2.1560E+01        3.1000E-01        5.6200E-01        0.0000E+00
+        2.3860E+01        3.1000E-01        4.3300E-01        0.0000E+00
+        2.5480E+01        3.1000E-01        4.9300E-01        0.0000E+00
+        2.7670E+01        3.1000E-01        3.4700E-01        0.0000E+00
+        2.9170E+01        3.1000E-01        3.4800E-01        0.0000E+00
+        3.1070E+01        3.1000E-01        3.2900E-01        0.0000E+00
+        3.2620E+01        3.1000E-01        2.6300E-01        0.0000E+00
+        3.4240E+01        3.1000E-01        2.9600E-01        0.0000E+00

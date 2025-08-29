@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 2-HE-4(A,2P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+# Reaction: 
+#   Process: A,2P 
+#   MF-MT number: 3 - 111 
+#   Incident energy:  1.5930e+02 MeV - 2.7960e+02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 6 
+#   Nuclide: 2-HE-6 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0959-007-0 (entry-subentry-pointer) 
+#   Reaction code: (2-HE-4(A,2P)2-HE-6,,SIG) 
+#   First author: D.J.Mercer 
+#   Institute:  (1USACLU): University of Colorado, Boulder, CO 
+#   Reference:  (J,PR/C,63,065805,2001) 
+#   Year:  2001 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C09/C0959.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0959
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5930E+02        0.0000E+00        7.9000E-04        8.0000E-05
+        2.7960E+02        0.0000E+00        1.1000E-04        3.0000E-05

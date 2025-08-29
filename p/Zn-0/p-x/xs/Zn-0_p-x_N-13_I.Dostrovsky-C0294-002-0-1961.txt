@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 30-ZN-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 0 
+#   Nuclide: 30-ZN-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  9.4000e+02 MeV - 2.9000e+03 MeV 
+# Residual: 
+#   Z: 7 
+#   A: 13 
+#   Nuclide: 7-N-13 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0294-002-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-0(P,X)7-N-13,,SIG) 
+#   First author: I.Dostrovsky 
+#   Institute:  (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference:  (J,PR,123,1452,61) 
+#   Year:  1961 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0294.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0294
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.4000E+02        0.0000E+00        1.3000E-04        0.0000E+00
+        1.8400E+03        0.0000E+00        3.3000E-04        0.0000E+00
+        2.9000E+03        0.0000E+00        5.1000E-04        0.0000E+00

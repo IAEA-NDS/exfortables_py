@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 53-I-127(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 53 
+#   A: 127 
+#   Nuclide: 53-I-127 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.2450e+01 MeV - 7.7390e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 126 
+#   Nuclide: 53-I-126 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0345-005-0 (entry-subentry-pointer) 
+#   Reaction code: (53-I-127(D,X)53-I-126,,SIG) 
+#   First author: J.P.Husson 
+#   Institute:  (2FR PAR): Universite de Paris 
+#   Reference:  (R,IPNO-PHN-78-27,1978) 
+#   Year:  1978 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A03/A0345.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0345
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.2450E+01        6.0000E-02        1.8000E-01        5.0000E-02
+        6.5390E+01        6.0000E-02        1.8920E-01        2.2000E-03
+        6.8460E+01        6.0000E-02        1.8210E-01        2.3000E-03
+        7.1490E+01        6.0000E-02        1.7970E-01        2.1000E-03
+        7.4540E+01        6.0000E-02        1.6870E-01        2.1000E-03
+        7.7390E+01        6.0000E-02        1.7400E-01        2.1000E-03

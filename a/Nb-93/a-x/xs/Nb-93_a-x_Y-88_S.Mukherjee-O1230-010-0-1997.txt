@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 41-NB-93(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.2800e+01 MeV - 1.1220e+02 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 88 
+#   Nuclide: 39-Y-88 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1230-010-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(A,X)39-Y-88,,SIG) 
+#   First author: S.Mukherjee 
+#   Institute:  (3INDVUU): Vikram University , Ujjain 
+#   Reference:  (J,PS,55,409,1997) 
+#   Year:  1997 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O12/O1230.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1230
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.2800E+01        2.0000E-01        1.8300E-03        1.2810E-04
+        6.9600E+01        2.0000E-01        1.6600E-03        1.1620E-04
+        7.0500E+01        2.0000E-01        7.6000E-03        8.3600E-04
+        7.6200E+01        2.0000E-01        1.4800E-02        1.3320E-03
+        8.0900E+01        2.0000E-01        2.9700E-02        2.3760E-03
+        8.6500E+01        2.0000E-01        5.7000E-02        2.8500E-03
+        9.1100E+01        2.0000E-01        9.1000E-02        4.5500E-03
+        9.6000E+01        2.0000E-01        1.1900E-01        1.0710E-02
+        1.0210E+02        2.0000E-01        1.1500E-01        6.9000E-03
+        1.0690E+02        2.0000E-01        1.1500E-01        6.9000E-03
+        1.1220E+02        2.0000E-01        9.8000E-02        5.8800E-03

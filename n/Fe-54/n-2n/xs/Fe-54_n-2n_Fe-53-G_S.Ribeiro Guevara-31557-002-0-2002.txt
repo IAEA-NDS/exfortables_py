@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 26-FE-54(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 54 
+#   Nuclide: 26-FE-54 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 53 
+#   Nuclide: 26-FE-53-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31557-002-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-54(N,2N)26-FE-53-G,,SIG,,FIS) 
+#   First author: S.Ribeiro Guevara 
+#   Institute:  (3ARGCAB): Institute Balseiro y Centro Atomico Bariloche, Bariloche 
+#   Reference:  (J,JRN,254,557,2002) 
+#   Year:  2002 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31557.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31557
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.1400E-06        1.3000E-07

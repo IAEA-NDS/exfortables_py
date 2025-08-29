@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32896-002-0 
-# EXFOR reaction        : (92-U-238(N,G)92-U-239,,SIG) 
-# incident energy       : 3.6220e+00 MeV - 6.1170e+00 MeV 
-# target                : U-238 
-# product               : U-239 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Chun Wen 
-# institute             : (3CPRSIU): Sichuan University , Chengdu 
-# reference             : (J,CPH/C,47,024002,2023) 
-# year                  : 2023 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32896.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32896
+# Header: 
+#   Title: 92-U-238(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.6220e+00 MeV - 6.1170e+00 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 239 
+#   Nuclide: 92-U-239 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32896-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,G)92-U-239,,SIG) 
+#   First author: Chun Wen 
+#   Institute:  (3CPRSIU): Sichuan University , Chengdu 
+#   Reference:  (J,CPH/C,47,024002,2023) 
+#   Year:  2023 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32896.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32896
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         6.1170E+00        1.1900E-01        1.0510E-03        7.8000E-05

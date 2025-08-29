@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 64-GD-154(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 64 
+#   A: 154 
+#   Nuclide: 64-GD-154 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2470e+01 MeV - 1.6630e+01 MeV 
+# Residual: 
+#   Z: 64 
+#   A: 153 
+#   Nuclide: 64-GD-153 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33111-004-0 (entry-subentry-pointer) 
+#   Reaction code: (64-GD-154(N,2N)64-GD-153,,SIG,,SPA) 
+#   First author: R.Makwana 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,PR/C,96,024608,2017) 
+#   Year:  2017 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33111.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33111
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2470E+01        8.2500E-01        1.2650E+00        9.8000E-02
+        1.6630E+01        9.5000E-01        1.9730E+00        1.5300E-01

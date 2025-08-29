@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 29-CU-0(HE3,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: HE3,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.1800e+00 MeV - 5.2850e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 65 
+#   Nuclide: 30-ZN-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2674-002-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(HE3,X)30-ZN-65,CUM,SIG) 
+#   First author: M.U.Khandaker 
+#   Institute:  (3MALMAL): Malaysia 
+#   Reference:  (J,EPJ/CS,239,20009,2020) 
+#   Year:  2020 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E26/E2674.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2674
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.2850E+01        6.0000E-01        1.2850E-01        7.8000E-03
+        4.9960E+01        6.2000E-01        1.4830E-01        9.7000E-03
+        4.6990E+01        6.3000E-01        1.6500E-01        1.0700E-02
+        4.3940E+01        6.4000E-01        1.8700E-01        1.2000E-02
+        4.0790E+01        6.6000E-01        2.1290E-01        1.3600E-02
+        3.7530E+01        6.8000E-01        2.4810E-01        1.5700E-02
+        3.4140E+01        7.0000E-01        2.8930E-01        1.8200E-02
+        3.0610E+01        7.2000E-01        3.1440E-01        1.9700E-02
+        2.7560E+01        7.5000E-01        3.1630E-01        1.9700E-02
+        2.2740E+01        8.0000E-01        2.3290E-01        1.5800E-02
+        1.7480E+01        8.6000E-01        9.8800E-02        6.8000E-03
+        1.1590E+01        9.7000E-01        2.9600E-02        1.9000E-03
+        6.1800E+00        1.5800E+00        3.3000E-03        9.0000E-04

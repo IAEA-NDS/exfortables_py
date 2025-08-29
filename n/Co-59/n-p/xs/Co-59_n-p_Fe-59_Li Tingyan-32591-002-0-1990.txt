@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32591-002-0 
-# EXFOR reaction        : (27-CO-59(N,P)26-FE-59,,SIG) 
-# incident energy       : 1.3600e+01 MeV - 1.7770e+01 MeV 
-# target                : Co-59 
-# product               : Fe-59 
-# level energy          : - 
-# MF-MT number          : 3 - 103 
-# first author          : Li Tingyan 
-# institute             : (3CPRBJG): Peking University , Beijing 
-# reference             : (J,PHE,14,(6),542,199006) 
-# year                  : 1990 
-# facility              : (CCW): Cockcroft-Walton accelerator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32591.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32591
+# Header: 
+#   Title: 27-CO-59(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3600e+01 MeV - 1.7770e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 59 
+#   Nuclide: 26-FE-59 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32591-002-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,P)26-FE-59,,SIG) 
+#   First author: Li Tingyan 
+#   Institute:  (3CPRBJG): Peking University , Beijing 
+#   Reference:  (J,PHE,14,(6),542,199006) 
+#   Year:  1990 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32591.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32591
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3600E+01        3.0000E-01        5.5300E-02        2.6000E-03

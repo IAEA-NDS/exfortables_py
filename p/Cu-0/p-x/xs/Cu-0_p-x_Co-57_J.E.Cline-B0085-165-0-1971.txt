@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 29-CU-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.9000e+02 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 57 
+#   Nuclide: 27-CO-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0085-165-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(P,X)27-CO-57,,SIG) 
+#   First author: J.E.Cline 
+#   Institute:  (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
+#   Reference:  (J,NP/A,169,437,1971) 
+#   Year:  1971 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0085.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0085
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.9000E+02        0.0000E+00        3.2300E-02        3.0000E-03

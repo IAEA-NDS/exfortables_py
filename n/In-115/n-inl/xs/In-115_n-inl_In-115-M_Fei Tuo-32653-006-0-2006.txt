@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32653-006-0 
-# EXFOR reaction        : (49-IN-115(N,INL)49-IN-115-M,,SIG) 
-# incident energy       : 1.4300e+01 MeV - 1.4600e+01 MeV 
-# target                : In-115 
-# product               : In-115-M 
-# level energy          : - 
-# MF-MT number          : 3 - 4 
-# first author          : Fei Tuo 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,ARI,64,910,2006) 
-# year                  : 2006 
-# facility              : None 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32653.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32653
+# Header: 
+#   Title: 49-IN-115(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 49 
+#   A: 115 
+#   Nuclide: 49-IN-115 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.4300e+01 MeV - 1.4600e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 115 
+#   Nuclide: 49-IN-115-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32653-006-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-115(N,INL)49-IN-115-M,,SIG) 
+#   First author: Fei Tuo 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,ARI,64,910,2006) 
+#   Year:  2006 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32653.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32653
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.4300E+01        2.0000E-01        7.1700E-02        4.4000E-03

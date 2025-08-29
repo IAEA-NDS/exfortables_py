@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 92-U-238(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  2.1900e+01 MeV - 2.6000e+01 MeV 
+# Residual: 
+#   Z: 94 
+#   A: 240 
+#   Nuclide: 94-PU-240-L2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1797-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(A,2N)94-PU-240-L2,,SIG) 
+#   First author: M.N.Namboodiri 
+#   Institute:  (1USASTB): State University of New York, Stony Brook, NY 
+#   Reference:  (J,PR/C,7,(3),1222,1973) 
+#   Year:  1973 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C17/C1797.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1797
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1900E+01        0.0000E+00        5.0000E-08        0.0000E+00
+        2.3400E+01        0.0000E+00        2.8000E-07        0.0000E+00
+        2.5300E+01        0.0000E+00        1.8000E-07        0.0000E+00
+        2.6000E+01        0.0000E+00        1.4000E-07        0.0000E+00

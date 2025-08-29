@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 28-NI-58(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.8400e+00 MeV - 4.8200e+00 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20291-004-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,P)27-CO-58,,SIG) 
+#   First author: K.Nakai 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,JPJ,17,1215,1962) 
+#   Year:  1962 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20291.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20291
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8400E+00        5.0000E-02        4.6000E-02        1.4000E-02
+        2.2400E+00        1.7000E-01        8.4000E-02        2.5000E-02
+        2.8900E+00        3.0000E-01        1.4700E-01        3.1000E-02
+        3.7100E+00        2.9000E-01        2.5600E-01        4.4000E-02
+        4.1300E+00        2.2000E-01        3.3000E-01        5.2000E-02
+        4.4900E+00        1.5000E-01        4.4500E-01        6.8000E-02
+        4.8200E+00        5.0000E-02        4.0700E-01        6.0000E-02

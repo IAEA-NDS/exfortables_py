@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 35-BR-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 35 
+#   A: 0 
+#   Nuclide: 35-BR-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.8620e+01 MeV - 5.0750e+01 MeV 
+# Residual: 
+#   Z: 36 
+#   A: 76 
+#   Nuclide: 36-KR-76 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1867-004-0 (entry-subentry-pointer) 
+#   Reaction code: (35-BR-0(P,X)36-KR-76,,SIG) 
+#   First author: K.Sakamoto 
+#   Institute:  (2JPNKNZ): Kanazawa University , Kanazawa 
+#   Reference:  (J,ARI,36,481,1985) 
+#   Year:  1985 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E18/E1867.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1867
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.8620E+01        1.1610E+00        2.5720E-03        0.0000E+00
+        4.1230E+01        1.2440E+00        5.1710E-03        0.0000E+00
+        4.4180E+01        1.0780E+00        1.1240E-02        0.0000E+00
+        5.0590E+01        1.0780E+00        1.8010E-02        0.0000E+00
+        5.0750E+01        1.0780E+00        1.6230E-02        0.0000E+00

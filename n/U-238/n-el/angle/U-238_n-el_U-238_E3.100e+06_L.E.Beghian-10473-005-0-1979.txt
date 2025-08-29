@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 92-U-238(N,EL)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 4 - 2 
+#   Incident energy:  3.1000e+00 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10473-005-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,EL)92-U-238,,DA) 
+#   First author: L.E.Beghian 
+#   Institute:  (1USALTI): University of Massachusetts at Lowell, MA 
+#   Reference:  (J,NSE,69,191,197902) 
+#   Year:  1979 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10473.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10473
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+        5.5000E+01        4.0000E+00        4.6200E-02        5.5000E-03
+        7.5000E+01        5.0000E+00        1.6800E-01        1.4300E-02
+        9.0000E+01        6.0000E+00        1.1000E-01        9.5000E-03
+        1.1500E+02        8.0000E+00        1.6800E-02        2.0000E-03
+        1.4000E+02        8.0000E+00        1.5000E-02        2.0000E-03
+        1.5200E+02        8.0000E+00        2.9200E-02        3.0000E-03

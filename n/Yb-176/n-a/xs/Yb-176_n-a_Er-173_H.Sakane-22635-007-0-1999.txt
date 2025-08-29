@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 70-YB-176(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 70 
+#   A: 176 
+#   Nuclide: 70-YB-176 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4020e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 68 
+#   A: 173 
+#   Nuclide: 68-ER-173 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22635-007-0 (entry-subentry-pointer) 
+#   Reaction code: (70-YB-176(N,A)68-ER-173,,SIG) 
+#   First author: H.Sakane 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((S,JAERI-C-99-002,210,1999)=(S,INDC(JPN)-182,210,1999)) 
+#   Year:  1999 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22635.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22635
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4870E+01        0.0000E+00        7.6000E-04        3.2680E-04
+        1.4640E+01        0.0000E+00        5.2000E-04        2.3920E-04
+        1.4350E+01        0.0000E+00        4.1000E-04        1.9270E-04
+        1.4020E+01        0.0000E+00        4.8000E-04        2.2560E-04

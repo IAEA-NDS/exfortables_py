@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 30-ZN-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 0 
+#   Nuclide: 30-ZN-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0700e+01 MeV - 3.9600e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 65 
+#   Nuclide: 30-ZN-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1600-006-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-0(P,X)30-ZN-65,,SIG) 
+#   First author: M.S.Uddin 
+#   Institute:  (3KORKNU): Kyungpook National University, Daegu 
+#   Reference:  (J,NIM/B,258,313,2007) 
+#   Year:  2007 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O16/O1600.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1600
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.9600E+01        0.0000E+00        1.1800E-01        1.5340E-02
+        3.6600E+01        0.0000E+00        1.1900E-01        1.5470E-02
+        3.4200E+01        0.0000E+00        1.3500E-01        1.7550E-02
+        3.1000E+01        0.0000E+00        1.6000E-01        2.0800E-02
+        2.8400E+01        0.0000E+00        1.9800E-01        2.5740E-02
+        2.5500E+01        0.0000E+00        2.1000E-01        2.7300E-02
+        2.1600E+01        0.0000E+00        2.1400E-01        2.7820E-02
+        1.7200E+01        0.0000E+00        1.4600E-01        1.8980E-02
+        1.4100E+01        0.0000E+00        2.8000E-02        3.6400E-03
+        1.0700E+01        0.0000E+00        3.2000E-03        4.1600E-04

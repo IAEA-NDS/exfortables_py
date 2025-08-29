@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 52-TE-120(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 52 
+#   A: 120 
+#   Nuclide: 52-TE-120 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.0000e-01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 121 
+#   Nuclide: 52-TE-121-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41015-004-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-120(N,G)52-TE-121-G,(M),SIG) 
+#   First author: Yu.N.Trofimov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (J,YK,,(2),11,1989) 
+#   Year:  1989 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/410/41015.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41015
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E-01        0.0000E+00        1.1500E-01        1.4000E-02

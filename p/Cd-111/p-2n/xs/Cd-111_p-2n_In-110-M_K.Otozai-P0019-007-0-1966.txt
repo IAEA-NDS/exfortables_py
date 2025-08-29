@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 48-CD-111(P,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 48 
+#   A: 111 
+#   Nuclide: 48-CD-111 
+# Reaction: 
+#   Process: P,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3100e+01 MeV - 1.4700e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 110 
+#   Nuclide: 49-IN-110-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: P0019-007-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-111(P,2N)49-IN-110-M,,SIG) 
+#   First author: K.Otozai 
+#   Institute:  (2JPNOSA): Osaka University , Osaka 
+#   Reference:  (J,NP,80,335,1966) 
+#   Year:  1966 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P00/P0019.x4 
+#   nds:  https://nds.iaea.org/EXFOR/P0019
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3100E+01        0.0000E+00        2.7000E-01        2.0000E-02
+        1.4700E+01        0.0000E+00        5.9000E-01        3.0000E-02

@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 45-RH-103(N,N+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,N+A 
+#   MF-MT number: 3 - 22 
+#   Incident energy:  1.3680e+01 MeV - 1.4860e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 99 
+#   Nuclide: 43-TC-99-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41614-084-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,N+A)43-TC-99-M,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,INDC(CCP)-0460,2016) 
+#   Year:  2016 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41614
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3680E+01        0.0000E+00        5.0000E-05        4.5450E-06
+        1.3880E+01        0.0000E+00        6.8000E-05        5.7936E-06
+        1.4050E+01        0.0000E+00        1.0900E-04        1.1118E-05
+        1.4470E+01        0.0000E+00        1.4700E-04        1.0172E-05
+        1.4860E+01        0.0000E+00        2.3800E-04        1.4399E-05

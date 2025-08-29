@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 47-AG-109(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 47 
+#   A: 109 
+#   Nuclide: 47-AG-109 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3700e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 47 
+#   A: 108 
+#   Nuclide: 47-AG-108-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41614-099-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-109(N,2N)47-AG-108-M,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,INDC(CCP)-0460,2016) 
+#   Year:  2016 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41614
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3700E+01        0.0000E+00        6.6700E-01        4.1354E-02
+        1.4100E+01        0.0000E+00        7.1800E-01        4.1213E-02
+        1.4500E+01        0.0000E+00        7.2700E-01        4.0930E-02
+        1.4800E+01        0.0000E+00        7.4700E-01        4.1160E-02

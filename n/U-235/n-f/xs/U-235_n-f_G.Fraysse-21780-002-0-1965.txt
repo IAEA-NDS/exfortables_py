@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  3.2160e-08 MeV - 6.2600e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21780-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F),,SIG) 
+#   First author: G.Fraysse 
+#   Institute:  (2FR SAC): CEA/Saclay 
+#   Reference:  (R,CEA-R-2775,196504) 
+#   Year:  1965 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21780.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21780
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.2160E-08        4.0000E-11        5.1200E+02        1.1000E+01
+        6.2600E-08        1.0000E-10        3.3600E+02        8.0000E+00
+        6.2600E-08        1.0000E-10        3.3700E+02        1.0000E+01
+        6.2600E-08        1.0000E-10        3.3100E+02        8.0000E+00

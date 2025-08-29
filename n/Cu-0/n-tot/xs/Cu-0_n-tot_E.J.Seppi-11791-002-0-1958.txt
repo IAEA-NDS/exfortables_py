@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 29-CU-0(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  2.5300e-09 MeV - 1.0000e-07 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11791-002-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(N,TOT),,SIG) 
+#   First author: E.J.Seppi 
+#   Institute:  (1USAHAN): Hanford Atomic Products, Richland, WA 
+#   Reference:  (R,HW-55879,3,5804) 
+#   Year:  1958 
+#   Facility:  (SPECC): Crystal spectrometer 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/117/11791.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11791
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-09        0.0000E+00        1.2710E+01        9.2783E-02
+        2.6900E-09        0.0000E+00        1.2260E+01        9.0724E-02
+        2.8600E-09        0.0000E+00        1.2830E+01        8.3395E-02
+        3.0500E-09        0.0000E+00        1.1570E+01        6.7106E-02
+        3.2600E-09        0.0000E+00        1.1210E+01        5.6050E-02
+        3.4900E-09        0.0000E+00        1.0880E+01        5.0048E-02
+        3.7500E-09        0.0000E+00        1.0470E+01        4.5021E-02
+        4.0400E-09        0.0000E+00        1.0110E+01        3.4374E-02
+        4.3600E-09        0.0000E+00        1.0220E+01        3.1682E-02
+        4.7300E-09        0.0000E+00        1.1380E+01        3.0726E-02
+        1.0000E-07        0.0000E+00        9.7400E+00        5.8440E-02

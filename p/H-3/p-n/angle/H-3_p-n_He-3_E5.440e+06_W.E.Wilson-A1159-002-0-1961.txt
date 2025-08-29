@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 1-H-3(P,N)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 4 - 4 
+#   Incident energy:  5.4400e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1159-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-3(P,N)2-HE-3,,DA) 
+#   First author: W.E.Wilson 
+#   Institute:  (1USAWIS): University of Wisconsin, Madison, WI 
+#   Reference:  (J,NP,27,421,1961) 
+#   Year:  1961 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A11/A1159.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1159
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+       -9.4340E-01        3.3000E-03        8.4180E-02        1.2627E-02
+       -8.9560E-01        3.3000E-03        7.5860E-02        1.1379E-02
+       -8.3410E-01        3.3000E-03        6.5480E-02        9.8220E-03
+       -7.5060E-01        3.3000E-03        5.3050E-02        7.9575E-03
+       -6.4650E-01        3.3000E-03        4.1330E-02        6.1995E-03
+       -5.1910E-01        3.3000E-03        2.8470E-02        4.2705E-03
+       -3.6820E-01        3.3000E-03        1.9310E-02        2.8965E-03
+       -1.9790E-01        3.3000E-03        1.4350E-02        2.1525E-03
+       -1.1100E-02        3.3000E-03        1.2060E-02        1.8090E-03
+        1.9660E-01        3.3000E-03        1.2840E-02        1.9260E-03
+        3.9320E-01        3.3000E-03        1.6090E-02        2.4135E-03
+        5.8580E-01        3.3000E-03        1.9750E-02        2.9625E-03
+        7.5090E-01        3.3000E-03        2.2790E-02        3.4185E-03
+        8.8030E-01        3.3000E-03        2.6870E-02        4.0305E-03
+        9.9590E-01        3.3000E-03        3.0340E-02        4.5510E-03

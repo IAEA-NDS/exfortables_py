@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 3-LI-8(D,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 8 
+#   Nuclide: 3-LI-8 
+# Reaction: 
+#   Process: D,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  2.3000e+00 MeV - 3.5000e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 6 
+#   Nuclide: 2-HE-6 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0870-003-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-8(D,A)2-HE-6,,SIG) 
+#   First author: L.Sahin 
+#   Institute:  (1USAOSU): Ohio State University, Columbus, OH 
+#   Reference:  (J,PR/C,65,038801,200203) 
+#   Year:  2002 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C08/C0870.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0870
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5000E+00        3.0000E-01        5.1270E-04        4.7780E-04
+        2.9000E+00        3.0000E-01        1.4740E-04        5.5270E-04
+        2.3000E+00        3.0000E-01        3.9310E-04        4.8720E-04

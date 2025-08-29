@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 13-AL-27(G,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: G,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.2400e+01 MeV - 8.5350e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: G4101-002-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(G,X)11-NA-24,,SIG,,BRA) 
+#   First author: O.S.Deiev 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,VAT/I,,(5/141),11,2022) 
+#   Year:  2022 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G41/G4101.x4 
+#   nds:  https://nds.iaea.org/EXFOR/G4101
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.2400E+01        0.0000E+00        1.2000E-04        1.2000E-05
+        5.4850E+01        0.0000E+00        2.1900E-04        1.7000E-05
+        6.0400E+01        0.0000E+00        2.2300E-04        2.1000E-05
+        8.0500E+01        0.0000E+00        2.1800E-04        2.1000E-05
+        8.5350E+01        0.0000E+00        2.1100E-04        1.6000E-05

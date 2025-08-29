@@ -1,0 +1,51 @@
+# Header: 
+#   Title: 94-PU-242(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 94 
+#   A: 242 
+#   Nuclide: 94-PU-242 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  3.0000e-01 MeV - 1.8000e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23280-002-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-242(N,F),,SIG) 
+#   First author: P.Salvador-Castineira 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,PR/C,92,044606,2015) 
+#   Year:  2015 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23280.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23280
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E-01        4.6500E-02        6.4174E-02        3.8349E-03
+        5.0000E-01        4.0000E-02        2.2517E-01        1.0619E-02
+        6.9900E-01        3.7000E-02        5.6959E-01        3.2671E-02
+        8.0000E-01        3.5500E-02        8.3094E-01        4.0834E-02
+        9.0000E-01        3.4500E-02        1.0763E+00        4.7756E-02
+        9.0000E-01        1.8000E-02        1.0964E+00        5.3730E-02
+        9.5000E-01        2.3000E-02        1.2359E+00        4.9426E-02
+        1.0000E+00        2.1500E-02        1.2143E+00        4.9843E-02
+        1.0000E+00        1.7500E-02        1.3090E+00        5.4070E-02
+        1.0500E+00        2.0500E-02        1.3494E+00        5.0192E-02
+        1.1000E+00        3.2000E-02        1.3764E+00        5.0074E-02
+        1.1000E+00        2.1000E-02        1.3604E+00        4.9416E-02
+        1.1500E+00        2.1500E-02        1.3772E+00        5.0780E-02
+        1.2000E+00        3.1000E-02        1.3857E+00        5.0757E-02
+        1.3000E+00        3.0500E-02        1.3184E+00        4.4845E-02
+        1.4000E+00        1.9000E-02        1.3338E+00        4.7473E-02
+        1.5000E+00        2.8500E-02        1.3358E+00        4.4164E-02
+        1.6000E+00        2.8000E-02        1.3476E+00        4.4539E-02
+        1.6000E+00        1.4500E-02        1.3412E+00        5.7295E-02
+        1.6000E+00        3.6000E-02        1.3431E+00        4.3995E-02
+        1.7000E+00        2.7500E-02        1.3314E+00        4.4261E-02
+        1.8000E+00        2.7000E-02        1.3439E+00        4.4684E-02

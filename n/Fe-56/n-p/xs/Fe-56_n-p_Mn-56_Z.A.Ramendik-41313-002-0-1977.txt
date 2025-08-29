@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 26-FE-56(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 56 
+#   Nuclide: 26-FE-56 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 56 
+#   Nuclide: 25-MN-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41313-002-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-56(N,P)25-MN-56,,SIG) 
+#   First author: Z.A.Ramendik 
+#   Institute:  (4RUSMIM): Vsesoyuznyi Nauchno-Issl.Institute Metrol., St.Petersburg 
+#   Reference:  (J,SJA,42,152,1977) 
+#   Year:  1977 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/413/41313.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41313
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        1.1090E-01        1.7000E-03

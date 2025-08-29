@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 94-PU-239(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 94 
+#   A: 239 
+#   Nuclide: 94-PU-239 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  3.1000e-03 MeV - 1.1880e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40487-005-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-239(N,F),,SIG) 
+#   First author: Yu.V.Ryabov 
+#   Institute:  (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
+#   Reference:  (J,AE,46,154,1979) 
+#   Year:  1979 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/404/40487.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40487
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.1000E-03        0.0000E+00        2.9940E+00        1.2600E-01
+        3.4300E-03        0.0000E+00        2.7310E+00        1.2600E-01
+        3.8100E-03        0.0000E+00        2.4560E+00        1.1800E-01
+        4.2600E-03        0.0000E+00        2.1720E+00        1.0900E-01
+        4.7900E-03        0.0000E+00        2.5100E+00        1.3300E-01
+        5.4300E-03        0.0000E+00        2.1890E+00        1.2800E-01
+        6.2100E-03        0.0000E+00        2.0880E+00        1.3100E-01
+        7.1700E-03        0.0000E+00        2.2070E+00        1.4700E-01
+        8.3700E-03        0.0000E+00        2.2710E+00        1.7500E-01
+        9.9000E-03        0.0000E+00        2.1080E+00        1.7600E-01
+        1.1880E-02        0.0000E+00        1.7450E+00        1.5900E-01

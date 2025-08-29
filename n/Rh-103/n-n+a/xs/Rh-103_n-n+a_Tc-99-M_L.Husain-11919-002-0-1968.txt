@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 45-RH-103(N,N+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,N+A 
+#   MF-MT number: 3 - 22 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 99 
+#   Nuclide: 43-TC-99-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11919-002-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,N+A)43-TC-99-M,,SIG) 
+#   First author: L.Husain 
+#   Institute:  (1USAARK): University of Arkansas, Fayetteville, AR 
+#   Reference:  (J,JIN,30,3145,68) 
+#   Year:  1968 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11919.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11919
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        2.0000E-01        6.5000E-05        1.5000E-05

@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 3-LI-6(N,T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: N,T 
+#   MF-MT number: 3 - 105 
+#   Incident energy:  5.1500e-01 MeV - 1.7000e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20412-006-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(N,T)2-HE-4,,SIG) 
+#   First author: E.Fort 
+#   Institute:  (2FR CAD): CEA/Cadarache 
+#   Reference:  (R,EANDC(E)-148,7201) 
+#   Year:  1972 
+#   Facility:  (VDG  ): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20412.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20412
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.1500E-01        6.0000E-03        3.8100E-01        1.2954E-02
+        5.9400E-01        6.0000E-03        3.1200E-01        1.1232E-02
+        6.7500E-01        6.0000E-03        2.7800E-01        9.7300E-03
+        7.1500E-01        6.0000E-03        2.7800E-01        9.4520E-03
+        7.5600E-01        6.0000E-03        2.6500E-01        9.0100E-03
+        7.9600E-01        6.0000E-03        2.5100E-01        8.7850E-03
+        8.3700E-01        6.0000E-03        2.5200E-01        9.0720E-03
+        8.7700E-01        6.0000E-03        2.5200E-01        8.5680E-03
+        9.5600E-01        6.0000E-03        2.5400E-01        8.8900E-03
+        1.0350E+00        6.0000E-03        2.5600E-01        8.9600E-03
+        1.1530E+00        6.0000E-03        2.1700E-01        7.5950E-03
+        1.2320E+00        6.0000E-03        2.4500E-01        8.8200E-03
+        1.3100E+00        6.0000E-03        2.3500E-01        8.6950E-03
+        1.3890E+00        6.0000E-03        2.5500E-01        8.9250E-03
+        1.4660E+00        6.0000E-03        2.5000E-01        8.5000E-03
+        1.5480E+00        6.0000E-03        2.4900E-01        8.4660E-03
+        1.6220E+00        6.0000E-03        2.4600E-01        8.3640E-03
+        1.7000E+00        6.0000E-03        2.5500E-01        8.6700E-03

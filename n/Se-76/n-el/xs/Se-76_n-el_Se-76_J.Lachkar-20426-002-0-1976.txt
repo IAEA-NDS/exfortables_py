@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 34-SE-76(N,EL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 34 
+#   A: 76 
+#   Nuclide: 34-SE-76 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 3 - 2 
+#   Incident energy:  6.0000e+00 MeV - 1.0000e+01 MeV 
+# Residual: 
+#   Z: 34 
+#   A: 76 
+#   Nuclide: 34-SE-76 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20426-002-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-76(N,EL)34-SE-76,,SIG) 
+#   First author: J.Lachkar 
+#   Institute:  (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
+#   Reference:  (J,PR/C,14,933,197609) 
+#   Year:  1976 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20426.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20426
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.0000E+00        1.0000E-01        2.1657E+00        7.3634E-02
+        8.0000E+00        1.0000E-01        1.8719E+00        1.1606E-01
+        1.0000E+01        1.0000E-01        2.2815E+00        3.1713E-01

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 30-ZN-64(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 63 
+#   Nuclide: 30-ZN-63 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20673-009-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(N,2N)30-ZN-63,,SIG) 
+#   First author: M.Valkonen 
+#   Institute:  (2SF JYV): University of Jyvaskyla, Jyvaskyla 
+#   Reference:  ((R,JU-RR-1/1976,1976)=(T,VALKONEN,197603)) 
+#   Year:  1976 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20673.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20673
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        1.9000E-01        2.0000E-02

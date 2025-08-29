@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 16-S-0(N,EL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 16 
+#   A: 0 
+#   Nuclide: 16-S-0 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 3 - 2 
+#   Incident energy:  1.5200e-10 MeV - 4.2840e-09 MeV 
+# Residual: 
+#   Z: 16 
+#   A: 0 
+#   Nuclide: 16-S-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21285-005-0 (entry-subentry-pointer) 
+#   Reaction code: (16-S-0(N,EL)16-S-0,,SIG) 
+#   First author: W.Truestedt 
+#   Institute:  (2GERMUN): Technische Universitaet Muenchen 
+#   Reference:  (J,ZN/A,26,400,7103) 
+#   Year:  1971 
+#   Facility:  (REAC ): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21285.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21285
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5200E-10        4.8640E-11        9.2700E-01        7.0000E-02
+        2.0800E-10        6.6560E-11        7.5800E-01        5.5000E-02
+        3.3100E-10        1.0592E-10        6.9700E-01        3.7000E-02
+        5.5400E-10        1.7728E-10        6.0500E-01        1.5000E-02
+        9.9700E-10        3.1904E-10        7.3300E-01        1.2000E-02
+        1.6600E-09        5.3120E-10        9.0900E-01        1.2000E-02
+        2.3690E-09        7.5808E-10        9.1800E-01        2.1000E-02
+        2.9530E-09        9.4496E-10        8.7500E-01        1.2000E-02
+        4.2840E-09        1.3709E-09        8.1600E-01        1.2000E-02

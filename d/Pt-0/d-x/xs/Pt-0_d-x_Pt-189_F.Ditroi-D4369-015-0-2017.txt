@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 78-PT-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 78 
+#   A: 0 
+#   Nuclide: 78-PT-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.6400e+01 MeV - 4.8100e+01 MeV 
+# Residual: 
+#   Z: 78 
+#   A: 189 
+#   Nuclide: 78-PT-189 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4369-015-0 (entry-subentry-pointer) 
+#   Reaction code: (78-PT-0(D,X)78-PT-189,CUM,SIG) 
+#   First author: F.Ditroi 
+#   Institute:  (2BLGVUB): Vrije Universiteit Brussels, Brussels 
+#   Reference:  (J,NIM/B,401,56,2017) 
+#   Year:  2017 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4369.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4369
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.8100E+01        3.0000E-01        9.4000E-03        2.4000E-03
+        4.6400E+01        4.0000E-01        7.1000E-03        2.7000E-03

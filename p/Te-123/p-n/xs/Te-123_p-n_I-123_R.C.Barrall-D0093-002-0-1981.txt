@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 52-TE-123(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 52 
+#   A: 123 
+#   Nuclide: 52-TE-123 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.1500e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 123 
+#   Nuclide: 53-I-123 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0093-002-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-123(P,N)53-I-123,,SIG) 
+#   First author: R.C.Barrall 
+#   Institute:  (3SARRIY): King Saud University, Riyadh 
+#   Reference:  (J,ENM,6,411,1981) 
+#   Year:  1981 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D00/D0093.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0093
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1500E+01        0.0000E+00        2.1000E-01        0.0000E+00

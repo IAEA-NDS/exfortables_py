@@ -1,17 +1,30 @@
-# entry-subent-pointer  : M1012-003-0 
-# EXFOR reaction        : (50-SN-120(G,X)49-IN-118-M1+M2,,SIG,,BRS) 
-# incident energy       : 2.2750e+01 MeV - 2.6500e+01 MeV 
-# target                : Sn-120 
-# product               : In-118-M1+M2 
-# level energy          : - 
-# MF-MT number          : 3 - 10 
-# first author          : Kuo Ch'I-Di 
-# institute             : (4RUSLEB): Fiz.Institute Lebedev (FIAN), Moskva 
-# reference             : (J,ZET,39,1578,1960) 
-# year                  : 1960 
-# facility              : (SYNCH): Synchrotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M10/M1012.x4 
-# nds                   : https://nds.iaea.org/EXFOR/M1012
+# Header: 
+#   Title: 50-SN-120(G,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 120 
+#   Nuclide: 50-SN-120 
+# Reaction: 
+#   Process: G,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.2750e+01 MeV - 2.6500e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 118 
+#   Nuclide: 49-IN-118-M1+M2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M1012-003-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-120(G,X)49-IN-118-M1+M2,,SIG,,BRS) 
+#   First author: Kuo Ch'I-Di 
+#   Institute:  (4RUSLEB): Fiz.Institute Lebedev (FIAN), Moskva 
+#   Reference:  (J,ZET,39,1578,1960) 
+#   Year:  1960 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M10/M1012.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M1012
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         2.2750E+01        0.0000E+00        1.2600E-04        1.2600E-04

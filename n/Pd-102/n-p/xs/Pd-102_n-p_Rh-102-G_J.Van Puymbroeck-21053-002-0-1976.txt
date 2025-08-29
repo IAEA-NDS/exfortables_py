@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 46-PD-102(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 46 
+#   A: 102 
+#   Nuclide: 46-PD-102 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 102 
+#   Nuclide: 45-RH-102-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21053-002-0 (entry-subentry-pointer) 
+#   Reaction code: (46-PD-102(N,P)45-RH-102-G,,SIG,,FIS) 
+#   First author: J.Van Puymbroeck 
+#   Institute:  (2BLGUIA): University Instelling, Anvers 
+#   Reference:  (J,JIN,38,957,7605) 
+#   Year:  1976 
+#   Facility:  (REAC ): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21053.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21053
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.0000E-04        0.0000E+00

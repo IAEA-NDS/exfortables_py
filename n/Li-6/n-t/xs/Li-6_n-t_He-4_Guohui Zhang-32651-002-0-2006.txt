@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32651-002-0 
-# EXFOR reaction        : (3-LI-6(N,T)2-HE-4,,SIG) 
-# incident energy       : 1.0500e+00 MeV - 2.2500e+00 MeV 
-# target                : Li-6 
-# product               : He-4 
-# level energy          : - 
-# MF-MT number          : 3 - 105 
-# first author          : Guohui Zhang 
-# institute             : (3CPRBJG): Peking University , Beijing 
-# reference             : (J,NSE,153,41,2006) 
-# year                  : 2006 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32651.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32651
+# Header: 
+#   Title: 3-LI-6(N,T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: N,T 
+#   MF-MT number: 3 - 105 
+#   Incident energy:  1.0500e+00 MeV - 2.2500e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32651-002-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(N,T)2-HE-4,,SIG) 
+#   First author: Guohui Zhang 
+#   Institute:  (3CPRBJG): Peking University , Beijing 
+#   Reference:  (J,NSE,153,41,2006) 
+#   Year:  2006 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32651.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32651
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.0500E+00        9.0000E-02        2.4060E-01        1.7800E-02

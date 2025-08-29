@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31627-004-0 
-# EXFOR reaction        : (60-ND-142(N,2N)60-ND-141,,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4600e+01 MeV 
-# target                : Nd-142 
-# product               : Nd-141 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Pu Zhong-Sheng 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,PHE,28,958,2004) 
-# year                  : 2004 
-# facility              : (NGEN): Neutron generator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31627.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31627
+# Header: 
+#   Title: 60-ND-142(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 60 
+#   A: 142 
+#   Nuclide: 60-ND-142 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4600e+01 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 141 
+#   Nuclide: 60-ND-141 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31627-004-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-142(N,2N)60-ND-141,,SIG) 
+#   First author: Pu Zhong-Sheng 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,PHE,28,958,2004) 
+#   Year:  2004 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31627.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31627
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3500E+01        2.0000E-01        1.5010E+00        5.9000E-02

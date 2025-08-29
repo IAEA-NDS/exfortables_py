@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 42-MO-100(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 100 
+#   Nuclide: 42-MO-100 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.4000e+01 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 99 
+#   Nuclide: 42-MO-99 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: K2373-002-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-100(G,N)42-MO-99,,SIG) 
+#   First author: H.Ejiri 
+#   Institute:  (2JPNOSA): Osaka University , Osaka 
+#   Reference:  (J,JPJ,80,094202,2011) 
+#   Year:  2011 
+#   Facility:  (ESTRG): Electron storage ring 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K23/K2373.x4 
+#   nds:  https://nds.iaea.org/EXFOR/K2373
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        4.0000E+00        1.0600E-01        2.0000E-02

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 28-NI-60(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 57 
+#   Nuclide: 26-FE-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40514-022-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(N,A)26-FE-57,,SIG,,,DERIV) 
+#   First author: G.P.Dolya 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  ((C,75KIEV,4,173,1975)=(R,INDC(CCP)-099,(4),173,1975)) 
+#   Year:  1975 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40514.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40514
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        0.0000E+00        3.9800E-02        8.6000E-03

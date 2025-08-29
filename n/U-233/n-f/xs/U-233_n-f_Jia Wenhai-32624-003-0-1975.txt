@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32624-003-0 
-# EXFOR reaction        : (92-U-233(N,F),,SIG) 
-# incident energy       : 2.5300e-08 MeV 
-# target                : U-233 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 18 
-# first author          : Jia Wenhai 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CST,9,19,1975) 
-# year                  : 1975 
-# facility              : (REAC): Reactor 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32624.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32624
+# Header: 
+#   Title: 92-U-233(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 233 
+#   Nuclide: 92-U-233 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32624-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-233(N,F),,SIG) 
+#   First author: Jia Wenhai 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CST,9,19,1975) 
+#   Year:  1975 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32624.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32624
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         2.5300E-08        0.0000E+00        5.3600E+02        1.1000E+01

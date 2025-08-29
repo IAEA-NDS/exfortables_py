@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 28-NI-60(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.0000e+00 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 60 
+#   Nuclide: 27-CO-60 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11654-010-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(N,P)27-CO-60,,SIG,,FIS) 
+#   First author: R.S.Rochlin 
+#   Institute:  (1USAGES): General Electric, Schenectady, NY 
+#   Reference:  (J,NUC,17,54,195901) 
+#   Year:  1959 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11654.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11654
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        2.0000E-03        0.0000E+00

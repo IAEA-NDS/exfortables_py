@@ -1,0 +1,55 @@
+# Header: 
+#   Title: 5-B-12(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 5 
+#   A: 12 
+#   Nuclide: 5-B-12 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.1500e+00 MeV - 3.6500e+00 MeV 
+# Residual: 
+#   Z: 7 
+#   A: 15 
+#   Nuclide: 7-N-15 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2146-002-0 (entry-subentry-pointer) 
+#   Reaction code: (5-B-12(A,N)7-N-15,,SIG) 
+#   First author: H.Ishiyama 
+#   Institute:  (2JPNKEK): High Energy Accelerator Research Org. (KEK), Tsukuba 
+#   Reference:  (C,2008MACKIN,,(134),2008) 
+#   Year:  2008 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E21/E2146.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2146
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1500E+00        9.2650E-02        4.8600E-02        2.8781E-02
+        1.2500E+00        9.0139E-02        3.6800E-02        2.2190E-02
+        1.3500E+00        8.7658E-02        1.4800E-01        3.4552E-02
+        1.4500E+00        8.5212E-02        2.5000E-01        4.4656E-02
+        1.5500E+00        8.2801E-02        2.2600E-01        3.5871E-02
+        1.6500E+00        8.0430E-02        1.6100E-01        2.8344E-02
+        1.7500E+00        7.8102E-02        1.6200E-01        2.5804E-02
+        1.8500E+00        7.5822E-02        2.4000E-01        3.2704E-02
+        1.9500E+00        7.3593E-02        2.3800E-01        2.9563E-02
+        2.0500E+00        7.1421E-02        2.4300E-01        2.8781E-02
+        2.1500E+00        6.9311E-02        2.7400E-01        3.2280E-02
+        2.2500E+00        6.7268E-02        2.5800E-01        2.8548E-02
+        2.3500E+00        6.5299E-02        2.5000E-01        2.6307E-02
+        2.4500E+00        6.3411E-02        2.0500E-01        2.4833E-02
+        2.5500E+00        6.1612E-02        3.3200E-01        3.1227E-02
+        2.6500E+00        5.9908E-02        2.7100E-01        2.8114E-02
+        2.7500E+00        5.8310E-02        4.4400E-01        3.7936E-02
+        2.8500E+00        5.6824E-02        3.8900E-01        3.6835E-02
+        2.9500E+00        5.5462E-02        4.5400E-01        3.9739E-02
+        3.0500E+00        5.4231E-02        5.4100E-01        4.6830E-02
+        3.1500E+00        5.3141E-02        5.6100E-01        4.9431E-02
+        3.2500E+00        5.2202E-02        4.8400E-01        5.1418E-02
+        3.3500E+00        5.1420E-02        4.6800E-01        5.0019E-02
+        3.4500E+00        5.0804E-02        5.0000E-01        5.9272E-02
+        3.5500E+00        5.0359E-02        4.2300E-01        6.2696E-02
+        3.6500E+00        5.0090E-02        5.8100E-01        8.9879E-02

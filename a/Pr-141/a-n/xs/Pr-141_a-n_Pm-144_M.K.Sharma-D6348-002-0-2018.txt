@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 59-PR-141(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 59 
+#   A: 141 
+#   Nuclide: 59-PR-141 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.4200e+01 MeV - 4.0000e+01 MeV 
+# Residual: 
+#   Z: 61 
+#   A: 144 
+#   Nuclide: 61-PM-144 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6348-002-0 (entry-subentry-pointer) 
+#   Reaction code: (59-PR-141(A,N)61-PM-144,,SIG) 
+#   First author: M.K.Sharma 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,PR/C,98,054607,2018) 
+#   Year:  2018 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D63/D6348.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6348
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        1.2000E+00        2.4600E-02        4.4000E-03
+        1.6500E+01        1.0000E+00        1.2380E-01        1.8900E-02
+        1.8600E+01        9.0000E-01        1.5680E-01        2.1200E-02
+        2.1900E+01        9.0000E-01        5.5100E-02        9.0000E-03
+        2.7200E+01        8.0000E-01        2.5200E-02        4.2000E-03
+        3.1900E+01        7.0000E-01        1.4600E-02        3.3000E-03
+        3.6100E+01        6.0000E-01        1.0100E-02        2.2000E-03
+        4.0000E+01        6.0000E-01        7.8000E-03        1.9000E-03

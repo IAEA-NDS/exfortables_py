@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 45-RH-103(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  4.7000e-04 MeV - 3.4038e-02 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 104 
+#   Nuclide: 45-RH-104 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41426-012-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,G)45-RH-104,,SIG,,AV) 
+#   First author: Yu.V.Grigoriev 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (J,YK,,(1-2),50,2002) 
+#   Year:  2002 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41426.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41426
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.7000E-04        5.2000E-05        7.6770E+00        1.7600E-01
+        8.3400E-04        5.2000E-05        4.0380E+00        1.4100E-01
+        1.5620E-03        5.2000E-05        1.9160E+00        9.4000E-02
+        3.3500E-03        5.2000E-05        1.0440E+00        0.0000E+00
+        7.2570E-03        5.2000E-05        6.1800E-01        0.0000E+00
+        1.5729E-02        5.2000E-05        4.1500E-01        0.0000E+00
+        3.4038E-02        5.2000E-05        2.6400E-01        0.0000E+00

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 64-GD-154(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 64 
+#   A: 154 
+#   Nuclide: 64-GD-154 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4300e+01 MeV 
+# Residual: 
+#   Z: 64 
+#   A: 153 
+#   Nuclide: 64-GD-153 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21609-019-0 (entry-subentry-pointer) 
+#   Reaction code: (64-GD-154(N,2N)64-GD-153,,SIG) 
+#   First author: H.Weigel 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,RCA,22,11,1975) 
+#   Year:  1975 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21609.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21609
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4300E+01        3.5000E-01        7.5000E-01        6.3000E-02

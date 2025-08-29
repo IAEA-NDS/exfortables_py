@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 3-LI-7(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 7 
+#   Nuclide: 3-LI-7 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.8817e+00 MeV - 2.5386e+00 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F0023-002-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-7(P,N)4-BE-7,,SIG) 
+#   First author: R.Taschek 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,74,373,194808) 
+#   Year:  1948 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F00/F0023.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0023
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8817E+00        5.0000E-04        1.6840E-01        2.0208E-02
+        1.9086E+00        5.0000E-04        2.2870E-01        2.7444E-02
+        1.9950E+00        5.0000E-04        2.3600E-01        2.8320E-02
+        2.0437E+00        5.0000E-04        2.2900E-01        2.7480E-02
+        2.0912E+00        5.0000E-04        2.9010E-01        3.4812E-02
+        2.1421E+00        5.0000E-04        3.6300E-01        4.3560E-02
+        2.2948E+00        5.0000E-04        4.0590E-01        4.8708E-02
+        2.3457E+00        5.0000E-04        3.1980E-01        3.8376E-02
+        2.3920E+00        5.0000E-04        3.0420E-01        3.6504E-02
+        2.4422E+00        5.0000E-04        2.7160E-01        3.2592E-02
+        2.5386E+00        5.0000E-04        2.7380E-01        3.2856E-02

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 69-TM-169(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 69 
+#   A: 169 
+#   Nuclide: 69-TM-169 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.2280e+01 MeV - 1.2680e+01 MeV 
+# Residual: 
+#   Z: 71 
+#   A: 173 
+#   Nuclide: 71-LU-173 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4272-005-1 (entry-subentry-pointer) 
+#   Reaction code: (69-TM-169(A,G)71-LU-173,,SIG,,SFC) 
+#   First author: T.Rauscher 
+#   Institute:  (2SWTBAS): University of Basel, Basel 
+#   Reference:  (J,PR/C,86,015804,2012) 
+#   Year:  2012 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4272.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4272
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2280E+01        8.7000E-02        2.6246E+34        6.5620E+33
+        1.2680E+01        6.6000E-02        1.0727E+34        1.6030E+33

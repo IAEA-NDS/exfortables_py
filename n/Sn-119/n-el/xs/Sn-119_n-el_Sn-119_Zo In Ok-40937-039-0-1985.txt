@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 40937-039-0 
-# EXFOR reaction        : (50-SN-119(N,EL)50-SN-119,,SIG) 
-# incident energy       : 7.0000e-04 MeV - 4.4200e-01 MeV 
-# target                : Sn-119 
-# product               : Sn-119 
-# level energy          : - 
-# MF-MT number          : 3 - 2 
-# first author          : Zo In Ok 
-# institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
-# reference             : (R,JINR-P3-85-133,1985) 
-# year                  : 1985 
-# facility              : (REAC): Reactor 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40937.x4 
-# nds                   : https://nds.iaea.org/EXFOR/40937
+# Header: 
+#   Title: 50-SN-119(N,EL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 119 
+#   Nuclide: 50-SN-119 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 3 - 2 
+#   Incident energy:  7.0000e-04 MeV - 4.4200e-01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 119 
+#   Nuclide: 50-SN-119 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40937-039-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-119(N,EL)50-SN-119,,SIG) 
+#   First author: Zo In Ok 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (R,JINR-P3-85-133,1985) 
+#   Year:  1985 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40937.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40937
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         4.4200E-01        0.0000E+00        6.4500E+00        0.0000E+00

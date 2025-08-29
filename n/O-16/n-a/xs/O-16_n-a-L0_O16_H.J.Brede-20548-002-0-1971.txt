@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 8-O-16(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 800 
+#   Incident energy:  1.3900e+01 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 13 
+#   Nuclide: 6-C-13 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 20548-002-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(N,A)6-C-13,PAR,SIG) 
+#   First author: H.J.Brede 
+#   Institute:  (2GERTUE): Universitaet Tuebingen 
+#   Reference:  (J,ZP,245,1,7107) 
+#   Year:  1971 
+#   Facility:  (VDG  ): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20548.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20548
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3900E+01        1.5000E-01        2.8500E-02        3.5000E-03

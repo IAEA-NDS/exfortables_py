@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 92-U-238(N,SCT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,SCT 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.8232e-05 MeV - 2.0482e-05 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41549-005-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,SCT)92-U-238,,SIG) 
+#   First author: T.L.Enik 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  ((S,ISINN-8,371,2000)=(S,JINR-E3-2000-192,371,2000)) 
+#   Year:  2000 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/415/41549.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41549
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8232E-05        0.0000E+00        3.6510E+00        1.7100E-01
+        1.8399E-05        0.0000E+00        3.3690E+00        1.9000E-01
+        1.8757E-05        0.0000E+00        3.1280E+00        1.5100E-01
+        1.8936E-05        0.0000E+00        2.6570E+00        1.7000E-01
+        1.9121E-05        0.0000E+00        2.4320E+00        1.5100E-01
+        1.9304E-05        0.0000E+00        1.9410E+00        1.5100E-01
+        1.9492E-05        0.0000E+00        1.9630E+00        1.7000E-01
+        1.9680E-05        0.0000E+00        1.1120E+00        1.3300E-01
+        1.9878E-05        0.0000E+00        1.0010E+00        1.5100E-01
+        2.0072E-05        0.0000E+00        5.8700E-01        1.5100E-01
+        2.0272E-05        0.0000E+00        1.1220E+00        1.9000E-01
+        2.0482E-05        0.0000E+00        6.6920E+00        3.2200E-01

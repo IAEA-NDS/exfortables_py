@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 40-ZR-96(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 96 
+#   Nuclide: 40-ZR-96 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4950e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 95 
+#   Nuclide: 39-Y-95 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22325-009-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-96(N,X)39-Y-95,,SIG) 
+#   First author: Y.Kasugai 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  (C,94GATLIN,2,935,1994) 
+#   Year:  1994 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22325.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22325
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4950E+01        5.0000E-02        5.2000E-04        2.1000E-04

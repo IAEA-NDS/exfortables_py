@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 63-EU-151(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 63 
+#   A: 151 
+#   Nuclide: 63-EU-151 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  9.1800e+00 MeV - 1.2140e+01 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 150 
+#   Nuclide: 63-EU-150-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22247-004-0 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-151(N,2N)63-EU-150-G,,SIG) 
+#   First author: S.M.Qaim 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,ARI,47,569,1996) 
+#   Year:  1996 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22247.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22247
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.1800E+00        2.4000E-01        1.6400E-01        2.3000E-02
+        9.6000E+00        2.4000E-01        2.5000E-01        2.8000E-02
+        1.0100E+01        2.4000E-01        3.3500E-01        3.2000E-02
+        1.0830E+01        3.0000E-01        8.4900E-01        1.0200E-01
+        1.1200E+01        3.0000E-01        9.5200E-01        1.4200E-01
+        1.2140E+01        3.0000E-01        9.8200E-01        1.2700E-01

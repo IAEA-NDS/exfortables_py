@@ -1,17 +1,30 @@
-# entry-subent-pointer  : E2095-002-0 
-# EXFOR reaction        : (1-H-2(D,P)1-H-3,,SIG) 
-# incident energy       : 1.0991e-02 MeV - 2.0009e-02 MeV 
-# target                : H-2 
-# product               : H-3 
-# level energy          : - 
-# MF-MT number          : 3 - 103 
-# first author          : Wang Tie-Shan 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,CPL,24,(11),3103,200711) 
-# year                  : 2007 
-# facility              : (ACCEL): Accelerator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E20/E2095.x4 
-# nds                   : https://nds.iaea.org/EXFOR/E2095
+# Header: 
+#   Title: 1-H-2(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.0991e-02 MeV - 2.0009e-02 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2095-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(D,P)1-H-3,,SIG) 
+#   First author: Wang Tie-Shan 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,CPL,24,(11),3103,200711) 
+#   Year:  2007 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E20/E2095.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2095
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.0991E-02        2.1982E-04        3.0700E-05        8.6610E-06

@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 30755-015-0 
-# EXFOR reaction        : (42-MO-100(N,2N)42-MO-99,,SIG) 
-# incident energy       : 1.4600e+01 MeV 
-# target                : Mo-100 
-# product               : Mo-99 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Zhou Muyao 
-# institute             : (3CPRSST): Shanghai University of Science and Technology 
-# reference             : (J,CNP,9,34,1987) 
-# year                  : 1987 
-# facility              : (CCW): Cockcroft-Walton accelerator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30755.x4 
-# nds                   : https://nds.iaea.org/EXFOR/30755
+# Header: 
+#   Title: 42-MO-100(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 100 
+#   Nuclide: 42-MO-100 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 99 
+#   Nuclide: 42-MO-99 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30755-015-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-100(N,2N)42-MO-99,,SIG) 
+#   First author: Zhou Muyao 
+#   Institute:  (3CPRSST): Shanghai University of Science and Technology 
+#   Reference:  (J,CNP,9,34,1987) 
+#   Year:  1987 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30755.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30755
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.4600E+01        2.0000E-01        1.2290E+00        4.2000E-02

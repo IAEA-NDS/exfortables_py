@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 45-RH-103(P,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: P,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  2.0300e+01 MeV - 2.8900e+01 MeV 
+# Residual: 
+#   Z: 46 
+#   A: 101 
+#   Nuclide: 46-PD-101 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4108-003-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(P,3N)46-PD-101,,SIG) 
+#   First author: A.Hermanne 
+#   Institute:  (2BLGVUB): Vrije Universiteit Brussels, Brussels 
+#   Reference:  (J,NIM/B,170,281,2000) 
+#   Year:  2000 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4108.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4108
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0300E+01        7.0000E-01        2.0000E-04        2.0000E-05
+        2.2300E+01        6.0000E-01        3.7000E-02        4.0000E-03
+        2.2700E+01        6.0000E-01        5.4000E-02        6.0000E-03
+        2.4600E+01        6.0000E-01        2.0200E-01        2.2000E-02
+        2.5000E+01        5.0000E-01        2.6500E-01        2.9000E-02
+        2.6700E+01        5.0000E-01        3.4200E-01        3.8000E-02
+        2.7100E+01        4.0000E-01        3.7000E-01        4.1000E-02
+        2.8600E+01        4.0000E-01        4.2200E-01        4.6000E-02
+        2.8900E+01        3.0000E-01        4.6600E-01        5.1000E-02

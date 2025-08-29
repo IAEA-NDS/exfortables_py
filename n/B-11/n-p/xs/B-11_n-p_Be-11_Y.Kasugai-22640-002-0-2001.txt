@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 5-B-11(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 5 
+#   A: 11 
+#   Nuclide: 5-B-11 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4940e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 11 
+#   Nuclide: 4-BE-11 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22640-002-0 (entry-subentry-pointer) 
+#   Reaction code: (5-B-11(N,P)4-BE-11,,SIG) 
+#   First author: Y.Kasugai 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  ((S,JAERI-C-2001-006,190,2001)=(S,INDC(JPN)-188,190,2001)) 
+#   Year:  2001 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22640.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22640
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4940E+01        0.0000E+00        5.2000E-03        4.0000E-04

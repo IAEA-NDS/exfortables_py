@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 40-ZR-90(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  7.5000e+00 MeV - 9.0000e+00 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 90 
+#   Nuclide: 41-NB-90-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0338-006-1 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(P,N)41-NB-90-M,,SIG) 
+#   First author: E.A.Skakun 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,SNP,46,17,1987) 
+#   Year:  1987 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A03/A0338.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0338
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.5000E+00        0.0000E+00               NAN        0.0000E+00
+        8.0000E+00        0.0000E+00        1.2200E-01        1.0000E-02
+        8.5000E+00        0.0000E+00        1.9300E-01        1.5000E-02
+        9.0000E+00        0.0000E+00        2.9300E-01        2.3000E-02

@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 82-PB-204(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 82 
+#   A: 204 
+#   Nuclide: 82-PB-204 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.2850e+01 MeV - 1.7830e+01 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 204 
+#   Nuclide: 82-PB-204-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30151-003-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-204(N,INL)82-PB-204-M,,SIG) 
+#   First author: P.Decowski 
+#   Institute:  (3POLIBJ): Institute Badan Jadr., Swierk and Warszawa 
+#   Reference:  (J,NP/A,204,121,197304) 
+#   Year:  1973 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30151.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30151
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2850E+01        1.7000E-01        8.0900E-02        7.5000E-03
+        1.2980E+01        1.5000E-01        7.1800E-02        6.6000E-03
+        1.3560E+01        1.3000E-01        8.0100E-02        7.4000E-03
+        1.4180E+01        1.5000E-01        6.3300E-02        5.7000E-03
+        1.5050E+01        2.6000E-01        5.6800E-02        5.1000E-03
+        1.5410E+01        2.7000E-01        4.8800E-02        4.4000E-03
+        1.5480E+01        1.9000E-01        4.0100E-02        3.6000E-03
+        1.6590E+01        9.0000E-02        4.1900E-02        3.8000E-03
+        1.7830E+01        1.3000E-01        3.3200E-02        3.0000E-03

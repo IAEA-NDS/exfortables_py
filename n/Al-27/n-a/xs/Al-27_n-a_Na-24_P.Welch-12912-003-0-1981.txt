@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 13-AL-27(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  2.0000e+01 MeV - 2.3000e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 12912-003-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,A)11-NA-24,,SIG) 
+#   First author: P.Welch 
+#   Institute:  (1USAOHO): Ohio University, Athens, OH 
+#   Reference:  (J,BAP,26,708(G3),198105) 
+#   Year:  1981 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12912.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12912
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+01        1.0000E-01        1.6450E-01        2.2000E-02
+        2.3000E+01        1.0000E-01        9.0000E-02        1.2000E-02

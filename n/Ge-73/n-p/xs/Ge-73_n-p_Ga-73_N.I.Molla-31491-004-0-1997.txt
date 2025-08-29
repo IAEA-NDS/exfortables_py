@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 32-GE-73(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 32 
+#   A: 73 
+#   Nuclide: 32-GE-73 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3820e+01 MeV - 1.4710e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 73 
+#   Nuclide: 31-GA-73 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31491-004-0 (entry-subentry-pointer) 
+#   Reaction code: (32-GE-73(N,P)31-GA-73,,SIG) 
+#   First author: N.I.Molla 
+#   Institute:  (3BANSAV): Institute Nuclear Science & Technology, AERE, Savar, Dhaka 
+#   Reference:  (C,97TRIEST,1,517,1997) 
+#   Year:  1997 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31491.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31491
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3820E+01        0.0000E+00        2.0450E-02        1.9700E-03
+        1.4100E+01        0.0000E+00        2.1350E-02        2.0300E-03
+        1.4310E+01        0.0000E+00        3.0760E-02        2.9200E-03
+        1.4570E+01        0.0000E+00        2.8100E-02        2.7400E-03
+        1.4710E+01        0.0000E+00        2.6610E-02        2.5500E-03

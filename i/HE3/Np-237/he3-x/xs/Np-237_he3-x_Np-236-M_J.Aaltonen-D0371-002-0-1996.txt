@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 93-NP-237(HE3,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 93 
+#   A: 237 
+#   Nuclide: 93-NP-237 
+# Reaction: 
+#   Process: HE3,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.0400e+01 MeV - 2.6000e+01 MeV 
+# Residual: 
+#   Z: 93 
+#   A: 236 
+#   Nuclide: 93-NP-236-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0371-002-0 (entry-subentry-pointer) 
+#   Reaction code: (93-NP-237(HE3,X)93-NP-236-M,,SIG) 
+#   First author: J.Aaltonen 
+#   Institute:  (2SF HLS): University of Helsinki, Helsinki 
+#   Reference:  (J,JRN,203,67,1996) 
+#   Year:  1996 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D03/D0371.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0371
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0400E+01        0.0000E+00        6.7000E-04        8.0000E-05
+        2.1300E+01        0.0000E+00        9.1000E-04        1.6000E-04
+        2.2400E+01        0.0000E+00        1.1300E-03        1.6000E-04
+        2.3200E+01        0.0000E+00        1.3800E-03        1.9000E-04
+        2.4300E+01        0.0000E+00        2.3800E-03        3.4000E-04
+        2.5300E+01        0.0000E+00        3.1500E-03        3.2000E-04
+        2.6000E+01        0.0000E+00        3.8400E-03        2.0000E-04

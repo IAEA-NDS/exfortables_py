@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31610-002-0 
-# EXFOR reaction        : (33-AS-75(N,2N)33-AS-74,,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4800e+01 MeV 
-# target                : As-75 
-# product               : As-74 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Fei Tuo 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,NIM/B,264,235,2007) 
-# year                  : 2007 
-# facility              : (CYCLO): Cyclotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31610.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31610
+# Header: 
+#   Title: 33-AS-75(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 33 
+#   A: 75 
+#   Nuclide: 33-AS-75 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 74 
+#   Nuclide: 33-AS-74 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31610-002-0 (entry-subentry-pointer) 
+#   Reaction code: (33-AS-75(N,2N)33-AS-74,,SIG) 
+#   First author: Fei Tuo 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,NIM/B,264,235,2007) 
+#   Year:  2007 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31610.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31610
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.4800E+01        0.0000E+00        9.9700E-01        4.4400E-02

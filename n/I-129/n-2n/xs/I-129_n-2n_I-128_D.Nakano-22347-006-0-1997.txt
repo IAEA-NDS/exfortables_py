@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 53-I-129(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 53 
+#   A: 129 
+#   Nuclide: 53-I-129 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4700e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 128 
+#   Nuclide: 53-I-128 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22347-006-0 (entry-subentry-pointer) 
+#   Reaction code: (53-I-129(N,2N)53-I-128,,SIG) 
+#   First author: D.Nakano 
+#   Institute:  (2JPNOSA): Osaka University , Osaka 
+#   Reference:  ((S,JAERI-C-97-004,177,1997)=(S,INDC(JPN)-178,177,1997)) 
+#   Year:  1997 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22347.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22347
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3500E+01        0.0000E+00        1.0200E+00        1.4000E-01
+        1.4200E+01        0.0000E+00        1.2600E+00        1.7000E-01
+        1.4700E+01        0.0000E+00        1.1300E+00        1.5000E-01

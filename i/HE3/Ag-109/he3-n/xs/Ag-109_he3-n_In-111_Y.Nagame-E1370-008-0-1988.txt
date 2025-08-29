@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 47-AG-109(HE3,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 47 
+#   A: 109 
+#   Nuclide: 47-AG-109 
+# Reaction: 
+#   Process: HE3,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.0920e+01 MeV - 3.7140e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 111 
+#   Nuclide: 49-IN-111 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1370-008-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-109(HE3,N)49-IN-111,,SIG) 
+#   First author: Y.Nagame 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,NP/A,486,77,1988) 
+#   Year:  1988 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E13/E1370.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1370
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0920E+01        0.0000E+00        1.3840E-03        0.0000E+00
+        1.4260E+01        0.0000E+00        2.6040E-03        0.0000E+00
+        1.7530E+01        0.0000E+00        3.5470E-03        0.0000E+00
+        2.0630E+01        0.0000E+00        3.0450E-03        0.0000E+00
+        2.3480E+01        0.0000E+00        3.0960E-03        0.0000E+00
+        2.5990E+01        0.0000E+00        2.5770E-03        0.0000E+00
+        2.8430E+01        0.0000E+00        2.3890E-03        0.0000E+00
+        3.0690E+01        0.0000E+00        2.2140E-03        0.0000E+00
+        3.2530E+01        0.0000E+00        2.1480E-03        0.0000E+00
+        3.4960E+01        0.0000E+00        1.9010E-03        0.0000E+00
+        3.7140E+01        0.0000E+00        1.8170E-03        0.0000E+00

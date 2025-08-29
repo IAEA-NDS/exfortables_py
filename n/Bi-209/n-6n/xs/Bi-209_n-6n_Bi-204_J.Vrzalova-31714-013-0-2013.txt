@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 83-BI-209(N,6N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: N,6N 
+#   MF-MT number: 3 - 153 
+#   Incident energy:  4.7000e+01 MeV - 9.4000e+01 MeV 
+# Residual: 
+#   Z: 83 
+#   A: 204 
+#   Nuclide: 83-BI-204 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31714-013-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(N,6N)83-BI-204,,SIG) 
+#   First author: J.Vrzalova 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,NIM/A,726,84,2013) 
+#   Year:  2013 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31714.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31714
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.7000E+01        6.0000E-01        1.2400E-01        1.8000E-02
+        5.9000E+01        4.0000E-01        3.9000E-01        6.0000E-02
+        6.6400E+01        4.0000E-01        1.7700E-01        2.5000E-02
+        7.2800E+01        4.0000E-01        1.2000E-01        1.8000E-02
+        8.9300E+01        7.0000E-01        9.2000E-02        1.4000E-02
+        9.4000E+01        7.0000E-01        9.3000E-02        1.3000E-02

@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 42-MO-92(N,N+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 92 
+#   Nuclide: 42-MO-92 
+# Reaction: 
+#   Process: N,N+A 
+#   MF-MT number: 3 - 22 
+#   Incident energy:  1.4080e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 88 
+#   Nuclide: 40-ZR-88 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22156-018-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-92(N,N+A)40-ZR-88,,SIG) 
+#   First author: T.Katoh 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((R,JAERI-M-89-083,1989)=(R,NEANDC(J)-137,1989)=(R,INDC(JPN)-124,1989)) 
+#   Year:  1989 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22156.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22156
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4870E+01        5.0000E-02        1.5100E-04        2.1140E-05
+        1.4640E+01        5.0000E-02        1.1100E-04        2.2200E-05
+        1.4380E+01        5.0000E-02        9.4000E-05        1.5980E-05
+        1.4080E+01        5.0000E-02        5.6000E-05        1.4000E-05

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 28-NI-61(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 61 
+#   Nuclide: 28-NI-61 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4730e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 61 
+#   Nuclide: 27-CO-61 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31524-010-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-61(N,P)27-CO-61,,SIG) 
+#   First author: M.Belgaid 
+#   Institute:  (3ALGUHB): Universite Sci. et Tech. Houari Boumediene, Algiers 
+#   Reference:  (J,JRN/L,166,493,1992) 
+#   Year:  1992 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31524.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31524
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4730E+01        5.0000E-02        8.7200E-02        4.5000E-03

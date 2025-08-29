@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 81-TL-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 81 
+#   A: 0 
+#   Nuclide: 81-TL-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.1500e+01 MeV - 3.6400e+01 MeV 
+# Residual: 
+#   Z: 80 
+#   A: 203 
+#   Nuclide: 80-HG-203 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4277-016-0 (entry-subentry-pointer) 
+#   Reaction code: (81-TL-0(P,X)80-HG-203,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,ARI,74,109,2013) 
+#   Year:  2013 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4277.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4277
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.1500E+01        4.0000E-01        7.0000E-05        6.0000E-05
+        3.2800E+01        3.0000E-01        1.3000E-04        7.0000E-05
+        3.4000E+01        3.0000E-01        2.5000E-04        7.0000E-05
+        3.5200E+01        3.0000E-01        2.6000E-04        7.0000E-05
+        3.6400E+01        3.0000E-01        3.6000E-04        5.0000E-05

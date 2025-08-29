@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32852-003-2 
-# EXFOR reaction        : (13-AL-27(N,TOT),,SIG) 
-# incident energy       : 1.0000e+00 MeV - 2.0400e+01 MeV 
-# target                : Al-27 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 1 
-# first author          : Xingyan Liu 
-# institute             : (3CPRCPR): China, People's Rep. 
-# reference             : (J,EPJ/A,57,232,2021) 
-# year                  : 2021 
-# facility              : (SYNCH): Synchrotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32852.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32852
+# Header: 
+#   Title: 13-AL-27(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  1.0000e+00 MeV - 2.0400e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32852-003-2 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,TOT),,SIG) 
+#   First author: Xingyan Liu 
+#   Institute:  (3CPRCPR): China, People's Rep. 
+#   Reference:  (J,EPJ/A,57,232,2021) 
+#   Year:  2021 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32852.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32852
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.0000E+00        0.0000E+00        3.8249E+00        1.7136E-01

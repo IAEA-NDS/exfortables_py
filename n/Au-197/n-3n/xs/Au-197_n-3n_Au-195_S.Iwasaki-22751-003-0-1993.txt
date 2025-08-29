@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 79-AU-197(N,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  1.7539e+01 MeV - 1.9568e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 195 
+#   Nuclide: 79-AU-195 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22751-003-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,3N)79-AU-195,,SIG) 
+#   First author: S.Iwasaki 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (S,JAERI-M-93-046,257,1993) 
+#   Year:  1993 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22751.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22751
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7539E+01        3.6067E-02        3.1421E-01        9.3802E-02
+        1.8317E+01        3.6067E-02        4.1373E-01        1.1725E-01
+        1.8509E+01        3.6067E-02        5.1717E-01        1.0790E-01
+        1.9354E+01        3.6067E-02        7.6218E-01        1.4536E-01
+        1.9356E+01        3.6067E-02        7.1528E-01        1.5008E-01
+        1.9547E+01        3.6067E-02        8.5155E-01        1.9698E-01
+        1.9568E+01        3.6067E-02        9.4069E-01        2.0171E-01

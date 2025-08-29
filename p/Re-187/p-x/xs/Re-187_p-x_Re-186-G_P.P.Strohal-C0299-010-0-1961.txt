@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 75-RE-187(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 75 
+#   A: 187 
+#   Nuclide: 75-RE-187 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.5000e+02 MeV - 4.4000e+02 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 186 
+#   Nuclide: 75-RE-186-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0299-010-0 (entry-subentry-pointer) 
+#   Reaction code: (75-RE-187(P,X)75-RE-186-G,,SIG) 
+#   First author: P.P.Strohal 
+#   Institute:  (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
+#   Reference:  (J,PR,121,1815,1961) 
+#   Year:  1961 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0299.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0299
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5000E+02        0.0000E+00        6.7100E-02        1.0065E-02
+        3.0000E+02        0.0000E+00        6.7500E-02        1.0125E-02
+        3.5000E+02        0.0000E+00        6.7400E-02        1.0110E-02
+        4.0000E+02        0.0000E+00        6.6800E-02        1.0020E-02
+        4.4000E+02        0.0000E+00        6.8000E-02        1.0200E-02

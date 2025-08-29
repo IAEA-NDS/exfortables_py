@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 80-HG-198(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 80 
+#   A: 198 
+#   Nuclide: 80-HG-198 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  9.7300e+00 MeV - 1.2530e+01 MeV 
+# Residual: 
+#   Z: 80 
+#   A: 197 
+#   Nuclide: 80-HG-197-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22935-004-0 (entry-subentry-pointer) 
+#   Reaction code: (80-HG-198(N,2N)80-HG-197-G,,SIG) 
+#   First author: M.Al-Abyad 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,PR/C,73,064608,2006) 
+#   Year:  2006 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22935.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22935
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.7300E+00        2.8000E-01        2.3300E-01        4.3000E-02
+        1.0590E+01        3.1000E-01        5.0000E-01        9.2000E-02
+        1.1070E+01        3.4000E-01        6.5500E-01        1.2000E-01
+        1.1250E+01        3.4000E-01        6.4800E-01        1.1900E-01
+        1.1510E+01        3.4000E-01        6.9200E-01        1.2700E-01
+        1.1920E+01        3.5000E-01        8.1100E-01        1.4900E-01
+        1.2400E+01        3.6000E-01        8.7000E-01        1.6000E-01
+        1.2530E+01        5.0000E-01        9.5500E-01        1.7500E-01

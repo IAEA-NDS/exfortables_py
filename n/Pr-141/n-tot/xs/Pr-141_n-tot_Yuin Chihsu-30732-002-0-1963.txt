@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 30732-002-0 
-# EXFOR reaction        : (59-PR-141(N,TOT),,SIG) 
-# incident energy       : 1.3950e+01 MeV - 1.4750e+01 MeV 
-# target                : Pr-141 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 1 
-# first author          : Yuin Chihsu 
-# institute             : (3CHFNTU): National Taiwan University , Taipei 
-# reference             : (J,CHP,1,39,196310) 
-# year                  : 1963 
-# facility              : (CCW): Cockcroft-Walton accelerator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30732.x4 
-# nds                   : https://nds.iaea.org/EXFOR/30732
+# Header: 
+#   Title: 59-PR-141(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 59 
+#   A: 141 
+#   Nuclide: 59-PR-141 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  1.3950e+01 MeV - 1.4750e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30732-002-0 (entry-subentry-pointer) 
+#   Reaction code: (59-PR-141(N,TOT),,SIG) 
+#   First author: Yuin Chihsu 
+#   Institute:  (3CHFNTU): National Taiwan University , Taipei 
+#   Reference:  (J,CHP,1,39,196310) 
+#   Year:  1963 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30732.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30732
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.4750E+01        1.5000E-01        5.0400E+00        0.0000E+00

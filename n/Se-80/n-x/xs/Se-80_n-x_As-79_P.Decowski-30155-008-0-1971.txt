@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 34-SE-80(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 34 
+#   A: 80 
+#   Nuclide: 34-SE-80 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3360e+01 MeV - 1.7780e+01 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 79 
+#   Nuclide: 33-AS-79 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30155-008-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-80(N,X)33-AS-79,,SIG) 
+#   First author: P.Decowski 
+#   Institute:  (3POLIPJ): Narodowe Centrum Badan Jadrowych, Swierk+Warszawa 
+#   Reference:  (P,INR-1318,8,1971) 
+#   Year:  1971 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30155.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30155
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3360E+01        1.4000E-01        3.8000E-03        3.0000E-03
+        1.4470E+01        1.1000E-01        1.0000E-03        3.2000E-03
+        1.5060E+01        1.7000E-01        8.4000E-03        4.4000E-03
+        1.5360E+01        2.0000E-01        7.3000E-03        2.4000E-03
+        1.5880E+01        1.9000E-01        4.1000E-03        9.2000E-03
+        1.6510E+01        1.1000E-01        1.3200E-02        4.2000E-03
+        1.7320E+01        2.0000E-01        3.5300E-02        1.0600E-02
+        1.7780E+01        1.5000E-01        7.1200E-02        1.3500E-02

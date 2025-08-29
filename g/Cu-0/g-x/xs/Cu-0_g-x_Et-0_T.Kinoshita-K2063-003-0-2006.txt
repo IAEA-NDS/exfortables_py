@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 29-CU-0(G,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: G,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.9480e+02 MeV - 1.0960e+03 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 0 
+#   Nuclide: 0-ET-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: K2063-003-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(G,X)0-ET-0,,SIG) 
+#   First author: T.Kinoshita 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,PL/B,639,(5),429,200608) 
+#   Year:  2006 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K20/K2063.x4 
+#   nds:  https://nds.iaea.org/EXFOR/K2063
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.9480E+02        0.0000E+00        5.6920E-06        0.0000E+00
+        6.3210E+02        0.0000E+00        1.9980E-05        0.0000E+00
+        6.5890E+02        0.0000E+00        5.0050E-05        0.0000E+00
+        6.8830E+02        0.0000E+00        7.7120E-05        0.0000E+00
+        7.1860E+02        0.0000E+00        1.1620E-04        0.0000E+00
+        7.4890E+02        0.0000E+00        1.3800E-04        0.0000E+00
+        7.7050E+02        0.0000E+00        1.5460E-04        0.0000E+00
+        8.0170E+02        0.0000E+00        1.9070E-04        7.5190E-06
+        8.3890E+02        0.0000E+00        2.2070E-04        9.7740E-06
+        8.7270E+02        0.0000E+00        2.2750E-04        1.0530E-05
+        9.0900E+02        0.0000E+00        2.3580E-04        1.3530E-05
+        9.4540E+02        0.0000E+00        2.2520E-04        1.2780E-05
+        9.8090E+02        0.0000E+00        2.1620E-04        1.5040E-05
+        1.0200E+03        0.0000E+00        2.1320E-04        1.7290E-05
+        1.0510E+03        0.0000E+00        1.9440E-04        2.5560E-05
+        1.0960E+03        0.0000E+00        1.9440E-04        2.7820E-05

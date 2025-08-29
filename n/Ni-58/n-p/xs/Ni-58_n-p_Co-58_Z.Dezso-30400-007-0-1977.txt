@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 28-NI-58(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4100e+00 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30400-007-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,P)27-CO-58,,SIG,,FIS) 
+#   First author: Z.Dezso 
+#   Institute:  (3HUNKOS): University of Debrecen, Debrecen 
+#   Reference:  (C,77KIEV,3,32,1977) 
+#   Year:  1977 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30400.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30400
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+00        0.0000E+00        1.1340E-01        4.8000E-03

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 51-SB-123(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 51 
+#   A: 123 
+#   Nuclide: 51-SB-123 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 124 
+#   Nuclide: 51-SB-124-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20718-009-0 (entry-subentry-pointer) 
+#   Reaction code: (51-SB-123(N,G)51-SB-124-G,,SIG) 
+#   First author: M.Wagner 
+#   Institute:  (2AUSVIE): Universitaet Wien, Vienna 
+#   Reference:  (J,APA,52,23,1980) 
+#   Year:  1980 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20718.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20718
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        2.0000E-01        2.0000E-03        2.0000E-05

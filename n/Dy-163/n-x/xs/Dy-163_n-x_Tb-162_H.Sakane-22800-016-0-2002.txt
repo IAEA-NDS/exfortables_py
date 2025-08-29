@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 66-DY-163(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 66 
+#   A: 163 
+#   Nuclide: 66-DY-163 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3400e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 65 
+#   A: 162 
+#   Nuclide: 65-TB-162 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22800-016-0 (entry-subentry-pointer) 
+#   Reaction code: (66-DY-163(N,X)65-TB-162,,SIG) 
+#   First author: H.Sakane 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  (J,ANE,29,53,2002) 
+#   Year:  2002 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22800.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22800
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4870E+01        0.0000E+00        6.8000E-04        1.0200E-04
+        1.4580E+01        0.0000E+00        6.7000E-04        1.1390E-04
+        1.4280E+01        0.0000E+00        5.0000E-04        1.1500E-04
+        1.3880E+01        0.0000E+00        2.3000E-04        8.9700E-05
+        1.3650E+01        0.0000E+00        1.7000E-04        9.3500E-05
+        1.3400E+01        0.0000E+00        1.2000E-04        7.9200E-05

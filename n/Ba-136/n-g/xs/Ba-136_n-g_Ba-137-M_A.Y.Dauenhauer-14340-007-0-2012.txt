@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 56-BA-136(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 56 
+#   A: 136 
+#   Nuclide: 56-BA-136 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 56 
+#   A: 137 
+#   Nuclide: 56-BA-137-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14340-007-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-136(N,G)56-BA-137-M,,SIG,,MXW) 
+#   First author: A.Y.Dauenhauer 
+#   Institute:  (1USAORU): Oregon State University, Corvallis, OR 
+#   Reference:  (J,PR/C,85,064301,2012) 
+#   Year:  2012 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/143/14340.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14340
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.8700E-02        5.7000E-03

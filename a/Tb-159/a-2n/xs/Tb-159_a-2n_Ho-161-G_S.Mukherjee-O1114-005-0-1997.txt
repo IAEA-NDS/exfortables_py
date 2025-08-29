@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 65-TB-159(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 65 
+#   A: 159 
+#   Nuclide: 65-TB-159 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  2.2110e+01 MeV - 4.7660e+01 MeV 
+# Residual: 
+#   Z: 67 
+#   A: 161 
+#   Nuclide: 67-HO-161-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1114-005-0 (entry-subentry-pointer) 
+#   Reaction code: (65-TB-159(A,2N)67-HO-161-G,M+,SIG) 
+#   First author: S.Mukherjee 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,PR/C,55,2556,1997) 
+#   Year:  1997 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O11/O1114.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1114
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2110E+01        1.6000E-01        8.7000E-01        6.9600E-02
+        2.6510E+01        1.6000E-01        5.2000E-01        4.1600E-02
+        3.0930E+01        1.6000E-01        1.8600E-01        1.4880E-02
+        3.4530E+01        1.6000E-01        9.7000E-02        7.7600E-03
+        3.8340E+01        1.6000E-01        7.3000E-02        5.8400E-03
+        4.1450E+01        1.6000E-01        6.1000E-02        4.8800E-03
+        4.4440E+01        1.6000E-01        6.0000E-02        4.8000E-03
+        4.7660E+01        1.6000E-01        5.6000E-02        4.4800E-03

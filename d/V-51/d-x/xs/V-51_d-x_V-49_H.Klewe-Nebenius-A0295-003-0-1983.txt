@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 23-V-51(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 23 
+#   A: 51 
+#   Nuclide: 23-V-51 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.7790e+01 MeV - 2.4880e+01 MeV 
+# Residual: 
+#   Z: 23 
+#   A: 49 
+#   Nuclide: 23-V-49 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0295-003-0 (entry-subentry-pointer) 
+#   Reaction code: (23-V-51(D,X)23-V-49,,SIG) 
+#   First author: H.Klewe-Nebenius 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,RCA,33,177,1983) 
+#   Year:  1983 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0295.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0295
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7790E+01        2.2000E-01        2.2400E-04        1.1200E-05
+        2.0860E+01        2.2000E-01        1.5300E-03        7.6500E-05
+        2.4000E+01        2.2000E-01        3.9900E-03        1.9950E-04
+        2.4880E+01        2.2000E-01        5.3300E-03        2.6650E-04

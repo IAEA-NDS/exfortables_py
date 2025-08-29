@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 49-IN-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 49 
+#   A: 0 
+#   Nuclide: 49-IN-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.2000e+03 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0342-002-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-0(P,X)4-BE-7,,SIG) 
+#   First author: D.R.Nethaway 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR,119,1375,1960) 
+#   Year:  1960 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0342.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0342
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.2000E+03        0.0000E+00        1.4100E-02        4.2300E-03

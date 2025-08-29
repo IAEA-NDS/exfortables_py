@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 67-HO-165(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 67 
+#   A: 165 
+#   Nuclide: 67-HO-165 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.0100e+01 MeV - 1.9600e+01 MeV 
+# Residual: 
+#   Z: 67 
+#   A: 164 
+#   Nuclide: 67-HO-164-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23762-002-2 (entry-subentry-pointer) 
+#   Reaction code: (67-HO-165(N,2N)67-HO-164-M,,SIG) 
+#   First author: E.Georgali 
+#   Institute:  (2SWDSWD): Sweden 
+#   Reference:  (J,PR/C,102,034610,2020) 
+#   Year:  2020 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/237/23762.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23762
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0100E+01        1.0000E-01               NAN        0.0000E+00
+        1.0400E+01        1.0000E-01               NAN        0.0000E+00
+        1.0700E+01        1.0000E-01               NAN        0.0000E+00
+        1.7100E+01        3.0000E-01        6.4000E-01        7.1000E-02
+        1.8100E+01        2.0000E-01        5.9200E-01        6.7000E-02
+        1.9000E+01        2.0000E-01        4.9200E-01        5.8000E-02
+        1.9600E+01        2.0000E-01        3.8700E-01        4.6000E-02

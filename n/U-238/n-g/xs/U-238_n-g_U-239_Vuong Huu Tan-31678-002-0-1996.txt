@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31678-002-0 
-# EXFOR reaction        : (92-U-238(N,G)92-U-239,,SIG) 
-# incident energy       : 5.5000e-02 MeV - 1.4400e-01 MeV 
-# target                : U-238 
-# product               : U-239 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Vuong Huu Tan 
-# institute             : (3VN DAL): Nuclear Research Institute , Dalat 
-# reference             : (R,INDC(VN)-8,1996) 
-# year                  : 1996 
-# facility              : (REAC): Reactor 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31678.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31678
+# Header: 
+#   Title: 92-U-238(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.5000e-02 MeV - 1.4400e-01 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 239 
+#   Nuclide: 92-U-239 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31678-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,G)92-U-239,,SIG) 
+#   First author: Vuong Huu Tan 
+#   Institute:  (3VN DAL): Nuclear Research Institute , Dalat 
+#   Reference:  (R,INDC(VN)-8,1996) 
+#   Year:  1996 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31678.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31678
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         5.5000E-02        0.0000E+00        2.9230E-01        8.5000E-03

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 40-ZR-90(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 89 
+#   Nuclide: 40-ZR-89 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21613-005-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(N,2N)40-ZR-89,,SIG,,FIS) 
+#   First author: T.Sekine 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,JIN,43,(7),1427,1981) 
+#   Year:  1981 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21613.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21613
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.0440E-04        4.6000E-06

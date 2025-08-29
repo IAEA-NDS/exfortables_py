@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 23-V-51(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 23 
+#   A: 51 
+#   Nuclide: 23-V-51 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.7028e+01 MeV - 2.0313e+01 MeV 
+# Residual: 
+#   Z: 22 
+#   A: 51 
+#   Nuclide: 22-TI-51 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22414-015-0 (entry-subentry-pointer) 
+#   Reaction code: (23-V-51(N,P)22-TI-51,,SIG) 
+#   First author: A.Fessler 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,NSE,134,(2),171,2000) 
+#   Year:  2000 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22414.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22414
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7028E+01        0.0000E+00        2.6220E-02        1.3500E-03
+        1.7777E+01        0.0000E+00        2.3630E-02        1.0700E-03
+        1.9101E+01        0.0000E+00        1.7900E-02        1.0900E-03
+        2.0313E+01        0.0000E+00        1.3550E-02        1.0200E-03

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 60-ND-148(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 60 
+#   A: 148 
+#   Nuclide: 60-ND-148 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 147 
+#   Nuclide: 60-ND-147 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10431-049-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-148(N,2N)60-ND-147,,SIG) 
+#   First author: A.Bari 
+#   Institute:  (1USAARK): University of Arkansas, Fayetteville, AR 
+#   Reference:  (J,DA/B,32,5091,1972) 
+#   Year:  1972 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10431.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10431
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        2.0000E-01        1.3850E+00        1.2800E-01

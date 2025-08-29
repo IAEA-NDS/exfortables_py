@@ -1,0 +1,52 @@
+# Header: 
+#   Title: 55-CS-133(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 55 
+#   A: 133 
+#   Nuclide: 55-CS-133 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  7.8000e+00 MeV - 1.9300e+01 MeV 
+# Residual: 
+#   Z: 56 
+#   A: 133 
+#   Nuclide: 56-BA-133-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4073-016-0 (entry-subentry-pointer) 
+#   Reaction code: (55-CS-133(P,N)56-BA-133-M,,SIG) 
+#   First author: S.M.Kormali 
+#   Institute:  (1USATAM): Texas A & M University, College Station, TX 
+#   Reference:  (J,JRC,31,437,1976) 
+#   Year:  1976 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4073.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4073
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9300E+01        0.0000E+00        3.2000E-02        0.0000E+00
+        1.8900E+01        0.0000E+00        3.3000E-02        0.0000E+00
+        1.8500E+01        0.0000E+00        3.7000E-02        0.0000E+00
+        1.8200E+01        0.0000E+00        3.9000E-02        0.0000E+00
+        1.7000E+01        0.0000E+00        3.7000E-02        0.0000E+00
+        1.6600E+01        0.0000E+00        4.0000E-02        0.0000E+00
+        1.6200E+01        0.0000E+00        4.8000E-02        0.0000E+00
+        1.5700E+01        0.0000E+00        5.3000E-02        0.0000E+00
+        1.5200E+01        0.0000E+00        6.5000E-02        0.0000E+00
+        1.4800E+01        0.0000E+00        6.5000E-02        0.0000E+00
+        1.4400E+01        0.0000E+00        8.1000E-02        0.0000E+00
+        1.4000E+01        0.0000E+00        8.9000E-02        0.0000E+00
+        1.3500E+01        0.0000E+00        9.8000E-02        0.0000E+00
+        1.3000E+01        0.0000E+00        1.2500E-01        0.0000E+00
+        1.2500E+01        0.0000E+00        1.5700E-01        0.0000E+00
+        1.2000E+01        0.0000E+00        1.8700E-01        0.0000E+00
+        1.1500E+01        0.0000E+00        2.2800E-01        0.0000E+00
+        1.1000E+01        0.0000E+00        2.5700E-01        0.0000E+00
+        1.0400E+01        0.0000E+00        2.6300E-01        0.0000E+00
+        9.8000E+00        0.0000E+00        2.4600E-01        0.0000E+00
+        9.2000E+00        0.0000E+00        2.1600E-01        0.0000E+00
+        8.5000E+00        0.0000E+00        1.5500E-01        0.0000E+00
+        7.8000E+00        0.0000E+00        1.0100E-01        0.0000E+00

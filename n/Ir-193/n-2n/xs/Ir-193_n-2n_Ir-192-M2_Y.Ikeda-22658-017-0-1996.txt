@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 77-IR-193(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 77 
+#   A: 193 
+#   Nuclide: 77-IR-193 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 77 
+#   A: 192 
+#   Nuclide: 77-IR-192-M2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22658-017-0 (entry-subentry-pointer) 
+#   Reaction code: (77-IR-193(N,2N)77-IR-192-M2,,SIG) 
+#   First author: Y.Ikeda 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (S,INDC(NDS)-342,19,199602) 
+#   Year:  1996 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22658.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22658
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        1.4700E-01        5.2000E-02

@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 93-NP-237(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 93 
+#   A: 237 
+#   Nuclide: 93-NP-237 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  5.0000e+01 MeV - 8.5000e+01 MeV 
+# Residual: 
+#   Z: 55 
+#   A: 129 
+#   Nuclide: 55-CS-129 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0708-002-0 (entry-subentry-pointer) 
+#   Reaction code: (93-NP-237(P,F)55-CS-129,IND,SIG) 
+#   First author: T.Mcgee 
+#   Institute:  (1CANMCG): McGill University, Montreal,Quebec 
+#   Reference:  (J,JIN,34,3323,1972) 
+#   Year:  1972 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0708.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0708
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E+01        0.0000E+00        3.0000E-04        1.5000E-04
+        6.0000E+01        0.0000E+00        2.6000E-04        1.3000E-04
+        7.2000E+01        0.0000E+00        5.0000E-04        2.0000E-04
+        8.5000E+01        0.0000E+00        8.9000E-04        3.6000E-04

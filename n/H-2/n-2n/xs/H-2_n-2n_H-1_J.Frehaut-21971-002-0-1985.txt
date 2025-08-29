@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 1-H-2(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  7.4100e+00 MeV - 1.4760e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21971-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(N,2N)1-H-1,,SIG) 
+#   First author: J.Frehaut 
+#   Institute:  (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
+#   Reference:  ((J,RE,96,219,1986)=(C,85SANTA,2,1561,1985)) 
+#   Year:  1985 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21971.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21971
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.4100E+00        1.6500E-01        1.0200E-01        1.7000E-02
+        7.9300E+00        1.5000E-01        1.3100E-01        1.5000E-02
+        8.4400E+00        1.3500E-01        1.2100E-01        1.3000E-02
+        8.9400E+00        1.2500E-01        1.3100E-01        1.0000E-02
+        9.4400E+00        1.1500E-01        1.4200E-01        1.1000E-02
+        9.9300E+00        1.1000E-01        1.1400E-01        1.0000E-02
+        1.0420E+01        1.0000E-01        1.3500E-01        1.9000E-02
+        1.0910E+01        9.5000E-02        1.3900E-01        1.0000E-02
+        1.1400E+01        9.0000E-02        1.5900E-01        1.0000E-02
+        1.1880E+01        8.5000E-02        1.4500E-01        1.0000E-02
+        1.2360E+01        8.5000E-02        1.5300E-01        1.3000E-02
+        1.2850E+01        8.0000E-02        1.6400E-01        1.4000E-02
+        1.3330E+01        7.5000E-02        1.6300E-01        1.4000E-02
+        1.3800E+01        7.5000E-02        1.7300E-01        1.4000E-02
+        1.4280E+01        7.0000E-02        1.6600E-01        1.4000E-02
+        1.4760E+01        6.5000E-02        1.8000E-01        1.4000E-02

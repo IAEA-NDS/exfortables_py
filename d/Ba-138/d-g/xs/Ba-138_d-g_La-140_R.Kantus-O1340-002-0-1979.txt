@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 56-BA-138(D,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 56 
+#   A: 138 
+#   Nuclide: 56-BA-138 
+# Reaction: 
+#   Process: D,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  8.4000e+00 MeV - 2.5860e+01 MeV 
+# Residual: 
+#   Z: 57 
+#   A: 140 
+#   Nuclide: 57-LA-140 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1340-002-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-138(D,G)57-LA-140,,SIG) 
+#   First author: R.Kantus 
+#   Institute:  (2GERGOE): University of Goettingen 
+#   Reference:  (J,ZP/A,291,377,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O13/O1340.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1340
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.4000E+00        3.0000E-01        9.5000E-06        1.2350E-06
+        1.1200E+01        4.0000E-01        2.1800E-05        2.3980E-06
+        1.4100E+01        3.0000E-01        1.9700E-05        2.3640E-06
+        1.5700E+01        3.0000E-01        1.7200E-05        2.4080E-06
+        1.8000E+01        4.0000E-01        1.1700E-05        1.8720E-06
+        2.1400E+01        4.0000E-01        6.3000E-06        1.0080E-06
+        2.4330E+01        2.4000E-01        3.6000E-06        5.0400E-07
+        2.5860E+01        2.9000E-01        2.1000E-06        3.9900E-07

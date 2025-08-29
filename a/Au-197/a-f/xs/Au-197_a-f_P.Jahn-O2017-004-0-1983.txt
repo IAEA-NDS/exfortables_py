@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 79-AU-197(A,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: A,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  6.4700e+01 MeV - 1.5440e+02 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 95 
+#   Nuclide: 40-ZR-95 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2017-004-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(A,F)40-ZR-95,CUM,SIG) 
+#   First author: P.Jahn 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,APP/B,14,873,1983) 
+#   Year:  1983 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2017.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2017
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.4700E+01        0.0000E+00        7.1600E-04        5.0120E-05
+        7.2300E+01        0.0000E+00        1.5000E-03        1.0500E-04
+        7.9300E+01        0.0000E+00        2.1100E-03        1.4770E-04
+        8.5100E+01        0.0000E+00        2.7900E-03        1.9530E-04
+        9.4100E+01        0.0000E+00        4.0000E-03        2.8000E-04
+        1.0170E+02        0.0000E+00        4.6600E-03        3.2620E-04
+        1.0720E+02        0.0000E+00        5.2800E-03        3.6960E-04
+        1.1260E+02        0.0000E+00        5.4700E-03        3.8290E-04
+        1.1780E+02        0.0000E+00        5.6000E-03        3.9200E-04
+        1.2280E+02        0.0000E+00        6.0800E-03        4.2560E-04
+        1.2770E+02        0.0000E+00        6.0100E-03        4.2070E-04
+        1.3240E+02        0.0000E+00        6.0000E-03        4.2000E-04
+        1.3700E+02        0.0000E+00        6.0400E-03        4.2280E-04
+        1.4150E+02        0.0000E+00        5.9700E-03        4.1790E-04
+        1.4590E+02        0.0000E+00        6.0600E-03        4.2420E-04
+        1.5020E+02        0.0000E+00        5.7400E-03        4.0180E-04
+        1.5440E+02        0.0000E+00        5.4700E-03        3.8290E-04

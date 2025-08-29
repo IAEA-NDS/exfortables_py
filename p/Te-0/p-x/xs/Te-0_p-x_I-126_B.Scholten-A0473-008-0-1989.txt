@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 52-TE-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 52 
+#   A: 0 
+#   Nuclide: 52-TE-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  9.8000e+00 MeV - 1.6240e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 126 
+#   Nuclide: 53-I-126 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0473-008-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-0(P,X)53-I-126,,SIG) 
+#   First author: B.Scholten 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,ARI,40,127,1989) 
+#   Year:  1989 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0473.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0473
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.8000E+00        2.0000E-02        4.5430E-02        0.0000E+00
+        1.1770E+01        2.0000E-02        7.8370E-02        0.0000E+00
+        1.2210E+01        2.0000E-02        7.0150E-02        0.0000E+00
+        1.2660E+01        2.0000E-02        4.9970E-02        0.0000E+00
+        1.3120E+01        2.0000E-02        4.5110E-02        0.0000E+00
+        1.3450E+01        2.0000E-02        4.5840E-02        0.0000E+00
+        1.3970E+01        2.0000E-02        2.3090E-02        0.0000E+00
+        1.4470E+01        2.0000E-02        1.6040E-02        0.0000E+00
+        1.5340E+01        2.0000E-02        1.3400E-02        0.0000E+00
+        1.6240E+01        2.0000E-02        9.4600E-03        0.0000E+00

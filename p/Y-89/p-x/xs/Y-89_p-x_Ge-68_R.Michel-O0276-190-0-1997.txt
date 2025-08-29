@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 39-Y-89(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.3500e+02 MeV - 1.6000e+03 MeV 
+# Residual: 
+#   Z: 32 
+#   A: 68 
+#   Nuclide: 32-GE-68 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0276-190-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(P,X)32-GE-68,CUM,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,NIM/B,129,153,1997) 
+#   Year:  1997 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0276
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3500E+02        1.5700E+00        3.4800E-03        9.9100E-04
+        3.5500E+02        1.3800E+00        2.1800E-03        5.0800E-04
+        3.7200E+02        1.1200E+00        3.1500E-03        8.2700E-04
+        5.6900E+02        1.2400E+00        8.2200E-03        1.0300E-03
+        7.7200E+02        1.2300E+00        1.0300E-02        1.5800E-03
+        1.2000E+03        2.0000E+01        1.1300E-02        8.9300E-04
+        1.6000E+03        2.0000E+01        1.0200E-02        7.9000E-04

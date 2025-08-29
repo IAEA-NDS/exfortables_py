@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 62-SM-148(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 62 
+#   A: 148 
+#   Nuclide: 62-SM-148 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  4.0000e-03 MeV - 2.1250e-01 MeV 
+# Residual: 
+#   Z: 62 
+#   A: 149 
+#   Nuclide: 62-SM-149 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22374-008-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-148(N,G)62-SM-149,,SIG,,AV) 
+#   First author: K.Wisshak 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,PR/C,48,(3),1401,199309) 
+#   Year:  1993 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22374.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22374
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E-03        0.0000E+00        7.2490E-01        7.1040E-02
+        6.2500E-03        0.0000E+00        5.7980E-01        2.7251E-02
+        8.7500E-03        0.0000E+00        4.1220E-01        1.4427E-02
+        1.1250E-02        0.0000E+00        3.4720E-01        9.3744E-03
+        1.3750E-02        0.0000E+00        3.2580E-01        8.1450E-03
+        1.7500E-02        0.0000E+00        2.7660E-01        4.1490E-03
+        2.2500E-02        0.0000E+00        2.5830E-01        3.0996E-03
+        2.7500E-02        0.0000E+00        2.2240E-01        2.4464E-03
+        3.5000E-02        0.0000E+00        2.0760E-01        1.8684E-03
+        4.5000E-02        0.0000E+00        1.9450E-01        1.7505E-03
+        5.5000E-02        0.0000E+00        1.7620E-01        1.5858E-03
+        7.0000E-02        0.0000E+00        1.6250E-01        1.4625E-03
+        9.0000E-02        0.0000E+00        1.5380E-01        1.3842E-03
+        1.1000E-01        0.0000E+00        1.5140E-01        1.3626E-03
+        1.3500E-01        0.0000E+00        1.4710E-01        1.3239E-03
+        1.6250E-01        0.0000E+00        1.4420E-01        1.2978E-03
+        1.8750E-01        0.0000E+00        1.4180E-01        1.2762E-03
+        2.1250E-01        0.0000E+00        1.4140E-01        1.6968E-03

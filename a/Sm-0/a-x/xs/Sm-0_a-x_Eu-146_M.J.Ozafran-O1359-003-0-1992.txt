@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 62-SM-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 62 
+#   A: 0 
+#   Nuclide: 62-SM-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.0700e+01 MeV - 7.2100e+01 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 146 
+#   Nuclide: 63-EU-146 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1359-003-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-0(A,X)63-EU-146,,SIG,,DAM) 
+#   First author: M.J.Ozafran 
+#   Institute:  (3ARGCNE): Comision Nacional de Energia Atomica, Buenos Aires 
+#   Reference:  (J,JRN,162,145,1992) 
+#   Year:  1992 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O13/O1359.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1359
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.2100E+01        0.0000E+00        1.8700E-04        3.7000E-05
+        6.8800E+01        0.0000E+00        2.1300E-04        4.3000E-05
+        6.6200E+01        0.0000E+00        1.3300E-04        2.7000E-05
+        6.2800E+01        0.0000E+00        7.3800E-05        1.4900E-05
+        6.0000E+01        0.0000E+00        9.2500E-05        1.9000E-05
+        5.4900E+01        0.0000E+00        3.9800E-05        8.8000E-06
+        5.1800E+01        0.0000E+00        3.0400E-05        8.3000E-06
+        4.5100E+01        0.0000E+00        3.0800E-05        7.7000E-06
+        4.1600E+01        0.0000E+00        2.0300E-05        5.6000E-06
+        3.4600E+01        0.0000E+00        1.6800E-05        4.0000E-06
+        3.0100E+01        0.0000E+00        1.5100E-05        3.3000E-06
+        2.0700E+01        0.0000E+00        4.4300E-06        1.1300E-06

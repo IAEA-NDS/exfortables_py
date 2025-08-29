@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 13-AL-27(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.7690e+00 MeV - 5.3330e+00 MeV 
+# Residual: 
+#   Z: 15 
+#   A: 30 
+#   Nuclide: 15-P-30 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0180-002-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(A,N)15-P-30,,SIG) 
+#   First author: A.J.Howard 
+#   Institute:  (1USACAL): California Institute of Technology, Pasadena, CA 
+#   Reference:  (J,AJ,188,131,197402) 
+#   Year:  1974 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C01/C0180.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0180
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7690E+00        0.0000E+00        2.0790E-05        3.1185E-06
+        2.8920E+00        0.0000E+00        5.1900E-05        7.7850E-06
+        3.0500E+00        0.0000E+00        2.7360E-04        4.1040E-05
+        3.2180E+00        0.0000E+00        1.0720E-03        1.6080E-04
+        3.3940E+00        0.0000E+00        1.3520E-03        2.0280E-04
+        3.5490E+00        0.0000E+00        2.4440E-03        3.6660E-04
+        3.7490E+00        0.0000E+00        4.9000E-03        7.3500E-04
+        3.9130E+00        0.0000E+00        6.0960E-03        9.1440E-04
+        4.0900E+00        0.0000E+00        1.0470E-02        1.5705E-03
+        4.2550E+00        0.0000E+00        1.4260E-02        2.1390E-03
+        4.4420E+00        0.0000E+00        1.8680E-02        2.8020E-03
+        4.6630E+00        0.0000E+00        2.6770E-02        4.0155E-03
+        4.9040E+00        0.0000E+00        3.1630E-02        4.7445E-03
+        5.1240E+00        0.0000E+00        4.2510E-02        6.3765E-03
+        5.3330E+00        0.0000E+00        5.9380E-02        8.9070E-03

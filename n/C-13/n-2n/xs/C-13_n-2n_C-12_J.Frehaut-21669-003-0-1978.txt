@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 6-C-13(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 6 
+#   A: 13 
+#   Nuclide: 6-C-13 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  7.4100e+00 MeV - 1.4760e+01 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21669-003-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-13(N,2N)6-C-12,,SIG) 
+#   First author: J.Frehaut 
+#   Institute:  (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
+#   Reference:  (P,NEANDC(E)-194,66,1978) 
+#   Year:  1978 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21669.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21669
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.4100E+00        1.6500E-01        1.0000E-02        1.0000E-02
+        7.9300E+00        1.5000E-01        1.9000E-02        8.0000E-03
+        8.1800E+00        1.4500E-01        9.0000E-02        1.2000E-02
+        8.4400E+00        1.3500E-01        1.1400E-01        1.0000E-02
+        8.9400E+00        1.2500E-01        9.0000E-02        1.2000E-02
+        9.4400E+00        1.1500E-01        9.9000E-02        8.0000E-03
+        1.0420E+01        1.0000E-01        1.1500E-01        1.0000E-02
+        1.0910E+01        9.5000E-02        1.9600E-01        1.3000E-02
+        1.1400E+01        9.0000E-02        2.1800E-01        1.3000E-02
+        1.1880E+01        8.5000E-02        2.0900E-01        1.5000E-02
+        1.2360E+01        8.5000E-02        2.0400E-01        1.6000E-02
+        1.2850E+01        8.0000E-02        2.2000E-01        1.8000E-02
+        1.3330E+01        7.5000E-02        2.9800E-01        2.3000E-02
+        1.3800E+01        7.5000E-02        2.8900E-01        3.1000E-02
+        1.4280E+01        7.0000E-02        2.5500E-01        2.5000E-02
+        1.4760E+01        6.5000E-02        2.2100E-01        2.8000E-02

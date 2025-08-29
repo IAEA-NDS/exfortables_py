@@ -1,0 +1,56 @@
+# Header: 
+#   Title: 1-H-2(A,EL)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: A,EL 
+#   MF-MT number: 4 - 2 
+#   Incident energy:  8.5450e+00 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1191-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(A,EL)1-H-2,,DA,,,EXP) 
+#   First author: M.Bruno 
+#   Institute:  (2ITYUBO): Universita di Bologna + INFN Bologna 
+#   Reference:  (J,NCL,27,(9),265,198003) 
+#   Year:  1980 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A11/A1191.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1191
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+        4.0930E+01        1.3000E+00        1.9240E-01        3.8480E-03
+        4.8890E+01        1.3000E+00        1.3950E-01        2.7900E-03
+        5.3710E+01        1.3000E+00        1.2320E-01        2.4640E-03
+        6.1690E+01        1.3000E+00        8.2520E-02        1.6504E-03
+        6.6510E+01        1.3000E+00        6.6210E-02        1.3242E-03
+        6.9730E+01        1.3000E+00        5.8040E-02        1.1608E-03
+        7.4590E+01        1.3000E+00        5.7960E-02        1.1592E-03
+        7.7800E+01        1.3000E+00        4.9790E-02        9.9580E-04
+        8.2660E+01        1.3000E+00        4.9720E-02        9.9440E-04
+        8.5910E+01        1.3000E+00        5.3720E-02        1.0744E-03
+        9.0770E+01        1.3000E+00        5.3640E-02        1.0728E-03
+        9.5630E+01        1.3000E+00        5.3560E-02        1.0712E-03
+        1.0050E+02        1.3000E+00        5.7530E-02        1.1506E-03
+        1.0530E+02        1.3000E+00        5.7460E-02        1.1492E-03
+        1.0860E+02        1.3000E+00        6.5510E-02        1.3102E-03
+        1.1350E+02        1.3000E+00        7.3550E-02        1.4710E-03
+        1.1840E+02        1.3000E+00        8.5640E-02        1.7128E-03
+        1.2170E+02        1.3000E+00        9.7760E-02        1.9552E-03
+        1.2490E+02        1.3000E+00        1.1800E-01        2.3600E-03
+        1.2820E+02        1.3000E+00        1.3420E-01        2.6840E-03
+        1.3320E+02        1.3000E+00        1.6250E-01        3.2500E-03
+        1.3650E+02        1.3000E+00        1.8680E-01        3.7360E-03
+        1.4140E+02        1.3000E+00        2.1510E-01        4.3020E-03
+        1.4470E+02        1.3000E+00        2.4340E-01        4.8680E-03
+        1.4800E+02        1.3000E+00        2.7180E-01        5.4360E-03
+        1.5790E+02        1.3000E+00        3.3650E-01        6.7300E-03
+        1.6120E+02        1.3000E+00        3.4860E-01        6.9720E-03

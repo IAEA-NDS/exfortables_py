@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 53-I-127(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 53 
+#   A: 127 
+#   Nuclide: 53-I-127 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.2500e-01 MeV - 1.8200e-01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 128 
+#   Nuclide: 53-I-128 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11679-018-0 (entry-subentry-pointer) 
+#   Reaction code: (53-I-127(N,G)53-I-128,,SIG) 
+#   First author: R.L.Macklin 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,PR,159,1007,67) 
+#   Year:  1967 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11679.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11679
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2500E-01        2.3000E-02        2.3470E-01        1.7400E-02
+        1.5000E-01        2.1000E-02        1.8360E-01        2.8800E-02
+        1.8200E-01        2.1000E-02        2.0250E-01        2.8100E-02

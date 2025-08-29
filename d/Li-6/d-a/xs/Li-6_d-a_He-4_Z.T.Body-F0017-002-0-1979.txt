@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 3-LI-6(D,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: D,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.0000e-01 MeV - 1.8000e-01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F0017-002-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(D,A)2-HE-4,,SIG) 
+#   First author: Z.T.Body 
+#   Institute:  (3HUNKOS): University of Debrecen, Debrecen 
+#   Reference:  (J,NP/A,330,495,1979) 
+#   Year:  1979 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F00/F0017.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0017
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E-01        0.0000E+00        5.5000E-04        5.0000E-05
+        1.2000E-01        0.0000E+00        9.1000E-04        9.0000E-05
+        1.4000E-01        0.0000E+00        1.5200E-03        1.3000E-04
+        1.6000E-01        0.0000E+00        2.5200E-03        2.2000E-04
+        1.8000E-01        0.0000E+00        4.1600E-03        3.2000E-04

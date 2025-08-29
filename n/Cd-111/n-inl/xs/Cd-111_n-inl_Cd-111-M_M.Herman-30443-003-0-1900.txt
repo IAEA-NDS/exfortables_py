@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 48-CD-111(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 48 
+#   A: 111 
+#   Nuclide: 48-CD-111 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  3.4000e+00 MeV - 1.6600e+01 MeV 
+# Residual: 
+#   Z: 48 
+#   A: 111 
+#   Nuclide: 48-CD-111-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30443-003-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-111(N,INL)48-CD-111-M,,SIG) 
+#   First author: M.Herman 
+#   Institute:  (3POLIPJ): Narodowe Centrum Badan Jadrowych, Swierk+Warszawa 
+#   Reference:  no reference 
+#   Year:  no info 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30443.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30443
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.4000E+00        2.0000E-01        2.1600E-01        6.5000E-02
+        4.2000E+00        7.0000E-01        4.3400E-01        5.2000E-02
+        1.3000E+01        3.0000E-01        2.5000E-01        4.7000E-02
+        1.3400E+01        3.0000E-01        1.8900E-01        1.8000E-02
+        1.3900E+01        3.0000E-01        1.4500E-01        2.0000E-02
+        1.4500E+01        3.0000E-01        1.4900E-01        2.7000E-02
+        1.5000E+01        3.0000E-01        1.4900E-01        1.4000E-02
+        1.5400E+01        3.0000E-01        9.3000E-02        1.4000E-02
+        1.6000E+01        3.0000E-01        1.2600E-01        3.5000E-02
+        1.6600E+01        1.0000E-01        1.1200E-01        6.0000E-02

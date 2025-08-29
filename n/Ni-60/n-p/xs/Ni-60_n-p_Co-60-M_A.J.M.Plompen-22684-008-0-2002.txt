@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 28-NI-60(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4800e+01 MeV - 2.0350e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 60 
+#   Nuclide: 27-CO-60-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22684-008-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(N,P)27-CO-60-M,,SIG) 
+#   First author: A.J.M.Plompen 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,NSTS,2,(1),192,2002) 
+#   Year:  2002 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22684.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22684
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        1.7000E-01        6.8000E-02        5.0000E-03
+        1.5270E+01        1.6000E-01        6.4000E-02        7.0000E-03
+        1.6260E+01        2.0000E-01        4.6000E-02        2.0000E-03
+        1.7030E+01        1.7000E-01        3.7000E-02        4.0000E-03
+        1.7950E+01        1.0000E-01        2.6000E-02        2.0000E-03
+        1.7980E+01        6.0000E-02        2.7000E-02        3.0000E-03
+        1.9100E+01        1.0000E-01        2.3000E-02        3.0000E-03
+        1.9290E+01        9.0000E-02        1.8000E-02        2.0000E-03
+        2.0350E+01        9.0000E-02        1.7000E-02        2.0000E-03

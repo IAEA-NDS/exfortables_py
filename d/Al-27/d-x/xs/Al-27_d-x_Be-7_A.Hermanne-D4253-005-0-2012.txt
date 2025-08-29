@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 13-AL-27(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.4300e+01 MeV - 4.8400e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4253-005-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(D,X)4-BE-7,,SIG) 
+#   First author: A.Hermanne 
+#   Institute:  (2BLGVUB): Vrije Universiteit Brussels, Brussels 
+#   Reference:  (J,ARI,70,2763,2012) 
+#   Year:  2012 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4253.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4253
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.8400E+01        2.0000E-01        5.9000E-04        9.0000E-05
+        4.6600E+01        2.0000E-01        6.0000E-04        9.0000E-05
+        4.4800E+01        3.0000E-01        3.9000E-04        6.0000E-05
+        4.2900E+01        3.0000E-01        3.1000E-04        5.0000E-05
+        4.1000E+01        4.0000E-01        1.4000E-04        2.0000E-05
+        3.8900E+01        4.0000E-01        1.8000E-04        3.0000E-05
+        3.6800E+01        5.0000E-01        1.8000E-04        3.0000E-05
+        3.4600E+01        6.0000E-01        3.0000E-05        1.0000E-05
+        3.2300E+01        7.0000E-01        7.0000E-05        1.0000E-05
+        2.9800E+01        8.0000E-01        3.1000E-05        5.0000E-06
+        2.7100E+01        1.0000E+00        2.2000E-05        3.0000E-06
+        2.4300E+01        1.1000E+00        1.1000E-05        2.0000E-06

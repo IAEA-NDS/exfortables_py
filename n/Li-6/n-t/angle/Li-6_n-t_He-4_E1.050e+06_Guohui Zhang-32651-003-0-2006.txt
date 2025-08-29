@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 3-LI-6(N,T)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: N,T 
+#   MF-MT number: 4 - 105 
+#   Incident energy:  1.0500e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32651-003-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(N,T)2-HE-4,,DA) 
+#   First author: Guohui Zhang 
+#   Institute:  (3CPRBJG): Peking University , Beijing 
+#   Reference:  (J,NSE,153,41,2006) 
+#   Year:  2006 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32651.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32651
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+       -9.3010E-01        0.0000E+00        1.5580E-02        7.7900E-04
+       -7.9370E-01        0.0000E+00        1.6240E-02        7.3080E-04
+       -6.6200E-01        0.0000E+00        1.7350E-02        7.8075E-04
+       -5.3490E-01        0.0000E+00        1.7370E-02        7.8165E-04
+       -4.1220E-01        0.0000E+00        1.7820E-02        8.9100E-04
+       -2.9380E-01        0.0000E+00        1.7040E-02        8.5200E-04
+       -1.7970E-01        0.0000E+00        1.6690E-02        1.0014E-03
+        2.2270E-01        0.0000E+00        2.1370E-02        1.2822E-03
+        3.3350E-01        0.0000E+00        2.1060E-02        1.2636E-03
+        4.4740E-01        0.0000E+00        2.0860E-02        1.0430E-03
+        5.6450E-01        0.0000E+00        2.1010E-02        9.4545E-04
+        6.8480E-01        0.0000E+00        2.1890E-02        9.8505E-04
+        8.0840E-01        0.0000E+00        2.3790E-02        1.0705E-03
+        9.3530E-01        0.0000E+00        2.1390E-02        1.0695E-03

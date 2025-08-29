@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 3-LI-7(HE3,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 7 
+#   Nuclide: 3-LI-7 
+# Reaction: 
+#   Process: HE3,N 
+#   MF-MT number: 3 - 50 
+#   Incident energy:  1.6130e+00 MeV - 5.2760e+00 MeV 
+# Residual: 
+#   Z: 5 
+#   A: 9 
+#   Nuclide: 5-B-9 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: F0030-011-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-7(HE3,N)5-B-9,PAR,SIG) 
+#   First author: G.U.Din 
+#   Institute:  (1USARIC): Rice University, Houston, TX 
+#   Reference:  (J,NP,86,509,1966) 
+#   Year:  1966 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F00/F0030.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0030
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6130E+00        3.7000E-02        8.2000E-03        0.0000E+00
+        1.9860E+00        3.7000E-02        7.9300E-03        0.0000E+00
+        2.2530E+00        3.7000E-02        1.0670E-02        0.0000E+00
+        2.6120E+00        3.7000E-02        1.2000E-02        0.0000E+00
+        2.6120E+00        3.7000E-02        1.0270E-02        0.0000E+00
+        2.9850E+00        3.7000E-02        9.8000E-03        0.0000E+00
+        3.3050E+00        3.7000E-02        1.0000E-02        0.0000E+00
+        3.6380E+00        3.7000E-02        9.2000E-03        0.0000E+00
+        3.9970E+00        3.7000E-02        7.0000E-03        0.0000E+00
+        4.3700E+00        3.7000E-02        7.4700E-03        0.0000E+00
+        4.8760E+00        3.7000E-02        6.5300E-03        0.0000E+00
+        5.2760E+00        3.7000E-02        6.7300E-03        0.0000E+00

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 48-CD-116(A,4N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 48 
+#   A: 116 
+#   Nuclide: 48-CD-116 
+# Reaction: 
+#   Process: A,4N 
+#   MF-MT number: 3 - 37 
+#   Incident energy:  4.0000e+01 MeV - 5.0000e+01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 116 
+#   Nuclide: 50-SN-116 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6291-004-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-116(A,4N)50-SN-116,,SIG) 
+#   First author: M.B.Chatterjee 
+#   Institute:  (3INDSAH): Saha Institute of Nuclear Physics, Kolkata 
+#   Reference:  (J,PR/C,42,2737,1990) 
+#   Year:  1990 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D62/D6291.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6291
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+01        0.0000E+00        9.8200E-01        1.1800E-01
+        4.5000E+01        0.0000E+00        1.1780E+00        1.3600E-01
+        5.0000E+01        0.0000E+00        1.3600E+00        1.6000E-01

@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 30-ZN-64(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3100e+01 MeV - 1.9300e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 64 
+#   Nuclide: 29-CU-64 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21343-009-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(N,P)29-CU-64,,SIG) 
+#   First author: M.Bormann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (J,ZP,174,1,196302) 
+#   Year:  1963 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21343.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21343
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3100E+01        3.0000E-01        2.5000E-01        1.0000E-02
+        1.4000E+01        2.0000E-01        2.0700E-01        1.4000E-02
+        1.5900E+01        4.0000E-01        1.9800E-01        1.6000E-02
+        1.8000E+01        4.0000E-01        1.8700E-01        1.7000E-02
+        1.9300E+01        4.0000E-01        1.8000E-01        1.6000E-02

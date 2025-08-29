@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 28-NI-58(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  5.3200e+00 MeV - 9.8700e+00 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13513-002-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,P)27-CO-58,,SIG) 
+#   First author: D.L.Smith 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (C,91JUELIC,,282,199105) 
+#   Year:  1991 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/135/13513.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13513
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.3200E+00        0.0000E+00        5.3100E-01        1.3000E-02
+        5.8700E+00        0.0000E+00        5.8300E-01        1.4000E-02
+        6.4000E+00        0.0000E+00        6.0000E-01        1.4000E-02
+        6.9300E+00        0.0000E+00        6.3700E-01        1.6000E-02
+        7.4200E+00        0.0000E+00        6.2400E-01        1.6000E-02
+        7.9200E+00        0.0000E+00        6.4200E-01        1.7000E-02
+        8.4100E+00        0.0000E+00        6.1900E-01        1.6000E-02
+        8.9000E+00        0.0000E+00        6.3800E-01        1.7000E-02
+        9.3800E+00        0.0000E+00        6.0900E-01        1.8000E-02
+        9.8700E+00        0.0000E+00        5.9300E-01        1.8000E-02

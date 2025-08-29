@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31654-003-0 
-# EXFOR reaction        : (32-GE-70(N,P)31-GA-70,,SIG) 
-# incident energy       : 1.3600e+01 MeV - 1.4100e+01 MeV 
-# target                : Ge-70 
-# product               : Ga-70 
-# level energy          : - 
-# MF-MT number          : 3 - 103 
-# first author          : Changlin Lan 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,ANE,35,2105,2008) 
-# year                  : 2008 
-# facility              : (CYCLO): Cyclotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31654.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31654
+# Header: 
+#   Title: 32-GE-70(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 32 
+#   A: 70 
+#   Nuclide: 32-GE-70 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3600e+01 MeV - 1.4100e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 70 
+#   Nuclide: 31-GA-70 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31654-003-0 (entry-subentry-pointer) 
+#   Reaction code: (32-GE-70(N,P)31-GA-70,,SIG) 
+#   First author: Changlin Lan 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,ANE,35,2105,2008) 
+#   Year:  2008 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31654.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31654
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3600E+01        3.0000E-01        1.8010E-01        1.8800E-02

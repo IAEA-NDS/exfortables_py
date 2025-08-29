@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 52-TE-125(P,6N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 52 
+#   A: 125 
+#   Nuclide: 52-TE-125 
+# Reaction: 
+#   Process: P,6N 
+#   MF-MT number: 3 - 153 
+#   Incident energy:  5.4300e+01 MeV - 1.0050e+02 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 120 
+#   Nuclide: 53-I-120-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0215-008-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-125(P,6N)53-I-120-M,,SIG) 
+#   First author: A.Hohn 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,ARI,55,149,2001) 
+#   Year:  2001 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0215.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0215
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0050E+02        2.0000E-01        1.1000E-02        2.0000E-03
+        9.0800E+01        3.0000E-01        1.4000E-02        3.0000E-03
+        8.0900E+01        4.0000E-01        2.5000E-02        5.0000E-03
+        7.0900E+01        5.0000E-01        4.2000E-02        8.0000E-03
+        6.5200E+01        2.0000E-01        3.6000E-02        7.0000E-03
+        6.1000E+01        2.0000E-01        1.8000E-02        3.0000E-03
+        5.4300E+01        3.0000E-01        9.0000E-04        2.0000E-04

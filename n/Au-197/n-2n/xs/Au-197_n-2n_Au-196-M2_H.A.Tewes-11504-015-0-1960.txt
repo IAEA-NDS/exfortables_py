@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 79-AU-197(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  9.3500e+00 MeV - 1.5100e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 196 
+#   Nuclide: 79-AU-196-M2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11504-015-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,2N)79-AU-196-M2,,SIG) 
+#   First author: H.A.Tewes 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (R,UCRL-6028-T,1960) 
+#   Year:  1960 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11504.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11504
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.3500E+00        2.0000E-01        8.0000E-03        1.6000E-03
+        9.8000E+00        2.0000E-01        1.0000E-02        2.0000E-03
+        1.0350E+01        2.0000E-01        3.5000E-02        7.0000E-03
+        1.1000E+01        2.0000E-01        6.0000E-02        1.2000E-02
+        1.1500E+01        2.0000E-01        7.5000E-02        1.5000E-02
+        1.1800E+01        2.0000E-01        9.9000E-02        1.9800E-02
+        1.2100E+01        2.0000E-01        9.0000E-02        1.8000E-02
+        1.2300E+01        2.0000E-01        9.9000E-02        1.9800E-02
+        1.2800E+01        2.0000E-01        1.4500E-01        2.9000E-02
+        1.3000E+01        2.0000E-01        1.4400E-01        2.8800E-02
+        1.3850E+01        2.0000E-01        1.6400E-01        3.2800E-02
+        1.4000E+01        2.0000E-01        1.8400E-01        3.6800E-02
+        1.4500E+01        2.0000E-01        2.0800E-01        4.1600E-02
+        1.5100E+01        2.0000E-01        1.9400E-01        3.8800E-02

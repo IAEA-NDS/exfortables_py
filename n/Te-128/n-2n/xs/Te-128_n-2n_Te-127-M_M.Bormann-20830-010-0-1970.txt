@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 52-TE-128(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 52 
+#   A: 128 
+#   Nuclide: 52-TE-128 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2650e+01 MeV - 1.8230e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 127 
+#   Nuclide: 52-TE-127-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20830-010-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-128(N,2N)52-TE-127-M,,SIG) 
+#   First author: M.Bormann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (J,NP/A,157,481,197011) 
+#   Year:  1970 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20830.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20830
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2650E+01        6.0000E-02        7.9100E-01        1.0800E-01
+        1.3010E+01        7.0000E-02        8.0700E-01        1.0700E-01
+        1.3530E+01        8.0000E-02        8.8500E-01        1.0500E-01
+        1.4300E+01        9.0000E-02        9.3600E-01        1.0700E-01
+        1.5310E+01        9.0000E-02        9.3700E-01        1.1000E-01
+        1.5850E+01        1.0000E-01        9.3300E-01        1.0500E-01
+        1.6330E+01        1.0000E-01        9.0600E-01        1.0000E-01
+        1.6970E+01        1.0000E-01        8.8100E-01        9.8000E-02
+        1.7590E+01        1.0000E-01        8.4700E-01        9.4000E-02
+        1.8230E+01        1.1000E-01        8.1800E-01        8.9000E-02

@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 63-EU-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 63 
+#   A: 0 
+#   Nuclide: 63-EU-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.9100e+01 MeV - 7.0900e+01 MeV 
+# Residual: 
+#   Z: 64 
+#   A: 147 
+#   Nuclide: 64-GD-147 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2221-003-0 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-0(D,X)64-GD-147,,SIG) 
+#   First author: M.Buchholz 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,ARI,91,8,2014) 
+#   Year:  2014 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O22/O2221.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2221
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0900E+01        4.0000E-01        1.6950E-01        1.7800E-02
+        6.8400E+01        4.0000E-01        1.5250E-01        1.6500E-02
+        6.5200E+01        5.0000E-01        1.5930E-01        2.3000E-02
+        6.2200E+01        5.0000E-01        1.6060E-01        1.4200E-02
+        5.6300E+01        5.0000E-01        1.9010E-01        1.9000E-02
+        5.2000E+01        6.0000E-01        1.2870E-01        1.2500E-02
+        5.1800E+01        5.0000E-01        1.4170E-01        1.6000E-02
+        5.0000E+01        6.0000E-01        9.2000E-02        1.0700E-02
+        4.6200E+01        6.0000E-01        4.1000E-02        4.6000E-03
+        4.3600E+01        7.0000E-01        1.3600E-02        1.3000E-03
+        3.9100E+01        7.0000E-01        6.0000E-04        1.0000E-04

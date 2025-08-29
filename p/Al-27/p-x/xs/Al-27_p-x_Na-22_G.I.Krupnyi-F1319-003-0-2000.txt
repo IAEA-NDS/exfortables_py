@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 13-AL-27(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.5000e+02 MeV - 1.3200e+03 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1319-003-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(P,X)ELEM/MASS,,SIG) 
+#   First author: G.I.Krupnyi 
+#   Institute:  (4RUSFVE): Institute for High Energy Physics, Protvino 
+#   Reference:  (J,AE,89,(5),418,2000) 
+#   Year:  2000 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F13/F1319.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1319
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5000E+02        0.0000E+00        1.4800E-02        1.6280E-03
+        4.2000E+02        0.0000E+00        1.5200E-02        1.3376E-03
+        8.0000E+02        0.0000E+00        1.2700E-02        9.3980E-04
+        1.0000E+03        0.0000E+00        1.2200E-02        8.7840E-04
+        1.3200E+03        0.0000E+00        1.1200E-02        7.5040E-04

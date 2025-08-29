@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 2-HE-3(T,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+# Reaction: 
+#   Process: T,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  4.6000e-01 MeV - 1.0870e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 5 
+#   Nuclide: 2-HE-5 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1116-007-0 (entry-subentry-pointer) 
+#   Reaction code: (2-HE-3(T,P)2-HE-5,,SIG) 
+#   First author: B.Kuhn 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,NP,48,353,1963) 
+#   Year:  1963 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A11/A1116.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1116
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.6000E-01        0.0000E+00        1.7000E-03        3.0000E-04
+        6.6500E-01        0.0000E+00        2.9000E-03        6.0000E-04
+        9.0000E-01        0.0000E+00        3.3000E-03        7.0000E-04
+        1.0870E+00        0.0000E+00        4.4000E-03        9.0000E-04

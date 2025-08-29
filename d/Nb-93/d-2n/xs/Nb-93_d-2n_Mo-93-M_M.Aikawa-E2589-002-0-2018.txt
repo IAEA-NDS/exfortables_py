@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 41-NB-93(D,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: D,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  3.5000e+00 MeV - 2.2700e+01 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 93 
+#   Nuclide: 42-MO-93-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2589-002-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(D,2N)42-MO-93-M,,SIG) 
+#   First author: M.Aikawa 
+#   Institute:  (2JPNHOK): Hokkaido Univesity, Sapporo 
+#   Reference:  (J,NIM/B,436,217,2018) 
+#   Year:  2018 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E25/E2589.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2589
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2700E+01        4.0000E-01        6.4500E-02        5.3000E-03
+        2.2100E+01        4.0000E-01        7.0600E-02        5.8000E-03
+        2.1500E+01        4.0000E-01        8.1500E-02        6.7000E-03
+        1.9600E+01        4.0000E-01        1.0030E-01        8.2000E-03
+        1.9000E+01        5.0000E-01        1.0830E-01        8.9000E-03
+        1.8300E+01        5.0000E-01        1.1440E-01        9.4000E-03
+        1.6200E+01        5.0000E-01        1.1320E-01        9.3000E-03
+        1.5400E+01        5.0000E-01        1.0730E-01        8.8000E-03
+        1.4600E+01        6.0000E-01        9.8600E-02        8.1000E-03
+        1.2100E+01        6.0000E-01        6.2800E-02        5.1000E-03
+        1.1200E+01        7.0000E-01        4.8700E-02        4.0000E-03
+        1.0200E+01        7.0000E-01        3.3600E-02        2.7000E-03
+        6.8000E+00        9.0000E-01        9.4000E-04        8.0000E-05
+        5.3000E+00        1.1000E+00        1.6000E-05        1.0000E-06
+        3.5000E+00        1.4000E+00        3.8000E-06        3.0000E-07

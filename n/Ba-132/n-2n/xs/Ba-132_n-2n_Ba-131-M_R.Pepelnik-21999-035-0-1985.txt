@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 56-BA-132(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 56 
+#   A: 132 
+#   Nuclide: 56-BA-132 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 56 
+#   A: 131 
+#   Nuclide: 56-BA-131-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21999-035-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-132(N,2N)56-BA-131-M,,SIG) 
+#   First author: R.Pepelnik 
+#   Institute:  (2GERKIG): GKSS, Geesthacht 
+#   Reference:  ((P,NEANDC(E)-262U,(5),32,198506)=(P,INDC(GER)-28,32,198506)) 
+#   Year:  1985 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21999.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21999
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        6.0000E-02        4.8900E-01        3.0000E-02

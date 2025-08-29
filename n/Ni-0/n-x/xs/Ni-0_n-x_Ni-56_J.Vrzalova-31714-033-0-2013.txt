@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 28-NI-0(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.0400e+01 MeV - 3.5900e+01 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 56 
+#   Nuclide: 28-NI-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31714-033-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(N,X)28-NI-56,,SIG) 
+#   First author: J.Vrzalova 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,NIM/A,726,84,2013) 
+#   Year:  2013 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31714.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31714
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0400E+01        8.0000E-01        1.4500E-03        2.1000E-04
+        3.5900E+01        8.0000E-01        2.1600E-03        3.1000E-04

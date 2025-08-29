@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 79-AU-197(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.5000e-02 MeV - 4.5000e-02 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 198 
+#   Nuclide: 79-AU-198 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10267-044-1 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,G)79-AU-198,,SIG,,AV) 
+#   First author: R.Gwin 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,NSE,59,79,1976) 
+#   Year:  1976 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10267.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10267
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E-02        0.0000E+00        9.4000E-01        5.0000E-02
+        2.5000E-02        0.0000E+00        7.1000E-01        4.0000E-02
+        3.5000E-02        0.0000E+00        5.8000E-01        4.0000E-02
+        4.5000E-02        0.0000E+00        4.9000E-01        3.0000E-02

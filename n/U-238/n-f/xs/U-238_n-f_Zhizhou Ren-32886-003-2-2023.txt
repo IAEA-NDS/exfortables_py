@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32886-003-2 
-# EXFOR reaction        : (92-U-238(N,F),,SIG) 
-# incident energy       : 5.1300e-01 MeV - 1.7522e+02 MeV 
-# target                : U-238 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 18 
-# first author          : Zhizhou Ren 
-# institute             : (3CPRCPR): China, People's Rep. 
-# reference             : (J,EPJ/A,59,5,2023) 
-# year                  : 2023 
-# facility              : (SYNCH): Synchrotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32886.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32886
+# Header: 
+#   Title: 92-U-238(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  5.1300e-01 MeV - 1.7522e+02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32886-003-2 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,F),,SIG) 
+#   First author: Zhizhou Ren 
+#   Institute:  (3CPRCPR): China, People's Rep. 
+#   Reference:  (J,EPJ/A,59,5,2023) 
+#   Year:  2023 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32886.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32886
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         5.1300E-01        0.0000E+00        1.6000E-04        3.2960E-05

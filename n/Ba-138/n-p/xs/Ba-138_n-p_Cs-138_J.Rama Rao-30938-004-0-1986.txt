@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 56-BA-138(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 56 
+#   A: 138 
+#   Nuclide: 56-BA-138 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4000e+01 MeV 
+# Residual: 
+#   Z: 55 
+#   A: 138 
+#   Nuclide: 55-CS-138 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30938-004-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-138(N,P)55-CS-138,,SIG) 
+#   First author: J.Rama Rao 
+#   Institute:  (3INDBHU): Banaras Hindu University , Varanasi 
+#   Reference:  (J,NIM/B,17,368,1986) 
+#   Year:  1986 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30938.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30938
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        0.0000E+00        3.2000E-03        2.0000E-04

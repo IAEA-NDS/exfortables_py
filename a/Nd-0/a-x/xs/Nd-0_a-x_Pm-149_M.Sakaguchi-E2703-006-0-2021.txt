@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 60-ND-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 60 
+#   A: 0 
+#   Nuclide: 60-ND-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4300e+01 MeV - 4.9300e+01 MeV 
+# Residual: 
+#   Z: 61 
+#   A: 149 
+#   Nuclide: 61-PM-149 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2703-006-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-0(A,X)61-PM-149,CUM,SIG) 
+#   First author: M.Sakaguchi 
+#   Institute:  (2JPNJPN): Japan 
+#   Reference:  (J,ARI,176,109826,2021) 
+#   Year:  2021 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E27/E2703.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2703
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.9300E+01        0.0000E+00        1.2800E-02        1.0000E-03
+        4.8100E+01        0.0000E+00        1.1400E-02        9.0000E-04
+        4.5100E+01        0.0000E+00        1.0500E-02        8.0000E-04
+        4.3800E+01        0.0000E+00        1.0100E-02        7.9000E-04
+        4.0600E+01        0.0000E+00        7.9100E-03        6.1000E-04
+        3.9200E+01        0.0000E+00        7.0400E-03        5.4000E-04
+        3.5700E+01        0.0000E+00        5.6700E-03        4.4000E-04
+        3.4200E+01        0.0000E+00        4.8000E-03        3.7000E-04
+        3.0400E+01        0.0000E+00        3.1200E-03        2.5000E-04
+        2.8700E+01        0.0000E+00        2.7400E-03        2.2000E-04
+        2.4200E+01        0.0000E+00        1.1100E-03        9.0000E-05
+        2.2200E+01        0.0000E+00        4.8200E-04        4.7000E-05
+        1.6900E+01        0.0000E+00        6.7600E-05        1.4200E-05
+        1.4300E+01        0.0000E+00        5.1000E-05        7.0000E-06

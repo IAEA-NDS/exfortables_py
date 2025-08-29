@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 38-SR-84(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 38 
+#   A: 84 
+#   Nuclide: 38-SR-84 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2950e+01 MeV - 1.9550e+01 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 83 
+#   Nuclide: 38-SR-83 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20900-004-0 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-84(N,2N)38-SR-83,,SIG) 
+#   First author: M.Bormann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (P,EANDC(E)-66,42,1966) 
+#   Year:  1966 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20900.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20900
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2950E+01        0.0000E+00        3.1000E-01        4.2000E-02
+        1.3500E+01        0.0000E+00        5.8100E-01        5.9000E-02
+        1.4100E+01        0.0000E+00        9.7100E-01        6.5000E-02
+        1.4900E+01        0.0000E+00        1.2440E+00        1.1400E-01
+        1.5600E+01        0.0000E+00        1.3720E+00        1.2300E-01
+        1.6300E+01        0.0000E+00        1.4090E+00        1.2700E-01
+        1.7200E+01        0.0000E+00        1.4620E+00        1.2900E-01
+        1.8000E+01        0.0000E+00        1.5130E+00        1.3300E-01
+        1.8900E+01        0.0000E+00        1.4290E+00        1.2400E-01
+        1.9550E+01        0.0000E+00        1.4230E+00        1.2200E-01

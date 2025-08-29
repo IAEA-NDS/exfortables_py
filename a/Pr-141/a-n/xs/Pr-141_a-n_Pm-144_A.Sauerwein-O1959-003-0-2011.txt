@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 59-PR-141(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 59 
+#   A: 141 
+#   Nuclide: 59-PR-141 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.0742e+01 MeV - 1.4544e+01 MeV 
+# Residual: 
+#   Z: 61 
+#   A: 144 
+#   Nuclide: 61-PM-144 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1959-003-0 (entry-subentry-pointer) 
+#   Reaction code: (59-PR-141(A,N)61-PM-144,,SIG,,SFC) 
+#   First author: A.Sauerwein 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,PR/C,84,045808,2011) 
+#   Year:  2011 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O19/O1959.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1959
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0742E+01        2.8180E-02        3.0349E-20        3.7010E-21
+        1.0742E+01        2.8180E-02        2.5375E-20        3.0945E-21
+        1.0993E+01        2.8280E-02        2.4108E-20        2.1916E-21
+        1.0993E+01        2.8280E-02        2.0282E-20        1.8438E-21
+        1.1570E+01        2.8900E-03        3.1276E-20        2.1116E-21
+        1.1570E+01        2.8900E-03        2.6545E-20        1.7922E-21
+        1.2182E+01        2.9160E-02        1.7686E-20        1.0828E-21
+        1.2182E+01        2.9160E-02        1.5176E-20        9.2910E-22
+        1.2202E+01        2.7960E-02        1.8769E-20        9.1570E-22
+        1.2202E+01        2.7960E-02        1.6213E-20        7.9100E-22
+        1.2736E+01        2.8900E-02        1.6745E-20        1.0099E-21
+        1.2736E+01        2.8900E-02        1.4531E-20        8.7640E-22
+        1.3357E+01        2.8410E-02        1.1414E-20        7.5020E-22
+        1.3357E+01        2.8410E-02        1.0025E-20        6.5900E-22
+        1.4028E+01        2.8640E-02        7.8233E-21        4.9140E-22
+        1.4028E+01        2.8640E-02        6.9290E-21        4.3520E-22
+        1.4542E+01        2.8410E-02        6.3701E-21        4.2110E-22
+        1.4542E+01        2.8410E-02        5.6837E-21        3.7570E-22
+        1.4544E+01        2.8030E-02        5.8530E-21        3.4250E-22
+        1.4544E+01        2.8030E-02        5.2304E-21        3.0610E-22

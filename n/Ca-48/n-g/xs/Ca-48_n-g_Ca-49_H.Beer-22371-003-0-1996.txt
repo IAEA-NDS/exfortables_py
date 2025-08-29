@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 20-CA-48(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 20 
+#   A: 48 
+#   Nuclide: 20-CA-48 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.5100e-01 MeV - 2.1800e-01 MeV 
+# Residual: 
+#   Z: 20 
+#   A: 49 
+#   Nuclide: 20-CA-49 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22371-003-0 (entry-subentry-pointer) 
+#   Reaction code: (20-CA-48(N,G)20-CA-49,,SIG) 
+#   First author: H.Beer 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,PR/C,54,(4),2014,199610) 
+#   Year:  1996 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22371.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22371
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5100E-01        1.5000E-02        3.3100E-04        0.0000E+00
+        1.7600E-01        2.0000E-02        3.0600E-04        0.0000E+00
+        2.1800E-01        2.3000E-02        3.0400E-04        0.0000E+00

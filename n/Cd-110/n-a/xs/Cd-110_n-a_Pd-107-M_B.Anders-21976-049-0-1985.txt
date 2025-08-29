@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 48-CD-110(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 48 
+#   A: 110 
+#   Nuclide: 48-CD-110 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 46 
+#   A: 107 
+#   Nuclide: 46-PD-107-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21976-049-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-110(N,A)46-PD-107-M,,SIG) 
+#   First author: B.Anders 
+#   Institute:  (2GERKIG): GKSS, Geesthacht 
+#   Reference:  (R,GKSS-85-E-24,1985) 
+#   Year:  1985 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21976.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21976
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        9.9000E-02        5.0000E-03

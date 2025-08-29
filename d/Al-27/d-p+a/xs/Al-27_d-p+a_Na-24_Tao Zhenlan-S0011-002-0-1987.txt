@@ -1,17 +1,30 @@
-# entry-subent-pointer  : S0011-002-0 
-# EXFOR reaction        : (13-AL-27(D,P+A)11-NA-24,,SIG) 
-# incident energy       : 1.2000e+01 MeV - 1.5700e+01 MeV 
-# target                : Al-27 
-# product               : Na-24 
-# level energy          : - 
-# MF-MT number          : 3 - 112 
-# first author          : Tao Zhenlan 
-# institute             : (3CPRNRS): Shanghai Institute of Applied Physics, Chinese Academy Sci. 
-# reference             : (J,NTC,10,(2),45,1987) 
-# year                  : 1987 
-# facility              : (CYCLO): Cyclotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S00/S0011.x4 
-# nds                   : https://nds.iaea.org/EXFOR/S0011
+# Header: 
+#   Title: 13-AL-27(D,P+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: D,P+A 
+#   MF-MT number: 3 - 112 
+#   Incident energy:  1.2000e+01 MeV - 1.5700e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: S0011-002-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(D,P+A)11-NA-24,,SIG) 
+#   First author: Tao Zhenlan 
+#   Institute:  (3CPRNRS): Shanghai Institute of Applied Physics, Chinese Academy Sci. 
+#   Reference:  (J,NTC,10,(2),45,1987) 
+#   Year:  1987 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S00/S0011.x4 
+#   nds:  https://nds.iaea.org/EXFOR/S0011
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.5700E+01        0.0000E+00        1.7900E-02        1.2000E-03

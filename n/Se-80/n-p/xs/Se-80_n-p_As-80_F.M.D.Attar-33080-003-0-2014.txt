@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 34-SE-80(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 34 
+#   A: 80 
+#   Nuclide: 34-SE-80 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3730e+01 MeV - 1.4770e+01 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 80 
+#   Nuclide: 33-AS-80 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33080-003-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-80(N,P)33-AS-80,,SIG) 
+#   First author: F.M.D.Attar 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,PR/C,90,064609,2014) 
+#   Year:  2014 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33080.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33080
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3730E+01        0.0000E+00        4.8000E-03        6.3000E-04
+        1.4070E+01        0.0000E+00        7.1000E-03        9.5000E-04
+        1.4420E+01        0.0000E+00        8.6000E-03        1.1000E-03
+        1.4680E+01        0.0000E+00        9.6000E-03        1.4000E-03
+        1.4770E+01        0.0000E+00        1.1000E-02        1.6000E-03

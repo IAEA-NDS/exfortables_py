@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 77-IR-191(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 77 
+#   A: 191 
+#   Nuclide: 77-IR-191 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 77 
+#   A: 190 
+#   Nuclide: 77-IR-190-G+M1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10214-017-0 (entry-subentry-pointer) 
+#   Reaction code: (77-IR-191(N,2N)77-IR-190-G+M1,,SIG) 
+#   First author: J.K.Temperley 
+#   Institute:  (1USABRL): Ballistic Research Labs, Aberdeen Proving Grounds, MD 
+#   Reference:  (R,BRL-R-1491,1970) 
+#   Year:  1970 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10214.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10214
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        5.0000E-01        1.8300E+00        2.1000E-01

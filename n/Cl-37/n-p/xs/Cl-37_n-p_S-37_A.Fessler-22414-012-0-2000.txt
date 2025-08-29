@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 17-CL-37(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 17 
+#   A: 37 
+#   Nuclide: 17-CL-37 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.6124e+01 MeV - 2.0450e+01 MeV 
+# Residual: 
+#   Z: 16 
+#   A: 37 
+#   Nuclide: 16-S-37 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22414-012-0 (entry-subentry-pointer) 
+#   Reaction code: (17-CL-37(N,P)16-S-37,,SIG) 
+#   First author: A.Fessler 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,NSE,134,(2),171,2000) 
+#   Year:  2000 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22414.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22414
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6124E+01        0.0000E+00        2.5500E-02        1.9800E-03
+        1.7112E+01        0.0000E+00        2.1050E-02        2.0200E-03
+        1.7879E+01        0.0000E+00        1.9880E-02        1.4700E-03
+        1.9226E+01        0.0000E+00        1.4890E-02        1.2600E-03
+        2.0450E+01        0.0000E+00        1.1110E-02        1.1400E-03

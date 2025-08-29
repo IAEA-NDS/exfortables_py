@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 34-SE-76(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 34 
+#   A: 76 
+#   Nuclide: 34-SE-76 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3490e+01 MeV - 1.4810e+01 MeV 
+# Residual: 
+#   Z: 34 
+#   A: 75 
+#   Nuclide: 34-SE-75 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41424-013-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-76(N,2N)34-SE-75,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,RI-258,20010615) 
+#   Year:  2001 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41424.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41424
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3490E+01        0.0000E+00        6.2800E-01        4.0000E-02
+        1.3890E+01        0.0000E+00        8.0500E-01        4.5000E-02
+        1.4050E+01        0.0000E+00        7.4000E-01        9.0000E-02
+        1.4260E+01        0.0000E+00        8.7500E-01        6.0000E-02
+        1.4440E+01        0.0000E+00        8.4200E-01        9.0000E-02
+        1.4810E+01        0.0000E+00        9.9200E-01        6.5000E-02

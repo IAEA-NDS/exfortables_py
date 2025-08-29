@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 30-ZN-64(D,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: D,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.5200e+00 MeV - 4.0200e+00 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 66 
+#   Nuclide: 31-GA-66 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2039-003-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(D,G)31-GA-66,,SIG) 
+#   First author: J.H.Carver 
+#   Institute:  (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference:  (J,NP,11,400,1959) 
+#   Year:  1959 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2039.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2039
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5200E+00        0.0000E+00        2.6218E-05        6.4410E-06
+        4.0200E+00        0.0000E+00        5.0201E-05        7.8240E-06

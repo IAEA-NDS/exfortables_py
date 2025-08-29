@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-238(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 56 
+#   A: 140 
+#   Nuclide: 56-BA-140 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13061-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,F)56-BA-140,CUM,FY) 
+#   First author: K.M.Broom 
+#   Institute:  (1USAARK): University of Arkansas, Fayetteville, AR 
+#   Reference:  (J,PR,126,627,1962) 
+#   Year:  1962 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/130/13061.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13061
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+               56              140                         4.3000E-02        4.0000E-03

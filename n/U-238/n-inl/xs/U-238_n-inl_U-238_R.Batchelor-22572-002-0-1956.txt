@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 92-U-238(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  5.0000e-01 MeV - 1.0000e+00 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22572-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,INL)92-U-238,,SIG) 
+#   First author: R.Batchelor 
+#   Institute:  (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference:  (J,PPS/A,69,214,1956) 
+#   Year:  1956 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/225/22572.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22572
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0000E-01        0.0000E+00        8.0000E-01        0.0000E+00
+        8.0000E-01        0.0000E+00        1.3000E+00        0.0000E+00
+        8.5000E-01        0.0000E+00        1.3500E+00        0.0000E+00
+        9.0000E-01        0.0000E+00        1.8000E+00        0.0000E+00
+        9.5000E-01        0.0000E+00        1.5000E+00        0.0000E+00
+        1.0000E+00        0.0000E+00        1.7000E+00        0.0000E+00

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 30-ZN-64(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 800.0 
+#   Incident energy:  5.0300e+00 MeV - 5.9500e+00 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 61 
+#   Nuclide: 28-NI-61 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 31614-002-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(N,A)28-NI-61,PAR,SIG) 
+#   First author: Guohui Zhang 
+#   Institute:  (3CPRBJG): Peking University , Beijing 
+#   Reference:  (J,NSE,156,115,2007) 
+#   Year:  2007 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31614
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0300E+00        0.0000E+00        4.1300E-02        2.5000E-03
+        5.9500E+00        0.0000E+00        2.6500E-02        1.7000E-03

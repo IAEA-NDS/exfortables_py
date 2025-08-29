@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 7-N-14(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 7 
+#   A: 14 
+#   Nuclide: 7-N-14 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.6000e+01 MeV - 6.6000e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23105-004-0 (entry-subentry-pointer) 
+#   Reaction code: (7-N-14(N,X)4-BE-7,,SIG) 
+#   First author: H.Yashima 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,NSTS,4,70,2004) 
+#   Year:  2004 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23105.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23105
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.6000E+01        0.0000E+00        1.9000E-03        1.1400E-03
+        6.6000E+01        0.0000E+00        3.7600E-03        1.4800E-03

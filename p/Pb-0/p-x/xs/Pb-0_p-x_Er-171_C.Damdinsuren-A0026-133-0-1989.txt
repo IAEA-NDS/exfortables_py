@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 82-PB-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.6500e+03 MeV 
+# Residual: 
+#   Z: 68 
+#   A: 171 
+#   Nuclide: 68-ER-171 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0026-133-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(P,X)68-ER-171,CUM,SIG) 
+#   First author: C.Damdinsuren 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (R,JINR-E1-89-481,1989) 
+#   Year:  1989 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A00/A0026.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0026
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6500E+03        0.0000E+00        1.1000E-02        3.7000E-03

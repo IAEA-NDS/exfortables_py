@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 40-ZR-90(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 90 
+#   Nuclide: 39-Y-90-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30740-004-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(N,X)39-Y-90-M,,SIG) 
+#   First author: I.F.Goncalves 
+#   Institute:  (3HUNKOS): University of Debrecen, Debrecen 
+#   Reference:  (J,ARI,38,(11),989,198711) 
+#   Year:  1987 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30740.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30740
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        1.7000E-01        1.2000E-02        2.0000E-04

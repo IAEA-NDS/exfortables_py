@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 29-CU-65(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  2.6683e+01 MeV - 7.0688e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 67 
+#   Nuclide: 31-GA-67 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0136-002-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(A,2N)31-GA-67,,SIG) 
+#   First author: A.V.Mohan Rao 
+#   Institute:  (3INDBHU): Banaras Hindu University , Varanasi 
+#   Reference:  (J,PRM,36,115,1991) 
+#   Year:  1991 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D01/D0136.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0136
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6683E+01        2.0000E-01        7.6761E-01        6.9055E-02
+        3.0180E+01        2.0000E-01        6.8792E-01        7.3721E-02
+        3.6708E+01        2.0000E-01        3.4647E-01        4.2622E-02
+        4.2722E+01        2.0000E-01        1.7928E-01        2.3577E-02
+        4.7570E+01        2.0000E-01        1.1565E-01        1.4264E-02
+        5.2852E+01        2.0000E-01        7.4195E-02        9.7338E-03
+        5.9288E+01        2.0000E-01        3.9302E-02        4.8224E-03
+        6.4893E+01        2.0000E-01        2.7746E-02        3.6579E-03
+        7.0688E+01        2.0000E-01        2.0926E-02        3.0980E-03

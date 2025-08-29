@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 28-NI-58(P,NON)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: P,NON 
+#   MF-MT number: 3 - 3 
+#   Incident energy:  2.2700e+01 MeV - 4.7900e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: T0113-002-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(P,NON),,SIG) 
+#   First author: T.Eliyakut-Roshko 
+#   Institute:  (1CANMNA): University of Manitoba, Cyclotron Laboratory , Winnipeg, Manitoba 
+#   Reference:  (J,PR/C,51,1295,199503) 
+#   Year:  1995 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T01/T0113.x4 
+#   nds:  https://nds.iaea.org/EXFOR/T0113
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2700E+01        0.0000E+00        1.0850E+00        2.1000E-02
+        2.5100E+01        0.0000E+00        1.0820E+00        2.2000E-02
+        3.0100E+01        0.0000E+00        1.0580E+00        1.6000E-02
+        3.4800E+01        0.0000E+00        1.0410E+00        2.5000E-02
+        3.9700E+01        0.0000E+00        1.0030E+00        1.3000E-02
+        4.5200E+01        0.0000E+00        9.6200E-01        1.4000E-02
+        4.7900E+01        0.0000E+00        9.7000E-01        1.0000E-02

@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 82-PB-206(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 82 
+#   A: 206 
+#   Nuclide: 82-PB-206 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  4.2000e+01 MeV - 8.8000e+01 MeV 
+# Residual: 
+#   Z: 84 
+#   A: 208 
+#   Nuclide: 84-PO-208 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2012-002-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-206(A,2N)84-PO-208,,SIG) 
+#   First author: R.Bimbot 
+#   Institute:  (2FR PAR): Universite de Paris 
+#   Reference:  (J,JPR,30,513,1969) 
+#   Year:  1969 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2012.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2012
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.2000E+01        0.0000E+00        3.1100E-01        5.9000E-02
+        6.0500E+01        0.0000E+00        1.2000E-01        1.4000E-02
+        7.0000E+01        0.0000E+00        3.7000E-02        1.0000E-02
+        7.4000E+01        0.0000E+00        4.6000E-02        1.0000E-02
+        7.9000E+01        0.0000E+00        2.5000E-02        6.0000E-03
+        8.3000E+01        0.0000E+00        1.8000E-02        3.0000E-03
+        8.3000E+01        0.0000E+00        2.4000E-02        3.0000E-03
+        8.8000E+01        0.0000E+00        1.3000E-02        3.0000E-03

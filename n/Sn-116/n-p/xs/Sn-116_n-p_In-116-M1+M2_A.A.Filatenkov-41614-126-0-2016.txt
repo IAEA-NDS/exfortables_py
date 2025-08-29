@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 50-SN-116(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 116 
+#   Nuclide: 50-SN-116 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4050e+01 MeV - 1.4880e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 116 
+#   Nuclide: 49-IN-116-M1+M2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41614-126-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-116(N,P)49-IN-116-M1+M2,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,INDC(CCP)-0460,2016) 
+#   Year:  2016 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41614
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4050E+01        0.0000E+00        9.6400E-03        3.5957E-04
+        1.4280E+01        0.0000E+00        1.1200E-02        5.9024E-04
+        1.4680E+01        0.0000E+00        1.1600E-02        3.6308E-04
+        1.4810E+01        0.0000E+00        1.2400E-02        6.1008E-04
+        1.4880E+01        0.0000E+00        1.2500E-02        3.5500E-04

@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 83-BI-209(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  4.0900e+01 MeV - 6.9300e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 125 
+#   Nuclide: 51-SB-125 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0920-032-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(P,F)51-SB-125,CUM,SIG) 
+#   First author: J.Kuhnhenn 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (T,KUHNHENN,2001) 
+#   Year:  2001 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O09/O0920.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0920
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0900E+01        1.4000E+00        1.1000E-04        8.2000E-05
+        4.2500E+01        1.2000E+00        1.7500E-04        1.2200E-04
+        4.6600E+01        1.3000E+00        2.1500E-04        1.3000E-04
+        5.2000E+01        1.3000E+00        1.5300E-04        2.1000E-05
+        5.6900E+01        1.2000E+00        3.0200E-04        6.2000E-05
+        6.1600E+01        1.1000E+00        1.9500E-04        4.7000E-05
+        6.6100E+01        1.0000E+00        2.5300E-04        4.9000E-05
+        6.9300E+01        1.0000E+00        2.9200E-04        3.5000E-05

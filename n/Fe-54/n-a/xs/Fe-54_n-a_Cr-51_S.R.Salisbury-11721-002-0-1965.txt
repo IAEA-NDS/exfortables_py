@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 26-FE-54(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 54 
+#   Nuclide: 26-FE-54 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  2.2300e+00 MeV - 1.6750e+01 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 51 
+#   Nuclide: 24-CR-51 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11721-002-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-54(N,A)24-CR-51,,SIG) 
+#   First author: S.R.Salisbury 
+#   Institute:  (1USALOK): Lockheed Aircraft Corp., Sunnyvale, CA 
+#   Reference:  (J,PR,140,B305,1965) 
+#   Year:  1965 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/117/11721.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11721
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2300E+00        7.5000E-02        6.5300E-03        3.3300E-03
+        3.2200E+00        1.2500E-01        6.4200E-03        5.1600E-03
+        4.2600E+00        1.4500E-01        4.9100E-03        2.1900E-03
+        4.6900E+00        8.5000E-02        2.7100E-03        1.2400E-03
+        5.3800E+00        1.3000E-01        1.0040E-02        3.6800E-03
+        6.1800E+00        8.0000E-02        1.6290E-02        1.7500E-03
+        1.3100E+01        8.0000E-01        7.2100E-02        1.4500E-02
+        1.4050E+01        1.0500E+00        9.1600E-02        3.7100E-02
+        1.6750E+01        5.5000E-01        9.6200E-02        1.5700E-02

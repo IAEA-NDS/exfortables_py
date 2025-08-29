@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 82-PB-0(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  4.5390e+01 MeV - 1.9900e+02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23078-005-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(N,F),,SIG) 
+#   First author: R.Nolte 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (J,NSE,156,197,2007) 
+#   Year:  2007 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23078.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23078
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5390E+01        2.7000E-01        3.5000E-04        3.0000E-05
+        5.9950E+01        0.0000E+00        1.8000E-03        1.1000E-04
+        1.4700E+02        1.4000E+00        1.9000E-02        3.0000E-03
+        1.9900E+02        2.0000E+00        3.1000E-02        4.0000E-03

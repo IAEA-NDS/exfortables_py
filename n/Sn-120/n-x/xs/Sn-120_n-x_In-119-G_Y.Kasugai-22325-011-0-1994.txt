@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 50-SN-120(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 120 
+#   Nuclide: 50-SN-120 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4950e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 119 
+#   Nuclide: 49-IN-119-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22325-011-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-120(N,X)49-IN-119-G,,SIG) 
+#   First author: Y.Kasugai 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  (C,94GATLIN,2,935,1994) 
+#   Year:  1994 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22325.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22325
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4950E+01        5.0000E-02        1.2100E-04        1.9000E-05

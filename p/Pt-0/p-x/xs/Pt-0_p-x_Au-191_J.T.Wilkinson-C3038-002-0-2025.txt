@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 78-PT-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 78 
+#   A: 0 
+#   Nuclide: 78-PT-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0200e+01 MeV - 1.2000e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C3038-002-0 (entry-subentry-pointer) 
+#   Reaction code: (78-PT-0(P,X)ELEM/MASS,,SIG) 
+#   First author: J.T.Wilkinson 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,ARI,217,111618,2025) 
+#   Year:  2025 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C30/C3038.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C3038
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0200E+01        5.0000E-01        1.6000E-06        0.0000E+00
+        1.1100E+01        5.0000E-01        3.5700E-05        8.2000E-06
+        1.2000E+01        4.0000E-01        4.8000E-04        2.0000E-05

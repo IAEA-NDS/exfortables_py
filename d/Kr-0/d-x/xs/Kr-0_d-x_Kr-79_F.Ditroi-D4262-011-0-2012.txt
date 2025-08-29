@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 36-KR-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 36 
+#   A: 0 
+#   Nuclide: 36-KR-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.0900e+00 MeV - 1.3050e+01 MeV 
+# Residual: 
+#   Z: 36 
+#   A: 79 
+#   Nuclide: 36-KR-79 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4262-011-0 (entry-subentry-pointer) 
+#   Reaction code: (36-KR-0(D,X)36-KR-79,CUM,SIG) 
+#   First author: F.Ditroi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,ARI,70,574,2012) 
+#   Year:  2012 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4262.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4262
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0900E+00        2.3000E-01        2.4000E-04        1.0000E-04
+        5.2400E+00        2.0000E-01        1.2200E-03        4.2000E-04
+        5.7800E+00        2.7000E-01        1.2500E-03        3.2000E-04
+        6.6300E+00        2.3000E-01        1.9500E-03        5.5000E-04
+        7.4200E+00        2.0000E-01        2.1100E-03        4.5000E-04
+        8.3100E+00        3.1000E-01        1.1700E-03        2.3000E-04
+        9.6400E+00        3.1000E-01        1.7100E-03        4.2000E-04
+        1.0860E+01        2.7000E-01        1.2100E-03        3.5000E-04
+        1.1990E+01        2.3000E-01        1.2700E-03        4.6000E-04
+        1.3050E+01        2.0000E-01        9.4000E-04        4.0000E-04

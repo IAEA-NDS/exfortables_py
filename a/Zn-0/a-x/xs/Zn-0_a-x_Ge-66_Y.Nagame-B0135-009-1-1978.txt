@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 30-ZN-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 0 
+#   Nuclide: 30-ZN-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.1900e+01 MeV - 3.8700e+01 MeV 
+# Residual: 
+#   Z: 32 
+#   A: 66 
+#   Nuclide: 32-GE-66 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0135-009-1 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-0(A,X)32-GE-66,,SIG) 
+#   First author: Y.Nagame 
+#   Institute:  (2JPNTMU): Tokyo Metropolitan University , Hachioji, Tokyo 
+#   Reference:  (J,ARI,29,615,1978) 
+#   Year:  1978 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0135.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0135
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1900E+01        0.0000E+00        2.1000E-03        0.0000E+00
+        2.2500E+01        0.0000E+00               NAN        0.0000E+00
+        2.2900E+01        0.0000E+00        3.7000E-03        0.0000E+00
+        2.3900E+01        0.0000E+00        5.9000E-03        0.0000E+00
+        2.4600E+01        0.0000E+00               NAN        0.0000E+00
+        2.6300E+01        0.0000E+00               NAN        0.0000E+00
+        2.6400E+01        0.0000E+00        1.1000E-02        0.0000E+00
+        2.8100E+01        0.0000E+00               NAN        0.0000E+00
+        2.9200E+01        0.0000E+00        1.5000E-02        0.0000E+00
+        2.9900E+01        0.0000E+00               NAN        0.0000E+00
+        3.0700E+01        0.0000E+00        1.8000E-02        0.0000E+00
+        3.1700E+01        0.0000E+00               NAN        0.0000E+00
+        3.2600E+01        0.0000E+00        2.1000E-02        0.0000E+00
+        3.3200E+01        0.0000E+00               NAN        0.0000E+00
+        3.4700E+01        0.0000E+00               NAN        0.0000E+00
+        3.5800E+01        0.0000E+00        1.9000E-02        0.0000E+00
+        3.6300E+01        0.0000E+00               NAN        0.0000E+00
+        3.7100E+01        0.0000E+00        1.9000E-02        0.0000E+00
+        3.7700E+01        0.0000E+00               NAN        0.0000E+00
+        3.8700E+01        0.0000E+00        1.7000E-02        0.0000E+00

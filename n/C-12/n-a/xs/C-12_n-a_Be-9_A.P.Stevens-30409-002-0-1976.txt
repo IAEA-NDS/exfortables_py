@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 6-C-12(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.8650e+01 MeV - 2.1460e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 9 
+#   Nuclide: 4-BE-9 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30409-002-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(N,A)4-BE-9,,SIG) 
+#   First author: A.P.Stevens 
+#   Institute:  (3SAFSCT): University of Capetown, Cape Town 
+#   Reference:  (R,INIS-MF-3596,197610) 
+#   Year:  1976 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30409.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30409
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8650E+01        4.1000E-01        1.4500E-02        3.6000E-03
+        1.8920E+01        4.3000E-01        1.9200E-02        4.0000E-03
+        1.9120E+01        4.1000E-01        1.8200E-02        3.6000E-03
+        1.9200E+01        3.8000E-01        1.9600E-02        4.9000E-03
+        1.9460E+01        3.7000E-01        2.2000E-02        5.7000E-03
+        1.9720E+01        3.6000E-01        3.0700E-02        9.5000E-03
+        1.9900E+01        3.9000E-01        2.5000E-02        1.0800E-02
+        1.9980E+01        3.4000E-01        3.5200E-02        8.4000E-03
+        2.0140E+01        3.8000E-01        4.0900E-02        7.4000E-03
+        2.0230E+01        3.3000E-01        2.9800E-02        9.2000E-03
+        2.0480E+01        3.2000E-01        2.4600E-02        9.1000E-03
+        2.0730E+01        3.1000E-01        1.8900E-02        6.6000E-03
+        2.0980E+01        3.0000E-01        2.1200E-02        6.1000E-03
+        2.1220E+01        2.9000E-01        2.3300E-02        7.0000E-03
+        2.1460E+01        2.8000E-01        3.1000E-02        1.0900E-02

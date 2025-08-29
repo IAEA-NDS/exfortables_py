@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 92-U-0(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 0 
+#   Nuclide: 92-U-0 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  5.7000e+02 MeV - 1.8200e+04 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 126 
+#   Nuclide: 51-SB-126-M1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0577-038-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-0(P,F)51-SB-126-M1,IND,SIG) 
+#   First author: E.Hagebo 
+#   Institute:  (2ZZZCER): European Org. for Nuclear Research (CERN), Geneva 
+#   Reference:  (J,JIN,29,2515,1967) 
+#   Year:  1967 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0577.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0577
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.7000E+02        0.0000E+00        1.8400E-03        9.0000E-05
+        1.8200E+04        0.0000E+00        5.2100E-04        3.4000E-05

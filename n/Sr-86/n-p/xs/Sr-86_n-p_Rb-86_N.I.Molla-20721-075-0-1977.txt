@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 38-SR-86(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 38 
+#   A: 86 
+#   Nuclide: 38-SR-86 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 86 
+#   Nuclide: 37-RB-86 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20721-075-0 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-86(N,P)37-RB-86,,SIG) 
+#   First author: N.I.Molla 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,NP/A,283,269,197706) 
+#   Year:  1977 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20721.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20721
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        4.4000E-02        4.0000E-03

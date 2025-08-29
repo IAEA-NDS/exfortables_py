@@ -1,0 +1,54 @@
+# Header: 
+#   Title: 79-AU-197(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  6.3500e+00 MeV - 3.5290e+01 MeV 
+# Residual: 
+#   Z: 80 
+#   A: 197 
+#   Nuclide: 80-HG-197-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0967-009-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(P,N)80-HG-197-M,,SIG) 
+#   First author: J.Cervenak 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,NIM/B,458,118,2019) 
+#   Year:  2019 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D09/D0967.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0967
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5290E+01        0.0000E+00        7.8000E-03        5.4000E-04
+        3.4070E+01        0.0000E+00        8.0300E-03        5.6000E-04
+        3.2810E+01        0.0000E+00        8.3900E-03        5.9000E-04
+        3.1510E+01        0.0000E+00        8.5300E-03        6.0000E-04
+        3.0170E+01        0.0000E+00        8.8600E-03        6.2000E-04
+        2.8770E+01        0.0000E+00        9.2000E-03        6.5000E-04
+        2.7350E+01        0.0000E+00        9.5300E-03        6.6000E-04
+        2.5860E+01        0.0000E+00        1.0980E-02        7.7000E-04
+        2.4300E+01        0.0000E+00        1.0100E-02        7.0000E-04
+        2.2650E+01        0.0000E+00        1.0890E-02        7.6000E-04
+        2.0900E+01        0.0000E+00        1.1680E-02        8.1000E-04
+        1.9030E+01        0.0000E+00        1.2230E-02        8.5000E-04
+        1.7320E+01        0.0000E+00        1.3660E-02        9.5000E-04
+        1.7040E+01        0.0000E+00        1.3790E-02        9.6000E-04
+        1.6080E+01        0.0000E+00        1.4740E-02        1.0000E-03
+        1.4790E+01        0.0000E+00        1.7400E-02        1.2000E-03
+        1.3410E+01        0.0000E+00        2.4000E-02        1.7000E-03
+        1.2660E+01        0.0000E+00        2.9000E-02        2.0000E-03
+        1.1870E+01        0.0000E+00        3.6200E-02        2.5000E-03
+        1.1050E+01        0.0000E+00        3.4300E-02        2.4000E-03
+        1.0190E+01        0.0000E+00        2.9100E-02        2.0000E-03
+        9.2700E+00        0.0000E+00        1.8400E-02        1.3000E-03
+        8.2800E+00        0.0000E+00        7.9500E-03        5.5000E-04
+        7.1900E+00        0.0000E+00        1.9900E-03        1.4000E-04
+        6.3500E+00        0.0000E+00        4.7500E-04        3.5000E-05

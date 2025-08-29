@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 83-BI-209(A,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: A,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  5.5700e+01 MeV - 5.8600e+01 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 92 
+#   Nuclide: 38-SR-92 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6001-004-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(A,F)38-SR-92,CUM,SIG) 
+#   First author: S.S.Rattan 
+#   Institute:  (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference:  (J,RCA,55,169,1991) 
+#   Year:  1991 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6001.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6001
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.5700E+01        0.0000E+00        1.2180E-03        0.0000E+00
+        5.8600E+01        0.0000E+00        1.3990E-03        2.3200E-04

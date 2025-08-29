@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 13-AL-27(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3940e+01 MeV - 1.7980e+01 MeV 
+# Residual: 
+#   Z: 13 
+#   A: 26 
+#   Nuclide: 13-AL-26-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11520-003-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,2N)13-AL-26-M,,SIG) 
+#   First author: D.M.Arnold 
+#   Institute:  (1USAGEO): University of Georgia, Athens, GA 
+#   Reference:  (W,ARNOLD,196511) 
+#   Year:  1965 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11520.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11520
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3940E+01        2.9000E-01        1.1000E-04        2.0000E-05
+        1.4500E+01        3.1000E-01        2.1000E-04        4.0000E-05
+        1.4920E+01        3.4000E-01        2.1000E-03        4.0000E-04
+        1.5350E+01        1.5000E-01        4.5000E-03        6.0000E-04
+        1.5890E+01        1.7000E-01        5.4000E-03        1.0000E-03
+        1.6500E+01        2.3000E-01        1.3000E-02        2.0000E-03
+        1.7060E+01        3.5000E-01        2.6000E-02        0.0000E+00
+        1.7490E+01        2.3000E-01        2.6000E-02        4.0000E-03
+        1.7980E+01        1.9000E-01        3.8000E-02        5.0000E-03

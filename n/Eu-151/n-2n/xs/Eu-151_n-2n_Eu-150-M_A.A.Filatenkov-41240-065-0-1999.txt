@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 63-EU-151(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 63 
+#   A: 151 
+#   Nuclide: 63-EU-151 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3560e+01 MeV - 1.4780e+01 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 150 
+#   Nuclide: 63-EU-150-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41240-065-0 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-151(N,2N)63-EU-150-M,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,RI-252,1999) 
+#   Year:  1999 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41240.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41240
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3560E+01        0.0000E+00        5.0000E-01        1.0000E-01
+        1.3740E+01        0.0000E+00        4.9800E-01        9.8000E-02
+        1.3960E+01        0.0000E+00        4.9800E-01        9.6000E-02
+        1.4190E+01        0.0000E+00        5.0400E-01        1.0200E-01
+        1.4420E+01        0.0000E+00        5.2000E-01        1.1000E-01
+        1.4610E+01        0.0000E+00        4.9600E-01        9.8000E-02
+        1.4780E+01        0.0000E+00        5.0600E-01        1.0500E-01

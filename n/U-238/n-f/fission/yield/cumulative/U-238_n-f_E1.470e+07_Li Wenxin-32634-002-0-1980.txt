@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 92-U-238(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32634-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,F)ELEM/MASS,CUM,FY) 
+#   First author: Li Wenxin 
+#   Institute:  (3CPRIMP): Institute of Modern Physics, Academy Sinica, Lanzhou 
+#   Reference:  (J,HFH,2,(1),9,198002) 
+#   Year:  1980 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32634.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32634
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             40.0             95.0                         5.0000E-02        5.5000E-03
+             40.0             97.0                         4.9500E-02        4.0000E-03
+             42.0             99.0                         5.6000E-02        0.0000E+00
+             53.0            131.0                         3.7600E-02        3.0000E-03
+             53.0            133.0                         6.3600E-02        4.5000E-03
+             53.0            134.0                         5.6300E-02        5.6000E-03
+             53.0            135.0                         5.1300E-02        3.6000E-03
+             55.0            138.0                         5.0600E-02        3.5000E-03
+             57.0            142.0                         3.9600E-02        2.8000E-03

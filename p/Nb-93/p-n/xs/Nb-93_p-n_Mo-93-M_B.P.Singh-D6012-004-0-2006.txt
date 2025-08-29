@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 41-NB-93(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  5.4093e+00 MeV - 1.1995e+01 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 93 
+#   Nuclide: 42-MO-93-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6012-004-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(P,N)42-MO-93-M,,SIG) 
+#   First author: B.P.Singh 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,NIM/A,562,717,2006) 
+#   Year:  2006 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6012.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6012
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.4093E+00        6.9344E-01        5.8174E-03        7.4648E-04
+        6.7953E+00        6.5492E-01        1.7460E-02        2.5848E-03
+        8.7596E+00        6.5491E-01        2.8252E-02        3.6252E-03
+        1.0377E+01        6.1639E-01        4.2676E-02        5.4761E-03
+        1.1147E+01        6.1637E-01        6.0171E-02        1.0068E-02
+        1.1995E+01        6.1639E-01        8.4841E-02        1.0887E-02

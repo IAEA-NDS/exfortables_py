@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 74-W-186(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 74 
+#   A: 186 
+#   Nuclide: 74-W-186 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3400e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 186 
+#   Nuclide: 73-TA-186-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22351-008-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-186(N,P)73-TA-186-G,,SIG) 
+#   First author: Y.Kasugai 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((S,JAERI-M-93-046,277,1993)=(S,INDC(JPN)-163,277,1993)) 
+#   Year:  1993 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22351.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22351
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3400E+01        0.0000E+00        8.4000E-04        2.2000E-04
+        1.3650E+01        0.0000E+00        9.7000E-04        2.1000E-04
+        1.3880E+01        0.0000E+00        1.0800E-03        2.4000E-04
+        1.4580E+01        0.0000E+00        1.7300E-03        3.4000E-04
+        1.4870E+01        0.0000E+00        1.9000E-03        4.0000E-04

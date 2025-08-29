@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32729-004-0 
-# EXFOR reaction        : (39-Y-89(N,P)38-SR-89,,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4800e+01 MeV 
-# target                : Y-89 
-# product               : Sr-89 
-# level energy          : - 
-# MF-MT number          : 3 - 103 
-# first author          : Luo Junhua 
-# institute             : (3CPRHXU): Hexi University , Zhangye 
-# reference             : (J,NSE,184,254,2016) 
-# year                  : 2016 
-# facility              : (NGEN): Neutron generator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32729.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32729
+# Header: 
+#   Title: 39-Y-89(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 89 
+#   Nuclide: 38-SR-89 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32729-004-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(N,P)38-SR-89,,SIG) 
+#   First author: Luo Junhua 
+#   Institute:  (3CPRHXU): Hexi University , Zhangye 
+#   Reference:  (J,NSE,184,254,2016) 
+#   Year:  2016 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32729.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32729
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3500E+01        2.0000E-01        1.7700E-02        1.1000E-03

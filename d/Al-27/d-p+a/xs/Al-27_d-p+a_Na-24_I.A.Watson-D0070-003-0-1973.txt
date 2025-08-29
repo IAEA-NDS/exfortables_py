@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 13-AL-27(D,P+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: D,P+A 
+#   MF-MT number: 3 - 112 
+#   Incident energy:  1.2900e+01 MeV - 1.5270e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0070-003-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(D,P+A)11-NA-24,,SIG) 
+#   First author: I.A.Watson 
+#   Institute:  (2UK HHL): M.R.C.Cyclotron Unit, Hammersmith Hospital, London 
+#   Reference:  (J,NIM,106,231,1973) 
+#   Year:  1973 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D00/D0070.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0070
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2900E+01        0.0000E+00        4.8590E-03        1.1100E-04
+        1.3170E+01        0.0000E+00        5.9280E-03        1.3600E-04
+        1.3450E+01        0.0000E+00        7.3300E-03        1.6900E-04
+        1.3710E+01        0.0000E+00        9.0830E-03        2.0900E-04
+        1.4000E+01        0.0000E+00        1.0900E-02        2.5000E-04
+        1.4250E+01        0.0000E+00        1.2000E-02        2.8000E-04
+        1.4520E+01        0.0000E+00        1.4210E-02        3.3000E-04
+        1.4780E+01        0.0000E+00        1.6080E-02        3.7000E-04
+        1.5030E+01        0.0000E+00        1.8070E-02        4.2000E-04
+        1.5270E+01        0.0000E+00        1.9630E-02        4.5000E-04

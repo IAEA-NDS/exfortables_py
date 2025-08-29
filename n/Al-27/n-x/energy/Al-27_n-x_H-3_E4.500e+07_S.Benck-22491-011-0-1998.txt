@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 13-AL-27(N,X)  Differential with energy of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 5 - None 
+#   Incident energy:  4.5000e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+#   Level energy: 1.3500e+01 MeV 
+# EXFOR BIB:
+#   Entry id: 22491-011-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,X)1-H-3,,DE) 
+#   First author: S.Benck 
+#   Institute:  (2BLGLVN): Catholic University of Louvain, Louvain-la-Neuve 
+#   Reference:  (J,PR/C,58,(3),1558,199809) 
+#   Year:  1998 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22491.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22491
+#
+#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+        1.3500E+01        0.0000E+00        2.4700E-10        1.3400E-10
+        1.6500E+01        0.0000E+00        2.8100E-10        1.4000E-10
+        1.9500E+01        0.0000E+00        1.8800E-10        9.0000E-11
+        2.2500E+01        0.0000E+00        2.2600E-10        8.5000E-11
+        2.5500E+01        0.0000E+00        2.3200E-10        8.0000E-11
+        2.8500E+01        0.0000E+00        2.4100E-10        8.0000E-11
+        3.1500E+01        0.0000E+00        2.1000E-10        6.3000E-11
+        3.4500E+01        0.0000E+00        1.2200E-10        4.4000E-11
+        3.7500E+01        0.0000E+00        3.5000E-11        2.0000E-11
+        4.0500E+01        0.0000E+00        5.0000E-12        3.0000E-12

@@ -1,17 +1,30 @@
-# entry-subent-pointer  : S0060-002-0 
-# EXFOR reaction        : (29-CU-65(D,2N)30-ZN-65,,SIG) 
-# incident energy       : 4.6300e+00 MeV - 1.1080e+01 MeV 
-# target                : Cu-65 
-# product               : Zn-65 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Cheng Xiaowu 
-# institute             : (3CPRNRS): Shanghai Institute of Applied Physics, Chinese Academy Sci. 
-# reference             : (J,ASI,22,(2),250,1966) 
-# year                  : 1966 
-# facility              : (CYCLO): Cyclotron 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S00/S0060.x4 
-# nds                   : https://nds.iaea.org/EXFOR/S0060
+# Header: 
+#   Title: 29-CU-65(D,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: D,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  4.6300e+00 MeV - 1.1080e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 65 
+#   Nuclide: 30-ZN-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: S0060-002-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(D,2N)30-ZN-65,,SIG) 
+#   First author: Cheng Xiaowu 
+#   Institute:  (3CPRNRS): Shanghai Institute of Applied Physics, Chinese Academy Sci. 
+#   Reference:  (J,ASI,22,(2),250,1966) 
+#   Year:  1966 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S00/S0060.x4 
+#   nds:  https://nds.iaea.org/EXFOR/S0060
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         4.6300E+00        0.0000E+00        1.9730E-02        9.8650E-04

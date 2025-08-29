@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 91-PA-231(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 91 
+#   A: 231 
+#   Nuclide: 91-PA-231 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.5000e+01 MeV - 2.0900e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23159-004-0 (entry-subentry-pointer) 
+#   Reaction code: (91-PA-231(N,F),,SIG) 
+#   First author: S.Oberstedt 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,ANE,43,26,2012) 
+#   Year:  2012 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23159.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23159
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+01        7.0000E-01        1.5200E+00        0.0000E+00
+        1.5300E+01        8.0000E-01        1.5400E+00        0.0000E+00
+        1.5900E+01        8.0000E-01        1.6100E+00        0.0000E+00
+        1.7200E+01        6.0000E-01        1.6600E+00        0.0000E+00
+        1.7200E+01        6.0000E-01        1.5700E+00        0.0000E+00
+        1.7700E+01        6.0000E-01        1.6300E+00        0.0000E+00
+        1.8300E+01        5.0000E-01        1.5600E+00        0.0000E+00
+        1.8800E+01        5.0000E-01        1.5400E+00        0.0000E+00
+        1.9300E+01        5.0000E-01        1.5600E+00        0.0000E+00
+        1.9800E+01        5.0000E-01        1.6700E+00        0.0000E+00
+        2.0400E+01        5.0000E-01        1.5600E+00        0.0000E+00
+        2.0900E+01        5.0000E-01        1.6100E+00        0.0000E+00

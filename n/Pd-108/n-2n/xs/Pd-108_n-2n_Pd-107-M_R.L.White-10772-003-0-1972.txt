@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 46-PD-108(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 46 
+#   A: 108 
+#   Nuclide: 46-PD-108 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5100e+01 MeV - 1.6300e+01 MeV 
+# Residual: 
+#   Z: 46 
+#   A: 107 
+#   Nuclide: 46-PD-107-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10772-003-0 (entry-subentry-pointer) 
+#   Reaction code: (46-PD-108(N,2N)46-PD-107-M,,SIG) 
+#   First author: R.L.White 
+#   Institute:  (1USANTS): North Texas State University, Denton, TX 
+#   Reference:  (J,BAP,17,687(FD10),197205) 
+#   Year:  1972 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10772.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10772
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5100E+01        0.0000E+00        1.8500E+00        2.6000E-01
+        1.5400E+01        0.0000E+00        1.6300E+00        2.6000E-01
+        1.5900E+01        0.0000E+00        1.9600E+00        2.6000E-01
+        1.6300E+01        0.0000E+00        2.2400E+00        2.6000E-01

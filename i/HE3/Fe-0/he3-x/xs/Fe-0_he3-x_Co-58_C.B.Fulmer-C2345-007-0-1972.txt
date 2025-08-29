@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 26-FE-0(HE3,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 0 
+#   Nuclide: 26-FE-0 
+# Reaction: 
+#   Process: HE3,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.3340e+00 MeV - 6.9323e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2345-007-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-0(HE3,X)27-CO-58,,SIG) 
+#   First author: C.B.Fulmer 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,PR/C,6,1720,1972) 
+#   Year:  1972 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2345.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2345
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.3340E+00        5.0000E-01        8.2670E-03        2.8090E-03
+        1.1588E+01        5.0000E-01        3.6740E-02        8.9670E-03
+        1.5569E+01        5.0000E-01        2.6570E-02        7.5450E-03
+        1.8979E+01        5.0000E-01        4.0290E-02        9.2790E-03
+        2.2045E+01        5.0000E-01        2.4540E-02        6.9680E-03
+        2.4407E+01        5.0000E-01        3.1910E-02        8.4320E-03
+        3.1412E+01        5.0000E-01        2.9210E-02        5.4790E-03
+        4.1505E+01        5.0000E-01        1.1250E-02        2.0250E-03
+        4.9705E+01        5.0000E-01        9.1560E-03        1.8500E-03
+        5.7130E+01        5.0000E-01        5.5830E-03        8.7970E-04
+        6.3238E+01        5.0000E-01        3.1380E-03        5.6530E-04
+        6.9323E+01        5.0000E-01        2.6710E-03        5.0100E-04

@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 27-CO-59(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.9430e+01 MeV - 1.1340e+02 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 57 
+#   Nuclide: 28-NI-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1231-010-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(A,X)28-NI-57,CUM,SIG) 
+#   First author: S.Mukherjee 
+#   Institute:  (3INDVUU): Vikram University , Ujjain 
+#   Reference:  (J,PS,58,319,1998) 
+#   Year:  1998 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O12/O1231.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1231
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.9430E+01        2.8000E-01        4.4000E-04        3.9600E-05
+        7.4560E+01        2.8000E-01        9.7000E-04        6.7900E-05
+        7.4640E+01        2.8000E-01        6.6000E-04        3.9600E-05
+        7.8980E+01        2.8000E-01        1.1900E-03        9.5200E-05
+        8.3510E+01        2.8000E-01        2.1500E-03        1.5050E-04
+        8.8310E+01        2.8000E-01        2.8400E-03        1.9880E-04
+        9.2550E+01        2.8000E-01        3.5500E-03        2.1300E-04
+        9.7650E+01        2.8000E-01        3.7400E-03        2.2440E-04
+        1.0290E+02        2.8000E-01        3.7000E-03        2.2200E-04
+        1.0800E+02        2.8000E-01        3.6100E-03        2.1660E-04
+        1.1340E+02        2.8000E-01        3.1600E-03        1.2640E-04

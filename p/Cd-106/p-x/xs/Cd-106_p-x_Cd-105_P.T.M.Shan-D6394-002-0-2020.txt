@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 48-CD-106(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 48 
+#   A: 106 
+#   Nuclide: 48-CD-106 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.2950e+01 MeV - 2.1960e+01 MeV 
+# Residual: 
+#   Z: 48 
+#   A: 105 
+#   Nuclide: 48-CD-105 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6394-002-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-106(P,X)48-CD-105,CUM,SIG) 
+#   First author: P.T.M.Shan 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,EPJ/P,135,385,2020) 
+#   Year:  2020 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D63/D6394.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6394
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2950E+01        4.0000E-01        1.0000E-02        1.3000E-03
+        1.7890E+01        4.0000E-01        6.6500E-01        7.9800E-02
+        2.1960E+01        2.0000E-01        9.4900E-01        1.1650E-01

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 70-YB-173(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 70 
+#   A: 173 
+#   Nuclide: 70-YB-173 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 69 
+#   A: 173 
+#   Nuclide: 69-TM-173 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20595-005-0 (entry-subentry-pointer) 
+#   Reaction code: (70-YB-173(N,P)69-TM-173,,SIG) 
+#   First author: T.Sato 
+#   Institute:  (2JPNKYU): Kyushu University , Fukuoka 
+#   Reference:  (J,NST,12,(11),681,7511) 
+#   Year:  1975 
+#   Facility:  (CCW  ): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20595.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20595
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        1.3500E-02        2.8000E-03

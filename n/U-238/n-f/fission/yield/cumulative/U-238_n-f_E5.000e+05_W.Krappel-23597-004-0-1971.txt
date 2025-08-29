@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-238(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  5.0000e-01 MeV 
+# Residual: 
+#   Z: 56 
+#   A: 140 
+#   Nuclide: 56-BA-140 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23597-004-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,F)56-BA-140,CUM,FY,,SPA) 
+#   First author: W.Krappel 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,NT,12,226,1971) 
+#   Year:  1971 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/235/23597.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23597
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+               56              140                         6.3400E-02        4.1000E-03

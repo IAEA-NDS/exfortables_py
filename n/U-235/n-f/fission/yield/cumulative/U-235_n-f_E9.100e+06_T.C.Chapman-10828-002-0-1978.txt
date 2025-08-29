@@ -1,0 +1,58 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  9.1000e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10828-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)ELEM/MASS,CUM,FY) 
+#   First author: T.C.Chapman 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR/C,17,1089,1978) 
+#   Year:  1978 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10828.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10828
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             35.0             84.0                         1.1444E-02        3.2501E-03
+             36.0             87.0                         2.9108E-02        4.4826E-03
+             38.0             89.0                         3.2539E-02        4.3277E-03
+             38.0             91.0                         4.8785E-02        4.5370E-03
+             40.0             95.0                         6.0543E-02        5.0856E-03
+             40.0             97.0                         5.3544E-02        4.5512E-03
+             42.0             99.0                         5.3552E-02        4.6590E-03
+             43.0            104.0                         2.6665E-02        5.1997E-03
+             44.0            103.0                         2.7014E-02        3.4038E-03
+             45.0            105.0                         1.0165E-02        1.3926E-03
+             46.0            112.0                         2.9170E-03        1.9836E-04
+             47.0            111.0                         3.0640E-03        2.1754E-04
+             48.0            115.0                         2.4220E-03        1.6954E-04
+             48.0            115.0                         1.5300E-04        4.9419E-05
+             50.0            128.0                         8.2780E-03        1.1010E-03
+             51.0            127.0                         8.0830E-03        7.5172E-04
+             51.0            130.0                         1.0443E-02        1.2845E-03
+             52.0            132.0                         3.9648E-02        3.5287E-03
+             53.0            133.0                         5.6398E-02        7.1625E-03
+             55.0            136.0                         6.2300E-04        4.6102E-05
+             55.0            137.0                         5.3987E-02        6.2625E-03
+             56.0            140.0                         4.7090E-02        4.3323E-03
+             57.0            142.0                         5.5038E-02        7.3201E-03
+             58.0            141.0                         4.5750E-02        4.1175E-03
+             58.0            143.0                         4.3895E-02        4.0383E-03
+             58.0            144.0                         3.6156E-02        3.4348E-03
+             60.0            147.0                         1.8721E-02        2.2278E-03
+             61.0            151.0                         3.7040E-03        1.6964E-03
+             63.0            156.0                         3.8100E-04        4.9911E-05

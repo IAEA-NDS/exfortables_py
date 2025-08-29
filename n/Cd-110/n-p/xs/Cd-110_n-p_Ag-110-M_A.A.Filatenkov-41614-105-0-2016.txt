@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 48-CD-110(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 48 
+#   A: 110 
+#   Nuclide: 48-CD-110 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3450e+01 MeV - 1.4880e+01 MeV 
+# Residual: 
+#   Z: 47 
+#   A: 110 
+#   Nuclide: 47-AG-110-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41614-105-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-110(N,P)47-AG-110-M,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,INDC(CCP)-0460,2016) 
+#   Year:  2016 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41614
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3450E+01        0.0000E+00        6.0100E-03        2.6083E-04
+        1.3880E+01        0.0000E+00        6.6300E-03        2.5194E-04
+        1.4440E+01        0.0000E+00        8.2700E-03        3.8869E-04
+        1.4640E+01        0.0000E+00        8.5200E-03        3.8851E-04
+        1.4880E+01        0.0000E+00        9.5200E-03        6.7306E-04

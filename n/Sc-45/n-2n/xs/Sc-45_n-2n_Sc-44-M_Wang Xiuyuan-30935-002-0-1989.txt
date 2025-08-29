@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 30935-002-0 
-# EXFOR reaction        : (21-SC-45(N,2N)21-SC-44-M,,SIG) 
-# incident energy       : 1.3540e+01 MeV - 1.4810e+01 MeV 
-# target                : Sc-45 
-# product               : Sc-44-M 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Wang Xiuyuan 
-# institute             : (3CPRSIU): Sichuan University , Chengdu 
-# reference             : (W,WANG,19890712) 
-# year                  : 1989 
-# facility              : None 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30935.x4 
-# nds                   : https://nds.iaea.org/EXFOR/30935
+# Header: 
+#   Title: 21-SC-45(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 21 
+#   A: 45 
+#   Nuclide: 21-SC-45 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3540e+01 MeV - 1.4810e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 44 
+#   Nuclide: 21-SC-44-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30935-002-0 (entry-subentry-pointer) 
+#   Reaction code: (21-SC-45(N,2N)21-SC-44-M,,SIG) 
+#   First author: Wang Xiuyuan 
+#   Institute:  (3CPRSIU): Sichuan University , Chengdu 
+#   Reference:  (W,WANG,19890712) 
+#   Year:  1989 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30935.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30935
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.4810E+01        2.9000E-01        1.3440E-01        6.5000E-03

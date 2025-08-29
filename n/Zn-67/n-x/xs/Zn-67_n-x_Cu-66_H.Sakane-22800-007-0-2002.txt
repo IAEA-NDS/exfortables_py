@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 30-ZN-67(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 67 
+#   Nuclide: 30-ZN-67 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3400e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 66 
+#   Nuclide: 29-CU-66 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22800-007-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-67(N,X)29-CU-66,,SIG) 
+#   First author: H.Sakane 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  (J,ANE,29,53,2002) 
+#   Year:  2002 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22800.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22800
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4870E+01        0.0000E+00        3.5900E-02        8.9750E-03
+        1.4640E+01        0.0000E+00        3.0900E-02        8.6520E-03
+        1.4350E+01        0.0000E+00        2.4900E-02        6.7230E-03
+        1.4010E+01        0.0000E+00        1.9000E-02        4.9400E-03
+        1.3700E+01        0.0000E+00        1.2900E-02        4.2570E-03
+        1.3400E+01        0.0000E+00        1.1500E-02        3.2200E-03

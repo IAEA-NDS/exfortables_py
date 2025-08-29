@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 51-SB-121(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 51 
+#   A: 121 
+#   Nuclide: 51-SB-121 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 120 
+#   Nuclide: 51-SB-120-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20776-002-1 (entry-subentry-pointer) 
+#   Reaction code: (51-SB-121(N,2N)51-SB-120-G,,SIG) 
+#   First author: J.L.Casanova 
+#   Institute:  (2SPNVLD): Universidad de Valladolid 
+#   Reference:  (P,NEANDC(OR)-140,9,1974) 
+#   Year:  1974 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20776.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20776
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        3.0000E-01        1.0400E+00        0.0000E+00

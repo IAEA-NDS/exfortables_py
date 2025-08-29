@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 23-V-51(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 23 
+#   A: 51 
+#   Nuclide: 23-V-51 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 22 
+#   A: 51 
+#   Nuclide: 22-TI-51 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20693-004-0 (entry-subentry-pointer) 
+#   Reaction code: (23-V-51(N,P)22-TI-51,,SIG,,FIS) 
+#   First author: K.Kobayashi 
+#   Institute:  (2JPNKTO): Kyoto University , Kyoto 
+#   Reference:  ((P,NEANDC(J)-42,31,1975)=(P,INDC(JAP)-28,31,1975)) 
+#   Year:  1975 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20693.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20693
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        4.5600E-04        2.3000E-05

@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 47-AG-109(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 47 
+#   A: 109 
+#   Nuclide: 47-AG-109 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.4460e+00 MeV - 4.9350e+00 MeV 
+# Residual: 
+#   Z: 48 
+#   A: 110 
+#   Nuclide: 48-CD-110 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2543-002-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-109(P,G)48-CD-110,,SIG) 
+#   First author: F.Heim 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,PR/C,103,055803,2021) 
+#   Year:  2021 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O25/O2543.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2543
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4460E+00        2.6000E-02        4.8000E-07        6.0000E-08
+        2.7750E+00        2.6000E-02        1.6900E-06        1.9000E-07
+        2.9440E+00        2.6000E-02        2.8000E-06        3.2000E-07
+        3.0440E+00        2.6000E-02        3.8900E-06        4.5000E-07
+        3.3430E+00        2.6000E-02        7.8100E-06        9.1000E-07
+        3.6420E+00        2.6000E-02        1.5400E-05        1.8000E-06
+        3.9410E+00        2.6000E-02        3.1700E-05        1.9000E-06
+        4.4370E+00        2.6000E-02        6.0900E-05        7.0000E-06
+        4.9350E+00        2.6000E-02        9.7800E-05        1.1200E-05

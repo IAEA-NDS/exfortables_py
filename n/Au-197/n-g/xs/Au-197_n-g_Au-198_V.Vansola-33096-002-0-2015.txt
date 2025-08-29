@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 79-AU-197(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.1200e+00 MeV - 4.1200e+00 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 198 
+#   Nuclide: 79-AU-198 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33096-002-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,G)79-AU-198,,SIG) 
+#   First author: V.Vansola 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,RCA,103,817,2015) 
+#   Year:  2015 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33096.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33096
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1200E+00        1.2000E-01        6.0441E-02        3.4030E-03
+        2.1200E+00        1.5000E-01        4.0588E-02        3.0630E-03
+        3.1200E+00        2.1000E-01        1.9771E-02        2.6730E-03
+        4.1200E+00        3.2000E-01        1.3944E-02        1.6110E-03

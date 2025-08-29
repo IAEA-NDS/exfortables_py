@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 26-FE-56(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 56 
+#   Nuclide: 26-FE-56 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 55 
+#   Nuclide: 26-FE-55 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13166-007-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-56(N,2N)26-FE-55,,SIG) 
+#   First author: L.R.Greenwood 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (C,90STRASB,,437,1990) 
+#   Year:  1990 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13166.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13166
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        0.0000E+00        4.5400E-01        3.5000E-02

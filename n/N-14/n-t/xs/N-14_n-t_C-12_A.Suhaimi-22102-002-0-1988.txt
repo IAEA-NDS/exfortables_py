@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 7-N-14(N,T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 7 
+#   A: 14 
+#   Nuclide: 7-N-14 
+# Reaction: 
+#   Process: N,T 
+#   MF-MT number: 3 - 105 
+#   Incident energy:  5.0200e+00 MeV - 1.0570e+01 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22102-002-0 (entry-subentry-pointer) 
+#   Reaction code: (7-N-14(N,T)6-C-12,,SIG) 
+#   First author: A.Suhaimi 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,RCA,43,133,1988) 
+#   Year:  1988 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22102.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22102
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0200E+00        1.6000E-01        2.3000E-02        3.0000E-03
+        5.5700E+00        1.7000E-01        1.8000E-02        3.0000E-03
+        5.6700E+00        1.7000E-01        2.8000E-02        4.0000E-03
+        6.0500E+00        1.7000E-01        2.6000E-02        4.0000E-03
+        6.2900E+00        1.8000E-01        2.0000E-02        3.0000E-03
+        6.5900E+00        1.6000E-01        3.0000E-02        5.0000E-03
+        7.1000E+00        1.8000E-01        2.1000E-02        3.0000E-03
+        7.6100E+00        1.9000E-01        1.7000E-02        3.0000E-03
+        8.1100E+00        2.0000E-01        1.7000E-02        3.0000E-03
+        8.5000E+00        2.1000E-01        2.0000E-02        3.0000E-03
+        8.6100E+00        2.2000E-01        1.9000E-02        3.0000E-03
+        8.9300E+00        2.7000E-01        2.2000E-02        4.0000E-03
+        9.0300E+00        2.6000E-01        1.2000E-02        2.0000E-03
+        9.6100E+00        2.3000E-01        1.6000E-02        3.0000E-03
+        1.0080E+01        2.4000E-01        1.1000E-02        2.0000E-03
+        1.0570E+01        2.5000E-01        1.4000E-02        2.0000E-03

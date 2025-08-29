@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 62-SM-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 62 
+#   A: 0 
+#   Nuclide: 62-SM-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.6000e+00 MeV - 2.6300e+01 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 154 
+#   Nuclide: 63-EU-154 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4307-003-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-0(D,X)63-EU-154,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,333,12,2014) 
+#   Year:  2014 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4307.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4307
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6300E+01        8.0000E-01        5.8200E-02        8.5000E-03
+        1.9200E+01        1.0000E+00        9.4600E-02        1.1900E-02
+        1.6300E+01        1.0000E+00        1.1510E-01        1.3300E-02
+        1.4200E+01        1.1000E+00        1.7190E-01        2.2200E-02
+        1.1800E+01        1.1000E+00        1.5600E-01        1.7700E-02
+        1.0300E+01        1.2000E+00        1.1830E-01        1.3400E-02
+        9.5000E+00        1.2000E+00        9.5300E-02        1.1900E-02
+        8.6000E+00        1.2000E+00        5.1200E-02        6.0000E-03
+        7.6000E+00        1.2000E+00        2.7900E-02        3.4000E-03
+        6.6000E+00        1.2000E+00        1.0200E-02        1.5000E-03

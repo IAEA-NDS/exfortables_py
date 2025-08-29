@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 42-MO-92(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 92 
+#   Nuclide: 42-MO-92 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4550e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 91 
+#   Nuclide: 41-NB-91-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 12976-006-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-92(N,X)41-NB-91-M,CUM,SIG) 
+#   First author: L.R.Greenwood 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,PR/C,35,76,1987) 
+#   Year:  1987 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12976.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12976
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4550E+01        0.0000E+00        1.5700E-01        1.0990E-02
+        1.4600E+01        0.0000E+00        1.5300E-01        1.0710E-02
+        1.4780E+01        0.0000E+00        1.4500E-01        1.0150E-02
+        1.4800E+01        0.0000E+00        1.4500E-01        1.0150E-02

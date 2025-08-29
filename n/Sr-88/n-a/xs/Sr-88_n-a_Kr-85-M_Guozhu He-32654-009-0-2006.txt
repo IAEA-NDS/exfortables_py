@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32654-009-0 
-# EXFOR reaction        : (38-SR-88(N,A)36-KR-85-M,,SIG) 
-# incident energy       : 1.4100e+01 MeV - 1.4600e+01 MeV 
-# target                : Sr-88 
-# product               : Kr-85-M 
-# level energy          : - 
-# MF-MT number          : 3 - 107 
-# first author          : Guozhu He 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,ANE,33,37,2006) 
-# year                  : 2006 
-# facility              : None 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32654.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32654
+# Header: 
+#   Title: 38-SR-88(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 38 
+#   A: 88 
+#   Nuclide: 38-SR-88 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4100e+01 MeV - 1.4600e+01 MeV 
+# Residual: 
+#   Z: 36 
+#   A: 85 
+#   Nuclide: 36-KR-85-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32654-009-0 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-88(N,A)36-KR-85-M,,SIG) 
+#   First author: Guozhu He 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,ANE,33,37,2006) 
+#   Year:  2006 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32654.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32654
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.4100E+01        2.0000E-01        1.1000E-03        1.0000E-04

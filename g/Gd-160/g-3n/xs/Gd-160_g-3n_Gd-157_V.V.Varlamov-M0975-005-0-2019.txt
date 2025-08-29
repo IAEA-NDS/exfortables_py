@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 64-GD-160(G,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 64 
+#   A: 160 
+#   Nuclide: 64-GD-160 
+# Reaction: 
+#   Process: G,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  2.2310e+01 MeV - 2.9510e+01 MeV 
+# Residual: 
+#   Z: 64 
+#   A: 157 
+#   Nuclide: 64-GD-157 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M0975-005-0 (entry-subentry-pointer) 
+#   Reaction code: (64-GD-160(G,3N)64-GD-157,,SIG,,,EVAL) 
+#   First author: V.V.Varlamov 
+#   Institute:  (4RUSMOS): Moscow State University , Moscow 
+#   Reference:  (J,MPM,1,1910202,2019) 
+#   Year:  2019 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M09/M0975.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0975
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2310E+01        0.0000E+00        4.1000E-04        7.0000E-05
+        2.2710E+01        0.0000E+00        2.3500E-03        3.4000E-04
+        2.3110E+01        0.0000E+00        5.8900E-03        9.6000E-04
+        2.3510E+01        0.0000E+00        9.8100E-03        1.8500E-03
+        2.3910E+01        0.0000E+00        1.3350E-02        2.6400E-03
+        2.4310E+01        0.0000E+00        1.6740E-02        3.2600E-03
+        2.4710E+01        0.0000E+00        1.9750E-02        3.8000E-03
+        2.5310E+01        0.0000E+00        1.5480E-02        3.8200E-03
+        2.5910E+01        0.0000E+00        1.7850E-02        4.4500E-03
+        2.6510E+01        0.0000E+00        2.2520E-02        4.8600E-03
+        2.7110E+01        0.0000E+00        1.3060E-02        3.6500E-03
+        2.7710E+01        0.0000E+00        1.2810E-02        4.1900E-03
+        2.8310E+01        0.0000E+00        2.0400E-02        4.8000E-03
+        2.9510E+01        0.0000E+00        1.8640E-02        8.5500E-03

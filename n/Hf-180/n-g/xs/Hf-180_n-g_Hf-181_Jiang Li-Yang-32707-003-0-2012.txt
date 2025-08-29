@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32707-003-0 
-# EXFOR reaction        : (72-HF-180(N,G)72-HF-181,,SIG) 
-# incident energy       : 4.5000e-01 MeV - 2.9800e+00 MeV 
-# target                : Hf-180 
-# product               : Hf-181 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Jiang Li-Yang 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CST,46,(6),641,2012) 
-# year                  : 2012 
-# facility              : (CCW): Cockcroft-Walton accelerator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32707.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32707
+# Header: 
+#   Title: 72-HF-180(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 72 
+#   A: 180 
+#   Nuclide: 72-HF-180 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  4.5000e-01 MeV - 2.9800e+00 MeV 
+# Residual: 
+#   Z: 72 
+#   A: 181 
+#   Nuclide: 72-HF-181 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32707-003-0 (entry-subentry-pointer) 
+#   Reaction code: (72-HF-180(N,G)72-HF-181,,SIG) 
+#   First author: Jiang Li-Yang 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CST,46,(6),641,2012) 
+#   Year:  2012 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32707.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32707
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         4.5000E-01        1.0000E-01        3.6200E-02        1.8000E-03

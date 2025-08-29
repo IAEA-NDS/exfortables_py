@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 23-V-51(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 23 
+#   A: 51 
+#   Nuclide: 23-V-51 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  4.3800e+00 MeV - 6.6100e+00 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 51 
+#   Nuclide: 24-CR-51 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0051-005-0 (entry-subentry-pointer) 
+#   Reaction code: (23-V-51(P,N)24-CR-51,,SIG,,,EXP) 
+#   First author: H.Taketani 
+#   Institute:  (1USAROC): University of Rochester, Rochester, NY 
+#   Reference:  (J,PR,125,291,1962) 
+#   Year:  1962 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0051.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0051
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.3800E+00        9.0000E-02        2.1500E-01        2.2000E-02
+        4.8800E+00        1.0000E-01        2.7000E-01        2.6000E-02
+        5.6300E+00        1.0000E-01        3.1800E-01        3.2000E-02
+        6.6100E+00        1.1000E-01        3.8500E-01        3.7000E-02

@@ -1,0 +1,52 @@
+# Header: 
+#   Title: 29-CU-63(G,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+# Reaction: 
+#   Process: G,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4000e+01 MeV - 2.5000e+01 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 62 
+#   Nuclide: 28-NI-62 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M0374-005-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-63(G,P)28-NI-62,,SIG,,,EVAL) 
+#   First author: V.V.Varlamov 
+#   Institute:  (4RUSMOS): Moscow State University , Moscow 
+#   Reference:  (J,IZV,59,223,1995) 
+#   Year:  1995 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M03/M0374.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0374
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4000E+01        0.0000E+00        4.4000E-03        4.0000E-04
+        1.4500E+01        0.0000E+00        7.5000E-03        2.0000E-04
+        1.5000E+01        0.0000E+00        9.8000E-03        2.0000E-04
+        1.5500E+01        0.0000E+00        1.5200E-02        3.0000E-04
+        1.6000E+01        0.0000E+00        1.7700E-02        6.0000E-04
+        1.6500E+01        0.0000E+00        2.1900E-02        2.1000E-03
+        1.7000E+01        0.0000E+00        2.1000E-02        2.1000E-03
+        1.7500E+01        0.0000E+00        2.5600E-02        2.3000E-03
+        1.8000E+01        0.0000E+00        2.3600E-02        2.4000E-03
+        1.8500E+01        0.0000E+00        2.6500E-02        2.0000E-03
+        1.9000E+01        0.0000E+00        1.9600E-02        2.1000E-03
+        1.9500E+01        0.0000E+00        2.9200E-02        2.3000E-03
+        2.0000E+01        0.0000E+00        3.4200E-02        2.1000E-03
+        2.0500E+01        0.0000E+00        2.6100E-02        2.2000E-03
+        2.1000E+01        0.0000E+00        2.3800E-02        2.1000E-03
+        2.1500E+01        0.0000E+00        2.0400E-02        2.5000E-03
+        2.2000E+01        0.0000E+00        2.6800E-02        2.6000E-03
+        2.2500E+01        0.0000E+00        2.3200E-02        2.7000E-03
+        2.3000E+01        0.0000E+00        2.2400E-02        3.9000E-03
+        2.3500E+01        0.0000E+00        1.6000E-02        2.2000E-03
+        2.4000E+01        0.0000E+00        3.0700E-02        2.9000E-03
+        2.4500E+01        0.0000E+00        2.0400E-02        2.7000E-03
+        2.5000E+01        0.0000E+00        2.4500E-02        2.2000E-03

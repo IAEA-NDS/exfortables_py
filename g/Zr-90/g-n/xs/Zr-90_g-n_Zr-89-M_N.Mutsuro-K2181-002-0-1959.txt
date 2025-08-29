@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 40-ZR-90(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.3000e+01 MeV - 2.3100e+01 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 89 
+#   Nuclide: 40-ZR-89-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: K2181-002-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(G,N)40-ZR-89-M,,SIG,,BRS) 
+#   First author: N.Mutsuro 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,JPJ,14,(12),1649,195912) 
+#   Year:  1959 
+#   Facility:  (BETAT): Betatron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K21/K2181.x4 
+#   nds:  https://nds.iaea.org/EXFOR/K2181
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3000E+01        0.0000E+00        1.9700E-03        0.0000E+00
+        1.3600E+01        0.0000E+00        1.7400E-03        0.0000E+00
+        1.4200E+01        0.0000E+00        2.7200E-03        0.0000E+00
+        1.4800E+01        0.0000E+00        3.6700E-03        0.0000E+00
+        1.5100E+01        0.0000E+00        4.2200E-03        0.0000E+00
+        1.5600E+01        0.0000E+00        4.8300E-03        0.0000E+00
+        1.6200E+01        0.0000E+00        6.3900E-03        0.0000E+00
+        1.6700E+01        0.0000E+00        8.2000E-03        0.0000E+00
+        1.7200E+01        0.0000E+00        8.1900E-03        0.0000E+00
+        1.7800E+01        0.0000E+00        5.4700E-03        0.0000E+00
+        1.8200E+01        0.0000E+00        2.0600E-03        0.0000E+00
+        1.8700E+01        0.0000E+00        3.2500E-03        0.0000E+00
+        1.9200E+01        0.0000E+00        2.0700E-03        0.0000E+00
+        1.9700E+01        0.0000E+00        2.5200E-03        0.0000E+00
+        2.0200E+01        0.0000E+00        1.8200E-03        0.0000E+00
+        2.0700E+01        0.0000E+00        2.5300E-03        0.0000E+00
+        2.1200E+01        0.0000E+00        1.4000E-03        0.0000E+00
+        2.1700E+01        0.0000E+00        1.7300E-03        0.0000E+00
+        2.2200E+01        0.0000E+00        2.6900E-03        0.0000E+00
+        2.3100E+01        0.0000E+00        1.7100E-03        0.0000E+00

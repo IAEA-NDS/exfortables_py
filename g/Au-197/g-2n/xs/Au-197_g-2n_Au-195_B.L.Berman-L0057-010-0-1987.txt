@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 79-AU-197(G,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: G,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3982e+01 MeV - 1.6851e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 195 
+#   Nuclide: 79-AU-195 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: L0057-010-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(G,2N)79-AU-195,,SIG) 
+#   First author: B.L.Berman 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR/C,36,1286,8705) 
+#   Year:  1987 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L00/L0057.x4 
+#   nds:  https://nds.iaea.org/EXFOR/L0057
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3982E+01        0.0000E+00       -6.6000E-04       -6.6000E-05
+        1.4460E+01        0.0000E+00       -2.0500E-03       -2.0500E-04
+        1.4938E+01        0.0000E+00        3.2900E-03        3.2900E-04
+        1.5416E+01        0.0000E+00        3.2150E-02        3.2150E-03
+        1.5895E+01        0.0000E+00        5.9890E-02        5.9890E-03
+        1.6373E+01        0.0000E+00        9.5470E-02        9.5470E-03
+        1.6851E+01        0.0000E+00        1.0478E-01        1.0478E-02

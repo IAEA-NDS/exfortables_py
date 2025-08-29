@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 22-TI-50(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 22 
+#   A: 50 
+#   Nuclide: 22-TI-50 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4400e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 50 
+#   Nuclide: 21-SC-50-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30648-003-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-50(N,P)21-SC-50-G,,SIG) 
+#   First author: V.K.Chindhade 
+#   Institute:  (3INDPOO): University of Pune 
+#   Reference:  (J,RRL,52,(3),149,198206) 
+#   Year:  1982 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30648.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30648
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4400E+01        3.0000E-01        1.6000E-02        4.0000E-03

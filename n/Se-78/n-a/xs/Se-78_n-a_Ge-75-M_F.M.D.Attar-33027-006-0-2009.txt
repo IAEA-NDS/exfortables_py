@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 34-SE-78(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 34 
+#   A: 78 
+#   Nuclide: 34-SE-78 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3730e+01 MeV - 1.4770e+01 MeV 
+# Residual: 
+#   Z: 32 
+#   A: 75 
+#   Nuclide: 32-GE-75-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33027-006-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-78(N,A)32-GE-75-M,,SIG) 
+#   First author: F.M.D.Attar 
+#   Institute:  (3INDPOO): University of Pune 
+#   Reference:  (J,NP/A,828,253,2009) 
+#   Year:  2009 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33027.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33027
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3730E+01        0.0000E+00        2.5000E-03        2.0000E-04
+        1.4420E+01        0.0000E+00        3.3450E-03        2.5000E-04
+        1.4770E+01        0.0000E+00        4.3000E-03        2.7000E-04

@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 28-NI-61(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 61 
+#   Nuclide: 28-NI-61 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  8.0000e+00 MeV - 2.2060e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 62 
+#   Nuclide: 29-CU-62 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0092-006-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-61(P,G)29-CU-62,,SIG) 
+#   First author: D.M.Drake 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,NP/A,203,257,1973) 
+#   Year:  1973 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0092.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0092
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+00        7.0000E-02        4.4100E-04        0.0000E+00
+        9.3900E+00        7.0000E-02        3.9500E-04        0.0000E+00
+        1.0000E+01        7.0000E-02        4.6000E-04        0.0000E+00
+        1.0000E+01        7.0000E-02        5.5100E-04        0.0000E+00
+        1.1270E+01        7.0000E-02        5.0600E-04        0.0000E+00
+        1.2000E+01        7.0000E-02        5.7900E-04        0.0000E+00
+        1.3150E+01        7.0000E-02        6.4300E-04        0.0000E+00
+        1.4000E+01        7.0000E-02        6.8900E-04        0.0000E+00
+        1.5180E+01        7.0000E-02        6.8900E-04        0.0000E+00
+        1.6000E+01        7.0000E-02        6.4300E-04        0.0000E+00
+        1.7000E+01        7.0000E-02        5.9700E-04        0.0000E+00
+        1.8000E+01        7.0000E-02        5.5200E-04        0.0000E+00
+        2.2060E+01        7.0000E-02        3.0300E-04        0.0000E+00

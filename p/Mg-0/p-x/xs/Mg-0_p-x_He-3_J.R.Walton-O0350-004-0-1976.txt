@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 12-MG-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 12 
+#   A: 0 
+#   Nuclide: 12-MG-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.2000e+01 MeV - 4.4500e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0350-004-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-0(P,X)2-HE-3,,SIG) 
+#   First author: J.R.Walton 
+#   Institute:  (1USARIC): Rice University, Houston, TX 
+#   Reference:  (J,JGR,81,5689,1976) 
+#   Year:  1976 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O03/O0350.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0350
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E+01        5.0000E-01        1.2000E-05        7.2000E-06
+        1.2800E+01        5.0000E-01        9.0000E-06        7.2000E-06
+        1.4700E+01        5.0000E-01        2.8000E-05        3.9200E-06
+        1.5300E+01        6.0000E-01        7.0000E-06        4.2000E-06
+        1.6000E+01        4.0000E-01        1.8700E-04        1.6830E-05
+        1.7200E+01        3.0000E-01        6.1000E-04        4.8800E-05
+        1.9300E+01        3.0000E-01        3.3000E-04        4.9500E-05
+        2.1900E+01        6.0000E-01        6.7000E-04        1.0050E-04
+        2.2100E+01        9.0000E-01        2.2000E-03        2.4200E-04
+        2.4600E+01        5.0000E-01        1.4400E-03        2.1600E-04
+        2.6020E+01        0.0000E+00        5.5000E-03        3.8500E-04
+        2.7760E+01        0.0000E+00        8.7000E-03        6.9600E-04
+        3.0480E+01        0.0000E+00        8.7000E-03        9.5700E-04
+        3.2800E+01        0.0000E+00        9.5000E-03        2.1850E-03
+        3.4000E+01        1.0000E+00        1.3000E-02        1.4300E-03
+        3.5600E+01        0.0000E+00        1.2200E-02        1.9520E-03
+        3.7400E+01        1.1000E+00        8.5000E-03        7.6500E-04
+        3.9300E+01        1.5000E+00        1.6500E-02        2.3100E-03
+        4.1570E+01        0.0000E+00        1.3300E-02        1.1970E-03
+        4.4500E+01        0.0000E+00        1.5000E-02        6.0000E-03

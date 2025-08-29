@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 28-NI-60(D,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: D,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  6.3000e+00 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 61 
+#   Nuclide: 29-CU-61 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0076-005-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(D,N)29-CU-61,,SIG) 
+#   First author: M.Cogneau 
+#   Institute:  (2BLGLEU): Katholieke University Leuven, Leuven 
+#   Reference:  (J,NP/A,99,686,1967) 
+#   Year:  1967 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D00/D0076.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0076
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.3000E+00        0.0000E+00        4.6000E-01        9.2000E-02

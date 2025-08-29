@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 3-LI-6(D,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: D,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  2.3480e-02 MeV - 5.1660e-02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2545-004-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(D,A)2-HE-4,,SIG,,SFC) 
+#   First author: K.Fang 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,PR/C,94,054602,2016) 
+#   Year:  2016 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E25/E2545.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2545
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3480E-02        0.0000E+00        2.1330E+07        1.1690E+06
+        2.5330E-02        0.0000E+00        2.0210E+07        7.7940E+05
+        2.7330E-02        0.0000E+00        2.1910E+07        7.3070E+05
+        2.9040E-02        0.0000E+00        1.9770E+07        6.3330E+05
+        3.1010E-02        0.0000E+00        2.1520E+07        7.7940E+05
+        3.2780E-02        0.0000E+00        1.9230E+07        5.8460E+05
+        3.4830E-02        0.0000E+00        1.8840E+07        5.3590E+05
+        3.6630E-02        0.0000E+00        1.9860E+07        5.8460E+05
+        3.8530E-02        0.0000E+00        1.9230E+07        5.8460E+05
+        4.0330E-02        0.0000E+00        1.7960E+07        5.3590E+05
+        4.2200E-02        0.0000E+00        1.8550E+07        6.3330E+05
+        4.4170E-02        0.0000E+00        1.7190E+07        5.8460E+05
+        4.5990E-02        0.0000E+00        1.7330E+07        6.3330E+05
+        4.7890E-02        0.0000E+00        1.7530E+07        6.3330E+05
+        4.9860E-02        0.0000E+00        1.6160E+07        6.3330E+05
+        5.1660E-02        0.0000E+00        1.8790E+07        4.8720E+05

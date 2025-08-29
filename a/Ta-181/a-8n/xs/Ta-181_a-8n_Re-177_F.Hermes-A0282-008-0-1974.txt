@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 73-TA-181(A,8N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+# Reaction: 
+#   Process: A,8N 
+#   MF-MT number: 3 - 161 
+#   Incident energy:  8.5700e+01 MeV - 1.0310e+02 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 177 
+#   Nuclide: 75-RE-177 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0282-008-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-181(A,8N)75-RE-177,,SIG) 
+#   First author: F.Hermes 
+#   Institute:  (2GERBON): University of Bonn 
+#   Reference:  (J,NP/A,228,165,1974) 
+#   Year:  1974 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0282.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0282
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.5700E+01        1.0000E+00        2.3800E-02        4.7600E-03
+        8.9800E+01        1.0000E+00        1.1500E-01        2.3000E-02
+        9.3700E+01        1.0000E+00        2.2700E-01        4.5400E-02
+        9.7500E+01        1.0000E+00        3.0500E-01        6.1000E-02
+        9.9400E+01        1.0000E+00        3.1700E-01        6.3400E-02
+        1.0310E+02        1.0000E+00        3.2300E-01        6.4600E-02

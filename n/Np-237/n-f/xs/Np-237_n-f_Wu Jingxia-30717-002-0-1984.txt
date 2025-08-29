@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 30717-002-0 
-# EXFOR reaction        : (93-NP-237(N,F),,SIG) 
-# incident energy       : 4.0000e+00 MeV - 5.5000e+00 MeV 
-# target                : Np-237 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 18 
-# first author          : Wu Jingxia 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CNP,6,369,1984) 
-# year                  : 1984 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30717.x4 
-# nds                   : https://nds.iaea.org/EXFOR/30717
+# Header: 
+#   Title: 93-NP-237(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 93 
+#   A: 237 
+#   Nuclide: 93-NP-237 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  4.0000e+00 MeV - 5.5000e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30717-002-0 (entry-subentry-pointer) 
+#   Reaction code: (93-NP-237(N,F),,SIG) 
+#   First author: Wu Jingxia 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CNP,6,369,1984) 
+#   Year:  1984 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30717.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30717
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         4.0000E+00        1.9000E-01        1.6080E+00        4.7000E-02

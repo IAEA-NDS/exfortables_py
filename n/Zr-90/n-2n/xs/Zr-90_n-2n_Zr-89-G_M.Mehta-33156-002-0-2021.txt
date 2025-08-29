@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 40-ZR-90(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3970e+01 MeV - 2.0020e+01 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 89 
+#   Nuclide: 40-ZR-89-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33156-002-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(N,2N)40-ZR-89-G,M+,SIG,,SPA) 
+#   First author: M.Mehta 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,JRN,328,71,2021) 
+#   Year:  2021 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33156.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33156
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3970E+01        6.8000E-01        5.1517E-01        7.9507E-02
+        1.6990E+01        5.3000E-01        1.0118E+00        1.5399E-01
+        2.0020E+01        5.8000E-01        1.0911E+00        1.7824E-01

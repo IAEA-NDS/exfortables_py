@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  7.0000e-01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14538-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA) 
+#   First author: L.A.Metz 
+#   Institute:  (1USABNW): Pacific Northwest Laboratories, Richland, WA 
+#   Reference:  (J,JRN,296,763,2013) 
+#   Year:  2013 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/145/14538.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14538
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             38.0             89.0                         4.4200E-02        1.4586E-03
+             39.0             91.0                         5.6900E-02        6.9418E-03
+             40.0             95.0                         6.2000E-02        3.8440E-03
+             40.0             97.0                         5.9900E-02        4.3128E-03
+             42.0             99.0                         6.1100E-02        3.7882E-03
+             44.0            103.0                         3.2100E-02        1.8297E-03
+             47.0            111.0                         3.6600E-04        2.6352E-05
+             48.0            115.0                         2.0600E-04        3.7080E-06
+             53.0            131.0                         3.0700E-02        6.7540E-04
+             53.0            132.0                         4.6600E-02        1.3514E-03
+             55.0            136.0                         9.7800E-05        4.7922E-06
+             55.0            137.0                         6.2600E-02        5.1332E-03
+             57.0            140.0                         6.0600E-02        3.0300E-03
+             58.0            141.0                         5.5800E-02        4.8546E-03
+             58.0            143.0                         5.6600E-02        3.9620E-03
+             58.0            144.0                         5.2600E-02        3.1034E-03
+             60.0            147.0                         2.1400E-02        1.3910E-03
+             62.0            153.0                         1.6000E-03        1.4240E-04
+             63.0            156.0                         2.1200E-04        5.5120E-06
+             65.0            161.0                         2.4900E-06        1.4940E-07

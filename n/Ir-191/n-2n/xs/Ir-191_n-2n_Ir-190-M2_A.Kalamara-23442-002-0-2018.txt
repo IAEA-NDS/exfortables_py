@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 77-IR-191(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 77 
+#   A: 191 
+#   Nuclide: 77-IR-191 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5300e+01 MeV - 2.0900e+01 MeV 
+# Residual: 
+#   Z: 77 
+#   A: 190 
+#   Nuclide: 77-IR-190-M2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23442-002-0 (entry-subentry-pointer) 
+#   Reaction code: (77-IR-191(N,2N)77-IR-190-M2,,SIG) 
+#   First author: A.Kalamara 
+#   Institute:  (2GRCGRC): Greece 
+#   Reference:  (J,PR/C,98,034607,2018) 
+#   Year:  2018 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/234/23442.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23442
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5300E+01        5.0000E-01        1.7600E-01        8.6240E-03
+        1.5300E+01        5.0000E-01        1.8200E-01        8.9180E-03
+        1.7100E+01        3.0000E-01        1.9600E-01        1.9404E-02
+        1.7100E+01        3.0000E-01        2.1000E-01        1.8690E-02
+        1.7900E+01        3.0000E-01        2.1100E-01        1.4137E-02
+        1.7900E+01        3.0000E-01        2.0800E-01        1.4976E-02
+        1.8900E+01        3.0000E-01        1.8200E-01        1.0556E-02
+        1.8900E+01        3.0000E-01        1.7200E-01        1.1180E-02
+        2.0000E+01        2.0000E-01        1.3100E-01        1.4803E-02
+        2.0000E+01        2.0000E-01        1.3800E-01        1.5456E-02
+        2.0900E+01        2.0000E-01        8.4000E-02        7.8960E-03
+        2.0900E+01        2.0000E-01        8.9000E-02        8.5440E-03

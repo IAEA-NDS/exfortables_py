@@ -1,0 +1,50 @@
+# Header: 
+#   Title: 29-CU-65(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.1303e+00 MeV - 3.9312e+00 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 65 
+#   Nuclide: 30-ZN-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0118-007-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(P,N)30-ZN-65,,SIG) 
+#   First author: Z.E.Switkowski 
+#   Institute:  (3AULAML): University of Melbourne, Parkville, Victoria 
+#   Reference:  (J,AUJ,31,253,1978) 
+#   Year:  1978 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D01/D0118.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0118
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.1303E+00        2.0000E-02        2.1322E-04        0.0000E+00
+        2.1884E+00        2.0000E-02        8.3263E-04        0.0000E+00
+        2.2406E+00        2.0000E-02        1.4354E-03        0.0000E+00
+        2.2990E+00        2.0000E-02        2.0803E-03        0.0000E+00
+        2.3470E+00        2.0000E-02        2.7649E-03        0.0000E+00
+        2.4499E+00        2.0000E-02        4.9138E-03        0.0000E+00
+        2.5521E+00        2.0000E-02        7.2520E-03        0.0000E+00
+        2.6343E+00        2.0000E-02        1.0973E-02        0.0000E+00
+        2.7495E+00        2.0000E-02        1.3530E-02        0.0000E+00
+        2.8490E+00        2.0000E-02        2.4347E-02        0.0000E+00
+        2.9508E+00        2.0000E-02        3.0398E-02        0.0000E+00
+        3.0482E+00        2.0000E-02        2.8192E-02        0.0000E+00
+        3.1431E+00        2.0000E-02        3.3292E-02        0.0000E+00
+        3.2380E+00        2.0000E-02        3.9559E-02        0.0000E+00
+        3.3364E+00        2.0000E-02        5.0009E-02        0.0000E+00
+        3.4412E+00        2.0000E-02        5.5503E-02        0.0000E+00
+        3.5396E+00        2.0000E-02        6.9730E-02        0.0000E+00
+        3.6442E+00        2.0000E-02        7.2293E-02        0.0000E+00
+        3.7321E+00        2.0000E-02        8.0748E-02        0.0000E+00
+        3.8335E+00        2.0000E-02        8.9622E-02        0.0000E+00
+        3.9312E+00        2.0000E-02        8.7884E-02        0.0000E+00

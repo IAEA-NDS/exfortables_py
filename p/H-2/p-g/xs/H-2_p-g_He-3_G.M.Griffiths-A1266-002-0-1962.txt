@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 1-H-2(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.7500e-01 MeV - 1.7500e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1266-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(P,G)2-HE-3,,SIG,,,EXP) 
+#   First author: G.M.Griffiths 
+#   Institute:  (1CANUBC): University of British Columbia, Vancouver, B.C. 
+#   Reference:  (J,CJP,40,(4),402,196204) 
+#   Year:  1962 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A12/A1266.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1266
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7500E-01        0.0000E+00        1.0000E-06        1.0000E-07
+        5.8000E-01        0.0000E+00        2.2000E-06        3.0000E-07
+        7.5500E-01        0.0000E+00        2.7000E-06        1.0000E-07
+        9.8500E-01        0.0000E+00        3.5000E-06        4.0000E-07
+        1.7500E+00        0.0000E+00        4.9000E-06        5.0000E-07

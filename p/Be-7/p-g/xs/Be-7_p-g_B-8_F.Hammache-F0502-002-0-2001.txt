@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 4-BE-7(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  0.0000e+00 MeV - 1.8580e-01 MeV 
+# Residual: 
+#   Z: 5 
+#   A: 8 
+#   Nuclide: 5-B-8 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F0502-002-0 (entry-subentry-pointer) 
+#   Reaction code: (4-BE-7(P,G)5-B-8,,SIG,,SFC) 
+#   First author: F.Hammache 
+#   Institute:  (2FR CSN): Centre Sci. Nuclear et Sci. Matiere (CSNSM), Orsay 
+#   Reference:  (J,PRL,86,3985,2001) 
+#   Year:  2001 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F05/F0502.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0502
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        0.0000E+00        0.0000E+00        1.8800E+01        1.7000E+00
+        1.1170E-01        0.0000E+00        1.5800E+01        2.7000E+00
+        1.3470E-01        0.0000E+00        1.9500E+01        3.1000E+00
+        1.8580E-01        0.0000E+00        1.7200E+01        2.1000E+00

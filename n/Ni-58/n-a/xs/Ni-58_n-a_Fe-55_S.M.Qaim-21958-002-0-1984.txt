@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 28-NI-58(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  5.3550e+00 MeV - 9.4930e+00 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 55 
+#   Nuclide: 26-FE-55 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21958-002-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,A)26-FE-55,,SIG) 
+#   First author: S.M.Qaim 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,NSE,88,(2),143,1984) 
+#   Year:  1984 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21958.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21958
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.3550E+00        1.5000E-01        5.1000E-02        7.6000E-03
+        5.9780E+00        9.8000E-02        8.2700E-02        1.2100E-02
+        6.4100E+00        2.2300E-01        9.5600E-02        1.3800E-02
+        6.9530E+00        2.3600E-01        1.0370E-01        1.5000E-02
+        7.4780E+00        2.4700E-01        1.1130E-01        1.6100E-02
+        7.9940E+00        2.5800E-01        1.1340E-01        1.6800E-02
+        8.4990E+00        2.6800E-01        1.2690E-01        1.9300E-02
+        9.1460E+00        2.7800E-01        1.2020E-01        2.1600E-02
+        9.4930E+00        2.8600E-01        1.2740E-01        2.7500E-02

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 40-ZR-90(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 89 
+#   Nuclide: 40-ZR-89 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22020-016-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(N,2N)40-ZR-89,,SIG,,FIS) 
+#   First author: W.Mannhart 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (C,84GEESTH,2,813,8409) 
+#   Year:  1984 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22020.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22020
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+00        0.0000E+00        1.0300E-04        4.0000E-06

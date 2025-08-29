@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 26-FE-56(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 26 
+#   A: 56 
+#   Nuclide: 26-FE-56 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.1000e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 56 
+#   Nuclide: 25-MN-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21650-010-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-56(N,P)25-MN-56,,SIG,,FIS) 
+#   First author: R.Vaenskae 
+#   Institute:  (2SF OUL): University of Oulu, Oulu 
+#   Reference:  (J,ARI,30,513,7908) 
+#   Year:  1979 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21650.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21650
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1000E+01        0.0000E+00        1.6000E-02        4.0000E-03

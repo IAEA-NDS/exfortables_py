@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 62-SM-144(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 62 
+#   A: 144 
+#   Nuclide: 62-SM-144 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3400e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 62 
+#   A: 143 
+#   Nuclide: 62-SM-143-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22311-010-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-144(N,2N)62-SM-143-M,,SIG) 
+#   First author: S.Murahira 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((S,INDC(JPN)-175,171,199603)=(S,JAERI-C-96-008,171,199603)) 
+#   Year:  1996 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22311.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22311
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3400E+01        0.0000E+00        3.5700E-01        1.7850E-02
+        1.3650E+01        0.0000E+00        4.1900E-01        2.1788E-02
+        1.3880E+01        0.0000E+00        4.6200E-01        2.3100E-02
+        1.4280E+01        0.0000E+00        4.9500E-01        2.5740E-02
+        1.4580E+01        0.0000E+00        5.7400E-01        2.9848E-02
+        1.4870E+01        0.0000E+00        5.8700E-01        3.4046E-02

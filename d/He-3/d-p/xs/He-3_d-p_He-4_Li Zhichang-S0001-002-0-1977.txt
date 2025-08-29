@@ -1,17 +1,30 @@
-# entry-subent-pointer  : S0001-002-0 
-# EXFOR reaction        : (2-HE-3(D,P)2-HE-4,,SIG) 
-# incident energy       : 2.2400e-01 MeV - 1.0225e+00 MeV 
-# target                : He-3 
-# product               : He-4 
-# level energy          : - 
-# MF-MT number          : 3 - 103 
-# first author          : Li Zhichang 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,CST,11,229,197708) 
-# year                  : 1977 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S00/S0001.x4 
-# nds                   : https://nds.iaea.org/EXFOR/S0001
+# Header: 
+#   Title: 2-HE-3(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  2.2400e-01 MeV - 1.0225e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: S0001-002-0 (entry-subentry-pointer) 
+#   Reaction code: (2-HE-3(D,P)2-HE-4,,SIG) 
+#   First author: Li Zhichang 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CST,11,229,197708) 
+#   Year:  1977 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S00/S0001.x4 
+#   nds:  https://nds.iaea.org/EXFOR/S0001
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         2.2400E-01        8.0000E-03        1.9900E-01        1.6000E-02

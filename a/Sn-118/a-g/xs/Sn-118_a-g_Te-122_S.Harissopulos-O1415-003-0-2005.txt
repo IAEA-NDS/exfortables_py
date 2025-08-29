@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 50-SN-118(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 118 
+#   Nuclide: 50-SN-118 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  9.9940e+00 MeV - 1.1160e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 122 
+#   Nuclide: 52-TE-122 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1415-003-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-118(A,G)52-TE-122,,SIG) 
+#   First author: S.Harissopulos 
+#   Institute:  (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
+#   Reference:  (J,NP/A,758,505,2005) 
+#   Year:  2005 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O14/O1415.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1415
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.9940E+00        1.5000E-02        2.8000E-06        8.1200E-07
+        1.0190E+01        1.5000E-02        4.8000E-06        1.0080E-06
+        1.0380E+01        1.5000E-02        5.9000E-06        8.8500E-07
+        1.0580E+01        1.5000E-02        8.9000E-06        1.6020E-06
+        1.0760E+01        1.5000E-02        1.3100E-05        1.5720E-06
+        1.0970E+01        1.5000E-02        1.6300E-05        1.9560E-06
+        1.1160E+01        1.5000E-02        3.0000E-05        3.9000E-06

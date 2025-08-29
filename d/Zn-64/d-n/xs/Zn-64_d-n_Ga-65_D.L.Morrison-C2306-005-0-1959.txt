@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 30-ZN-64(D,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: D,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.0600e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 65 
+#   Nuclide: 31-GA-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2306-005-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(D,N)31-GA-65,,SIG) 
+#   First author: D.L.Morrison 
+#   Institute:  (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference:  (J,PR,113,289,1959) 
+#   Year:  1959 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2306.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2306
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0600E+01        0.0000E+00        1.4900E-01        0.0000E+00

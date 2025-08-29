@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 54-XE-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 54 
+#   A: 0 
+#   Nuclide: 54-XE-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.6400e+00 MeV - 1.9890e+01 MeV 
+# Residual: 
+#   Z: 54 
+#   A: 133 
+#   Nuclide: 54-XE-133 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4266-010-0 (entry-subentry-pointer) 
+#   Reaction code: (54-XE-0(D,X)54-XE-133,IND,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,ARI,70,2344,2012) 
+#   Year:  2012 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4266.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4266
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.6400E+00        1.2200E+00        2.7230E-02        5.1500E-03
+        9.5100E+00        1.3800E+00        3.6550E-02        5.2900E-03
+        1.0180E+01        9.1000E-01        4.0900E-02        6.8500E-03
+        1.2320E+01        6.4000E-01        4.1400E-02        6.9200E-03
+        1.3190E+01        9.5000E-01        2.6030E-02        3.6800E-03
+        1.3550E+01        1.1900E+00        3.3880E-02        4.0200E-03
+        1.4220E+01        4.0000E-01        2.9080E-02        7.3400E-03
+        1.5310E+01        9.4000E-01        2.4450E-02        3.6300E-03
+        1.6220E+01        6.1000E-01        1.4810E-02        3.3100E-03
+        1.6940E+01        7.1000E-01        8.6600E-03        1.2600E-03
+        1.8460E+01        5.0000E-01        9.2300E-03        1.2400E-03
+        1.8880E+01        3.0000E-01        1.2520E-02        1.8500E-03
+        1.9890E+01        3.0000E-01        8.6900E-03        1.3500E-03

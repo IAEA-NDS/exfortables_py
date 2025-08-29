@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 28-NI-64(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 64 
+#   Nuclide: 28-NI-64 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 61 
+#   Nuclide: 26-FE-61 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30811-010-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-64(N,A)26-FE-61,,SIG) 
+#   First author: I.Ribansky 
+#   Institute:  (3SLKSLO): Slovak Academy of Sciences, Physics Institute , Bratislava 
+#   Reference:  (J,CZJ/B,35,1128,1985) 
+#   Year:  1985 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/308/30811.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30811
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        2.5000E-01        4.2800E-03        1.5836E-04

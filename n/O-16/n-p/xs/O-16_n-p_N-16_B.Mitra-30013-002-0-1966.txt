@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 8-O-16(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 7 
+#   A: 16 
+#   Nuclide: 7-N-16 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30013-002-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(N,P)7-N-16,,SIG) 
+#   First author: B.Mitra 
+#   Institute:  (3INDBOS): Bose Institute, Kolkata 
+#   Reference:  (J,NP,83,157,1966) 
+#   Year:  1966 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30013.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30013
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        1.0000E-01        4.0100E-02        2.7000E-03

@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 48-CD-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 48 
+#   A: 0 
+#   Nuclide: 48-CD-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  8.9000e+00 MeV - 2.7300e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 114 
+#   Nuclide: 49-IN-114-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1586-002-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-0(D,X)49-IN-114-M,,SIG,,DAM) 
+#   First author: S.J.Nassiff 
+#   Institute:  (3ARGCNE): Comision Nacional de Energia Atomica, Buenos Aires 
+#   Reference:  (J,RPC,13,129,1979) 
+#   Year:  1979 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O15/O1586.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1586
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7300E+01        0.0000E+00        1.1870E-03        8.0000E-05
+        2.6400E+01        0.0000E+00        1.0060E-03        9.0000E-05
+        2.5500E+01        0.0000E+00        9.5400E-04        9.0000E-05
+        2.4500E+01        0.0000E+00        1.0060E-03        9.0000E-05
+        2.3500E+01        0.0000E+00        1.1260E-03        8.0000E-05
+        2.2500E+01        0.0000E+00        1.1260E-03        7.0000E-05
+        2.1400E+01        0.0000E+00        1.2420E-03        8.0000E-05
+        2.0300E+01        0.0000E+00        1.3200E-03        9.0000E-05
+        1.9200E+01        0.0000E+00        1.5170E-03        1.0000E-04
+        1.7900E+01        0.0000E+00        1.3880E-03        1.0000E-04
+        1.6700E+01        0.0000E+00        1.5640E-03        1.0000E-04
+        1.5400E+01        0.0000E+00        1.6470E-03        1.0000E-04
+        1.3900E+01        0.0000E+00        1.5220E-03        1.0000E-04
+        1.2400E+01        0.0000E+00        1.1890E-03        8.0000E-05
+        1.0800E+01        0.0000E+00        7.7600E-04        7.0000E-05
+        8.9000E+00        0.0000E+00        2.7100E-04        4.0000E-05

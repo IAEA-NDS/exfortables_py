@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 40-ZR-94(D,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 40 
+#   A: 94 
+#   Nuclide: 40-ZR-94 
+# Reaction: 
+#   Process: D,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  4.7000e+00 MeV - 1.1460e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 95 
+#   Nuclide: 41-NB-95 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2030-008-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-94(D,N)41-NB-95,,SIG) 
+#   First author: R.Bock 
+#   Institute:  (2GERMPH): Max-Planck-Institut fuer Kernphysik, Heidelberg 
+#   Reference:  (J,ZP,164,546,1961) 
+#   Year:  1961 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2030.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2030
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.7000E+00        0.0000E+00        2.0650E-02        0.0000E+00
+        5.3700E+00        0.0000E+00        5.8070E-02        0.0000E+00
+        5.9900E+00        0.0000E+00        9.9830E-02        0.0000E+00
+        6.6500E+00        0.0000E+00        1.2090E-01        0.0000E+00
+        7.2100E+00        0.0000E+00        1.3150E-01        0.0000E+00
+        8.2400E+00        0.0000E+00        1.2940E-01        0.0000E+00
+        8.7400E+00        0.0000E+00        1.1830E-01        0.0000E+00
+        9.6400E+00        0.0000E+00        1.0520E-01        0.0000E+00
+        1.0120E+01        0.0000E+00        1.0320E-01        0.0000E+00
+        1.1040E+01        0.0000E+00        8.8150E-02        0.0000E+00
+        1.1460E+01        0.0000E+00        8.2340E-02        0.0000E+00

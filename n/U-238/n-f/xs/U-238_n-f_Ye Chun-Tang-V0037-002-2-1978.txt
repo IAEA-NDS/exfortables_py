@@ -1,17 +1,30 @@
-# entry-subent-pointer  : V0037-002-2 
-# EXFOR reaction        : (92-U-238(N,F),,SIG,,,EVAL) 
-# incident energy       : 5.1000e-01 MeV - 2.0000e+01 MeV 
-# target                : U-238 
-# product               : - 
-# level energy          : - 
-# MF-MT number          : 3 - 18 
-# first author          : Ye Chun-Tang 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (R,HSJ-77062,197804) 
-# year                  : 1978 
-# facility              : None 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/V00/V0037.x4 
-# nds                   : https://nds.iaea.org/EXFOR/V0037
+# Header: 
+#   Title: 92-U-238(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  5.1000e-01 MeV - 2.0000e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: V0037-002-2 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,F),,SIG,,,EVAL) 
+#   First author: Ye Chun-Tang 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (R,HSJ-77062,197804) 
+#   Year:  1978 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/V00/V0037.x4 
+#   nds:  https://nds.iaea.org/EXFOR/V0037
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         5.1000E-01        0.0000E+00        5.4000E-04        1.3500E-04

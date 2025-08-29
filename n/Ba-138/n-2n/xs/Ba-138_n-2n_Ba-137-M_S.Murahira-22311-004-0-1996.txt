@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 56-BA-138(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 56 
+#   A: 138 
+#   Nuclide: 56-BA-138 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3400e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 56 
+#   A: 137 
+#   Nuclide: 56-BA-137-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22311-004-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-138(N,2N)56-BA-137-M,,SIG) 
+#   First author: S.Murahira 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((S,INDC(JPN)-175,171,199603)=(S,JAERI-C-96-008,171,199603)) 
+#   Year:  1996 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22311.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22311
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3400E+01        0.0000E+00        8.7700E-01        3.5957E-02
+        1.3650E+01        0.0000E+00        9.4500E-01        4.0635E-02
+        1.3880E+01        0.0000E+00        9.6700E-01        4.2548E-02
+        1.4280E+01        0.0000E+00        9.6300E-01        4.6224E-02
+        1.4580E+01        0.0000E+00        9.7500E-01        4.2900E-02
+        1.4870E+01        0.0000E+00        9.8300E-01        4.3252E-02

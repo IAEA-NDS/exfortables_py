@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 42-MO-92(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 92 
+#   Nuclide: 42-MO-92 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2790e+01 MeV - 1.8230e+01 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 91 
+#   Nuclide: 42-MO-91 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20614-012-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-92(N,2N)42-MO-91,,SIG) 
+#   First author: M.Bormann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (J,ZP/A,277,203,7606) 
+#   Year:  1976 
+#   Facility:  (VDG  ): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20614
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2790E+01        6.0000E-02        6.0000E-03        2.0000E-03
+        1.3380E+01        7.0000E-02        5.1000E-02        4.0000E-03
+        1.4040E+01        8.0000E-02        1.5400E-01        1.2000E-02
+        1.4550E+01        9.0000E-02        2.2800E-01        1.6000E-02
+        1.5360E+01        1.0000E-01        4.3300E-01        3.2000E-02
+        1.5920E+01        1.1000E-01        5.6500E-01        3.7000E-02
+        1.6450E+01        1.1000E-01        6.6300E-01        4.2000E-02
+        1.6940E+01        1.1000E-01        7.5400E-01        4.8000E-02
+        1.7560E+01        1.1000E-01        8.2700E-01        5.6000E-02
+        1.8230E+01        1.2000E-01        9.2700E-01        6.4000E-02

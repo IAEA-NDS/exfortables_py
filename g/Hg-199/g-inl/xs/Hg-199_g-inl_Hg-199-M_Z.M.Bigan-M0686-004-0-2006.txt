@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 80-HG-199(G,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 80 
+#   A: 199 
+#   Nuclide: 80-HG-199 
+# Reaction: 
+#   Process: G,INL 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.0000e+00 MeV - 9.5000e+00 MeV 
+# Residual: 
+#   Z: 80 
+#   A: 199 
+#   Nuclide: 80-HG-199-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M0686-004-0 (entry-subentry-pointer) 
+#   Reaction code: (80-HG-199(G,INL)80-HG-199-M,,SIG,,BRS) 
+#   First author: Z.M.Bigan 
+#   Institute:  (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+#   Reference:  (J,IZV,70,255,2006) 
+#   Year:  2006 
+#   Facility:  (MICRT): Microtron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M06/M0686.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0686
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+00        0.0000E+00        2.1000E-05        2.1000E-05
+        4.5000E+00        0.0000E+00        7.0000E-05        2.2000E-05
+        5.0000E+00        0.0000E+00        1.5300E-04        3.4000E-05
+        5.5000E+00        0.0000E+00        1.6800E-04        3.6000E-05
+        6.0000E+00        0.0000E+00        2.4400E-04        4.5000E-05
+        6.5000E+00        0.0000E+00        2.8100E-04        4.2000E-05
+        7.0000E+00        0.0000E+00        2.9600E-04        4.2000E-05
+        7.5000E+00        0.0000E+00        5.9000E-05        4.6000E-05
+        8.0000E+00        0.0000E+00        6.1000E-05        6.1000E-05
+        8.5000E+00        0.0000E+00        5.2000E-05        5.2000E-05
+        9.0000E+00        0.0000E+00        7.7000E-05        5.2000E-05
+        9.5000E+00        0.0000E+00        9.4000E-05        5.8000E-05

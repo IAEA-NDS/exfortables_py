@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 24-CR-0(N,EL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 24 
+#   A: 0 
+#   Nuclide: 24-CR-0 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 3 - 2 
+#   Incident energy:  2.0000e+00 MeV - 3.0000e+00 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 0 
+#   Nuclide: 24-CR-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41305-003-0 (entry-subentry-pointer) 
+#   Reaction code: (24-CR-0(N,EL)24-CR-0,,SIG) 
+#   First author: M.V.Pasechnik 
+#   Institute:  (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+#   Reference:  (J,YF,11,958,1970) 
+#   Year:  1970 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/413/41305.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41305
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+00        0.0000E+00        2.7260E+00        4.9000E-02
+        2.5000E+00        0.0000E+00        2.5370E+00        2.0000E-01
+        3.0000E+00        0.0000E+00        2.3490E+00        1.3000E-01

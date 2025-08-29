@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 77-IR-191(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 77 
+#   A: 191 
+#   Nuclide: 77-IR-191 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.6699e+01 MeV - 3.7481e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 194 
+#   Nuclide: 79-AU-194 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0142-002-0 (entry-subentry-pointer) 
+#   Reaction code: (77-IR-191(A,N)79-AU-194,,SIG) 
+#   First author: M.K.Bhardwaj 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  (J,PR/C,45,2338,1992) 
+#   Year:  1992 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D01/D0142.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0142
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6699E+01        0.0000E+00        4.4810E-02        8.0551E-03
+        1.8297E+01        0.0000E+00        5.7610E-02        8.7706E-03
+        2.1015E+01        0.0000E+00        5.6204E-02        7.0443E-03
+        2.4781E+01        0.0000E+00        3.2600E-02        6.1647E-03
+        2.6816E+01        0.0000E+00        2.1293E-02        5.8852E-03
+        2.9194E+01        0.0000E+00        1.9818E-02        5.0827E-03
+        3.1369E+01        0.0000E+00        2.2995E-02        5.0015E-03
+        3.4935E+01        0.0000E+00        2.0405E-02        4.4381E-03
+        3.7481E+01        0.0000E+00        1.6224E-02        5.3150E-03

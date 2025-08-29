@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 28-NI-58(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  2.8700e+00 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33024-002-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,P)27-CO-58,,SIG) 
+#   First author: M.Bhike 
+#   Institute:  (3INDTAT): Tata Institute of Fundamental Research, Mumbai 
+#   Reference:  (C,2006MANGAL,,(TP15),2006) 
+#   Year:  2006 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33024.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33024
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.8700E+00        3.0000E-02        1.3000E-01        1.7600E-02

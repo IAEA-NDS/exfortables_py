@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 82-PB-204(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 82 
+#   A: 204 
+#   Nuclide: 82-PB-204 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5000e+01 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 203 
+#   Nuclide: 82-PB-203-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30069-006-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-204(N,2N)82-PB-203-M,,SIG) 
+#   First author: G.Peto 
+#   Institute:  (3HUNKOS): University of Debrecen, Debrecen 
+#   Reference:  (J,AHP,25,91,1968) 
+#   Year:  1968 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30069.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30069
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5000E+01        3.0000E-01        8.6000E-01        1.8000E-01

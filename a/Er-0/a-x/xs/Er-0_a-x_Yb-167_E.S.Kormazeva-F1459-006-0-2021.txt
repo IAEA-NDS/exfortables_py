@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 68-ER-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 68 
+#   A: 0 
+#   Nuclide: 68-ER-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.6800e+01 MeV - 5.9100e+01 MeV 
+# Residual: 
+#   Z: 70 
+#   A: 167 
+#   Nuclide: 70-YB-167 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1459-006-0 (entry-subentry-pointer) 
+#   Reaction code: (68-ER-0(A,X)70-YB-167,,SIG) 
+#   First author: E.S.Kormazeva 
+#   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference:  (J,ARI,177,109919,2021) 
+#   Year:  2021 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F14/F1459.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1459
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6800E+01        1.7000E+00        2.1410E-01        3.7800E-02
+        3.9100E+01        1.5000E+00        2.6680E-01        4.1800E-02
+        4.1300E+01        1.4000E+00        3.0360E-01        4.9100E-02
+        4.4100E+01        1.4000E+00        2.1750E-01        3.0800E-02
+        4.6500E+01        1.1000E+00        2.7380E-01        3.8300E-02
+        4.8900E+01        1.0000E+00        2.4900E-01        3.0800E-02
+        5.1300E+01        9.0000E-01        2.5870E-01        3.4000E-02
+        5.4200E+01        8.0000E-01        2.3290E-01        1.9800E-02
+        5.6600E+01        6.0000E-01        2.2550E-01        1.9800E-02
+        5.9100E+01        6.0000E-01        1.8370E-01        2.1900E-02

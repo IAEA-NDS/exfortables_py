@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 38-SR-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 38 
+#   A: 0 
+#   Nuclide: 38-SR-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.5400e+01 MeV - 1.6000e+03 MeV 
+# Residual: 
+#   Z: 36 
+#   A: 82 
+#   Nuclide: 36-KR-82 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0505-039-0 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-0(P,X)36-KR-82,CUM,SIG) 
+#   First author: E.Gilabert 
+#   Institute:  (2FR GRA): Centre d'Etudes Nucleaires de Bordeaux-Gradignan 
+#   Reference:  (J,NIM/B,145,293,1998) 
+#   Year:  1998 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0505.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0505
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5400E+01        5.0000E+00        9.7000E-05        8.3000E-05
+        4.1800E+01        2.2000E+00        1.0500E-02        7.0000E-04
+        4.4200E+01        2.7000E+00        8.1300E-03        9.1000E-04
+        6.5700E+01        2.1000E+00        6.1700E-02        3.4000E-03
+        1.3500E+02        2.0000E+00        1.0500E-01        6.0000E-03
+        1.4600E+02        2.0000E+00        1.0400E-01        6.0000E-03
+        1.5800E+02        1.0000E+00        1.0500E-01        2.2000E-02
+        2.2400E+02        2.0000E+00        8.3800E-02        9.9000E-03
+        3.3600E+02        2.0000E+00        7.5000E-02        4.5000E-03
+        3.7300E+02        2.0000E+00        8.8400E-02        1.8400E-02
+        5.7400E+02        1.0000E+00        7.3200E-02        4.0000E-03
+        7.7600E+02        1.0000E+00        6.0800E-02        3.3000E-03
+        1.2000E+03        2.0000E+01        5.3000E-02        2.9000E-03
+        1.6000E+03        2.0000E+01        4.8600E-02        2.7000E-03

@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32815-003-0 
-# EXFOR reaction        : (94-PU-239(N,2N)94-PU-238,,SIG,,,DERIV) 
-# incident energy       : 5.8700e+00 MeV - 1.9760e+01 MeV 
-# target                : Pu-239 
-# product               : Pu-238 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Nanru Ma 
-# institute             : (3CPRAEP): China Institute of Atomic Energy, Beijing 
-# reference             : (J,EPJ/CS,239,01007,2020) 
-# year                  : 2020 
-# facility              : (VDGT): Tandem van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32815.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32815
+# Header: 
+#   Title: 94-PU-239(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 94 
+#   A: 239 
+#   Nuclide: 94-PU-239 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  5.8700e+00 MeV - 1.9760e+01 MeV 
+# Residual: 
+#   Z: 94 
+#   A: 238 
+#   Nuclide: 94-PU-238 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32815-003-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-239(N,2N)94-PU-238,,SIG,,,DERIV) 
+#   First author: Nanru Ma 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,EPJ/CS,239,01007,2020) 
+#   Year:  2020 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32815.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32815
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         5.8700E+00        0.0000E+00        2.6080E-01        2.5982E-01

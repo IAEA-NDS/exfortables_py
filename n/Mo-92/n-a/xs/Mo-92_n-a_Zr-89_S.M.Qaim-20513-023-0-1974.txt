@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 42-MO-92(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 92 
+#   Nuclide: 42-MO-92 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 89 
+#   Nuclide: 40-ZR-89 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20513-023-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-92(N,A)40-ZR-89,,SIG) 
+#   First author: S.M.Qaim 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (R,EUR-5182,939,1974) 
+#   Year:  1974 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20513.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20513
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        2.5000E-02        3.0000E-03

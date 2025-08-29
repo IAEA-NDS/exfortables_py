@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 29-CU-0(N,X)  Differential with energy of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 5 - None 
+#   Incident energy:  8.0700e+00 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 1 
+#   Nuclide: 0-NN-1 
+#   Level energy: 1.5000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 22974-026-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(N,X)0-NN-1,EM,DE) 
+#   First author: D.Schmidt 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (R,PTB-N-52,2006) 
+#   Year:  2006 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22974.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22974
+#
+#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+        1.5000E+00        0.0000E+00        3.9971E-07        1.1751E-08
+        1.7500E+00        0.0000E+00        3.7704E-07        1.0746E-08
+        2.0000E+00        0.0000E+00        3.5010E-07        9.8728E-09
+        2.2500E+00        0.0000E+00        3.2373E-07        9.1939E-09
+        2.5000E+00        0.0000E+00        2.8982E-07        6.2021E-09
+        2.7500E+00        0.0000E+00        2.5343E-07        5.3981E-09
+        3.0000E+00        0.0000E+00        2.1405E-07        4.5593E-09
+        3.2500E+00        0.0000E+00        1.9540E-07        4.1620E-09
+        3.5000E+00        0.0000E+00        1.6351E-07        3.6136E-09
+        3.7500E+00        0.0000E+00        1.2546E-07        2.9232E-09
+        4.0000E+00        0.0000E+00        1.1519E-07        2.4535E-09
+        4.5000E+00        0.0000E+00        7.5345E-08        1.7480E-09
+        5.0000E+00        0.0000E+00        6.5430E-08        1.5638E-09
+        5.5000E+00        0.0000E+00        3.6628E-08        1.1465E-09
+        6.0000E+00        0.0000E+00        1.5061E-08        4.3225E-10

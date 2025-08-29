@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31452-002-0 
-# EXFOR reaction        : (62-SM-152(N,G)62-SM-153,,SIG) 
-# incident energy       : 2.2000e-02 MeV - 1.0190e+00 MeV 
-# target                : Sm-152 
-# product               : Sm-153 
-# level energy          : - 
-# MF-MT number          : 3 - 102 
-# first author          : Luo Xiaobing 
-# institute             : (3CPRSIU): Sichuan University , Chengdu 
-# reference             : (J,CNP,16,275,1994) 
-# year                  : 1994 
-# facility              : (VDG): Van de Graaff 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31452.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31452
+# Header: 
+#   Title: 62-SM-152(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 62 
+#   A: 152 
+#   Nuclide: 62-SM-152 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.2000e-02 MeV - 1.0190e+00 MeV 
+# Residual: 
+#   Z: 62 
+#   A: 153 
+#   Nuclide: 62-SM-153 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31452-002-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-152(N,G)62-SM-153,,SIG) 
+#   First author: Luo Xiaobing 
+#   Institute:  (3CPRSIU): Sichuan University , Chengdu 
+#   Reference:  (J,CNP,16,275,1994) 
+#   Year:  1994 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31452.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31452
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         2.2000E-02        0.0000E+00        5.7810E-01        3.1900E-02

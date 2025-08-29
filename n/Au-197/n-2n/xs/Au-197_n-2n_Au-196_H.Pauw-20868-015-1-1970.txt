@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 79-AU-197(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  4.5000e+00 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 196 
+#   Nuclide: 79-AU-196 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20868-015-1 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,2N)79-AU-196,,SIG,,SPA) 
+#   First author: H.Pauw 
+#   Institute:  (2NEDAMS): University of Amsterdam, Amsterdam 
+#   Reference:  ((R,INDC(NED)-3,1970)=(R,INDC-430,1970)) 
+#   Year:  1970 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20868.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20868
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.5000E+00        0.0000E+00        3.7600E-02        8.0000E-04
+        4.5000E+00        0.0000E+00        3.0800E-02        7.0000E-04

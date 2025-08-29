@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 48-CD-111(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 48 
+#   A: 111 
+#   Nuclide: 48-CD-111 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.1200e+00 MeV - 4.1200e+00 MeV 
+# Residual: 
+#   Z: 48 
+#   A: 111 
+#   Nuclide: 48-CD-111-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33086-003-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-111(N,INL)48-CD-111-M,,SIG,,,DERIV) 
+#   First author: R.Ghosh 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,JRN,307,1481,2016) 
+#   Year:  2016 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33086.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33086
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1200E+00        1.1000E-01        1.3731E-01        1.3270E-02
+        2.1200E+00        1.5000E-01        2.3568E-01        2.0550E-02
+        3.1200E+00        2.1000E-01        3.3538E-01        1.7890E-02
+        4.1200E+00        2.2000E-01        4.3681E-01        3.3980E-02

@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 29-CU-0(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.3000e-08 MeV - 2.7000e-07 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10501-011-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(N,G),,SIG) 
+#   First author: S.S.Malik 
+#   Institute:  (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference:  (J,NIM,86,83,1970) 
+#   Year:  1970 
+#   Facility:  (SPECC): Crystal spectrometer 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10501.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10501
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3000E-08        0.0000E+00        3.2500E+00        1.0000E-01
+        7.5000E-08        0.0000E+00        2.3300E+00        5.0000E-02
+        1.1500E-07        0.0000E+00        1.8200E+00        5.0000E-02
+        2.7000E-07        0.0000E+00        1.2500E+00        5.0000E-02

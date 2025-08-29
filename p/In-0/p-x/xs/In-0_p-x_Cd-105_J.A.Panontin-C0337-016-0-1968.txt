@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 49-IN-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 49 
+#   A: 0 
+#   Nuclide: 49-IN-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.0000e+02 MeV - 4.0000e+02 MeV 
+# Residual: 
+#   Z: 48 
+#   A: 105 
+#   Nuclide: 48-CD-105 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0337-016-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-0(P,X)48-CD-105,,SIG) 
+#   First author: J.A.Panontin 
+#   Institute:  (1USAPUR): Purdue University, West Lafayette, IN 
+#   Reference:  (J,PR,165,1273,1968) 
+#   Year:  1968 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0337.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0337
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+02        0.0000E+00        1.5700E-02        4.0000E-04
+        4.0000E+02        0.0000E+00        1.3500E-02        5.0000E-04

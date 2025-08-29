@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 23-V-50(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 23 
+#   A: 50 
+#   Nuclide: 23-V-50 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4300e+01 MeV 
+# Residual: 
+#   Z: 23 
+#   A: 49 
+#   Nuclide: 23-V-49 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13166-002-0 (entry-subentry-pointer) 
+#   Reaction code: (23-V-50(N,2N)23-V-49,,SIG) 
+#   First author: L.R.Greenwood 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (C,90STRASB,,437,1990) 
+#   Year:  1990 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13166.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13166
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4300E+01        0.0000E+00        2.5800E-01        3.9000E-02

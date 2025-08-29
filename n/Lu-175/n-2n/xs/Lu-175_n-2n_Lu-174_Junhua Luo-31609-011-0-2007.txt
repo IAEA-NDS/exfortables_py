@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 31609-011-0 
-# EXFOR reaction        : (71-LU-175(N,2N)71-LU-174,,SIG) 
-# incident energy       : 1.4100e+01 MeV - 1.4600e+01 MeV 
-# target                : Lu-175 
-# product               : Lu-174 
-# level energy          : - 
-# MF-MT number          : 3 - 16 
-# first author          : Junhua Luo 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,NIM/B,265,453,2007) 
-# year                  : 2007 
-# facility              : (NGEN): Neutron generator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31609.x4 
-# nds                   : https://nds.iaea.org/EXFOR/31609
+# Header: 
+#   Title: 71-LU-175(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 71 
+#   A: 175 
+#   Nuclide: 71-LU-175 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4100e+01 MeV - 1.4600e+01 MeV 
+# Residual: 
+#   Z: 71 
+#   A: 174 
+#   Nuclide: 71-LU-174 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31609-011-0 (entry-subentry-pointer) 
+#   Reaction code: (71-LU-175(N,2N)71-LU-174,,SIG) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,NIM/B,265,453,2007) 
+#   Year:  2007 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31609.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31609
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.4100E+01        2.0000E-01        1.7110E+00        1.0300E-01

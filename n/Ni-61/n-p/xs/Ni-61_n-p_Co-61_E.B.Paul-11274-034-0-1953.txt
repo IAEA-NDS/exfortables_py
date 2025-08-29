@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 28-NI-61(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 28 
+#   A: 61 
+#   Nuclide: 28-NI-61 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4500e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 61 
+#   Nuclide: 27-CO-61 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11274-034-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-61(N,P)27-CO-61,,SIG) 
+#   First author: E.B.Paul 
+#   Institute:  (1CANCRC): A.E.C.L., Chalk River, Ontario 
+#   Reference:  (J,CJP,31,267,1953) 
+#   Year:  1953 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11274.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11274
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        0.0000E+00        1.8150E-01        2.5410E-02

@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 8-O-16(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.9000e-01 MeV - 5.4900e-01 MeV 
+# Residual: 
+#   Z: 8 
+#   A: 17 
+#   Nuclide: 8-O-17 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 23298-002-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(N,G)8-O-17,PAR,SIG) 
+#   First author: T.Matsushima 
+#   Institute:  (2JPNJPN): Japan 
+#   Reference:  (T,MATSUSHIMA,200303) 
+#   Year:  2003 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23298.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23298
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.9000E-01        5.3000E-02        1.0180E-04        9.4000E-06
+        4.2800E-01        4.6000E-02        2.3910E-04        2.1800E-05
+        4.7000E-01        5.7000E-02        4.4000E-05        2.7000E-06
+        5.4900E-01        5.6000E-02        1.3000E-06        1.0000E-07

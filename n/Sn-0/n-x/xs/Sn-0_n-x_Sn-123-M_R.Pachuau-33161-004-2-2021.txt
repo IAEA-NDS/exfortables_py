@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 50-SN-0(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 50 
+#   A: 0 
+#   Nuclide: 50-SN-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4500e+01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 123 
+#   Nuclide: 50-SN-123-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33161-004-2 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-0(N,X)50-SN-123-M,,SIG) 
+#   First author: R.Pachuau 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,EPJ/A,57,268,2021) 
+#   Year:  2021 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33161.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33161
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4500E+01        4.0000E-01        4.4090E-02        1.8400E-03

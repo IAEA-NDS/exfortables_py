@@ -1,17 +1,30 @@
-# entry-subent-pointer  : 32514-002-0 
-# EXFOR reaction        : (56-BA-0(N,X)55-CS-134,,SIG) 
-# incident energy       : 1.3500e+01 MeV - 1.4800e+01 MeV 
-# target                : Ba-0 
-# product               : Cs-134 
-# level energy          : - 
-# MF-MT number          : 3 - 10 
-# first author          : Kong Xiangzhong 
-# institute             : (3CPRLNZ): Lanzhou University , Lanzhou 
-# reference             : (J,PHE,19,781,1995) 
-# year                  : 1995 
-# facility              : (NGEN): Neutron generator 
-# git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32514.x4 
-# nds                   : https://nds.iaea.org/EXFOR/32514
+# Header: 
+#   Title: 56-BA-0(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 56 
+#   A: 0 
+#   Nuclide: 56-BA-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 55 
+#   A: 134 
+#   Nuclide: 55-CS-134 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32514-002-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-0(N,X)55-CS-134,,SIG) 
+#   First author: Kong Xiangzhong 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,PHE,19,781,1995) 
+#   Year:  1995 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32514.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32514
 #
 #       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
         1.3500E+01        7.0000E-02        6.2500E-04        3.1000E-05

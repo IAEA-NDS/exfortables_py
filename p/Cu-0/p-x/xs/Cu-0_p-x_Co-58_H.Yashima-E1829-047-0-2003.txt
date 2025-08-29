@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 29-CU-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.7000e+01 MeV - 2.0200e+02 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1829-047-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(P,X)27-CO-58,,SIG) 
+#   First author: H.Yashima 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,RCA,91,689,2003) 
+#   Year:  2003 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E18/E1829.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1829
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7000E+01        0.0000E+00        2.3615E-02        5.7100E-04
+        4.8000E+01        0.0000E+00        3.1502E-02        7.6200E-04
+        6.3000E+01        0.0000E+00        3.2367E-02        7.8300E-04
+        7.6000E+01        0.0000E+00        4.6606E-02        1.1280E-03
+        8.8000E+01        0.0000E+00        4.4347E-02        1.0730E-03
+        1.0000E+02        0.0000E+00        5.0538E-02        1.4760E-03
+        1.3900E+02        0.0000E+00        4.8268E-02        1.4090E-03
+        1.7300E+02        0.0000E+00        4.4056E-02        1.2860E-03
+        2.0200E+02        0.0000E+00        4.2755E-02        1.2480E-03

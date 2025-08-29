@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 8-O-16(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.6700e+01 MeV - 3.2820e+01 MeV 
+# Residual: 
+#   Z: 8 
+#   A: 15 
+#   Nuclide: 8-O-15 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0316-008-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(P,X)8-O-15,,SIG) 
+#   First author: M.Sajjad 
+#   Institute:  (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference:  (J,RCA,38,57,1985) 
+#   Year:  1985 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A03/A0316.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0316
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.6700E+01        5.0000E-01        6.4300E-03        4.5010E-04
+        1.7700E+01        5.0000E-01        1.1800E-02        8.2600E-04
+        1.8720E+01        5.0000E-01        9.3600E-03        6.5520E-04
+        1.9730E+01        5.0000E-01        2.0700E-02        1.4490E-03
+        2.0740E+01        5.0000E-01        2.2900E-02        1.6030E-03
+        2.1750E+01        5.0000E-01        2.7350E-02        1.9145E-03
+        2.2760E+01        5.0000E-01        3.7400E-02        2.6180E-03
+        2.3760E+01        5.0000E-01        4.7150E-02        3.3005E-03
+        2.4770E+01        5.0000E-01        6.0000E-02        4.2000E-03
+        2.5780E+01        5.0000E-01        6.2500E-02        4.3750E-03
+        2.6780E+01        5.0000E-01        6.5400E-02        4.5780E-03
+        2.7800E+01        5.0000E-01        6.9900E-02        4.8930E-03
+        2.8800E+01        5.0000E-01        7.5300E-02        5.2710E-03
+        2.9800E+01        5.0000E-01        7.5500E-02        5.2850E-03
+        3.2820E+01        5.0000E-01        7.6100E-02        5.3270E-03

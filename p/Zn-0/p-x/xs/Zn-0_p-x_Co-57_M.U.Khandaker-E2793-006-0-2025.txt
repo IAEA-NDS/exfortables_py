@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 30-ZN-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 30 
+#   A: 0 
+#   Nuclide: 30-ZN-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.9700e+01 MeV - 2.9770e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 57 
+#   Nuclide: 27-CO-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2793-006-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-0(P,X)27-CO-57,,SIG) 
+#   First author: M.U.Khandaker 
+#   Institute:  (3MALMAL): Malaysia 
+#   Reference:  (J,RPC,226,112272,2025) 
+#   Year:  2025 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E27/E2793.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2793
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9770E+01        2.2000E-01        3.3900E-03        4.1000E-04
+        2.8890E+01        2.2000E-01        3.2100E-03        4.2000E-04
+        2.7980E+01        2.3000E-01        2.9400E-03        4.3000E-04
+        2.7060E+01        2.3000E-01        2.7400E-03        4.5000E-04
+        2.6100E+01        2.4000E-01        2.7700E-03        5.1000E-04
+        2.5120E+01        2.5000E-01        2.1900E-03        4.6000E-04
+        2.4120E+01        2.5000E-01        1.7200E-03        4.3000E-04
+        2.3060E+01        2.6000E-01        1.5600E-03        4.8000E-04
+        2.1980E+01        2.7000E-01        1.2200E-03        3.7000E-04
+        2.0850E+01        2.8000E-01        8.1000E-04        2.5000E-04
+        1.9700E+01        3.0000E-01        2.7000E-04        2.0000E-04

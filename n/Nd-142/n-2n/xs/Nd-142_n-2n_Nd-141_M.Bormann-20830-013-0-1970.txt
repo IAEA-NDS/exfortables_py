@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 60-ND-142(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 60 
+#   A: 142 
+#   Nuclide: 60-ND-142 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2920e+01 MeV - 1.8020e+01 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 141 
+#   Nuclide: 60-ND-141 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20830-013-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-142(N,2N)60-ND-141,,SIG) 
+#   First author: M.Bormann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (J,NP/A,157,481,197011) 
+#   Year:  1970 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20830.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20830
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2920E+01        1.0000E-01        1.2300E+00        1.1900E-01
+        1.3420E+01        1.2000E-01        1.3400E+00        1.3000E-01
+        1.4100E+01        1.4000E-01        1.5400E+00        1.5000E-01
+        1.4660E+01        1.5000E-01        1.5250E+00        1.4800E-01
+        1.5190E+01        1.6000E-01        1.5700E+00        1.5500E-01
+        1.5790E+01        1.6000E-01        1.6950E+00        1.6500E-01
+        1.6360E+01        1.6000E-01        1.7850E+00        1.7200E-01
+        1.7040E+01        1.6000E-01        1.7400E+00        1.6700E-01
+        1.7560E+01        1.4000E-01        1.7100E+00        1.6200E-01
+        1.8020E+01        1.3000E-01        1.7400E+00        1.6500E-01

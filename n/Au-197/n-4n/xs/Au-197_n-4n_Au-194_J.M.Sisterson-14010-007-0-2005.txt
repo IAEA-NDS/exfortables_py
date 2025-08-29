@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 79-AU-197(N,4N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,4N 
+#   MF-MT number: 3 - 37 
+#   Incident energy:  3.7535e+02 MeV - 3.7625e+02 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 194 
+#   Nuclide: 79-AU-194 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14010-007-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,4N)79-AU-194,,SIG,,SPA) 
+#   First author: J.M.Sisterson 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,NIM/B,234,419,2005) 
+#   Year:  2005 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/140/14010.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14010
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.7535E+02        0.0000E+00        1.3100E-01        1.5000E-02
+        3.7562E+02        0.0000E+00        1.1300E-01        1.3000E-02
+        3.7625E+02        0.0000E+00        1.4500E-01        1.7000E-02

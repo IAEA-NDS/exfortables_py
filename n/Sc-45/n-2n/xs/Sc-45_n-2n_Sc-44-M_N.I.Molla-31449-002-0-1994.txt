@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 21-SC-45(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 21 
+#   A: 45 
+#   Nuclide: 21-SC-45 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3900e+01 MeV - 1.4710e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 44 
+#   Nuclide: 21-SC-44-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31449-002-0 (entry-subentry-pointer) 
+#   Reaction code: (21-SC-45(N,2N)21-SC-44-M,,SIG) 
+#   First author: N.I.Molla 
+#   Institute:  (3BANSAV): Institute Nuclear Science & Technology, AERE, Savar, Dhaka 
+#   Reference:  (C,94GATLIN,2,938,199405) 
+#   Year:  1994 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31449.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31449
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3900E+01        0.0000E+00        1.1140E-01        1.2000E-02
+        1.4310E+01        0.0000E+00        1.2470E-01        1.3000E-02
+        1.4570E+01        0.0000E+00        1.3100E-01        1.3400E-02
+        1.4710E+01        0.0000E+00        1.4720E-01        1.4400E-02

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 22-TI-47(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 22 
+#   A: 47 
+#   Nuclide: 22-TI-47 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 47 
+#   Nuclide: 21-SC-47 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11484-006-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-47(N,P)21-SC-47,,SIG) 
+#   First author: A.Poularikas 
+#   Institute:  (1USAARK): University of Arkansas, Fayetteville, AR 
+#   Reference:  (J,PR,115,989,59) 
+#   Year:  1959 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11484.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11484
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4800E+01        9.0000E-01        2.3000E-01        4.0000E-02

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 43-TC-99(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 43 
+#   A: 99 
+#   Nuclide: 43-TC-99 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 100 
+#   Nuclide: 43-TC-100 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: V1001-408-1 (entry-subentry-pointer) 
+#   Reaction code: (43-TC-99(N,G)43-TC-100,,SIG,,,RECOM) 
+#   First author: S.F.Mughabghab 
+#   Institute:  (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference:  (B,NEUT.RES,,,2006) 
+#   Year:  2006 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/V10/V1001.x4 
+#   nds:  https://nds.iaea.org/EXFOR/V1001
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        2.2800E+01        1.3000E+00

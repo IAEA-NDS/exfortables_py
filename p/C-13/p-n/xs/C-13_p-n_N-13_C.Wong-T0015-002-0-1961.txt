@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 6-C-13(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 6 
+#   A: 13 
+#   Nuclide: 6-C-13 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  5.0570e+00 MeV - 1.3340e+01 MeV 
+# Residual: 
+#   Z: 7 
+#   A: 13 
+#   Nuclide: 7-N-13 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: T0015-002-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-13(P,N)7-N-13,,SIG) 
+#   First author: C.Wong 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR,123,598,1961) 
+#   Year:  1961 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T00/T0015.x4 
+#   nds:  https://nds.iaea.org/EXFOR/T0015
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.0570E+00        1.8900E-01        1.3610E-01        1.4615E-02
+        6.4600E+00        2.3700E-01        1.9687E-01        1.9799E-02
+        6.8650E+00        2.8400E-01        2.2798E-01        2.2162E-02
+        7.5200E+00        2.8400E-01        1.2328E-01        1.2258E-02
+        8.0680E+00        2.6000E-01        1.6099E-01        1.5561E-02
+        8.6850E+00        2.6000E-01        1.7700E-01        1.8861E-02
+        8.8720E+00        4.0300E-01        1.4587E-01        1.4148E-02
+        9.3420E+00        4.2600E-01        1.0153E-01        1.0373E-02
+        1.0119E+01        3.5500E-01        4.3511E-02        5.6610E-03
+        1.0996E+01        3.0800E-01        5.0083E-02        5.6600E-03
+        1.1398E+01        3.0800E-01        3.8282E-02        5.1880E-03
+        1.2132E+01        2.8400E-01        3.6371E-02        4.2450E-03
+        1.3340E+01        2.6000E-01        3.3501E-02        5.6570E-03

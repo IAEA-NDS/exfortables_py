@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 69-TM-169(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 69 
+#   A: 169 
+#   Nuclide: 69-TM-169 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  3.3000e+00 MeV - 7.0000e+00 MeV 
+# Residual: 
+#   Z: 70 
+#   A: 169 
+#   Nuclide: 70-YB-169 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1887-002-0 (entry-subentry-pointer) 
+#   Reaction code: (69-TM-169(P,N)70-YB-169,,SIG) 
+#   First author: K.Sonnabend 
+#   Institute:  (1USAUSA): United States of America 
+#   Reference:  (J,JP/CS,312,042007,2011) 
+#   Year:  2011 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C18/C1887.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1887
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3000E+00        1.0000E-01        5.4000E-07        0.0000E+00
+        3.7000E+00        1.0000E-01        3.6000E-06        0.0000E+00
+        4.0000E+00        1.0000E-01        1.3000E-05        0.0000E+00
+        4.5000E+00        1.0000E-01        7.5000E-05        0.0000E+00
+        5.0000E+00        1.0000E-01        2.7000E-04        0.0000E+00
+        5.5000E+00        1.0000E-01        9.3000E-04        0.0000E+00
+        6.2000E+00        1.0000E-01        3.5000E-03        0.0000E+00
+        7.0000E+00        1.0000E-01        1.4000E-02        0.0000E+00

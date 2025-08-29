@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-238(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  9.8500e+00 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 237 
+#   Nuclide: 92-U-237 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33043-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,2N)92-U-237,,SIG) 
+#   First author: H.Naik 
+#   Institute:  (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference:  (J,JRN,293,469,2012) 
+#   Year:  2012 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33043.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33043
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.8500E+00        3.8000E-01        1.3110E+00        8.7000E-02

@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 79-AU-197(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  9.7000e+00 MeV - 2.0300e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 198 
+#   Nuclide: 79-AU-198-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4245-006-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(D,P)79-AU-198-M,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,269,1389,2011) 
+#   Year:  2011 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4245.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4245
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.7000E+00        9.0000E-01        6.0000E-05        1.0000E-05
+        1.1200E+01        8.0000E-01        1.3000E-04        1.0000E-05
+        1.2500E+01        7.0000E-01        2.7000E-04        3.0000E-05
+        1.3800E+01        7.0000E-01        2.9000E-04        3.0000E-05
+        1.5000E+01        6.0000E-01        3.1000E-04        3.0000E-05
+        1.6200E+01        5.0000E-01        5.1000E-04        6.0000E-05
+        1.7300E+01        4.0000E-01        5.1000E-04        6.0000E-05
+        1.8300E+01        4.0000E-01        5.1000E-04        6.0000E-05
+        1.9300E+01        3.0000E-01        6.5000E-04        7.0000E-05
+        2.0300E+01        3.0000E-01        5.9000E-04        6.0000E-05

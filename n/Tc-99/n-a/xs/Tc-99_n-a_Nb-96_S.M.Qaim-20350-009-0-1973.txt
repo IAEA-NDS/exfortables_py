@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 43-TC-99(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 43 
+#   A: 99 
+#   Nuclide: 43-TC-99 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 96 
+#   Nuclide: 41-NB-96 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20350-009-0 (entry-subentry-pointer) 
+#   Reaction code: (43-TC-99(N,A)41-NB-96,,SIG) 
+#   First author: S.M.Qaim 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,JIN,35,3669,7311) 
+#   Year:  1973 
+#   Facility:  (CCW  ): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20350.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20350
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4700E+01        3.0000E-01        7.1200E-03        1.0000E-03
