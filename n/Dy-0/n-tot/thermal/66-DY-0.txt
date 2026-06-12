@@ -1,0 +1,30 @@
+# Header: 
+#   title: 66-DY-0(N,TOT) thermal cross section 
+#   source: EXFOR 
+#   date created: 2026-06-12 
+# Target: 
+#   Z: 66 
+#   A: 0 
+#   Nuclide: 66-DY-0 
+# Reaction: 
+#   Type: N,TOT 
+#   Type: N,TOT 
+#   Incident energy       : 2.5000e-08 MeV - 2.5300e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   MXW Simple Mean           |  Simple Stdev        : 7.00000E+02  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   SPA Simple Mean           |  Simple Stdev        : 1.04100E+03  |           NAN   (N = 1)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+12634-056-0         J.R.Dunning             1935   2.5000E-08   0.0000E+00   7.0000E+02   0.0000E+00     MXW        
+22088-004-0         K.Higurashi             1988   2.5300E-08   2.3000E-09   1.0410E+03   2.1000E+01     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+30467-007-0         A.Abdel-Kawi            1972   2.5000E-08   0.0000E+00   1.0160E+03   1.5000E+01           DERIV
