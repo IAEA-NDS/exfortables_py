@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 28-NI-58(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.0000e+02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Outgoing energy:  8.2580e+00 MeV - 4.4560e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O0137-268-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(P,X)2-HE-4,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,698,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0137.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0137
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        8.2580E+00        0.0000E+00        1.3000E+02        0.0000E+00        1.0200E-09        1.0200E-10
+        1.1300E+01        0.0000E+00        1.3000E+02        0.0000E+00        7.5380E-10        7.5380E-11
+        1.3970E+01        0.0000E+00        1.3000E+02        0.0000E+00        3.5700E-10        3.5700E-11
+        1.6910E+01        0.0000E+00        1.3000E+02        0.0000E+00        1.2550E-10        1.2550E-11
+        2.2570E+01        0.0000E+00        1.3000E+02        0.0000E+00        2.9190E-11        2.9190E-12
+        2.6160E+01        0.0000E+00        1.3000E+02        0.0000E+00        1.2810E-11        1.2810E-12
+        3.2160E+01        0.0000E+00        1.3000E+02        0.0000E+00        3.7210E-12        3.7210E-13
+        3.6390E+01        0.0000E+00        1.3000E+02        0.0000E+00        2.1150E-12        2.1150E-13
+        4.0000E+01        0.0000E+00        1.3000E+02        0.0000E+00        1.1180E-12        1.1180E-13
+        4.4560E+01        0.0000E+00        1.3000E+02        0.0000E+00        7.0990E-13        7.0990E-14

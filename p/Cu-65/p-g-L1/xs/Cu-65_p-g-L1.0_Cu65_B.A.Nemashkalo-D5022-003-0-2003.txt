@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 29-CU-65(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102.0 
+#   Incident energy:  1.3119e+00 MeV - 3.0165e+00 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 66 
+#   Nuclide: 30-ZN-66 
+#   Level energy: 1.0390e+00 MeV 
+# EXFOR BIB:
+#   Entry id: D5022-003-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(P,G)30-ZN-66,PAR,SIG) 
+#   First author: B.A.Nemashkalo 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,BAS,67,1723,2003) 
+#   Year:  2003 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D50/D5022.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D5022
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3119E+00        1.3289E-03        1.0802E-06        1.8855E-06
+        1.4531E+00        1.3289E-03        3.6581E-06        1.7914E-06
+        1.5961E+00        1.3289E-03        8.8357E-06        1.8844E-06
+        1.7321E+00        1.3289E-03        1.2943E-05        2.2398E-06
+        1.8506E+00        1.3289E-03        1.9575E-05        2.8687E-06
+        1.9724E+00        1.3289E-03        2.9254E-05        4.3058E-06
+        2.0838E+00        1.3289E-03        3.4816E-05        5.0232E-06
+        2.2074E+00        1.3289E-03        3.1937E-05        4.5748E-06
+        2.3108E+00        1.3289E-03        9.9684E-06        1.7947E-06
+        2.4191E+00        1.3289E-03        6.3837E-06        1.7925E-06
+        2.5194E+00        1.3289E-03        4.1508E-06        1.7925E-06
+        2.6231E+00        1.3289E-03        5.6824E-06        1.7925E-06
+        2.7210E+00        1.3289E-03        5.2454E-06        1.8833E-06
+        2.8161E+00        1.3289E-03        5.2589E-06        1.7925E-06
+        2.9196E+00        1.3289E-03        5.0866E-06        1.9719E-06
+        3.0165E+00        1.3289E-03        7.0720E-06        1.8822E-06

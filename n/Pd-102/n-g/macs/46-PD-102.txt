@@ -1,0 +1,35 @@
+# Header: 
+#   title: 46-PD-102(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 46 
+#   A: 102 
+#   Nuclide: 46-PD-102 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   SPA Simple Mean           |  Simple Stdev        : 3.89125E-01  |   2.20353E-02   (N = 8)
+#   SPA Weighted Mean        +/- Weighted Error      : 3.87381E-01 +/-  6.37659E-03   (N = 8)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22939-006-0         I.Dillmann              2010   2.5000E-02   5.0000E-04   3.7400E-01   1.8000E-02     SPA        
+22939-006-0         I.Dillmann              2010   2.5000E-02   5.0000E-04   3.5700E-01   1.7000E-02     SPA        
+22939-006-0         I.Dillmann              2010   2.5000E-02   5.0000E-04   4.0300E-01   1.9000E-02     SPA        
+22939-007-0         I.Dillmann              2010   2.5000E-02   5.0000E-04   3.7600E-01   1.7000E-02     SPA        
+22939-024-0         I.Dillmann              2010   2.5000E-02   5.0000E-04   3.9700E-01   1.9000E-02     SPA        
+22939-024-0         I.Dillmann              2010   2.5000E-02   5.0000E-04   3.7900E-01   1.8000E-02     SPA        
+22939-024-0         I.Dillmann              2010   2.5000E-02   5.0000E-04   4.2800E-01   2.0000E-02     SPA        
+22939-025-2         I.Dillmann              2010   2.5000E-02   5.0000E-04   3.9900E-01   1.7000E-02     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0102-192-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.7500E-01   1.1800E-01     MXW   RECOM
+V0102-193-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.6900E-01   1.7000E-02     MXW   RECOM

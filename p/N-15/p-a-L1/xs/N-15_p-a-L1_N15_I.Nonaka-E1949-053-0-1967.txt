@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 7-N-15(P,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 7 
+#   A: 15 
+#   Nuclide: 7-N-15 
+# Reaction: 
+#   Process: P,A 
+#   MF-MT number: 3 - 801 
+#   Incident energy:  1.0270e+01 MeV - 1.5160e+01 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+#   Level energy: 4.4300e+00 MeV 
+# EXFOR BIB:
+#   Entry id: E1949-053-0 (entry-subentry-pointer) 
+#   Reaction code: (7-N-15(P,A)6-C-12,PAR,SIG) 
+#   First author: I.Nonaka 
+#   Institute:  (2JPNTOK): University of Tokyo, Tokyo 
+#   Reference:  (J,JPJ,22,(4),949,196704) 
+#   Year:  1967 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1949.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1949
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0270E+01        4.0000E-02        4.0300E-02        0.0000E+00
+        1.0680E+01        4.0000E-02        3.8600E-02        0.0000E+00
+        1.0780E+01        4.0000E-02        4.8100E-02        0.0000E+00
+        1.1080E+01        4.0000E-02        4.4200E-02        0.0000E+00
+        1.1590E+01        4.0000E-02        3.3900E-02        0.0000E+00
+        1.1970E+01        4.0000E-02        3.9900E-02        0.0000E+00
+        1.2160E+01        4.0000E-02        3.4300E-02        0.0000E+00
+        1.2370E+01        4.0000E-02        3.1300E-02        0.0000E+00
+        1.2770E+01        4.0000E-02        2.6800E-02        0.0000E+00
+        1.3160E+01        4.0000E-02        2.4000E-02        0.0000E+00
+        1.3570E+01        4.0000E-02        2.5500E-02        0.0000E+00
+        1.3960E+01        4.0000E-02        1.7400E-02        0.0000E+00
+        1.4550E+01        4.0000E-02        1.4500E-02        0.0000E+00
+        1.5160E+01        4.0000E-02        1.6500E-02        0.0000E+00

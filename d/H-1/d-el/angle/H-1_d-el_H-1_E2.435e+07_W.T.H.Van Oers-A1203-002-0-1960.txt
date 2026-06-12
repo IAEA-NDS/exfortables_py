@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 1-H-1(D,EL)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 1 
 #   A: 1 
@@ -17,16 +17,16 @@
 #   Level energy: - 
 # EXFOR BIB:
 #   Entry id: A1203-002-0 (entry-subentry-pointer) 
-#   Reaction code: (1-H-1(D,EL)1-H-1,,DA,,,EXP) 
+#   Reaction code: (1-H-1(D,EL)1-H-1,,DA) 
 #   First author: W.T.H.Van Oers 
 #   Institute:  (2NEDIKO): Nat'l Institute for Nuclear and High Energy Physics, Sect.K 
-#   Reference:  (J,NP,21,(2),189,196011) 
+#   Reference:  (J,NP,21,189,1960) 
 #   Year:  1960 
 #   Facility:  (SYNCY): Synchro cyclotron 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A12/A1203.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A1203
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+# Angle_cm(degrees) dAngle_cm(degrees)     data_cm(B/SR)    ddata_cm(B/SR)
         1.5200E+01        0.0000E+00        1.2680E-01        3.8040E-03
         1.8000E+01        0.0000E+00        1.1980E-01        3.5940E-03
         2.0800E+01        0.0000E+00        1.1980E-01        3.5940E-03

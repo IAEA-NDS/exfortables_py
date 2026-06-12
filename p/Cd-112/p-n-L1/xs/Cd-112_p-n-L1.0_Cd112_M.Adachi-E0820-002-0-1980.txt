@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 48-CD-112(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 48 
+#   A: 112 
+#   Nuclide: 48-CD-112 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 51 
+#   Incident energy:  3.6500e+00 MeV - 4.0500e+00 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 112 
+#   Nuclide: 49-IN-112 
+#   Level energy: 1.5640e-01 MeV 
+# EXFOR BIB:
+#   Entry id: E0820-002-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-112(P,N)49-IN-112,PAR,SIG) 
+#   First author: M.Adachi 
+#   Institute:  (2JPNTIT): Tokyo Institute of Technology, Tokyo 
+#   Reference:  (J,ZP/A,295,(3),251,198009) 
+#   Year:  1980 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E08/E0820.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E0820
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.6500E+00        0.0000E+00        4.2270E-05        1.9330E-05
+        3.6990E+00        0.0000E+00        5.7100E-05        1.2800E-05
+        3.7500E+00        0.0000E+00        7.0890E-05        1.0470E-05
+        3.8000E+00        0.0000E+00        1.1130E-04        1.4640E-05
+        3.8510E+00        0.0000E+00        1.2000E-04        1.3810E-05
+        3.9020E+00        0.0000E+00        1.3310E-04        1.4200E-05
+        3.9500E+00        0.0000E+00        1.9570E-04        1.9220E-05
+        3.9990E+00        0.0000E+00        1.6680E-04        1.6380E-05
+        4.0500E+00        0.0000E+00        2.3390E-04        1.8980E-05

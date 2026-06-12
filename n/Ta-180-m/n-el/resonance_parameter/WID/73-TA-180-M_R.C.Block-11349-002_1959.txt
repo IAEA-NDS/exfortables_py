@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 73-TA-180-M Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2026-06-11 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11349-002-2 
+#   First Author          : R.C.Block 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (P,ORNL-2718,26,1959) 
+#   Year                  : 1959 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 73 
+#   A                     : 180 
+#   Isomer                : M 
+#   Nuclide               : 73-TA-180-M 
+# Reaction: 
+#   EXFOR Reaction        : (73-TA-180-M(N,EL),,WID) 
+#   Incident Energy       : 4.3000e-01 eV - 5.9600e+00 eV 
+#   Resonance Energy Type : EN 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11349.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11349
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   4.3000E-01          NAN        NAN        NAN          NAN          NAN   3.0000E-02   3.0000E-03   7.0000E-04   7.0000E-05          NAN          NAN          NAN          NAN
+   2.0700E+00          NAN        NAN        NAN          NAN          NAN          NAN          NAN   6.3000E-04   1.0000E-04          NAN          NAN          NAN          NAN
+   5.9600E+00          NAN        NAN        NAN          NAN          NAN          NAN          NAN   3.1000E-03   5.0000E-04          NAN          NAN          NAN          NAN

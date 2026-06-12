@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 42-MO-100(P,N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 42 
 #   A: 100 
 #   Nuclide: 42-MO-100 
 # Reaction: 
 #   Process: P,N 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  1.9440e+00 MeV - 1.1181e+01 MeV 
 # Residual: 
 #   Z: 43 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T00/T0013.x4 
 #   nds:  https://nds.iaea.org/EXFOR/T0013
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
         1.9440E+00        0.0000E+00        7.2190E-06        2.2420E-06
         2.1410E+00        0.0000E+00        1.9880E-05        8.1960E-06
         2.2540E+00        0.0000E+00        4.9180E-05        1.5330E-05

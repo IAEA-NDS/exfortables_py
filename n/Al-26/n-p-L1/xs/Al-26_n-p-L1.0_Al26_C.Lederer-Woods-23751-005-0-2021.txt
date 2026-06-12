@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 13-AL-26(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 13 
+#   A: 26 
+#   Nuclide: 13-AL-26 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 601.0 
+#   Incident energy:  4.0000e-08 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 26 
+#   Nuclide: 12-MG-26 
+#   Level energy: 1.8100e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 23751-005-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-26(N,P)12-MG-26,PAR,SIG,,MXW) 
+#   First author: C.Lederer-Woods 
+#   Institute:  (2ITYITY): Italy 
+#   Reference:  (J,PR/C,104,L022803,2021) 
+#   Year:  2021 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/237/23751.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23751
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.0000E-08        0.0000E+00        1.9600E+00        1.9800E-01

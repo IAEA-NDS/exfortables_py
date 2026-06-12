@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 27-CO-59(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 57.0 
+#   Incident energy:  4.5000e+00 MeV - 9.9990e+00 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+#   Level energy: 1.7000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 13131-006-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,INL)27-CO-59,PAR,SIG) 
+#   First author: A.B.Smith 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,NP/A,483,50,1988) 
+#   Year:  1988 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13131.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13131
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.5000E+00        0.0000E+00        2.5800E-01        2.5000E-02
+        5.0000E+00        0.0000E+00        2.1900E-01        1.8000E-02
+        5.5000E+00        0.0000E+00        1.8200E-01        1.5000E-02
+        5.9000E+00        0.0000E+00        1.6100E-01        1.5000E-02
+        6.5000E+00        0.0000E+00        1.3700E-01        1.5000E-02
+        7.1400E+00        0.0000E+00        1.1400E-01        1.5000E-02
+        7.5000E+00        0.0000E+00        1.0200E-01        1.5000E-02
+        8.0300E+00        0.0000E+00        1.1300E-01        1.6000E-02
+        8.4000E+00        0.0000E+00        9.0700E-02        1.7000E-02
+        9.0600E+00        0.0000E+00        1.0470E-01        2.0000E-02
+        9.5000E+00        0.0000E+00        1.1270E-01        2.2000E-02
+        9.9990E+00        0.0000E+00        9.8200E-02        2.3000E-02

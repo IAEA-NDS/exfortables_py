@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 5-B-10(N,A)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 5 
 #   A: 10 
 #   Nuclide: 5-B-10 
 # Reaction: 
 #   Process: N,A 
-#   MF-MT number: 3 - 107 
+#   MF-MT number: 3 - 107.0 
 #   Incident energy:  4.1700e+00 MeV - 6.5200e+00 MeV 
 # Residual: 
 #   Z: 3 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32650.x4 
 #   nds:  https://nds.iaea.org/EXFOR/32650
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         4.1700E+00        3.6000E-01        6.8200E-02        6.5000E-03
         5.0200E+00        2.7000E-01        5.0300E-02        4.7000E-03
         5.7400E+00        2.1000E-01        4.8600E-02        5.3000E-03

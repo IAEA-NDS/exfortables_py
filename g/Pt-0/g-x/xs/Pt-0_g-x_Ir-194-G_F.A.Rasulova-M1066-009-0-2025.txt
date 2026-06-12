@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 78-PT-0(G,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 78 
+#   A: 0 
+#   Nuclide: 78-PT-0 
+# Reaction: 
+#   Process: G,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.9000e+01 MeV - 2.3000e+01 MeV 
+# Residual: 
+#   Z: 77 
+#   A: 194 
+#   Nuclide: 77-IR-194-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M1066-009-0 (entry-subentry-pointer) 
+#   Reaction code: (78-PT-0(G,X)77-IR-194-G,,SIG,,BRA) 
+#   First author: F.A.Rasulova 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,PR/C,112,054610,2025) 
+#   Year:  2025 
+#   Facility:  (MICRT): Microtron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M10/M1066.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M1066
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.9000E+01        0.0000E+00        1.0000E-05        1.0000E-06
+        2.0000E+01        0.0000E+00        2.1000E-05        2.0000E-06
+        2.1000E+01        0.0000E+00        3.7000E-05        5.0000E-06
+        2.2000E+01        0.0000E+00        7.2000E-05        7.0000E-06
+        2.3000E+01        0.0000E+00        8.0000E-05        9.0000E-06

@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 7-N-14(P,X)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 7 
 #   A: 14 
@@ -17,16 +17,16 @@
 #   Level energy: - 
 # EXFOR BIB:
 #   Entry id: R0018-002-0 (entry-subentry-pointer) 
-#   Reaction code: (7-N-14(P,X)6-C-11,,SIG,,AV,EXP) 
+#   Reaction code: (7-N-14(P,X)6-C-11,,SIG,,,DERIV) 
 #   First author: M.Epherre 
-#   Institute:  (2FR SAC): CEA/Saclay 
-#   Reference:  (J,PR/C,3,2167,71) 
+#   Institute:  (2FR CSN): Centre Sci. Nuclear et Sci. Matiere (CSNSM), Orsay 
+#   Reference:  (J,PR/C,3,2167,1971) 
 #   Year:  1971 
 #   Facility:  (VDGT): Tandem van de Graaff 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/R00/R0018.x4 
 #   nds:  https://nds.iaea.org/EXFOR/R0018
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)       data_min(B)      ddata_min(B)
         4.4000E+00        0.0000E+00        1.0100E-02        0.0000E+00
         5.4500E+00        0.0000E+00        5.8000E-02        0.0000E+00
         6.4000E+00        0.0000E+00        1.9800E-01        0.0000E+00

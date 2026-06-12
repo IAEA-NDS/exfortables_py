@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 5-B-11(HE3,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 5 
+#   A: 11 
+#   Nuclide: 5-B-11 
+# Reaction: 
+#   Process: HE3,A 
+#   MF-MT number: 3 - 801 
+#   Incident energy:  2.3730e+00 MeV - 5.5310e+00 MeV 
+# Residual: 
+#   Z: 5 
+#   A: 10 
+#   Nuclide: 5-B-10 
+#   Level energy: 7.2000e-01 MeV 
+# EXFOR BIB:
+#   Entry id: F0467-004-0 (entry-subentry-pointer) 
+#   Reaction code: (5-B-11(HE3,A)5-B-10,PAR,SIG) 
+#   First author: P.D.Forsyth 
+#   Institute:  (1USARIC): Rice University, Houston, TX 
+#   Reference:  (J,NP,66,376,196505) 
+#   Year:  1965 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F04/F0467.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0467
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3730E+00        2.0000E-03        1.5880E-03        2.3820E-04
+        2.8830E+00        2.0000E-03        2.2700E-03        3.4050E-04
+        3.4430E+00        2.0000E-03        2.7130E-03        4.0695E-04
+        3.9540E+00        2.0000E-03        2.9350E-03        4.4025E-04
+        4.5220E+00        2.0000E-03        3.4340E-03        5.1510E-04
+        5.0440E+00        2.0000E-03        3.4710E-03        5.2065E-04
+        5.5310E+00        2.0000E-03        3.3380E-03        5.0070E-04

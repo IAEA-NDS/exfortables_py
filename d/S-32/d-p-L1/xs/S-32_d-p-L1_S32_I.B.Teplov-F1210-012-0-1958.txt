@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 16-S-32(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 16 
+#   A: 32 
+#   Nuclide: 16-S-32 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 601 
+#   Incident energy:  4.0000e+00 MeV 
+# Residual: 
+#   Z: 16 
+#   A: 33 
+#   Nuclide: 16-S-33 
+#   Level energy: 8.4000e-01 MeV 
+# EXFOR BIB:
+#   Entry id: F1210-012-0 (entry-subentry-pointer) 
+#   Reaction code: (16-S-32(D,P)16-S-33,PAR,SIG) 
+#   First author: I.B.Teplov 
+#   Institute:  (4RUSMOS): Moscow State University , Moscow 
+#   Reference:  (J,ZET,34,(2),334,1958) 
+#   Year:  1958 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F12/F1210.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1210
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E+00        1.2000E-01        1.1000E-02        0.0000E+00

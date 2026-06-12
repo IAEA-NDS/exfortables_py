@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 30-ZN-68(P,N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 30 
 #   A: 68 
 #   Nuclide: 30-ZN-68 
 # Reaction: 
 #   Process: P,N 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  1.0300e+01 MeV - 1.9900e+01 MeV 
 # Residual: 
 #   Z: 31 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4276.x4 
 #   nds:  https://nds.iaea.org/EXFOR/D4276
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.0300E+01        1.4000E+00        7.5720E-01        8.2600E-02
         1.2200E+01        1.3000E+00        9.1130E-01        9.9400E-02
         1.3800E+01        1.2000E+00        7.5000E-01        9.3700E-02

@@ -1,0 +1,46 @@
+# Header: 
+#   title: 32-GE-76(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 32 
+#   A: 76 
+#   Nuclide: 32-GE-76 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 3.20000E-02  |   2.77969E-02   (N = 4)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 9.10029E-03 +/-  1.33038E-03   (N = 4)
+#   MXW Simple Mean           |  Simple Stdev        : 1.86000E-02  |   8.48528E-04   (N = 2)
+#   MXW Weighted Mean        +/- Weighted Error      : 1.86479E-02 +/-  8.81764E-04   (N = 2)
+#   SPA Simple Mean           |  Simple Stdev        : 1.24250E-02  |   9.25113E-04   (N = 4)
+#   SPA Weighted Mean        +/- Weighted Error      : 1.20561E-02 +/-  2.29253E-04   (N = 4)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+30079-010-0         A.K.Chaubey             1966   2.4000E-02   0.0000E+00   6.5000E-02   2.0000E-02                
+30079-011-0         A.K.Chaubey             1966   2.4000E-02   0.0000E+00   8.0000E-03   1.5000E-03                
+30086-002-0         A.K.Chaubey             1968   2.4000E-02   0.0000E+00   4.5000E-02   1.2000E-02                
+30086-003-0         A.K.Chaubey             1968   2.4000E-02   0.0000E+00   1.0000E-02   3.0000E-03                
+22037-017-1         G.Walter                1984   2.5000E-02   0.0000E+00   1.8000E-02   1.3000E-03     MXW        
+22037-027-2         G.Walter                1984   2.5000E-02   0.0000E+00   1.9200E-02   1.2000E-03     MXW        
+23043-002-0         J.Marganiec             2008   2.5000E-02   0.0000E+00   1.1400E-02   4.0000E-04     SPA        
+23043-004-2         J.Marganiec             2008   2.5000E-02   0.0000E+00   1.2100E-02   4.0000E-04     SPA        
+14237-003-0         J.Marganiec             2009   2.5000E-02   0.0000E+00   1.2600E-02   4.0000E-04     SPA        
+14237-004-0         J.Marganiec             2009   2.5000E-02   0.0000E+00   1.3600E-02   1.9000E-03     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22037-017-2         G.Walter                1984   2.5000E-02   0.0000E+00          NAN   0.0000E+00     MXW   DERIV
+22037-027-3         G.Walter                1984   2.5000E-02   0.0000E+00          NAN   0.0000E+00     MXW   DERIV
+23043-003-0         J.Marganiec             2008   3.0000E-02   0.0000E+00   1.2400E-02   7.0000E-04     MXW   DERIV
+23043-005-0         J.Marganiec             2008   3.0000E-02   0.0000E+00   1.3200E-02   7.0000E-04     MXW   DERIV
+V0102-112-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.3000E-02   1.5000E-02     MXW   RECOM
+V0102-113-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.1500E-02   1.8000E-03     MXW   RECOM
+V1001-279-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   1.6000E-02   1.6000E-03     MXW   RECOM

@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 6-C-12(D,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: D,A 
+#   MF-MT number: 3 - 801 
+#   Incident energy:  1.5100e+01 MeV - 1.9700e+01 MeV 
+# Residual: 
+#   Z: 5 
+#   A: 10 
+#   Nuclide: 5-B-10 
+#   Level energy: 7.1800e-01 MeV 
+# EXFOR BIB:
+#   Entry id: E2167-051-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(D,A)5-B-10,PAR,SIG) 
+#   First author: T.Yanabu 
+#   Institute:  (2JPNKTO): Kyoto University , Kyoto 
+#   Reference:  (J,JPJ,18,(6),747,196306) 
+#   Year:  1963 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E21/E2167.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2167
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5100E+01        0.0000E+00        3.7600E-02        0.0000E+00
+        1.5900E+01        0.0000E+00        3.0900E-02        0.0000E+00
+        1.6700E+01        0.0000E+00        2.0500E-02        0.0000E+00
+        1.7500E+01        0.0000E+00        1.5800E-02        0.0000E+00
+        1.8200E+01        0.0000E+00        1.4800E-02        0.0000E+00
+        1.9000E+01        0.0000E+00        1.3500E-02        0.0000E+00
+        1.9700E+01        0.0000E+00        1.2600E-02        0.0000E+00

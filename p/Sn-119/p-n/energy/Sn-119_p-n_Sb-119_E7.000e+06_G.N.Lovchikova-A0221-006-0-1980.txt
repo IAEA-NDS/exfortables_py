@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 50-SN-119(P,N)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 50 
 #   A: 119 
@@ -14,7 +14,7 @@
 #   Z: 51 
 #   A: 119 
 #   Nuclide: 51-SB-119 
-#   Level energy: 7.7400e-01 MeV 
+#   Outgoing energy:  7.7400e-01 MeV - 5.4700e+00 MeV 
 # EXFOR BIB:
 #   Entry id: A0221-006-0 (entry-subentry-pointer) 
 #   Reaction code: (50-SN-119(P,N)51-SB-119,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0221.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A0221
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         7.7400E-01        0.0000E+00        1.4700E-07        6.4974E-09
         8.5900E-01        0.0000E+00        1.4800E-07        6.3936E-09
         9.4200E-01        0.0000E+00        1.3100E-07        5.6461E-09

@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 63-EU-151(N,A)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 63 
 #   A: 151 
 #   Nuclide: 63-EU-151 
 # Reaction: 
 #   Process: N,A 
-#   MF-MT number: 3 - 107 
+#   MF-MT number: 3 - 107.0 
 #   Incident energy:  1.3470e+01 MeV - 1.4860e+01 MeV 
 # Residual: 
 #   Z: 61 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
 #   nds:  https://nds.iaea.org/EXFOR/41614
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.3470E+01        0.0000E+00        3.3800E-03        2.5891E-04
         1.3660E+01        0.0000E+00        3.6800E-03        2.6717E-04
         1.3880E+01        0.0000E+00        3.6700E-03        2.7415E-04

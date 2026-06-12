@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 8-O-16(N,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 8 
 #   A: 16 
@@ -14,7 +14,7 @@
 #   Z: 2 
 #   A: 4 
 #   Nuclide: 2-HE-4 
-#   Level energy: 1.3500e+01 MeV 
+#   Outgoing energy:  1.3500e+01 MeV - 4.3500e+01 MeV 
 # EXFOR BIB:
 #   Entry id: 22724-020-0 (entry-subentry-pointer) 
 #   Reaction code: (8-O-16(N,X)2-HE-4,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22724.x4 
 #   nds:  https://nds.iaea.org/EXFOR/22724
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.3500E+01        0.0000E+00        2.8300E-09        1.8900E-09
         1.6500E+01        0.0000E+00        1.9100E-09        1.1100E-09
         1.9500E+01        0.0000E+00        1.3500E-09        6.9000E-10

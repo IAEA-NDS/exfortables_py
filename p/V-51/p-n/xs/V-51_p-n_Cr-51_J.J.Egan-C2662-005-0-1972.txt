@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 23-V-51(P,N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 23 
 #   A: 51 
 #   Nuclide: 23-V-51 
 # Reaction: 
 #   Process: P,N 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  2.3002e+00 MeV - 2.3750e+00 MeV 
 # Residual: 
 #   Z: 24 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2662.x4 
 #   nds:  https://nds.iaea.org/EXFOR/C2662
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         2.3002E+00        0.0000E+00        1.5797E-02        0.0000E+00
         2.3050E+00        0.0000E+00        1.7609E-02        0.0000E+00
         2.3099E+00        0.0000E+00        2.1704E-02        0.0000E+00

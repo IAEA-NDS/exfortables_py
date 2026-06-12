@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 73-TA-181(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 52 
+#   Incident energy:  4.0000e-01 MeV - 1.2000e+00 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+#   Level energy: 1.3700e-01 MeV 
+# EXFOR BIB:
+#   Entry id: 40680-062-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-181(N,INL)73-TA-181,PAR,SIG) 
+#   First author: N.P.Glazkov 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (J,AE,15,416,1963) 
+#   Year:  1963 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40680.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40680
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0000E-01        0.0000E+00        9.5000E-01        1.0000E-01
+        6.0000E-01        0.0000E+00        1.3500E+00        1.5000E-01
+        8.0000E-01        0.0000E+00        1.4500E+00        1.5000E-01
+        1.0000E+00        0.0000E+00        1.5500E+00        1.5000E-01
+        1.2000E+00        0.0000E+00        1.1000E+00        1.5000E-01

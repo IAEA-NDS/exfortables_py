@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 28-NI-58(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 51.0 
+#   Incident energy:  2.0000e+00 MeV - 3.0000e+00 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+#   Level energy: 1.4540e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 40531-051-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,INL)28-NI-58,PAR,SIG) 
+#   First author: I.A.Korzh 
+#   Institute:  (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+#   Reference:  ((C,75KIEV,4,220,1975)=(R,INDC(CCP)-099,(4),220,1975)) 
+#   Year:  1975 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40531.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40531
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.0000E+00        5.0000E-02        4.8900E-01        3.6000E-02
+        2.5000E+00        5.0000E-02        5.3400E-01        3.0000E-02
+        3.0000E+00        5.0000E-02        4.8900E-01        2.8000E-02

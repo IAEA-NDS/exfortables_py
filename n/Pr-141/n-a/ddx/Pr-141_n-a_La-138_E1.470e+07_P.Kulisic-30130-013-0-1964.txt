@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 59-PR-141(N,A)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 59 
+#   A: 141 
+#   Nuclide: 59-PR-141 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 57 
+#   A: 138 
+#   Nuclide: 57-LA-138 
+#   Outgoing energy:  1.8200e+01 MeV - 2.1500e+01 MeV 
+# EXFOR BIB:
+#   Entry id: 30130-013-0 (entry-subentry-pointer) 
+#   Reaction code: (59-PR-141(N,A)57-LA-138,,DA/DE) 
+#   First author: P.Kulisic 
+#   Institute:  (3CRORBZ): Institute Rudjer Boskovic, Zagreb 
+#   Reference:  (J,NP,54,17,196405) 
+#   Year:  1964 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30130.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30130
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.8200E+01        0.0000E+00        0.0000E+00        0.0000E+00        0.0000E+00        1.0000E-10
+        1.8450E+01        0.0000E+00        0.0000E+00        0.0000E+00        1.9000E-10        1.3000E-10
+        1.8700E+01        0.0000E+00        0.0000E+00        0.0000E+00        2.6000E-10        1.0000E-10
+        1.8950E+01        0.0000E+00        0.0000E+00        0.0000E+00        4.4000E-10        1.0000E-10
+        1.9200E+01        0.0000E+00        0.0000E+00        0.0000E+00        2.4000E-10        1.3000E-10
+        1.9450E+01        0.0000E+00        0.0000E+00        0.0000E+00        4.0000E-10        1.0000E-10
+        1.9700E+01        0.0000E+00        0.0000E+00        0.0000E+00        1.3000E-10        1.0000E-10
+        1.9950E+01        0.0000E+00        0.0000E+00        0.0000E+00        4.5000E-10        1.0000E-10
+        2.0200E+01        0.0000E+00        0.0000E+00        0.0000E+00        4.0000E-10        8.0000E-11
+        2.0450E+01        0.0000E+00        0.0000E+00        0.0000E+00        5.5000E-10        1.0000E-10
+        2.0700E+01        0.0000E+00        0.0000E+00        0.0000E+00        5.1000E-10        1.0000E-10
+        2.0950E+01        0.0000E+00        0.0000E+00        0.0000E+00        2.0000E-10        1.0000E-10
+        2.1250E+01        0.0000E+00        0.0000E+00        0.0000E+00        1.3000E-10        6.0000E-11
+        2.1500E+01        0.0000E+00        0.0000E+00        0.0000E+00        6.0000E-11        5.0000E-11

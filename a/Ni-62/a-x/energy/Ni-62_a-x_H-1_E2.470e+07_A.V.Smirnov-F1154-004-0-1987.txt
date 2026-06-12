@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 28-NI-62(A,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 28 
 #   A: 62 
@@ -14,7 +14,7 @@
 #   Z: 1 
 #   A: 1 
 #   Nuclide: 1-H-1 
-#   Level energy: 4.5409e+00 MeV 
+#   Outgoing energy:  4.5409e+00 MeV - 1.3966e+01 MeV 
 # EXFOR BIB:
 #   Entry id: F1154-004-0 (entry-subentry-pointer) 
 #   Reaction code: (28-NI-62(A,X)1-H-1,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F11/F1154.x4 
 #   nds:  https://nds.iaea.org/EXFOR/F1154
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         4.5409E+00        1.7200E-02        2.8140E-09        3.1337E-10
         5.0480E+00        1.7200E-02        3.3370E-09        4.3235E-10
         5.5377E+00        1.7200E-02        4.1549E-09        5.0036E-10

@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 66-DY-0(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 66 
 #   A: 0 
 #   Nuclide: 66-DY-0 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  1.7095e-09 MeV - 1.8671e-01 MeV 
 # Residual: 
 #   Z:  
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22455.x4 
 #   nds:  https://nds.iaea.org/EXFOR/22455
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.8671E-01        0.0000E+00        2.0518E-01        1.0113E-01
         1.6654E-01        0.0000E+00        2.1423E-01        1.0875E-01
         1.4947E-01        0.0000E+00        2.2055E-01        1.1477E-01

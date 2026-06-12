@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 92-U-238(G,INL)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: G,INL 
+#   MF-MT number: 4 - 102 
+#   Incident energy:  1.0830e+01 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: 4.5000e-02 MeV 
+# EXFOR BIB:
+#   Entry id: M0820-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(G,INL)92-U-238,PAR,DA) 
+#   First author: H.E.Jackson 
+#   Institute:  (1USAUI): University of Illinois, Urbana-Champaign, IL 
+#   Reference:  (J,PRL,28,513,1972) 
+#   Year:  1972 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M08/M0820.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0820
+#
+#  Angle(degrees)   dAngle(degrees)        data(B/SR)       ddata(B/SR)
+        7.0000E+01        0.0000E+00        1.8000E-04        2.0000E-05
+        9.0000E+01        0.0000E+00        2.0000E-04        2.0000E-05
+        1.2000E+02        0.0000E+00        2.1000E-04        2.0000E-05
+        1.5000E+02        0.0000E+00        2.0000E-04        2.0000E-05

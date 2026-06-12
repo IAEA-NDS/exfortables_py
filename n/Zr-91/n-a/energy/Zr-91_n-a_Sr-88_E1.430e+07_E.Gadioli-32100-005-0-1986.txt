@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 40-ZR-91(N,A)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 40 
 #   A: 91 
@@ -14,7 +14,7 @@
 #   Z: 38 
 #   A: 88 
 #   Nuclide: 38-SR-88 
-#   Level energy: 1.4000e+01 MeV 
+#   Outgoing energy:  1.4000e+01 MeV - 2.0500e+01 MeV 
 # EXFOR BIB:
 #   Entry id: 32100-005-0 (entry-subentry-pointer) 
 #   Reaction code: (40-ZR-91(N,A)38-SR-88,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/321/32100.x4 
 #   nds:  https://nds.iaea.org/EXFOR/32100
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.4000E+01        0.0000E+00        9.2400E-10        7.6300E-10
         1.4100E+01        0.0000E+00        9.1600E-10        7.0000E-10
         1.4200E+01        0.0000E+00        1.8950E-09        6.7900E-10

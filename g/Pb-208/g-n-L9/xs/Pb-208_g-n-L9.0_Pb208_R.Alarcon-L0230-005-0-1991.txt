@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 82-PB-208(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 82 
+#   A: 208 
+#   Nuclide: 82-PB-208 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 59.0 
+#   Incident energy:  1.1153e+01 MeV - 1.5692e+01 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 207 
+#   Nuclide: 82-PB-207 
+#   Level energy: 3.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: L0230-005-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-208(G,N)82-PB-207,PAR,SIG) 
+#   First author: R.Alarcon 
+#   Institute:  (1USAUI): University of Illinois, Urbana-Champaign, IL 
+#   Reference:  (J,PR/C,43,R2470,1991) 
+#   Year:  1991 
+#   Facility:  (MICRT): Microtron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L02/L0230.x4 
+#   nds:  https://nds.iaea.org/EXFOR/L0230
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1153E+01        0.0000E+00        2.1560E-02        5.5620E-03
+        1.1350E+01        0.0000E+00        4.6480E-02        9.1040E-03
+        1.1556E+01        0.0000E+00        7.1030E-02        8.4260E-03
+        1.1798E+01        0.0000E+00        9.0320E-02        9.7870E-03
+        1.2013E+01        0.0000E+00        1.4290E-01        1.1030E-02
+        1.2200E+01        0.0000E+00        1.8380E-01        1.0240E-02
+        1.2397E+01        0.0000E+00        2.2070E-01        1.2310E-02
+        1.2603E+01        0.0000E+00        2.9730E-01        1.3340E-02
+        1.2817E+01        0.0000E+00        3.0060E-01        1.3480E-02
+        1.3059E+01        0.0000E+00        4.1900E-01        1.8780E-02
+        1.3291E+01        0.0000E+00        4.2850E-01        1.4500E-02
+        1.3514E+01        0.0000E+00        4.5880E-01        2.0580E-02
+        1.3746E+01        0.0000E+00        4.3790E-01        2.4410E-02
+        1.3996E+01        0.0000E+00        4.5830E-01        1.0410E-02
+        1.4264E+01        0.0000E+00        4.3240E-01        1.4630E-02
+        1.4541E+01        0.0000E+00        3.7230E-01        1.6700E-02
+        1.4800E+01        0.0000E+00        3.7210E-01        1.6690E-02
+        1.5085E+01        0.0000E+00        3.0250E-01        1.3570E-02
+        1.5380E+01        0.0000E+00        2.7890E-01        1.5560E-02
+        1.5692E+01        0.0000E+00        2.6020E-01        1.4500E-02

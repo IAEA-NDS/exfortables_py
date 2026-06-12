@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 1-H-3(P,N)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 1 
 #   A: 3 
@@ -20,19 +20,19 @@
 #   Reaction code: (1-H-3(P,N)2-HE-3,,DA) 
 #   First author: G.F.Bogdanov 
 #   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
-#   Reference:  (J,ZET,36,633,1959) 
+#   Reference:  (J,JET,9,440,1959) 
 #   Year:  1959 
 #   Facility:  (CYCLO): Cyclotron 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A11/A1123.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A1123
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
-        1.2490E+00        5.0000E-01        1.6760E-02        1.6760E-03
-        2.0310E+01        5.0000E-01        1.3370E-02        1.3370E-03
+# Angle_cm(degrees) dAngle_cm(degrees)     data_cm(B/SR)    ddata_cm(B/SR)
+        1.2000E+00        5.0000E-01        1.6760E-02        1.6760E-03
+        2.0300E+01        5.0000E-01        1.3370E-02        1.3370E-03
         3.8600E+01        5.0000E-01        1.0230E-02        1.0230E-03
-        5.7480E+01        5.0000E-01        1.0100E-02        1.0100E-03
-        7.6220E+01        5.0000E-01        1.2460E-02        1.2460E-03
-        9.2820E+01        5.0000E-01        1.2560E-02        1.2560E-03
+        5.7500E+01        5.0000E-01        1.0100E-02        1.0100E-03
+        7.6200E+01        5.0000E-01        1.2460E-02        1.2460E-03
+        9.2800E+01        5.0000E-01        1.2560E-02        1.2560E-03
         1.0880E+02        5.0000E-01        9.4100E-03        9.4100E-04
         1.2240E+02        5.0000E-01        1.0240E-02        1.0240E-03
         1.3560E+02        5.0000E-01        1.6570E-02        1.6570E-03

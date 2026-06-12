@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 32-GE-0(N,INL)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 32 
 #   A: 0 
 #   Nuclide: 32-GE-0 
 # Reaction: 
 #   Process: N,INL 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  7.5500e+00 MeV 
 # Residual: 
 #   Z: 32 
@@ -26,5 +26,5 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11202.x4 
 #   nds:  https://nds.iaea.org/EXFOR/11202
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         7.5500E+00        1.3000E-01        1.6800E+00        1.7000E-01

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 22-TI-46(N,D)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 22 
+#   A: 46 
+#   Nuclide: 22-TI-46 
+# Reaction: 
+#   Process: N,D 
+#   MF-MT number: 3 - 699 
+#   Incident energy:  1.5000e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 45 
+#   Nuclide: 21-SC-45 
+#   Level energy: 3.5000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 10634-009-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-46(N,D)21-SC-45,PAR,SIG) 
+#   First author: S.M.Grimes 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,NSE,62,187,197702) 
+#   Year:  1977 
+#   Facility:  (ICTR): Insulated core transformer accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/106/10634.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10634
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5000E+01        0.0000E+00        8.5000E-04        3.0000E-04

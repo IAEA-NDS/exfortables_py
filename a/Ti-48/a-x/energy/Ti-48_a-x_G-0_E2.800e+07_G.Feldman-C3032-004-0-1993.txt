@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 22-TI-48(A,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 22 
 #   A: 48 
@@ -14,7 +14,7 @@
 #   Z: 0 
 #   A: 0 
 #   Nuclide: 0-G-0 
-#   Level energy: 3.0280e+00 MeV 
+#   Outgoing energy:  3.0280e+00 MeV - 2.7762e+01 MeV 
 # EXFOR BIB:
 #   Entry id: C3032-004-0 (entry-subentry-pointer) 
 #   Reaction code: (22-TI-48(A,X)0-G-0,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C30/C3032.x4 
 #   nds:  https://nds.iaea.org/EXFOR/C3032
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         3.0280E+00        0.0000E+00        2.1550E-07        0.0000E+00
         3.5560E+00        0.0000E+00        2.0840E-07        0.0000E+00
         4.0500E+00        0.0000E+00        1.6810E-07        0.0000E+00

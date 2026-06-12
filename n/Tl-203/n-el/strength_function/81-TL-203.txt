@@ -1,0 +1,28 @@
+# Header: 
+#   title: 81-TL-203(N,EL) strength_function cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 81 
+#   A: 203 
+#   Nuclide: 81-TL-203 
+# Reaction: 
+#   Type: N,EL 
+#   Type: N,EL 
+#   Incident energy       : 2.0000e-02 MeV - 2.4000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Strength Function Simple Mean  |  Simple Stdev        : 7.65000E-05  |   7.28320E-05   (N = 2)
+#   Strength Function Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+10535-011-0         H.I.Liou                1975   2.0000E-02   0.0000E+00   1.2800E-04   0.0000E+00                
+10535-011-0         H.I.Liou                1975   2.0000E-02   0.0000E+00   2.5000E-05   0.0000E+00                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0023-021-0         S.K.Rathi               1981   2.4000E-02   0.0000E+00   2.3000E-05   0.0000E+00            EVAL

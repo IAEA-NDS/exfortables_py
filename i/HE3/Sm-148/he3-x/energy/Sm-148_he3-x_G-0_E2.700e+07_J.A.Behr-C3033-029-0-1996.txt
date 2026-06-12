@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 62-SM-148(HE3,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 62 
 #   A: 148 
@@ -14,7 +14,7 @@
 #   Z: 0 
 #   A: 0 
 #   Nuclide: 0-G-0 
-#   Level energy: 3.3460e+00 MeV 
+#   Outgoing energy:  3.3460e+00 MeV - 3.3189e+01 MeV 
 # EXFOR BIB:
 #   Entry id: C3033-029-0 (entry-subentry-pointer) 
 #   Reaction code: (62-SM-148(HE3,X)0-G-0,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C30/C3033.x4 
 #   nds:  https://nds.iaea.org/EXFOR/C3033
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         3.3460E+00        0.0000E+00        2.0510E-07        0.0000E+00
         4.1820E+00        0.0000E+00        1.0140E-07        0.0000E+00
         4.9760E+00        0.0000E+00        4.8280E-08        0.0000E+00

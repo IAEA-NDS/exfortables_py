@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 79-AU-197(D,T)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 79 
 #   A: 197 
 #   Nuclide: 79-AU-197 
 # Reaction: 
 #   Process: D,T 
-#   MF-MT number: 4 - 105 
+#   MF-MT number: 4 - 105.0 
 #   Incident energy:  1.0000e+01 MeV 
 # Residual: 
 #   Z: 79 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D10/D1058.x4 
 #   nds:  https://nds.iaea.org/EXFOR/D1058
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+#  Angle(degrees)   dAngle(degrees)        data(B/SR)       ddata(B/SR)
         1.0000E+02        0.0000E+00        1.0000E-04        2.0000E-05
         1.2000E+02        0.0000E+00        2.1000E-04        2.0000E-05
         1.4000E+02        0.0000E+00        2.1000E-04        2.0000E-05

@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 73-TA-181(P,N)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 73 
 #   A: 181 
@@ -14,7 +14,7 @@
 #   Z: 74 
 #   A: 181 
 #   Nuclide: 74-W-181 
-#   Level energy: 9.6055e-01 MeV 
+#   Outgoing energy:  9.6055e-01 MeV - 6.4462e+00 MeV 
 # EXFOR BIB:
 #   Entry id: D0577-002-0 (entry-subentry-pointer) 
 #   Reaction code: (73-TA-181(P,N)74-W-181,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D05/D0577.x4 
 #   nds:  https://nds.iaea.org/EXFOR/D0577
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         9.6055E-01        2.0000E-02        3.6168E-08        2.2472E-09
         1.0549E+00        2.0000E-02        3.0578E-08        0.0000E+00
         1.1626E+00        2.0000E-02        2.6770E-08        0.0000E+00

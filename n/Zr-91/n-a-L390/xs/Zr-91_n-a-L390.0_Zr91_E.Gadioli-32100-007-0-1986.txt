@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 40-ZR-91(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 40 
+#   A: 91 
+#   Nuclide: 40-ZR-91 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 849.0 
+#   Incident energy:  1.8100e+01 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 88 
+#   Nuclide: 38-SR-88 
+#   Level energy: 1.7100e+01 MeV 
+# EXFOR BIB:
+#   Entry id: 32100-007-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-91(N,A)38-SR-88,PAR,SIG) 
+#   First author: E.Gadioli 
+#   Institute:  (3POLIPJ): Narodowe Centrum Badan Jadrowych, Swierk+Warszawa 
+#   Reference:  (J,PR/C,34,(6),2065,198612) 
+#   Year:  1986 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/321/32100.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32100
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.8100E+01        2.0000E-01        5.6600E-03        2.3000E-04

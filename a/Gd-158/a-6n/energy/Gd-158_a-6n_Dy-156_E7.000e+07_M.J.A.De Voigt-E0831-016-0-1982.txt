@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 64-GD-158(A,6N)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 64 
 #   A: 158 
@@ -14,7 +14,7 @@
 #   Z: 66 
 #   A: 156 
 #   Nuclide: 66-DY-156 
-#   Level energy: 1.4080e+00 MeV 
+#   Outgoing energy:  1.4080e+00 MeV - 8.6230e+00 MeV 
 # EXFOR BIB:
 #   Entry id: E0831-016-0 (entry-subentry-pointer) 
 #   Reaction code: (64-GD-158(A,6N)66-DY-156,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E08/E0831.x4 
 #   nds:  https://nds.iaea.org/EXFOR/E0831
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.4080E+00        0.0000E+00        1.4510E-06        2.6930E-07
         1.8940E+00        0.0000E+00        1.7010E-06        2.4340E-07
         2.6330E+00        0.0000E+00        9.4370E-07        1.6830E-07

@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 3-LI-7(P,N)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 3 
 #   A: 7 
 #   Nuclide: 3-LI-7 
 # Reaction: 
 #   Process: P,N 
-#   MF-MT number: 4 - 4 
+#   MF-MT number: 4 - 4.0 
 #   Incident energy:  3.1210e+00 MeV 
 # Residual: 
 #   Z: 4 
@@ -17,14 +17,14 @@
 #   Level energy: - 
 # EXFOR BIB:
 #   Entry id: A1480-003-0 (entry-subentry-pointer) 
-#   Reaction code: (3-LI-7(P,N)4-BE-7,,DA,,,EXP) 
+#   Reaction code: (3-LI-7(P,N)4-BE-7,,DA) 
 #   First author: P.R.Bevington 
 #   Institute:  (1USADKE): Duke University, Durham, NC 
-#   Reference:  (J,PR,121,(3),871,196102) 
+#   Reference:  (J,PR,121,871,1961) 
 #   Year:  1961 
 #   Facility:  (VDG): Van de Graaff 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A14/A1480.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A1480
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
-        6.0000E+01        0.0000E+00        2.8410E-02        3.0000E-04
+#  Angle(degrees)   dAngle(degrees)        data(B/SR)       ddata(B/SR)
+        6.0000E+01        0.0000E+00        2.8400E-02        0.0000E+00

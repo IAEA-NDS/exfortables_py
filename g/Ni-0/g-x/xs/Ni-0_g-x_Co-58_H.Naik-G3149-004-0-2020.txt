@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 28-NI-0(G,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: G,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.5000e+01 MeV - 7.5000e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: G3149-004-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(G,X)27-CO-58,,SIG,,BRA) 
+#   First author: H.Naik 
+#   Institute:  (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference:  (J,JRN,324,837,2020) 
+#   Year:  2020 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G31/G3149.x4 
+#   nds:  https://nds.iaea.org/EXFOR/G3149
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.5000E+01        0.0000E+00        5.6800E-04        4.6000E-05
+        7.5000E+01        0.0000E+00        5.3500E-04        4.9000E-05

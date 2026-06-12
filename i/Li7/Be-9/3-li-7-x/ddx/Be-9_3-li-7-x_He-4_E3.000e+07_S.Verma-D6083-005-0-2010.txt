@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 4-BE-9(3-LI-7,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 4 
+#   A: 9 
+#   Nuclide: 4-BE-9 
+# Reaction: 
+#   Process: 3-LI-7,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  3.0000e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Outgoing energy:  3.0000e+00 MeV - 1.1000e+01 MeV 
+# EXFOR BIB:
+#   Entry id: D6083-005-0 (entry-subentry-pointer) 
+#   Reaction code: (4-BE-9(3-LI-7,X)2-HE-4,,DA/DE) 
+#   First author: S.Verma 
+#   Institute:  (3INDDLH): Delhi University , Delhi 
+#   Reference:  (J,EPJ/A,44,385,2010) 
+#   Year:  2010 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6083.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6083
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        3.0000E+00        0.0000E+00        1.2500E+02        0.0000E+00        1.1099E-09        2.5550E-10
+        4.0000E+00        0.0000E+00        1.2500E+02        0.0000E+00        1.1217E-09        2.8590E-10
+        5.0000E+00        0.0000E+00        1.2500E+02        0.0000E+00        7.0785E-10        1.6540E-10
+        6.0000E+00        0.0000E+00        1.2500E+02        0.0000E+00        3.7710E-10        9.8000E-11
+        7.0000E+00        0.0000E+00        1.2500E+02        0.0000E+00        2.3275E-10        9.1700E-11
+        8.0000E+00        0.0000E+00        1.2500E+02        0.0000E+00        1.1805E-10        4.0700E-11
+        9.0000E+00        0.0000E+00        1.2500E+02        0.0000E+00        7.4250E-11        3.7300E-11
+        1.0000E+01        0.0000E+00        1.2500E+02        0.0000E+00        2.8250E-11        1.2600E-11
+        1.1000E+01        0.0000E+00        1.2500E+02        0.0000E+00        2.5500E-12        5.7000E-12

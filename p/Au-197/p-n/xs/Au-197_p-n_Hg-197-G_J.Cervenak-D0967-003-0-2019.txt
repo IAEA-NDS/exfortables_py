@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 79-AU-197(P,N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 79 
 #   A: 197 
 #   Nuclide: 79-AU-197 
 # Reaction: 
 #   Process: P,N 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  6.3500e+00 MeV - 2.7350e+01 MeV 
 # Residual: 
 #   Z: 80 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D09/D0967.x4 
 #   nds:  https://nds.iaea.org/EXFOR/D0967
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         2.7350E+01        0.0000E+00        1.2100E-02        2.1000E-03
         2.5860E+01        0.0000E+00        1.0700E-02        3.4000E-03
         2.4300E+01        0.0000E+00        1.2000E-02        3.3000E-03

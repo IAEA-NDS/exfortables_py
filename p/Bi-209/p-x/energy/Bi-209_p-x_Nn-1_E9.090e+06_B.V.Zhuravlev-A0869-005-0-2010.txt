@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 83-BI-209(P,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 83 
 #   A: 209 
@@ -14,7 +14,7 @@
 #   Z: 0 
 #   A: 1 
 #   Nuclide: 0-NN-1 
-#   Level energy: 3.0000e-01 MeV 
+#   Outgoing energy:  3.0000e-01 MeV - 4.7500e+00 MeV 
 # EXFOR BIB:
 #   Entry id: A0869-005-0 (entry-subentry-pointer) 
 #   Reaction code: (83-BI-209(P,X)0-NN-1,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A08/A0869.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A0869
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         3.0000E-01        0.0000E+00        1.7890E-08        1.7900E-09
         3.5000E-01        0.0000E+00        1.9620E-08        9.8000E-10
         4.0000E-01        0.0000E+00        2.0340E-08        9.3000E-10

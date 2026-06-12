@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 74-W-184(N,2N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 74 
 #   A: 184 
 #   Nuclide: 74-W-184 
 # Reaction: 
 #   Process: N,2N 
-#   MF-MT number: 3 - 16 
+#   MF-MT number: 3 - 16.0 
 #   Incident energy:  7.6700e+00 MeV - 1.4760e+01 MeV 
 # Residual: 
 #   Z: 74 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20416.x4 
 #   nds:  https://nds.iaea.org/EXFOR/20416
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         7.6700E+00        1.6000E-01        8.0000E-02        2.5000E-02
         7.9300E+00        1.5000E-01        1.5400E-01        1.6000E-02
         8.1800E+00        1.4500E-01        3.3500E-01        2.3000E-02

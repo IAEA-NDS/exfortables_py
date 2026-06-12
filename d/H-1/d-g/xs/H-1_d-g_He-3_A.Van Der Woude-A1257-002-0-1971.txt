@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 1-H-1(D,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+# Reaction: 
+#   Process: D,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.9800e+01 MeV - 4.5200e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1257-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-1(D,G)2-HE-3,,SIG) 
+#   First author: A.Van Der Woude 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,PRL,26,909,1971) 
+#   Year:  1971 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A12/A1257.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1257
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.9800E+01        0.0000E+00        1.1180E-05        7.7000E-07
+        2.9600E+01        0.0000E+00        1.0170E-05        6.7000E-07
+        4.1100E+01        0.0000E+00        1.1040E-05        8.0000E-07
+        4.5200E+01        0.0000E+00        1.3550E-05        1.0000E-06

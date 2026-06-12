@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 11-NA-23(N,A)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 11 
 #   A: 23 
 #   Nuclide: 11-NA-23 
 # Reaction: 
 #   Process: N,A 
-#   MF-MT number: 3 - 107 
+#   MF-MT number: 3 - 107.0 
 #   Incident energy:  6.8000e+00 MeV - 8.9750e+00 MeV 
 # Residual: 
 #   Z: 9 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20928.x4 
 #   nds:  https://nds.iaea.org/EXFOR/20928
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         6.8000E+00        2.5000E-02        3.3200E-03        4.9800E-04
         6.8250E+00        2.5000E-02        4.3800E-03        6.5700E-04
         6.8500E+00        2.5000E-02        4.4700E-03        6.7050E-04

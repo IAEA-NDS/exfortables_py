@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 20-CA-48(G,2N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 20 
 #   A: 48 
@@ -17,7 +17,7 @@
 #   Level energy: - 
 # EXFOR BIB:
 #   Entry id: M0636-008-0 (entry-subentry-pointer) 
-#   Reaction code: (20-CA-48(G,2N)20-CA-46,,SIG,,BRS) 
+#   Reaction code: (20-CA-48(G,2N)20-CA-46,,SIG,,BRS,DERIV) 
 #   First author: G.J.O'Keefe 
 #   Institute:  (3AULAML): University of Melbourne, Parkville, Victoria 
 #   Reference:  (J,NP/A,469,239,1987) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M06/M0636.x4 
 #   nds:  https://nds.iaea.org/EXFOR/M0636
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.7260E+01        0.0000E+00       -1.7000E-04        5.0000E-04
         1.7730E+01        0.0000E+00        2.6500E-03        6.6000E-04
         1.8250E+01        0.0000E+00        9.7700E-03        9.9000E-04

@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 26-FE-57(3-LI-7,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 26 
 #   A: 57 
@@ -14,7 +14,7 @@
 #   Z:  
 #   A:  
 #   Nuclide: MASS 
-#   Level energy: 2.3800e+00 MeV 
+#   Outgoing energy:  2.3800e+00 MeV - 1.4630e+01 MeV 
 # EXFOR BIB:
 #   Entry id: C1749-013-0 (entry-subentry-pointer) 
 #   Reaction code: (26-FE-57(3-LI-7,X)MASS,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C17/C1749.x4 
 #   nds:  https://nds.iaea.org/EXFOR/C1749
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         2.3800E+00        0.0000E+00        2.5600E-11        6.7400E-12
         2.6300E+00        0.0000E+00        5.7600E-10        1.5200E-10
         2.8800E+00        0.0000E+00        2.2800E-09        5.2100E-10

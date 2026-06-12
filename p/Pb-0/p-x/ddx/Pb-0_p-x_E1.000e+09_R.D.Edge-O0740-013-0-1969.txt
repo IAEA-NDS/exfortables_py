@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 82-PB-0(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.0000e+03 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Outgoing energy:  8.6700e+01 MeV - 8.2810e+02 MeV 
+# EXFOR BIB:
+#   Entry id: O0740-013-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(P,X)1-H-1,EM,DA/DE) 
+#   First author: R.D.Edge 
+#   Institute:  (1USASCA): University of South Carolina, Columbia, SC 
+#   Reference:  (J,PR,183,849,1969) 
+#   Year:  1969 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0740.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0740
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        8.6700E+01        2.8000E+00        3.2000E+01        0.0000E+00        9.3400E-10        8.4060E-12
+        1.7200E+02        2.8000E+00        3.2000E+01        0.0000E+00        1.1080E-09        9.9720E-12
+        3.5480E+02        2.8000E+00        3.2000E+01        0.0000E+00        7.0900E-10        6.3810E-12
+        8.2810E+02        2.8000E+00        3.2000E+01        0.0000E+00        1.2280E-10        1.1052E-12

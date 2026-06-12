@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 6-C-12(3-LI-6,EL)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 6 
 #   A: 12 
 #   Nuclide: 6-C-12 
 # Reaction: 
 #   Process: 3-LI-6,EL 
-#   MF-MT number: 4 - None 
+#   MF-MT number: 4 - 2 
 #   Incident energy:  3.1800e+02 MeV 
 # Residual: 
 #   Z: 6 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C05/C0503.x4 
 #   nds:  https://nds.iaea.org/EXFOR/C0503
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+# Angle_cm(degrees) dAngle_cm(degrees)     data_cm(B/SR)    ddata_cm(B/SR)
         4.4500E+00        4.0000E-02        7.4230E+00        3.0700E-01
         5.1900E+00        4.0000E-02        2.1660E+00        9.0700E-02
         5.9900E+00        4.0000E-02        3.9200E-01        1.7900E-02

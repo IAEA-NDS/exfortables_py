@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 47-AG-109(P,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 47 
 #   A: 109 
@@ -14,7 +14,7 @@
 #   Z: 0 
 #   A: 1 
 #   Nuclide: 0-NN-1 
-#   Level energy: 6.8000e+00 MeV 
+#   Outgoing energy:  6.8000e+00 MeV - 2.2660e+01 MeV 
 # EXFOR BIB:
 #   Entry id: O0536-009-0 (entry-subentry-pointer) 
 #   Reaction code: (47-AG-109(P,X)0-NN-1,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0536.x4 
 #   nds:  https://nds.iaea.org/EXFOR/O0536
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#   E_out_cm(MeV)    dE_out_cm(MeV)     data_cm(B/EV)    ddata_cm(B/EV)
         6.8000E+00        4.0000E-02        5.6200E-08        1.1240E-09
         7.4300E+00        4.0000E-02        3.6000E-08        7.2000E-10
         8.4900E+00        4.0000E-02        2.2700E-08        4.5400E-10

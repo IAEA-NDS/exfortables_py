@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 16-S-32(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 16 
+#   A: 32 
+#   Nuclide: 16-S-32 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 649 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 15 
+#   A: 32 
+#   Nuclide: 15-P-32 
+#   Level energy: 6.8000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 20980-006-0 (entry-subentry-pointer) 
+#   Reaction code: (16-S-32(N,P)15-P-32,PAR,SIG) 
+#   First author: L.Colli 
+#   Institute:  (2ITYCIS): Centro Informazioni Studi ed Esperienze (CISE), Milan 
+#   Reference:  (J,NC,17,(5),634,196009) 
+#   Year:  1960 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20980.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20980
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        1.0000E-01        5.7700E-02        0.0000E+00

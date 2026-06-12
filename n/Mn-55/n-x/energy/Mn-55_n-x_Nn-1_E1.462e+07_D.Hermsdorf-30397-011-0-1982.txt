@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 25-MN-55(N,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 25 
 #   A: 55 
@@ -14,7 +14,7 @@
 #   Z: 0 
 #   A: 1 
 #   Nuclide: 0-NN-1 
-#   Level energy: 2.0000e+00 MeV 
+#   Outgoing energy:  2.0000e+00 MeV - 1.4000e+01 MeV 
 # EXFOR BIB:
 #   Entry id: 30397-011-0 (entry-subentry-pointer) 
 #   Reaction code: (25-MN-55(N,X)0-NN-1,EM,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30397.x4 
 #   nds:  https://nds.iaea.org/EXFOR/30397
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         2.0000E+00        0.0000E+00        4.5500E-07        4.5500E-08
         2.2500E+00        0.0000E+00        3.9440E-07        3.9400E-08
         2.5000E+00        0.0000E+00        3.2910E-07        3.2900E-08

@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 1-H-2(D,EL)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 1 
 #   A: 2 
@@ -17,22 +17,22 @@
 #   Level energy: - 
 # EXFOR BIB:
 #   Entry id: A1217-002-0 (entry-subentry-pointer) 
-#   Reaction code: (1-H-2(D,EL)1-H-2,,DA,,,EXP) 
+#   Reaction code: (1-H-2(D,EL)1-H-2,,DA) 
 #   First author: J.M.Blair 
 #   Institute:  (1USAMIN): University of Minnesota, Minneapolis, MN 
-#   Reference:  (J,PR,74,(11),1594,194812) 
+#   Reference:  (J,PR,74,1594,1948) 
 #   Year:  1948 
 #   Facility:  (VDG): Van de Graaff 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A12/A1217.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A1217
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
-        2.0000E+01        0.0000E+00        1.7800E+00        2.6700E-02
-        3.0000E+01        0.0000E+00        7.1200E-01        1.0680E-02
-        4.0000E+01        0.0000E+00        4.5500E-01        6.8250E-03
-        5.0000E+01        0.0000E+00        3.5000E-01        5.2500E-03
-        6.0000E+01        0.0000E+00        2.8300E-01        4.2450E-03
-        7.0000E+01        0.0000E+00        2.3500E-01        3.5250E-03
-        8.0000E+01        0.0000E+00        2.2200E-01        3.3300E-03
-        9.0000E+01        0.0000E+00        2.1500E-01        3.2250E-03
-        1.0000E+02        0.0000E+00        2.2700E-01        3.4050E-03
+# Angle_cm(degrees) dAngle_cm(degrees)     data_cm(B/SR)    ddata_cm(B/SR)
+        2.0000E+01        0.0000E+00        1.7800E+00        4.4500E-02
+        3.0000E+01        0.0000E+00        7.1200E-01        1.7800E-02
+        4.0000E+01        0.0000E+00        4.5500E-01        1.1375E-02
+        5.0000E+01        0.0000E+00        3.5000E-01        8.7500E-03
+        6.0000E+01        0.0000E+00        2.8300E-01        7.0750E-03
+        7.0000E+01        0.0000E+00        2.3500E-01        5.8750E-03
+        8.0000E+01        0.0000E+00        2.2200E-01        5.5500E-03
+        9.0000E+01        0.0000E+00        2.1500E-01        5.3750E-03
+        1.0000E+02        0.0000E+00        2.2700E-01        5.6750E-03

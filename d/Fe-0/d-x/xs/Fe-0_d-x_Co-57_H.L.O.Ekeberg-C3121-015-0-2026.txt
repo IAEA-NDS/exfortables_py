@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 26-FE-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 26 
+#   A: 0 
+#   Nuclide: 26-FE-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.4800e+01 MeV - 2.9570e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 57 
+#   Nuclide: 27-CO-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C3121-015-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-0(D,X)27-CO-57,,SIG) 
+#   First author: H.L.O.Ekeberg 
+#   Institute:  (2NORNOR): Norway 
+#   Reference:  (J,ARI,229,112311,2026) 
+#   Year:  2026 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C31/C3121.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C3121
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.9570E+01        0.0000E+00        3.5910E-02        1.0600E-03
+        2.7250E+01        0.0000E+00        3.8370E-02        1.1300E-03
+        2.4800E+01        0.0000E+00        4.2630E-02        1.2700E-03

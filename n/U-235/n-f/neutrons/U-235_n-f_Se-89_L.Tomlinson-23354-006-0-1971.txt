@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission-neutron yield, nu-bar 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 1 - 18 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23354-006-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)ELEM/MASS,DL/CUM,NU,,SPA) 
+#   First author: L.Tomlinson 
+#   Institute:  (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference:  (J,JIN,33,3609,1971) 
+#   Year:  1971 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/233/23354.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23354
+#
+#      E_out(MeV)       dE_out(MeV)     data(PRT/FIS)    ddata(PRT/FIS)
+               NAN        0.0000E+00        5.5000E-05        2.5000E-05

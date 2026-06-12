@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 24-CR-0(N,X)  Differential with energy of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 24 
+#   A: 0 
+#   Nuclide: 24-CR-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 5 - None 
+#   Incident energy:  1.0790e+01 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 1 
+#   Nuclide: 0-NN-1 
+#   Outgoing energy:  1.5000e+00 MeV - 8.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 22411-003-0 (entry-subentry-pointer) 
+#   Reaction code: (24-CR-0(N,X)0-NN-1,EM,DE) 
+#   First author: D.Schmidt 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (C,97TRIEST,1,407,199705) 
+#   Year:  1997 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22411.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22411
+#
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
+        1.5000E+00        0.0000E+00        3.1932E-07        2.1075E-08
+        1.7500E+00        0.0000E+00        2.9344E-07        1.9660E-08
+        2.0000E+00        0.0000E+00        2.3293E-07        1.9100E-08
+        2.2500E+00        0.0000E+00        3.5063E-07        2.2791E-08
+        2.5000E+00        0.0000E+00        3.3382E-07        1.1684E-08
+        2.7500E+00        0.0000E+00        2.6995E-07        1.0258E-08
+        3.0000E+00        0.0000E+00        2.2834E-07        9.3619E-09
+        3.2500E+00        0.0000E+00        2.0133E-07        8.8585E-09
+        3.5000E+00        0.0000E+00        1.8516E-07        7.5916E-09
+        3.7500E+00        0.0000E+00        1.3338E-07        5.3352E-09
+        4.0000E+00        0.0000E+00        1.1667E-07        3.2668E-09
+        4.5000E+00        0.0000E+00        8.6520E-08        2.6821E-09
+        5.0000E+00        0.0000E+00        5.6230E-08        2.3617E-09
+        5.5000E+00        0.0000E+00        6.3390E-08        2.4088E-09
+        6.0000E+00        0.0000E+00        4.0500E-08        1.8630E-09
+        6.5000E+00        0.0000E+00        3.3910E-08        1.7633E-09
+        7.0000E+00        0.0000E+00        2.9010E-08        1.7116E-09
+        7.5000E+00        0.0000E+00        3.1470E-08        1.7938E-09
+        8.0000E+00        0.0000E+00        8.3700E-09        4.6872E-10

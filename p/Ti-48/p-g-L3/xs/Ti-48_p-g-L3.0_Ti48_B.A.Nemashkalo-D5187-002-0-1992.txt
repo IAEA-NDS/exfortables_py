@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 22-TI-48(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 22 
+#   A: 48 
+#   Nuclide: 22-TI-48 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.5570e+00 MeV - 3.4470e+00 MeV 
+# Residual: 
+#   Z: 23 
+#   A: 49 
+#   Nuclide: 23-V-49 
+#   Level energy: 7.4800e-01 MeV 
+# EXFOR BIB:
+#   Entry id: D5187-002-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-48(P,G)23-V-49,PAR,SIG) 
+#   First author: B.A.Nemashkalo 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,YF,55,123,1992) 
+#   Year:  1992 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D51/D5187.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D5187
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5570E+00        0.0000E+00        1.3734E-05        2.9100E-06
+        1.7570E+00        0.0000E+00        1.3128E-05        3.3950E-06
+        1.9440E+00        0.0000E+00        2.0999E-05        4.6040E-06
+        2.1800E+00        0.0000E+00        2.2354E-05        4.9700E-06
+        2.3230E+00        0.0000E+00        2.1956E-05        4.8450E-06
+        2.5400E+00        0.0000E+00        2.9360E-05        6.3050E-06
+        2.6240E+00        0.0000E+00        3.4259E-05        7.1450E-06
+        2.7040E+00        0.0000E+00        2.6065E-05        6.4290E-06
+        2.8610E+00        0.0000E+00        2.9676E-05        6.7900E-06
+        2.9940E+00        0.0000E+00        3.2180E-05        7.0320E-06
+        3.1110E+00        0.0000E+00        2.1221E-05        4.7270E-06
+        3.1960E+00        0.0000E+00        3.2181E-05        6.3050E-06
+        3.2980E+00        0.0000E+00        2.1940E-05        5.3350E-06
+        3.4470E+00        0.0000E+00        2.7970E-05        6.3040E-06

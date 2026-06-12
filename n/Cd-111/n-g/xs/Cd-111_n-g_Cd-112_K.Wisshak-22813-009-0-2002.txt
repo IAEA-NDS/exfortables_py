@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 48-CD-111(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 48 
 #   A: 111 
 #   Nuclide: 48-CD-111 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  4.0000e-03 MeV - 2.1250e-01 MeV 
 # Residual: 
 #   Z: 48 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22813.x4 
 #   nds:  https://nds.iaea.org/EXFOR/22813
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         4.0000E-03        0.0000E+00        1.5890E+00        5.5615E-02
         6.2500E-03        0.0000E+00        1.4470E+00        3.3281E-02
         8.7500E-03        0.0000E+00        1.2160E+00        2.6752E-02

@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 40-ZR-90(P,A)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 40 
 #   A: 90 
@@ -14,7 +14,7 @@
 #   Z: 39 
 #   A: 87 
 #   Nuclide: 39-Y-87 
-#   Level energy: 6.7400e+00 MeV 
+#   Outgoing energy:  6.7400e+00 MeV - 2.1260e+01 MeV 
 # EXFOR BIB:
 #   Entry id: O0936-004-0 (entry-subentry-pointer) 
 #   Reaction code: (40-ZR-90(P,A)39-Y-87,DI,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O09/O0936.x4 
 #   nds:  https://nds.iaea.org/EXFOR/O0936
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#   E_out_cm(MeV)    dE_out_cm(MeV)     data_cm(B/EV)    ddata_cm(B/EV)
         6.7400E+00        1.1000E-01        4.9000E-10        0.0000E+00
         6.8800E+00        1.1000E-01        9.1000E-10        0.0000E+00
         6.9000E+00        1.1000E-01        1.2800E-09        0.0000E+00

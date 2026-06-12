@@ -1,0 +1,31 @@
+# Header: 
+#   title: 77-IR-193(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 77 
+#   A: 193 
+#   Nuclide: 77-IR-193 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 6.30000E-01  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   MXW Simple Mean           |  Simple Stdev        : 9.94000E-01  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+30079-038-0         A.K.Chaubey             1966   2.4000E-02   0.0000E+00   6.3000E-01   5.0000E-02                
+22449-003-0         S.Jaag                  1997   3.0000E-02   0.0000E+00   9.9400E-01   7.0000E-02     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0102-449-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   9.9400E-01   7.0000E-02     MXW   RECOM
+V1002-467-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   9.9400E-01   7.0000E-02     MXW   RECOM

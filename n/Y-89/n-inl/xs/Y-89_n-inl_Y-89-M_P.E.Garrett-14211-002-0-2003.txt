@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 39-Y-89(N,INL)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 39 
 #   A: 89 
 #   Nuclide: 39-Y-89 
 # Reaction: 
 #   Process: N,INL 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  1.0100e+00 MeV - 1.9570e+01 MeV 
 # Residual: 
 #   Z: 39 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/142/14211.x4 
 #   nds:  https://nds.iaea.org/EXFOR/14211
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.0100E+00        1.2000E-02        9.9000E-02        1.0000E-02
         1.0310E+00        1.1000E-02        1.1100E-01        1.1000E-02
         1.0530E+00        1.3000E-02        1.2200E-01        1.2000E-02

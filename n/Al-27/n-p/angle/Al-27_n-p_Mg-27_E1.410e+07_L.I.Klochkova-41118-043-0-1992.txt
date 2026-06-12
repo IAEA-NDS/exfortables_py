@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 13-AL-27(N,P)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 13 
 #   A: 27 
 #   Nuclide: 13-AL-27 
 # Reaction: 
 #   Process: N,P 
-#   MF-MT number: 4 - 103 
+#   MF-MT number: 4 - 103.0 
 #   Incident energy:  1.4100e+01 MeV 
 # Residual: 
 #   Z: 12 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41118.x4 
 #   nds:  https://nds.iaea.org/EXFOR/41118
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+# Angle_cm(degrees) dAngle_cm(degrees)     data_cm(B/SR)    ddata_cm(B/SR)
         9.4200E+00        3.7000E-01        1.1211E-02        2.4610E-03
         1.6000E+01        3.7000E-01        1.0830E-02        1.2620E-03
         3.2430E+01        3.7000E-01        9.7510E-03        1.3880E-03

@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 47-AG-0(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 47 
 #   A: 0 
 #   Nuclide: 47-AG-0 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  4.5000e-03 MeV - 3.9000e-01 MeV 
 # Residual: 
 #   Z:  
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40967.x4 
 #   nds:  https://nds.iaea.org/EXFOR/40967
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         4.5000E-03        0.0000E+00        1.7710E+00        1.9100E-01
         5.5000E-03        0.0000E+00        1.6680E+00        1.3800E-01
         6.5000E-03        0.0000E+00        1.4200E+00        1.0800E-01

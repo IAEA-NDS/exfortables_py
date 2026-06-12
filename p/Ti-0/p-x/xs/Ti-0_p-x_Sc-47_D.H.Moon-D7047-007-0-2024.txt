@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 22-TI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 22 
+#   A: 0 
+#   Nuclide: 22-TI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.2500e+01 MeV - 5.0900e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 47 
+#   Nuclide: 21-SC-47 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D7047-007-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-0(P,X)21-SC-47,,SIG) 
+#   First author: D.H.Moon 
+#   Institute:  (3KORKAE): Korea Atomic Energy Research Instit. (KAERI), Daejeon 
+#   Reference:  (J,NET,56,5022,2024) 
+#   Year:  2024 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D70/D7047.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D7047
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.0900E+01        2.0000E-01        1.7880E-02        9.4000E-04
+        5.0500E+01        2.0000E-01        1.8360E-02        9.6000E-04
+        4.7900E+01        3.0000E-01        1.8350E-02        9.6000E-04
+        4.7400E+01        3.0000E-01        1.8950E-02        9.8000E-04
+        4.4700E+01        3.0000E-01        1.7530E-02        9.1000E-04
+        4.4200E+01        3.0000E-01        1.7680E-02        9.2000E-04
+        4.1200E+01        4.0000E-01        1.8840E-02        9.7000E-04
+        4.0700E+01        4.0000E-01        1.8960E-02        9.7000E-04
+        3.7500E+01        5.0000E-01        2.1280E-02        1.0700E-03
+        3.7000E+01        5.0000E-01        2.0890E-02        1.0500E-03
+        3.3600E+01        5.0000E-01        2.4160E-02        1.1600E-03
+        3.3100E+01        5.0000E-01        2.3300E-02        1.1100E-03
+        2.9300E+01        6.0000E-01        2.1230E-02        1.0200E-03
+        2.8700E+01        6.0000E-01        2.0340E-02        9.8000E-04
+        2.4300E+01        7.0000E-01        1.3030E-02        6.4000E-04
+        2.3600E+01        7.0000E-01        1.1080E-02        5.5000E-04
+        1.9600E+01        1.0000E+00        5.0200E-03        2.9000E-04
+        1.8700E+01        1.0000E+00        3.7100E-03        2.4000E-04
+        1.3800E+01        1.2000E+00        7.9000E-04        1.5000E-04
+        1.2500E+01        1.2000E+00        5.2000E-04        1.3000E-04

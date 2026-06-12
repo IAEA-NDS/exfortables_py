@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 30-ZN-68(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 30 
+#   A: 68 
+#   Nuclide: 30-ZN-68 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.4045e+00 MeV - 2.9536e+00 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 69 
+#   Nuclide: 31-GA-69 
+#   Level energy: 1.3370e+00 MeV 
+# EXFOR BIB:
+#   Entry id: D5005-008-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-68(P,G)31-GA-69,PAR,SIG) 
+#   First author: B.A.Nemashkalo 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,BAS,69,108,2005) 
+#   Year:  2005 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D50/D5005.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D5005
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.4045E+00        2.6487E-03        1.7273E-06        4.1655E-07
+        2.5992E+00        2.6487E-03        4.1820E-06        1.0085E-06
+        2.6981E+00        2.6487E-03        5.4246E-06        1.3078E-06
+        2.8517E+00        2.6487E-03        6.4931E-06        1.6580E-06
+        2.9363E+00        2.6487E-03        1.0696E-05        2.7312E-06
+        2.9536E+00        2.6487E-03        5.5930E-06        1.4282E-06

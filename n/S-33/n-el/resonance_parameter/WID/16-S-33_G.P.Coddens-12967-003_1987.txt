@@ -1,0 +1,50 @@
+# Header: 
+#   Title                 : 16-S-33 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2026-06-11 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12967-003-4 
+#   First Author          : G.P.Coddens 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,NP/A,469,480,8708) 
+#   Year                  : 1987 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 16 
+#   A                     : 33 
+#   Isomer                :  
+#   Nuclide               : 16-S-33 
+# Reaction: 
+#   EXFOR Reaction        : (16-S-33(N,EL),,WID) 
+#   Incident Energy       : 1.3450e+01 eV - 2.6092e+02 eV 
+#   Resonance Energy Type : EN-RES 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12967.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12967
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   1.3450E+01          NAN        2.0        NAN          NAN          NAN          NAN          NAN   7.5000E+01   1.0000E+00          NAN          NAN   8.3000E+01   3.0000E+00
+   1.7630E+01          NAN        2.0        NAN          NAN          NAN          NAN          NAN   3.9100E+02   8.0000E-01          NAN          NAN          NAN          NAN
+   2.3950E+01          NAN        3.0        NAN          NAN          NAN          NAN          NAN   1.6000E+02   9.0000E-01          NAN          NAN          NAN          NAN
+   5.2110E+01          NAN        2.0        NAN          NAN          NAN          NAN          NAN   3.4900E+02   6.0000E+00          NAN          NAN          NAN          NAN
+   5.3580E+01          NAN        3.0        NAN          NAN          NAN          NAN          NAN   6.8000E+01   3.0000E+00          NAN          NAN   1.2000E+02   1.1000E+01
+   5.9150E+01          NAN        2.0        NAN          NAN          NAN          NAN          NAN   2.7500E+02   5.0000E+00          NAN          NAN          NAN          NAN
+   7.0880E+01          NAN        1.0        NAN          NAN          NAN          NAN          NAN   6.5000E+01   1.0000E+01          NAN          NAN   1.7000E+02   5.0000E+01
+   7.7830E+01          NAN        2.0        NAN          NAN          NAN          NAN          NAN   5.0700E+02   1.3000E+01          NAN          NAN          NAN          NAN
+   8.1360E+01          NAN        2.0        NAN          NAN          NAN          NAN          NAN   7.0500E+02   1.9000E+01          NAN          NAN          NAN          NAN
+   8.4880E+01          NAN        1.0        NAN          NAN          NAN          NAN          NAN   1.3300E+03   8.0000E+01          NAN          NAN   3.9000E+03   3.0000E+02
+   8.7630E+01          NAN        1.0        NAN          NAN          NAN          NAN          NAN   2.8000E+02   2.0000E+01          NAN          NAN          NAN          NAN
+   1.0109E+02          NAN        2.0        NAN          NAN          NAN          NAN          NAN   1.2600E+03   2.5000E+01          NAN          NAN          NAN          NAN
+   1.2776E+02          NAN        1.0        NAN          NAN          NAN          NAN          NAN   3.6000E+02   4.0000E+01          NAN          NAN   5.2000E+02   1.2000E+02
+   1.5157E+02          NAN        1.0        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.6234E+02          NAN        0.0        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.6851E+02          NAN        2.0        NAN          NAN          NAN          NAN          NAN   3.4200E+03   8.0000E+01          NAN          NAN          NAN          NAN
+   1.7829E+02          NAN        2.0        NAN          NAN          NAN          NAN          NAN   7.6000E+02   4.0000E+01          NAN          NAN          NAN          NAN
+   1.9736E+02          NAN        3.0        NAN          NAN          NAN          NAN          NAN   6.1000E+02   3.0000E+01          NAN          NAN          NAN          NAN
+   2.0317E+02          NAN        3.0        NAN          NAN          NAN          NAN          NAN   2.0900E+03   8.0000E+01          NAN          NAN          NAN          NAN
+   2.2138E+02          NAN        2.0        NAN          NAN          NAN          NAN          NAN   6.9000E+02   7.0000E+01          NAN          NAN   2.8000E+02   1.0000E+02
+   2.2317E+02          NAN        0.0        NAN          NAN          NAN          NAN          NAN   4.4000E+03   9.0000E+02          NAN          NAN          NAN          NAN
+   2.2860E+02          NAN        3.0        NAN          NAN          NAN          NAN          NAN   7.6000E+02   5.0000E+01          NAN          NAN   2.3000E+02   6.0000E+01
+   2.3829E+02          NAN        3.0        NAN          NAN          NAN          NAN          NAN   4.6000E+02   3.0000E+01          NAN          NAN          NAN          NAN
+   2.5951E+02          NAN        2.0        NAN          NAN          NAN          NAN          NAN   6.7000E+02   6.0000E+01          NAN          NAN          NAN          NAN
+   2.6092E+02          NAN        1.0        NAN          NAN          NAN          NAN          NAN   3.0000E+02   7.0000E+01          NAN          NAN          NAN          NAN

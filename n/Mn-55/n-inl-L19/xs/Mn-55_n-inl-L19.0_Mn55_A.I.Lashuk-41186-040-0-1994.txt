@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 25-MN-55(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 25 
+#   A: 55 
+#   Nuclide: 25-MN-55 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 69.0 
+#   Incident energy:  2.7000e+00 MeV - 2.8600e+00 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 55 
+#   Nuclide: 25-MN-55 
+#   Level energy: 2.5640e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 41186-040-0 (entry-subentry-pointer) 
+#   Reaction code: (25-MN-55(N,INL)25-MN-55,PAR,SIG) 
+#   First author: A.I.Lashuk 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (J,YK,,(1),26,1994) 
+#   Year:  1994 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41186.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41186
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.7000E+00        0.0000E+00        3.1000E-02        4.0000E-03
+        2.8000E+00        0.0000E+00        3.4000E-02        4.0000E-03
+        2.8600E+00        0.0000E+00        2.6000E-02        3.0000E-03

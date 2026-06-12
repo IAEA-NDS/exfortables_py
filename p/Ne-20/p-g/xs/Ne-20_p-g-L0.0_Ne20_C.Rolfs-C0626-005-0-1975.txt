@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 10-NE-20(P,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 10 
 #   A: 20 
 #   Nuclide: 10-NE-20 
 # Reaction: 
 #   Process: P,G 
-#   MF-MT number: 3 - 102.0 
+#   MF-MT number: 3 - 102 
 #   Incident energy:  5.4830e-01 MeV - 1.4835e+00 MeV 
 # Residual: 
 #   Z: 11 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C06/C0626.x4 
 #   nds:  https://nds.iaea.org/EXFOR/C0626
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)        data(B*EV)       ddata(B*EV)
         5.4830E-01        0.0000E+00        1.5370E+03        3.4970E+02
         6.9180E-01        0.0000E+00        1.6460E+03        1.2610E+03
         7.5700E-01        0.0000E+00        1.2640E+03        6.8250E+02

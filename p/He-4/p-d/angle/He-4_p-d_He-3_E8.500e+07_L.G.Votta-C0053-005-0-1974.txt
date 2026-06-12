@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 2-HE-4(P,D)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 2 
 #   A: 4 
 #   Nuclide: 2-HE-4 
 # Reaction: 
 #   Process: P,D 
-#   MF-MT number: 4 - 104 
+#   MF-MT number: 4 - 104.0 
 #   Incident energy:  8.5000e+01 MeV 
 # Residual: 
 #   Z: 2 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C00/C0053.x4 
 #   nds:  https://nds.iaea.org/EXFOR/C0053
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+# Angle_cm(degrees) dAngle_cm(degrees)        data(B/SR)       ddata(B/SR)
         1.0360E+02        0.0000E+00        1.6400E-04        7.0000E-06
         1.1170E+02        0.0000E+00        1.8300E-04        1.3000E-05
         1.2830E+02        0.0000E+00        3.1900E-04        1.4000E-05

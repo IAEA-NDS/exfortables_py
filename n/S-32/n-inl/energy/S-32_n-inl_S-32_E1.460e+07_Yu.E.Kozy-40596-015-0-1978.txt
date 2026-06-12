@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 16-S-32(N,INL)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 16 
 #   A: 32 
@@ -14,7 +14,7 @@
 #   Z: 16 
 #   A: 32 
 #   Nuclide: 16-S-32 
-#   Level energy: 1.1600e+01 MeV 
+#   Outgoing energy:  1.1300e+00 MeV - 1.1600e+01 MeV 
 # EXFOR BIB:
 #   Entry id: 40596-015-0 (entry-subentry-pointer) 
 #   Reaction code: (16-S-32(N,INL)16-S-32,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40596.x4 
 #   nds:  https://nds.iaea.org/EXFOR/40596
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.1600E+01        0.0000E+00        1.8700E-08        0.0000E+00
         1.0200E+01        0.0000E+00        1.9800E-08        0.0000E+00
         9.0700E+00        0.0000E+00        2.3500E-08        0.0000E+00

@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 52-TE-126(N,INL)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 52 
 #   A: 126 
 #   Nuclide: 52-TE-126 
 # Reaction: 
 #   Process: N,INL 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  7.0000e-01 MeV - 1.0900e+00 MeV 
 # Residual: 
 #   Z: 52 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/410/41007.x4 
 #   nds:  https://nds.iaea.org/EXFOR/41007
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         7.0000E-01        0.0000E+00        2.7000E-01        3.0000E-01
         7.6000E-01        0.0000E+00        5.0000E-01        5.0000E-01
         8.0000E-01        0.0000E+00        5.3000E-01        5.0000E-01

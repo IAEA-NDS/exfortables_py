@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 3-LI-6(N,N+D)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 3 
 #   A: 6 
 #   Nuclide: 3-LI-6 
 # Reaction: 
 #   Process: N,N+D 
-#   MF-MT number: 3 - 32 
+#   MF-MT number: 3 - 32.0 
 #   Incident energy:  6.5000e+00 MeV 
 # Residual: 
 #   Z: 2 
@@ -26,5 +26,5 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/126/12660.x4 
 #   nds:  https://nds.iaea.org/EXFOR/12660
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)      data_aprx(B)     ddata_aprx(B)
         6.5000E+00        0.0000E+00        3.5000E-01        0.0000E+00

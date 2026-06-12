@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 33-AS-75(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 33 
+#   A: 75 
+#   Nuclide: 33-AS-75 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 76 
+#   Nuclide: 33-AS-76 
+#   Level energy: 1.6600e-01 MeV 
+# EXFOR BIB:
+#   Entry id: 31558-031-0 (entry-subentry-pointer) 
+#   Reaction code: (33-AS-75(N,G)33-AS-76,PAR,SIG) 
+#   First author: Zs.Revay 
+#   Institute:  (3HUNII): MTA Izotop Intezete, Budapest 
+#   Reference:  (J,RCA,91,361,2003) 
+#   Year:  2003 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31558.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31558
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.0000E+00        1.0000E-02

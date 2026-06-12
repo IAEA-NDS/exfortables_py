@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 49-IN-115(A,N)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 49 
 #   A: 115 
@@ -14,7 +14,7 @@
 #   Z: 51 
 #   A: 118 
 #   Nuclide: 51-SB-118 
-#   Level energy: 2.0620e+00 MeV 
+#   Outgoing energy:  2.0620e+00 MeV - 6.4170e+00 MeV 
 # EXFOR BIB:
 #   Entry id: A0835-002-0 (entry-subentry-pointer) 
 #   Reaction code: (49-IN-115(A,N)51-SB-118,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A08/A0835.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A0835
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         2.0620E+00        3.0000E-02        1.0200E-07        0.0000E+00
         2.2530E+00        3.0000E-02        1.1000E-07        0.0000E+00
         2.4660E+00        3.0000E-02        8.6000E-08        0.0000E+00

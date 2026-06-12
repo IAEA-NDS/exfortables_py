@@ -1,0 +1,41 @@
+# Header: 
+#   title: 19-K-41(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 19 
+#   A: 41 
+#   Nuclide: 19-K-41 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.45000E-02  |   4.43471E-03   (N = 4)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 2.60000E-02 +/-  3.53553E-03   (N = 4)
+#   MXW Simple Mean           |  Simple Stdev        : 1.92000E-02  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   SPA Simple Mean           |  Simple Stdev        : 2.17800E-02  |   1.92354E-04   (N = 5)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 5)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11399-006-0         R.L.Macklin             1957   2.4000E-02   0.0000E+00   2.0000E-02   0.0000E+00                
+11429-004-0         R.Booth                 1958   2.4000E-02   5.0000E-03   2.2000E-02   5.0000E-03                
+40421-006-0         V.N.Kononov             1958   2.4000E-02   0.0000E+00   2.6000E-02   0.0000E+00                
+30079-002-0         A.K.Chaubey             1966   2.4000E-02   0.0000E+00   3.0000E-02   5.0000E-03                
+23306-003-0         M.Heil                  2016   3.0000E-02   0.0000E+00   1.9200E-02   6.0000E-04     MXW        
+23306-005-0         M.Heil                  2016   2.5000E-02   0.0000E+00   2.2000E-02   0.0000E+00     SPA        
+23306-005-0         M.Heil                  2016   2.5000E-02   0.0000E+00   2.1800E-02   0.0000E+00     SPA        
+23306-007-0         M.Heil                  2016   2.5000E-02   0.0000E+00   2.1900E-02   8.0000E-04     SPA        
+23306-011-0         M.Heil                  2016   2.5000E-02   0.0000E+00   2.1700E-02   0.0000E+00     SPA        
+23306-011-0         M.Heil                  2016   2.5000E-02   0.0000E+00   2.1500E-02   0.0000E+00     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+12920-005-0         R.L.Macklin             1984   3.0000E-02   0.0000E+00   2.2000E-02   7.0000E-04     MXW   DERIV
+V0102-050-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.2000E-02   7.0000E-04     MXW   RECOM

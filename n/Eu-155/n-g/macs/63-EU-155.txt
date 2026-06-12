@@ -1,0 +1,30 @@
+# Header: 
+#   title: 63-EU-155(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 63 
+#   A: 155 
+#   Nuclide: 63-EU-155 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   MXW Simple Mean           |  Simple Stdev        : 1.56600E+00  |   1.35765E-01   (N = 2)
+#   MXW Weighted Mean        +/- Weighted Error      : 1.55592E+00 +/-  6.68965E-02   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22459-002-0         S.Jaag                  1995   2.5000E-02   0.0000E+00   1.4700E+00   9.0000E-02     MXW        
+22459-006-2         S.Jaag                  1995   2.5000E-02   0.0000E+00   1.6620E+00   1.0000E-01     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22459-005-0         S.Jaag                  1995   3.0000E-02   0.0000E+00   1.3200E+00   8.4000E-02     MXW   DERIV
+22459-007-0         S.Jaag                  1995   3.0000E-02   0.0000E+00   1.4930E+00   9.4000E-02     MXW   DERIV
+V0102-350-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.3200E+00   8.4000E-02     MXW   RECOM

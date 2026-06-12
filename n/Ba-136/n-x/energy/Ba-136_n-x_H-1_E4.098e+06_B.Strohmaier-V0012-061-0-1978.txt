@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 56-BA-136(N,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 56 
 #   A: 136 
@@ -14,7 +14,7 @@
 #   Z: 1 
 #   A: 1 
 #   Nuclide: 1-H-1 
-#   Level energy: 1.7500e+00 MeV 
+#   Outgoing energy:  1.7500e+00 MeV - 2.2500e+00 MeV 
 # EXFOR BIB:
 #   Entry id: V0012-061-0 (entry-subentry-pointer) 
 #   Reaction code: (56-BA-136(N,X)1-H-1,,DE,,,EVAL) 
@@ -26,6 +26,6 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/V00/V0012.x4 
 #   nds:  https://nds.iaea.org/EXFOR/V0012
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#   E_out_cm(MeV)    dE_out_cm(MeV)     data_cm(B/EV)    ddata_cm(B/EV)
         1.7500E+00        0.0000E+00        0.0000E+00        0.0000E+00
         2.2500E+00        0.0000E+00        2.3220E-14        0.0000E+00

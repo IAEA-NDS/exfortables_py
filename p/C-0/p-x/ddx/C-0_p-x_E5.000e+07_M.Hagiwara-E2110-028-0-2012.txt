@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 6-C-0(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 6 
+#   A: 0 
+#   Nuclide: 6-C-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  5.0000e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM 
+#   Outgoing energy:  1.0500e+01 MeV - 2.0500e+01 MeV 
+# EXFOR BIB:
+#   Entry id: E2110-028-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-0(P,X)ELEM,,DA/DE) 
+#   First author: M.Hagiwara 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,NST,49,(6),571,2012) 
+#   Year:  2012 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E21/E2110.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2110
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.0500E+01        0.0000E+00        3.0000E+01        0.0000E+00        7.5180E-10        5.5500E-11
+        1.1500E+01        0.0000E+00        3.0000E+01        0.0000E+00        6.6930E-10        4.9400E-11
+        1.2500E+01        0.0000E+00        3.0000E+01        0.0000E+00        5.6730E-10        4.1900E-11
+        1.3500E+01        0.0000E+00        3.0000E+01        0.0000E+00        3.7220E-10        2.7600E-11
+        1.4500E+01        0.0000E+00        3.0000E+01        0.0000E+00        1.8020E-10        1.3500E-11
+        1.5500E+01        0.0000E+00        3.0000E+01        0.0000E+00        5.0250E-11        3.9000E-12
+        1.6500E+01        0.0000E+00        3.0000E+01        0.0000E+00        6.2510E-12        6.2200E-13
+        1.7500E+01        0.0000E+00        3.0000E+01        0.0000E+00        9.1560E-13        2.0700E-13
+        1.8500E+01        0.0000E+00        3.0000E+01        0.0000E+00        3.5440E-13        1.2700E-13
+        1.9500E+01        0.0000E+00        3.0000E+01        0.0000E+00        2.7780E-13        1.1300E-13
+        2.0500E+01        0.0000E+00        3.0000E+01        0.0000E+00        9.4570E-14        4.8400E-14

@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 67-HO-165(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 67 
 #   A: 165 
 #   Nuclide: 67-HO-165 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  7.3250e-06 MeV - 1.5750e-03 MeV 
 # Residual: 
 #   Z: 67 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/415/41519.x4 
 #   nds:  https://nds.iaea.org/EXFOR/41519
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         7.3250E-06        0.0000E+00        7.8600E+01        8.0000E+00
         1.5750E-05        0.0000E+00        1.2400E+02        1.5000E+01
         3.4000E-05        0.0000E+00        3.8500E+01        5.0000E+00

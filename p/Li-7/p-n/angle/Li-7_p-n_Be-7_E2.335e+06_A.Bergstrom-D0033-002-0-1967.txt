@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 3-LI-7(P,N)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 3 
 #   A: 7 
 #   Nuclide: 3-LI-7 
 # Reaction: 
 #   Process: P,N 
-#   MF-MT number: 4 - 4 
+#   MF-MT number: 4 - 4.0 
 #   Incident energy:  2.3350e+00 MeV 
 # Residual: 
 #   Z: 4 
@@ -26,13 +26,13 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D00/D0033.x4 
 #   nds:  https://nds.iaea.org/EXFOR/D0033
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
-        1.0000E+00        0.0000E+00        7.6221E-02        3.8110E-03
-        8.9590E-01        0.0000E+00        6.9586E-02        3.4793E-03
-        6.1500E-01        0.0000E+00        5.5110E-02        2.7555E-03
-        2.3630E-01        0.0000E+00        4.2751E-02        2.1375E-03
-       -5.6500E-02        0.0000E+00        2.5693E-02        1.2946E-03
-       -1.5130E-01        0.0000E+00        2.3952E-02        1.1976E-03
-       -5.4810E-01        0.0000E+00        1.4504E-02        7.2520E-04
-       -7.2300E-01        0.0000E+00        1.1990E-02        5.9950E-04
-       -8.8340E-01        0.0000E+00        7.5127E-03        3.7560E-04
+# Angle_cm(degrees) dAngle_cm(degrees)     data_cm(B/SR)    ddata_cm(B/SR)
+        0.0000E+00        0.0000E+00        7.6221E-02        3.8110E-03
+        2.6376E+01        0.0000E+00        6.9586E-02        3.4793E-03
+        5.2048E+01        0.0000E+00        5.5110E-02        2.7555E-03
+        7.6332E+01        0.0000E+00        4.2751E-02        2.1375E-03
+        9.3239E+01        0.0000E+00        2.5693E-02        1.2946E-03
+        9.8702E+01        0.0000E+00        2.3952E-02        1.1976E-03
+        1.2324E+02        0.0000E+00        1.4504E-02        7.2520E-04
+        1.3630E+02        0.0000E+00        1.1990E-02        5.9950E-04
+        1.5206E+02        0.0000E+00        7.5127E-03        3.7560E-04

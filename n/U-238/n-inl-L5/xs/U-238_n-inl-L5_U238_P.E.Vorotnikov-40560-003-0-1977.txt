@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 92-U-238(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 55 
+#   Incident energy:  1.2000e+00 MeV - 1.4000e+00 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: 6.8000e-01 MeV 
+# EXFOR BIB:
+#   Entry id: 40560-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,INL)92-U-238,PAR,SIG) 
+#   First author: P.E.Vorotnikov 
+#   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference:  ((C,77KIEV,2,119,1977)=(R,INDC(CCP)-118,(2),119,1977)) 
+#   Year:  1977 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40560.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40560
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2000E+00        0.0000E+00        3.0000E-01        6.0000E-02
+        1.3500E+00        0.0000E+00        2.4000E-01        3.0000E-02
+        1.4000E+00        0.0000E+00        1.9000E-01        2.0000E-02

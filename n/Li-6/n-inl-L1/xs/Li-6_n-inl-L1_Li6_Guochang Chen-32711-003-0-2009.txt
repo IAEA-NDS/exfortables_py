@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 3-LI-6(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 51 
+#   Incident energy:  8.1700e+00 MeV - 1.0270e+01 MeV 
+# Residual: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+#   Level energy: 2.1860e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 32711-003-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(N,INL)3-LI-6,PAR,SIG) 
+#   First author: Guochang Chen 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,NSE,163,272,2009) 
+#   Year:  2009 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32711.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32711
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.1700E+00        0.0000E+00        1.7914E-01        1.5818E-02
+        1.0270E+01        0.0000E+00        1.2097E-01        1.0984E-02

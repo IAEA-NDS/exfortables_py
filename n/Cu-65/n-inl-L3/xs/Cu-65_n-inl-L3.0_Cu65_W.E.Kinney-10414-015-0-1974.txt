@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 29-CU-65(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 53.0 
+#   Incident energy:  5.5000e+00 MeV - 8.5000e+00 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+#   Level energy: 1.4810e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 10414-015-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(N,INL)29-CU-65,PAR,SIG) 
+#   First author: W.E.Kinney 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (R,ORNL-4908,197402) 
+#   Year:  1974 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10414.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10414
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.5000E+00        9.0000E-02        7.8200E-02        8.0546E-03
+        6.0000E+00        4.0000E-02        7.2630E-02        8.3525E-03
+        6.4900E+00        4.0000E-02        5.7740E-02        7.3907E-03
+        7.0000E+00        6.0000E-02        4.4050E-02        5.6384E-03
+        7.5000E+00        3.0000E-02        4.2490E-02        6.6709E-03
+        8.5000E+00        5.0000E-02        2.6820E-02        3.8621E-03

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 40-ZR-90(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 92 
+#   Incident energy:  1.8000e+01 MeV - 2.5000e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 90 
+#   Nuclide: 41-NB-90 
+#   Level energy: 5.0080e+00 MeV 
+# EXFOR BIB:
+#   Entry id: S0027-002-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(P,N)41-NB-90,PAR,SIG) 
+#   First author: J.D.Anderson 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR/C,38,1601,198810) 
+#   Year:  1988 
+#   Facility:  (CYGFF): Cyclograaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S00/S0027.x4 
+#   nds:  https://nds.iaea.org/EXFOR/S0027
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8000E+01        0.0000E+00        9.2000E-03        5.0000E-04
+        2.5000E+01        0.0000E+00        5.5000E-03        3.0000E-04

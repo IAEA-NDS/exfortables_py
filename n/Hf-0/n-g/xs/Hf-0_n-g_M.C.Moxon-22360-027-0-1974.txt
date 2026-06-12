@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 72-HF-0(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 72 
 #   A: 0 
 #   Nuclide: 72-HF-0 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  1.5000e-08 MeV - 7.5000e-07 MeV 
 # Residual: 
 #   Z:  
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22360.x4 
 #   nds:  https://nds.iaea.org/EXFOR/22360
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.5000E-08        6.1000E-13        1.3119E+02        0.0000E+00
         2.5000E-08        1.2200E-12        1.0429E+02        0.0000E+00
         3.5000E-08        1.8300E-12        8.8110E+01        0.0000E+00

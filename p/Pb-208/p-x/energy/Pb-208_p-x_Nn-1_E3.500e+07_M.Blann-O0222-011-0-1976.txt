@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 82-PB-208(P,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 82 
 #   A: 208 
@@ -14,7 +14,7 @@
 #   Z: 0 
 #   A: 1 
 #   Nuclide: 0-NN-1 
-#   Level energy: 1.0660e+01 MeV 
+#   Outgoing energy:  1.0660e+01 MeV - 3.0400e+01 MeV 
 # EXFOR BIB:
 #   Entry id: O0222-011-0 (entry-subentry-pointer) 
 #   Reaction code: (82-PB-208(P,X)0-NN-1,,DE,,,EXP) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0222.x4 
 #   nds:  https://nds.iaea.org/EXFOR/O0222
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.0660E+01        1.5000E-01        3.5400E-08        7.0800E-09
         1.1430E+01        1.5000E-01        3.2100E-08        6.4200E-09
         1.2200E+01        1.5000E-01        2.9100E-08        5.8200E-09

@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 64-GD-158(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 64 
+#   A: 158 
+#   Nuclide: 64-GD-158 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.0000e-02 MeV - 8.1500e-02 MeV 
+# Residual: 
+#   Z: 64 
+#   A: 159 
+#   Nuclide: 64-GD-159 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23080-003-0 (entry-subentry-pointer) 
+#   Reaction code: (64-GD-158(N,G)64-GD-159,,SIG,,AV) 
+#   First author: W.-Ch.Chung 
+#   Institute:  (2JPNTIT): Tokyo Institute of Technology, Tokyo 
+#   Reference:  (J,KPS,50,(5),1592,200705) 
+#   Year:  2007.0 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23080.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23080
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.0000E-02        0.0000E+00        3.9800E-01        3.0646E-02
+        3.0000E-02        0.0000E+00        2.9400E-01        1.8522E-02
+        4.0000E-02        0.0000E+00        2.7400E-01        1.5892E-02
+        5.0000E-02        0.0000E+00        2.5000E-01        1.4500E-02
+        6.0000E-02        0.0000E+00        2.4100E-01        1.3978E-02
+        8.1500E-02        0.0000E+00        2.2400E-01        1.2544E-02

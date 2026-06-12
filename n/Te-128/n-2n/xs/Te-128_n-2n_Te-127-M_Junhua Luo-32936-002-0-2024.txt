@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 52-TE-128(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 52 
+#   A: 128 
+#   Nuclide: 52-TE-128 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3590e+01 MeV - 1.4940e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 127 
+#   Nuclide: 52-TE-127-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32936-002-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-128(N,2N)52-TE-127-M,,SIG) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRCPR): China, People's Rep. 
+#   Reference:  (J,CPH/C,48,124001,2024) 
+#   Year:  2024 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/329/32936.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32936
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3590E+01        1.2000E-01        8.8700E-01        1.0200E-01
+        1.3860E+01        1.5000E-01        9.2300E-01        1.0600E-01
+        1.4130E+01        1.6000E-01        9.5900E-01        1.1600E-01
+        1.4700E+01        1.3000E-01        1.0060E+00        1.1300E-01
+        1.4940E+01        2.0000E-02        1.0280E+00        1.1600E-01

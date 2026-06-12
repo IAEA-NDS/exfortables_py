@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 24-CR-53(P,N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 24 
 #   A: 53 
 #   Nuclide: 24-CR-53 
 # Reaction: 
 #   Process: P,N 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  1.4170e+00 MeV - 1.9020e+00 MeV 
 # Residual: 
 #   Z: 25 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T01/T0122.x4 
 #   nds:  https://nds.iaea.org/EXFOR/T0122
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.4170E+00        0.0000E+00        4.0000E-05        0.0000E+00
         1.4240E+00        0.0000E+00        7.0000E-05        0.0000E+00
         1.4300E+00        0.0000E+00        9.0000E-05        0.0000E+00

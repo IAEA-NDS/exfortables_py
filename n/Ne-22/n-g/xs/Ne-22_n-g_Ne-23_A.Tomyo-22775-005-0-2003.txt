@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 10-NE-22(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 10 
 #   A: 22 
 #   Nuclide: 10-NE-22 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  5.0280e-03 MeV - 7.9982e-02 MeV 
 # Residual: 
 #   Z: 10 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22775.x4 
 #   nds:  https://nds.iaea.org/EXFOR/22775
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         5.0280E-03        1.2202E-05        1.2585E-04        4.8900E-06
         8.0450E-03        1.2202E-05        1.0568E-04        7.6406E-06
         9.8190E-03        1.2202E-05        9.7120E-05        7.6406E-06

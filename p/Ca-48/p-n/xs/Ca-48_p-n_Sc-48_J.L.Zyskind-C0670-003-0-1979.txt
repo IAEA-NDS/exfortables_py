@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 20-CA-48(P,N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 20 
 #   A: 48 
 #   Nuclide: 20-CA-48 
 # Reaction: 
 #   Process: P,N 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  9.5600e-01 MeV - 2.6700e+00 MeV 
 # Residual: 
 #   Z: 21 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C06/C0670.x4 
 #   nds:  https://nds.iaea.org/EXFOR/C0670
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         9.5600E-01        0.0000E+00        1.2200E-05        0.0000E+00
         9.8200E-01        0.0000E+00        1.7100E-05        0.0000E+00
         1.0070E+00        0.0000E+00        1.4400E-05        0.0000E+00

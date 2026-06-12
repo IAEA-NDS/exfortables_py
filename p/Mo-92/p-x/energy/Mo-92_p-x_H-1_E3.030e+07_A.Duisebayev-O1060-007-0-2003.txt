@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 42-MO-92(P,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 42 
 #   A: 92 
@@ -14,7 +14,7 @@
 #   Z: 1 
 #   A: 1 
 #   Nuclide: 1-H-1 
-#   Level energy: 3.6280e+00 MeV 
+#   Outgoing energy:  3.6280e+00 MeV - 2.6869e+01 MeV 
 # EXFOR BIB:
 #   Entry id: O1060-007-0 (entry-subentry-pointer) 
 #   Reaction code: (42-MO-92(P,X)1-H-1,EM,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O10/O1060.x4 
 #   nds:  https://nds.iaea.org/EXFOR/O1060
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         3.6280E+00        0.0000E+00        1.4670E-07        5.7210E-09
         4.1220E+00        0.0000E+00        1.6240E-07        6.2690E-09
         4.6170E+00        0.0000E+00        1.8080E-07        6.8930E-09

@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 27-CO-59(N,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 27 
 #   A: 59 
@@ -14,7 +14,7 @@
 #   Z: 2 
 #   A: 4 
 #   Nuclide: 2-HE-4 
-#   Level energy: 1.6500e+01 MeV 
+#   Outgoing energy:  1.6500e+01 MeV - 4.6500e+01 MeV 
 # EXFOR BIB:
 #   Entry id: 22810-045-0 (entry-subentry-pointer) 
 #   Reaction code: (27-CO-59(N,X)2-HE-4,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22810.x4 
 #   nds:  https://nds.iaea.org/EXFOR/22810
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.6500E+01        0.0000E+00        3.1600E-09        2.1900E-09
         1.9500E+01        0.0000E+00        1.6800E-09        1.2000E-09
         2.2500E+01        0.0000E+00        1.4200E-09        9.6000E-10

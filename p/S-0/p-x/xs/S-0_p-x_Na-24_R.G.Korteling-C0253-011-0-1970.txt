@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 16-S-0(P,X)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 16 
 #   A: 0 
@@ -17,16 +17,16 @@
 #   Level energy: - 
 # EXFOR BIB:
 #   Entry id: C0253-011-0 (entry-subentry-pointer) 
-#   Reaction code: (16-S-0(P,X)11-NA-24,,SIG) 
+#   Reaction code: (16-S-0(P,X)11-NA-24,CUM,SIG) 
 #   First author: R.G.Korteling 
 #   Institute:  (1USACAR): Carnegie Institute of Technology, Pittsburgh, PA, 
-#   Reference:  (J,PR/C,1,1960,70) 
+#   Reference:  (J,PR/C,1,1960,1970) 
 #   Year:  1970 
 #   Facility:  (SYNCY): Synchro cyclotron 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0253.x4 
 #   nds:  https://nds.iaea.org/EXFOR/C0253
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.0000E+02        1.0000E+01        1.0100E-03        1.3000E-04
         2.0000E+02        1.0000E+01        2.2000E-03        8.0000E-05
         3.0000E+02        1.0000E+01        3.0600E-03        7.0000E-05

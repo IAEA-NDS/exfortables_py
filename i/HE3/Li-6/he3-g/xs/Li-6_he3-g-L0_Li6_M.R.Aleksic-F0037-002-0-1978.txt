@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 3-LI-6(HE3,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: HE3,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  7.0120e-01 MeV - 8.2570e-01 MeV 
+# Residual: 
+#   Z: 5 
+#   A: 9 
+#   Nuclide: 5-B-9 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: F0037-002-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(HE3,G)5-B-9,PAR,SIG) 
+#   First author: M.R.Aleksic 
+#   Institute:  (3SRBBKB): Institut za Nuklearne Nauke "Vinca", Beograd 
+#   Reference:  (J,FIZ,10,273,1978) 
+#   Year:  1978 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F00/F0037.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0037
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.0120E-01        5.0000E-04        2.7630E-07        1.9330E-07
+        7.2540E-01        5.0000E-04        2.2800E-07        1.0710E-07
+        7.5080E-01        5.0000E-04        2.9080E-07        1.2640E-07
+        7.6060E-01        5.0000E-04        4.9920E-07        3.6920E-07
+        7.6510E-01        5.0000E-04        1.7150E-06        1.1300E-06
+        7.7070E-01        5.0000E-04        7.5990E-07        3.8420E-07
+        7.7490E-01        5.0000E-04        2.4580E-07        1.5240E-07
+        7.8490E-01        5.0000E-04        2.0980E-07        1.2190E-07
+        8.0000E-01        5.0000E-04        2.0800E-07        1.2890E-07
+        8.2570E-01        5.0000E-04        2.1360E-07        1.0060E-07

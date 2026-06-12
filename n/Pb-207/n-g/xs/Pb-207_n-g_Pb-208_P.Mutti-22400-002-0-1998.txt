@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 82-PB-207(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 82 
 #   A: 207 
 #   Nuclide: 82-PB-207 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  5.0000e-03 MeV - 5.0000e-02 MeV 
 # Residual: 
 #   Z: 82 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22400.x4 
 #   nds:  https://nds.iaea.org/EXFOR/22400
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         5.0000E-03        0.0000E+00        1.3760E-02        1.1200E-03
         8.0000E-03        0.0000E+00        1.1910E-02        1.0700E-03
         1.0000E-02        0.0000E+00        1.1770E-02        1.1300E-03

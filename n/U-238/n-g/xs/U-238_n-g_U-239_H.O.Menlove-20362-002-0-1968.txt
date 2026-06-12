@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 92-U-238(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 92 
 #   A: 238 
 #   Nuclide: 92-U-238 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  2.4400e-02 MeV - 5.0300e-01 MeV 
 # Residual: 
 #   Z: 92 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20362.x4 
 #   nds:  https://nds.iaea.org/EXFOR/20362
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         2.4400E-02        0.0000E+00        5.1600E-01        2.7000E-02
         3.0000E-02        0.0000E+00        4.7900E-01        1.4000E-02
         4.3800E-02        0.0000E+00        4.0400E-01        1.9000E-02

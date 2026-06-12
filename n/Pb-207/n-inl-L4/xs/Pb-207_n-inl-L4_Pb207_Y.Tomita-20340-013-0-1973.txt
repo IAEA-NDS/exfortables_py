@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 82-PB-207(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 82 
+#   A: 207 
+#   Nuclide: 82-PB-207 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 54 
+#   Incident energy:  3.0400e+00 MeV - 3.5600e+00 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 207 
+#   Nuclide: 82-PB-207 
+#   Level energy: 2.3400e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 20340-013-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-207(N,INL)82-PB-207,PAR,SIG) 
+#   First author: Y.Tomita 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  ((R,JAERI-M-5418,1973)=(R,INDC(JAP)-020,1973)) 
+#   Year:  1973 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20340.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20340
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0400E+00        3.0000E-02        1.4070E-01        5.7587E-03
+        3.5600E+00        3.0000E-02        1.3689E-01        5.7591E-03

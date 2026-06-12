@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 26-FE-54(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 26 
+#   A: 54 
+#   Nuclide: 26-FE-54 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 57 
+#   Incident energy:  3.2550e+00 MeV - 3.5560e+00 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 54 
+#   Nuclide: 26-FE-54 
+#   Level energy: 3.1660e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 13104-008-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-54(N,INL)26-FE-54,PAR,SIG) 
+#   First author: P.T.Guenther 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,ANE,13,601,1986) 
+#   Year:  1986 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13104.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13104
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.2550E+00        0.0000E+00        2.5880E-02        0.0000E+00
+        3.3560E+00        0.0000E+00        7.5070E-02        0.0000E+00
+        3.4570E+00        0.0000E+00        7.9380E-02        0.0000E+00
+        3.5560E+00        0.0000E+00        1.1728E-01        0.0000E+00

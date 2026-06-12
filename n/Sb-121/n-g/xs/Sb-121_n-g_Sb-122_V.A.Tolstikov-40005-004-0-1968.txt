@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 51-SB-121(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 51 
 #   A: 121 
 #   Nuclide: 51-SB-121 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  1.1000e-02 MeV - 3.1300e+00 MeV 
 # Residual: 
 #   Z: 51 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40005.x4 
 #   nds:  https://nds.iaea.org/EXFOR/40005
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.1000E-02        0.0000E+00        1.4180E+00        2.1695E-01
         2.4000E-02        0.0000E+00        1.0960E+00        1.6550E-01
         5.0000E-02        0.0000E+00        6.8500E-01        1.0343E-01

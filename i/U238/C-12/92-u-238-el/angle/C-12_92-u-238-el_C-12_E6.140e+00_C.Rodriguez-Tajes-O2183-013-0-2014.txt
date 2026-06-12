@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 6-C-12(92-U-238,EL)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 6 
 #   A: 12 
 #   Nuclide: 6-C-12 
 # Reaction: 
 #   Process: 92-U-238,EL 
-#   MF-MT number: 4 - None 
+#   MF-MT number: 4 - 2 
 #   Incident energy:  6.1400e-06 MeV 
 # Residual: 
 #   Z: 6 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2183.x4 
 #   nds:  https://nds.iaea.org/EXFOR/O2183
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+# Angle_cm(degrees) dAngle_cm(degrees)     data_cm(B/SR)    ddata_cm(B/SR)
         6.1610E+01        3.0552E+00        1.2915E-02        0.0000E+00
         6.4617E+01        2.9583E+00        3.9364E-02        0.0000E+00
         6.7527E+01        2.8622E+00        5.6479E-02        0.0000E+00

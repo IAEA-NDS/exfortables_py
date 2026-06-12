@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 40-ZR-90(G,P)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 40 
 #   A: 90 
 #   Nuclide: 40-ZR-90 
 # Reaction: 
 #   Process: G,P 
-#   MF-MT number: 3 - 103 
+#   MF-MT number: 3 - 103.0 
 #   Incident energy:  1.3000e+01 MeV - 2.3000e+01 MeV 
 # Residual: 
 #   Z: 39 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M07/M0741.x4 
 #   nds:  https://nds.iaea.org/EXFOR/M0741
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.3000E+01        0.0000E+00        1.4000E-02        2.9540E-03
         1.3400E+01        0.0000E+00        1.2280E-02        2.4770E-03
         1.3800E+01        0.0000E+00        1.0246E-02        9.2500E-04

@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 6-C-12(4-BE-14,INL)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 6 
 #   A: 12 
@@ -14,7 +14,7 @@
 #   Z: 6 
 #   A: 12 
 #   Nuclide: 6-C-12 
-#   Level energy: 1.2850e+00 MeV 
+#   Outgoing energy:  1.2850e+00 MeV - 4.2350e+00 MeV 
 # EXFOR BIB:
 #   Entry id: E2048-002-0 (entry-subentry-pointer) 
 #   Reaction code: (6-C-12(4-BE-14,INL)6-C-12,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E20/E2048.x4 
 #   nds:  https://nds.iaea.org/EXFOR/E2048
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.2850E+00        1.3000E-01        1.0915E-09        0.0000E+00
         1.3350E+00        1.3000E-01        5.8081E-09        0.0000E+00
         1.3850E+00        1.3000E-01        1.2307E-08        0.0000E+00

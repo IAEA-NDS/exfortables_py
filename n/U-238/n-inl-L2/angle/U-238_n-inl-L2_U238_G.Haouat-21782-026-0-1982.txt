@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 92-U-238(N,INL)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 4 - 52 
+#   Incident energy:  7.0000e-01 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: 1.4800e-01 MeV 
+# EXFOR BIB:
+#   Entry id: 21782-026-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,INL)92-U-238,PAR,DA) 
+#   First author: G.Haouat 
+#   Institute:  (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
+#   Reference:  (J,NSE,81,(4),491,1982) 
+#   Year:  1982 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21782.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21782
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+        3.0140E+01        0.0000E+00        3.1420E-02        4.4616E-03
+        5.0210E+01        0.0000E+00        2.9000E-02        4.2630E-03
+        7.0250E+01        0.0000E+00        2.9670E-02        4.4208E-03
+        8.5270E+01        0.0000E+00        2.9890E-02        3.9754E-03
+        9.0270E+01        0.0000E+00        2.7230E-02        3.7305E-03
+        9.5270E+01        0.0000E+00        3.0590E-02        3.9461E-03
+        1.0530E+02        0.0000E+00        2.8370E-02        3.5463E-03
+        1.1520E+02        0.0000E+00        3.1980E-02        4.1894E-03
+        1.2520E+02        0.0000E+00        2.8400E-02        3.5500E-03
+        1.3520E+02        0.0000E+00        2.8950E-02        3.7925E-03
+        1.4520E+02        0.0000E+00        2.8140E-02        3.7145E-03
+        1.5510E+02        0.0000E+00        2.8100E-02        3.7373E-03

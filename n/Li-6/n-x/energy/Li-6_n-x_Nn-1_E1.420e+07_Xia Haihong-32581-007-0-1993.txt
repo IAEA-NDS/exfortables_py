@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 3-LI-6(N,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 3 
 #   A: 6 
@@ -14,7 +14,7 @@
 #   Z: 0 
 #   A: 1 
 #   Nuclide: 0-NN-1 
-#   Level energy: 1.5000e+00 MeV 
+#   Outgoing energy:  1.5000e+00 MeV - 1.5000e+01 MeV 
 # EXFOR BIB:
 #   Entry id: 32581-007-0 (entry-subentry-pointer) 
 #   Reaction code: (3-LI-6(N,X)0-NN-1,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32581.x4 
 #   nds:  https://nds.iaea.org/EXFOR/32581
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.5000E+00        0.0000E+00        8.5240E-08        8.3600E-09
         1.7500E+00        0.0000E+00        6.7350E-08        7.7000E-09
         2.0000E+00        0.0000E+00        6.5060E-08        7.2300E-09

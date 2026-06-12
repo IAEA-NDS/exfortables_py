@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 63-EU-0(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 63 
 #   A: 0 
 #   Nuclide: 63-EU-0 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  1.1000e-06 MeV - 3.1000e-02 MeV 
 # Residual: 
 #   Z:  
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20352.x4 
 #   nds:  https://nds.iaea.org/EXFOR/20352
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.1000E-06        0.0000E+00        9.2700E+02        0.0000E+00
         1.2000E-06        0.0000E+00        5.6000E+02        0.0000E+00
         1.3000E-06        0.0000E+00        7.1300E+02        0.0000E+00

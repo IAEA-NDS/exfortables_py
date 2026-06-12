@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission-product yield 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18.0 
+#   Incident energy:  1.3700e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14850-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)ELEM/MASS,CUM,FY) 
+#   First author: A.P.Tonchev 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,NDS,202,12,2025) 
+#   Year:  2025 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/148/14850.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14850
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             38.0             91.0                         5.4200E-02        3.3000E-03
+             38.0             92.0                         5.6600E-02        4.3000E-03
+             40.0             97.0                         6.1100E-02        1.7000E-03
+             42.0             99.0                         6.2400E-02        2.5000E-03
+             44.0            105.0                         1.1000E-02        7.0000E-04
+             51.0            127.0                         2.3000E-03        1.0000E-04
+             52.0            132.0                         5.2500E-02        2.9000E-03
+             53.0            131.0                         3.5100E-02        1.3000E-03
+             53.0            133.0                         7.1800E-02        2.9000E-03
+             54.0            135.0                         7.5400E-02        4.0000E-03
+             56.0            140.0                         6.2500E-02        1.9000E-03
+             58.0            143.0                         5.8500E-02        2.5000E-03
+             60.0            147.0                         2.3800E-02        9.0000E-04

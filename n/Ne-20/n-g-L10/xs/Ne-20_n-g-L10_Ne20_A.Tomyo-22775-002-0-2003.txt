@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 10-NE-20(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 10 
+#   A: 20 
+#   Nuclide: 10-NE-20 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.6543e-02 MeV - 4.9014e-02 MeV 
+# Residual: 
+#   Z: 10 
+#   A: 21 
+#   Nuclide: 10-NE-21 
+#   Level energy: 4.7250e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 22775-002-0 (entry-subentry-pointer) 
+#   Reaction code: (10-NE-20(N,G)10-NE-21,PAR,SIG) 
+#   First author: A.Tomyo 
+#   Institute:  (2JPNOSA): Osaka University , Osaka 
+#   Reference:  (J,NP/A,718,527C,2003) 
+#   Year:  2003 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22775.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22775
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6543E-02        6.8000E-05        2.8260E-05        1.6369E-06
+        4.9014E-02        6.8000E-05        1.6900E-05        2.1824E-06

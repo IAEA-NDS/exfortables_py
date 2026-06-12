@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 60-ND-144(N,A)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 60 
 #   A: 144 
@@ -14,7 +14,7 @@
 #   Z: 58 
 #   A: 141 
 #   Nuclide: 58-CE-141 
-#   Level energy: 1.9100e+01 MeV 
+#   Outgoing energy:  1.9100e+01 MeV - 2.5900e+01 MeV 
 # EXFOR BIB:
 #   Entry id: 31800-003-0 (entry-subentry-pointer) 
 #   Reaction code: (60-ND-144(N,A)58-CE-141,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/318/31800.x4 
 #   nds:  https://nds.iaea.org/EXFOR/31800
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.9100E+01        0.0000E+00        7.0000E-10        2.2000E-10
         1.9200E+01        0.0000E+00        7.7000E-10        2.2000E-10
         1.9300E+01        0.0000E+00        2.6000E-10        2.1000E-10

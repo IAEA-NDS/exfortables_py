@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 5-B-11(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 5 
+#   A: 11 
+#   Nuclide: 5-B-11 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 800 
+#   Incident energy:  1.4400e+01 MeV 
+# Residual: 
+#   Z: 3 
+#   A: 8 
+#   Nuclide: 3-LI-8 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 30530-002-0 (entry-subentry-pointer) 
+#   Reaction code: (5-B-11(N,A)3-LI-8,PAR,SIG) 
+#   First author: B.Antolkovic 
+#   Institute:  (3CRORBZ): Institute Rudjer Boskovic, Zagreb 
+#   Reference:  (J,NP/A,325,189,197908) 
+#   Year:  1979 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30530.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30530
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4400E+01        0.0000E+00        2.0500E-02        3.5000E-03

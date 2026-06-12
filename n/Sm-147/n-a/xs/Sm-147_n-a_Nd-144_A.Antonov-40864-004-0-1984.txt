@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 62-SM-147(N,A)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 62 
 #   A: 147 
 #   Nuclide: 62-SM-147 
 # Reaction: 
 #   Process: N,A 
-#   MF-MT number: 3 - 107 
+#   MF-MT number: 3 - 107.0 
 #   Incident energy:  5.1500e-05 MeV - 2.7500e-03 MeV 
 # Residual: 
 #   Z: 60 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40864.x4 
 #   nds:  https://nds.iaea.org/EXFOR/40864
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         5.1500E-05        0.0000E+00        1.0500E-03        0.0000E+00
         1.5000E-04        0.0000E+00        2.2400E-03        0.0000E+00
         2.5000E-04        0.0000E+00        5.9000E-04        0.0000E+00

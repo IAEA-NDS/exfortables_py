@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 5-B-11(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 5 
+#   A: 11 
+#   Nuclide: 5-B-11 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.8000e+01 MeV - 4.3700e+01 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+#   Level energy: 1.5100e+01 MeV 
+# EXFOR BIB:
+#   Entry id: F0358-004-0 (entry-subentry-pointer) 
+#   Reaction code: (5-B-11(P,G)6-C-12,PAR,SIG,,D4PI) 
+#   First author: M.Anghinolfi 
+#   Institute:  (2ITYGVA): Universita degli Studi di Genova + INFN Genova 
+#   Reference:  (J,NP/A,399,66,1983) 
+#   Year:  1983 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F03/F0358.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0358
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8000E+01        2.0000E-01        3.1240E-07        4.5970E-08
+        1.9000E+01        2.0000E-01        5.4260E-07        2.2980E-08
+        2.1500E+01        2.0000E-01        3.3650E-07        3.4430E-08
+        2.4000E+01        2.0000E-01        2.1090E-07        3.4480E-08
+        2.7000E+01        2.0000E-01        2.4630E-07        3.4520E-08
+        3.0000E+01        2.0000E-01        2.5880E-07        2.2980E-08
+        3.2000E+01        2.0000E-01        2.0200E-07        3.4470E-08
+        3.4000E+01        2.0000E-01        1.4510E-07        3.4480E-08
+        3.6000E+01        2.0000E-01        9.9810E-08        2.2980E-08
+        3.9000E+01        2.0000E-01        8.9280E-08        2.3030E-08
+        4.3700E+01        2.0000E-01        6.7850E-08        1.1490E-08

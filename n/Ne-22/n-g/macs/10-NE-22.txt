@@ -1,0 +1,44 @@
+# Header: 
+#   title: 10-NE-22(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 10 
+#   A: 22 
+#   Nuclide: 10-NE-22 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   MXW Simple Mean           |  Simple Stdev        : 6.87200E-05  |   3.37336E-06  (N = 10)
+#   MXW Weighted Mean        +/- Weighted Error      : 6.82670E-05 +/-  1.55045E-06  (N = 10)
+#   MXW/FCT Simple Mean       |  Simple Stdev        : 6.60000E-05  |           NAN   (N = 1)
+#   MXW/FCT Weighted Mean    +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22255-003-1         H.Beer                  1991   2.5000E-02   0.0000E+00   6.5200E-05   6.2000E-06     MXW        
+22255-003-2         H.Beer                  1991   2.5000E-02   0.0000E+00   7.5200E-05   6.9000E-06     MXW        
+22255-003-3         H.Beer                  1991   2.5000E-02   0.0000E+00   6.3600E-05   4.0000E-06     MXW        
+22255-003-4         H.Beer                  1991   2.5000E-02   0.0000E+00   6.8300E-05   4.5000E-06     MXW        
+22255-003-5         H.Beer                  1991   2.5000E-02   0.0000E+00   6.8000E-05   4.3000E-06     MXW        
+22255-006-1         H.Beer                  1991   2.5000E-02   0.0000E+00   6.8300E-05   6.3000E-06     MXW        
+22255-006-2         H.Beer                  1991   2.5000E-02   0.0000E+00   6.8500E-05   6.5000E-06     MXW        
+22255-006-3         H.Beer                  1991   2.5000E-02   0.0000E+00   6.6800E-05   4.1000E-06     MXW        
+22255-006-4         H.Beer                  1991   2.5000E-02   0.0000E+00   7.1800E-05   4.7000E-06     MXW        
+22255-006-5         H.Beer                  1991   2.5000E-02   0.0000E+00   7.1500E-05   4.5000E-06     MXW        
+22255-002-0         H.Beer                  1991   2.5000E-02   0.0000E+00   6.6000E-05   5.0000E-06 MXW/FCT        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22255-004-0         H.Beer                  1991   3.0000E-02   0.0000E+00   5.3000E-05   4.4000E-06     MXW   DERIV
+22255-005-0         H.Beer                  1991   2.5000E-02   0.0000E+00   6.9000E-05   5.0000E-06     MXW   DERIV
+22255-008-0         H.Beer                  1991   3.0000E-02   0.0000E+00   5.6000E-05   4.6000E-06     MXW   DERIV
+V0102-019-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   5.9000E-05   6.0000E-06     MXW   RECOM
+V0102-020-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   5.8000E-05   4.0000E-06     MXW   RECOM
+V1001-057-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   5.8000E-05   4.0000E-06     MXW   RECOM

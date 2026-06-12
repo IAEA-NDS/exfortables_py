@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 8-O-16(N,INL)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 8 
 #   A: 16 
 #   Nuclide: 8-O-16 
 # Reaction: 
 #   Process: N,INL 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  1.2015e+01 MeV - 1.5245e+01 MeV 
 # Residual: 
 #   Z: 8 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10097.x4 
 #   nds:  https://nds.iaea.org/EXFOR/10097
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.2015E+01        0.0000E+00        1.6100E-01        2.1000E-02
         1.3440E+01        0.0000E+00        1.6800E-01        2.4000E-02
         1.5245E+01        0.0000E+00        1.4100E-01        2.0000E-02

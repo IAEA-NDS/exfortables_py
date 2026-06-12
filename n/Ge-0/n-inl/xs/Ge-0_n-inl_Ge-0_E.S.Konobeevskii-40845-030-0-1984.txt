@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 32-GE-0(N,INL)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 32 
 #   A: 0 
 #   Nuclide: 32-GE-0 
 # Reaction: 
 #   Process: N,INL 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  1.0000e+00 MeV 
 # Residual: 
 #   Z: 32 
@@ -20,11 +20,11 @@
 #   Reaction code: (32-GE-0(N,INL)32-GE-0,,SIG) 
 #   First author: E.S.Konobeevskii 
 #   Institute:  (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
-#   Reference:  (J,IZV,48,389,1984) 
+#   Reference:  (J,BAS,48,(2),169,1984) 
 #   Year:  1984 
 #   Facility:  (VDG): Van de Graaff 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40845.x4 
 #   nds:  https://nds.iaea.org/EXFOR/40845
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.0000E+00        0.0000E+00        1.3500E+00        1.2000E-01

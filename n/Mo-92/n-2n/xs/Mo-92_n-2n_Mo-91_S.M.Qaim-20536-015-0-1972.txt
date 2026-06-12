@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 42-MO-92(N,2N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 42 
 #   A: 92 
 #   Nuclide: 42-MO-92 
 # Reaction: 
 #   Process: N,2N 
-#   MF-MT number: 3 - 16 
+#   MF-MT number: 3 - 16.0 
 #   Incident energy:  1.4700e+01 MeV 
 # Residual: 
 #   Z: 42 
@@ -26,5 +26,5 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20536.x4 
 #   nds:  https://nds.iaea.org/EXFOR/20536
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.4700E+01        3.0000E-01        2.2600E-01        2.2000E-02

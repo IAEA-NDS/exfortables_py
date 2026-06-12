@@ -1,0 +1,41 @@
+# Header: 
+#   title: 40-ZR-96(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 40 
+#   A: 96 
+#   Nuclide: 40-ZR-96 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.46667E-02  |   1.41892E-02   (N = 3)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.23883E-02 +/-  6.88386E-04   (N = 3)
+#   MXW Simple Mean           |  Simple Stdev        : 2.16000E-02  |   1.68036E-02   (N = 3)
+#   MXW Weighted Mean        +/- Weighted Error      : 1.19162E-02 +/-  2.82764E-04   (N = 3)
+#   SPA Simple Mean           |  Simple Stdev        : 1.19000E-02  |           NAN   (N = 1)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11399-021-0         R.L.Macklin             1957   2.4000E-02   0.0000E+00   2.2000E-02   4.0000E-03                
+11845-006-0         R.L.Macklin             1963   3.0000E-02   0.0000E+00   4.0000E-02   1.2000E-02                
+12831-007-0         J.M.Wyrick              1982   3.0000E-02   7.0000E-03   1.2000E-02   7.0000E-04                
+14322-021-0         R.L.Macklin             1967   3.0000E-02   0.0000E+00   4.1000E-02   1.2000E-02     MXW        
+22182-003-0         K.A.Toukan              1990   2.5000E-02   0.0000E+00   1.1600E-02   4.0000E-04     MXW        
+22182-007-2         K.A.Toukan              1990   2.5000E-02   0.0000E+00   1.2200E-02   4.0000E-04     MXW        
+31765-003-0         M.Tessler               2015   3.0000E-02   0.0000E+00   1.1900E-02   4.0000E-04     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22182-005-0         K.A.Toukan              1990   3.0000E-02   0.0000E+00   1.0700E-02   5.0000E-04     MXW   DERIV
+22182-009-0         K.A.Toukan              1990   3.0000E-02   0.0000E+00   1.1100E-02   5.0000E-04     MXW   DERIV
+22978-008-0         G.Tagliente             2007   3.0000E-02   0.0000E+00   7.5000E-03   4.0000E-04     MXW   DERIV
+31765-005-0         M.Tessler               2015   3.0000E-02   0.0000E+00   1.2400E-02   5.0000E-04     MXW   DERIV
+V0102-166-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.0700E-02   5.0000E-04     MXW   RECOM

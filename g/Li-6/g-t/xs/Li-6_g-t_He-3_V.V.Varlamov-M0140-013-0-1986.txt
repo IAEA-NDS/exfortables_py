@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 3-LI-6(G,T)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 3 
 #   A: 6 
 #   Nuclide: 3-LI-6 
 # Reaction: 
 #   Process: G,T 
-#   MF-MT number: 3 - 105 
+#   MF-MT number: 3 - 105.0 
 #   Incident energy:  1.6500e+01 MeV - 5.0000e+01 MeV 
 # Residual: 
 #   Z: 2 
@@ -20,13 +20,13 @@
 #   Reaction code: (3-LI-6(G,T)2-HE-3,,SIG,,,EVAL) 
 #   First author: V.V.Varlamov 
 #   Institute:  (4RUSMOS): Moscow State University , Moscow 
-#   Reference:  (B,CDFE/LI2,1,1986) 
+#   Reference:  (B,CDFE/LI2,1,,1986) 
 #   Year:  1986 
 #   Facility:  None 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M01/M0140.x4 
 #   nds:  https://nds.iaea.org/EXFOR/M0140
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.6500E+01        0.0000E+00        7.0000E-05        1.0000E-05
         1.7000E+01        0.0000E+00        2.9000E-04        4.0000E-05
         1.7500E+01        0.0000E+00        5.0000E-04        7.0000E-05

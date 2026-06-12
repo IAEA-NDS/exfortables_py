@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 64-GD-154(P,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 64 
+#   A: 154 
+#   Nuclide: 64-GD-154 
+# Reaction: 
+#   Process: P,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.1900e+01 MeV - 1.8200e+01 MeV 
+# Residual: 
+#   Z: 65 
+#   A: 153 
+#   Nuclide: 65-TB-153 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2554-027-0 (entry-subentry-pointer) 
+#   Reaction code: (64-GD-154(P,2N)65-TB-153,,SIG) 
+#   First author: G.Dellepiane 
+#   Institute:  (2SWTUBE): Universitaet Bern, Bern 
+#   Reference:  (J,ARI,200,110969,2023) 
+#   Year:  2023 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O25/O2554.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2554
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1900E+01        4.0000E-01        1.8100E-01        4.5000E-02
+        1.2100E+01        4.0000E-01        1.9400E-01        5.2000E-02
+        1.3000E+01        4.0000E-01        3.5800E-01        3.3000E-02
+        1.4500E+01        4.0000E-01        5.2800E-01        4.4000E-02
+        1.5800E+01        4.0000E-01        6.4800E-01        5.1000E-02
+        1.7100E+01        4.0000E-01        9.0100E-01        7.2000E-02
+        1.8200E+01        4.0000E-01        1.0980E+00        1.1800E-01

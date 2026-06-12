@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 83-BI-209(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  9.0000e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Outgoing energy:  1.4790e+01 MeV - 5.9930e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O0137-215-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(P,X)2-HE-3,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,698,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0137.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0137
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.4790E+01        0.0000E+00        1.4000E+02        0.0000E+00        2.0900E-12        2.0900E-13
+        1.8850E+01        0.0000E+00        1.4000E+02        0.0000E+00        2.9830E-12        2.9830E-13
+        2.8840E+01        0.0000E+00        1.4000E+02        0.0000E+00        3.3520E-12        3.3520E-13
+        3.6720E+01        0.0000E+00        1.4000E+02        0.0000E+00        2.3080E-12        2.3080E-13
+        4.3400E+01        0.0000E+00        1.4000E+02        0.0000E+00        1.4420E-12        1.4420E-13
+        4.9200E+01        0.0000E+00        1.4000E+02        0.0000E+00        6.4920E-13        6.4920E-14
+        5.3040E+01        0.0000E+00        1.4000E+02        0.0000E+00        3.3440E-13        3.3440E-14
+        5.6070E+01        0.0000E+00        1.4000E+02        0.0000E+00        1.6150E-13        1.6150E-14
+        5.9930E+01        0.0000E+00        1.4000E+02        0.0000E+00        8.8820E-14        8.8820E-15

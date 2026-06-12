@@ -1,0 +1,30 @@
+# Header: 
+#   title: 14-SI-30(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 14 
+#   A: 30 
+#   Nuclide: 14-SI-30 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.98000E-03  |   1.13137E-04   (N = 2)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 2.04342E-03 +/-  4.82854E-04   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11429-003-0         R.Booth                 1958   2.4000E-02   5.0000E-03   1.9000E-03   1.5000E-03                
+40421-004-0         V.N.Kononov             1958   2.4000E-02   0.0000E+00   2.0600E-03   5.1000E-04                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0102-031-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   6.5000E-03   6.0000E-04     MXW   RECOM
+V0102-032-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.8200E-03   3.3000E-04     MXW   RECOM
+V1001-088-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   1.3400E-03   1.3000E-04     MXW   RECOM

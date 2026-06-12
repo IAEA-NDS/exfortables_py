@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 21-SC-45 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2026-06-11 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 21280-005-1 
+#   First Author          : N.J.Pattenden 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (J,PPS/A,68,104,55) 
+#   Year                  : 1955 
+#   Facility              : (CHOPS): Slow chopper 
+# Target: 
+#   Z                     : 21 
+#   A                     : 45 
+#   Isomer                :  
+#   Nuclide               : 21-SC-45 
+# Reaction: 
+#   EXFOR Reaction        : (21-SC-45(N,TOT),,WID) 
+#   Incident Energy       : -1.3000e+02 eV - 3.6000e+03 eV 
+#   Resonance Energy Type : EN-RES 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21280.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21280
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+  -1.3000E+02   3.0000E+01        NAN        NAN          NAN          NAN   2.5000E-01   1.0000E-01          NAN          NAN          NAN          NAN          NAN          NAN
+   3.6000E+03   2.0000E+02        NAN        NAN   1.8000E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 60-ND-143(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 60 
+#   A: 143 
+#   Nuclide: 60-ND-143 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 849.0 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 140 
+#   Nuclide: 58-CE-140 
+#   Level energy: 7.2000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 40775-002-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-143(N,A)58-CE-140,PAR,SIG,,MXW) 
+#   First author: V.N.Andreev 
+#   Institute:  (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
+#   Reference:  (J,YF,1,(2),252,1965) 
+#   Year:  1965 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/407/40775.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40775
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.5300E-08        0.0000E+00        3.0000E-04        1.0000E-04

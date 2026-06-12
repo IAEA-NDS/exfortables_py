@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 9-F-19(N,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 9 
 #   A: 19 
@@ -14,7 +14,7 @@
 #   Z: 0 
 #   A: 1 
 #   Nuclide: 0-NN-1 
-#   Level energy: 1.5400e+01 MeV 
+#   Outgoing energy:  8.0000e-01 MeV - 1.5400e+01 MeV 
 # EXFOR BIB:
 #   Entry id: 22075-014-1 (entry-subentry-pointer) 
 #   Reaction code: (9-F-19(N,X)0-NN-1,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22075.x4 
 #   nds:  https://nds.iaea.org/EXFOR/22075
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.5400E+01        0.0000E+00        1.3200E-08        2.4600E-09
         1.5200E+01        0.0000E+00        5.4300E-08        3.3100E-09
         1.5000E+01        0.0000E+00        1.1200E-07        5.2000E-09

@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 2-HE-6(P,G)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 2 
 #   A: 6 
@@ -14,7 +14,7 @@
 #   Z: 3 
 #   A: 7 
 #   Nuclide: 3-LI-7 
-#   Level energy: 3.0002e+00 MeV 
+#   Outgoing energy:  3.0002e+00 MeV - 4.7055e+01 MeV 
 # EXFOR BIB:
 #   Entry id: F0746-002-0 (entry-subentry-pointer) 
 #   Reaction code: (2-HE-6(P,G)3-LI-7,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F07/F0746.x4 
 #   nds:  https://nds.iaea.org/EXFOR/F0746
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         3.0002E+00        5.0000E-02        8.7667E-14        0.0000E+00
         4.9949E+00        5.0000E-02        5.5670E-13        4.8030E-14
         6.9642E+00        5.0000E-02        4.3107E-13        3.8882E-14

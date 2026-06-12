@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 29-CU-0(N,X)  Differential with energy of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 5 - None 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Outgoing energy:  4.2500e+00 MeV - 1.3750e+01 MeV 
+# EXFOR BIB:
+#   Entry id: 22467-028-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(N,X)2-HE-4,,DE) 
+#   First author: Kokooo 
+#   Institute:  (2JPNOSA): Osaka University , Osaka 
+#   Reference:  (J,NSE,132,(1),16,1999) 
+#   Year:  1999 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22467.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22467
+#
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
+        4.2500E+00        0.0000E+00        5.1300E-10        2.1329E-10
+        4.7500E+00        0.0000E+00        3.1800E-09        1.1381E-09
+        5.2500E+00        0.0000E+00        5.8200E-09        1.6010E-09
+        5.7500E+00        0.0000E+00        4.6200E-09        1.7850E-09
+        6.2500E+00        0.0000E+00        9.1400E-09        2.0866E-09
+        6.7500E+00        0.0000E+00        9.7300E-09        1.5438E-09
+        7.2500E+00        0.0000E+00        1.0600E-08        1.6005E-09
+        7.7500E+00        0.0000E+00        1.3200E-08        1.8631E-09
+        8.2500E+00        0.0000E+00        1.2200E-08        1.7295E-09
+        8.7500E+00        0.0000E+00        9.9500E-09        1.7481E-09
+        9.2500E+00        0.0000E+00        1.0200E-08        1.7415E-09
+        9.7500E+00        0.0000E+00        1.0200E-08        1.5986E-09
+        1.0250E+01        0.0000E+00        7.3900E-09        1.1452E-09
+        1.0750E+01        0.0000E+00        4.5400E-09        7.8325E-10
+        1.1250E+01        0.0000E+00        2.3900E-09        4.4639E-10
+        1.1750E+01        0.0000E+00        1.4800E-09        3.4021E-10
+        1.2250E+01        0.0000E+00        1.0800E-09        3.3010E-10
+        1.2750E+01        0.0000E+00        7.6000E-10        2.1305E-10
+        1.3250E+01        0.0000E+00        5.3400E-10        1.6845E-10
+        1.3750E+01        0.0000E+00        1.1500E-10        4.8028E-11

@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 38-SR-88 Resonance Parameter: ARE 
+#   Source                : EXFOR 
+#   Date Created          : 2026-06-11 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : M0775-002-2 
+#   First Author          : L.Kaubler 
+#   Institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference             : (J,PR/C,70,064307,2004) 
+#   Year                  : 2004 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 38 
+#   A                     : 88 
+#   Isomer                :  
+#   Nuclide               : 38-SR-88 
+# Reaction: 
+#   EXFOR Reaction        : (38-SR-88(G,EL),,ARE) 
+#   Incident Energy       : 4.0362e+06 eV - 6.7100e+06 eV 
+#   Resonance Energy Type : EN 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M07/M0775.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/M0775
+#
+#    E_in(eV)    dE_in(eV)          J          L      (G,TOT)     d(G,TOT)        (G,G)       d(G,G)        (G,EL)     d(G,EL)        (G,F)       d(G,F)        (G,A)       d(G,A)
+   4.0362E+06          NAN        2.0        NAN          NAN          NAN          NAN          NAN   2.6000E+01   5.0000E+00          NAN          NAN          NAN          NAN
+   4.7438E+06          NAN        1.0        NAN          NAN          NAN          NAN          NAN   5.5000E+01   7.0000E+00          NAN          NAN          NAN          NAN
+   6.2136E+06          NAN        NAN        NAN          NAN          NAN          NAN          NAN   5.4700E+02   1.3600E+02          NAN          NAN          NAN          NAN
+   6.7100E+06          NAN        1.0        NAN          NAN          NAN          NAN          NAN   1.5000E+01   7.0000E+00          NAN          NAN          NAN          NAN

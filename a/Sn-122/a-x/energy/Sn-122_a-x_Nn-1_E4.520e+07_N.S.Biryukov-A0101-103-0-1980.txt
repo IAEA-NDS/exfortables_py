@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 50-SN-122(A,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 50 
 #   A: 122 
@@ -14,7 +14,7 @@
 #   Z: 0 
 #   A: 1 
 #   Nuclide: 0-NN-1 
-#   Level energy: 1.4800e+00 MeV 
+#   Outgoing energy:  1.4800e+00 MeV - 3.6490e+01 MeV 
 # EXFOR BIB:
 #   Entry id: A0101-103-0 (entry-subentry-pointer) 
 #   Reaction code: (50-SN-122(A,X)0-NN-1,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A01/A0101.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A0101
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#   E_out_cm(MeV)    dE_out_cm(MeV)     data_cm(B/EV)    ddata_cm(B/EV)
         1.4800E+00        0.0000E+00        1.9621E-06        1.1456E-07
         1.9800E+00        0.0000E+00        1.3566E-06        6.7970E-08
         2.4800E+00        0.0000E+00        1.0056E-06        5.0410E-08

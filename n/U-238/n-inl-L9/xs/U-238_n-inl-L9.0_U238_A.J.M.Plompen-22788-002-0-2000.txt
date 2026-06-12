@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 92-U-238(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 59.0 
+#   Incident energy:  2.5019e+00 MeV - 3.5110e+00 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: 8.9000e-01 MeV 
+# EXFOR BIB:
+#   Entry id: 22788-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,INL)92-U-238,PAR,SIG) 
+#   First author: A.J.M.Plompen 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  ((S,ISINN-8,153,200005)=(R,JINR-E3-2000-192,153,200005)) 
+#   Year:  2000 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22788.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22788
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.5019E+00        5.3493E-03        5.0726E-01        2.7440E-02
+        2.7467E+00        5.3493E-03        6.5316E-01        2.2370E-02
+        3.0031E+00        5.3493E-03        2.8406E-01        2.2330E-02
+        3.5110E+00        5.3493E-03        2.1686E-01        3.0910E-02

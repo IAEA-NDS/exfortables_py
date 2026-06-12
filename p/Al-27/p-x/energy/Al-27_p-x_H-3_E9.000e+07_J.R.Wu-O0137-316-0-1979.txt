@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 13-AL-27(P,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 13 
 #   A: 27 
@@ -14,7 +14,7 @@
 #   Z: 1 
 #   A: 3 
 #   Nuclide: 1-H-3 
-#   Level energy: 1.9680e+00 MeV 
+#   Outgoing energy:  1.9680e+00 MeV - 7.0680e+01 MeV 
 # EXFOR BIB:
 #   Entry id: O0137-316-0 (entry-subentry-pointer) 
 #   Reaction code: (13-AL-27(P,X)1-H-3,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0137.x4 
 #   nds:  https://nds.iaea.org/EXFOR/O0137
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.9680E+00        0.0000E+00        8.2910E-10        8.2910E-11
         1.0500E+01        0.0000E+00        8.8830E-10        8.8830E-11
         1.3480E+01        0.0000E+00        5.6790E-10        5.6790E-11

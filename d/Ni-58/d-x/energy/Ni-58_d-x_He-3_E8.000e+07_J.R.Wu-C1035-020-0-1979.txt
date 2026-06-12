@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 28-NI-58(D,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 28 
 #   A: 58 
@@ -14,7 +14,7 @@
 #   Z: 2 
 #   A: 3 
 #   Nuclide: 2-HE-3 
-#   Level energy: 1.1030e+01 MeV 
+#   Outgoing energy:  1.1030e+01 MeV - 7.7390e+01 MeV 
 # EXFOR BIB:
 #   Entry id: C1035-020-0 (entry-subentry-pointer) 
 #   Reaction code: (28-NI-58(D,X)2-HE-3,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C10/C1035.x4 
 #   nds:  https://nds.iaea.org/EXFOR/C1035
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.1030E+01        0.0000E+00        7.4620E-10        0.0000E+00
         1.4920E+01        0.0000E+00        7.3140E-10        0.0000E+00
         1.7220E+01        0.0000E+00        7.0160E-10        0.0000E+00

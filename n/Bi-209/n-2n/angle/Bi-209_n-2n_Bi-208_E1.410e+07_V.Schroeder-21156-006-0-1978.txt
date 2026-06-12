@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 83-BI-209(N,2N)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 83 
 #   A: 209 
 #   Nuclide: 83-BI-209 
 # Reaction: 
 #   Process: N,2N 
-#   MF-MT number: 4 - 16 
+#   MF-MT number: 4 - 16.0 
 #   Incident energy:  1.4100e+01 MeV 
 # Residual: 
 #   Z: 83 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/211/21156.x4 
 #   nds:  https://nds.iaea.org/EXFOR/21156
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+#  Angle(degrees)   dAngle(degrees)        data(B/SR)       ddata(B/SR)
         2.0000E+01        0.0000E+00        1.8900E-01        1.1000E-02
         4.0000E+01        0.0000E+00        1.7100E-01        1.5000E-02
         6.0000E+01        0.0000E+00        1.7400E-01        9.0000E-03

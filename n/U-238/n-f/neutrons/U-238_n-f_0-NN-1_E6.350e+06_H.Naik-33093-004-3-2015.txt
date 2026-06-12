@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 92-U-238(N,F)  Fission-neutron yield, nu-bar 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 92 
 #   A: 238 
 #   Nuclide: 92-U-238 
 # Reaction: 
 #   Process: N,F 
-#   MF-MT number: 1 - 18 
+#   MF-MT number: 1 - 18.0 
 #   Incident energy:  6.3500e+00 MeV - 1.2520e+01 MeV 
 # Residual: 
 #   Z:  
@@ -26,4 +26,8 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33093.x4 
 #   nds:  https://nds.iaea.org/EXFOR/33093
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)     data(PRT/FIS)    ddata(PRT/FIS)
+               NAN        0.0000E+00        3.1100E+00        0.0000E+00
+               NAN        0.0000E+00        3.4700E+00        0.0000E+00
+               NAN        0.0000E+00        3.5700E+00        0.0000E+00
+               NAN        0.0000E+00        3.7500E+00        0.0000E+00

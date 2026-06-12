@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 40-ZR-90(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 40 
 #   A: 90 
@@ -17,16 +17,16 @@
 #   Level energy: - 
 # EXFOR BIB:
 #   Entry id: 40034-002-0 (entry-subentry-pointer) 
-#   Reaction code: (40-ZR-90(N,G)40-ZR-91,,SIG) 
+#   Reaction code: (40-ZR-90(N,G)40-ZR-91,,SIG,,SDT) 
 #   First author: S.P.Kapchigashev 
 #   Institute:  (4RUSLEB): Fiz.Institute Lebedev (FIAN), Moskva 
-#   Reference:  (J,AE,19,(3),294,196509) 
+#   Reference:  (J,SJA,19,1212,1965) 
 #   Year:  1965 
 #   Facility:  (ACCEL): Accelerator 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40034.x4 
 #   nds:  https://nds.iaea.org/EXFOR/40034
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.2000E-03        0.0000E+00        1.6000E-02        2.4000E-03
         1.5000E-03        0.0000E+00        1.8000E-02        2.7000E-03
         1.8000E-03        0.0000E+00        1.6000E-02        2.4000E-03

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 28-NI-58(P,T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: P,T 
+#   MF-MT number: 3 - 702 
+#   Incident energy:  4.5000e+01 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 56 
+#   Nuclide: 28-NI-56 
+#   Level energy: 3.9560e+00 MeV 
+# EXFOR BIB:
+#   Entry id: O0134-002-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(P,T)28-NI-56,PAR,SIG,,,EXP) 
+#   First author: G.Bruge 
+#   Institute:  (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
+#   Reference:  (J,PR/C,2,2200,70) 
+#   Year:  1970 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0134.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0134
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.5000E+01        4.5000E-02        3.7100E-05        4.1000E-06

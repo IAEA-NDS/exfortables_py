@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 3-LI-7(N,2N)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 3 
 #   A: 7 
 #   Nuclide: 3-LI-7 
 # Reaction: 
 #   Process: N,2N 
-#   MF-MT number: 4 - 16 
+#   MF-MT number: 4 - 16.0 
 #   Incident energy:  1.4200e+01 MeV 
 # Residual: 
 #   Z: 3 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21986.x4 
 #   nds:  https://nds.iaea.org/EXFOR/21986
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+#  Angle(degrees)   dAngle(degrees)        data(B/SR)       ddata(B/SR)
         3.0000E+01        0.0000E+00        1.2530E-02        4.9390E-03
         3.7500E+01        0.0000E+00        1.2210E-02        5.4600E-03
         4.3120E+01        0.0000E+00        1.6630E-02        4.4900E-03

@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 92-U-235(N,F)  Fission-neutron yield, nu-bar 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 92 
 #   A: 235 
 #   Nuclide: 92-U-235 
 # Reaction: 
 #   Process: N,F 
-#   MF-MT number: 1 - 18 
+#   MF-MT number: 1 - 18.0 
 #   Incident energy:  1.1400e+00 MeV - 1.4660e+01 MeV 
 # Residual: 
 #   Z:  
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21785.x4 
 #   nds:  https://nds.iaea.org/EXFOR/21785
 #
-#     E_in(MeV)        dE_in(MeV)       Multiplicity            dMultiplicity
+#       E_in(MeV)        dE_in(MeV)      Multiplicity     dMultiplicity
         1.1400E+00        2.4000E-01        2.4750E+00        1.8000E-02
         1.7300E+00        1.9000E-01        2.5570E+00        1.7000E-02
         2.3000E+00        1.6000E-01        2.6100E+00        1.9000E-02

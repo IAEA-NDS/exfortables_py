@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 28-NI-60(N,INL)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 4 - 52 
+#   Incident energy:  3.0000e+00 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+#   Level energy: 2.1590e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 40531-052-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(N,INL)28-NI-60,PAR,DA) 
+#   First author: I.A.Korzh 
+#   Institute:  (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+#   Reference:  ((C,75KIEV,4,220,1975)=(R,INDC(CCP)-099,(4),220,1975)) 
+#   Year:  1975 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40531.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40531
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+        3.0000E+01        0.0000E+00        1.9800E-02        2.2000E-03
+        4.0000E+01        0.0000E+00        2.0000E-02        2.6000E-03
+        5.5000E+01        0.0000E+00        1.9600E-02        1.7000E-03
+        7.5000E+01        0.0000E+00        2.1200E-02        1.6000E-03
+        9.0000E+01        0.0000E+00        2.2300E-02        1.8000E-03
+        1.0500E+02        0.0000E+00        2.1900E-02        2.1000E-03
+        1.2500E+02        0.0000E+00        2.0000E-02        1.9000E-03
+        1.5000E+02        0.0000E+00        2.0400E-02        2.0000E-03

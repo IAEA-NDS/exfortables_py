@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 41-NB-93(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.0000e+00 MeV - 3.5000e+00 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 94 
+#   Nuclide: 42-MO-94 
+#   Level energy: 3.3890e+00 MeV 
+# EXFOR BIB:
+#   Entry id: O2539-002-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(P,G)42-MO-94,PAR,SIG) 
+#   First author: F.Heim 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,PR/C,103,025805,2021) 
+#   Year:  2021 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O25/O2539.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2539
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0000E+00        0.0000E+00        4.3600E-07        5.3000E-08
+        3.5000E+00        0.0000E+00        9.4600E-07        1.1600E-07

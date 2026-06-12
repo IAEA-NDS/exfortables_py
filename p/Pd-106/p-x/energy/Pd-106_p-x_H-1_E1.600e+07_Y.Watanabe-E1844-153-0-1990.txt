@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 46-PD-106(P,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 46 
 #   A: 106 
@@ -14,7 +14,7 @@
 #   Z: 1 
 #   A: 1 
 #   Nuclide: 1-H-1 
-#   Level energy: 4.0000e+00 MeV 
+#   Outgoing energy:  4.0000e+00 MeV - 1.1800e+01 MeV 
 # EXFOR BIB:
 #   Entry id: E1844-153-0 (entry-subentry-pointer) 
 #   Reaction code: (46-PD-106(P,X)1-H-1,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E18/E1844.x4 
 #   nds:  https://nds.iaea.org/EXFOR/E1844
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#   E_out_cm(MeV)    dE_out_cm(MeV)     data_cm(B/EV)    ddata_cm(B/EV)
         4.0000E+00        0.0000E+00        5.5090E-09        0.0000E+00
         4.2000E+00        0.0000E+00        6.1900E-09        0.0000E+00
         4.4000E+00        0.0000E+00        7.0260E-09        0.0000E+00

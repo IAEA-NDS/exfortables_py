@@ -1,0 +1,46 @@
+# Header: 
+#   title: 57-LA-139(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 57 
+#   A: 139 
+#   Nuclide: 57-LA-139 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 3.82000E-02  |   1.66943E-02   (N = 5)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 3.66591E-02 +/-  3.18102E-03   (N = 5)
+#   MXW Simple Mean           |  Simple Stdev        : 3.74800E-02  |   3.80253E-03   (N = 6)
+#   MXW Weighted Mean        +/- Weighted Error      : 3.69808E-02 +/-  5.32613E-04   (N = 6)
+#   SPA Simple Mean           |  Simple Stdev        : 3.42500E-02  |   1.48492E-03   (N = 2)
+#   SPA Weighted Mean        +/- Weighted Error      : 3.50843E-02 +/-  2.34068E-04   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11399-035-0         R.L.Macklin             1957   2.4000E-02   0.0000E+00   5.0000E-02   7.0000E-03                
+11429-023-0         R.Booth                 1958   2.4000E-02   5.0000E-03   4.9000E-02   1.3000E-02                
+30079-028-0         A.K.Chaubey             1966   2.4000E-02   0.0000E+00   5.0000E-02   1.0000E-02                
+30493-008-0         S.N.Chaturvedi          1970   2.4000E-02   3.0000E-03   1.3000E-02   0.0000E+00                
+30390-018-0         R.P.Anand               1979   2.5000E-02   5.0000E-03   2.9000E-02   4.0000E-03                
+30384-005-0         A.R.De L.Musgrove       1977   3.0000E-02   0.0000E+00   3.6000E-02   5.0000E-03     MXW        
+22009-002-0         H.Beer                  1986   2.5000E-02   0.0000E+00   4.4100E-02   2.9000E-03     MXW        
+22009-003-0         H.Beer                  1986   3.0000E-02   0.0000E+00   3.8400E-02   2.7000E-03     MXW        
+32536-004-0         Xia Yijun               1990   2.4000E-02   0.0000E+00   3.2780E-02   3.1000E-03     MXW        
+22879-003-0         S.O'Brien               2003   2.5000E-02   0.0000E+00   3.5700E-02   8.0000E-04     MXW        
+22879-006-0         S.O'Brien               2003   2.5000E-02   0.0000E+00   3.7900E-02   8.0000E-04     MXW        
+22879-002-0         S.O'Brien               2003   2.5000E-02   0.0000E+00   3.3200E-02   7.3040E-04     SPA        
+22879-005-2         S.O'Brien               2003   2.5000E-02   0.0000E+00   3.5300E-02   2.4710E-04     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22978-009-0         G.Tagliente             2007   3.0000E-02   0.0000E+00   3.2400E-02   3.0000E-03     MXW   DERIV
+V0102-299-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.8400E-02   2.7000E-03     MXW   RECOM
+V0102-300-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.2400E-02   3.1000E-03     MXW   RECOM
+V1002-118-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   3.3600E-02   1.6000E-03     MXW   RECOM

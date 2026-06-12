@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 26-FE-56(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 26 
+#   A: 56 
+#   Nuclide: 26-FE-56 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 53.0 
+#   Incident energy:  2.7310e+00 MeV - 3.9620e+00 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 56 
+#   Nuclide: 26-FE-56 
+#   Level energy: 2.6580e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 10519-003-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-56(N,INL)26-FE-56,PAR,SIG) 
+#   First author: A.Mittler 
+#   Institute:  (1USALTI): University of Massachusetts at Lowell, MA 
+#   Reference:  (T,NARDINI,197506) 
+#   Year:  1975 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10519.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10519
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.7310E+00        0.0000E+00        2.5700E-02        2.5000E-03
+        2.7820E+00        0.0000E+00        7.0500E-02        6.5000E-03
+        2.8310E+00        0.0000E+00        1.0400E-01        9.0000E-03
+        2.8820E+00        0.0000E+00        1.4000E-01        1.3000E-02
+        2.9830E+00        0.0000E+00        1.2900E-01        1.2000E-02
+        3.0850E+00        0.0000E+00        1.7700E-01        1.6000E-02
+        3.1860E+00        0.0000E+00        1.7100E-01        1.5000E-02
+        3.2860E+00        7.0000E-02        2.0400E-01        1.9000E-02
+        3.3870E+00        0.0000E+00        1.9100E-01        1.8000E-02
+        3.4880E+00        0.0000E+00        2.0700E-01        1.9000E-02
+        3.5890E+00        0.0000E+00        1.9600E-01        1.8000E-02
+        3.6900E+00        0.0000E+00        2.0900E-01        1.9000E-02
+        3.7900E+00        0.0000E+00        2.2100E-01        2.0000E-02
+        3.8910E+00        0.0000E+00        1.9200E-01        1.6000E-02
+        3.9620E+00        0.0000E+00        1.6200E-01        1.4000E-02

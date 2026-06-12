@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 25-MN-55(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 25 
+#   A: 55 
+#   Nuclide: 25-MN-55 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 51 
+#   Incident energy:  2.3300e+00 MeV - 2.7700e+00 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 55 
+#   Nuclide: 26-FE-55 
+#   Level energy: 4.1000e-01 MeV 
+# EXFOR BIB:
+#   Entry id: E2252-032-0 (entry-subentry-pointer) 
+#   Reaction code: (25-MN-55(P,N)26-FE-55,PAR,SIG) 
+#   First author: A.Uchida 
+#   Institute:  (2JPNISS): Institute of Solid State Physics, University of Tokyo 
+#   Reference:  (J,JPJ,21,2115,1966) 
+#   Year:  1966 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E22/E2252.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2252
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3300E+00        0.0000E+00        1.7040E-03        2.8200E-04
+        2.4000E+00        0.0000E+00        3.0690E-03        9.3300E-04
+        2.4500E+00        0.0000E+00        2.2060E-03        3.9900E-04
+        2.5000E+00        0.0000E+00        3.9190E-03        3.1800E-04
+        2.5400E+00        0.0000E+00        2.5960E-03        3.5100E-04
+        2.5800E+00        0.0000E+00        2.9970E-03        4.1900E-04
+        2.6300E+00        0.0000E+00        2.7030E-03        5.4100E-04
+        2.6800E+00        0.0000E+00        2.6990E-03        3.3100E-04
+        2.7100E+00        0.0000E+00        3.2140E-03        3.3800E-04
+        2.7700E+00        0.0000E+00        3.6230E-03        4.3900E-04

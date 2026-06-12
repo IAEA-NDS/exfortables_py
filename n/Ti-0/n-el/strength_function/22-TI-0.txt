@@ -1,0 +1,30 @@
+# Header: 
+#   title: 22-TI-0(N,EL) strength_function cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 22 
+#   A: 0 
+#   Nuclide: 22-TI-0 
+# Reaction: 
+#   Type: N,EL 
+#   Type: N,EL 
+#   Incident energy       : 1.2650e-01 MeV - 3.0250e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Strength Function Simple Mean  |  Simple Stdev        : 1.59000E-04  |   1.05786E-04   (N = 4)
+#   Strength Function Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 4)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+40934-002-0         A.B.Popov               1983   4.5000E-01   0.0000E+00   3.6000E-05   0.0000E+00                
+40934-031-0         A.B.Popov               1983   1.2650E-01   0.0000E+00   1.8000E-04   0.0000E+00                
+40934-060-0         A.B.Popov               1983   1.2650E-01   0.0000E+00   2.9000E-04   0.0000E+00                
+40934-060-0         A.B.Popov               1983   1.2650E-01   0.0000E+00   1.3000E-04   0.0000E+00                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22105-039-0         L.Koester               1988   3.0250E+00   0.0000E+00   6.0000E-05   0.0000E+00           DERIV

@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 3-LI-6(P,HE3)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 3 
 #   A: 6 
@@ -17,28 +17,28 @@
 #   Level energy: - 
 # EXFOR BIB:
 #   Entry id: A1476-003-0 (entry-subentry-pointer) 
-#   Reaction code: (3-LI-6(P,HE3)2-HE-4,,DA,,,EXP) 
+#   Reaction code: (3-LI-6(P,HE3)2-HE-4,,DA) 
 #   First author: B.W.Hooton 
 #   Institute:  (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 #   Reference:  (P,AERE-PR/NP-18,37,1972) 
 #   Year:  1972 
-#   Facility:  None 
+#   Facility:  (VDG): Van de Graaff 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A14/A1476.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A1476
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
-        2.4590E+01        5.0000E-01        1.8690E-02        7.5570E-04
-        3.5600E+01        5.0000E-01        1.8560E-02        4.1200E-04
-        4.7260E+01        5.0000E-01        1.9250E-02        3.4340E-04
-        5.9040E+01        5.0000E-01        1.7260E-02        3.4310E-04
-        7.0080E+01        5.0000E-01        1.6510E-02        1.3700E-04
-        8.0470E+01        5.0000E-01        1.4870E-02        5.4940E-04
-        9.0130E+01        5.0000E-01        1.4190E-02        2.7340E-04
-        1.0120E+02        5.0000E-01        1.2550E-02        4.1170E-04
-        1.0950E+02        5.0000E-01        1.1380E-02        4.1200E-04
-        1.1920E+02        5.0000E-01        1.0080E-02        2.7470E-04
-        1.3020E+02        5.0000E-01        9.3320E-03        2.0570E-04
-        1.3860E+02        5.0000E-01        6.9320E-03        2.7410E-04
-        1.4830E+02        5.0000E-01        5.5630E-03        1.3670E-04
-        1.5660E+02        5.0000E-01        4.3300E-03        4.1170E-04
-        1.6490E+02        5.0000E-01        3.3730E-03        4.1200E-04
+# Angle_cm(degrees) dAngle_cm(degrees)     data_cm(B/SR)    ddata_cm(B/SR)
+        2.4600E+01        5.0000E-01        1.8690E-02        7.6000E-04
+        3.5600E+01        5.0000E-01        1.8560E-02        4.1000E-04
+        4.7300E+01        5.0000E-01        1.9250E-02        3.4000E-04
+        5.9000E+01        5.0000E-01        1.7260E-02        3.4000E-04
+        7.0100E+01        5.0000E-01        1.6510E-02        1.4000E-04
+        8.0500E+01        5.0000E-01        1.4870E-02        5.5000E-04
+        9.0100E+01        5.0000E-01        1.4190E-02        2.7000E-04
+        1.0120E+02        5.0000E-01        1.2550E-02        4.1000E-04
+        1.0950E+02        5.0000E-01        1.1380E-02        4.1000E-04
+        1.1920E+02        5.0000E-01        1.0080E-02        2.7000E-04
+        1.3020E+02        5.0000E-01        9.3300E-03        2.1000E-04
+        1.3860E+02        5.0000E-01        6.9300E-03        2.7000E-04
+        1.4830E+02        5.0000E-01        5.5600E-03        1.4000E-04
+        1.5660E+02        5.0000E-01        4.3300E-03        4.1000E-04
+        1.6490E+02        5.0000E-01        3.3700E-03        4.1000E-04

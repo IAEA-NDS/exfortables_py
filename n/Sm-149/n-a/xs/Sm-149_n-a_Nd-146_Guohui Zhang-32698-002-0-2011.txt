@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 62-SM-149(N,A)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 62 
 #   A: 149 
 #   Nuclide: 62-SM-149 
 # Reaction: 
 #   Process: N,A 
-#   MF-MT number: 3 - 107 
+#   MF-MT number: 3 - 107.0 
 #   Incident energy:  4.5000e+00 MeV - 6.5000e+00 MeV 
 # Residual: 
 #   Z: 60 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32698.x4 
 #   nds:  https://nds.iaea.org/EXFOR/32698
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         4.5000E+00        1.9000E-01        4.9000E-05        9.0000E-06
         5.0000E+00        1.6000E-01        5.7000E-05        1.0000E-05
         5.5000E+00        1.4000E-01        8.4000E-05        1.5000E-05

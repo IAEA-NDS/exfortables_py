@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 83-BI-209(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 63 
+#   Incident energy:  3.0215e+00 MeV - 3.7226e+00 MeV 
+# Residual: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+#   Level energy: 2.9867e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 22741-006-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(N,INL)83-BI-209,PAR,SIG) 
+#   First author: L.C.Mihailescu 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,NP/A,799,1,2008) 
+#   Year:  2008 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22741.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22741
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.0215E+00        3.5210E-02        1.9820E-03        1.2720E-03
+        3.0570E+00        3.5830E-02        1.8760E-02        1.2350E-02
+        3.0932E+00        3.6470E-02        1.9382E-02        1.2734E-02
+        3.1300E+00        3.7130E-02        5.3085E-02        1.4900E-02
+        3.1675E+00        3.7790E-02        5.4698E-02        1.5049E-02
+        3.2056E+00        3.8480E-02        6.0329E-02        1.5578E-02
+        3.2444E+00        3.9180E-02        5.5037E-02        1.5114E-02
+        3.2840E+00        3.9910E-02        3.8065E-02        1.4535E-02
+        3.3242E+00        4.0640E-02        6.6735E-02        1.7113E-02
+        3.3653E+00        4.1390E-02        4.6867E-02        1.5281E-02
+        3.4070E+00        4.2170E-02        5.7841E-02        1.5880E-02
+        3.4496E+00        4.2960E-02        9.7183E-02        1.8995E-02
+        3.4930E+00        4.3780E-02        6.8485E-02        1.7933E-02
+        3.5372E+00        4.4620E-02        1.0268E-01        1.9716E-02
+        3.5822E+00        4.5470E-02        9.3057E-02        2.0630E-02
+        3.6281E+00        4.6340E-02        1.0669E-01        2.1522E-02
+        3.6749E+00        4.7250E-02        1.3807E-01        2.4553E-02
+        3.7226E+00        4.8180E-02        1.3421E-01        2.3357E-02

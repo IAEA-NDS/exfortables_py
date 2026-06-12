@@ -1,0 +1,35 @@
+# Header: 
+#   title: 25-MN-55(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 25 
+#   A: 55 
+#   Nuclide: 25-MN-55 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 5.49000E-02  |   1.43492E-02   (N = 6)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 5.55012E-02 +/-  1.70686E-03   (N = 6)
+#   SPA Simple Mean           |  Simple Stdev        : 4.07000E-02  |           NAN   (N = 1)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11010-004-0         V.Hummel                1951   2.4000E-02   0.0000E+00   7.8000E-02   9.3600E-03                
+11399-009-0         R.L.Macklin             1957   2.4000E-02   0.0000E+00   5.5000E-02   6.0000E-03                
+11429-006-0         R.Booth                 1958   2.4000E-02   5.0000E-03   5.2000E-02   1.6000E-02                
+40421-011-0         V.N.Kononov             1958   2.4000E-02   0.0000E+00   6.3400E-02   2.3000E-03                
+30063-002-0         A.K.Chaubey             1965   2.4000E-02   0.0000E+00   4.0000E-02   3.0000E-03                
+30493-002-0         S.N.Chaturvedi          1970   2.4000E-02   3.0000E-03   4.1000E-02   0.0000E+00                
+41635-010-0         Yu.Ya.Stavisskii        1965   3.0000E-02   0.0000E+00   4.0700E-02   8.0000E-03     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0102-073-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.9600E-02   3.0000E-03     MXW   RECOM

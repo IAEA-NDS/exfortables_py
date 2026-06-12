@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-238(N,SCT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,SCT 
+#   MF-MT number: 3 - None 
+#   Incident energy:  9.5300e-01 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: 1.5000e-01 MeV 
+# EXFOR BIB:
+#   Entry id: 12373-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,SCT)92-U-238,PAR,SIG) 
+#   First author: L.Cranberg 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (R,LA-2177,1959) 
+#   Year:  1959 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/123/12373.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12373
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.5300E-01        4.4000E-02        6.4800E+00        0.0000E+00

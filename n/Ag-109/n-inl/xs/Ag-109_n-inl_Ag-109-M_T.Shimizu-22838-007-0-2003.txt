@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 47-AG-109(N,INL)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 47 
 #   A: 109 
 #   Nuclide: 47-AG-109 
 # Reaction: 
 #   Process: N,INL 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  2.0900e+00 MeV - 3.0900e+00 MeV 
 # Residual: 
 #   Z: 47 
@@ -26,10 +26,10 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22838.x4 
 #   nds:  https://nds.iaea.org/EXFOR/22838
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
-        3.0900E+00        0.0000E+00        1.0340E+00        6.3074E-02
-        2.9000E+00        0.0000E+00        9.2100E-01        7.0917E-02
-        2.6900E+00        0.0000E+00        1.0500E+00        7.9800E-02
-        2.4600E+00        0.0000E+00        1.1060E+00        8.4056E-02
-        2.2700E+00        0.0000E+00        6.7400E-01        5.1898E-02
-        2.0900E+00        0.0000E+00        9.0800E-01        9.9880E-02
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.0900E+00        5.0000E-02        1.0340E+00        6.3074E-02
+        2.9000E+00        5.0000E-02        9.2100E-01        7.0917E-02
+        2.6900E+00        5.0000E-02        1.0500E+00        7.9800E-02
+        2.4600E+00        5.0000E-02        1.1060E+00        8.4056E-02
+        2.2700E+00        5.0000E-02        6.7400E-01        5.1898E-02
+        2.0900E+00        5.0000E-02        9.0800E-01        9.9880E-02

@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 6-C-12(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 802 
+#   Incident energy:  1.1900e+01 MeV - 1.9000e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 9 
+#   Nuclide: 4-BE-9 
+#   Level energy: 2.4300e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 22231-004-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(N,A)4-BE-9,PAR,SIG) 
+#   First author: B.Antolkovic 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (J,NSE,107,1,1991) 
+#   Year:  1991 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22231.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22231
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1900E+01        0.0000E+00        4.8000E-02        1.2000E-02
+        1.2900E+01        0.0000E+00        3.7000E-02        1.7000E-02
+        1.4000E+01        0.0000E+00        3.2000E-02        2.0000E-02
+        1.4800E+01        0.0000E+00        1.8000E-02        1.4000E-02
+        1.7000E+01        0.0000E+00        1.4000E-02        8.0000E-03
+        1.9000E+01        0.0000E+00        9.0000E-03        9.0000E-03

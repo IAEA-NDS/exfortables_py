@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 28-NI-61(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 28 
+#   A: 61 
+#   Nuclide: 28-NI-61 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  3.9000e+00 MeV - 1.4000e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 61 
+#   Nuclide: 29-CU-61 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D1089-003-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-61(P,N)29-CU-61,,SIG) 
+#   First author: J.-D.An 
+#   Institute:  (3KDRKDR): Democratic People's Rep. of Korea 
+#   Reference:  (J,RED,172,799,2017) 
+#   Year:  2017 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D10/D1089.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D1089
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.9000E+00        0.0000E+00        3.8900E-02        4.8000E-03
+        5.4000E+00        0.0000E+00        1.2950E-01        1.3400E-02
+        6.6000E+00        0.0000E+00        2.1340E-01        2.3600E-02
+        7.7000E+00        0.0000E+00        2.5850E-01        1.7200E-02
+        9.2000E+00        0.0000E+00        3.4830E-01        2.9600E-02
+        1.0600E+01        0.0000E+00        4.2600E-01        5.6800E-02
+        1.1900E+01        0.0000E+00        2.6100E-01        2.7200E-02
+        1.3000E+01        0.0000E+00        2.5890E-01        2.5700E-02
+        1.4000E+01        0.0000E+00        2.1129E-01        2.3300E-02

@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 90-TH-232(N,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 90 
 #   A: 232 
@@ -14,7 +14,7 @@
 #   Z: 0 
 #   A: 1 
 #   Nuclide: 0-NN-1 
-#   Level energy: 3.0000e-01 MeV 
+#   Outgoing energy:  3.0000e-01 MeV - 1.7100e+01 MeV 
 # EXFOR BIB:
 #   Entry id: 22158-003-0 (entry-subentry-pointer) 
 #   Reaction code: (90-TH-232(N,X)0-NN-1,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22158.x4 
 #   nds:  https://nds.iaea.org/EXFOR/22158
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         3.0000E-01        0.0000E+00        4.4231E-06        0.0000E+00
         5.0000E-01        0.0000E+00        4.5045E-06        0.0000E+00
         7.0000E-01        0.0000E+00        3.7130E-06        0.0000E+00

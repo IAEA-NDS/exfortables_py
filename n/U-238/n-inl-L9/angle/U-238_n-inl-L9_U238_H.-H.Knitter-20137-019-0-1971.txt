@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 92-U-238(N,INL)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 4 - 59 
+#   Incident energy:  2.3000e+00 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: 9.0000e-01 MeV 
+# EXFOR BIB:
+#   Entry id: 20137-019-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,INL)92-U-238,PAR,DA) 
+#   First author: H.-H.Knitter 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,ZP,244,358,197107) 
+#   Year:  1971 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20137.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20137
+#
+# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+       -8.6603E-01        0.0000E+00        3.3800E-02        2.5000E-03
+       -7.6604E-01        0.0000E+00        3.3300E-02        2.8000E-03
+       -6.4279E-01        0.0000E+00        3.4700E-02        2.7000E-03
+       -5.0000E-01        0.0000E+00        3.7700E-02        3.1000E-03
+       -3.4202E-01        0.0000E+00        3.8700E-02        3.3000E-03
+       -1.7365E-01        0.0000E+00        3.3900E-02        2.9000E-03
+        0.0000E+00        0.0000E+00        3.9500E-02        3.2000E-03
+        1.7365E-01        0.0000E+00        3.6600E-02        2.9000E-03
+        3.4202E-01        0.0000E+00        3.2500E-02        2.9000E-03
+        5.0000E-01        0.0000E+00        4.1100E-02        3.5000E-03
+        6.4279E-01        0.0000E+00        4.3900E-02        3.5000E-03
+        7.0711E-01        0.0000E+00        4.1700E-02        3.4000E-03
+        7.6604E-01        0.0000E+00        5.3000E-02        4.6000E-03
+        8.1915E-01        0.0000E+00        4.7200E-02        3.8000E-03
+        8.6603E-01        0.0000E+00        6.1700E-02        5.8000E-03
+        9.0631E-01        0.0000E+00        5.3200E-02        5.4000E-03
+        9.3969E-01        0.0000E+00        5.9900E-02        5.8000E-03

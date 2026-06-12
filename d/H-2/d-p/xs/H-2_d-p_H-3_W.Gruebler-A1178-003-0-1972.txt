@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 1-H-2(D,P)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 1 
 #   A: 2 
@@ -9,7 +9,7 @@
 # Reaction: 
 #   Process: D,P 
 #   MF-MT number: 3 - 103 
-#   Incident energy:  3.1030e+00 MeV - 1.1510e+01 MeV 
+#   Incident energy:  3.0000e+00 MeV - 1.1480e+01 MeV 
 # Residual: 
 #   Z: 1 
 #   A: 3 
@@ -17,22 +17,22 @@
 #   Level energy: - 
 # EXFOR BIB:
 #   Entry id: A1178-003-0 (entry-subentry-pointer) 
-#   Reaction code: (1-H-2(D,P)1-H-3,,SIG,,,EXP) 
+#   Reaction code: (1-H-2(D,P)1-H-3,,SIG,,D4PI) 
 #   First author: W.Gruebler 
 #   Institute:  (2SWTETH): Eidgenossische Technische Hochschule, Zuerich 
-#   Reference:  (J,NP/A,193,(1),129,197210) 
+#   Reference:  (J,NP/A,193,129,1972) 
 #   Year:  1972 
 #   Facility:  (VDGT): Tandem van de Graaff 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A11/A1178.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A1178
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
-        3.1030E+00        5.0000E-02        8.8790E-02        5.0000E-04
-        4.0980E+00        5.0000E-02        8.7500E-02        5.0000E-04
-        5.0480E+00        5.0000E-02        8.6230E-02        5.0000E-04
-        6.0420E+00        5.0000E-02        8.3780E-02        5.0000E-04
-        6.9930E+00        5.0000E-02        8.4850E-02        5.0000E-04
-        7.9420E+00        5.0000E-02        8.1810E-02        5.0000E-04
-        8.8910E+00        5.0000E-02        7.9370E-02        5.0000E-04
-        9.9760E+00        5.0000E-02        7.6900E-02        5.0000E-04
-        1.1510E+01        5.0000E-02        7.2640E-02        5.0000E-04
+#       E_in(MeV)        dE_in(MeV)        data(B/SR)       ddata(B/SR)
+        3.0000E+00        1.0000E-02        7.0000E-03        0.0000E+00
+        4.0100E+00        1.0000E-02        6.9100E-03        0.0000E+00
+        5.0000E+00        1.0000E-02        6.7400E-03        0.0000E+00
+        5.9800E+00        1.0000E-02        6.5300E-03        0.0000E+00
+        6.9900E+00        1.0000E-02        6.5600E-03        0.0000E+00
+        8.0100E+00        1.0000E-02        6.3000E-03        0.0000E+00
+        8.9900E+00        1.0000E-02        6.1200E-03        0.0000E+00
+        9.9800E+00        1.0000E-02        5.9500E-03        0.0000E+00
+        1.1480E+01        1.0000E-02        5.5700E-03        0.0000E+00

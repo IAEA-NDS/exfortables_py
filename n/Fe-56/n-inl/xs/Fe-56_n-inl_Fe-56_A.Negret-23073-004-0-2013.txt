@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 26-FE-56(N,INL)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 26 
 #   A: 56 
 #   Nuclide: 26-FE-56 
 # Reaction: 
 #   Process: N,INL 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  8.6154e-01 MeV - 1.7696e+01 MeV 
 # Residual: 
 #   Z: 26 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23073.x4 
 #   nds:  https://nds.iaea.org/EXFOR/23073
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         8.6154E-01        0.0000E+00        0.0000E+00        0.0000E+00
         8.6260E-01        0.0000E+00        6.1875E-03        1.4543E-03
         8.6367E-01        0.0000E+00        1.6470E-02        2.6783E-03

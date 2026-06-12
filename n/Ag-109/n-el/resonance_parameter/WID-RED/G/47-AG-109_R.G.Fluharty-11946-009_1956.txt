@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 47-AG-109 Resonance Parameter: WID/RED,,G 
+#   Source                : EXFOR 
+#   Date Created          : 2026-06-11 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11946-009-4 
+#   First Author          : R.G.Fluharty 
+#   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
+#   Reference             : (J,PR,103,1778,56) 
+#   Year                  : 1956 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 47 
+#   A                     : 109 
+#   Isomer                :  
+#   Nuclide               : 47-AG-109 
+# Reaction: 
+#   EXFOR Reaction        : (47-AG-109(N,EL),,WID/RED,,G) 
+#   Incident Energy       : 3.0800e+01 eV - 8.9600e+01 eV 
+#   Resonance Energy Type : EN-RES 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11946.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11946
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   3.0800E+01   3.0000E-01        NAN        0.0          NAN          NAN          NAN          NAN   2.0000E-03   3.0000E-04          NAN          NAN          NAN          NAN
+   4.0700E+01   6.0000E-01        NAN        0.0          NAN          NAN          NAN          NAN   1.1000E-03   1.3000E-04          NAN          NAN          NAN          NAN
+   5.6100E+01   2.0000E+00        0.0        0.0          NAN          NAN          NAN          NAN   3.6300E-03   8.0000E-04          NAN          NAN          NAN          NAN
+   7.2200E+01   2.0000E+00        1.0        0.0          NAN          NAN          NAN          NAN   3.4700E-03   7.6000E-04          NAN          NAN          NAN          NAN
+   8.9600E+01   2.4000E+00        NAN        0.0          NAN          NAN          NAN          NAN   5.9000E-04   1.2000E-04          NAN          NAN          NAN          NAN

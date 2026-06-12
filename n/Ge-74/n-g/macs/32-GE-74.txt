@@ -1,0 +1,42 @@
+# Header: 
+#   title: 32-GE-74(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 32 
+#   A: 74 
+#   Nuclide: 32-GE-74 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 3.16000E-02  |   1.50765E-02   (N = 5)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 2.66634E-02 +/-  2.17037E-03   (N = 5)
+#   MXW Simple Mean           |  Simple Stdev        : 5.90000E-02  |   0.00000E+00   (N = 2)
+#   MXW Weighted Mean        +/- Weighted Error      : 5.90000E-02 +/-  4.94975E-03   (N = 2)
+#   SPA Simple Mean           |  Simple Stdev        : 3.98000E-02  |           NAN   (N = 1)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11399-014-0         R.L.Macklin             1957   2.4000E-02   0.0000E+00   5.4000E-02   8.0000E-03                
+30079-009-0         A.K.Chaubey             1966   2.4000E-02   0.0000E+00   2.0000E-02   5.0000E-03                
+30234-002-0         A.Lakshmana Rao         1972   2.5000E-02   5.0000E-03   2.5000E-02   3.0000E-03                
+30234-003-0         A.Lakshmana Rao         1972   2.5000E-02   5.0000E-03   4.0000E-02   7.5000E-03                
+30390-005-0         R.P.Anand               1979   2.5000E-02   5.0000E-03   1.9000E-02   6.0000E-03                
+22037-016-1         G.Walter                1984   2.5000E-02   0.0000E+00   5.9000E-02   7.0000E-03     MXW        
+22037-026-2         G.Walter                1984   2.5000E-02   0.0000E+00   5.9000E-02   7.0000E-03     MXW        
+14237-002-0         J.Marganiec             2009   2.5000E-02   0.0000E+00   3.9800E-02   4.1000E-03     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22037-016-2         G.Walter                1984   2.5000E-02   0.0000E+00          NAN   0.0000E+00     MXW   DERIV
+22037-026-3         G.Walter                1984   2.5000E-02   0.0000E+00          NAN   0.0000E+00     MXW   DERIV
+V0102-110-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   5.3000E-02   7.0000E-03     MXW   RECOM
+V0102-111-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.7600E-02   3.9000E-03     MXW   RECOM
+V1001-276-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   5.4000E-02   7.0000E-03     MXW   RECOM

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 56-BA-134(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 56 
+#   A: 134 
+#   Nuclide: 56-BA-134 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 54 
+#   Incident energy:  2.0000e+00 MeV - 3.0000e+00 MeV 
+# Residual: 
+#   Z: 56 
+#   A: 134 
+#   Nuclide: 56-BA-134 
+#   Level energy: 1.6433e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 13967-002-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-134(N,INL)56-BA-134,PAR,SIG) 
+#   First author: B.Fazekas 
+#   Institute:  (3HUNII): MTA Izotop Intezete, Budapest 
+#   Reference:  (J,NP/A,548,249,1992) 
+#   Year:  1992 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/139/13967.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13967
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0000E+00        0.0000E+00        1.5200E-01        1.0000E-02
+        2.5000E+00        0.0000E+00        2.0800E-01        1.3000E-02
+        3.0000E+00        0.0000E+00        1.8300E-01        1.4000E-02

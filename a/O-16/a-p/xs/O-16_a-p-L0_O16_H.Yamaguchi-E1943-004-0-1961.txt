@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 8-O-16(A,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: A,P 
+#   MF-MT number: 3 - 600 
+#   Incident energy:  2.6700e+01 MeV - 3.3100e+01 MeV 
+# Residual: 
+#   Z: 9 
+#   A: 19 
+#   Nuclide: 9-F-19 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: E1943-004-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(A,P)9-F-19,PAR,SIG) 
+#   First author: H.Yamaguchi 
+#   Institute:  (2JPNTOK): University of Tokyo, Tokyo 
+#   Reference:  (J,JPJ,16,(4),583,196104) 
+#   Year:  1961 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1943.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1943
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6700E+01        1.3350E-01        6.5100E-03        0.0000E+00
+        3.3100E+01        1.6550E-01        4.2400E-03        0.0000E+00

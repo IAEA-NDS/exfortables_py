@@ -1,0 +1,32 @@
+# Header: 
+#   title: 50-SN-0(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 50 
+#   A: 0 
+#   Nuclide: 50-SN-0 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0400e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.35000E-01  |   1.62481E-02   (N = 6)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.36725E-01 +/-  4.41638E-03   (N = 6)
+#   SPA Simple Mean           |  Simple Stdev        : 9.30000E-02  |           NAN   (N = 1)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11380-009-0         R.L.Macklin             1963   3.0000E-02   0.0000E+00   1.2400E-01   2.9760E-02                
+40072-011-0         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.2800E-01   9.0000E-03                
+40072-029-1         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.2500E-01   1.6000E-02                
+40072-029-2         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.6600E-01   1.0000E-02                
+40072-029-3         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.4000E-01   1.1000E-02                
+40072-029-4         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.2700E-01   8.0000E-03                
+11958-002-0         R.L.Macklin             1962   3.0400E-02   1.6000E-02   9.3000E-02   2.0000E-02     SPA        

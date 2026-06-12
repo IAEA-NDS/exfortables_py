@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 23-V-51(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 23 
+#   A: 51 
+#   Nuclide: 23-V-51 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.1700e+00 MeV - 1.7600e+00 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 52 
+#   Nuclide: 24-CR-52 
+#   Level energy: 2.3694e+00 MeV 
+# EXFOR BIB:
+#   Entry id: D5119-004-0 (entry-subentry-pointer) 
+#   Reaction code: (23-V-51(P,G)24-CR-52,PAR,SIG) 
+#   First author: B.A.Nemashkalo 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,UFZ,28,332,1983) 
+#   Year:  1983 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D51/D5119.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D5119
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1700E+00        0.0000E+00        1.7000E-06        2.0000E-07
+        1.2700E+00        0.0000E+00        2.4000E-06        4.0000E-07
+        1.4600E+00        0.0000E+00        9.4000E-06        1.2000E-06
+        1.5200E+00        0.0000E+00        1.7000E-05        2.0000E-06
+        1.5600E+00        0.0000E+00        2.3000E-05        3.0000E-06
+        1.6000E+00        0.0000E+00        2.5000E-05        3.0000E-06
+        1.6600E+00        0.0000E+00        2.2000E-05        3.0000E-06
+        1.7600E+00        0.0000E+00        2.0000E-05        2.0000E-06

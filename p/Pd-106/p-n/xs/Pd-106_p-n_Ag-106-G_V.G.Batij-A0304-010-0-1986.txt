@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 46-PD-106(P,N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 46 
 #   A: 106 
 #   Nuclide: 46-PD-106 
 # Reaction: 
 #   Process: P,N 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  6.5000e+00 MeV - 9.0000e+00 MeV 
 # Residual: 
 #   Z: 47 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A03/A0304.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A0304
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         6.5000E+00        0.0000E+00        9.3000E-02        1.1000E-02
         7.0000E+00        0.0000E+00        1.2800E-01        1.4000E-02
         8.0000E+00        0.0000E+00        2.3000E-01        2.0000E-02

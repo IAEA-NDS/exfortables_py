@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 26-FE-58(P,N)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 26 
 #   A: 58 
@@ -14,7 +14,7 @@
 #   Z: 27 
 #   A: 58 
 #   Nuclide: 27-CO-58 
-#   Level energy: 5.6000e+00 MeV 
+#   Outgoing energy:  5.6000e+00 MeV - 2.4800e+01 MeV 
 # EXFOR BIB:
 #   Entry id: T0110-013-0 (entry-subentry-pointer) 
 #   Reaction code: (26-FE-58(P,N)27-CO-58,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T01/T0110.x4 
 #   nds:  https://nds.iaea.org/EXFOR/T0110
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)     data_cm(B/EV)    ddata_cm(B/EV)
         5.6000E+00        2.0000E-01        3.1929E-05        3.5122E-06
         5.8000E+00        2.0000E-01        1.1557E-05        1.2713E-06
         6.0000E+00        2.0000E-01        1.1276E-07        1.2404E-08

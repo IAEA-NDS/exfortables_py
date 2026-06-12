@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 8-O-16(6-C-12,EL)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 8 
 #   A: 16 
 #   Nuclide: 8-O-16 
 # Reaction: 
 #   Process: 6-C-12,EL 
-#   MF-MT number: 4 - None 
+#   MF-MT number: 4 - 2 
 #   Incident energy:  2.1000e+01 MeV 
 # Residual: 
 #   Z: 8 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A08/A0886.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A0886
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+# Angle_cm(degrees) dAngle_cm(degrees)     data_cm(B/SR)    ddata_cm(B/SR)
         2.0980E+01        0.0000E+00        1.5609E+01        1.4672E+00
         2.2730E+01        0.0000E+00        1.1148E+01        1.0479E+00
         2.4470E+01        0.0000E+00        9.6157E+00        9.0484E-01

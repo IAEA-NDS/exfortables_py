@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 21-SC-45(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 21 
+#   A: 45 
+#   Nuclide: 21-SC-45 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 54.0 
+#   Incident energy:  1.5300e+00 MeV - 3.5000e+00 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 45 
+#   Nuclide: 21-SC-45 
+#   Level energy: 7.3700e-01 MeV 
+# EXFOR BIB:
+#   Entry id: 13547-004-0 (entry-subentry-pointer) 
+#   Reaction code: (21-SC-45(N,INL)21-SC-45,PAR,SIG) 
+#   First author: A.B.Smith 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,JP/G,19,655,1993) 
+#   Year:  1993 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/135/13547.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13547
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5300E+00        0.0000E+00        1.8250E-01        3.6270E-02
+        1.6400E+00        0.0000E+00        1.7400E-01        3.3570E-02
+        1.7500E+00        0.0000E+00        1.7150E-01        3.2110E-02
+        1.8500E+00        0.0000E+00        1.8250E-01        3.5720E-02
+        1.9300E+00        0.0000E+00        1.6670E-01        3.2060E-02
+        2.0400E+00        0.0000E+00        1.7700E-01        3.4530E-02
+        2.1300E+00        0.0000E+00        1.7300E-01        3.3880E-02
+        2.2600E+00        0.0000E+00        1.7300E-01        3.0800E-02
+        2.3500E+00        0.0000E+00        1.4770E-01        2.9960E-02
+        2.4800E+00        0.0000E+00        1.5230E-01        2.5500E-02
+        2.6000E+00        0.0000E+00        1.3950E-01        2.1020E-02
+        2.7000E+00        0.0000E+00        1.3800E-01        2.0550E-02
+        2.8000E+00        0.0000E+00        1.1670E-01        2.0340E-02
+        2.9000E+00        0.0000E+00        1.1950E-01        2.0680E-02
+        3.0000E+00        0.0000E+00        1.1650E-01        2.0510E-02
+        3.1000E+00        0.0000E+00        1.0900E-01        2.0000E-02
+        3.2000E+00        0.0000E+00        8.9000E-02        2.0510E-02
+        3.3000E+00        0.0000E+00        7.0500E-02        2.0510E-02
+        3.3900E+00        0.0000E+00        6.8500E-02        2.0050E-02
+        3.5000E+00        0.0000E+00        6.6000E-02        2.0000E-02

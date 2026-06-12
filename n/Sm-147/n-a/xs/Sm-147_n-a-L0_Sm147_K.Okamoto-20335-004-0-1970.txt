@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 62-SM-147(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 62 
+#   A: 147 
+#   Nuclide: 62-SM-147 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 800 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 144 
+#   Nuclide: 60-ND-144 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 20335-004-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-147(N,A)60-ND-144,PAR,SIG) 
+#   First author: K.Okamoto 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,NP/A,141,193,7001) 
+#   Year:  1970 
+#   Facility:  (SELVE): Velocity selector 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20335.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20335
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.8000E-04        4.0000E-05

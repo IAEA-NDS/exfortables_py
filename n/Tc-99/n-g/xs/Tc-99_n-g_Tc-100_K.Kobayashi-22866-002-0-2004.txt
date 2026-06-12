@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 43-TC-99(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 43 
 #   A: 99 
 #   Nuclide: 43-TC-99 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  4.5100e-09 MeV - 4.6850e-02 MeV 
 # Residual: 
 #   Z: 43 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22866.x4 
 #   nds:  https://nds.iaea.org/EXFOR/22866
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         4.5100E-09        0.0000E+00        5.6626E+01        4.1322E+00
         5.6700E-09        0.0000E+00        5.0086E+01        2.8336E+00
         7.1200E-09        0.0000E+00        4.3695E+01        2.0486E+00

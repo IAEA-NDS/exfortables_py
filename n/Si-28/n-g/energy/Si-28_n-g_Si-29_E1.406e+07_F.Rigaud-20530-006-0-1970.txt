@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 14-SI-28(N,G)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 14 
 #   A: 28 
@@ -14,7 +14,7 @@
 #   Z: 14 
 #   A: 29 
 #   Nuclide: 14-SI-29 
-#   Level energy: 1.5321e+01 MeV 
+#   Outgoing energy:  1.5321e+01 MeV - 2.4309e+01 MeV 
 # EXFOR BIB:
 #   Entry id: 20530-006-0 (entry-subentry-pointer) 
 #   Reaction code: (14-SI-28(N,G)14-SI-29,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20530.x4 
 #   nds:  https://nds.iaea.org/EXFOR/20530
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.5321E+01        4.0000E-03        1.1083E-10        1.8880E-11
         1.5610E+01        4.0000E-03        9.7850E-11        1.7010E-11
         1.5913E+01        4.0000E-03        1.0230E-10        1.7300E-11

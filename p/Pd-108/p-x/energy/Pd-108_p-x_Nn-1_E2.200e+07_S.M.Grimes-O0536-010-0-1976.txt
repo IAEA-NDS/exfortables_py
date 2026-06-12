@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 46-PD-108(P,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 46 
 #   A: 108 
@@ -14,7 +14,7 @@
 #   Z: 0 
 #   A: 1 
 #   Nuclide: 0-NN-1 
-#   Level energy: 4.6500e+00 MeV 
+#   Outgoing energy:  4.6500e+00 MeV - 1.8510e+01 MeV 
 # EXFOR BIB:
 #   Entry id: O0536-010-0 (entry-subentry-pointer) 
 #   Reaction code: (46-PD-108(P,X)0-NN-1,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0536.x4 
 #   nds:  https://nds.iaea.org/EXFOR/O0536
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#   E_out_cm(MeV)    dE_out_cm(MeV)     data_cm(B/EV)    ddata_cm(B/EV)
         4.6500E+00        4.0000E-02        2.0400E-07        4.0800E-09
         5.6700E+00        4.0000E-02        9.3500E-08        1.8700E-09
         6.5900E+00        4.0000E-02        5.1400E-08        1.0280E-09

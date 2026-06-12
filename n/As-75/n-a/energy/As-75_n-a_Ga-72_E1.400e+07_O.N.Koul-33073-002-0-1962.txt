@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 33-AS-75(N,A)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 33 
 #   A: 75 
@@ -14,7 +14,7 @@
 #   Z: 31 
 #   A: 72 
 #   Nuclide: 31-GA-72 
-#   Level energy: 5.0000e-01 MeV 
+#   Outgoing energy:  5.0000e-01 MeV - 1.4500e+01 MeV 
 # EXFOR BIB:
 #   Entry id: 33073-002-0 (entry-subentry-pointer) 
 #   Reaction code: (33-AS-75(N,A)31-GA-72,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33073.x4 
 #   nds:  https://nds.iaea.org/EXFOR/33073
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         5.0000E-01        0.0000E+00        4.0000E-10        0.0000E+00
         1.5000E+00        0.0000E+00        2.0700E-09        0.0000E+00
         2.5000E+00        0.0000E+00        4.9800E-09        0.0000E+00

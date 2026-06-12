@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 20-CA-44(D,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 20 
+#   A: 44 
+#   Nuclide: 20-CA-44 
+# Reaction: 
+#   Process: D,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  2.1660e+01 MeV - 3.3330e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 43 
+#   Nuclide: 21-SC-43 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2627-004-0 (entry-subentry-pointer) 
+#   Reaction code: (20-CA-44(D,3N)21-SC-43,,SIG) 
+#   First author: C.Duchemin 
+#   Institute:  (2FR NTE): Universite de Nantes 
+#   Reference:  (J,PMB,60,6847,2015) 
+#   Year:  2015 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O26/O2627.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2627
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.3330E+01        2.8000E-01        8.0250E-02        2.5980E-02
+        2.1660E+01        6.0000E-01        4.3440E-02        1.5490E-02

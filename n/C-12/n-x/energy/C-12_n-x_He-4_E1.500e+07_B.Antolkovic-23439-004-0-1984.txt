@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 6-C-12(N,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 6 
 #   A: 12 
@@ -14,7 +14,7 @@
 #   Z: 2 
 #   A: 4 
 #   Nuclide: 2-HE-4 
-#   Level energy: 6.0000e-01 MeV 
+#   Outgoing energy:  6.0000e-01 MeV - 4.7725e+00 MeV 
 # EXFOR BIB:
 #   Entry id: 23439-004-0 (entry-subentry-pointer) 
 #   Reaction code: (6-C-12(N,X)2-HE-4,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/234/23439.x4 
 #   nds:  https://nds.iaea.org/EXFOR/23439
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         6.0000E-01        2.5000E-02        1.3986E-07        0.0000E+00
         7.5880E-01        2.5000E-02        1.9880E-07        0.0000E+00
         1.1880E+00        2.5000E-02        2.0267E-07        1.0910E-08

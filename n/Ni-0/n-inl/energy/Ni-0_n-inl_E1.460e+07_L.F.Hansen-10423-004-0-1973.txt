@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 28-NI-0(N,INL)  Differential with energy of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 5 - None 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+#   Outgoing energy:  5.0000e+00 MeV - 1.2000e+01 MeV 
+# EXFOR BIB:
+#   Entry id: 10423-004-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(N,INL)28-NI-0,,DE) 
+#   First author: L.F.Hansen 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (P,USNDC-9,84,197311) 
+#   Year:  1973 
+#   Facility:  (ICTR): Insulated core transformer accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10423.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10423
+#
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
+        5.0000E+00        0.0000E+00        7.0000E-08        5.0000E-09
+        6.0000E+00        0.0000E+00        5.1000E-08        3.6000E-09
+        7.0000E+00        0.0000E+00        3.7500E-08        2.6000E-09
+        8.0000E+00        0.0000E+00        2.7800E-08        1.9000E-09
+        9.0000E+00        0.0000E+00        2.6700E-08        1.9000E-09
+        1.0000E+01        0.0000E+00        1.8100E-08        1.3000E-09
+        1.1000E+01        0.0000E+00        1.4600E-08        1.4000E-09
+        1.2000E+01        0.0000E+00        5.8400E-08        1.2000E-08

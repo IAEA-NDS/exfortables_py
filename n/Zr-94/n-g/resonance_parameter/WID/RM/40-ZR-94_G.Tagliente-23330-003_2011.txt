@@ -1,0 +1,75 @@
+# Header: 
+#   Title                 : 40-ZR-94 Resonance Parameter: WID,,RM 
+#   Source                : EXFOR 
+#   Date Created          : 2026-06-11 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 23330-003-2 
+#   First Author          : G.Tagliente 
+#   Institute             : (2FR FR ): France 
+#   Reference             : (J,PR/C,84,015801,2011) 
+#   Year                  : 2011 
+#   Facility              : (SYNCY): Synchro cyclotron 
+# Target: 
+#   Z                     : 40 
+#   A                     : 94 
+#   Isomer                :  
+#   Nuclide               : 40-ZR-94 
+# Reaction: 
+#   EXFOR Reaction        : (40-ZR-94(N,G),,WID,,RM) 
+#   Incident Energy       : 2.2405e+03 eV - 5.8733e+04 eV 
+#   Resonance Energy Type : EN 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/233/23330.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/23330
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   2.2405E+03   4.0000E-02        0.5        0.0          NAN          NAN   7.0200E-02   1.0530E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   4.9247E+03   7.0000E-02        0.5        1.0          NAN          NAN   1.7500E-01   5.0750E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   5.7604E+03   6.0000E-01        0.5        0.0          NAN          NAN   5.4400E-02   2.3936E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   5.8177E+03   1.0000E-01        1.5        1.0          NAN          NAN   1.5500E-01   3.5650E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   7.0710E+03   1.0000E+00        0.5        0.0          NAN          NAN   6.6200E-02   3.5748E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   7.7123E+03   3.0000E-01        1.5        1.0          NAN          NAN   8.9000E-02   3.5600E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   1.0135E+04   3.0000E-01        1.5        1.0          NAN          NAN   1.0600E-01   3.8160E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   1.0562E+04   6.0000E-01        0.5        1.0          NAN          NAN   5.0000E-02   3.7000E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   1.2038E+04   5.0000E-01        0.5        1.0          NAN          NAN   1.2700E-01   6.9850E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   1.2516E+04   7.0000E-01        1.5        1.0          NAN          NAN   1.1800E-01   5.1920E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   1.2809E+04   8.0000E-01        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.4232E+04   6.0000E-01        1.5        1.0          NAN          NAN   9.7000E-02   5.5290E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   1.5389E+04   1.0000E+00        0.5        1.0          NAN          NAN   1.4200E-01   8.9460E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   1.7372E+04   1.0000E+00        0.5        1.0          NAN          NAN   1.3400E-01   1.0586E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   1.7903E+04   2.0000E+00        1.5        1.0          NAN          NAN   2.0800E-01   9.9840E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   1.9375E+04   1.6000E+01        0.5        0.0          NAN          NAN   1.0400E-01   1.3520E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   1.9738E+04   2.0000E+00        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.9855E+04   2.0000E+00        0.5        0.0          NAN          NAN   5.9000E-02   7.6700E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   2.0236E+04   4.0000E+00        0.5        1.0          NAN          NAN   1.6400E-01   1.3940E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   2.2203E+04   2.0000E+00        0.5        1.0          NAN          NAN   2.2500E-01   1.5975E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   2.2280E+04   4.0000E+00        0.5        0.0          NAN          NAN   6.2000E-02   8.6800E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   2.3853E+04   3.0000E+00        1.5        1.0          NAN          NAN   1.6500E-01   1.0890E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   2.4389E+04   3.0000E+00        0.5        1.0          NAN          NAN   2.0000E-01   1.7000E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   2.5858E+04   4.0000E+00        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   2.7836E+04   3.0000E+00        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   2.8155E+04   2.0000E+00        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   2.9755E+04   9.0000E+00        0.5        0.0          NAN          NAN   1.1500E-01   1.4950E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   3.0884E+04   5.0000E+00        0.5        1.0          NAN          NAN   1.8400E-01   2.3920E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   3.1612E+04   7.0000E+00        1.5        1.0          NAN          NAN   9.2000E-02   1.1040E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   3.2719E+04   1.0000E+00        1.5        1.0          NAN          NAN   1.5000E-01   1.9500E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   3.4749E+04   2.3000E+01        0.5        0.0          NAN          NAN   1.4900E-01   5.6620E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   3.6386E+04   3.0000E+00        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.7839E+04   2.8000E+01        1.5        1.0          NAN          NAN   1.3600E-01   4.0800E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   3.8808E+04   1.0000E+00        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.9721E+04   6.0000E+00        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   4.1563E+04   9.0000E+00        1.5        1.0          NAN          NAN   2.0200E-01   3.0300E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   4.3112E+04   1.0000E+00        1.5        1.0          NAN          NAN   3.0800E-01   3.0800E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   4.3698E+04   2.0000E+00        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   4.4408E+04   5.0000E+00        0.5        0.0          NAN          NAN   1.1600E-01   3.3640E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   4.6006E+04   2.0000E+01        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   4.7919E+04   2.0000E+00        1.5        1.0          NAN          NAN   6.5000E-02   2.0800E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   4.8460E+04   2.0000E+00        0.5        0.0          NAN          NAN   8.9000E-02   2.1360E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   4.9463E+04   1.8000E+01        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   4.9568E+04   5.0000E+00        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   5.1352E+04   4.0000E+00        0.5        1.0          NAN          NAN   9.4000E-02   8.6480E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   5.2405E+04   1.4000E+01        0.5        1.0          NAN          NAN   2.3400E-01   4.6800E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   5.4980E+04   1.9000E+01        0.5        1.0          NAN          NAN   1.0300E-01   3.8110E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   5.5536E+04   3.0000E+00        1.5        1.0          NAN          NAN   3.5500E-01   4.9700E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   5.6608E+04   3.0000E+00        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   5.8733E+04   2.0000E+01        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

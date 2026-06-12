@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 27-CO-59(N,A)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 27 
 #   A: 59 
 #   Nuclide: 27-CO-59 
 # Reaction: 
 #   Process: N,A 
-#   MF-MT number: 3 - 107 
+#   MF-MT number: 3 - 107.0 
 #   Incident energy:  1.2600e+01 MeV - 1.9400e+01 MeV 
 # Residual: 
 #   Z: 25 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20904.x4 
 #   nds:  https://nds.iaea.org/EXFOR/20904
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.2600E+01        3.0000E-01        2.0100E-02        9.8490E-04
         1.3200E+01        3.0000E-01        2.5600E-02        1.1520E-03
         1.4100E+01        4.0000E-01        3.0000E-02        1.0200E-03

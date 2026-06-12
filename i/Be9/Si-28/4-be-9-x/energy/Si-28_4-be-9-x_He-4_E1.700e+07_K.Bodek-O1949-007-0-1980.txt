@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 14-SI-28(4-BE-9,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 14 
 #   A: 28 
@@ -14,7 +14,7 @@
 #   Z: 2 
 #   A: 4 
 #   Nuclide: 2-HE-4 
-#   Level energy: 3.6010e+00 MeV 
+#   Outgoing energy:  3.6010e+00 MeV - 2.1082e+01 MeV 
 # EXFOR BIB:
 #   Entry id: O1949-007-0 (entry-subentry-pointer) 
 #   Reaction code: (14-SI-28(4-BE-9,X)2-HE-4,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O19/O1949.x4 
 #   nds:  https://nds.iaea.org/EXFOR/O1949
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#   E_out_cm(MeV)    dE_out_cm(MeV)     data_cm(B/EV)    ddata_cm(B/EV)
         3.6010E+00        0.0000E+00        9.1474E-08        1.7963E-08
         4.5510E+00        0.0000E+00        1.1593E-07        0.0000E+00
         5.6920E+00        0.0000E+00        1.0471E-07        0.0000E+00

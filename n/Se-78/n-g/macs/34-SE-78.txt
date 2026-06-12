@@ -1,0 +1,37 @@
+# Header: 
+#   title: 34-SE-78(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 34 
+#   A: 78 
+#   Nuclide: 34-SE-78 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 9.80000E-02  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   MXW Simple Mean           |  Simple Stdev        : 5.10500E-02  |   1.27986E-02   (N = 2)
+#   MXW Weighted Mean        +/- Weighted Error      : 4.27529E-02 +/-  1.95796E-03   (N = 2)
+#   SPA Simple Mean           |  Simple Stdev        : 6.30000E-02  |   2.82843E-03   (N = 2)
+#   SPA Weighted Mean        +/- Weighted Error      : 6.28100E-02 +/-  7.39940E-03   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+30248-015-0         K.Siddappa               nan   2.5000E-02   0.0000E+00   9.8000E-02   1.4000E-02                
+23041-002-0         I.Dillmann              2006   3.0000E-02   0.0000E+00   4.2000E-02   2.0000E-03     MXW        
+23041-003-0         I.Dillmann              2006   3.0000E-02   0.0000E+00   6.0100E-02   9.6000E-03     MXW        
+22971-003-0         G.Rugel                 2007   2.5000E-02   5.0000E-04   6.1000E-02   1.0000E-02     SPA        
+22971-006-2         G.Rugel                 2007   2.5000E-02   5.0000E-04   6.5000E-02   1.1000E-02     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V1001-295-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   8.0000E-02   0.0000E+00     MXW    CALC
+V0102-120-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.0900E-01   4.1000E-02     MXW   RECOM
+V0102-121-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   6.0100E-02   9.6000E-03     MXW   RECOM

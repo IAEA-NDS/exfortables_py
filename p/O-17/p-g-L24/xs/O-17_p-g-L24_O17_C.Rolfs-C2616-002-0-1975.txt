@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 8-O-17(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 8 
+#   A: 17 
+#   Nuclide: 8-O-17 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.5050e+00 MeV 
+# Residual: 
+#   Z: 9 
+#   A: 18 
+#   Nuclide: 9-F-18 
+#   Level energy: 5.6030e+00 MeV 
+# EXFOR BIB:
+#   Entry id: C2616-002-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-17(P,G)9-F-18,PAR,SIG) 
+#   First author: C.Rolfs 
+#   Institute:  (1USACAL): California Institute of Technology, Pasadena, CA 
+#   Reference:  (J,NP/A,250,295,1975) 
+#   Year:  1975 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2616.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2616
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5050E+00        0.0000E+00        3.0000E-10        0.0000E+00
+        1.5050E+00        0.0000E+00        3.0000E-10        0.0000E+00
+        1.5050E+00        0.0000E+00        1.0000E-10        0.0000E+00
+        1.5050E+00        0.0000E+00        5.0000E-10        0.0000E+00

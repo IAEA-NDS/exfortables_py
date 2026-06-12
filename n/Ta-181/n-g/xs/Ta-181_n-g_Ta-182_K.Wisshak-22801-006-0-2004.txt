@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 73-TA-181(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 73 
 #   A: 181 
 #   Nuclide: 73-TA-181 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  1.1250e-02 MeV - 9.0000e-02 MeV 
 # Residual: 
 #   Z: 73 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22801.x4 
 #   nds:  https://nds.iaea.org/EXFOR/22801
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.1250E-02        0.0000E+00        1.4080E+00        9.0000E-02
         1.3750E-02        0.0000E+00        1.2250E+00        7.4000E-02
         1.7500E-02        0.0000E+00        1.0270E+00        3.8000E-02

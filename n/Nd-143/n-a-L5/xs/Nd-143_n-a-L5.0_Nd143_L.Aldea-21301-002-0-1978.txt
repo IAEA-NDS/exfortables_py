@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 60-ND-143(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 60 
+#   A: 143 
+#   Nuclide: 60-ND-143 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 805.0 
+#   Incident energy:  2.5100e-08 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 140 
+#   Nuclide: 58-CE-140 
+#   Level energy: 2.3482e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 21301-002-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-143(N,A)58-CE-140,PAR,SIG,,MXW) 
+#   First author: L.Aldea 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (C,78BNL,529,780918) 
+#   Year:  1978 
+#   Facility:  (REAC ): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21301.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21301
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.5100E-08        0.0000E+00        4.1500E-05        4.0000E-06
+        2.5100E-08        0.0000E+00        3.1200E-05        3.0000E-06
+        2.5100E-08        0.0000E+00        2.2800E-05        3.0000E-06

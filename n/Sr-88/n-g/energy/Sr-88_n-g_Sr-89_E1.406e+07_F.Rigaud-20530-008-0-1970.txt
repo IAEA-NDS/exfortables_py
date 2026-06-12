@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 38-SR-88(N,G)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 38 
 #   A: 88 
@@ -14,7 +14,7 @@
 #   Z: 38 
 #   A: 89 
 #   Nuclide: 38-SR-89 
-#   Level energy: 1.4985e+01 MeV 
+#   Outgoing energy:  1.4985e+01 MeV - 2.3319e+01 MeV 
 # EXFOR BIB:
 #   Entry id: 20530-008-0 (entry-subentry-pointer) 
 #   Reaction code: (38-SR-88(N,G)38-SR-89,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20530.x4 
 #   nds:  https://nds.iaea.org/EXFOR/20530
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.4985E+01        8.0000E-03        5.6663E-10        1.0921E-10
         1.5242E+01        8.0000E-03        5.7445E-10        1.1675E-10
         1.5497E+01        8.0000E-03        4.6703E-10        9.7900E-11

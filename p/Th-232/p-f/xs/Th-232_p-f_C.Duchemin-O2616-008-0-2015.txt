@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 90-TH-232(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.1050e+01 MeV - 7.0120e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 131 
+#   Nuclide: 53-I-131 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2616-008-0 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(P,F)53-I-131,CUM,SIG) 
+#   First author: C.Duchemin 
+#   Institute:  (2FR NTE): Universite de Nantes 
+#   Reference:  (J,PMB,60,931,2015) 
+#   Year:  2015 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O26/O2616.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2616
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1050E+01        1.7800E+00        1.1000E-03        1.4000E-04
+        1.4380E+01        1.4100E+00        7.3000E-03        6.1000E-04
+        1.7810E+01        1.1800E+00        2.2160E-02        2.0500E-03
+        2.0080E+01        1.0700E+00        3.0520E-02        2.8600E-03
+        2.5530E+01        7.9000E-01        4.1370E-02        3.8900E-03
+        3.0190E+01        5.6000E-01        4.7060E-02        4.1900E-03
+        3.6920E+01        9.3000E-01        4.6890E-02        4.2300E-03
+        4.1060E+01        7.9000E-01        4.9040E-02        4.4000E-03
+        4.5920E+01        5.6000E-01        4.6600E-02        4.2200E-03
+        5.7680E+01        1.0300E+00        4.0360E-02        3.9500E-03
+        7.0120E+01        5.3000E-01        2.8890E-02        2.1900E-03

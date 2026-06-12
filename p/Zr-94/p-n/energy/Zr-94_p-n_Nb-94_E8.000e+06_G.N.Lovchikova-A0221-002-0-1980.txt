@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 40-ZR-94(P,N)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 40 
 #   A: 94 
@@ -14,7 +14,7 @@
 #   Z: 41 
 #   A: 94 
 #   Nuclide: 41-NB-94 
-#   Level energy: 7.9100e-01 MeV 
+#   Outgoing energy:  7.9100e-01 MeV - 6.1300e+00 MeV 
 # EXFOR BIB:
 #   Entry id: A0221-002-0 (entry-subentry-pointer) 
 #   Reaction code: (40-ZR-94(P,N)41-NB-94,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0221.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A0221
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         7.9100E-01        0.0000E+00        3.4200E-07        1.3680E-08
         8.8500E-01        0.0000E+00        3.2900E-07        1.3160E-08
         9.8100E-01        0.0000E+00        2.8200E-07        1.1280E-08

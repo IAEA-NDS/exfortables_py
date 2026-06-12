@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 92-U-235(N,INL)  Differential with angle of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 4 - 92.0 
+#   Incident energy:  1.4000e+01 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+#   Level energy: 3.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 14329-111-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,INL)92-U-235,PAR,DA) 
+#   First author: J.L.Kammerdiener 
+#   Institute:  (1USADAV): University of California, Davis, CA 
+#   Reference:  (R,UCRL-51232,1972) 
+#   Year:  1972 
+#   Facility:  (ICTR): Insulated core transformer accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/143/14329.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14329
+#
+# Angle_cm(degrees) dAngle_cm(degrees)     data_cm(B/SR)    ddata_cm(B/SR)
+        2.0000E+01        2.7530E+00        1.4520E-02        3.1560E-03
+        2.5000E+01        2.7550E+00        1.3350E-02        1.8090E-03
+        3.0000E+01        3.5050E+00        1.8010E-02        2.1990E-03
+        3.5000E+01        4.0070E+00        1.0140E-02        1.1710E-03
+        4.0000E+01        4.5100E+00        9.3980E-03        8.9050E-04
+        4.5000E+01        4.2590E+00        1.0790E-02        8.7310E-04
+        5.0000E+01        4.7600E+00        7.6500E-03        8.3050E-04
+        5.5000E+01        5.0070E+00        8.4550E-03        9.7490E-04
+        6.0000E+01        4.7570E+00        7.4830E-03        8.6330E-04
+        6.5000E+01        4.2590E+00        7.1500E-03        6.2840E-04
+        7.0000E+01        4.5090E+00        6.3290E-03        6.8720E-04
+        7.5000E+01        4.2570E+00        5.5160E-03        4.8440E-04
+        8.0000E+01        4.2590E+00        4.6630E-03        4.4190E-04
+        8.5000E+01        4.0110E+00        4.0020E-03        4.8830E-04
+        9.5000E+01        3.5080E+00        4.4600E-03        4.8430E-04
+        1.0000E+02        3.5090E+00        3.8580E-03        3.6570E-04
+        1.0500E+02        4.0090E+00        4.5680E-03        4.9600E-04
+        1.2000E+02        4.5110E+00        3.0020E-03        3.8680E-04
+        1.3500E+02        4.5110E+00        3.8420E-03        6.2060E-04
+        1.5500E+02        2.7570E+00        6.4330E-03        1.5500E-03

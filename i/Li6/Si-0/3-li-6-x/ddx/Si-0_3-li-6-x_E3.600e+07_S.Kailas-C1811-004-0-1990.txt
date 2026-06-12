@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 14-SI-0(3-LI-6,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 14 
+#   A: 0 
+#   Nuclide: 14-SI-0 
+# Reaction: 
+#   Process: 3-LI-6,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  3.6000e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Outgoing energy:  5.2760e+00 MeV - 1.7417e+01 MeV 
+# EXFOR BIB:
+#   Entry id: C1811-004-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-0(3-LI-6,X)1-H-1,,DA/DE) 
+#   First author: S.Kailas 
+#   Institute:  (1USAWAU): University of Washington, Seattle, WA 
+#   Reference:  (J,PRM,35,(5),439,1990) 
+#   Year:  1990 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C18/C1811.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1811
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        5.2760E+00        0.0000E+00        1.2000E+02        8.0000E-01        9.4570E-09        4.7285E-10
+        6.3730E+00        0.0000E+00        1.2000E+02        8.0000E-01        7.0260E-09        3.5130E-10
+        7.3850E+00        0.0000E+00        1.2000E+02        8.0000E-01        5.3180E-09        2.6590E-10
+        8.4820E+00        0.0000E+00        1.2000E+02        8.0000E-01        3.7370E-09        1.8685E-10
+        9.4090E+00        0.0000E+00        1.2000E+02        8.0000E-01        2.6760E-09        1.3380E-10
+        1.0505E+01        0.0000E+00        1.2000E+02        8.0000E-01        1.9160E-09        9.5800E-11
+        1.1433E+01        0.0000E+00        1.2000E+02        8.0000E-01        1.3970E-09        6.9850E-11
+        1.2445E+01        0.0000E+00        1.2000E+02        8.0000E-01        1.0380E-09        5.1900E-11
+        1.3456E+01        0.0000E+00        1.2000E+02        8.0000E-01        7.1640E-10        3.5820E-11
+        1.4383E+01        0.0000E+00        1.2000E+02        8.0000E-01        5.2260E-10        2.6130E-11
+        1.5479E+01        0.0000E+00        1.2000E+02        8.0000E-01        3.6050E-10        1.8025E-11
+        1.6491E+01        0.0000E+00        1.2000E+02        8.0000E-01        2.6290E-10        1.3145E-11
+        1.7417E+01        0.0000E+00        1.2000E+02        8.0000E-01        1.7480E-10        8.7400E-12

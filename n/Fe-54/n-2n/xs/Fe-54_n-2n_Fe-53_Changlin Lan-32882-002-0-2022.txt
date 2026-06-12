@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 26-FE-54(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 26 
+#   A: 54 
+#   Nuclide: 26-FE-54 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4510e+01 MeV - 1.4830e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 53 
+#   Nuclide: 26-FE-53 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32882-002-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-54(N,2N)26-FE-53,,SIG) 
+#   First author: Changlin Lan 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,NIM/B,525,18,2022) 
+#   Year:  2022 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32882.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32882
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4510E+01        1.0000E-01        5.4000E-03        6.1000E-04
+        1.4670E+01        1.4000E-01        6.9600E-03        7.2000E-04
+        1.4830E+01        1.6000E-01        1.0300E-02        9.4000E-04

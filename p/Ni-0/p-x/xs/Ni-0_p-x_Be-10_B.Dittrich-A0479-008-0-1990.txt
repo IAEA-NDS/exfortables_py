@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 28-NI-0(P,X)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 28 
 #   A: 0 
@@ -20,13 +20,13 @@
 #   Reaction code: (28-NI-0(P,X)4-BE-10,,SIG) 
 #   First author: B.Dittrich 
 #   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
-#   Reference:  ((P,NEANDC(E)-312-U,51,1990)=(P,INDC(GER)-035/LN,51,1990)) 
+#   Reference:  ((P,NEANDC(E)-312,(5),51,1990)=(P,INDC(GER)-035/LN,51,1990)) 
 #   Year:  1990 
 #   Facility:  (LINAC): Linear accelerator 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0479.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A0479
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         5.7200E+01        1.1000E+00        3.5000E-06        1.5000E-06
         8.8400E+01        6.0000E-01        8.1000E-06        2.4000E-06
         1.1500E+02        1.6000E+00        2.3500E-05        6.3000E-06

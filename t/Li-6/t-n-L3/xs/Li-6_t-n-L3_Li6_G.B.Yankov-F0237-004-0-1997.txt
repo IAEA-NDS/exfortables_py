@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 3-LI-6(T,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: T,N 
+#   MF-MT number: 3 - 53 
+#   Incident energy:  8.5000e+00 MeV - 1.1400e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 8 
+#   Nuclide: 4-BE-8 
+#   Level energy: 1.6620e+01 MeV 
+# EXFOR BIB:
+#   Entry id: F0237-004-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(T,N)4-BE-8,PAR,SIG) 
+#   First author: G.B.Yankov 
+#   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference:  (P,EPA-59-97,1997) 
+#   Year:  1997 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F02/F0237.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0237
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.5000E+00        2.0000E-01        2.0000E-02        1.0000E-02
+        1.1400E+01        2.0000E-01        2.0000E-02        5.0000E-03

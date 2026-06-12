@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 92-U-238(N,INL)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 92 
 #   A: 238 
@@ -14,7 +14,7 @@
 #   Z: 92 
 #   A: 238 
 #   Nuclide: 92-U-238 
-#   Level energy: 6.4894e-01 MeV 
+#   Outgoing energy:  6.4894e-01 MeV - 5.5778e+00 MeV 
 # EXFOR BIB:
 #   Entry id: 40630-011-0 (entry-subentry-pointer) 
 #   Reaction code: (92-U-238(N,INL)92-U-238,,DE,,,DERIV) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40630.x4 
 #   nds:  https://nds.iaea.org/EXFOR/40630
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         6.4894E-01        1.2120E-02        1.7735E-06        1.3719E-07
         7.2423E-01        1.2120E-02        1.4556E-06        0.0000E+00
         8.3410E-01        1.2120E-02        1.3559E-06        0.0000E+00

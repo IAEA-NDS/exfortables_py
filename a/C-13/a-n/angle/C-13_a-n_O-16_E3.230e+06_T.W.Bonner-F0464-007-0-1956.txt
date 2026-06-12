@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 6-C-13(A,N)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 6 
 #   A: 13 
 #   Nuclide: 6-C-13 
 # Reaction: 
 #   Process: A,N 
-#   MF-MT number: 4 - 4 
+#   MF-MT number: 4 - 4.0 
 #   Incident energy:  3.2300e+00 MeV 
 # Residual: 
 #   Z: 8 
@@ -20,11 +20,11 @@
 #   Reaction code: (6-C-13(A,N)8-O-16,,DA) 
 #   First author: T.W.Bonner 
 #   Institute:  (1USARIC): Rice University, Houston, TX 
-#   Reference:  (J,PR,102,1348,195606) 
+#   Reference:  (J,PR,102,1348,1956) 
 #   Year:  1956 
 #   Facility:  (VDG): Van de Graaff 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F04/F0464.x4 
 #   nds:  https://nds.iaea.org/EXFOR/F0464
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
-        5.0000E+00        0.0000E+00        8.3110E-03        2.0000E-05
+#  Angle(degrees)   dAngle(degrees)        data(B/SR)       ddata(B/SR)
+        5.0000E+00        0.0000E+00        8.3100E-03        0.0000E+00

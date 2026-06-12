@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 29-CU-0(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 29 
 #   A: 0 
 #   Nuclide: 29-CU-0 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  5.0720e-01 MeV - 3.0390e+00 MeV 
 # Residual: 
 #   Z:  
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/126/12670.x4 
 #   nds:  https://nds.iaea.org/EXFOR/12670
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         5.0720E-01        0.0000E+00        1.3360E-02        1.3640E-03
         7.0480E-01        0.0000E+00        1.3620E-02        1.3140E-03
         9.1250E-01        0.0000E+00        1.3290E-02        1.4330E-03

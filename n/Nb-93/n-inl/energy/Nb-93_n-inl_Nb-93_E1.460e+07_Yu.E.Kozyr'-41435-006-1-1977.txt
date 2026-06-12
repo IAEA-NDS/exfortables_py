@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 41-NB-93(N,INL)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 41 
 #   A: 93 
@@ -14,7 +14,7 @@
 #   Z: 41 
 #   A: 93 
 #   Nuclide: 41-NB-93 
-#   Level energy: 1.0900e+01 MeV 
+#   Outgoing energy:  6.1200e-01 MeV - 1.0900e+01 MeV 
 # EXFOR BIB:
 #   Entry id: 41435-006-1 (entry-subentry-pointer) 
 #   Reaction code: (41-NB-93(N,INL)41-NB-93,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41435.x4 
 #   nds:  https://nds.iaea.org/EXFOR/41435
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.0900E+01        0.0000E+00        2.7000E-08        4.0500E-09
         9.6700E+00        0.0000E+00        2.5100E-08        2.2590E-09
         8.6400E+00        0.0000E+00        2.8200E-08        1.6920E-09

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-238(N,SCT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,SCT 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4200e+01 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: 1.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 30716-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,SCT)92-U-238,PAR,SIG) 
+#   First author: Shen Guanran 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CNP,6,193,198408) 
+#   Year:  1984 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30716.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30716
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4200E+01        0.0000E+00        3.4250E+00        2.9100E-01

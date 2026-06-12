@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 14-SI-28(3-LI-7,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 14 
+#   A: 28 
+#   Nuclide: 14-SI-28 
+# Reaction: 
+#   Process: 3-LI-7,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.6000e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Outgoing energy:  5.5213e+00 MeV - 1.3466e+01 MeV 
+# EXFOR BIB:
+#   Entry id: D6053-003-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-28(3-LI-7,X)2-HE-4,,DA/DE) 
+#   First author: Mandira Sinha 
+#   Institute:  (3INDSAH): Saha Institute of Nuclear Physics, Kolkata 
+#   Reference:  (J,PR/C,76,027603,2007) 
+#   Year:  2007 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6053.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6053
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        5.5213E+00        1.1360E-02        1.2550E+02        0.0000E+00        6.6431E-09        9.3003E-10
+        6.5165E+00        1.1360E-02        1.2550E+02        0.0000E+00        4.6968E-09        6.5755E-10
+        7.5117E+00        1.1360E-02        1.2550E+02        0.0000E+00        3.3207E-09        4.6490E-10
+        8.4875E+00        1.1360E-02        1.2550E+02        0.0000E+00        1.8952E-09        2.6533E-10
+        9.5031E+00        1.1360E-02        1.2550E+02        0.0000E+00        1.2889E-09        1.8045E-10
+        1.0499E+01        1.1360E-02        1.2550E+02        0.0000E+00        7.5008E-10        1.0501E-10
+        1.1515E+01        1.1360E-02        1.2550E+02        0.0000E+00        5.2014E-10        7.2820E-11
+        1.2490E+01        1.1360E-02        1.2550E+02        0.0000E+00        3.0268E-10        4.2375E-11
+        1.3466E+01        1.1360E-02        1.2550E+02        0.0000E+00        1.7274E-10        2.4184E-11

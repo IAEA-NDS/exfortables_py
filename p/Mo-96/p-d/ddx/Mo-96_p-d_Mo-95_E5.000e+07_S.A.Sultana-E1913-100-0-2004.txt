@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 42-MO-96(P,D)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 42 
+#   A: 96 
+#   Nuclide: 42-MO-96 
+# Reaction: 
+#   Process: P,D 
+#   MF-MT number: 6 - None 
+#   Incident energy:  5.0000e+01 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 95 
+#   Nuclide: 42-MO-95 
+#   Outgoing energy:  5.0000e-02 MeV - 5.5500e+00 MeV 
+# EXFOR BIB:
+#   Entry id: E1913-100-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-96(P,D)42-MO-95,,DA/DE) 
+#   First author: S.A.Sultana 
+#   Institute:  (2JPNKYU): Kyushu University , Fukuoka 
+#   Reference:  (J,PR/C,70,(3),034612,200409) 
+#   Year:  2004 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1913.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1913
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        5.0000E-02        4.0000E-02        8.0000E+00        0.0000E+00        1.4964E-08        0.0000E+00
+        5.5000E-01        4.0000E-02        8.0000E+00        0.0000E+00        6.2309E-10        0.0000E+00
+        1.0500E+00        4.0000E-02        8.0000E+00        0.0000E+00        3.0685E-09        0.0000E+00
+        1.5500E+00        4.0000E-02        8.0000E+00        0.0000E+00        1.3250E-09        0.0000E+00
+        2.0500E+00        4.0000E-02        8.0000E+00        0.0000E+00        1.5994E-09        0.0000E+00
+        2.5500E+00        4.0000E-02        8.0000E+00        0.0000E+00        6.5025E-09        0.0000E+00
+        3.0500E+00        4.0000E-02        8.0000E+00        0.0000E+00        4.9109E-09        0.0000E+00
+        3.5500E+00        4.0000E-02        8.0000E+00        0.0000E+00        3.9675E-09        0.0000E+00
+        4.0500E+00        4.0000E-02        8.0000E+00        0.0000E+00        4.4837E-09        0.0000E+00
+        4.5500E+00        4.0000E-02        8.0000E+00        0.0000E+00        3.6751E-09        0.0000E+00
+        5.0500E+00        4.0000E-02        8.0000E+00        0.0000E+00        2.3545E-09        0.0000E+00
+        5.5500E+00        4.0000E-02        8.0000E+00        0.0000E+00        1.7820E-09        0.0000E+00

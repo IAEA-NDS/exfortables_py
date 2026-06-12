@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 30-ZN-64(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 55 
+#   Incident energy:  1.0000e+01 MeV - 1.0500e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 64 
+#   Nuclide: 31-GA-64 
+#   Level energy: 4.2700e-01 MeV 
+# EXFOR BIB:
+#   Entry id: O0477-002-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(P,N)31-GA-64,PAR,SIG) 
+#   First author: L.F.Hansen 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR/C,10,1111,1974) 
+#   Year:  1974 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O04/O0477.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0477
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E+01        0.0000E+00        2.5600E-03        5.0000E-04
+        1.0500E+01        0.0000E+00        3.1300E-03        3.1000E-04

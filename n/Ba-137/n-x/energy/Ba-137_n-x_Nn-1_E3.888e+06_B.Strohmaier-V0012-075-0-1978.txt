@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 56-BA-137(N,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 56 
 #   A: 137 
@@ -14,7 +14,7 @@
 #   Z: 0 
 #   A: 1 
 #   Nuclide: 0-NN-1 
-#   Level energy: 1.2500e-01 MeV 
+#   Outgoing energy:  1.2500e-01 MeV - 3.6250e+00 MeV 
 # EXFOR BIB:
 #   Entry id: V0012-075-0 (entry-subentry-pointer) 
 #   Reaction code: (56-BA-137(N,X)0-NN-1,EM,DE,,,EVAL) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/V00/V0012.x4 
 #   nds:  https://nds.iaea.org/EXFOR/V0012
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#   E_out_cm(MeV)    dE_out_cm(MeV)     data_cm(B/EV)    ddata_cm(B/EV)
         1.2500E-01        0.0000E+00        7.4930E-07        0.0000E+00
         3.7500E-01        0.0000E+00        1.2830E-06        0.0000E+00
         6.2500E-01        0.0000E+00        1.2860E-06        0.0000E+00

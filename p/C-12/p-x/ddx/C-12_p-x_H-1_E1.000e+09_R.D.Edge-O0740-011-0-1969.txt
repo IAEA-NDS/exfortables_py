@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 6-C-12(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.0000e+03 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Outgoing energy:  7.5100e+01 MeV - 8.2520e+02 MeV 
+# EXFOR BIB:
+#   Entry id: O0740-011-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(P,X)1-H-1,EM,DA/DE) 
+#   First author: R.D.Edge 
+#   Institute:  (1USASCA): University of South Carolina, Columbia, SC 
+#   Reference:  (J,PR,183,849,1969) 
+#   Year:  1969 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0740.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0740
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        7.5100E+01        2.8000E+00        3.2000E+01        0.0000E+00        1.1560E-10        1.0404E-12
+        1.6740E+02        2.8000E+00        3.2000E+01        0.0000E+00        1.8060E-10        1.6254E-12
+        3.5570E+02        2.8000E+00        3.2000E+01        0.0000E+00        1.3210E-10        1.1889E-12
+        8.2520E+02        2.8000E+00        3.2000E+01        0.0000E+00        2.1840E-11        1.9656E-13

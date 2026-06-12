@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 14-SI-28(N,INL)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 14 
 #   A: 28 
 #   Nuclide: 14-SI-28 
 # Reaction: 
 #   Process: N,INL 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  1.5109e+00 MeV - 1.6036e+01 MeV 
 # Residual: 
 #   Z: 14 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/234/23456.x4 
 #   nds:  https://nds.iaea.org/EXFOR/23456
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.5109E+00        0.0000E+00        0.0000E+00        0.0000E+00
         1.5244E+00        0.0000E+00        0.0000E+00        0.0000E+00
         1.5269E+00        0.0000E+00        0.0000E+00        0.0000E+00

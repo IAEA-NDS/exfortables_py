@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 2-HE-4(G,P)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 2 
 #   A: 4 
 #   Nuclide: 2-HE-4 
 # Reaction: 
 #   Process: G,P 
-#   MF-MT number: 3 - 103 
+#   MF-MT number: 3 - 103.0 
 #   Incident energy:  2.4100e+01 MeV - 4.5900e+01 MeV 
 # Residual: 
 #   Z: 1 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L01/L0118.x4 
 #   nds:  https://nds.iaea.org/EXFOR/L0118
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         2.4100E+01        0.0000E+00        1.3400E-03        8.7000E-05
         2.4500E+01        0.0000E+00        1.5400E-03        7.9300E-05
         2.4900E+01        0.0000E+00        1.7100E-03        9.2100E-05

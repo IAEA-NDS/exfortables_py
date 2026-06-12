@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 8-O-16(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 801 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 13 
+#   Nuclide: 6-C-13 
+#   Level energy: 3.0800e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 30048-002-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(N,A)6-C-13,PAR,SIG) 
+#   First author: Yuin-Chi Hsu 
+#   Institute:  (3CHFNTU): National Taiwan University , Taipei 
+#   Reference:  (J,NP/A,104,677,1967) 
+#   Year:  1967 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30048.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30048
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        0.0000E+00        3.1900E-02        2.8000E-03

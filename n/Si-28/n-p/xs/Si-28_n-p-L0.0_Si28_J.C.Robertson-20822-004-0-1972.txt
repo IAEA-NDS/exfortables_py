@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 14-SI-28(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 14 
+#   A: 28 
+#   Nuclide: 14-SI-28 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 600.0 
+#   Incident energy:  5.3100e+00 MeV 
+# Residual: 
+#   Z: 13 
+#   A: 28 
+#   Nuclide: 13-AL-28 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 20822-004-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-28(N,P)13-AL-28,PAR,SIG) 
+#   First author: J.C.Robertson 
+#   Institute:  (2UK NPL): National Physics Laboratory , Teddington 
+#   Reference:  (J,JNE,26,(1),1,1972) 
+#   Year:  1972 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20822.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20822
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.3100E+00        6.0000E-02        2.6000E-02        3.0000E-03

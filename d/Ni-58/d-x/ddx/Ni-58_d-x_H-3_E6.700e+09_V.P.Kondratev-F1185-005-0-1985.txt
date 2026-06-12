@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 28-NI-58(D,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  6.7000e+03 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+#   Outgoing energy:  5.0270e+00 MeV - 1.8947e+01 MeV 
+# EXFOR BIB:
+#   Entry id: F1185-005-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(D,X)1-H-3,,DA/DE) 
+#   First author: V.P.Kondratev 
+#   Institute:  (4RUSSUL): Gosudarstvennyi University (State University ), St.Petersburg 
+#   Reference:  (J,IZV,49,(1),147,1985) 
+#   Year:  1985 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F11/F1185.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1185
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        5.0270E+00        6.9000E-02        9.0000E+01        0.0000E+00        1.1298E-09        7.2500E-11
+        6.0350E+00        6.9000E-02        9.0000E+01        0.0000E+00        1.2840E-09        5.9200E-11
+        7.0610E+00        6.9000E-02        9.0000E+01        0.0000E+00        1.3593E-09        6.5900E-11
+        8.1530E+00        6.9000E-02        9.0000E+01        0.0000E+00        1.3954E-09        6.5700E-11
+        9.0780E+00        6.9000E-02        9.0000E+01        0.0000E+00        1.4047E-09        7.2300E-11
+        9.9690E+00        6.9000E-02        9.0000E+01        0.0000E+00        1.3087E-09        7.2100E-11
+        1.0903E+01        6.9000E-02        9.0000E+01        0.0000E+00        1.2786E-09        5.8900E-11
+        1.2010E+01        6.9000E-02        9.0000E+01        0.0000E+00        1.2489E-09        5.2400E-11
+        1.3064E+01        6.9000E-02        9.0000E+01        0.0000E+00        1.1994E-09        6.5800E-11
+        1.3895E+01        6.9000E-02        9.0000E+01        0.0000E+00        1.1164E-09        6.5600E-11
+        1.5043E+01        6.9000E-02        9.0000E+01        0.0000E+00        1.1592E-09        5.2700E-11
+        1.6095E+01        6.9000E-02        9.0000E+01        0.0000E+00        1.1228E-09        5.9200E-11
+        1.7027E+01        6.9000E-02        9.0000E+01        0.0000E+00        1.0993E-09        5.2900E-11
+        1.7909E+01        6.9000E-02        9.0000E+01        0.0000E+00        1.0427E-09        5.9100E-11
+        1.8947E+01        6.9000E-02        9.0000E+01        0.0000E+00        1.0654E-09        5.2600E-11

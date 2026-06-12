@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 46-PD-110(P,N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 46 
 #   A: 110 
 #   Nuclide: 46-PD-110 
 # Reaction: 
 #   Process: P,N 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  3.4260e+00 MeV - 8.8200e+00 MeV 
 # Residual: 
 #   Z: 47 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O19/O1917.x4 
 #   nds:  https://nds.iaea.org/EXFOR/O1917
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
         3.4260E+00        0.0000E+00        8.4500E+12        9.8000E+11
         3.6820E+00        0.0000E+00        8.6600E+12        9.3000E+11
         3.8980E+00        0.0000E+00        1.0200E+13        5.8000E+11

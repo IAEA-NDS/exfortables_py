@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 4-BE-9(D,T)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 4 
 #   A: 9 
 #   Nuclide: 4-BE-9 
 # Reaction: 
 #   Process: D,T 
-#   MF-MT number: 4 - 105 
+#   MF-MT number: 4 - 105.0 
 #   Incident energy:  1.5000e+01 MeV 
 # Residual: 
 #   Z: 4 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F00/F0021.x4 
 #   nds:  https://nds.iaea.org/EXFOR/F0021
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+# Angle_cm(degrees) dAngle_cm(degrees)     data_cm(B/SR)    ddata_cm(B/SR)
         2.1200E+01        0.0000E+00        1.8410E-02        1.2990E-03
         2.5760E+01        0.0000E+00        1.1730E-02        8.2120E-04
         3.0740E+01        0.0000E+00        3.6160E-03        3.8840E-04

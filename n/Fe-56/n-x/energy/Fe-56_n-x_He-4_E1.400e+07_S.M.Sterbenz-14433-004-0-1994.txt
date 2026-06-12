@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 26-FE-56(N,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 26 
 #   A: 56 
@@ -14,7 +14,7 @@
 #   Z: 2 
 #   A: 4 
 #   Nuclide: 2-HE-4 
-#   Level energy: 3.4980e+00 MeV 
+#   Outgoing energy:  3.4980e+00 MeV - 1.2511e+01 MeV 
 # EXFOR BIB:
 #   Entry id: 14433-004-0 (entry-subentry-pointer) 
 #   Reaction code: (26-FE-56(N,X)2-HE-4,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/144/14433.x4 
 #   nds:  https://nds.iaea.org/EXFOR/14433
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         3.4980E+00        0.0000E+00        5.8600E-10        0.0000E+00
         4.5270E+00        0.0000E+00        1.5930E-09        0.0000E+00
         5.5350E+00        0.0000E+00        1.3750E-09        0.0000E+00

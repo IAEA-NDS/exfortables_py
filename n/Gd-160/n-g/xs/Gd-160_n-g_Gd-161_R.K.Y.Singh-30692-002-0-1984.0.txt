@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 64-GD-160(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 64 
+#   A: 160 
+#   Nuclide: 64-GD-160 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  4.8000e-01 MeV - 3.0400e+00 MeV 
+# Residual: 
+#   Z: 64 
+#   A: 161 
+#   Nuclide: 64-GD-161 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30692-002-0 (entry-subentry-pointer) 
+#   Reaction code: (64-GD-160(N,G)64-GD-161,,SIG) 
+#   First author: R.K.Y.Singh 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  ((R,BARC-1239,18,198406)=(R,INDC(IND)-35,18,1984)) 
+#   Year:  1984.0 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30692.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30692
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.8000E-01        4.0000E-02        2.9200E-02        6.0000E-03
+        6.0000E-01        6.0000E-02        3.7700E-02        7.2000E-03
+        7.8000E-01        7.0000E-02        3.5400E-02        2.3000E-03
+        9.8000E-01        2.2000E-01        4.1900E-02        8.6000E-03
+        1.2000E+00        2.9000E-01        3.0200E-02        2.6000E-03
+        1.5400E+00        2.6000E-01        3.5200E-02        2.2000E-03
+        2.1900E+00        2.1000E-01        1.5700E-02        2.1000E-03
+        3.0400E+00        1.8000E-01        7.7000E-03        1.5000E-03

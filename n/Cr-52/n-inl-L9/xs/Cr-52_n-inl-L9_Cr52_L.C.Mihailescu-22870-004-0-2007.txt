@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 24-CR-52(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 24 
+#   A: 52 
+#   Nuclide: 24-CR-52 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 59 
+#   Incident energy:  3.6987e+00 MeV - 3.8461e+00 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 52 
+#   Nuclide: 24-CR-52 
+#   Level energy: 3.6159e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 22870-004-0 (entry-subentry-pointer) 
+#   Reaction code: (24-CR-52(N,INL)24-CR-52,PAR,SIG) 
+#   First author: L.C.Mihailescu 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,NP/A,786,1,2007) 
+#   Year:  2007 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22870.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22870
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6987E+00        4.7700E-02        3.8740E-03        5.5750E-03
+        3.7468E+00        4.8650E-02        1.6523E-02        5.3700E-03
+        3.7960E+00        4.9610E-02        4.5420E-03        5.3870E-03
+        3.8461E+00        5.0600E-02        5.9900E-04        5.3300E-03

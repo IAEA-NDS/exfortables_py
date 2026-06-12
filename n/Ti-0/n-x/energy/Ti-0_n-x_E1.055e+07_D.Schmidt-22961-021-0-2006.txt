@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 22-TI-0(N,X)  Differential with energy of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 22 
+#   A: 0 
+#   Nuclide: 22-TI-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 5 - None 
+#   Incident energy:  1.0550e+01 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 1 
+#   Nuclide: 0-NN-1 
+#   Outgoing energy:  1.5000e+00 MeV - 8.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 22961-021-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-0(N,X)0-NN-1,,DE) 
+#   First author: D.Schmidt 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (R,PTB-N-50,2006) 
+#   Year:  2006 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22961.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22961
+#
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
+        1.5000E+00        0.0000E+00        2.9717E-07        2.0861E-08
+        1.7500E+00        0.0000E+00        2.6896E-07        1.8989E-08
+        2.0000E+00        0.0000E+00        2.0232E-07        1.6449E-08
+        2.2500E+00        0.0000E+00        2.2982E-07        1.6432E-08
+        2.5000E+00        0.0000E+00        2.4961E-07        9.8596E-09
+        2.7500E+00        0.0000E+00        2.3275E-07        8.3790E-09
+        3.0000E+00        0.0000E+00        2.0356E-07        7.3689E-09
+        3.2500E+00        0.0000E+00        1.8873E-07        6.6056E-09
+        3.5000E+00        0.0000E+00        1.5915E-07        5.4111E-09
+        3.7500E+00        0.0000E+00        1.3224E-07        4.3110E-09
+        4.0000E+00        0.0000E+00        1.0927E-07        2.9503E-09
+        4.5000E+00        0.0000E+00        7.6983E-08        2.3326E-09
+        5.0000E+00        0.0000E+00        6.2901E-08        2.0946E-09
+        5.5000E+00        0.0000E+00        6.2878E-08        2.1253E-09
+        6.0000E+00        0.0000E+00        5.3175E-08        1.8558E-09
+        6.5000E+00        0.0000E+00        6.1184E-08        2.0374E-09
+        7.0000E+00        0.0000E+00        3.5146E-08        1.6659E-09
+        7.5000E+00        0.0000E+00        2.7622E-08        1.6435E-09
+        8.0000E+00        0.0000E+00        1.8254E-08        7.6667E-10

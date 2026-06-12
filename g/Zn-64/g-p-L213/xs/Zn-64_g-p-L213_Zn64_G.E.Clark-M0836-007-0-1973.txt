@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 30-ZN-64(G,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: G,P 
+#   MF-MT number: 3 - 649 
+#   Incident energy:  1.5500e+01 MeV - 2.4200e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+#   Level energy: 8.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: M0836-007-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(G,P)29-CU-63,PAR,SIG,,BRS) 
+#   First author: G.E.Clark 
+#   Institute:  (1USAIOW): University of Iowa, Iowa City, IA 
+#   Reference:  (J,NP/A,213,358,1973) 
+#   Year:  1973 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M08/M0836.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0836
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5500E+01        0.0000E+00        1.3800E-04        0.0000E+00
+        1.6000E+01        0.0000E+00        2.7600E-04        0.0000E+00
+        1.6500E+01        0.0000E+00        5.5300E-04        0.0000E+00
+        1.7000E+01        0.0000E+00        1.0000E-03        0.0000E+00
+        1.7500E+01        0.0000E+00        1.4500E-03        0.0000E+00
+        1.8000E+01        0.0000E+00        2.5230E-03        0.0000E+00
+        1.8500E+01        0.0000E+00        3.7330E-03        0.0000E+00
+        1.9000E+01        0.0000E+00        4.4560E-03        0.0000E+00
+        1.9500E+01        0.0000E+00        4.4230E-03        0.0000E+00
+        2.0000E+01        0.0000E+00        4.1470E-03        0.0000E+00
+        2.0500E+01        0.0000E+00        3.8400E-03        0.0000E+00
+        2.1000E+01        0.0000E+00        3.8100E-03        0.0000E+00
+        2.1500E+01        0.0000E+00        3.7680E-03        0.0000E+00
+        2.2000E+01        0.0000E+00        3.5600E-03        0.0000E+00
+        2.2500E+01        0.0000E+00        2.8340E-03        0.0000E+00
+        2.3000E+01        0.0000E+00        1.7280E-03        0.0000E+00
+        2.3500E+01        0.0000E+00        1.2240E-03        0.0000E+00
+        2.4000E+01        0.0000E+00        1.0000E-03        0.0000E+00
+        2.4200E+01        0.0000E+00        9.0000E-04        0.0000E+00

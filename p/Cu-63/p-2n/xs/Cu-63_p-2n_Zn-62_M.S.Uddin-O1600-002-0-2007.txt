@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 29-CU-63(P,2N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 29 
 #   A: 63 
 #   Nuclide: 29-CU-63 
 # Reaction: 
 #   Process: P,2N 
-#   MF-MT number: 3 - 16 
+#   MF-MT number: 3 - 16.0 
 #   Incident energy:  1.5800e+01 MeV - 4.0660e+01 MeV 
 # Residual: 
 #   Z: 30 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O16/O1600.x4 
 #   nds:  https://nds.iaea.org/EXFOR/O1600
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.5800E+01        2.8000E-01        1.4000E-02        1.8200E-03
         1.6800E+01        2.8000E-01        1.5100E-02        1.9630E-03
         1.9890E+01        2.8000E-01        4.6200E-02        6.0060E-03

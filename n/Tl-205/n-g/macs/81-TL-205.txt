@@ -1,0 +1,29 @@
+# Header: 
+#   title: 81-TL-205(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 81 
+#   A: 205 
+#   Nuclide: 81-TL-205 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 4.00000E-02  |   1.41421E-02   (N = 2)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 4.88235E-02 +/-  1.94029E-03   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+40421-022-0         V.N.Kononov             1958   2.4000E-02   0.0000E+00   5.0000E-02   2.0000E-03                
+30077-020-0         S.S.Hasan               1968   2.4000E-02   0.0000E+00   3.0000E-02   8.0000E-03                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0102-480-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   5.4000E-02   4.0000E-03     MXW   RECOM
+V1002-522-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   5.4000E-02   4.0000E-03     MXW   RECOM

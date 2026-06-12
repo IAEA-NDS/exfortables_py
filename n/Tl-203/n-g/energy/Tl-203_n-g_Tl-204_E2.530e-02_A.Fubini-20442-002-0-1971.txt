@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 81-TL-203(N,G)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 81 
 #   A: 203 
@@ -14,7 +14,7 @@
 #   Z: 81 
 #   A: 204 
 #   Nuclide: 81-TL-204 
-#   Level energy: 5.4045e+00 MeV 
+#   Outgoing energy:  5.4045e+00 MeV - 6.6546e+00 MeV 
 # EXFOR BIB:
 #   Entry id: 20442-002-0 (entry-subentry-pointer) 
 #   Reaction code: (81-TL-203(N,G)81-TL-204,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20442.x4 
 #   nds:  https://nds.iaea.org/EXFOR/20442
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)     data(PRT/INC)    ddata(PRT/INC)
         5.4045E+00        5.0000E-04        7.4000E-02        0.0000E+00
         5.4506E+00        6.0000E-04        3.6000E-02        0.0000E+00
         5.5203E+00        1.0000E-03        8.0000E-03        0.0000E+00

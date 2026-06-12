@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 28-NI-60(6-C-13,EL)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 28 
 #   A: 60 
 #   Nuclide: 28-NI-60 
 # Reaction: 
 #   Process: 6-C-13,EL 
-#   MF-MT number: 4 - None 
+#   MF-MT number: 4 - 2 
 #   Incident energy:  1.0000e-04 MeV 
 # Residual: 
 #   Z: 28 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E17/E1790.x4 
 #   nds:  https://nds.iaea.org/EXFOR/E1790
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+# Angle_cm(degrees) dAngle_cm(degrees)        data(B/SR)       ddata(B/SR)
         9.3000E-01        0.0000E+00        3.3200E+03        2.0960E+01
         1.0500E+00        0.0000E+00        2.0150E+03        1.3090E+01
         1.1700E+00        0.0000E+00        1.0790E+03        8.3570E+00

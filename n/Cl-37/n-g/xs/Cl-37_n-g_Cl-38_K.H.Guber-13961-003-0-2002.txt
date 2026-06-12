@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 17-CL-37(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 17 
 #   A: 37 
 #   Nuclide: 17-CL-37 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  5.0001e-04 MeV - 4.7500e-01 MeV 
 # Residual: 
 #   Z: 17 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/139/13961.x4 
 #   nds:  https://nds.iaea.org/EXFOR/13961
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         5.0001E-04        0.0000E+00        2.4300E-03        0.0000E+00
         3.0000E-03        0.0000E+00        2.2000E-04        0.0000E+00
         7.5000E-03        0.0000E+00        1.2600E-02        0.0000E+00

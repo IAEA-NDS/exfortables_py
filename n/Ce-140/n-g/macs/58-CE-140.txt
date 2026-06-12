@@ -1,0 +1,59 @@
+# Header: 
+#   title: 58-CE-140(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 58 
+#   A: 140 
+#   Nuclide: 58-CE-140 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.3000e-02 MeV - 3.4200e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.22500E-02  |   9.91211E-03   (N = 4)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.61429E-02 +/-  1.51186E-03   (N = 4)
+#   MXW Simple Mean           |  Simple Stdev        : 1.21206E-02  |   1.56878E-03  (N = 16)
+#   MXW Weighted Mean        +/- Weighted Error      : 1.20777E-02 +/-  1.18069E-04  (N = 16)
+#   SPA Simple Mean           |  Simple Stdev        : 1.14833E-02  |   2.69930E-03   (N = 3)
+#   SPA Weighted Mean        +/- Weighted Error      : 9.39397E-03 +/-  1.77398E-04   (N = 3)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+30502-003-0         K.Siddappa               nan   2.3000E-02   5.0000E-03   2.5000E-02   4.0000E-03                
+11399-036-0         R.L.Macklin             1957   2.4000E-02   0.0000E+00   3.1000E-02   4.0000E-03                
+31712-024-0         M.Sriramachandra Murty    1973   2.4000E-02   5.0000E-03   2.5000E-02   4.0000E-03                
+30390-013-0         R.P.Anand               1979   2.5000E-02   5.0000E-03   8.0000E-03   2.0000E-03                
+30361-004-0         A.R.De L.Musgrove       1979   3.0000E-02   0.0000E+00   7.7000E-03   9.0000E-04     MXW        
+32536-002-0         Xia Yijun               1990   2.4000E-02   0.0000E+00   1.5330E-02   1.0000E-03     MXW        
+23420-005-0         F.Kappeler              1996   2.5000E-02   0.0000E+00   1.2400E-02   5.0000E-04     MXW        
+23420-005-0         F.Kappeler              1996   2.5000E-02   0.0000E+00   1.3000E-02   5.0000E-04     MXW        
+23420-005-0         F.Kappeler              1996   2.5000E-02   0.0000E+00   1.2400E-02   5.0000E-04     MXW        
+23420-005-0         F.Kappeler              1996   2.5000E-02   0.0000E+00   1.1100E-02   4.0000E-04     MXW        
+23420-005-0         F.Kappeler              1996   2.5000E-02   0.0000E+00   1.1800E-02   5.0000E-04     MXW        
+23420-005-0         F.Kappeler              1996   2.5000E-02   0.0000E+00   1.1100E-02   4.0000E-04     MXW        
+23420-010-1         F.Kappeler              1996   2.5000E-02   0.0000E+00   1.2000E-02   4.0000E-04     MXW        
+23420-015-0         F.Kappeler              1996   2.5000E-02   0.0000E+00   1.2000E-02   5.0000E-04     MXW        
+23420-015-0         F.Kappeler              1996   2.5000E-02   0.0000E+00   1.3700E-02   5.0000E-04     MXW        
+23420-015-0         F.Kappeler              1996   2.5000E-02   0.0000E+00   1.3000E-02   5.0000E-04     MXW        
+23420-015-0         F.Kappeler              1996   2.5000E-02   0.0000E+00   1.1700E-02   4.0000E-04     MXW        
+23420-015-0         F.Kappeler              1996   2.5000E-02   0.0000E+00   1.2400E-02   5.0000E-04     MXW        
+23420-015-0         F.Kappeler              1996   2.5000E-02   0.0000E+00   1.1700E-02   4.0000E-04     MXW        
+23420-020-1         F.Kappeler              1996   2.5000E-02   0.0000E+00   1.2600E-02   4.0000E-04     MXW        
+21647-003-0         H.Beer                  1980   2.5000E-02   0.0000E+00   1.2630E-02   5.7000E-04     SPA        
+21647-014-2         H.Beer                  1980   2.5000E-02   0.0000E+00   1.3420E-02   5.2000E-04     SPA        
+31860-004-0         R.N.Sahoo               2024   3.4200E-02   0.0000E+00   8.4000E-03   2.0000E-04     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+21647-009-0         H.Beer                  1980   3.0000E-02   0.0000E+00   1.1520E-02   5.7000E-04     MXW   DERIV
+21647-020-0         H.Beer                  1980   3.0000E-02   0.0000E+00   1.2240E-02   4.7000E-04     MXW   DERIV
+23420-010-2         F.Kappeler              1996   2.5000E-02   0.0000E+00          NAN   0.0000E+00     MXW   DERIV
+23420-020-2         F.Kappeler              1996   2.5000E-02   0.0000E+00          NAN   0.0000E+00     MXW   DERIV
+31860-008-0         R.N.Sahoo               2024   3.0000E-02   0.0000E+00   9.7000E-03   5.0000E-04     MXW   DERIV
+V0102-310-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.1000E-02   4.0000E-04     MXW   RECOM
+V1002-130-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   9.7000E-03   9.0000E-04     MXW   RECOM

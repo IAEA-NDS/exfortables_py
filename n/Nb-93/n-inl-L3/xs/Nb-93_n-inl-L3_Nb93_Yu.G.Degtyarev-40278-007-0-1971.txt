@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 41-NB-93(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 53 
+#   Incident energy:  1.0000e+00 MeV - 3.4000e+00 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+#   Level energy: 7.4500e-01 MeV 
+# EXFOR BIB:
+#   Entry id: 40278-007-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(N,INL)41-NB-93,PAR,SIG) 
+#   First author: Yu.G.Degtyarev 
+#   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference:  (J,IZV,35,(11),2341,197111) 
+#   Year:  1971 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40278.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40278
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0000E+00        0.0000E+00        5.7100E-01        2.5000E-02
+        1.4000E+00        0.0000E+00        4.1200E-01        2.3000E-02
+        1.8000E+00        0.0000E+00        2.8800E-01        2.3000E-02
+        2.2000E+00        0.0000E+00        3.0000E-01        2.3000E-02
+        2.6000E+00        0.0000E+00        1.6400E-01        2.4000E-02
+        3.0000E+00        0.0000E+00        2.0000E-01        3.0000E-02
+        3.4000E+00        0.0000E+00        2.7600E-01        3.7000E-02

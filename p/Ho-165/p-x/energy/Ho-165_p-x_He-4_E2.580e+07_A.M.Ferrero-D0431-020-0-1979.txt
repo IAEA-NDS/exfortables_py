@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 67-HO-165(P,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 67 
 #   A: 165 
@@ -14,7 +14,7 @@
 #   Z: 2 
 #   A: 4 
 #   Nuclide: 2-HE-4 
-#   Level energy: 1.0540e+01 MeV 
+#   Outgoing energy:  1.0540e+01 MeV - 3.4890e+01 MeV 
 # EXFOR BIB:
 #   Entry id: D0431-020-0 (entry-subentry-pointer) 
 #   Reaction code: (67-HO-165(P,X)2-HE-4,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D04/D0431.x4 
 #   nds:  https://nds.iaea.org/EXFOR/D0431
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.0540E+01        5.0000E-02        3.4700E-12        0.0000E+00
         1.0990E+01        5.0000E-02        1.9790E-11        0.0000E+00
         1.1440E+01        5.0000E-02        5.9650E-11        0.0000E+00

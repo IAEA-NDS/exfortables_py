@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 79-AU-197(6-C-12,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 79 
 #   A: 197 
@@ -14,7 +14,7 @@
 #   Z: 4 
 #   A: 7 
 #   Nuclide: 4-BE-7 
-#   Level energy: 3.3500e-04 MeV 
+#   Outgoing energy:  3.3500e-04 MeV - 5.7500e-04 MeV 
 # EXFOR BIB:
 #   Entry id: O2307-020-0 (entry-subentry-pointer) 
 #   Reaction code: (79-AU-197(6-C-12,X)4-BE-7,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2307.x4 
 #   nds:  https://nds.iaea.org/EXFOR/O2307
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         3.3500E-04        0.0000E+00        9.8900E-12        6.8200E-12
         3.6500E-04        0.0000E+00        1.4900E-10        4.4000E-11
         4.0000E-04        0.0000E+00        3.2900E-10        1.4700E-10

@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 45-RH-103(N,INL)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 45 
 #   A: 103 
 #   Nuclide: 45-RH-103 
 # Reaction: 
 #   Process: N,INL 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  3.7400e+00 MeV - 5.1800e+00 MeV 
 # Residual: 
 #   Z: 45 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/307/30782.x4 
 #   nds:  https://nds.iaea.org/EXFOR/30782
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         3.7400E+00        1.3000E-01        1.1700E+00        1.1600E-01
         4.0700E+00        1.4000E-01        1.0130E+00        1.0300E-01
         4.1300E+00        1.2000E-01        1.2020E+00        1.2100E-01

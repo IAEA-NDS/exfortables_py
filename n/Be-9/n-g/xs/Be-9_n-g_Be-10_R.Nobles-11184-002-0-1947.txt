@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 4-BE-9(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 4 
 #   A: 9 
 #   Nuclide: 4-BE-9 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  2.5300e-08 MeV 
 # Residual: 
 #   Z: 4 
@@ -20,11 +20,11 @@
 #   Reaction code: (4-BE-9(N,G)4-BE-10,,SIG,,MXW) 
 #   First author: R.Nobles 
 #   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
-#   Reference:  (R,ANL-4076,10,47) 
+#   Reference:  (P,ANL-4076,10,1947) 
 #   Year:  1947 
 #   Facility:  (REAC): Reactor 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/111/11184.x4 
 #   nds:  https://nds.iaea.org/EXFOR/11184
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         2.5300E-08        0.0000E+00        1.0200E-02        5.0000E-04

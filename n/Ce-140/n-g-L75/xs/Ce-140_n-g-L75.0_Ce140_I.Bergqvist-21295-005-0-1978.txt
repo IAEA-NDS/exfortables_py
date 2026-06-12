@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 58-CE-140(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 58 
+#   A: 140 
+#   Nuclide: 58-CE-140 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  6.2000e+00 MeV - 1.0900e+01 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 141 
+#   Nuclide: 58-CE-141 
+#   Level energy: 3.5000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 21295-005-0 (entry-subentry-pointer) 
+#   Reaction code: (58-CE-140(N,G)58-CE-141,PAR,SIG,,A) 
+#   First author: I.Bergqvist 
+#   Institute:  (2SWDUPP): Uppsala University , Uppsala 
+#   Reference:  (J,NP/A,295,256,1978) 
+#   Year:  1978 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21295.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21295
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.2000E+00        0.0000E+00        5.0900E-04        1.2700E-04
+        7.2000E+00        0.0000E+00        6.8500E-04        1.7100E-04
+        8.2000E+00        0.0000E+00        9.5800E-04        2.4000E-04
+        8.9000E+00        0.0000E+00        1.1870E-03        2.9700E-04
+        9.9000E+00        0.0000E+00        1.7400E-03        4.3500E-04
+        1.0900E+01        0.0000E+00        1.7180E-03        4.3000E-04

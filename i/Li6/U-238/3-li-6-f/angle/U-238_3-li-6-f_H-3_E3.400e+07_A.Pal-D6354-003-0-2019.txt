@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 92-U-238(3-LI-6,F)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 92 
 #   A: 238 
 #   Nuclide: 92-U-238 
 # Reaction: 
 #   Process: 3-LI-6,F 
-#   MF-MT number: 4 - None 
+#   MF-MT number: 4 - 18 
 #   Incident energy:  3.4000e+01 MeV 
 # Residual: 
 #   Z: 1 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D63/D6354.x4 
 #   nds:  https://nds.iaea.org/EXFOR/D6354
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+# Angle_cm(degrees) dAngle_cm(degrees)     data_cm(B/SR)    ddata_cm(B/SR)
         1.0125E+02        0.0000E+00        1.4000E-04        1.3000E-04
         1.0875E+02        0.0000E+00        1.4000E-04        1.3000E-04
         1.2125E+02        0.0000E+00        2.8000E-04        1.8000E-04

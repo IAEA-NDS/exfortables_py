@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 92-U-235 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2026-06-11 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : G0026-004-2 
+#   First Author          : A.Zilges 
+#   Institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference             : (J,PR/C,52,468,1995) 
+#   Year                  : 1995 
+#   Facility              : (DYNAM): Dynamitron 
+# Target: 
+#   Z                     : 92 
+#   A                     : 235 
+#   Isomer                :  
+#   Nuclide               : 92-U-235 
+# Reaction: 
+#   EXFOR Reaction        : (92-U-235(G,EL),,WID) 
+#   Incident Energy       : 1.7820e+06 eV - 1.8460e+06 eV 
+#   Resonance Energy Type : EN-RES 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G00/G0026.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/G0026
+#
+#    E_in(eV)    dE_in(eV)          J          L      (G,TOT)     d(G,TOT)        (G,G)       d(G,G)        (G,EL)     d(G,EL)        (G,F)       d(G,F)        (G,A)       d(G,A)
+   1.7820E+06          NAN        1.0        NAN          NAN          NAN          NAN          NAN   9.3000E-03   1.1000E-03          NAN          NAN          NAN          NAN
+   1.7930E+06          NAN        1.0        NAN          NAN          NAN          NAN          NAN   2.8000E-03   9.0000E-04          NAN          NAN          NAN          NAN
+   1.8460E+06          NAN        1.0        NAN          NAN          NAN          NAN          NAN   1.0000E-02   1.5000E-03          NAN          NAN          NAN          NAN

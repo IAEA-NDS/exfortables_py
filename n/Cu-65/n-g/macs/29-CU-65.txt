@@ -1,0 +1,42 @@
+# Header: 
+#   title: 29-CU-65(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 3.60000E-02  |   1.28374E-02   (N = 6)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 3.78762E-02 +/-  2.97870E-04   (N = 6)
+#   MXW Simple Mean           |  Simple Stdev        : 2.79000E-02  |   1.55563E-03   (N = 2)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
+#   SPA Simple Mean           |  Simple Stdev        : 2.99667E-02  |   1.95021E-03   (N = 3)
+#   SPA Weighted Mean        +/- Weighted Error      : 3.01446E-02 +/-  7.83771E-04   (N = 3)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11010-005-0         V.Hummel                1951   2.4000E-02   0.0000E+00   2.0000E-02   4.0000E-03                
+11399-011-0         R.L.Macklin             1957   2.4000E-02   0.0000E+00   4.6000E-02   5.0000E-03                
+11429-009-0         R.Booth                 1958   2.4000E-02   5.0000E-03   4.8000E-02   1.2000E-02                
+40421-007-0         V.N.Kononov             1958   2.4000E-02   0.0000E+00   3.8000E-02   3.0000E-04                
+20205-005-0         J.F.Vervier             1959   2.5000E-02   0.0000E+00   4.4000E-02   1.0000E-02                
+30079-004-0         A.K.Chaubey             1966   2.4000E-02   0.0000E+00   2.0000E-02   5.0000E-03                
+22928-005-0         M.Heil                  2005   3.0000E-02   0.0000E+00   2.9000E-02   2.0000E-03     MXW        
+31817-006-0         L.Weissman              2019   3.0000E-02   0.0000E+00   2.6800E-02   0.0000E+00     MXW        
+22996-006-0         M.Heil                  2008   2.5000E-02   0.0000E+00   3.0000E-02   1.3000E-03     SPA        
+22996-016-0         M.Heil                  2008   2.5000E-02   0.0000E+00   3.1900E-02   1.3000E-03     SPA        
+31817-003-2         L.Weissman              2019   2.8000E-02   0.0000E+00   2.8000E-02   1.5000E-03     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0102-096-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   4.1000E-02   5.0000E-03     MXW   RECOM
+V0102-097-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.9800E-02   1.3000E-03     MXW   RECOM

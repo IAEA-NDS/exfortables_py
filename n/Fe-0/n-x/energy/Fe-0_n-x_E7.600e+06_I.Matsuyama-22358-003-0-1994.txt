@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 26-FE-0(N,X)  Differential with energy of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 26 
+#   A: 0 
+#   Nuclide: 26-FE-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 5 - None 
+#   Incident energy:  7.6000e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Outgoing energy:  4.5000e+00 MeV - 9.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 22358-003-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-0(N,X)2-HE-4,,DE) 
+#   First author: I.Matsuyama 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  ((S,JAERI-M-94-019,191,1994)=(S,INDC(JPN)-169,191,1994)) 
+#   Year:  1994 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22358.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22358
+#
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
+        4.5000E+00        0.0000E+00        6.2790E-11        2.9740E-11
+        5.0000E+00        0.0000E+00        5.2040E-10        1.5100E-10
+        5.5000E+00        0.0000E+00        1.5230E-09        1.2130E-10
+        6.0000E+00        0.0000E+00        2.6510E-09        8.6570E-11
+        6.5000E+00        0.0000E+00        3.2360E-09        1.8320E-10
+        7.0000E+00        0.0000E+00        3.2890E-09        2.4760E-10
+        7.5000E+00        0.0000E+00        2.7010E-09        3.1170E-10
+        8.0000E+00        0.0000E+00        1.1600E-09        2.7500E-10
+        8.5000E+00        0.0000E+00        2.3870E-10        9.1810E-11
+        9.0000E+00        0.0000E+00        2.4560E-11        6.1540E-11

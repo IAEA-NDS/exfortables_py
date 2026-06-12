@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 28-NI-58(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.5400e+01 MeV - 3.9400e+01 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 56 
+#   Nuclide: 28-NI-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: P0037-014-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(A,X)28-NI-56,,SIG) 
+#   First author: S.Tanaka 
+#   Institute:  (2JPNTOK): University of Tokyo, Tokyo 
+#   Reference:  (J,JPJ,15,2159,1960) 
+#   Year:  1960 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P00/P0037.x4 
+#   nds:  https://nds.iaea.org/EXFOR/P0037
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.5400E+01        0.0000E+00        2.2000E-04        9.0000E-05
+        3.5600E+01        0.0000E+00        2.8800E-04        5.0000E-05
+        3.7600E+01        0.0000E+00        5.5000E-04        2.2400E-04
+        3.7900E+01        0.0000E+00        6.1700E-04        1.0200E-04
+        3.9400E+01        0.0000E+00        7.0500E-04        1.8400E-04

@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 58-CE-140(N,A)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 58 
 #   A: 140 
 #   Nuclide: 58-CE-140 
 # Reaction: 
 #   Process: N,A 
-#   MF-MT number: 3 - 107 
+#   MF-MT number: 3 - 107.0 
 #   Incident energy:  1.4200e+01 MeV - 1.4900e+01 MeV 
 # Residual: 
 #   Z: 56 
@@ -26,6 +26,6 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32768.x4 
 #   nds:  https://nds.iaea.org/EXFOR/32768
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.4200E+01        2.0000E-01        2.0800E-03        3.3000E-04
         1.4900E+01        2.0000E-01        2.6200E-03        4.7000E-04

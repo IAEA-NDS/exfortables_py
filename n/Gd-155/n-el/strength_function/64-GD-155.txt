@@ -1,0 +1,44 @@
+# Header: 
+#   title: 64-GD-155(N,EL) strength_function cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 64 
+#   A: 155 
+#   Nuclide: 64-GD-155 
+# Reaction: 
+#   Type: N,EL 
+#   Type: N,EL 
+#   Incident energy       : 4.2510e-05 MeV - 1.3845e-01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Strength Function Simple Mean  |  Simple Stdev        : 2.22176E-04  |   7.37311E-05  (N = 17)
+#   Strength Function Weighted Mean +/- Weighted Error      :         NAN +/-          NAN  (N = 17)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+41107-007-0         F.N.Belyaev             1990   9.4800E-05   0.0000E+00   2.0800E-04   0.0000E+00                
+41107-007-0         F.N.Belyaev             1990   9.4800E-05   0.0000E+00   1.9900E-04   0.0000E+00                
+10051-015-1         S.F.Mughabghab          1969   1.2501E-04   0.0000E+00   2.4000E-04   0.0000E+00                
+10051-016-0         S.F.Mughabghab          1969   1.0000E-02   0.0000E+00   2.4000E-04   0.0000E+00                
+21925-004-1         Y.Nakajima              1989   5.0550E-02   0.0000E+00   3.0000E-04   0.0000E+00                
+21925-004-1         Y.Nakajima              1989   5.0550E-02   0.0000E+00   3.7000E-04   0.0000E+00                
+21925-004-1         Y.Nakajima              1989   5.0550E-02   0.0000E+00   1.0000E-04   0.0000E+00                
+40162-051-0         E.N.Karzhavina          1969   9.3000E-05   0.0000E+00   2.1000E-04   0.0000E+00                
+20148-016-0         P.Ribon                 1969   4.2510E-05   0.0000E+00   1.9400E-04   0.0000E+00                
+41248-003-0         L.L.Litvinskiy          1995   1.3845E-01   0.0000E+00   2.3400E-04   0.0000E+00                
+41248-003-0         L.L.Litvinskiy          1995   1.3845E-01   0.0000E+00   1.2900E-04   0.0000E+00                
+10049-016-0         M.P.Fricke              1970   1.0150E-04   0.0000E+00   2.1700E-04   0.0000E+00                
+10049-016-0         M.P.Fricke              1970   1.0500E-02   0.0000E+00   2.5500E-04   0.0000E+00                
+10049-017-0         M.P.Fricke              1970   1.0500E-02   0.0000E+00   3.7000E-04   0.0000E+00                
+20147-003-0         M.Asghar                1970   4.6510E-05   0.0000E+00   1.3800E-04   0.0000E+00                
+20147-003-0         M.Asghar                1970   4.6510E-05   0.0000E+00   1.7200E-04   0.0000E+00                
+23400-012-1         M.Mastromarco           2019   9.0173E-05   0.0000E+00   2.0100E-04   0.0000E+00                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+41196-002-0         L.L.Litvinskiy          1995   6.7950E-02   0.0000E+00   1.3500E-04   0.0000E+00           DERIV
+41196-002-0         L.L.Litvinskiy          1995   6.7950E-02   0.0000E+00   1.8700E-04   0.0000E+00           DERIV

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 46-PD-110(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 46 
+#   A: 110 
+#   Nuclide: 46-PD-110 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4700e+01 MeV 
+# Residual: 
+#   Z: 46 
+#   A: 109 
+#   Nuclide: 46-PD-109 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32552-009-0 (entry-subentry-pointer) 
+#   Reaction code: (46-PD-110(N,2N)46-PD-109,,SIG) 
+#   First author: Kong Xiangzhong 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,ARI,50,361,1999) 
+#   Year:  1999.0 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32552.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32552
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3500E+01        2.0000E-01        1.5900E+00        1.0000E-01
+        1.4200E+01        2.0000E-01        1.6500E+00        1.0500E-01
+        1.4700E+01        2.0000E-01        1.6200E+00        1.0500E-01

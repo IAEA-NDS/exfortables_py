@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 77-IR-191(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 77 
+#   A: 191 
+#   Nuclide: 77-IR-191 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16.0 
+#   Incident energy:  1.3400e+01 MeV - 1.4860e+01 MeV 
+# Residual: 
+#   Z: 77 
+#   A: 190 
+#   Nuclide: 77-IR-190 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32926-004-0 (entry-subentry-pointer) 
+#   Reaction code: (77-IR-191(N,2N)77-IR-190,,SIG) 
+#   First author: Zhu Chuan-Xin 
+#   Institute:  (3CPRNPC): Southwest Institute Nuclear Physics and Chem.,Mianyang,Sichuan 
+#   Reference:  (J,ASI,71,192501,2022) 
+#   Year:  2022 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/329/32926.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32926
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3400E+01        0.0000E+00        2.0615E+00        7.0230E-02
+        1.3600E+01        0.0000E+00        2.0860E+00        7.1140E-02
+        1.3800E+01        0.0000E+00        2.0962E+00        7.1600E-02
+        1.4000E+01        0.0000E+00        2.1084E+00        7.1990E-02
+        1.4200E+01        0.0000E+00        2.1174E+00        7.2260E-02
+        1.4400E+01        0.0000E+00        2.1329E+00        7.2730E-02
+        1.4600E+01        0.0000E+00        2.1415E+00        7.3140E-02
+        1.4800E+01        0.0000E+00        2.1457E+00        7.3240E-02
+        1.4860E+01        0.0000E+00        2.1228E+00        7.2510E-02

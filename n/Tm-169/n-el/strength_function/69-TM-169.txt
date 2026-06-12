@@ -1,0 +1,37 @@
+# Header: 
+#   title: 69-TM-169(N,EL) strength_function cross section 
+#   source: EXFOR 
+#   date created: 2026-06-11 
+# Target: 
+#   Z: 69 
+#   A: 169 
+#   Nuclide: 69-TM-169 
+# Reaction: 
+#   Type: N,EL 
+#   Type: N,EL 
+#   Incident energy       : 3.8000e-04 MeV - 1.0015e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Strength Function Simple Mean  |  Simple Stdev        : 1.39333E-04  |   5.84016E-05   (N = 9)
+#   Strength Function Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 9)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11329-098-0         J.H.Gibbons             1961   1.0500E-01   0.0000E+00   1.8000E-04   0.0000E+00                
+11329-098-0         J.H.Gibbons             1961   1.0500E-01   0.0000E+00   1.0000E-05   0.0000E+00                
+40839-016-0         V.P.Vertebnyy           1980   2.0000E-03   0.0000E+00   1.6300E-04   0.0000E+00                
+20124-012-0         H.Tellier               1972   1.0000E-03   0.0000E+00   1.4600E-04   0.0000E+00                
+20124-013-0         H.Tellier               1972   6.1000E-04   0.0000E+00   1.2000E-04   0.0000E+00                
+20124-013-0         H.Tellier               1972   6.1000E-04   0.0000E+00   1.0000E-04   0.0000E+00                
+20124-014-0         H.Tellier               1972   4.5000E-02   0.0000E+00   1.7500E-04   0.0000E+00                
+20685-012-0         S.De Barros             1969   3.8000E-04   0.0000E+00   1.5000E-04   0.0000E+00                
+20583-050-0         W.Dilg                  1972   2.7000E-03   0.0000E+00   2.1000E-04   0.0000E+00                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+10873-003-0         R.L.Macklin             1982   1.0015E+00   0.0000E+00   2.8900E-04   0.0000E+00           DERIV
+10873-003-0         R.L.Macklin             1982   1.0015E+00   0.0000E+00   1.0100E-04   0.0000E+00           DERIV
+10873-003-0         R.L.Macklin             1982   1.0015E+00   0.0000E+00   8.9000E-05   0.0000E+00           DERIV

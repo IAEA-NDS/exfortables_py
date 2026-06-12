@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 81-TL-203(N,3N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 81 
 #   A: 203 
 #   Nuclide: 81-TL-203 
 # Reaction: 
 #   Process: N,3N 
-#   MF-MT number: 3 - 17 
+#   MF-MT number: 3 - 17.0 
 #   Incident energy:  1.6500e+01 MeV - 1.9760e+01 MeV 
 # Residual: 
 #   Z: 81 
@@ -20,13 +20,13 @@
 #   Reaction code: (81-TL-203(N,3N)81-TL-201,,SIG) 
 #   First author: R.J.Prestwood 
 #   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
-#   Reference:  (J,PR,121,1438,6103) 
+#   Reference:  (J,PR,121,1438,1961) 
 #   Year:  1961 
-#   Facility:  None 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11645.x4 
 #   nds:  https://nds.iaea.org/EXFOR/11645
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.6500E+01        3.0000E-01        2.5000E-02        0.0000E+00
         1.7950E+01        3.2000E-01        1.2400E-01        1.2000E-02
         1.9760E+01        4.3000E-01        2.8000E-01        2.8000E-02

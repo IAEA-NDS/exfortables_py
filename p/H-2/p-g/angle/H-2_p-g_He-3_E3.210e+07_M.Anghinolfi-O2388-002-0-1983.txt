@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 1-H-2(P,G)  Differential with angle of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 1 
 #   A: 2 
 #   Nuclide: 1-H-2 
 # Reaction: 
 #   Process: P,G 
-#   MF-MT number: 4 - 102 
+#   MF-MT number: 4 - 102.0 
 #   Incident energy:  3.2100e+01 MeV 
 # Residual: 
 #   Z: 2 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2388.x4 
 #   nds:  https://nds.iaea.org/EXFOR/O2388
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+# Angle_cm(degrees) dAngle_cm(degrees)     data_cm(B/SR)    ddata_cm(B/SR)
         3.6700E+01        3.0000E-01        2.9750E-07        1.7100E-08
         4.4300E+01        3.0000E-01        3.6970E-07        1.9000E-08
         4.8700E+01        3.0000E-01        4.1530E-07        1.7100E-08

@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 39-Y-89(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 62.0 
+#   Incident energy:  4.4600e+00 MeV - 8.5600e+00 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+#   Level energy: 3.0700e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 10130-013-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(N,INL)39-Y-89,PAR,SIG) 
+#   First author: F.G.Perey 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (R,ORNL-4552,1970) 
+#   Year:  1970 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10130.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10130
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.4600E+00        7.0000E-02        3.4200E-01        5.7798E-02
+        5.0000E+00        5.0000E-02        1.9392E-01        2.1719E-02
+        5.1800E+00        5.0000E-02        1.5127E-01        1.5883E-02
+        5.5000E+00        1.7000E-01        1.2690E-01        1.3325E-02
+        6.4400E+00        1.3000E-01        5.2940E-02        5.5587E-03
+        7.6000E+00        1.0000E-01        1.9610E-02        3.7651E-03
+        8.5600E+00        8.0000E-02        1.3300E-02        4.2826E-03

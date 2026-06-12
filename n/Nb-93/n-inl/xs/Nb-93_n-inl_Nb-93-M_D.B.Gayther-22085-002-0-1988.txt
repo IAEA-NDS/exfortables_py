@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 41-NB-93(N,INL)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 41 
 #   A: 93 
 #   Nuclide: 41-NB-93 
 # Reaction: 
 #   Process: N,INL 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  1.0900e+00 MeV - 5.7600e+00 MeV 
 # Residual: 
 #   Z: 41 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22085.x4 
 #   nds:  https://nds.iaea.org/EXFOR/22085
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.0900E+00        1.9000E-01        7.4800E-02        3.3660E-03
         2.1000E+00        1.4000E-01        2.0100E-01        7.8390E-03
         2.7000E+00        2.0000E-01        2.4550E-01        8.1015E-03

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 63-EU-151(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 63 
+#   A: 151 
+#   Nuclide: 63-EU-151 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4190e+01 MeV - 1.4770e+01 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 150 
+#   Nuclide: 63-EU-150-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31406-003-0 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-151(N,2N)63-EU-150-G,,SIG) 
+#   First author: Lu Hanlin 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CNP,13,203,1991) 
+#   Year:  1991 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31406.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31406
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4190E+01        2.3000E-01        1.1900E+00        2.7000E-02
+        1.4410E+01        1.6000E-01        1.2150E+00        3.6000E-02
+        1.4770E+01        4.8000E-01        1.2190E+00        2.8000E-02

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 21-SC-45(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 21 
+#   A: 45 
+#   Nuclide: 21-SC-45 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 46 
+#   Nuclide: 21-SC-46 
+#   Level energy: 5.8400e-01 MeV 
+# EXFOR BIB:
+#   Entry id: 31558-019-0 (entry-subentry-pointer) 
+#   Reaction code: (21-SC-45(N,G)21-SC-46,PAR,SIG) 
+#   First author: Zs.Revay 
+#   Institute:  (3HUNII): MTA Izotop Intezete, Budapest 
+#   Reference:  (J,RCA,91,361,2003) 
+#   Year:  2003 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31558.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31558
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.5300E-08        0.0000E+00        1.8300E+00        3.0000E-02

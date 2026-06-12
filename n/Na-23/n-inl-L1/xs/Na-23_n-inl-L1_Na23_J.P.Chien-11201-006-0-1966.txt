@@ -1,0 +1,54 @@
+# Header: 
+#   Title: 11-NA-23(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 11 
+#   A: 23 
+#   Nuclide: 11-NA-23 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 51 
+#   Incident energy:  8.2500e-01 MeV - 1.5000e+00 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 23 
+#   Nuclide: 11-NA-23 
+#   Level energy: 4.4000e-01 MeV 
+# EXFOR BIB:
+#   Entry id: 11201-006-0 (entry-subentry-pointer) 
+#   Reaction code: (11-NA-23(N,INL)11-NA-23,PAR,SIG) 
+#   First author: J.P.Chien 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,NSE,26,500,1966) 
+#   Year:  1966 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11201.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11201
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.2500E-01        2.0000E-02        3.6000E-01        4.0000E-02
+        8.5000E-01        2.0000E-02        3.6000E-01        5.0000E-02
+        9.0000E-01        2.0000E-02        3.4000E-01        6.0000E-02
+        9.5000E-01        2.0000E-02        3.2000E-01        6.0000E-02
+        9.7500E-01        2.0000E-02        3.0000E-01        7.0000E-02
+        1.0000E+00        2.0000E-02        2.8000E-01        8.0000E-02
+        1.0250E+00        2.0000E-02        4.7000E-01        8.0000E-02
+        1.0500E+00        2.0000E-02        6.5000E-01        1.0000E-01
+        1.0780E+00        2.0000E-02        6.8000E-01        1.0000E-01
+        1.1000E+00        2.0000E-02        6.2000E-01        9.0000E-02
+        1.1250E+00        2.0000E-02        5.6000E-01        8.0000E-02
+        1.1500E+00        2.0000E-02        5.6500E-01        7.0000E-02
+        1.1750E+00        2.0000E-02        6.3000E-01        6.0000E-02
+        1.2000E+00        2.0000E-02        6.0000E-01        6.0000E-02
+        1.2250E+00        2.0000E-02        6.8000E-01        5.0000E-02
+        1.2500E+00        2.0000E-02        7.0000E-01        5.0000E-02
+        1.2750E+00        2.0000E-02        7.1000E-01        6.0000E-02
+        1.3000E+00        2.0000E-02        4.6000E-01        7.0000E-02
+        1.3500E+00        2.0000E-02        2.7000E-01        8.0000E-02
+        1.3750E+00        2.0000E-02        1.6000E-01        8.0000E-02
+        1.4000E+00        2.0000E-02        2.9000E-01        8.0000E-02
+        1.4250E+00        2.0000E-02        2.4000E-01        8.0000E-02
+        1.4500E+00        2.0000E-02        2.9000E-01        8.0000E-02
+        1.4750E+00        2.0000E-02        2.0000E-01        8.0000E-02
+        1.5000E+00        2.0000E-02        3.3000E-01        8.0000E-02

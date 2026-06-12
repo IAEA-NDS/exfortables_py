@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 92-U-238 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2026-06-11 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10802-003-2 
+#   First Author          : R.C.Block 
+#   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
+#   Reference             : (J,NSE,80,263,1982) 
+#   Year                  : 1982 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 92 
+#   A                     : 238 
+#   Isomer                :  
+#   Nuclide               : 92-U-238 
+# Reaction: 
+#   EXFOR Reaction        : (92-U-238(N,EL),,WID) 
+#   Incident Energy       : 6.6700e+00 eV - 8.0700e+01 eV 
+#   Resonance Energy Type : EN 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10802.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10802
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   6.6700E+00          NAN        NAN        NAN          NAN          NAN   2.2360E-02   6.6000E-04   1.5100E-03   5.0000E-05          NAN          NAN          NAN          NAN
+   2.0900E+01          NAN        NAN        NAN          NAN          NAN   2.3760E-02   3.1000E-04   9.3900E-03   1.6000E-04          NAN          NAN          NAN          NAN
+   3.6800E+01          NAN        NAN        NAN          NAN          NAN   2.3550E-02   1.3000E-04   3.1470E-02   1.3000E-04          NAN          NAN          NAN          NAN
+   6.6100E+01          NAN        NAN        NAN          NAN          NAN   2.3340E-02   5.6000E-04   2.7540E-02   1.8400E-03          NAN          NAN          NAN          NAN
+   8.0700E+01          NAN        NAN        NAN          NAN          NAN   2.5600E-02   9.4000E-04   1.9200E-03   5.0000E-05          NAN          NAN          NAN          NAN

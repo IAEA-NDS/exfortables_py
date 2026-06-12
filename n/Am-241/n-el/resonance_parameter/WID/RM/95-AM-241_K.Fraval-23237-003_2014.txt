@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 95-AM-241 Resonance Parameter: WID,,RM 
+#   Source                : EXFOR 
+#   Date Created          : 2026-06-11 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 23237-003-2 
+#   First Author          : K.Fraval 
+#   Institute             : (2FR SAC): CEA/Saclay 
+#   Reference             : (J,PR/C,89,044609,2014) 
+#   Year                  : 2014 
+#   Facility              : (SYNCH): Synchrotron 
+# Target: 
+#   Z                     : 95 
+#   A                     : 241 
+#   Isomer                :  
+#   Nuclide               : 95-AM-241 
+# Reaction: 
+#   EXFOR Reaction        : (95-AM-241(N,EL),,WID,,RM) 
+#   Incident Energy       : -3.0600e-01 eV - 1.2720e+00 eV 
+#   Resonance Energy Type : EN-RES 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23237.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/23237
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+  -3.0600E-01          NAN        3.0        NAN          NAN          NAN          NAN          NAN   2.7530E-04   2.0000E-06          NAN          NAN          NAN          NAN
+   3.0600E-01          NAN        3.0        NAN          NAN          NAN   4.5350E-02   3.0000E-04   4.9100E-05   1.0000E-07          NAN          NAN          NAN          NAN
+   5.7500E-01          NAN        2.0        NAN          NAN          NAN   4.4410E-02   5.0000E-04   1.1670E-04   3.0000E-07          NAN          NAN          NAN          NAN
+   1.2720E+00          NAN        3.0        NAN          NAN          NAN   4.7160E-02   3.0000E-04   2.9000E-04   9.0000E-07          NAN          NAN          NAN          NAN

@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 83-BI-209(G,N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 83 
 #   A: 209 
 #   Nuclide: 83-BI-209 
 # Reaction: 
 #   Process: G,N 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  7.5950e+00 MeV - 1.2348e+01 MeV 
 # Residual: 
 #   Z: 83 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M01/M0146.x4 
 #   nds:  https://nds.iaea.org/EXFOR/M0146
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         7.5950E+00        0.0000E+00        7.0000E-03        3.0000E-03
         7.6430E+00        0.0000E+00        1.2000E-02        1.0000E-03
         7.6910E+00        0.0000E+00        1.8000E-02        2.0000E-03

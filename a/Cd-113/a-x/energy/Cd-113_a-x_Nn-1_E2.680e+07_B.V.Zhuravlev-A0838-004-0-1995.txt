@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 48-CD-113(A,X)  Differential with energy of outgoing particle 
 #   Source: EXFOR 
-#   Date created: 2025-08-29 
+#   Date created: 2026-06-11 
 # Target: 
 #   Z: 48 
 #   A: 113 
@@ -14,7 +14,7 @@
 #   Z: 0 
 #   A: 1 
 #   Nuclide: 0-NN-1 
-#   Level energy: 1.1600e+00 MeV 
+#   Outgoing energy:  1.1600e+00 MeV - 1.0270e+01 MeV 
 # EXFOR BIB:
 #   Entry id: A0838-004-0 (entry-subentry-pointer) 
 #   Reaction code: (48-CD-113(A,X)0-NN-1,,DE) 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A08/A0838.x4 
 #   nds:  https://nds.iaea.org/EXFOR/A0838
 #
-#          E(MeV)          dE(MeV)      data(MB/MeV)   ddata(MB/MeV)
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
         1.1600E+00        4.0000E-02        9.8000E-07        0.0000E+00
         1.3600E+00        4.0000E-02        1.1500E-06        1.4950E-07
         1.5800E+00        4.0000E-02        1.0200E-06        0.0000E+00
