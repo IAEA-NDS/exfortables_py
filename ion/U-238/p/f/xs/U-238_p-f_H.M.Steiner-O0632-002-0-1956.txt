@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 92-U-238(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.1400e+02 MeV - 3.3600e+02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0632-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(P,F),,SIG,,,EXP) 
+#   First author: H.M.Steiner 
+#   Institute:  (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
+#   Reference:  (J,PR,101,807,1956) 
+#   Year:  1956 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0632.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0632
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1400E+02        1.5000E+00        1.3700E+00        0.0000E+00
+        1.3000E+02        1.5000E+00        1.3300E+00        0.0000E+00
+        1.3200E+02        1.5000E+00        1.3500E+00        0.0000E+00
+        1.5400E+02        1.5000E+00        1.4200E+00        0.0000E+00
+        1.5800E+02        1.5000E+00        1.4700E+00        0.0000E+00
+        1.7800E+02        1.5000E+00        1.3050E+00        0.0000E+00
+        1.8200E+02        1.5000E+00        1.3600E+00        0.0000E+00
+        1.9200E+02        1.5000E+00        1.3750E+00        0.0000E+00
+        1.9400E+02        1.5000E+00        1.3550E+00        0.0000E+00
+        2.1600E+02        1.5000E+00        1.3050E+00        0.0000E+00
+        2.3000E+02        1.5000E+00        1.3150E+00        0.0000E+00
+        2.5400E+02        1.5000E+00        1.3250E+00        0.0000E+00
+        2.6100E+02        1.5000E+00        1.3300E+00        0.0000E+00
+        2.8800E+02        1.5000E+00        1.3700E+00        0.0000E+00
+        3.0300E+02        1.5000E+00        1.3750E+00        0.0000E+00
+        3.3600E+02        1.5000E+00        1.3450E+00        0.0000E+00

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 72-HF-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 72 
+#   A: 0 
+#   Nuclide: 72-HF-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0780e+02 MeV - 1.9390e+02 MeV 
+# Residual: 
+#   Z: 72 
+#   A: 170 
+#   Nuclide: 72-HF-170 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1650-008-0 (entry-subentry-pointer) 
+#   Reaction code: (72-HF-0(P,X)72-HF-170,,SIG) 
+#   First author: D.G.Medvedev 
+#   Institute:  (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference:  (J,ARI,66,1300,2008) 
+#   Year:  2008 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C16/C1650.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1650
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0780E+02        3.0000E-01        9.8200E-02        9.8000E-03
+        1.9390E+02        3.0000E-01        6.9900E-02        7.0000E-03

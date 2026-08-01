@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 7-N-15(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 7 
+#   A: 15 
+#   Nuclide: 7-N-15 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.0730e+01 MeV - 4.9530e+01 MeV 
+# Residual: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+#   Level energy: 1.2600e+01 MeV 
+# EXFOR BIB:
+#   Entry id: F0539-004-0 (entry-subentry-pointer) 
+#   Reaction code: (7-N-15(P,G)8-O-16,PAR,SIG) 
+#   First author: P.Corvisiero 
+#   Institute:  (2ITYGVA): Universita degli Studi di Genova + INFN Genova 
+#   Reference:  (J,NP/A,483,9,1988) 
+#   Year:  1988 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F05/F0539.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0539
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        3.0730E+01        1.5365E+00        2.3600E-05        0.0000E+00
+        3.1970E+01        1.5985E+00        2.9000E-05        0.0000E+00
+        3.2720E+01        1.6360E+00        2.9900E-05        0.0000E+00
+        3.4340E+01        1.7170E+00        2.4700E-05        0.0000E+00
+        3.6290E+01        1.8145E+00        2.1200E-05        0.0000E+00
+        3.8150E+01        1.9075E+00        1.6400E-05        0.0000E+00
+        4.2020E+01        2.1010E+00        1.0000E-05        0.0000E+00
+        4.6190E+01        2.3095E+00        7.8000E-06        0.0000E+00
+        4.9530E+01        2.4765E+00        5.9000E-06        0.0000E+00

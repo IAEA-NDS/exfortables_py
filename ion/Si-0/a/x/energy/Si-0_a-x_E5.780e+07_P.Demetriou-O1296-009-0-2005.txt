@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 14-SI-0(A,X)  Energy distribution 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 14 
+#   A: 0 
+#   Nuclide: 14-SI-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 5 - None 
+#   Incident energy:  5.7800e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Outgoing energy:  1.9800e+01 MeV - 3.5400e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O1296-009-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-0(A,X)4-BE-7,,DE) 
+#   First author: P.Demetriou 
+#   Institute:  (2BLGLVN): Catholic University of Louvain, Louvain-la-Neuve 
+#   Reference:  (J,PR/C,72,034607,2005) 
+#   Year:  2005 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O12/O1296.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1296
+#
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
+        3.5400E+01        0.0000E+00        1.6000E-11        8.0000E-12
+        3.4200E+01        0.0000E+00        1.8000E-11        3.0000E-12
+        3.0600E+01        0.0000E+00        2.0000E-11        3.0000E-12
+        3.3000E+01        0.0000E+00        2.1000E-11        4.0000E-12
+        3.1800E+01        0.0000E+00        2.4000E-11        6.0000E-12
+        2.9400E+01        0.0000E+00        2.5000E-11        5.0000E-12
+        2.8200E+01        0.0000E+00        3.2000E-11        5.0000E-12
+        2.7000E+01        0.0000E+00        3.2000E-11        6.0000E-12
+        1.9800E+01        0.0000E+00        3.2000E-11        8.0000E-12
+        2.5800E+01        0.0000E+00        3.4000E-11        8.0000E-12
+        2.4600E+01        0.0000E+00        4.3000E-11        8.0000E-12
+        2.3400E+01        0.0000E+00        4.4000E-11        9.0000E-12
+        2.2200E+01        0.0000E+00        5.0000E-11        1.1000E-11
+        2.1000E+01        0.0000E+00        5.5000E-11        1.2000E-11

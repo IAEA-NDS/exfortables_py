@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 29-CU-0(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  3.5300e+02 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 0 
+#   Nuclide: 1-PP-0 
+#   Outgoing energy:  3.5000e+01 MeV - 1.0000e+02 MeV 
+# EXFOR BIB:
+#   Entry id: E2101-002-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(P,X)1-PP-0,,DA/DE) 
+#   First author: E.V.Karpechev 
+#   Institute:  (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
+#   Reference:  (J,PAN,71,(1),1,200801) 
+#   Year:  2008 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E21/E2101.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2101
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.0000E+02        4.0000E-08        9.0000E+01        0.0000E+00        3.0166E-12        0.0000E+00
+        7.0000E+01        4.0000E-08        9.0000E+01        0.0000E+00        5.0279E-12        0.0000E+00
+        3.5000E+01        4.0000E-08        9.0000E+01        0.0000E+00        9.1504E-12        0.0000E+00
+        5.0000E+01        4.0000E-08        9.0000E+01        0.0000E+00        1.1036E-11        0.0000E+00

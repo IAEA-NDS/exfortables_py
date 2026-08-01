@@ -1,0 +1,54 @@
+# Header: 
+#   Title: 24-CR-53(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 24 
+#   A: 53 
+#   Nuclide: 24-CR-53 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4.0 
+#   Incident energy:  1.4000e+00 MeV - 2.3500e+00 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 53 
+#   Nuclide: 25-MN-53 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0696-003-0 (entry-subentry-pointer) 
+#   Reaction code: (24-CR-53(P,N)25-MN-53,,SIG) 
+#   First author: H.J.Gardner 
+#   Institute:  (3AULAML): University of Melbourne, Parkville, Victoria 
+#   Reference:  (J,AUJ,34,25,1981) 
+#   Year:  1981 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D06/D0696.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0696
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        1.4000E+00        0.0000E+00        1.5590E-04        0.0000E+00
+        1.4300E+00        0.0000E+00        2.3670E-04        0.0000E+00
+        1.4700E+00        0.0000E+00        5.3810E-04        0.0000E+00
+        1.5100E+00        0.0000E+00        5.8630E-04        0.0000E+00
+        1.5500E+00        0.0000E+00        6.1490E-04        0.0000E+00
+        1.5900E+00        0.0000E+00        1.3360E-03        0.0000E+00
+        1.6300E+00        0.0000E+00        3.1330E-03        0.0000E+00
+        1.6700E+00        0.0000E+00        2.1340E-03        0.0000E+00
+        1.7100E+00        0.0000E+00        2.0100E-03        0.0000E+00
+        1.7500E+00        0.0000E+00        2.4890E-03        0.0000E+00
+        1.7900E+00        0.0000E+00        4.3380E-03        0.0000E+00
+        1.8300E+00        0.0000E+00        4.0480E-03        0.0000E+00
+        1.8600E+00        0.0000E+00        4.5380E-03        0.0000E+00
+        1.9000E+00        0.0000E+00        7.2640E-03        0.0000E+00
+        1.9400E+00        0.0000E+00        7.6200E-03        0.0000E+00
+        1.9800E+00        0.0000E+00        9.3520E-03        0.0000E+00
+        2.0200E+00        0.0000E+00        1.1590E-02        0.0000E+00
+        2.0600E+00        0.0000E+00        1.1930E-02        0.0000E+00
+        2.1000E+00        0.0000E+00        1.8590E-02        0.0000E+00
+        2.1400E+00        0.0000E+00        1.6810E-02        0.0000E+00
+        2.1800E+00        0.0000E+00        2.0180E-02        0.0000E+00
+        2.2200E+00        0.0000E+00        1.9780E-02        0.0000E+00
+        2.2600E+00        0.0000E+00        2.5390E-02        0.0000E+00
+        2.3000E+00        0.0000E+00        3.0760E-02        0.0000E+00
+        2.3500E+00        0.0000E+00        3.9330E-02        0.0000E+00

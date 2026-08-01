@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 39-Y-89(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.4500e+01 MeV - 5.0400e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 88 
+#   Nuclide: 39-Y-88 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2617-010-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(A,X)39-Y-88,CUM,SIG) 
+#   First author: T.Murata 
+#   Institute:  (2JPNHOK): Hokkaido Univesity, Sapporo 
+#   Reference:  (J,NIM/B,458,21,2019) 
+#   Year:  2019 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E26/E2617.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2617
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.4500E+01        9.0000E-01        3.9700E-03        4.1000E-04
+        2.6700E+01        8.0000E-01        1.4400E-02        1.1000E-03
+        2.8800E+01        8.0000E-01        2.7600E-02        2.1000E-03
+        3.0800E+01        7.0000E-01        4.1000E-02        3.0000E-03
+        3.2700E+01        7.0000E-01        4.4400E-02        3.3000E-03
+        3.4500E+01        7.0000E-01        5.3300E-02        3.9000E-03
+        3.5900E+01        7.0000E-01        5.9000E-02        4.3000E-03
+        3.7300E+01        7.0000E-01        8.2400E-02        5.9000E-03
+        3.8600E+01        7.0000E-01        8.1300E-02        5.8000E-03
+        3.9900E+01        6.0000E-01        7.4200E-02        5.4000E-03
+        4.1200E+01        6.0000E-01        8.4600E-02        6.1000E-03
+        4.2400E+01        6.0000E-01        6.7600E-02        4.9000E-03
+        4.3600E+01        6.0000E-01        7.7400E-02        5.6000E-03
+        4.4800E+01        6.0000E-01        7.2400E-02        5.3000E-03
+        4.6000E+01        6.0000E-01        7.7200E-02        5.6000E-03
+        4.7100E+01        6.0000E-01        6.3400E-02        4.6000E-03
+        4.8300E+01        6.0000E-01        6.6800E-02        4.9000E-03
+        4.9400E+01        6.0000E-01        7.1000E-02        5.2000E-03
+        5.0400E+01        6.0000E-01        6.3700E-02        4.7000E-03

@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 83-BI-209(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  9.0000e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Outgoing energy:  5.8370e+00 MeV - 7.2680e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O0137-186-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(P,X)1-H-1,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,698,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0137.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0137
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        7.2680E+01        0.0000E+00        1.0500E+02        0.0000E+00        1.0920E-11        1.0920E-12
+        6.5500E+01        0.0000E+00        1.0500E+02        0.0000E+00        2.5980E-11        2.5980E-12
+        6.0350E+01        0.0000E+00        1.0500E+02        0.0000E+00        5.6990E-11        5.6990E-12
+        5.2200E+01        0.0000E+00        1.0500E+02        0.0000E+00        1.1460E-10        1.1460E-11
+        5.8370E+00        0.0000E+00        1.0500E+02        0.0000E+00        1.8000E-10        1.8000E-11
+        4.1990E+01        0.0000E+00        1.0500E+02        0.0000E+00        2.8340E-10        2.8340E-11
+        3.3350E+01        0.0000E+00        1.0500E+02        0.0000E+00        5.2420E-10        5.2420E-11
+        9.6970E+00        0.0000E+00        1.0500E+02        0.0000E+00        5.3320E-10        5.3320E-11
+        2.2690E+01        0.0000E+00        1.0500E+02        0.0000E+00        9.6790E-10        9.6790E-11
+        1.3110E+01        0.0000E+00        1.0500E+02        0.0000E+00        1.1320E-09        1.1320E-10

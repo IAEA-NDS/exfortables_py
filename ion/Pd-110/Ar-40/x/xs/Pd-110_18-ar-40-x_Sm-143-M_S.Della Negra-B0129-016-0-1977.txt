@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 46-PD-110(18-AR-40,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 46 
+#   A: 110 
+#   Nuclide: 46-PD-110 
+# Reaction: 
+#   Process: 18-AR-40,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4400e+02 MeV - 2.0700e+02 MeV 
+# Residual: 
+#   Z: 62 
+#   A: 143 
+#   Nuclide: 62-SM-143-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0129-016-0 (entry-subentry-pointer) 
+#   Reaction code: (46-PD-110(18-AR-40,X)62-SM-143-M,IND,SIG,,,EXP) 
+#   First author: S.Della Negra 
+#   Institute:  (2FR PAR): Universite de Paris 
+#   Reference:  (J,ZP/A,282,65,1977) 
+#   Year:  1977 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0129.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0129
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4400E+02        1.0000E+00        2.2000E-02        0.0000E+00
+        1.4900E+02        5.0000E+00        3.3000E-02        0.0000E+00
+        1.5400E+02        1.0000E+00        4.2000E-02        9.0000E-03
+        1.6300E+02        1.0000E+00        5.8000E-02        1.0000E-02
+        1.6800E+02        1.0000E+00        5.8000E-02        0.0000E+00
+        1.9700E+02        5.0000E+00        4.9300E-02        9.3000E-03
+        2.0700E+02        4.0000E+00        2.3800E-02        4.7000E-03

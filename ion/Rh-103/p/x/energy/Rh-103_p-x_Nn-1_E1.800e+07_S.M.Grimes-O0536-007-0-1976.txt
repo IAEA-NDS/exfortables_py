@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 45-RH-103(P,X)  Energy distribution 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 5 - None 
+#   Incident energy:  1.8000e+01 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 1 
+#   Nuclide: 0-NN-1 
+#   Outgoing energy:  4.1100e+00 MeV - 1.4890e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O0536-007-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(P,X)0-NN-1,,DE) 
+#   First author: S.M.Grimes 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR/C,13,2224,1976) 
+#   Year:  1976 
+#   Facility:  (CYGFF): Cyclograaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0536.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0536
+#
+#   E_out_cm(MeV)    dE_out_cm(MeV)     data_cm(B/EV)    ddata_cm(B/EV)
+        4.1100E+00        5.0000E-02        1.7900E-07        2.8640E-09
+        5.0400E+00        5.0000E-02        6.6800E-08        1.0688E-09
+        6.0700E+00        5.0000E-02        2.5700E-08        4.1120E-10
+        7.0100E+00        5.0000E-02        1.3880E-08        2.2208E-10
+        7.9800E+00        5.0000E-02        9.2400E-09        1.4784E-10
+        8.9200E+00        5.0000E-02        5.2200E-09        8.3520E-11
+        9.8300E+00        5.0000E-02        3.3700E-09        5.3920E-11
+        1.0990E+01        5.0000E-02        1.6000E-09        2.5600E-11
+        1.1930E+01        5.0000E-02        1.0320E-09        1.6512E-11
+        1.2900E+01        5.0000E-02        4.6700E-10        7.4720E-12
+        1.3810E+01        5.0000E-02        4.0500E-10        6.4800E-12
+        1.4890E+01        5.0000E-02        4.4100E-10        7.0560E-12

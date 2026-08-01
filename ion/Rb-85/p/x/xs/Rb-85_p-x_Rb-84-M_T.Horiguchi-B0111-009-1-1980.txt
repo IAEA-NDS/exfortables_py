@@ -1,0 +1,51 @@
+# Header: 
+#   Title: 37-RB-85(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 37 
+#   A: 85 
+#   Nuclide: 37-RB-85 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3800e+01 MeV - 6.9900e+01 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 84 
+#   Nuclide: 37-RB-84-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0111-009-1 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-85(P,X)37-RB-84-M,,SIG) 
+#   First author: T.Horiguchi 
+#   Institute:  (2JPNHIR): Hiroshima University , Hiroshima and Higashi-Hiroshima 
+#   Reference:  (J,ARI,31,141,1980) 
+#   Year:  1980 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0111.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0111
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3800E+01        0.0000E+00        4.7000E-03        1.3000E-03
+        2.1700E+01        0.0000E+00        1.3600E-01        2.1000E-02
+        2.5500E+01        0.0000E+00        1.8300E-01        2.8000E-02
+        2.9400E+01        0.0000E+00        1.9400E-01        3.0000E-02
+        3.3700E+01        0.0000E+00        1.4900E-01        2.3000E-02
+        3.8400E+01        0.0000E+00        1.0400E-01        1.6000E-02
+        4.1000E+01        0.0000E+00        1.0500E-01        1.6000E-02
+        4.5100E+01        0.0000E+00        1.1700E-01        1.8000E-02
+        4.7500E+01        0.0000E+00        8.8100E-02        1.3400E-02
+        4.9000E+01        0.0000E+00        7.4700E-02        1.1400E-02
+        5.2700E+01        0.0000E+00        8.6200E-02        1.3100E-02
+        5.5900E+01        0.0000E+00        8.3500E-02        1.2700E-02
+        5.8000E+01        0.0000E+00        8.7500E-02        1.3300E-02
+        5.9300E+01        0.0000E+00        8.0300E-02        1.2200E-02
+        6.0600E+01        0.0000E+00        9.3300E-02        1.4200E-02
+        6.2400E+01        0.0000E+00        7.9600E-02        1.2100E-02
+        6.5300E+01        0.0000E+00        8.1600E-02        1.2400E-02
+        6.5500E+01        0.0000E+00        8.2800E-02        1.2600E-02
+        6.6700E+01        0.0000E+00        8.4800E-02        1.2900E-02
+        6.8300E+01        0.0000E+00        8.1000E-02        1.2300E-02
+        6.8800E+01        0.0000E+00        7.9500E-02        1.2100E-02
+        6.9900E+01        0.0000E+00        8.1700E-02        1.2400E-02

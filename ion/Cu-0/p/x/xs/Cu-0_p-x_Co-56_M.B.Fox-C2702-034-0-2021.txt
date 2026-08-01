@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 29-CU-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.1220e+01 MeV - 1.9254e+02 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 56 
+#   Nuclide: 27-CO-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2702-034-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(P,X)27-CO-56,,SIG) 
+#   First author: M.B.Fox 
+#   Institute:  (1USAUCX): University of California, Berkeley, CA 
+#   Reference:  (J,PR/C,104,064615,2021) 
+#   Year:  2021 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C27/C2702.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2702
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.1220E+01        8.0000E-01        3.7300E-04        5.7000E-05
+        5.3240E+01        7.7000E-01        7.1300E-04        3.9000E-05
+        5.5210E+01        7.5000E-01        1.2720E-03        6.2000E-05
+        5.7110E+01        7.3000E-01        2.4050E-03        9.9000E-05
+        5.9730E+01        7.1000E-01        4.4700E-03        1.8000E-04
+        6.2730E+01        6.8000E-01        7.6600E-03        3.2000E-04
+        6.6810E+01        6.5000E-01        1.0950E-02        4.6000E-04
+        7.2220E+01        6.1000E-01        1.2680E-02        5.6000E-04
+        7.9030E+01        5.7000E-01        1.2120E-02        4.9000E-04
+        9.0940E+01        5.2000E-01        1.0310E-02        4.4000E-04
+        1.0449E+02        7.4000E-01        1.0510E-02        3.7000E-04
+        1.2002E+02        6.7000E-01        1.1550E-02        3.1000E-04
+        1.3408E+02        6.2000E-01        1.2290E-02        2.7000E-04
+        1.4886E+02        5.8000E-01        1.3180E-02        3.4000E-04
+        1.6349E+02        5.4000E-01        1.2570E-02        2.9000E-04
+        1.7728E+02        5.2000E-01        1.2650E-02        3.5000E-04
+        1.9254E+02        4.9000E-01        1.2500E-02        4.3000E-04

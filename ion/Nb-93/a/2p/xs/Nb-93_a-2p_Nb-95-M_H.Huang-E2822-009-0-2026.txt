@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 41-NB-93(A,2P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: A,2P 
+#   MF-MT number: 3 - 111 
+#   Incident energy:  4.0700e+01 MeV - 5.0000e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 95 
+#   Nuclide: 41-NB-95-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2822-009-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(A,2P)41-NB-95-M,,SIG) 
+#   First author: H.Huang 
+#   Institute:  (2JPNJPN): Japan 
+#   Reference:  (J,CHP,99,573,2026) 
+#   Year:  2026 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E28/E2822.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2822
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.0700E+01        4.0000E-01        9.6000E-05        2.9000E-05
+        4.3100E+01        4.0000E-01        8.0000E-05        2.9000E-05
+        4.5500E+01        4.0000E-01        1.1800E-04        2.7000E-05
+        4.7800E+01        4.0000E-01        1.2700E-04        2.7000E-05
+        5.0000E+01        4.0000E-01        9.3000E-05        2.1000E-05

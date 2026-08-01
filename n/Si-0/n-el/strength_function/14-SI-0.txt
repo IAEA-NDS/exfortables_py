@@ -1,7 +1,7 @@
 # Header: 
-#   title: 14-SI-0(N,EL) strength_function cross section 
+#   title: 14-SI-0(N,EL) strength function 
 #   source: EXFOR 
-#   date created: 2026-06-11 
+#   date created: 2026-08-01 
 # Target: 
 #   Z: 14 
 #   A: 0 
@@ -20,9 +20,9 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [NO-DIM]     dData         sf8    sf9
 20292-003-0         K.Tsukada               1963   3.5000E+00   0.0000E+00   2.5000E-04   0.0000E+00                
 20292-003-0         K.Tsukada               1963   4.5000E+00   0.0000E+00   3.3000E-04   0.0000E+00                
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [NO-DIM]     dData         sf8    sf9
 22105-032-0         L.Koester               1988   3.0250E+00   0.0000E+00   2.0000E-04   0.0000E+00           DERIV

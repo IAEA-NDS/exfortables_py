@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 52-TE-120(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 52 
+#   A: 120 
+#   Nuclide: 52-TE-120 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  6.4440e+00 MeV - 7.9320e+00 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 120 
+#   Nuclide: 53-I-120 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1742-004-2 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-120(P,N)53-I-120,,SIG,,SFC) 
+#   First author: R.T.Guray 
+#   Institute:  (1USANOT): University of Notre Dame, Notre Dame, IN 
+#   Reference:  (J,PR/C,80,035804,2009) 
+#   Year:  2009 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C17/C1742.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1742
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
+        6.4440E+00        2.0000E-03        7.7000E+13        8.0000E+12
+        6.9400E+00        2.0000E-03        1.4100E+14        1.4000E+13
+        7.4360E+00        2.0000E-03        1.4400E+14        1.4000E+13
+        7.9320E+00        2.0000E-03        1.1200E+14        1.1000E+13

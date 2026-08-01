@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 49-IN-115(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 49 
+#   A: 115 
+#   Nuclide: 49-IN-115 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5710e+00 MeV - 3.4640e+00 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 116 
+#   Nuclide: 50-SN-116 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2330-006-1 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-115(P,G)50-SN-116,,SIG) 
+#   First author: S.Harissopulos 
+#   Institute:  (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
+#   Reference:  (J,PR/C,93,025804,2016) 
+#   Year:  2016 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2330.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2330
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        2.5710E+00        0.0000E+00        7.0000E-07        7.0000E-08
+        2.7690E+00        0.0000E+00        1.5000E-06        1.5000E-07
+        2.9680E+00        0.0000E+00        3.5000E-06        3.0000E-07
+        3.1660E+00        0.0000E+00        6.1000E-06        5.0000E-07
+        3.3650E+00        0.0000E+00        9.7000E-06        7.0000E-07
+        3.4640E+00        0.0000E+00        1.2800E-05        1.0000E-06

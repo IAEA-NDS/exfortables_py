@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 79-AU-197(A,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: A,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  3.0600e+01 MeV - 3.5000e+01 MeV 
+# Residual: 
+#   Z: 81 
+#   A: 198 
+#   Nuclide: 81-TL-198 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F0858-004-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(A,3N)81-TL-198,,SIG) 
+#   First author: A.A.Kulko 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,PAN,70,613,2007) 
+#   Year:  2007 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F08/F0858.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0858
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.0600E+01        1.1700E+00        2.7600E-01        9.0000E-03
+        3.2900E+01        1.1100E+00        6.4300E-01        1.3000E-02
+        3.5000E+01        1.0500E+00        9.4800E-01        1.7000E-02

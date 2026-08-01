@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 8-O-18(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 8 
+#   A: 18 
+#   Nuclide: 8-O-18 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 52.0 
+#   Incident energy:  6.9000e+00 MeV - 9.2500e+00 MeV 
+# Residual: 
+#   Z: 9 
+#   A: 18 
+#   Nuclide: 9-F-18 
+#   Level energy: 1.0446e+00 MeV 
+# EXFOR BIB:
+#   Entry id: C1016-007-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-18(P,N)9-F-18,PAR,SIG) 
+#   First author: J.D.Anderson 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR,177,1416,1969) 
+#   Year:  1969 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C10/C1016.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1016
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.9000E+00        0.0000E+00        2.3100E-02        3.8000E-03
+        7.5500E+00        0.0000E+00        1.6100E-02        1.8000E-03
+        7.5500E+00        0.0000E+00        2.6300E-02        0.0000E+00
+        7.9500E+00        0.0000E+00        1.2300E-02        1.9000E-03
+        7.9500E+00        0.0000E+00        2.5100E-02        0.0000E+00
+        8.4000E+00        0.0000E+00        1.0200E-02        7.0000E-04
+        9.2500E+00        0.0000E+00        1.0100E-02        7.0000E-04
+        9.2500E+00        0.0000E+00        1.3200E-02        0.0000E+00

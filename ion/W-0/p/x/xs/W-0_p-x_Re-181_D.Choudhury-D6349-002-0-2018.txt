@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 74-W-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 74 
+#   A: 0 
+#   Nuclide: 74-W-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.1900e+01 MeV - 2.0900e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 181 
+#   Nuclide: 75-RE-181 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6349-002-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-0(P,X)75-RE-181,,SIG) 
+#   First author: D.Choudhury 
+#   Institute:  (3INDSAH): Saha Institute of Nuclear Physics, Kolkata 
+#   Reference:  (J,RCA,106,743,2018) 
+#   Year:  2018 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D63/D6349.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6349
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1900E+01        2.2000E-01        3.0000E-02        2.0000E-03
+        1.4900E+01        1.8000E-01        2.0400E-01        1.4000E-02
+        1.7900E+01        7.0000E-02        3.3200E-01        2.3000E-02
+        2.0900E+01        1.2000E-01        4.0000E-01        2.8000E-02

@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 42-MO-98(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 98 
+#   Nuclide: 42-MO-98 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.7000e+01 MeV - 3.8000e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 101 
+#   Nuclide: 43-TC-101 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0040-008-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-98(A,X)43-TC-101,,SIG) 
+#   First author: H.P.Graf 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,JIN,36,3647,1974) 
+#   Year:  1974 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0040.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0040
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.7000E+01        5.0000E-01        5.0000E-04        7.5000E-05
+        1.8000E+01        5.0000E-01        1.5000E-03        2.2500E-04
+        2.0000E+01        5.0000E-01        8.0000E-03        1.2000E-03
+        2.1000E+01        5.0000E-01        1.0000E-02        1.5000E-03
+        2.2000E+01        5.0000E-01        1.2000E-02        1.8000E-03
+        2.4000E+01        5.0000E-01        1.4000E-02        2.1000E-03
+        2.6000E+01        5.0000E-01        1.4000E-02        2.1000E-03
+        2.8000E+01        5.0000E-01        1.3000E-02        1.9500E-03
+        3.0000E+01        5.0000E-01        1.1000E-02        1.6500E-03
+        3.2000E+01        5.0000E-01        9.0000E-03        1.3500E-03
+        3.4000E+01        5.0000E-01        7.0000E-03        1.0500E-03
+        3.6000E+01        5.0000E-01        5.0000E-03        7.5000E-04
+        3.8000E+01        5.0000E-01        3.5000E-03        5.2500E-04

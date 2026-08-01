@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 94-PU-242(8-O-18,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 94 
+#   A: 242 
+#   Nuclide: 94-PU-242 
+# Reaction: 
+#   Process: 8-O-18,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  8.1931e+01 MeV - 9.7169e+01 MeV 
+# Residual: 
+#   Z: 102 
+#   A: 256 
+#   Nuclide: 102-NO-256 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1266-003-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-242(8-O-18,X)102-NO-256,,SIG) 
+#   First author: G.N.Flerov 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,YF,5,1186,1967) 
+#   Year:  1967 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F12/F1266.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1266
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.1931E+01        5.4000E-02        4.9210E-09        2.9270E-09
+        8.4952E+01        5.4000E-02        1.7760E-08        6.2300E-09
+        9.2155E+01        5.4000E-02        1.6450E-08        2.9330E-09
+        9.7169E+01        5.4000E-02        2.9940E-09        1.9570E-09

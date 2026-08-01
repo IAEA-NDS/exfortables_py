@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 22-TI-48(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 22 
+#   A: 48 
+#   Nuclide: 22-TI-48 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  5.0000e+00 MeV - 1.1000e+01 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 51 
+#   Nuclide: 24-CR-51 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0951-002-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-48(A,N)24-CR-51,,SIG) 
+#   First author: C.N.Chang 
+#   Institute:  (1USAOSU): Ohio State University, Columbus, OH 
+#   Reference:  (J,NIM,109,327,1973) 
+#   Year:  1973 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C09/C0951.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0951
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.0000E+00        0.0000E+00        4.9600E-06        7.9360E-07
+        6.0000E+00        0.0000E+00        4.0000E-03        6.4000E-04
+        7.0000E+00        0.0000E+00        4.3000E-02        6.0200E-03
+        8.0000E+00        0.0000E+00        1.0040E-01        1.4056E-02
+        9.0000E+00        0.0000E+00        2.3800E-01        3.3320E-02
+        1.0000E+01        0.0000E+00        2.5040E-01        3.5056E-02
+        1.1000E+01        0.0000E+00        3.2720E-01        4.5808E-02

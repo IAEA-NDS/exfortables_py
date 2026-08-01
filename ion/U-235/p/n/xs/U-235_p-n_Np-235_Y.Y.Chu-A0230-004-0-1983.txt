@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-235(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.0000e+02 MeV 
+# Residual: 
+#   Z: 93 
+#   A: 235 
+#   Nuclide: 93-NP-235 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0230-004-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(P,N)93-NP-235,,SIG) 
+#   First author: Y.Y.Chu 
+#   Institute:  (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference:  (J,IRE,30,1153,1983) 
+#   Year:  1983 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0230.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0230
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.0000E+02        0.0000E+00        4.8000E-04        5.0000E-05

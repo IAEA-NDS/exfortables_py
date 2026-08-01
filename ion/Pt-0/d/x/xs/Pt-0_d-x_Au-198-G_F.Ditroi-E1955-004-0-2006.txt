@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 78-PT-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 78 
+#   A: 0 
+#   Nuclide: 78-PT-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  9.6000e+00 MeV - 3.8900e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 198 
+#   Nuclide: 79-AU-198-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1955-004-0 (entry-subentry-pointer) 
+#   Reaction code: (78-PT-0(D,X)79-AU-198-G,IND,SIG) 
+#   First author: F.Ditroi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,243,(1),20,200601) 
+#   Year:  2006 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1955.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1955
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.6000E+00        9.0000E-01        8.8000E-03        1.0000E-03
+        1.7900E+01        8.0000E-01        9.1000E-03        1.1000E-03
+        2.2300E+01        8.0000E-01        7.0000E-03        8.0000E-04
+        2.6200E+01        7.0000E-01        4.9000E-03        8.0000E-04
+        2.9700E+01        7.0000E-01        4.1000E-03        5.0000E-04
+        3.2900E+01        7.0000E-01        3.2000E-03        4.0000E-04
+        3.5900E+01        6.0000E-01        2.9000E-03        4.0000E-04
+        3.8900E+01        6.0000E-01        3.6000E-03        5.0000E-04

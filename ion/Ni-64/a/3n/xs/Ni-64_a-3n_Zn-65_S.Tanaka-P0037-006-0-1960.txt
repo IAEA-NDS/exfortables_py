@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 28-NI-64(A,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 64 
+#   Nuclide: 28-NI-64 
+# Reaction: 
+#   Process: A,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  3.1100e+01 MeV - 3.7900e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 65 
+#   Nuclide: 30-ZN-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: P0037-006-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-64(A,3N)30-ZN-65,,SIG) 
+#   First author: S.Tanaka 
+#   Institute:  (2JPNTOK): University of Tokyo, Tokyo 
+#   Reference:  (J,JPJ,15,2159,1960) 
+#   Year:  1960 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P00/P0037.x4 
+#   nds:  https://nds.iaea.org/EXFOR/P0037
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.1100E+01        0.0000E+00        1.4900E-01        0.0000E+00
+        3.1200E+01        0.0000E+00        1.4300E-01        0.0000E+00
+        3.1600E+01        0.0000E+00        1.4500E-01        0.0000E+00
+        3.3300E+01        0.0000E+00        1.6900E-01        0.0000E+00
+        3.3600E+01        0.0000E+00        1.9100E-01        0.0000E+00
+        3.5300E+01        0.0000E+00        1.9300E-01        0.0000E+00
+        3.5400E+01        0.0000E+00        2.1500E-01        0.0000E+00
+        3.7900E+01        0.0000E+00        2.1600E-01        0.0000E+00

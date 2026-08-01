@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 37-RB-87(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 37 
+#   A: 87 
+#   Nuclide: 37-RB-87 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.2380e+00 MeV - 1.4920e+00 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 87 
+#   Nuclide: 38-SR-87-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2258-002-0 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-87(P,N)38-SR-87-M,,SIG) 
+#   First author: K.Miyano 
+#   Institute:  (2JPNTOK): University of Tokyo, Tokyo 
+#   Reference:  (J,JPJ,23,895,1967) 
+#   Year:  1967 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E22/E2258.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2258
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2380E+00        0.0000E+00        1.1110E-32        5.6040E-33
+        1.3220E+00        0.0000E+00        4.2380E-32        2.7070E-32
+        1.3630E+00        0.0000E+00        1.0260E-31        3.2780E-32
+        1.4920E+00        0.0000E+00        8.6540E-31        3.0240E-31

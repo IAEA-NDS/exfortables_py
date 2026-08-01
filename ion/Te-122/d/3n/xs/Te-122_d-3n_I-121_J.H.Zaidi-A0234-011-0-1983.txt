@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 52-TE-122(D,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 52 
+#   A: 122 
+#   Nuclide: 52-TE-122 
+# Reaction: 
+#   Process: D,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  1.8979e+01 MeV - 3.9451e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 121 
+#   Nuclide: 53-I-121 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0234-011-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-122(D,3N)53-I-121,,SIG) 
+#   First author: J.H.Zaidi 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,ARI,34,1425,1983) 
+#   Year:  1983 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0234.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0234
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.8979E+01        2.8000E-02        5.0330E-03        3.7100E-04
+        2.0847E+01        2.8000E-02        1.5325E-02        1.2830E-03
+        2.2082E+01        2.8000E-02        4.5177E-02        4.2320E-03
+        2.2973E+01        2.8000E-02        7.1451E-02        6.6930E-03
+        2.6362E+01        2.8000E-02        2.2216E-01        1.6366E-02
+        2.9365E+01        2.8000E-02        3.4330E-01        1.8263E-02
+        3.1686E+01        2.8000E-02        3.1068E-01        1.6520E-02
+        3.3795E+01        2.8000E-02        2.4935E-01        1.3259E-02
+        3.5315E+01        2.8000E-02        2.2826E-01        9.7570E-03
+        3.6750E+01        2.8000E-02        2.1358E-01        9.1350E-03
+        3.8481E+01        2.8000E-02        1.9763E-01        8.4480E-03
+        3.8987E+01        2.8000E-02        1.9120E-01        8.1730E-03
+        3.9451E+01        2.8000E-02        1.7135E-01        7.3330E-03

@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 69-TM-169(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 69 
+#   A: 169 
+#   Nuclide: 69-TM-169 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.5900e+01 MeV - 5.6500e+01 MeV 
+# Residual: 
+#   Z: 71 
+#   A: 172 
+#   Nuclide: 71-LU-172 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6206-002-0 (entry-subentry-pointer) 
+#   Reaction code: (69-TM-169(A,N)71-LU-172,,SIG) 
+#   First author: A.V.Mohan Rao 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,JPJ,63,(1),84,1994) 
+#   Year:  1994 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D62/D6206.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6206
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5900E+01        0.0000E+00        2.4100E-02        3.2000E-03
+        2.0900E+01        0.0000E+00        6.0500E-02        8.0000E-03
+        2.5700E+01        0.0000E+00        1.9800E-02        1.5000E-03
+        2.9800E+01        0.0000E+00        1.5900E-02        1.2000E-03
+        3.2500E+01        0.0000E+00        1.1500E-02        1.2000E-03
+        3.3250E+01        0.0000E+00        7.5000E-03        8.0000E-04
+        3.9500E+01        0.0000E+00        7.2800E-03        7.0000E-04
+        4.4500E+01        0.0000E+00        4.7000E-03        4.0000E-04
+        5.1100E+01        0.0000E+00        3.7000E-03        4.0000E-04
+        5.6500E+01        0.0000E+00        2.8000E-03        3.0000E-04

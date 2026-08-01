@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 92-U-235(5-B-11,4N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: 5-B-11,4N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.4973e+01 MeV - 6.4510e+01 MeV 
+# Residual: 
+#   Z: 97 
+#   A: 242 
+#   Nuclide: 97-BK-242 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2541-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(5-B-11,4N)97-BK-242,,SIG) 
+#   First author: K.E.Williams 
+#   Institute:  (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
+#   Reference:  (J,PR/C,19,1794,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C25/C2541.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2541
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.4973E+01        1.5670E+00        3.9490E-06        1.5520E-06
+        5.9946E+01        1.2260E+00        1.0190E-05        1.9180E-06
+        6.1240E+01        1.2260E+00        3.6840E-06        1.5310E-06
+        6.4510E+01        1.4310E+00        7.4450E-07        2.5120E-07

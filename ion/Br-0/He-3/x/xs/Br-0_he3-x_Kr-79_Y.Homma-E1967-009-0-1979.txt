@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 35-BR-0(HE3,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 35 
+#   A: 0 
+#   Nuclide: 35-BR-0 
+# Reaction: 
+#   Process: HE3,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.1800e+01 MeV - 3.7660e+01 MeV 
+# Residual: 
+#   Z: 36 
+#   A: 79 
+#   Nuclide: 36-KR-79 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1967-009-0 (entry-subentry-pointer) 
+#   Reaction code: (35-BR-0(HE3,X)36-KR-79,CUM,SIG) 
+#   First author: Y.Homma 
+#   Institute:  (2JPNKYO): Kyoritsu College of Pharmacy, Tokyo 
+#   Reference:  (J,ARI,30,345,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1967.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1967
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1800E+01        1.4090E+00        2.5630E-03        7.5370E-04
+        1.7350E+01        0.0000E+00        1.2560E-02        1.3630E-03
+        2.2040E+01        0.0000E+00        5.3810E-02        5.2320E-03
+        2.5780E+01        0.0000E+00        1.7630E-01        0.0000E+00
+        2.8940E+01        0.0000E+00        9.5030E-02        7.1100E-03
+        3.2370E+01        0.0000E+00        5.1770E-02        3.8730E-03
+        3.5120E+01        0.0000E+00        9.3240E-02        6.9760E-03
+        3.7660E+01        0.0000E+00        2.0850E-01        0.0000E+00

@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 29-CU-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.5280e+01 MeV - 5.5400e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 61 
+#   Nuclide: 29-CU-61 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C3074-010-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(P,X)29-CU-61,CUM,SIG) 
+#   First author: J.T.Morrell 
+#   Institute:  (1USAUCX): University of California, Berkeley, CA 
+#   Reference:  (J,EPJ/A,56,13,2020) 
+#   Year:  2020 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C30/C3074.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C3074
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.5280E+01        4.5000E-01        1.8270E-01        4.4000E-03
+        3.8370E+01        4.2000E-01        1.8330E-01        7.2000E-03
+        4.1250E+01        4.0000E-01        1.6470E-01        9.3000E-03
+        4.4000E+01        3.8000E-01        1.4240E-01        2.0000E-03
+        4.6620E+01        3.6000E-01        1.2030E-01        3.5000E-03
+        4.8460E+01        3.5000E-01        1.1030E-01        3.7000E-03
+        5.0260E+01        3.4000E-01        1.0110E-01        3.1000E-03
+        5.2020E+01        3.4000E-01        9.3000E-02        1.8000E-03
+        5.3730E+01        3.3000E-01        8.9700E-02        3.3000E-03
+        5.5400E+01        3.2000E-01        8.3200E-02        2.7000E-03

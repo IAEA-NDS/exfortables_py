@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 13-AL-27(A,3P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: A,3P 
+#   MF-MT number: 3 - 197 
+#   Incident energy:  8.6400e+01 MeV - 1.7000e+02 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 28 
+#   Nuclide: 12-MG-28 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0517-015-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(A,3P)12-MG-28,,SIG) 
+#   First author: H.-J.Lange 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,ARI,46,93,1995) 
+#   Year:  1995 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0517.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0517
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.6400E+01        1.9000E+00        2.3000E-04        2.9000E-05
+        9.9700E+01        1.7000E+00        1.9700E-04        2.7000E-05
+        1.1200E+02        1.7000E+00        1.5800E-04        2.4000E-05
+        1.2500E+02        1.4000E+00        1.2100E-04        2.4000E-05
+        1.3600E+02        1.3000E+00        1.1100E-04        2.2000E-05
+        1.4800E+02        1.2000E+00        1.0000E-04        2.1000E-05
+        1.5900E+02        1.1000E+00        8.7000E-05        1.9000E-05
+        1.7000E+02        3.0000E-01        8.0000E-05        2.9000E-05

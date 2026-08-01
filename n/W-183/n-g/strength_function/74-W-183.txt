@@ -1,7 +1,7 @@
 # Header: 
-#   title: 74-W-183(N,G) strength_function cross section 
+#   title: 74-W-183(N,G) strength function 
 #   source: EXFOR 
-#   date created: 2026-06-11 
+#   date created: 2026-08-01 
 # Target: 
 #   Z: 74 
 #   A: 183 
@@ -20,12 +20,12 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
-40977-020-0         V.N.Kononov             1987   2.0250E-01   0.0000E+00   4.3000E-03   0.0000E+00                
-40977-020-0         V.N.Kononov             1987   2.0250E-01   0.0000E+00   3.7000E-03   0.0000E+00                
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [NO-DIM]     dData         sf8    sf9
 40778-070-0         S.P.Kapchigashev        1966   2.5000E-02   0.0000E+00   9.5000E-04   0.0000E+00                
+40977-020-0         V.N.Kononov             1987   2.0250E-01   0.0000E+00   3.7000E-03   0.0000E+00                
+40977-020-0         V.N.Kononov             1987   2.0250E-01   0.0000E+00   4.3000E-03   0.0000E+00                
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [NO-DIM]     dData         sf8    sf9
+10999-011-2         R.L.Macklin             1983   5.7800E-02   3.4658E-06          NAN   0.0000E+00           DERIV
+10999-011-2         R.L.Macklin             1983   5.7800E-02   3.4658E-06          NAN   0.0000E+00           DERIV
 10999-011-2         R.L.Macklin             1983   5.7800E-02   3.4658E-06   4.5600E-03   0.0000E+00           DERIV
-10999-011-2         R.L.Macklin             1983   5.7800E-02   3.4658E-06          NAN   0.0000E+00           DERIV
-10999-011-2         R.L.Macklin             1983   5.7800E-02   3.4658E-06          NAN   0.0000E+00           DERIV

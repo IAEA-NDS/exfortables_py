@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 83-BI-209(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.5100e+02 MeV - 1.5700e+03 MeV 
+# Residual: 
+#   Z: 74 
+#   A: 178 
+#   Nuclide: 74-W-178 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1099-245-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(P,X)74-W-178,CUM,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERUH): University Hannover (previously Tech.University Hannover) 
+#   Reference:  (J,NSTS,2,242,2002) 
+#   Year:  2002 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O10/O1099.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1099
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.5100E+02        1.6900E+00        1.8210E-02        5.1580E-03
+        7.5700E+02        1.6500E+00        2.0940E-02        4.4080E-03
+        9.9800E+02        6.9000E-01        2.7240E-02        2.3320E-03
+        1.1700E+03        1.4500E+00        2.2190E-02        5.3180E-03
+        1.3980E+03        6.8590E-01        2.4880E-02        2.1700E-03
+        1.5700E+03        1.4700E+00        1.9730E-02        5.3520E-03

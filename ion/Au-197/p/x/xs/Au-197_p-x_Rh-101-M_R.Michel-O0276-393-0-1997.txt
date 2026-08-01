@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 79-AU-197(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.1600e+02 MeV - 2.6000e+03 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 101 
+#   Nuclide: 45-RH-101-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0276-393-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(P,X)45-RH-101-M,CUM,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,NIM/B,129,153,1997) 
+#   Year:  1997 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0276
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.1600E+02        0.0000E+00        3.6300E-05        9.0000E-06
+        2.6100E+02        0.0000E+00        2.0400E-04        2.7800E-05
+        3.2900E+02        0.0000E+00        3.7100E-04        4.9000E-05
+        3.6700E+02        0.0000E+00        5.8200E-04        6.3600E-05
+        2.6000E+03        0.0000E+00        5.0100E-03        4.5100E-04

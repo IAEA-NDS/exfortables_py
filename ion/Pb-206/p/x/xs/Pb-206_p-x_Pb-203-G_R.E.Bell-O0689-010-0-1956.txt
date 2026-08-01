@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 82-PB-206(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 82 
+#   A: 206 
+#   Nuclide: 82-PB-206 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.1000e+01 MeV - 6.3800e+01 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 203 
+#   Nuclide: 82-PB-203-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0689-010-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-206(P,X)82-PB-203-G,CUM,SIG) 
+#   First author: R.E.Bell 
+#   Institute:  (1CANMCG): McGill University, Montreal,Quebec 
+#   Reference:  (J,CJP,34,745,1956) 
+#   Year:  1956 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0689.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0689
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.1000E+01        0.0000E+00        6.0000E-02        9.0000E-03
+        3.4000E+01        0.0000E+00        3.7000E-01        5.5500E-02
+        3.5900E+01        0.0000E+00        4.9000E-01        7.3500E-02
+        3.6600E+01        0.0000E+00        6.2000E-01        9.3000E-02
+        3.9800E+01        0.0000E+00        9.1000E-01        1.3650E-01
+        4.1200E+01        0.0000E+00        1.1100E+00        1.6650E-01
+        4.5400E+01        0.0000E+00        1.0300E+00        1.5450E-01
+        4.5800E+01        0.0000E+00        9.7000E-01        1.4550E-01
+        4.9000E+01        0.0000E+00        5.2000E-01        7.8000E-02
+        5.2500E+01        0.0000E+00        4.7000E-01        7.0500E-02
+        5.6300E+01        0.0000E+00        3.0000E-01        4.5000E-02
+        6.3800E+01        0.0000E+00        2.1000E-01        3.1500E-02

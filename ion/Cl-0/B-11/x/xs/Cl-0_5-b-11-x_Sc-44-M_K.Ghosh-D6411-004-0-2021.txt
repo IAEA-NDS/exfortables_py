@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 17-CL-0(5-B-11,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 17 
+#   A: 0 
+#   Nuclide: 17-CL-0 
+# Reaction: 
+#   Process: 5-B-11,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.5200e+01 MeV - 6.1900e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 44 
+#   Nuclide: 21-SC-44-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6411-004-0 (entry-subentry-pointer) 
+#   Reaction code: (17-CL-0(5-B-11,X)21-SC-44-M,,SIG) 
+#   First author: K.Ghosh 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,ARI,178,109966,2021) 
+#   Year:  2021 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D64/D6411.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6411
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.5200E+01        0.0000E+00        3.9600E-01        4.5000E-02
+        4.4900E+01        0.0000E+00        3.3300E-01        3.7000E-02
+        5.3800E+01        0.0000E+00        1.6500E-01        1.8000E-02
+        6.1900E+01        0.0000E+00        7.4000E-02        9.0000E-03

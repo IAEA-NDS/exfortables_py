@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 32-GE-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 32 
+#   A: 0 
+#   Nuclide: 32-GE-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.8900e+01 MeV - 6.4080e+01 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 73 
+#   Nuclide: 33-AS-73 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1968-004-0 (entry-subentry-pointer) 
+#   Reaction code: (32-GE-0(P,X)33-AS-73,,SIG) 
+#   First author: T.Horiguchi 
+#   Institute:  (2JPNHIR): Hiroshima University , Hiroshima and Higashi-Hiroshima 
+#   Reference:  (J,ARI,34,1531,1983) 
+#   Year:  1983 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1968.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1968
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.8900E+01        9.4500E-02        3.6110E-01        5.7776E-02
+        2.4510E+01        1.2255E-01        3.1240E-01        4.9984E-02
+        2.9390E+01        1.4695E-01        1.5670E-01        2.5072E-02
+        3.1260E+01        1.5630E-01        1.0910E-01        1.7456E-02
+        3.3550E+01        1.6775E-01        8.6930E-02        1.3909E-02
+        3.5310E+01        1.7655E-01        7.9690E-02        1.2750E-02
+        3.9150E+01        1.9575E-01        7.5580E-02        1.2093E-02
+        4.0820E+01        2.0410E-01        7.2380E-02        1.1581E-02
+        4.2790E+01        2.1395E-01        7.3430E-02        1.1749E-02
+        4.4450E+01        2.2225E-01        6.8960E-02        1.1034E-02
+        4.7460E+01        2.3730E-01        6.2920E-02        1.0067E-02
+        4.8610E+01        2.4305E-01        5.9090E-02        9.4544E-03
+        5.0680E+01        2.5340E-01        5.5240E-02        8.8384E-03
+        5.1820E+01        2.5910E-01        5.1130E-02        8.1808E-03
+        5.4730E+01        2.7365E-01        4.4220E-02        7.0752E-03
+        5.5460E+01        2.7730E-01        4.2770E-02        6.8432E-03
+        5.7640E+01        2.8820E-01        3.8450E-02        6.1520E-03
+        5.8680E+01        2.9340E-01        3.8090E-02        6.0944E-03
+        6.1380E+01        3.0690E-01        3.4580E-02        5.5328E-03
+        6.4080E+01        3.2040E-01        3.0200E-02        4.8320E-03

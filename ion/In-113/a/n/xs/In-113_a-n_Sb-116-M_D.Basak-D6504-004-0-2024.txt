@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 49-IN-113(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 49 
+#   A: 113 
+#   Nuclide: 49-IN-113 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  9.8000e+00 MeV - 1.7780e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 116 
+#   Nuclide: 51-SB-116-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6504-004-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-113(A,N)51-SB-116-M,,SIG) 
+#   First author: D.Basak 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,PR/C,110,065807,2024) 
+#   Year:  2024 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D65/D6504.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6504
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.8000E+00        6.7000E-01        9.0000E-09        2.0000E-09
+        1.0800E+01        5.9000E-01        4.0000E-08        1.0000E-08
+        1.3880E+01        5.4000E-01        1.2200E-05        1.5000E-06
+        1.4880E+01        5.1000E-01        2.4900E-05        3.1000E-06
+        1.5830E+01        4.7000E-01        3.5900E-05        4.4000E-06
+        1.6900E+01        4.3000E-01        1.0600E-04        1.3000E-05
+        1.7780E+01        4.0000E-01        1.4600E-04        1.8000E-05

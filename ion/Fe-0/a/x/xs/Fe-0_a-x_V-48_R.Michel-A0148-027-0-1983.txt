@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 26-FE-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 26 
+#   A: 0 
+#   Nuclide: 26-FE-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.5260e+01 MeV - 1.7103e+02 MeV 
+# Residual: 
+#   Z: 23 
+#   A: 48 
+#   Nuclide: 23-V-48 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0148-027-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-0(A,X)23-V-48,,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,RCA,32,173,1983) 
+#   Year:  1983 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A01/A0148.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0148
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.5260E+01        1.2500E+00        6.1600E-05        9.9000E-06
+        6.0750E+01        1.1600E+00        7.8900E-04        9.5000E-05
+        6.8210E+01        1.0700E+00        2.5500E-03        3.1000E-04
+        7.5100E+01        9.7000E-01        3.5500E-03        3.9000E-04
+        8.1520E+01        8.7000E-01        4.0400E-03        4.4000E-04
+        8.3580E+01        1.3700E+00        3.9900E-03        4.8000E-04
+        8.7550E+01        7.5000E-01        6.9900E-03        7.0000E-04
+        9.4860E+01        1.2800E+00        1.4200E-02        1.3000E-03
+        1.0517E+02        1.1900E+00        2.8800E-02        2.6000E-03
+        1.1474E+02        1.1200E+00        3.2800E-02        2.9000E-03
+        1.2375E+02        1.0500E+00        3.2600E-02        2.9000E-03
+        1.3363E+02        9.7000E-01        3.6000E-02        3.2000E-03
+        1.4292E+02        8.9000E-01        4.0400E-02        3.6000E-03
+        1.5187E+02        8.0000E-01        4.4900E-02        4.0000E-03
+        1.6170E+02        6.8000E-01        4.7200E-02        4.2000E-03
+        1.7103E+02        5.0000E-01        4.7800E-02        4.3000E-03

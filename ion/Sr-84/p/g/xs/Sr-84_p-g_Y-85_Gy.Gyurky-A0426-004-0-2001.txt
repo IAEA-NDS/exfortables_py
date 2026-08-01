@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 38-SR-84(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 38 
+#   A: 84 
+#   Nuclide: 38-SR-84 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.6730e+00 MeV - 2.9620e+00 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 85 
+#   Nuclide: 39-Y-85 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0426-004-0 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-84(P,G)39-Y-85,,SIG) 
+#   First author: Gy.Gyurky 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,PR/C,64,065803,2001) 
+#   Year:  2001 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0426.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0426
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        1.6730E+00        0.0000E+00        3.1500E-06        1.2000E-06
+        1.7740E+00        0.0000E+00        9.6100E-06        1.9000E-06
+        1.8710E+00        0.0000E+00        1.8400E-05        3.4000E-06
+        1.9730E+00        0.0000E+00        3.5000E-05        6.5000E-06
+        2.0710E+00        0.0000E+00        3.8000E-05        6.9000E-06
+        2.1700E+00        0.0000E+00        7.5200E-05        1.3200E-05
+        2.2670E+00        0.0000E+00        8.2300E-05        1.4500E-05
+        2.3680E+00        0.0000E+00        1.6920E-04        2.6200E-05
+        2.4680E+00        0.0000E+00        2.0690E-04        3.5300E-05
+        2.5660E+00        0.0000E+00        2.5730E-04        3.8700E-05
+        2.6640E+00        0.0000E+00        3.6810E-04        5.6900E-05
+        2.7640E+00        0.0000E+00        3.8540E-04        5.9400E-05
+        2.8360E+00        0.0000E+00        5.8300E-04        8.4500E-05
+        2.9620E+00        0.0000E+00        9.9940E-04        1.4740E-04

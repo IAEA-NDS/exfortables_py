@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 13-AL-27(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.0000e-06 MeV - 3.6500e-06 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1258-002-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(D,X)11-NA-24,,SIG) 
+#   First author: P.Kozma 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,CZJ,40,393,1990) 
+#   Year:  1990 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F12/F1258.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1258
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.0000E-06        0.0000E+00        1.4100E-02        1.3000E-03
+        3.6500E-06        0.0000E+00        1.4700E-02        1.2000E-03

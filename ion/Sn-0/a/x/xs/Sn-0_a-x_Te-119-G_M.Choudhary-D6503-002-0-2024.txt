@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 50-SN-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 50 
+#   A: 0 
+#   Nuclide: 50-SN-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.7360e+01 MeV - 3.8520e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 119 
+#   Nuclide: 52-TE-119-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6503-002-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-0(A,X)52-TE-119-G,,SIG) 
+#   First author: M.Choudhary 
+#   Institute:  (3INDBHU): Banaras Hindu University , Varanasi 
+#   Reference:  (J,RCA,112,455,2024) 
+#   Year:  2024 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D65/D6503.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6503
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.7360E+01        1.4800E+00        5.1730E-02        8.1500E-03
+        2.2010E+01        1.3400E+00        1.0153E-01        8.3000E-03
+        2.5070E+01        1.8800E+00        5.5080E-02        3.1600E-03
+        2.6090E+01        9.0000E-01        3.9960E-02        4.4900E-03
+        2.8840E+01        1.7300E+00        4.3100E-02        2.4400E-03
+        3.2290E+01        1.5800E+00        4.7170E-02        2.6100E-03
+        3.5500E+01        1.3300E+00        1.8348E-01        1.0770E-02
+        3.8520E+01        9.2000E-01        1.7273E-01        9.7300E-03

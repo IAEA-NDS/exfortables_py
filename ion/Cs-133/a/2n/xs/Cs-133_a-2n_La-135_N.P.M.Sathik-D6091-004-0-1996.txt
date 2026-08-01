@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 55-CS-133(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 55 
+#   A: 133 
+#   Nuclide: 55-CS-133 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.8060e+01 MeV - 4.7500e+01 MeV 
+# Residual: 
+#   Z: 57 
+#   A: 135 
+#   Nuclide: 57-LA-135 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6091-004-0 (entry-subentry-pointer) 
+#   Reaction code: (55-CS-133(A,2N)57-LA-135,,SIG) 
+#   First author: N.P.M.Sathik 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  (J,PRM,47,(5),401,1996) 
+#   Year:  1996 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6091.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6091
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.8060E+01        5.7000E-01        1.1870E-01        1.7700E-02
+        1.9780E+01        5.6000E-01        5.4510E-01        7.0300E-02
+        2.1390E+01        5.6000E-01        9.6130E-01        1.2000E-01
+        2.4260E+01        5.6000E-01        1.0988E+00        1.2640E-01
+        2.6870E+01        5.5000E-01        1.1548E+00        1.3350E-01
+        3.0370E+01        5.5000E-01        5.0010E-01        5.7800E-02
+        3.3630E+01        5.4000E-01        2.5930E-01        3.7100E-02
+        3.6680E+01        5.4000E-01        2.4190E-01        3.4500E-02
+        3.9570E+01        5.4000E-01        1.7390E-01        2.8800E-02
+        4.2360E+01        5.4000E-01        1.0790E-01        2.5600E-02
+        4.4990E+01        5.3000E-01        1.2590E-01        4.1200E-02
+        4.7500E+01        5.3000E-01        9.8700E-02        4.7900E-02

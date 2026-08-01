@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 28-NI-64(A,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 64 
+#   Nuclide: 28-NI-64 
+# Reaction: 
+#   Process: A,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.9460e+01 MeV - 3.8450e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 67 
+#   Nuclide: 29-CU-67 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6467-006-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-64(A,P)29-CU-67,,SIG) 
+#   First author: N.Singh 
+#   Institute:  (3INDBHU): Banaras Hindu University , Varanasi 
+#   Reference:  (J,EPJ/A,60,24,2024) 
+#   Year:  2024 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D64/D6467.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6467
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.9460E+01        7.5000E-01        6.8530E-03        5.0000E-05
+        2.1670E+01        1.0000E+00        1.0255E-02        1.1000E-04
+        2.4080E+01        6.4000E-01        2.2418E-02        1.6000E-04
+        2.5970E+01        9.3000E-01        1.6978E-02        1.5000E-04
+        2.8150E+01        1.0300E+00        2.1478E-02        1.5000E-04
+        3.1850E+01        3.2000E-01        2.1715E-02        1.5000E-04
+        3.5260E+01        1.7300E+00        1.8573E-02        1.3000E-04
+        3.8450E+01        1.1500E+00        1.1061E-02        7.0000E-05

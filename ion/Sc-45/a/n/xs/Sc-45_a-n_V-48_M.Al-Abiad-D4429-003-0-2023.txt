@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 21-SC-45(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 21 
+#   A: 45 
+#   Nuclide: 21-SC-45 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  7.5000e+00 MeV - 1.9400e+01 MeV 
+# Residual: 
+#   Z: 23 
+#   A: 48 
+#   Nuclide: 23-V-48 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4429-003-0 (entry-subentry-pointer) 
+#   Reaction code: (21-SC-45(A,N)23-V-48,,SIG) 
+#   First author: M.Al-Abiad 
+#   Institute:  (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
+#   Reference:  (J,IJP,97,2787,2023) 
+#   Year:  2023 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4429.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4429
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.5000E+00        0.0000E+00        1.5010E-01        1.8300E-02
+        9.4000E+00        0.0000E+00        3.5100E-01        3.9600E-02
+        1.4800E+01        0.0000E+00        3.9120E-01        4.4200E-02
+        1.6300E+01        0.0000E+00        2.7210E-01        3.0800E-02
+        1.6700E+01        0.0000E+00        2.6780E-01        3.0200E-02
+        1.7700E+01        0.0000E+00        1.7980E-01        2.0500E-02
+        1.8100E+01        0.0000E+00        1.8410E-01        2.0800E-02
+        1.9400E+01        0.0000E+00        1.1910E-01        1.3500E-02

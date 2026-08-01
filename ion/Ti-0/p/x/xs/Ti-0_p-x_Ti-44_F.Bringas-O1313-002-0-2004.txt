@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 22-TI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 22 
+#   A: 0 
+#   Nuclide: 22-TI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.1300e+01 MeV - 2.8600e+01 MeV 
+# Residual: 
+#   Z: 22 
+#   A: 44 
+#   Nuclide: 22-TI-44 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1313-002-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-0(P,X)22-TI-44,CUM,SIG) 
+#   First author: F.Bringas 
+#   Institute:  (3BZLUSP): University de Sao Paulo, Sao Paulo 
+#   Reference:  (C,2004SANTA,2,1374,2004) 
+#   Year:  2004 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O13/O1313.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1313
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.1300E+01        4.0000E-01        1.2000E-04        4.0000E-05
+        2.6400E+01        6.0000E-01        1.3000E-04        3.0000E-05
+        2.8600E+01        5.0000E-01        3.0000E-04        4.0000E-05

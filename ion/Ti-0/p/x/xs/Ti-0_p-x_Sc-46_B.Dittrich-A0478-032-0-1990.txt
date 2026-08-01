@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 22-TI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 22 
+#   A: 0 
+#   Nuclide: 22-TI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  8.0000e+02 MeV - 2.6000e+03 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 46 
+#   Nuclide: 21-SC-46 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0478-032-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-0(P,X)21-SC-46,,SIG) 
+#   First author: B.Dittrich 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  ((P,NEANDC(E)-312U,(5),46,1990)=(P,INDC(GER)-035/LN,46,1990)) 
+#   Year:  1990 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0478.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0478
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.0000E+02        0.0000E+00        3.4200E-02        2.4000E-03
+        1.2000E+03        0.0000E+00        3.3800E-02        2.5000E-03
+        2.6000E+03        0.0000E+00        2.8100E-02        2.0000E-03

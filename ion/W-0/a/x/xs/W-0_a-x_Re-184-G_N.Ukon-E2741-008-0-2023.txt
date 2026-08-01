@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 74-W-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 74 
+#   A: 0 
+#   Nuclide: 74-W-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.6700e+01 MeV - 4.9700e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 184 
+#   Nuclide: 75-RE-184-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2741-008-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-0(A,X)75-RE-184-G,,SIG) 
+#   First author: N.Ukon 
+#   Institute:  (2JPNJPN): Japan 
+#   Reference:  (J,NIM/B,539,95,2023) 
+#   Year:  2023 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E27/E2741.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2741
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.6700E+01        0.0000E+00        9.5000E-04        9.8000E-05
+        3.0200E+01        0.0000E+00        2.7500E-03        3.0000E-04
+        3.3500E+01        0.0000E+00        5.1100E-03        4.7000E-04
+        3.6500E+01        0.0000E+00        7.7200E-03        6.7000E-04
+        3.9400E+01        0.0000E+00        1.0000E-02        9.0000E-04
+        4.2100E+01        0.0000E+00        1.1700E-02        1.4000E-03
+        4.4800E+01        0.0000E+00        1.5200E-02        1.9000E-03
+        4.7300E+01        0.0000E+00        1.7200E-02        2.1000E-03
+        4.9700E+01        0.0000E+00        1.8800E-02        2.1000E-03

@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 18-AR-40(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 18 
+#   A: 40 
+#   Nuclide: 18-AR-40 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.8600e+01 MeV - 3.6800e+01 MeV 
+# Residual: 
+#   Z: 19 
+#   A: 42 
+#   Nuclide: 19-K-42 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: P0125-002-0 (entry-subentry-pointer) 
+#   Reaction code: (18-AR-40(A,X)19-K-42,,SIG) 
+#   First author: S.Tanaka 
+#   Institute:  (2JPNTOK): University of Tokyo, Tokyo 
+#   Reference:  (J,JPJ,15,952,1960) 
+#   Year:  1960 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P01/P0125.x4 
+#   nds:  https://nds.iaea.org/EXFOR/P0125
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.8600E+01        5.7500E-01        8.0900E-03        9.6400E-04
+        2.2400E+01        4.0000E-01        5.9700E-02        0.0000E+00
+        2.6300E+01        5.5000E-01        1.3400E-01        0.0000E+00
+        2.8800E+01        5.0000E-01        1.7900E-01        2.0200E-02
+        3.1600E+01        4.0000E-01        1.6400E-01        0.0000E+00
+        3.4300E+01        3.7500E-01        1.6000E-01        0.0000E+00
+        3.6800E+01        4.0000E-01        1.2000E-01        1.3300E-02

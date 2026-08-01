@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 41-NB-93(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.4100e+01 MeV - 4.8300e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 87 
+#   Nuclide: 39-Y-87-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4344-010-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(D,X)39-Y-87-M,(CUM),SIG) 
+#   First author: F.Ditroi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,373,17,2016) 
+#   Year:  2016 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4344.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4344
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.4100E+01        4.0000E-01        3.1000E-04        5.0000E-05
+        4.6200E+01        4.0000E-01        1.3100E-03        2.0000E-04
+        4.8300E+01        3.0000E-01        4.0700E-03        4.9000E-04

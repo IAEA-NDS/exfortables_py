@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 13-AL-27(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.5500e+01 MeV - 3.2000e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 22 
+#   Nuclide: 11-NA-22 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4101-002-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(P,X)11-NA-22,,SIG) 
+#   First author: R.E.Batzel 
+#   Institute:  (1USACRD): California Research and Development Co., Livermore,CA 
+#   Reference:  (J,PR,93,280,1954) 
+#   Year:  1954 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4101.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4101
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.5500E+01        0.0000E+00        3.0000E-06        0.0000E+00
+        2.6700E+01        0.0000E+00        1.7000E-05        0.0000E+00
+        2.7800E+01        0.0000E+00        6.0000E-05        0.0000E+00
+        2.9000E+01        0.0000E+00        2.2000E-04        0.0000E+00
+        3.0000E+01        0.0000E+00        5.2000E-04        0.0000E+00
+        3.1000E+01        0.0000E+00        1.2900E-03        0.0000E+00
+        3.2000E+01        0.0000E+00        2.6300E-03        0.0000E+00

@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 46-PD-104(P,X)  Energy distribution 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 46 
+#   A: 104 
+#   Nuclide: 46-PD-104 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 5 - None 
+#   Incident energy:  1.8000e+01 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 1 
+#   Nuclide: 0-NN-1 
+#   Outgoing energy:  4.1900e+00 MeV - 1.2270e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O0536-006-0 (entry-subentry-pointer) 
+#   Reaction code: (46-PD-104(P,X)0-NN-1,,DE) 
+#   First author: S.M.Grimes 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR/C,13,2224,1976) 
+#   Year:  1976 
+#   Facility:  (CYGFF): Cyclograaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0536.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0536
+#
+#   E_out_cm(MeV)    dE_out_cm(MeV)     data_cm(B/EV)    ddata_cm(B/EV)
+        1.2270E+01        5.0000E-02        6.6000E-10        1.0560E-11
+        1.1150E+01        5.0000E-02        1.6200E-09        2.5920E-11
+        1.0240E+01        5.0000E-02        2.6900E-09        4.3040E-11
+        9.1700E+00        5.0000E-02        4.3500E-09        6.9600E-11
+        8.0300E+00        5.0000E-02        7.5700E-09        1.2112E-10
+        7.1900E+00        5.0000E-02        1.2590E-08        2.0144E-10
+        6.3900E+00        5.0000E-02        2.1600E-08        3.4560E-10
+        5.2600E+00        5.0000E-02        5.3800E-08        8.6080E-10
+        4.1900E+00        5.0000E-02        1.2610E-07        2.0176E-09

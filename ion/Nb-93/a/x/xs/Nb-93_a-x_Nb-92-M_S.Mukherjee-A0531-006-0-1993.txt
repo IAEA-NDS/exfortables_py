@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 41-NB-93(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.1200e+01 MeV - 4.2000e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 92 
+#   Nuclide: 41-NB-92-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0531-006-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(A,X)41-NB-92-M,,SIG) 
+#   First author: S.Mukherjee 
+#   Institute:  (3INDVEC): Variable Energy Cyclotron Centre, Kolkata 
+#   Reference:  (J,PRM,41,329,1993) 
+#   Year:  1993 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0531.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0531
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.1200E+01        0.0000E+00        3.1400E-03        4.7000E-04
+        2.4400E+01        0.0000E+00        1.4600E-02        2.8000E-03
+        2.9500E+01        0.0000E+00        2.6400E-02        3.9000E-03
+        3.4300E+01        0.0000E+00        3.2300E-02        3.9000E-03
+        3.8000E+01        0.0000E+00        3.9600E-02        4.7000E-03
+        4.2000E+01        0.0000E+00        4.3400E-02        4.8000E-03

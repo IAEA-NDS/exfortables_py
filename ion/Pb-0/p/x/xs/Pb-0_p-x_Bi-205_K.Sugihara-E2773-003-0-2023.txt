@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 82-PB-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.0000e+02 MeV - 3.0000e+03 MeV 
+# Residual: 
+#   Z: 83 
+#   A: 205 
+#   Nuclide: 83-BI-205 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2773-003-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(P,X)83-BI-205,CUM,SIG) 
+#   First author: K.Sugihara 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (S,JAEA-C-2023-001,80,2023) 
+#   Year:  2023 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E27/E2773.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2773
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.0000E+02        0.0000E+00        9.7900E-03        3.7000E-04
+        1.3000E+03        0.0000E+00        4.4400E-03        1.9000E-04
+        1.5000E+03        0.0000E+00        3.7100E-03        1.4000E-04
+        2.2000E+03        0.0000E+00        4.1500E-03        3.2000E-04
+        3.0000E+03        0.0000E+00        3.8300E-03        5.1000E-04

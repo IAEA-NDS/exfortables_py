@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 30-ZN-68(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 30 
+#   A: 68 
+#   Nuclide: 30-ZN-68 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4.0 
+#   Incident energy:  7.5000e+00 MeV - 9.0000e+00 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 68 
+#   Nuclide: 31-GA-68 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0223-009-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-68(P,N)31-GA-68,,SIG) 
+#   First author: G.V.Kotel'Nikova 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (R,FEI-1141,1,1980) 
+#   Year:  1980 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0223.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0223
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.5000E+00        0.0000E+00        5.3700E-01        2.6850E-02
+        8.0000E+00        0.0000E+00        5.9800E-01        2.9900E-02
+        8.5000E+00        0.0000E+00        6.4900E-01        3.2450E-02
+        9.0000E+00        0.0000E+00        6.8200E-01        3.4100E-02

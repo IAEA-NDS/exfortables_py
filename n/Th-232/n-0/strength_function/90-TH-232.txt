@@ -1,7 +1,7 @@
 # Header: 
-#   title: 90-TH-232(N,0) strength_function cross section 
+#   title: 90-TH-232(N,0) strength function 
 #   source: EXFOR 
-#   date created: 2026-06-11 
+#   date created: 2026-08-01 
 # Target: 
 #   Z: 90 
 #   A: 232 
@@ -15,14 +15,14 @@
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Strength Function Simple Mean  |  Simple Stdev        : 1.40000E-04  |   8.48528E-05   (N = 2)
-#   Strength Function Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
 #   AV Simple Mean            |  Simple Stdev        : 2.12000E-04  |           NAN   (N = 1)
 #   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   Strength Function Simple Mean  |  Simple Stdev        : 1.40000E-04  |   8.48528E-05   (N = 2)
+#   Strength Function Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
-21018-007-0         M.Asghar                1966   4.4395E-04   0.0000E+00   8.0000E-05   0.0000E+00                
-21305-004-0         F.Corvi                 1978   1.1100E-03   0.0000E+00   2.0000E-04   0.0000E+00                
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [NO-DIM]     dData         sf8    sf9
 40929-010-0         V.P.Vertebnyj           1987   1.4400E-01   2.5000E-02   2.1200E-04   0.0000E+00      AV        
+21305-004-0         F.Corvi                 1978   1.1100E-03   0.0000E+00   2.0000E-04   0.0000E+00                
+21018-007-0         M.Asghar                1966   4.4395E-04   0.0000E+00   8.0000E-05   0.0000E+00                

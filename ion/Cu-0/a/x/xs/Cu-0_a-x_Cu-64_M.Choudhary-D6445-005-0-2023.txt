@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 29-CU-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.6950e+01 MeV - 3.6410e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 64 
+#   Nuclide: 29-CU-64 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6445-005-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(A,X)29-CU-64,,SIG) 
+#   First author: M.Choudhary 
+#   Institute:  (3CZRCZR): Czech Republic 
+#   Reference:  (J,JP/G,50,015103,2023) 
+#   Year:  2023 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D64/D6445.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6445
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.6950E+01        1.0900E+00        1.1830E-02        2.0000E-03
+        2.7990E+01        7.4000E-01        8.5900E-03        1.4400E-03
+        3.0250E+01        9.6000E-01        2.0260E-02        3.2500E-03
+        3.1350E+01        3.5000E-01        1.2770E-02        2.0300E-03
+        3.3440E+01        7.3000E-01        2.1590E-02        3.4300E-03
+        3.6410E+01        3.4000E-01        3.4040E-02        5.3000E-03

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 77-IR-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 77 
+#   A: 0 
+#   Nuclide: 77-IR-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.6030e+01 MeV - 3.0650e+01 MeV 
+# Residual: 
+#   Z: 77 
+#   A: 188 
+#   Nuclide: 77-IR-188 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C3121-006-0 (entry-subentry-pointer) 
+#   Reaction code: (77-IR-0(D,X)77-IR-188,CUM,SIG) 
+#   First author: H.L.O.Ekeberg 
+#   Institute:  (2NORNOR): Norway 
+#   Reference:  (J,ARI,229,112311,2026) 
+#   Year:  2026 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C31/C3121.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C3121
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.6030E+01        0.0000E+00        3.4000E-04        8.0000E-05
+        2.8400E+01        0.0000E+00        4.7000E-04        7.0000E-05
+        3.0650E+01        0.0000E+00        1.3700E-03        1.0000E-05

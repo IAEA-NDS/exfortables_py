@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 1-H-3(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.0280e+00 MeV - 2.0980e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0051-003-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-3(P,N)2-HE-3,,SIG) 
+#   First author: R.L.Macklin 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,PR,109,105,1958) 
+#   Year:  1958 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C00/C0051.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0051
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0280E+00        0.0000E+00        4.9000E-02        2.4500E-03
+        1.0380E+00        0.0000E+00        7.7500E-02        3.8750E-03
+        1.0560E+00        0.0000E+00        1.0100E-01        5.0500E-03
+        1.0760E+00        0.0000E+00        1.1100E-01        5.5500E-03
+        1.0960E+00        0.0000E+00        1.2800E-01        6.4000E-03
+        1.1360E+00        0.0000E+00        1.4500E-01        7.2500E-03
+        1.2260E+00        0.0000E+00        1.6850E-01        8.4250E-03
+        1.2340E+00        0.0000E+00        1.7900E-01        8.9500E-03
+        1.3420E+00        0.0000E+00        2.0600E-01        1.0300E-02
+        1.4520E+00        0.0000E+00        2.4500E-01        1.2250E-02
+        1.5680E+00        0.0000E+00        2.7700E-01        1.3850E-02
+        1.6840E+00        0.0000E+00        2.9650E-01        1.4825E-02
+        1.8080E+00        0.0000E+00        3.2400E-01        1.6200E-02
+        1.9640E+00        0.0000E+00        3.2750E-01        1.6375E-02
+        2.0980E+00        0.0000E+00        3.4550E-01        1.7275E-02

@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 69-TM-169(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 69 
+#   A: 169 
+#   Nuclide: 69-TM-169 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.5100e+01 MeV - 3.8600e+01 MeV 
+# Residual: 
+#   Z: 69 
+#   A: 167 
+#   Nuclide: 69-TM-167 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4209-013-0 (entry-subentry-pointer) 
+#   Reaction code: (69-TM-169(D,X)69-TM-167,CUM,SIG) 
+#   First author: A.Hermanne 
+#   Institute:  (2BLGVUB): Vrije Universiteit Brussels, Brussels 
+#   Reference:  (J,NIM/B,267,727,2009) 
+#   Year:  2009 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4209.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4209
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.5100E+01        7.0000E-01        1.5800E-01        1.8000E-02
+        2.7000E+01        6.0000E-01        4.1500E-01        4.7000E-02
+        2.9800E+01        5.0000E-01        7.0500E-01        7.9000E-02
+        3.1500E+01        5.0000E-01        8.8100E-01        9.9000E-02
+        3.4000E+01        4.0000E-01        1.0330E+00        1.1600E-01
+        3.5500E+01        4.0000E-01        9.2400E-01        1.0400E-01
+        3.7200E+01        3.0000E-01        9.0800E-01        1.0200E-01
+        3.8600E+01        3.0000E-01        8.6300E-01        9.7000E-02

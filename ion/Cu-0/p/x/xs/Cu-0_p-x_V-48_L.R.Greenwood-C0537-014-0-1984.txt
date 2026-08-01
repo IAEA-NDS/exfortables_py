@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 29-CU-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0000e+02 MeV - 4.5000e+02 MeV 
+# Residual: 
+#   Z: 23 
+#   A: 48 
+#   Nuclide: 23-V-48 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0537-014-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(P,X)23-V-48,CUM,SIG) 
+#   First author: L.R.Greenwood 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (P,DOE-ER-0046-18,11,1984) 
+#   Year:  1984 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C05/C0537.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0537
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E+02        0.0000E+00        1.2900E-04        6.4500E-06
+        1.5000E+02        0.0000E+00        9.7600E-04        4.8800E-05
+        2.0000E+02        0.0000E+00        2.2600E-03        1.1300E-04
+        2.5000E+02        0.0000E+00        3.8000E-03        1.9000E-04
+        3.0000E+02        0.0000E+00        5.1600E-03        2.5800E-04
+        3.5000E+02        0.0000E+00        6.2700E-03        3.1350E-04
+        4.0000E+02        0.0000E+00        7.4300E-03        3.7150E-04
+        4.5000E+02        0.0000E+00        7.8700E-03        3.9350E-04

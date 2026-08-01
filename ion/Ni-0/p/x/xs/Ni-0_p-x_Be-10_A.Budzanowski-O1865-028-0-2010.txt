@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 28-NI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.2000e+03 MeV - 2.5000e+03 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 10 
+#   Nuclide: 4-BE-10 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1865-028-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(P,X)4-BE-10,,SIG,,,DERIV) 
+#   First author: A.Budzanowski 
+#   Institute:  (3POLIFJ): Niewodniczanski Institute of Nuclear Physics, Krakow 
+#   Reference:  (J,PR/C,82,034605,2010) 
+#   Year:  2010 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O18/O1865.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1865
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2000E+03        0.0000E+00        1.4000E-03        5.0000E-04
+        1.9000E+03        0.0000E+00        1.7000E-03        5.0000E-04
+        2.5000E+03        0.0000E+00        2.5000E-03        7.0000E-04

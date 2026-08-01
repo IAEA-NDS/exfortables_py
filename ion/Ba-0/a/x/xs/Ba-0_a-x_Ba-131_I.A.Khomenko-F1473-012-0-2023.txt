@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 56-BA-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 56 
+#   A: 0 
+#   Nuclide: 56-BA-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.8500e+01 MeV - 5.9000e+01 MeV 
+# Residual: 
+#   Z: 56 
+#   A: 131 
+#   Nuclide: 56-BA-131 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1473-012-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-0(A,X)56-BA-131,CUM,SIG) 
+#   First author: I.A.Khomenko 
+#   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference:  (J,NIM/B,535,47,2023) 
+#   Year:  2023 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F14/F1473.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1473
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.8500E+01        2.0000E+00        1.0000E-03        2.0000E-04
+        4.1300E+01        1.8000E+00        1.7000E-03        5.0000E-04
+        4.4000E+01        1.6000E+00        1.6000E-03        4.0000E-04
+        4.6600E+01        1.4000E+00        1.5000E-03        4.0000E-04
+        4.9300E+01        1.2000E+00        1.8000E-03        5.0000E-04
+        5.1800E+01        1.1000E+00        1.5000E-03        3.0000E-04
+        5.4200E+01        9.0000E-01        1.7000E-03        2.0000E-04
+        5.6600E+01        8.0000E-01        2.5000E-03        4.0000E-04
+        5.9000E+01        6.0000E-01        3.1000E-03        6.0000E-04

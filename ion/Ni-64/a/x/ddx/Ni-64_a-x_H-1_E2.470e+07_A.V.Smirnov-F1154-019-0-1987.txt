@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 28-NI-64(A,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 64 
+#   Nuclide: 28-NI-64 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  2.4700e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Outgoing energy:  4.0000e+00 MeV - 4.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: F1154-019-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-64(A,X)1-H-1,,DA/DE) 
+#   First author: A.V.Smirnov 
+#   Institute:  (4RUSSUL): Gosudarstvennyi University (State University ), St.Petersburg 
+#   Reference:  (J,IZV,51,(5),968,1987) 
+#   Year:  1987 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F11/F1154.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1154
+#
+#      E_out(MeV)       dE_out(MeV) Angle_cm(degrees) dAngle_cm(degrees)  data_cm(B/SR/EV) ddata_cm(B/SR/EV)
+        4.0000E+00        0.0000E+00        1.4520E+02        4.2750E-01        3.1347E-11        1.7956E-11
+        4.0000E+00        0.0000E+00        1.5313E+02        4.2750E-01        4.0454E-11        2.0230E-11
+        4.0000E+00        0.0000E+00        1.3063E+02        4.2750E-01        4.2365E-11        1.7984E-11
+        4.0000E+00        0.0000E+00        1.6284E+02        4.2750E-01        4.7341E-11        2.0229E-11
+        4.0000E+00        0.0000E+00        1.0592E+02        4.2750E-01        5.3231E-11        1.5731E-11
+        4.0000E+00        0.0000E+00        1.1607E+02        4.2750E-01        5.3383E-11        1.7882E-11
+        4.0000E+00        0.0000E+00        9.3119E+01        4.2750E-01        6.4276E-11        1.7969E-11
+        4.0000E+00        0.0000E+00        8.9588E+01        4.2750E-01        6.6470E-11        1.5730E-11
+        4.0000E+00        0.0000E+00        8.3397E+01        4.2750E-01        9.1097E-11        2.0225E-11
+        4.0000E+00        0.0000E+00        7.3668E+01        4.2750E-01        1.3140E-10        1.7960E-11
+        4.0000E+00        0.0000E+00        6.2631E+01        4.2750E-01        1.4472E-10        1.7978E-11
+        4.0000E+00        0.0000E+00        5.2860E+01        4.2750E-01        2.5694E-10        2.2472E-11
+        4.0000E+00        0.0000E+00        4.3112E+01        4.2750E-01        3.3095E-10        2.4719E-11
+        4.0000E+00        0.0000E+00        3.2895E+01        4.2750E-01        4.5215E-10        3.1461E-11
+        4.0000E+00        0.0000E+00        2.6674E+01        4.2750E-01        5.2846E-10        4.4944E-11

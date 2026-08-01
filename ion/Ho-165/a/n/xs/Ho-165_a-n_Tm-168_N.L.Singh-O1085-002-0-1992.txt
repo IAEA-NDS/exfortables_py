@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 67-HO-165(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 67 
+#   A: 165 
+#   Nuclide: 67-HO-165 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.4840e+01 MeV - 4.7180e+01 MeV 
+# Residual: 
+#   Z: 69 
+#   A: 168 
+#   Nuclide: 69-TM-168 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1085-002-0 (entry-subentry-pointer) 
+#   Reaction code: (67-HO-165(A,N)69-TM-168,,SIG) 
+#   First author: N.L.Singh 
+#   Institute:  (3INDBDA): M.S. University of Baroda, Baroda 
+#   Reference:  (J,JP/G,18,927,1992) 
+#   Year:  1992 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O10/O1085.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1085
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4840E+01        1.6000E-01        3.7000E-03        2.9600E-04
+        1.7150E+01        1.6000E-01        2.6700E-02        2.6700E-03
+        1.8250E+01        1.6000E-01        3.7000E-02        4.0700E-03
+        2.2300E+01        1.6000E-01        2.2800E-02        2.0520E-03
+        2.3630E+01        1.6000E-01        1.6800E-02        1.3440E-03
+        2.5070E+01        1.6000E-01        1.2500E-02        1.2500E-03
+        2.7540E+01        1.6000E-01        8.9000E-03        7.1200E-04
+        2.9670E+01        1.6000E-01        6.8000E-03        6.1200E-04
+        3.1720E+01        1.6000E-01        6.0000E-03        4.8000E-04
+        3.3530E+01        1.6000E-01        5.0000E-03        5.0000E-04
+        3.5470E+01        1.6000E-01        4.5000E-03        4.9500E-04
+        3.7520E+01        1.6000E-01        4.0000E-03        3.2000E-04
+        4.0240E+01        1.6000E-01        3.3000E-03        3.9600E-04
+        4.2510E+01        1.6000E-01        2.8000E-03        3.9200E-04
+        4.5020E+01        1.6000E-01        2.3800E-03        2.3800E-04
+        4.7180E+01        1.6000E-01        2.1100E-03        2.1100E-04

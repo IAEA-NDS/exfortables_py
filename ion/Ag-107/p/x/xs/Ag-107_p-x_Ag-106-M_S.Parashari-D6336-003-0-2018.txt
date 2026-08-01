@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 47-AG-107(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 47 
+#   A: 107 
+#   Nuclide: 47-AG-107 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3900e+01 MeV - 2.1820e+01 MeV 
+# Residual: 
+#   Z: 47 
+#   A: 106 
+#   Nuclide: 47-AG-106-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6336-003-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-107(P,X)47-AG-106-M,,SIG) 
+#   First author: S.Parashari 
+#   Institute:  (3INDBDA): M.S. University of Baroda, Baroda 
+#   Reference:  (J,NP/A,979,102,2018) 
+#   Year:  2018 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D63/D6336.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6336
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3900E+01        2.3000E-01        2.1800E-04        2.1500E-04
+        1.6770E+01        2.0000E-01        1.1210E-02        9.3000E-04
+        1.9480E+01        1.8000E-01        3.0570E-02        2.6500E-04
+        2.1820E+01        1.7000E-01        5.2140E-02        4.7400E-03

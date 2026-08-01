@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 28-NI-58(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.0000e+02 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+#   Outgoing energy:  2.0080e+01 MeV - 8.2930e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O0137-244-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(P,X)1-H-3,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,698,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0137.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0137
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        8.2930E+01        0.0000E+00        2.5000E+01        0.0000E+00        9.2990E-12        9.2990E-13
+        7.9880E+01        0.0000E+00        2.5000E+01        0.0000E+00        1.2500E-11        1.2500E-12
+        7.6810E+01        0.0000E+00        2.5000E+01        0.0000E+00        1.3490E-11        1.3490E-12
+        7.3450E+01        0.0000E+00        2.5000E+01        0.0000E+00        1.5660E-11        1.5660E-12
+        6.5790E+01        0.0000E+00        2.5000E+01        0.0000E+00        2.0390E-11        2.0390E-12
+        5.8730E+01        0.0000E+00        2.5000E+01        0.0000E+00        2.0540E-11        2.0540E-12
+        4.9230E+01        0.0000E+00        2.5000E+01        0.0000E+00        2.4900E-11        2.4900E-12
+        3.9720E+01        0.0000E+00        2.5000E+01        0.0000E+00        2.8060E-11        2.8060E-12
+        2.9900E+01        0.0000E+00        2.5000E+01        0.0000E+00        2.9410E-11        2.9410E-12
+        2.0080E+01        0.0000E+00        2.5000E+01        0.0000E+00        3.0820E-11        3.0820E-12

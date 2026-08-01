@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 3-LI-6(HE3,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: HE3,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  9.4820e+00 MeV - 2.4987e+01 MeV 
+# Residual: 
+#   Z: 5 
+#   A: 8 
+#   Nuclide: 5-B-8 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1502-002-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(HE3,N)5-B-8,,SIG,,,DERIV) 
+#   First author: R.E.Marrs 
+#   Institute:  (1USAWAS): Washington University, St.Louis, MO 
+#   Reference:  (J,PR/C,8,427,1973) 
+#   Year:  1973 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A15/A1502.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1502
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.4820E+00        9.0000E-03        1.0867E-02        0.0000E+00
+        1.0501E+01        9.0000E-03        7.9203E-03        0.0000E+00
+        1.2611E+01        9.0000E-03        5.5565E-03        0.0000E+00
+        1.5801E+01        9.0000E-03        4.2828E-03        0.0000E+00
+        1.8781E+01        9.0000E-03        3.2814E-03        0.0000E+00
+        2.1847E+01        9.0000E-03        2.4782E-03        0.0000E+00
+        2.4987E+01        9.0000E-03        2.3187E-03        0.0000E+00

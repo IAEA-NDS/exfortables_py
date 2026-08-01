@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 29-CU-63(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.8060e+00 MeV - 5.9940e+00 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 67 
+#   Nuclide: 31-GA-67 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1734-002-1 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-63(A,G)31-GA-67,,SIG) 
+#   First author: I.Cata-Danil 
+#   Institute:  (3RUMBUC): Horia Hulubei National Institute (IFIN-HH), Magurele 
+#   Reference:  (J,RRIP,60,555,2008) 
+#   Year:  2008 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O17/O1734.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1734
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.8060E+00        1.1600E-01        6.4080E-06        7.3390E-07
+        4.3880E+00        1.0140E-01        3.2290E-06        6.0290E-07
+        4.9230E+00        9.1600E-02        8.1300E-06        8.6880E-07
+        5.4510E+00        8.2300E-02        8.3270E-06        1.0329E-06
+        5.9940E+00        6.5500E-02        1.6600E-05        1.4775E-05

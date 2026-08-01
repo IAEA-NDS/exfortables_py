@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 29-CU-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.8000e+01 MeV - 8.9400e+01 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 57 
+#   Nuclide: 28-NI-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2243-013-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(P,X)28-NI-57,CUM,SIG) 
+#   First author: S.A.Graves 
+#   Institute:  (1USAWIS): University of Wisconsin, Madison, WI 
+#   Reference:  (J,NIM/B,386,44,2016) 
+#   Year:  2016 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C22/C2243.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2243
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.8000E+01        1.6000E+00        9.8100E-04        7.5000E-05
+        5.8600E+01        1.4000E+00        2.0900E-03        2.5000E-04
+        6.9100E+01        1.1000E+00        1.3500E-03        1.6000E-04
+        7.8600E+01        9.0000E-01        9.8500E-04        8.6000E-05
+        8.9400E+01        6.0000E-01        1.3100E-03        9.0000E-05

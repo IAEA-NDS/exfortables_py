@@ -1,0 +1,50 @@
+# Header: 
+#   Title: 40-ZR-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 40 
+#   A: 0 
+#   Nuclide: 40-ZR-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.4200e+01 MeV - 6.5900e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 86 
+#   Nuclide: 39-Y-86-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4317-021-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-0(P,X)39-Y-86-M,,SIG) 
+#   First author: F.Szelecsenyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,343,173,2015) 
+#   Year:  2015 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4317.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4317
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.4200E+01        1.6000E+00        9.0000E-04        2.0000E-04
+        2.5900E+01        1.2000E+00        1.7000E-03        2.0000E-04
+        2.7300E+01        1.6000E+00        3.8000E-03        5.0000E-04
+        2.9300E+01        1.1000E+00        5.0000E-03        5.0000E-04
+        3.0100E+01        1.5000E+00        6.7000E-03        8.0000E-04
+        3.2800E+01        1.5000E+00        7.9000E-03        9.0000E-04
+        3.5200E+01        9.0000E-01        1.0300E-02        6.0000E-04
+        3.5300E+01        1.4000E+00        1.0000E-02        1.1000E-03
+        3.8800E+01        1.3000E+00        8.6000E-03        9.0000E-04
+        4.0300E+01        7.0000E-01        8.5000E-03        1.2000E-03
+        4.2200E+01        1.2000E+00        6.8000E-03        8.0000E-04
+        4.5100E+01        6.0000E-01        6.9000E-03        8.0000E-04
+        4.5300E+01        1.2000E+00        6.6000E-03        8.0000E-04
+        4.8300E+01        1.1000E+00        6.6000E-03        8.0000E-04
+        4.9400E+01        4.0000E-01        6.9000E-03        8.0000E-04
+        5.1200E+01        1.0000E+00        6.6000E-03        8.0000E-04
+        5.3900E+01        1.0000E+00        7.5000E-03        8.0000E-04
+        5.6600E+01        9.0000E-01        8.7000E-03        1.0000E-03
+        5.9800E+01        9.0000E-01        1.2900E-02        1.4000E-03
+        6.3000E+01        8.0000E-01        1.6600E-02        1.8000E-03
+        6.5900E+01        7.0000E-01        2.2700E-02        2.5000E-03

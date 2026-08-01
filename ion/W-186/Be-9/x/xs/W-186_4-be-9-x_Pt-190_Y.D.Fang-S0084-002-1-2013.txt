@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 74-W-186(4-BE-9,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 74 
+#   A: 186 
+#   Nuclide: 74-W-186 
+# Reaction: 
+#   Process: 4-BE-9,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.1000e+01 MeV - 5.3000e+01 MeV 
+# Residual: 
+#   Z: 78 
+#   A: 190 
+#   Nuclide: 78-PT-190 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: S0084-002-1 (entry-subentry-pointer) 
+#   Reaction code: (74-W-186(4-BE-9,X)78-PT-190,,SIG) 
+#   First author: Y.D.Fang 
+#   Institute:  (3CPRCPR): China, People's Rep. 
+#   Reference:  (J,PR/C,87,024604,2013) 
+#   Year:  2013 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S00/S0084.x4 
+#   nds:  https://nds.iaea.org/EXFOR/S0084
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.1000E+01        0.0000E+00        2.9000E-02        6.0000E-03
+        4.5000E+01        0.0000E+00        7.1800E-02        1.0400E-02
+        4.9000E+01        0.0000E+00        2.3960E-01        2.5400E-02
+        5.3000E+01        0.0000E+00        4.7100E-01        4.4700E-02

@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 3-LI-6(P,HE3)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: P,HE3 
+#   MF-MT number: 3 - 106 
+#   Incident energy:  1.0675e-02 MeV - 5.0456e-02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F0069-002-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(P,HE3)2-HE-4,,SIG,,SFC) 
+#   First author: S.Engstler 
+#   Institute:  (2GERMST): Westfaelische Wilhelms-Universitaet Muenster,Muenster 
+#   Reference:  (P,ATOMKI-AR-1988,41,1989) 
+#   Year:  1989 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F00/F0069.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0069
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
+        1.0675E-02        8.5400E-05        4.8782E+06        5.9930E+05
+        1.1603E-02        9.2824E-05        3.3662E+06        1.1990E+05
+        1.2585E-02        1.0068E-04        3.7722E+06        7.1900E+04
+        1.3588E-02        1.0870E-04        3.3871E+06        9.5900E+04
+        1.4517E-02        1.1614E-04        3.4578E+06        1.1990E+05
+        1.5690E-02        1.2552E-04        3.2405E+06        1.1990E+05
+        1.6749E-02        1.3399E-04        3.1673E+06        7.1900E+04
+        1.7663E-02        1.4130E-04        3.2622E+06        0.0000E+00
+        1.8609E-02        1.4887E-04        3.1893E+06        0.0000E+00
+        1.9353E-02        1.5482E-04        3.1406E+06        0.0000E+00
+        2.4191E-02        1.9353E-04        3.0643E+06        0.0000E+00
+        2.9072E-02        2.3258E-04        3.0128E+06        0.0000E+00
+        3.4478E-02        2.7582E-04        2.9376E+06        0.0000E+00
+        3.8804E-02        3.1043E-04        2.9114E+06        0.0000E+00
+        4.4251E-02        3.5401E-04        2.8849E+06        0.0000E+00
+        4.7890E-02        3.8312E-04        2.9073E+06        0.0000E+00
+        5.0456E-02        4.0365E-04        2.8344E+06        1.9180E+05

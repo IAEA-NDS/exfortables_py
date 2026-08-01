@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 30-ZN-64(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.0500e+01 MeV - 1.6500e+01 MeV 
+# Residual: 
+#   Z: 32 
+#   A: 68 
+#   Nuclide: 32-GE-68 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0704-002-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(A,G)32-GE-68,,SIG) 
+#   First author: N.T.Porile 
+#   Institute:  (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference:  (J,PR,115,939,195908) 
+#   Year:  1959 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C07/C0704.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0704
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0500E+01        0.0000E+00        2.0000E-04        2.0000E-05
+        1.3400E+01        0.0000E+00        7.0000E-04        7.0000E-05
+        1.6500E+01        0.0000E+00        9.0000E-04        9.0000E-05

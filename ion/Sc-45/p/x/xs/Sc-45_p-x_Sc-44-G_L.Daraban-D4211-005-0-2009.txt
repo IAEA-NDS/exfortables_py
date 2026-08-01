@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 21-SC-45(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 21 
+#   A: 45 
+#   Nuclide: 21-SC-45 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.7600e+01 MeV - 3.6400e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 44 
+#   Nuclide: 21-SC-44-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4211-005-0 (entry-subentry-pointer) 
+#   Reaction code: (21-SC-45(P,X)21-SC-44-G,IND,SIG) 
+#   First author: L.Daraban 
+#   Institute:  (3RUMBBU): Babes-Bolyai University, Cluj 
+#   Reference:  (J,NIM/B,267,755,2009) 
+#   Year:  2009 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4211.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4211
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.7600E+01        1.4000E+00        1.9890E-01        2.8900E-02
+        2.1100E+01        1.0000E+00        3.0480E-01        4.4300E-02
+        2.4100E+01        8.0000E-01        3.2110E-01        4.6700E-02
+        2.6900E+01        6.0000E-01        3.1150E-01        4.5300E-02
+        2.9500E+01        4.0000E-01        2.3920E-01        3.4800E-02
+        3.1900E+01        2.0000E-01        2.0880E-01        3.0400E-02
+        3.4200E+01        1.0000E-01        1.7780E-01        2.5800E-02
+        3.6400E+01        1.0000E-01        1.6190E-01        2.3500E-02

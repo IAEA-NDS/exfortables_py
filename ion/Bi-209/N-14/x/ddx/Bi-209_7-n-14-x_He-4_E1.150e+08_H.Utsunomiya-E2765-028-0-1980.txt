@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 83-BI-209(7-N-14,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: 7-N-14,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.1500e+02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Outgoing energy:  1.7590e+01 MeV - 3.5510e+01 MeV 
+# EXFOR BIB:
+#   Entry id: E2765-028-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(7-N-14,X)2-HE-4,,DA/DE) 
+#   First author: H.Utsunomiya 
+#   Institute:  (2JPNIPC): RIKEN (Institute of Physical and Chemical Research), Wako 
+#   Reference:  (J,NP/A,334,127,1980) 
+#   Year:  1980 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E27/E2765.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2765
+#
+#   E_out_cm(MeV)    dE_out_cm(MeV)    Angle(degrees)   dAngle(degrees)  data_cm(B/SR/EV) ddata_cm(B/SR/EV)
+        3.3600E+01        0.0000E+00        1.6500E+02        0.0000E+00        1.0500E-11        0.0000E+00
+        3.5510E+01        0.0000E+00        1.6500E+02        0.0000E+00        1.0600E-11        0.0000E+00
+        3.0630E+01        0.0000E+00        1.6500E+02        0.0000E+00        5.0110E-11        0.0000E+00
+        3.2310E+01        0.0000E+00        1.6500E+02        0.0000E+00        5.8690E-11        0.0000E+00
+        1.7590E+01        0.0000E+00        1.6500E+02        0.0000E+00        7.9180E-11        0.0000E+00
+        2.8850E+01        0.0000E+00        1.6500E+02        0.0000E+00        1.1590E-10        3.3410E-11
+        2.7120E+01        0.0000E+00        1.6500E+02        0.0000E+00        1.4660E-10        0.0000E+00
+        1.8470E+01        0.0000E+00        1.6500E+02        0.0000E+00        2.0000E-10        0.0000E+00
+        1.8980E+01        0.0000E+00        1.6500E+02        0.0000E+00        2.5330E-10        0.0000E+00
+        2.5570E+01        0.0000E+00        1.6500E+02        0.0000E+00        2.6300E-10        5.2980E-11
+        2.3930E+01        0.0000E+00        1.6500E+02        0.0000E+00        3.2700E-10        0.0000E+00
+        2.0510E+01        0.0000E+00        1.6500E+02        0.0000E+00        3.8550E-10        0.0000E+00
+        2.2100E+01        0.0000E+00        1.6500E+02        0.0000E+00        4.1010E-10        5.7420E-11

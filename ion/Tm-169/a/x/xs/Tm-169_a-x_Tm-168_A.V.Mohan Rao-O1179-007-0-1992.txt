@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 69-TM-169(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 69 
+#   A: 169 
+#   Nuclide: 69-TM-169 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.8440e+01 MeV - 6.5830e+01 MeV 
+# Residual: 
+#   Z: 69 
+#   A: 168 
+#   Nuclide: 69-TM-168 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1179-007-0 (entry-subentry-pointer) 
+#   Reaction code: (69-TM-169(A,X)69-TM-168,IND,SIG) 
+#   First author: A.V.Mohan Rao 
+#   Institute:  (3INDVEC): Variable Energy Cyclotron Centre, Kolkata 
+#   Reference:  (J,PRM,38,279,1992) 
+#   Year:  1992 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O11/O1179.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1179
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.8440E+01        1.3000E-01        3.2000E-04        4.1600E-05
+        4.3550E+01        1.3000E-01        7.2000E-04        9.3600E-05
+        4.8790E+01        1.3000E-01        8.3000E-04        1.0790E-04
+        5.3470E+01        1.3000E-01        9.5000E-04        1.2350E-04
+        5.7750E+01        1.3000E-01        8.6000E-04        1.1180E-04
+        6.1740E+01        1.3000E-01        7.8000E-04        1.0140E-04
+        6.5830E+01        1.3000E-01        7.1000E-04        9.2300E-05

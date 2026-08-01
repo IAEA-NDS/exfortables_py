@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 74-W-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 74 
+#   A: 0 
+#   Nuclide: 74-W-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.2100e+01 MeV - 6.8900e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 184 
+#   Nuclide: 75-RE-184-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1100-019-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-0(P,X)75-RE-184-G,,SIG) 
+#   First author: M.H.Miah 
+#   Institute:  (3BANBAN): Bangladesh 
+#   Reference:  (J,NSTS,2,369,2002) 
+#   Year:  2002 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O11/O1100.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1100
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.2100E+01        9.0400E-01        2.4700E-02        9.5880E-04
+        5.5400E+01        8.7000E-01        2.2360E-02        8.8850E-04
+        5.8600E+01        8.3300E-01        2.0710E-02        9.7390E-04
+        6.3200E+01        7.5900E-01        1.8480E-02        7.3870E-04
+        6.6100E+01        7.1200E-01        1.7770E-02        7.6310E-04
+        6.8900E+01        6.6200E-01        1.6900E-02        7.3260E-04

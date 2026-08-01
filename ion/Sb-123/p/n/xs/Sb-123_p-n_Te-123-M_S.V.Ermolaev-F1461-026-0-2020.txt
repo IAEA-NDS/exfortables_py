@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 51-SB-123(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 51 
+#   A: 123 
+#   Nuclide: 51-SB-123 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  3.2900e+01 MeV - 4.0300e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 123 
+#   Nuclide: 52-TE-123-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1461-026-0 (entry-subentry-pointer) 
+#   Reaction code: (51-SB-123(P,N)52-TE-123-M,,SIG) 
+#   First author: S.V.Ermolaev 
+#   Institute:  (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
+#   Reference:  (J,RCA,108,327,2020) 
+#   Year:  2020 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F14/F1461.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1461
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.2900E+01        1.4000E+00        8.7000E-03        1.5000E-03
+        3.4400E+01        1.4000E+00        5.3000E-03        9.0000E-04
+        3.5900E+01        1.3000E+00        5.1000E-03        9.0000E-04
+        4.0300E+01        1.2000E+00        6.0000E-04        1.0000E-04

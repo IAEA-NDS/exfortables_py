@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 68-ER-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 68 
+#   A: 0 
+#   Nuclide: 68-ER-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.7600e+01 MeV - 5.4600e+01 MeV 
+# Residual: 
+#   Z: 70 
+#   A: 166 
+#   Nuclide: 70-YB-166 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0329-004-0 (entry-subentry-pointer) 
+#   Reaction code: (68-ER-0(A,X)70-YB-166,,SIG,,DAM) 
+#   First author: A.Archenti 
+#   Institute:  (3ARGCNE): Comision Nacional de Energia Atomica, Buenos Aires 
+#   Reference:  (J,RCA,38,65,1985) 
+#   Year:  1985 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A03/A0329.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0329
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.7600E+01        3.7600E-01        5.2000E-05        3.4000E-05
+        3.9900E+01        3.9900E-01        1.3000E-04        8.0000E-05
+        4.3900E+01        4.3900E-01        6.0000E-04        4.3000E-04
+        4.7700E+01        4.7700E-01        1.4100E-03        6.8000E-04
+        5.1200E+01        5.1200E-01        1.2900E-03        8.5000E-04
+        5.4600E+01        5.4600E-01        1.1900E-03        7.8000E-04

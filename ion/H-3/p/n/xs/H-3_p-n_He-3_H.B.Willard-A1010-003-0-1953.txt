@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 1-H-3(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.0200e+00 MeV - 5.1100e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1010-003-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-3(P,N)2-HE-3,,SIG) 
+#   First author: H.B.Willard 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,PR,90,865,1953) 
+#   Year:  1953 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A10/A1010.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1010
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0200E+00        1.0000E-02        4.0000E-04        0.0000E+00
+        1.2300E+00        1.0000E-02        1.0180E-01        0.0000E+00
+        1.4100E+00        1.0000E-02        1.8120E-01        0.0000E+00
+        1.4600E+00        1.0000E-02        2.0040E-01        0.0000E+00
+        1.7100E+00        1.0000E-02        3.0170E-01        0.0000E+00
+        1.8000E+00        1.0000E-02        3.2900E-01        0.0000E+00
+        2.0600E+00        1.0000E-02        4.0010E-01        0.0000E+00
+        2.2100E+00        1.0000E-02        4.2470E-01        0.0000E+00
+        2.6000E+00        1.0000E-02        4.8470E-01        0.0000E+00
+        2.8300E+00        1.0000E-02        5.0370E-01        0.0000E+00
+        3.0100E+00        1.0000E-02        5.0620E-01        0.0000E+00
+        3.2600E+00        1.0000E-02        5.0600E-01        0.0000E+00
+        3.4100E+00        1.0000E-02        4.9490E-01        0.0000E+00
+        3.8100E+00        1.0000E-02        4.6980E-01        0.0000E+00
+        4.2100E+00        1.0000E-02        4.3370E-01        0.0000E+00
+        4.6000E+00        1.0000E-02        4.0040E-01        0.0000E+00
+        5.0200E+00        1.0000E-02        3.7530E-01        0.0000E+00
+        5.1100E+00        1.0000E-02        3.6690E-01        0.0000E+00

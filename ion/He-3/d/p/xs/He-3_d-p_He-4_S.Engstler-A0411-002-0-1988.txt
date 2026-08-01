@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 2-HE-3(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4770e-02 MeV - 4.1560e-02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0411-002-0 (entry-subentry-pointer) 
+#   Reaction code: (2-HE-3(D,P)2-HE-4,,SIG,,SFC) 
+#   First author: S.Engstler 
+#   Institute:  (2GERMST): Westfaelische Wilhelms-Universitaet Muenster,Muenster 
+#   Reference:  (J,PL/B,202,179,1988) 
+#   Year:  1988 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0411.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0411
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
+        1.4770E-02        0.0000E+00        6.9500E+06        2.0000E+05
+        1.6740E-02        0.0000E+00        6.7500E+06        8.0000E+04
+        1.7740E-02        0.0000E+00        6.8200E+06        7.0000E+04
+        1.9720E-02        0.0000E+00        6.6200E+06        6.0000E+04
+        2.0710E-02        0.0000E+00        6.7300E+06        1.8000E+05
+        2.2190E-02        0.0000E+00        6.6000E+06        5.0000E+04
+        2.3690E-02        0.0000E+00        6.9000E+06        4.0000E+04
+        2.5170E-02        0.0000E+00        6.5900E+06        4.0000E+04
+        2.6660E-02        0.0000E+00        6.9500E+06        4.0000E+04
+        2.6780E-02        0.0000E+00        6.1700E+06        1.2000E+05
+        2.8150E-02        0.0000E+00        6.5600E+06        3.0000E+04
+        2.9630E-02        0.0000E+00        6.7800E+06        1.6000E+05
+        3.2130E-02        0.0000E+00        7.0200E+06        3.0000E+04
+        3.2600E-02        0.0000E+00        6.8200E+06        3.0000E+04
+        3.5600E-02        0.0000E+00        6.8200E+06        3.0000E+04
+        3.8580E-02        0.0000E+00        6.9900E+06        2.0000E+04
+        4.1560E-02        0.0000E+00        7.0200E+06        2.0000E+04

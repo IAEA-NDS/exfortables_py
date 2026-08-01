@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 94-PU-238(A,4N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 94 
+#   A: 238 
+#   Nuclide: 94-PU-238 
+# Reaction: 
+#   Process: A,4N 
+#   MF-MT number: 3 - 37 
+#   Incident energy:  3.6600e+01 MeV - 4.7400e+01 MeV 
+# Residual: 
+#   Z: 96 
+#   A: 238 
+#   Nuclide: 96-CM-238 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2296-004-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-238(A,4N)96-CM-238,,SIG) 
+#   First author: R.A.Glass 
+#   Institute:  (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
+#   Reference:  (J,PR,104,434,1956) 
+#   Year:  1956 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C22/C2296.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2296
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.6600E+01        0.0000E+00        2.0000E-06        5.0000E-07
+        4.2200E+01        0.0000E+00        1.9000E-04        4.7500E-05
+        4.7400E+01        0.0000E+00        2.6000E-04        6.5000E-05

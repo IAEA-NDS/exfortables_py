@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 50-SN-118(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 50 
+#   A: 118 
+#   Nuclide: 50-SN-118 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  4.5910e+00 MeV - 5.3260e+00 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 118 
+#   Nuclide: 51-SB-118 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0773-005-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-118(P,N)51-SB-118,,SIG,,,DERIV) 
+#   First author: C.H.Johnson 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,PR/C,2,639,1970) 
+#   Year:  1970 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C07/C0773.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0773
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.5910E+00        4.5910E-04        3.6000E-03        0.0000E+00
+        4.8790E+00        4.8790E-04        1.0100E-02        0.0000E+00
+        5.1750E+00        5.1750E-04        1.9800E-02        0.0000E+00
+        5.3260E+00        5.3260E-04        2.4600E-02        0.0000E+00

@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 7-N-13(A,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 7 
+#   A: 13 
+#   Nuclide: 7-N-13 
+# Reaction: 
+#   Process: A,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  3.2639e+00 MeV - 6.0152e+00 MeV 
+# Residual: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2747-003-0 (entry-subentry-pointer) 
+#   Reaction code: (7-N-13(A,P)8-O-16,,SIG,,SFC) 
+#   First author: H.Jayatissa 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,PR/C,105,L042802,2022) 
+#   Year:  2022 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C27/C2747.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2747
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
+        3.2639E+00        1.9455E-01        5.4887E+11        4.7068E+11
+        3.6465E+00        1.8810E-01        2.5753E+11        8.3039E+10
+        4.0165E+00        1.8190E-01        2.2309E+11        3.1283E+10
+        4.3743E+00        1.7600E-01        1.4928E+11        2.0349E+10
+        4.7208E+00        1.7070E-01        1.0732E+11        1.4436E+10
+        5.0572E+00        1.6585E-01        7.4532E+10        1.0238E+10
+        5.3846E+00        1.6160E-01        4.8507E+10        7.1058E+09
+        5.7038E+00        1.5755E-01        4.1360E+10        5.8583E+09
+        6.0152E+00        1.5390E-01        4.0794E+10        5.3296E+09

@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 74-W-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 74 
+#   A: 0 
+#   Nuclide: 74-W-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.1000e+00 MeV - 1.9700e+01 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 184 
+#   Nuclide: 73-TA-184 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D1050-010-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-0(D,X)73-TA-184,,SIG) 
+#   First author: E.Simeckova 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,EPJ/CS,146,11049,2017) 
+#   Year:  2017 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D10/D1050.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D1050
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.1000E+00        9.0000E-01        3.5740E-06        1.3860E-06
+        9.5000E+00        7.0000E-01        1.0160E-04        0.0000E+00
+        1.1600E+01        7.0000E-01        3.6950E-04        0.0000E+00
+        1.3500E+01        5.0000E-01        5.9260E-04        0.0000E+00
+        1.5200E+01        6.0000E-01        7.6920E-04        0.0000E+00
+        1.6800E+01        5.0000E-01        7.5310E-04        0.0000E+00
+        1.8200E+01        5.0000E-01        7.7020E-04        0.0000E+00
+        1.9700E+01        4.0000E-01        8.9320E-04        0.0000E+00

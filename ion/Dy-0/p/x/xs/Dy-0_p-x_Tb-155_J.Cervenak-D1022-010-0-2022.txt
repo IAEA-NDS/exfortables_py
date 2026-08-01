@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 66-DY-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 66 
+#   A: 0 
+#   Nuclide: 66-DY-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4590e+01 MeV - 3.5850e+01 MeV 
+# Residual: 
+#   Z: 65 
+#   A: 155 
+#   Nuclide: 65-TB-155 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D1022-010-0 (entry-subentry-pointer) 
+#   Reaction code: (66-DY-0(P,X)65-TB-155,,SIG) 
+#   First author: J.Cervenak 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,NIM/B,522,1,2022) 
+#   Year:  2022 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D10/D1022.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D1022
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4590E+01        3.8000E-01        7.0000E-06        1.1000E-05
+        1.6030E+01        3.3000E-01        9.0000E-06        2.5000E-05
+        1.9480E+01        7.0000E-01        1.0000E-07        6.3000E-05
+        1.9920E+01        2.1000E-01        2.0000E-06        5.7000E-05
+        2.4470E+01        5.1000E-01        1.0000E-06        7.5000E-05
+        2.7260E+01        4.2000E-01        1.9000E-05        6.2000E-05
+        2.8850E+01        3.8000E-01        8.3000E-05        5.2000E-05
+        3.0320E+01        3.4000E-01        1.0900E-04        4.4000E-05
+        3.1770E+01        3.0000E-01        1.3700E-04        4.6000E-05
+        3.3160E+01        2.7000E-01        2.4100E-04        4.6000E-05
+        3.4520E+01        2.3000E-01        3.2700E-04        5.9000E-05
+        3.5850E+01        2.1000E-01        5.5400E-04        8.0000E-05

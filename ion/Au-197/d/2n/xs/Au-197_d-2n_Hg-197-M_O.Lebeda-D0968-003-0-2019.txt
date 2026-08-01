@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 79-AU-197(D,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: D,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  8.3000e+00 MeV - 1.9730e+01 MeV 
+# Residual: 
+#   Z: 80 
+#   A: 197 
+#   Nuclide: 80-HG-197-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0968-003-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(D,2N)80-HG-197-M,,SIG) 
+#   First author: O.Lebeda 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,NIM/B,461,105,2019) 
+#   Year:  2019 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D09/D0968.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0968
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.3000E+00        0.0000E+00        1.1890E-02        8.9000E-04
+        9.4300E+00        0.0000E+00        4.2000E-02        3.2000E-03
+        1.0490E+01        0.0000E+00        9.2000E-02        6.9000E-03
+        1.1480E+01        0.0000E+00        1.5100E-01        1.1000E-02
+        1.2410E+01        0.0000E+00        2.1500E-01        1.6000E-02
+        1.3290E+01        0.0000E+00        2.5800E-01        1.9000E-02
+        1.4130E+01        0.0000E+00        2.7700E-01        2.1000E-02
+        1.4940E+01        0.0000E+00        2.6700E-01        2.0000E-02
+        1.5760E+01        0.0000E+00        2.4400E-01        1.8000E-02
+        1.6830E+01        0.0000E+00        2.0500E-01        1.5000E-02
+        1.7830E+01        0.0000E+00        1.5900E-01        1.2000E-02
+        1.8800E+01        0.0000E+00        1.2940E-01        9.7000E-03
+        1.9730E+01        0.0000E+00        1.0560E-01        7.9000E-03

@@ -1,7 +1,7 @@
 # Header: 
-#   Title: 11-NA-23(N,INL)  Differential with angle of outgoing particle 
+#   Title: 11-NA-23(N,INL)  Angular distribution 
 #   Source: EXFOR 
-#   Date created: 2026-04-23 
+#   Date created: 2026-08-01 
 # Target: 
 #   Z: 11 
 #   A: 23 
@@ -26,10 +26,10 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10104.x4 
 #   nds:  https://nds.iaea.org/EXFOR/10104
 #
-# Angle(dgrees)     dAngle(dgrees)  XS(b/steradian)  dXS(b/steradian)
+# Angle_cm(degrees) dAngle_cm(degrees)        data(B/SR)       ddata(B/SR)
+        1.3805E+02        0.0000E+00        2.5700E-03        0.0000E+00
         1.2381E+02        0.0000E+00        2.7600E-03        0.0000E+00
         1.3095E+02        0.0000E+00        2.8400E-03        0.0000E+00
-        1.3805E+02        0.0000E+00        2.5700E-03        0.0000E+00
-        1.2320E+02        0.0000E+00        3.1200E-03        0.0000E+00
-        1.3039E+02        0.0000E+00        3.0300E-03        0.0000E+00
         1.3753E+02        0.0000E+00        2.4800E-03        0.0000E+00
+        1.3039E+02        0.0000E+00        3.0300E-03        0.0000E+00
+        1.2320E+02        0.0000E+00        3.1200E-03        0.0000E+00

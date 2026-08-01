@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 36-KR-83(A,5N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 36 
+#   A: 83 
+#   Nuclide: 36-KR-83 
+# Reaction: 
+#   Process: A,5N 
+#   MF-MT number: 3 - 152 
+#   Incident energy:  4.1830e+01 MeV - 5.2450e+01 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 82 
+#   Nuclide: 38-SR-82 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0887-004-0 (entry-subentry-pointer) 
+#   Reaction code: (36-KR-83(A,5N)38-SR-82,,SIG) 
+#   First author: V.A.Zagryadskii 
+#   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference:  (J,AE,110,88,2011) 
+#   Year:  2011 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A08/A0887.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0887
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.1830E+01        0.0000E+00        1.4900E-02        3.9690E-03
+        4.7200E+01        0.0000E+00        3.3030E-02        8.4970E-03
+        5.2450E+01        0.0000E+00        7.3220E-02        1.0080E-02

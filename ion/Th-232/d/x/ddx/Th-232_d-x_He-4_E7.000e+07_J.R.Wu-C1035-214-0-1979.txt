@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 90-TH-232(D,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  7.0000e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Outgoing energy:  1.2530e+01 MeV - 4.1890e+01 MeV 
+# EXFOR BIB:
+#   Entry id: C1035-214-0 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(D,X)2-HE-4,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,370,1979) 
+#   Year:  1979 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C10/C1035.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1035
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        4.1890E+01        0.0000E+00        1.4000E+02        0.0000E+00        5.8400E-13        0.0000E+00
+        4.0020E+01        0.0000E+00        1.4000E+02        0.0000E+00        9.6880E-13        0.0000E+00
+        3.7840E+01        0.0000E+00        1.4000E+02        0.0000E+00        1.8230E-12        0.0000E+00
+        3.5660E+01        0.0000E+00        1.4000E+02        0.0000E+00        3.2220E-12        0.0000E+00
+        3.3150E+01        0.0000E+00        1.4000E+02        0.0000E+00        5.8780E-12        0.0000E+00
+        3.1290E+01        0.0000E+00        1.4000E+02        0.0000E+00        1.0390E-11        0.0000E+00
+        2.8790E+01        0.0000E+00        1.4000E+02        0.0000E+00        1.8950E-11        0.0000E+00
+        1.2530E+01        0.0000E+00        1.4000E+02        0.0000E+00        1.9800E-11        0.0000E+00
+        2.6280E+01        0.0000E+00        1.4000E+02        0.0000E+00        3.4560E-11        0.0000E+00
+        1.4170E+01        0.0000E+00        1.4000E+02        0.0000E+00        3.4890E-11        0.0000E+00
+        2.3780E+01        0.0000E+00        1.4000E+02        0.0000E+00        6.1090E-11        0.0000E+00
+        1.4870E+01        0.0000E+00        1.4000E+02        0.0000E+00        7.4340E-11        0.0000E+00
+        2.0630E+01        0.0000E+00        1.4000E+02        0.0000E+00        9.8290E-11        0.0000E+00
+        1.5870E+01        0.0000E+00        1.4000E+02        0.0000E+00        1.1920E-10        0.0000E+00
+        1.8430E+01        0.0000E+00        1.4000E+02        0.0000E+00        1.3930E-10        0.0000E+00

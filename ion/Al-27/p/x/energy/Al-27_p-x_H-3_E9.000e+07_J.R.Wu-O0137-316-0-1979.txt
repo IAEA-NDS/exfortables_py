@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 13-AL-27(P,X)  Energy distribution 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 5 - None 
+#   Incident energy:  9.0000e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+#   Outgoing energy:  1.9680e+00 MeV - 7.0680e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O0137-316-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(P,X)1-H-3,,DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,698,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0137.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0137
+#
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
+        7.0680E+01        0.0000E+00        2.3360E-11        2.3360E-12
+        6.6940E+01        0.0000E+00        3.7940E-11        3.7940E-12
+        6.6240E+01        0.0000E+00        4.9220E-11        4.9220E-12
+        5.6260E+01        0.0000E+00        6.6650E-11        6.6650E-12
+        6.4790E+01        0.0000E+00        7.1410E-11        7.1410E-12
+        5.0860E+01        0.0000E+00        7.2030E-11        7.2030E-12
+        6.0940E+01        0.0000E+00        7.7100E-11        7.7100E-12
+        6.2560E+01        0.0000E+00        9.9880E-11        9.9880E-12
+        4.2430E+01        0.0000E+00        1.0110E-10        1.0110E-11
+        3.0930E+01        0.0000E+00        1.5320E-10        1.5320E-11
+        2.2530E+01        0.0000E+00        2.3170E-10        2.3170E-11
+        1.7240E+01        0.0000E+00        3.7660E-10        3.7660E-11
+        1.3480E+01        0.0000E+00        5.6790E-10        5.6790E-11
+        1.9680E+00        0.0000E+00        8.2910E-10        8.2910E-11
+        1.0500E+01        0.0000E+00        8.8830E-10        8.8830E-11

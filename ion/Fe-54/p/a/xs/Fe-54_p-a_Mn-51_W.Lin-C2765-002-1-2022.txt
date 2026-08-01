@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 26-FE-54(P,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 26 
+#   A: 54 
+#   Nuclide: 26-FE-54 
+# Reaction: 
+#   Process: P,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  9.4000e+00 MeV - 1.7900e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 51 
+#   Nuclide: 25-MN-51 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2765-002-1 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-54(P,A)25-MN-51,,SIG) 
+#   First author: W.Lin 
+#   Institute:  (1USAWIS): University of Wisconsin, Madison, WI 
+#   Reference:  (J,NP/A,1021,122424,2022) 
+#   Year:  2022 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C27/C2765.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2765
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.4000E+00        1.0000E-01        8.3000E-04        9.0000E-05
+        9.9000E+00        1.0000E-01        2.2900E-03        2.2000E-04
+        1.0900E+01        1.0000E-01        7.4400E-03        7.4000E-04
+        1.1900E+01        1.0000E-01        1.5900E-02        1.5000E-03
+        1.2900E+01        1.0000E-01        2.2700E-02        2.1000E-03
+        1.3900E+01        1.0000E-01        3.1900E-02        3.0000E-03
+        1.4900E+01        1.0000E-01        3.3200E-02        3.1000E-03
+        1.5900E+01        1.0000E-01        3.7700E-02        3.3000E-03
+        1.6900E+01        1.0000E-01        3.9600E-02        3.6000E-03
+        1.7900E+01        1.0000E-01        4.1500E-02        3.7000E-03

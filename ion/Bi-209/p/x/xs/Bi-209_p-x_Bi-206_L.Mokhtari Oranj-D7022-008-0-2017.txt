@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 83-BI-209(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.2000e+01 MeV - 1.0050e+02 MeV 
+# Residual: 
+#   Z: 83 
+#   A: 206 
+#   Nuclide: 83-BI-206 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D7022-008-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(P,X)83-BI-206,IND,SIG) 
+#   First author: L.Mokhtari Oranj 
+#   Institute:  (3KORPUE): Pohang University of Science and Technology, Pohang 
+#   Reference:  (J,PR/C,95,044609,2017) 
+#   Year:  2017 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D70/D7022.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D7022
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.2000E+01        2.0000E+00        1.1420E-01        1.2500E-02
+        8.2000E+01        1.5000E+00        1.0970E-01        1.2100E-02
+        9.1800E+01        1.0000E+00        1.1140E-01        1.1800E-02
+        1.0050E+02        5.0000E-01        1.0350E-01        1.0900E-02

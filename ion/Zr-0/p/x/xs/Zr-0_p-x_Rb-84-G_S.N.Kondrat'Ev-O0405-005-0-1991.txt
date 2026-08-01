@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 40-ZR-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 40 
+#   A: 0 
+#   Nuclide: 40-ZR-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.7500e+01 MeV - 6.8000e+01 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 84 
+#   Nuclide: 37-RB-84-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0405-005-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-0(P,X)37-RB-84-G,M+,SIG) 
+#   First author: S.N.Kondrat'Ev 
+#   Institute:  (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+#   Reference:  (J,AE,71,(4),325,1991) 
+#   Year:  1991 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O04/O0405.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0405
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.7500E+01        0.0000E+00        2.8500E-05        1.7000E-06
+        4.9000E+01        0.0000E+00        4.4000E-05        2.5000E-06
+        5.0000E+01        0.0000E+00        4.9000E-05        3.2000E-06
+        5.1000E+01        0.0000E+00        4.8000E-05        7.0000E-06
+        5.2000E+01        0.0000E+00        7.6000E-05        1.2000E-05
+        5.3000E+01        0.0000E+00        1.5000E-04        1.2000E-05
+        5.5000E+01        0.0000E+00        2.5000E-04        2.5000E-05
+        5.6500E+01        0.0000E+00        2.6000E-04        4.0000E-05
+        6.0000E+01        0.0000E+00        5.6000E-04        7.0000E-05
+        6.2000E+01        0.0000E+00        7.4000E-04        1.2000E-04
+        6.4000E+01        0.0000E+00        1.0500E-03        1.6000E-04
+        6.5000E+01        0.0000E+00        1.0900E-03        1.4000E-04
+        6.7000E+01        0.0000E+00        1.2300E-03        1.3000E-04
+        6.8000E+01        0.0000E+00        1.1100E-03        1.1000E-04

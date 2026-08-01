@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 36-KR-86(P,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 36 
+#   A: 86 
+#   Nuclide: 36-KR-86 
+# Reaction: 
+#   Process: P,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  2.2000e+01 MeV - 2.9500e+01 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 84 
+#   Nuclide: 37-RB-84 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0489-006-0 (entry-subentry-pointer) 
+#   Reaction code: (36-KR-86(P,3N)37-RB-84,,SIG) 
+#   First author: Z.Kovacs 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,ARI,42,329,1991) 
+#   Year:  1991 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0489.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0489
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.9500E+01        0.0000E+00        5.0900E-01        0.0000E+00
+        2.9000E+01        0.0000E+00        4.7200E-01        0.0000E+00
+        2.8000E+01        0.0000E+00        3.9700E-01        0.0000E+00
+        2.7000E+01        0.0000E+00        3.2300E-01        0.0000E+00
+        2.6000E+01        0.0000E+00        2.5400E-01        0.0000E+00
+        2.5000E+01        0.0000E+00        1.8600E-01        0.0000E+00
+        2.4000E+01        0.0000E+00        1.0500E-01        0.0000E+00
+        2.3000E+01        0.0000E+00        1.6900E-02        0.0000E+00
+        2.2000E+01        0.0000E+00        1.1700E-03        0.0000E+00

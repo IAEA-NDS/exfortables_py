@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 57-LA-139(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 57 
+#   A: 139 
+#   Nuclide: 57-LA-139 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.0990e+01 MeV - 5.6070e+01 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 132 
+#   Nuclide: 58-CE-132 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C3074-007-0 (entry-subentry-pointer) 
+#   Reaction code: (57-LA-139(P,X)58-CE-132,,SIG) 
+#   First author: J.T.Morrell 
+#   Institute:  (1USAUCX): University of California, Berkeley, CA 
+#   Reference:  (J,EPJ/A,56,13,2020) 
+#   Year:  2020 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C30/C3074.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C3074
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.0990E+01        3.3000E-01        4.0500E-05        5.7000E-06
+        5.4420E+01        3.2000E-01        1.1140E-04        5.4000E-06
+        5.6070E+01        3.1000E-01        1.7000E-04        1.4000E-05

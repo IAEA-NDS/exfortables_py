@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 90-TH-232(D,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: D,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  3.1000e+01 MeV - 4.9600e+01 MeV 
+# Residual: 
+#   Z: 91 
+#   A: 232 
+#   Nuclide: 91-PA-232 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2974-003-0 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(D,2N)91-PA-232,,SIG) 
+#   First author: N.Burahmah 
+#   Institute:  (1USATEN): University of Tennessee, Knoxville, TN 
+#   Reference:  (J,PR/C,108,024609,2023) 
+#   Year:  2023 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C29/C2974.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2974
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.1000E+01        0.0000E+00        4.0600E-02        2.7000E-03
+        3.5200E+01        0.0000E+00        3.1300E-02        2.1000E-03
+        4.1400E+01        0.0000E+00        2.1900E-02        1.4000E-03
+        4.9600E+01        0.0000E+00        2.0400E-02        1.4000E-03

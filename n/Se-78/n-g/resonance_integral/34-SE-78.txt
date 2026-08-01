@@ -1,7 +1,7 @@
 # Header: 
 #   title: 34-SE-78(N,G) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2026-06-11 
+#   date created: 2026-08-01 
 # Target: 
 #   Z: 34 
 #   A: 78 
@@ -9,18 +9,21 @@
 # Reaction: 
 #   Type: N,G 
 #   Type: N,G 
-#   Incident energy       : 6.0000e-07 MeV - 2.0250e-02 MeV 
+#   Incident energy       : 5.0000e-07 MeV - 2.0250e-02 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
+#   Resonance Integral Simple Mean  |  Simple Stdev        : 2.34000E+00  |           NAN   (N = 1)
+#   Resonance Integral Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #   RNV Simple Mean           |  Simple Stdev        : 4.58000E+00  |           NAN   (N = 1)
 #   RNV Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #
 # Data Table
 #   Experimental Data
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+14868-007-0         H.D.Dearmon             2019   5.0000E-07   0.0000E+00   2.3400E+00   9.0000E-02                
 30129-003-2         M.D.Ricabarra           1968   6.0000E-07   0.0000E+00   4.5800E+00   6.0000E-01     RNV        
 #   Recom./Eval./Deriv./Calc. Data
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9

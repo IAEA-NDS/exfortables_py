@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 41-NB-93(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.4900e+02 MeV - 2.6050e+03 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 86 
+#   Nuclide: 37-RB-86 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0906-134-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(P,X)37-RB-86,,SIG) 
+#   First author: Yu.E.Titarenko 
+#   Institute:  (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
+#   Reference:  (J,PAN,74,537,2011) 
+#   Year:  2011 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0906.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0906
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.4900E+02        1.0000E+00        2.4000E-04        1.2000E-04
+        4.0000E+02        2.0000E+00        3.6000E-04        2.9000E-04
+        6.0000E+02        2.0000E+00        3.0000E-04        3.7000E-04
+        7.9900E+02        2.0000E+00        5.8000E-04        5.5000E-04
+        1.1990E+03        3.0000E+00        5.3500E-04        8.7000E-05
+        1.5990E+03        4.0000E+00        5.6100E-04        9.5000E-05
+        2.6050E+03        8.0000E+00        5.2400E-04        7.1000E-05

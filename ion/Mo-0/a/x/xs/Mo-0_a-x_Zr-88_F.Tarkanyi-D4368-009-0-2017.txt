@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 42-MO-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 0 
+#   Nuclide: 42-MO-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.6100e+01 MeV - 3.8200e+01 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 88 
+#   Nuclide: 40-ZR-88 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4368-009-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-0(A,X)40-ZR-88,CUM,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,399,83,2017) 
+#   Year:  2017 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4368.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4368
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.6100E+01        6.0000E-01        1.0000E-04        2.0000E-05
+        2.0300E+01        5.0000E-01        2.1000E-04        3.0000E-05
+        2.3900E+01        5.0000E-01        4.8000E-04        6.0000E-05
+        2.7200E+01        4.0000E-01        8.2000E-04        1.0000E-04
+        3.0200E+01        4.0000E-01        1.2600E-03        1.5000E-04
+        3.3000E+01        4.0000E-01        1.1300E-03        1.7000E-04
+        3.5700E+01        3.0000E-01        1.0500E-03        3.0000E-04
+        3.8200E+01        3.0000E-01        9.6000E-04        2.2000E-04

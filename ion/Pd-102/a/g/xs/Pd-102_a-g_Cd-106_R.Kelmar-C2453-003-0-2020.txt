@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 46-PD-102(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 46 
+#   A: 102 
+#   Nuclide: 46-PD-102 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  8.7100e+00 MeV - 1.1330e+01 MeV 
+# Residual: 
+#   Z: 48 
+#   A: 106 
+#   Nuclide: 48-CD-106 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2453-003-0 (entry-subentry-pointer) 
+#   Reaction code: (46-PD-102(A,G)48-CD-106,,SIG) 
+#   First author: R.Kelmar 
+#   Institute:  (1USANOT): University of Notre Dame, Notre Dame, IN 
+#   Reference:  (J,PR/C,101,015801,2020) 
+#   Year:  2020 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C24/C2453.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2453
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        1.1330E+01        1.9000E-01        1.5100E-04        6.0000E-05
+        1.0830E+01        2.0000E-01        8.9000E-05        3.3000E-05
+        1.0330E+01        2.1000E-01        4.1000E-05        1.3000E-05
+        9.8500E+00        2.1000E-01        3.0500E-05        8.8000E-06
+        9.3500E+00        2.2000E-01        1.9000E-05        1.6000E-05
+        8.7100E+00        2.3000E-01        1.4000E-05        1.1000E-05

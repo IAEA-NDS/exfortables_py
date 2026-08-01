@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 52-TE-130(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 52 
+#   A: 130 
+#   Nuclide: 52-TE-130 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  6.5000e+00 MeV - 1.4100e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 131 
+#   Nuclide: 52-TE-131 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: P0119-010-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-130(D,P)52-TE-131,,SIG) 
+#   First author: K.Otozai 
+#   Institute:  (2JPNOSA): Osaka University , Osaka 
+#   Reference:  (J,NP/A,107,427,1968) 
+#   Year:  1968 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P01/P0119.x4 
+#   nds:  https://nds.iaea.org/EXFOR/P0119
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        6.5000E+00        0.0000E+00        7.0000E-02        0.0000E+00
+        8.2000E+00        0.0000E+00        1.8000E-01        2.0000E-02
+        1.0200E+01        0.0000E+00        2.0000E-01        2.0000E-02
+        1.2000E+01        0.0000E+00        1.8000E-01        0.0000E+00
+        1.4100E+01        0.0000E+00        1.4000E-01        3.0000E-02

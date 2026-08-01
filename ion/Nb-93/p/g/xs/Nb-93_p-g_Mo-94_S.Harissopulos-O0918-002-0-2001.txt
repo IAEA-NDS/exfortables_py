@@ -1,0 +1,50 @@
+# Header: 
+#   Title: 41-NB-93(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.9890e+00 MeV - 2.9890e+00 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 94 
+#   Nuclide: 42-MO-94 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0918-002-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(P,G)42-MO-94,,SIG) 
+#   First author: S.Harissopulos 
+#   Institute:  (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
+#   Reference:  (J,PR/C,64,055804,2001) 
+#   Year:  2001 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O09/O0918.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0918
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        1.9890E+00        0.0000E+00        3.5000E-06        5.0000E-07
+        2.0380E+00        0.0000E+00        4.4000E-06        6.0000E-07
+        2.0900E+00        0.0000E+00        6.2000E-06        7.0000E-07
+        2.1390E+00        0.0000E+00        7.3000E-06        8.0000E-07
+        2.1880E+00        0.0000E+00        1.2000E-05        1.2000E-06
+        2.2390E+00        0.0000E+00        1.2200E-05        1.3000E-06
+        2.2910E+00        0.0000E+00        1.5600E-05        1.2000E-06
+        2.3400E+00        0.0000E+00        1.9500E-05        2.4000E-06
+        2.3890E+00        0.0000E+00        2.5000E-05        3.0000E-06
+        2.4400E+00        0.0000E+00        2.8000E-05        4.0000E-06
+        2.4890E+00        0.0000E+00        3.1000E-05        4.0000E-06
+        2.5400E+00        0.0000E+00        4.0000E-05        5.0000E-06
+        2.5750E+00        0.0000E+00        4.4000E-05        6.0000E-06
+        2.6390E+00        0.0000E+00        4.9000E-05        7.0000E-06
+        2.6890E+00        0.0000E+00        5.2000E-05        5.0000E-06
+        2.7390E+00        0.0000E+00        5.8000E-05        7.0000E-06
+        2.7880E+00        0.0000E+00        6.5000E-05        7.0000E-06
+        2.8390E+00        0.0000E+00        6.9000E-05        8.0000E-06
+        2.8890E+00        0.0000E+00        6.6000E-05        8.0000E-06
+        2.9390E+00        0.0000E+00        7.0000E-05        9.0000E-06
+        2.9890E+00        0.0000E+00        7.2000E-05        1.0000E-05

@@ -1,0 +1,52 @@
+# Header: 
+#   Title: 74-W-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 74 
+#   A: 0 
+#   Nuclide: 74-W-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.9670e+01 MeV - 3.9750e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 184 
+#   Nuclide: 75-RE-184 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2121-024-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-0(D,X)75-RE-184,,SIG) 
+#   First author: K.Ochiai 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (C,2007NICE,2,1011,2007) 
+#   Year:  2007 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E21/E2121.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2121
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.9670E+01        0.0000E+00        1.0854E-01        1.3200E-02
+        2.2790E+01        0.0000E+00        1.3660E-01        1.6500E-02
+        2.3330E+01        0.0000E+00        1.6910E-01        1.9500E-02
+        2.4870E+01        0.0000E+00        2.5990E-01        2.8600E-02
+        2.5470E+01        0.0000E+00        3.1370E-01        3.4600E-02
+        2.5980E+01        0.0000E+00        2.9420E-01        3.1900E-02
+        2.7400E+01        0.0000E+00        3.8410E-01        4.1700E-02
+        2.7960E+01        0.0000E+00        4.1070E-01        4.4100E-02
+        2.8430E+01        0.0000E+00        4.0710E-01        4.3600E-02
+        2.9760E+01        0.0000E+00        4.9600E-01        5.4300E-02
+        3.0290E+01        0.0000E+00        4.6870E-01        4.9400E-02
+        3.0730E+01        0.0000E+00        4.1850E-01        4.4100E-02
+        3.2000E+01        0.0000E+00        3.9150E-01        4.2500E-02
+        3.2500E+01        0.0000E+00        4.1950E-01        4.4600E-02
+        3.2920E+01        0.0000E+00        3.7140E-01        3.8500E-02
+        3.4120E+01        0.0000E+00        3.1860E-01        3.3000E-02
+        3.4750E+01        0.0000E+00        3.3711E-01        3.6250E-02
+        3.5620E+01        0.0000E+00        2.9800E-01        3.2460E-02
+        3.6470E+01        0.0000E+00        2.7610E-01        3.0660E-02
+        3.7310E+01        0.0000E+00        2.5723E-01        2.7850E-02
+        3.8130E+01        0.0000E+00        2.2967E-01        2.7050E-02
+        3.8950E+01        0.0000E+00        1.9966E-01        2.2330E-02
+        3.9750E+01        0.0000E+00        1.8819E-01        2.0820E-02

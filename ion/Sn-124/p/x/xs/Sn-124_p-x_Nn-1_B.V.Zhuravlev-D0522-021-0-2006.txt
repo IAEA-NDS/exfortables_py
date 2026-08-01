@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 50-SN-124(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 50 
+#   A: 124 
+#   Nuclide: 50-SN-124 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0200e+01 MeV - 1.1160e+01 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 1 
+#   Nuclide: 0-NN-1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0522-021-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-124(P,X)0-NN-1,,SIG) 
+#   First author: B.V.Zhuravlev 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (J,PAN,69,363,2006) 
+#   Year:  2006 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D05/D0522.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0522
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0200E+01        0.0000E+00        9.6300E-01        6.2600E-02
+        1.0740E+01        0.0000E+00        1.1980E+00        7.1900E-02
+        1.1160E+01        0.0000E+00        1.3190E+00        7.9100E-02

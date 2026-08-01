@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 20-CA-48(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 20 
+#   A: 48 
+#   Nuclide: 20-CA-48 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.1600e+01 MeV - 1.8400e+01 MeV 
+# Residual: 
+#   Z: 20 
+#   A: 47 
+#   Nuclide: 20-CA-47 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2422-003-0 (entry-subentry-pointer) 
+#   Reaction code: (20-CA-48(P,X)20-CA-47,,SIG) 
+#   First author: T.S.Carzaniga 
+#   Institute:  (2SWTUBE): Universitaet Bern, Bern 
+#   Reference:  (J,ARI,143,18,2019) 
+#   Year:  2019 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O24/O2422.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2422
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1600E+01        6.0000E-01        0.0000E+00        0.0000E+00
+        1.3200E+01        6.0000E-01        6.3000E-02        2.0000E-02
+        1.4600E+01        5.0000E-01        1.2000E-01        2.7000E-02
+        1.6000E+01        5.0000E-01        1.9900E-01        4.3000E-02
+        1.7200E+01        5.0000E-01        2.3300E-01        4.8000E-02
+        1.8400E+01        5.0000E-01        2.0900E-01        4.2000E-02

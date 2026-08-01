@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 39-Y-89(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  4.7000e+00 MeV - 2.6900e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 90 
+#   Nuclide: 39-Y-90-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F0844-002-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(D,P)39-Y-90-M,,SIG) 
+#   First author: C.Corazza 
+#   Institute:  (3ARGCNE): Comision Nacional de Energia Atomica, Buenos Aires 
+#   Reference:  (J,RCA,15,7,1971) 
+#   Year:  1971 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F08/F0844.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0844
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.7000E+00        5.0000E-01        2.0000E-04        3.0000E-05
+        5.4000E+00        3.5000E-01        2.2000E-03        3.0000E-04
+        6.6000E+00        3.5000E-01        6.7000E-03        1.0000E-03
+        8.0000E+00        3.0000E-01        1.1600E-02        1.6000E-03
+        1.0200E+01        3.0000E-01        1.6700E-02        2.5000E-03
+        1.2000E+01        2.5000E-01        1.6700E-02        2.5000E-03
+        1.3700E+01        2.0000E-01        1.5300E-02        2.3000E-03
+        1.5700E+01        2.0000E-01        1.4700E-02        2.2000E-03
+        1.6700E+01        2.0000E-01        1.4300E-02        2.1000E-03
+        1.9100E+01        1.5000E-01        1.4000E-02        2.1000E-03
+        2.0400E+01        2.0000E-01        1.3700E-02        2.0000E-03
+        2.1500E+01        2.0000E-01        1.2500E-02        1.8000E-03
+        2.2600E+01        1.5000E-01        1.2600E-02        1.9000E-03
+        2.3700E+01        1.5000E-01        1.1300E-02        1.8000E-03
+        2.4800E+01        1.5000E-01        1.1400E-02        1.7000E-03
+        2.5900E+01        1.5000E-01        1.0500E-02        1.5000E-03
+        2.6900E+01        1.5000E-01        1.0500E-02        1.6000E-03

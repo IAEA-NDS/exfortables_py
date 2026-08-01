@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 25-MN-55(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 25 
+#   A: 55 
+#   Nuclide: 25-MN-55 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.8200e+01 MeV - 1.9220e+01 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 51 
+#   Nuclide: 24-CR-51 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0973-004-0 (entry-subentry-pointer) 
+#   Reaction code: (25-MN-55(D,X)24-CR-51,,SIG) 
+#   First author: M.Avrigeanu 
+#   Institute:  (3RUMBUC): Horia Hulubei National Institute (IFIN-HH), Magurele 
+#   Reference:  (J,PR/C,101,024605,2020) 
+#   Year:  2020 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D09/D0973.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0973
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.8200E+01        2.8000E-01        1.1900E-04        4.0000E-05
+        1.9220E+01        2.8000E-01        3.5300E-04        4.4000E-05

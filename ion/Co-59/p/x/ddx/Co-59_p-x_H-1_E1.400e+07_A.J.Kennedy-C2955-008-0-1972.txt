@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 27-CO-59(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.4000e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Outgoing energy:  4.2000e+00 MeV - 4.2000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: C2955-008-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(P,X)1-H-1,,DA/DE) 
+#   First author: A.J.Kennedy 
+#   Institute:  (1USAPUR): Purdue University, West Lafayette, IN 
+#   Reference:  (J,PR/C,5,500,1972) 
+#   Year:  1972 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C29/C2955.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2955
+#
+#   E_out_cm(MeV)    dE_out_cm(MeV) Angle_cm(degrees) dAngle_cm(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        4.2000E+00        0.0000E+00        1.2140E+02        0.0000E+00        3.8950E-09        1.8780E-10
+        4.2000E+00        0.0000E+00        1.5060E+02        0.0000E+00        3.9630E-09        9.7990E-11
+        4.2000E+00        0.0000E+00        9.0900E+01        0.0000E+00        3.9650E-09        2.0410E-10
+        4.2000E+00        0.0000E+00        6.1900E+01        0.0000E+00        4.0600E-09        2.0410E-10
+        4.2000E+00        0.0000E+00        3.0400E+01        0.0000E+00        4.4240E-09        2.1220E-10

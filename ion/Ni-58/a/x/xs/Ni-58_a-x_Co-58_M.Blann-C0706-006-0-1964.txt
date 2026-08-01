@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 28-NI-58(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.1900e+01 MeV - 4.7000e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0706-006-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(A,X)27-CO-58,,SIG) 
+#   First author: M.Blann 
+#   Institute:  (1USAROC): University of Rochester, Rochester, NY 
+#   Reference:  (J,NP,52,673,1964) 
+#   Year:  1964 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C07/C0706.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0706
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.1900E+01        0.0000E+00        5.2000E-03        1.3000E-03
+        2.4300E+01        0.0000E+00        7.5000E-03        1.8750E-03
+        2.6600E+01        0.0000E+00        7.0000E-03        1.7500E-03
+        3.0500E+01        0.0000E+00        9.5000E-03        2.3750E-03
+        3.3200E+01        0.0000E+00        1.4000E-02        3.5000E-03
+        3.5700E+01        0.0000E+00        2.5000E-02        6.2500E-03
+        3.8000E+01        0.0000E+00        1.0000E-01        2.5000E-02
+        4.0700E+01        0.0000E+00        1.8000E-01        4.5000E-02
+        4.3900E+01        0.0000E+00        2.5000E-01        6.2500E-02
+        4.5100E+01        0.0000E+00        3.6000E-01        9.0000E-02
+        4.7000E+01        0.0000E+00        4.8500E-01        1.2125E-01

@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 37-RB-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 37 
+#   A: 0 
+#   Nuclide: 37-RB-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.1610e+01 MeV - 4.9620e+01 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 83 
+#   Nuclide: 38-SR-83 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4413-004-0 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-0(D,X)38-SR-83,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,EPJ/A,57,21,2021) 
+#   Year:  2021 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4413.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4413
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.1610E+01        7.3000E-01        4.0060E-02        4.9700E-03
+        3.3310E+01        6.9000E-01        8.9730E-02        1.0840E-02
+        3.4400E+01        6.5000E-01        1.1470E-01        1.3780E-02
+        3.5460E+01        6.1000E-01        1.4345E-01        1.7200E-02
+        3.6540E+01        5.7000E-01        2.0516E-01        2.4560E-02
+        3.7640E+01        5.4000E-01        2.0851E-01        2.4920E-02
+        3.8760E+01        5.1000E-01        2.0831E-01        2.4870E-02
+        3.9880E+01        4.8000E-01        2.0757E-01        2.4800E-02
+        4.1020E+01        4.5000E-01        2.4779E-01        2.9580E-02
+        4.2130E+01        4.3000E-01        2.4771E-01        2.9570E-02
+        4.3270E+01        4.0000E-01        2.4741E-01        2.9530E-02
+        4.4420E+01        3.8000E-01        2.4654E-01        2.9420E-02
+        4.5620E+01        3.6000E-01        2.4676E-01        2.9450E-02
+        4.6810E+01        3.4000E-01        2.6003E-01        3.1050E-02
+        4.8030E+01        3.2000E-01        2.1762E-01        2.5960E-02
+        4.9620E+01        3.0000E-01        1.8226E-01        2.1780E-02

@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 23-V-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 23 
+#   A: 0 
+#   Nuclide: 23-V-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.1100e+02 MeV - 9.5400e+02 MeV 
+# Residual: 
+#   Z: 20 
+#   A: 41 
+#   Nuclide: 20-CA-41 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2610-003-0 (entry-subentry-pointer) 
+#   Reaction code: (23-V-0(P,X)20-CA-41,,SIG) 
+#   First author: M.Veicht 
+#   Institute:  (2SWTSWT): Switzerland 
+#   Reference:  (J,RCA,110,809,2022) 
+#   Year:  2022 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O26/O2610.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2610
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1100E+02        1.0000E+00        2.9000E-03        1.0000E-04
+        1.2900E+02        1.0000E+00        4.3000E-03        2.0000E-04
+        1.3500E+02        1.0000E+00        5.0000E-03        2.0000E-04
+        1.4500E+02        1.0000E+00        5.3000E-03        2.0000E-04
+        1.5000E+02        1.0000E+00        5.3000E-03        2.0000E-04
+        1.6600E+02        1.0000E+00        5.5000E-03        2.0000E-04
+        9.5400E+02        2.0000E-01        1.0700E-02        8.0000E-04

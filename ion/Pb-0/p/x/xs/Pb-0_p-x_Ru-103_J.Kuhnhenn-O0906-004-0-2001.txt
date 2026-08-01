@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 82-PB-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.6700e+01 MeV - 6.9000e+01 MeV 
+# Residual: 
+#   Z: 44 
+#   A: 103 
+#   Nuclide: 44-RU-103 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0906-004-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(P,X)44-RU-103,CUM,SIG) 
+#   First author: J.Kuhnhenn 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,RCA,89,697,2001) 
+#   Year:  2001 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O09/O0906.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0906
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.6700E+01        7.0000E-01        6.3200E-05        2.3300E-05
+        3.9800E+01        7.0000E-01        1.1600E-04        1.4000E-05
+        4.2800E+01        6.0000E-01        1.8600E-04        1.1000E-05
+        4.5000E+01        9.0000E-01        2.6400E-04        5.7000E-05
+        4.7700E+01        9.0000E-01        3.7600E-04        3.4000E-05
+        5.0400E+01        8.0000E-01        4.9500E-04        8.7000E-05
+        5.3200E+01        8.0000E-01        6.3200E-04        5.8000E-05
+        5.5700E+01        8.0000E-01        7.8900E-04        6.0000E-05
+        5.8100E+01        7.0000E-01        8.4800E-04        8.5000E-05
+        6.0000E+01        7.0000E-01        9.0000E-04        4.4000E-05
+        6.2200E+01        7.0000E-01        1.0600E-03        5.0000E-05
+        6.4400E+01        7.0000E-01        1.2600E-03        8.0000E-05
+        6.6600E+01        6.0000E-01        1.3600E-03        1.7000E-04
+        6.9000E+01        6.0000E-01        1.5100E-03        9.0000E-05

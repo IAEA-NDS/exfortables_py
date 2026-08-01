@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 29-CU-0(3-LI-6,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: 3-LI-6,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.1700e+01 MeV - 4.2600e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 68 
+#   Nuclide: 31-GA-68 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6401-005-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(3-LI-6,X)31-GA-68,,SIG) 
+#   First author: R.Kumar 
+#   Institute:  (3INDIRR): Indian Institute of Technology, Roorkee 
+#   Reference:  (J,EPJ/A,57,209,2021) 
+#   Year:  2021 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D64/D6401.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6401
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.1700E+01        6.0000E-01        4.4400E-02        6.3000E-03
+        2.4000E+01        7.0000E-01        6.2600E-02        7.9000E-03
+        2.6400E+01        7.0000E-01        7.8400E-02        9.6000E-03
+        2.8500E+01        7.0000E-01        1.0200E-01        1.1400E-02
+        3.0600E+01        7.0000E-01        1.1010E-01        1.3500E-02
+        3.2600E+01        6.0000E-01        1.0120E-01        1.2000E-02
+        3.5600E+01        6.0000E-01        1.0990E-01        1.3100E-02
+        3.7400E+01        6.0000E-01        1.1710E-01        1.3500E-02
+        3.9100E+01        6.0000E-01        9.3100E-02        1.0900E-02
+        4.0800E+01        7.0000E-01        7.1400E-02        9.8000E-03
+        4.2600E+01        7.0000E-01        6.1500E-02        7.2000E-03

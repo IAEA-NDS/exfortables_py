@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 65-TB-159(P,7N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 65 
+#   A: 159 
+#   Nuclide: 65-TB-159 
+# Reaction: 
+#   Process: P,7N 
+#   MF-MT number: 3 - 160 
+#   Incident energy:  5.8440e+01 MeV - 6.4950e+01 MeV 
+# Residual: 
+#   Z: 66 
+#   A: 153 
+#   Nuclide: 66-DY-153 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4370-005-0 (entry-subentry-pointer) 
+#   Reaction code: (65-TB-159(P,7N)66-DY-153,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,ARI,127,7,2017) 
+#   Year:  2017 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4370.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4370
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.8440E+01        4.2000E-01        3.5900E-03        1.6500E-03
+        6.0710E+01        3.4000E-01        1.3000E-02        2.4700E-03
+        6.2900E+01        2.7000E-01        3.8040E-02        4.9400E-03
+        6.4950E+01        2.0000E-01        6.4420E-02        7.5600E-03

@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 49-IN-113(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 49 
+#   A: 113 
+#   Nuclide: 49-IN-113 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.9400e+00 MeV - 1.4240e+01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 113 
+#   Nuclide: 50-SN-113-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0949-003-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-113(P,N)50-SN-113-M,,SIG) 
+#   First author: E.K.Elmaghraby 
+#   Institute:  (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
+#   Reference:  (J,NP/A,984,112,2019) 
+#   Year:  2019 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D09/D0949.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0949
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.9400E+00        0.0000E+00        9.3000E-02        6.0000E-03
+        5.9600E+00        0.0000E+00        1.1600E-01        6.0000E-03
+        7.2800E+00        0.0000E+00        1.6400E-01        7.6000E-03
+        8.4700E+00        0.0000E+00        2.4400E-01        1.1000E-02
+        8.6300E+00        0.0000E+00        1.8300E-01        1.1000E-02
+        1.0030E+01        0.0000E+00        3.5300E-01        1.6000E-02
+        1.0580E+01        0.0000E+00        3.2300E-01        1.7000E-02
+        1.0990E+01        0.0000E+00        3.7700E-01        2.0000E-02
+        1.1810E+01        0.0000E+00        4.2600E-01        3.7000E-02
+        1.2270E+01        0.0000E+00        3.8800E-01        2.2000E-02
+        1.3060E+01        0.0000E+00        3.2800E-01        3.0000E-02
+        1.3120E+01        0.0000E+00        4.5800E-01        4.3000E-02
+        1.4040E+01        0.0000E+00        3.2100E-01        1.3000E-02
+        1.4240E+01        0.0000E+00        3.2500E-01        4.7000E-02

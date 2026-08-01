@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 48-CD-114(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 48 
+#   A: 114 
+#   Nuclide: 48-CD-114 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  3.8000e+00 MeV - 2.0900e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 114 
+#   Nuclide: 49-IN-114-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0001-010-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-114(P,N)49-IN-114-M,,SIG) 
+#   First author: E.A.Skakun 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,BAS,39,(1),18,1975) 
+#   Year:  1975 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A00/A0001.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0001
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.8000E+00        0.0000E+00        1.0000E-04        1.5000E-05
+        5.9000E+00        0.0000E+00        2.9000E-02        4.3500E-03
+        7.7000E+00        0.0000E+00        1.5000E-01        2.2500E-02
+        9.0000E+00        0.0000E+00        2.7000E-01        4.0500E-02
+        1.1800E+01        0.0000E+00        2.2600E-01        3.3900E-02
+        1.9000E+01        0.0000E+00        4.1000E-02        6.1500E-03
+        2.0900E+01        0.0000E+00        4.1000E-02        6.1500E-03

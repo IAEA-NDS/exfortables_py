@@ -1,0 +1,51 @@
+# Header: 
+#   Title: 27-CO-59(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.0400e+01 MeV - 1.1440e+02 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1210-002-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(A,X)27-CO-58,,SIG) 
+#   First author: J.Rama Rao 
+#   Institute:  (3INDBHU): Banaras Hindu University , Varanasi 
+#   Reference:  (J,NIM/B,24-25,484,1987) 
+#   Year:  1987 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O12/O1210.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1210
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.0400E+01        4.0000E-01        8.0000E-03        8.0000E-04
+        2.3600E+01        4.0000E-01        7.2000E-02        7.2000E-03
+        2.5400E+01        4.0000E-01        1.3200E-01        1.7160E-02
+        3.1500E+01        4.0000E-01        2.6200E-01        2.6200E-02
+        3.2700E+01        4.0000E-01        2.5800E-01        1.8060E-02
+        3.8800E+01        4.0000E-01        1.9800E-01        1.3860E-02
+        4.3900E+01        4.0000E-01        1.5700E-01        1.0990E-02
+        4.8500E+01        4.0000E-01        1.1800E-01        9.4400E-03
+        5.4200E+01        4.0000E-01        1.0900E-01        7.6300E-03
+        5.9700E+01        4.0000E-01        1.4700E-01        1.0290E-02
+        6.5200E+01        4.0000E-01        2.2400E-01        1.5680E-02
+        7.0400E+01        4.0000E-01        3.0100E-01        1.8060E-02
+        7.5200E+01        4.0000E-01        3.2600E-01        2.2820E-02
+        7.6800E+01        4.0000E-01        3.2600E-01        1.9560E-02
+        8.0100E+01        4.0000E-01        3.3600E-01        2.6880E-02
+        8.5500E+01        4.0000E-01        3.1100E-01        2.1770E-02
+        8.9500E+01        4.0000E-01        2.8800E-01        1.7280E-02
+        9.4600E+01        4.0000E-01        2.6200E-01        1.8340E-02
+        9.9200E+01        4.0000E-01        2.5000E-01        1.5000E-02
+        1.0430E+02        4.0000E-01        2.3900E-01        1.1950E-02
+        1.0890E+02        4.0000E-01        2.3900E-01        1.9120E-02
+        1.1440E+02        4.0000E-01        2.2800E-01        1.5960E-02

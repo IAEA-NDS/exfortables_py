@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 49-IN-113(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 49 
+#   A: 113 
+#   Nuclide: 49-IN-113 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  6.1000e+00 MeV - 2.0000e+01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 113 
+#   Nuclide: 50-SN-113 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1237-003-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-113(P,N)50-SN-113,,SIG) 
+#   First author: M.M.Musthafa 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  (J,ARI,62,419,2005) 
+#   Year:  2005 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O12/O1237.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1237
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.1000E+00        5.4000E-01        2.8000E-02        0.0000E+00
+        7.4800E+00        5.3000E-01        2.4425E-01        0.0000E+00
+        9.3100E+00        5.3000E-01        4.4125E-01        0.0000E+00
+        1.1300E+01        5.2000E-01        6.5810E-01        0.0000E+00
+        1.3000E+01        5.2000E-01        4.8098E-01        0.0000E+00
+        1.4650E+01        5.2000E-01        3.9059E-01        0.0000E+00
+        1.6500E+01        5.1000E-01        1.5691E-01        0.0000E+00
+        1.8310E+01        5.1000E-01        1.1224E-01        0.0000E+00
+        2.0000E+01        5.0000E-01        8.6920E-02        0.0000E+00

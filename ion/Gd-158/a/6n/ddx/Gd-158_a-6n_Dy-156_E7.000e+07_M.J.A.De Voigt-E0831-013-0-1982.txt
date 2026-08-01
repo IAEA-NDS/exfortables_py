@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 64-GD-158(A,6N)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 64 
+#   A: 158 
+#   Nuclide: 64-GD-158 
+# Reaction: 
+#   Process: A,6N 
+#   MF-MT number: 6 - None 
+#   Incident energy:  7.0000e+01 MeV 
+# Residual: 
+#   Z: 66 
+#   A: 156 
+#   Nuclide: 66-DY-156 
+#   Outgoing energy:  1.4850e+00 MeV - 8.4550e+00 MeV 
+# EXFOR BIB:
+#   Entry id: E0831-013-0 (entry-subentry-pointer) 
+#   Reaction code: (64-GD-158(A,6N)66-DY-156,,DA/DE) 
+#   First author: M.J.A.De Voigt 
+#   Institute:  (2NEDKVI): Kernfysich Versneller Institute , Groningen 
+#   Reference:  (J,NP/A,379,(1),160,198204) 
+#   Year:  1982 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E08/E0831.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E0831
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        8.4550E+00        0.0000E+00        7.0000E+01        0.0000E+00        1.4180E-09        1.8400E-09
+        6.3210E+00        0.0000E+00        7.0000E+01        0.0000E+00        6.2840E-09        2.5260E-09
+        4.7540E+00        0.0000E+00        7.0000E+01        0.0000E+00        2.1110E-08        5.3350E-09
+        3.6690E+00        0.0000E+00        7.0000E+01        0.0000E+00        3.3380E-08        8.3010E-09
+        2.6620E+00        0.0000E+00        7.0000E+01        0.0000E+00        1.1320E-07        1.6340E-08
+        1.4850E+00        0.0000E+00        7.0000E+01        0.0000E+00        1.7590E-07        3.1460E-08
+        1.9020E+00        0.0000E+00        7.0000E+01        0.0000E+00        2.0390E-07        2.3280E-08

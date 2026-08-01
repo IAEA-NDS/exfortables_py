@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 27-CO-59(3-LI-6,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: 3-LI-6,3N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0660e+01 MeV - 2.3380e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 62 
+#   Nuclide: 30-ZN-62 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0520-012-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(3-LI-6,3N)30-ZN-62,,SIG) 
+#   First author: C.Beck 
+#   Institute:  (2FR STR): IPHC, Strasbourg 
+#   Reference:  (J,PR/C,67,054602,20030502) 
+#   Year:  2003 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0520.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0520
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        1.0660E+01        7.0000E-02        2.3900E-03        9.5600E-05
+        1.1430E+01        7.0000E-02        4.5700E-03        1.8280E-04
+        1.2390E+01        7.0000E-02        9.0000E-03        3.6000E-04
+        1.3260E+01        7.0000E-02        1.4400E-02        5.7600E-04
+        1.4130E+01        7.0000E-02        2.1200E-02        8.4800E-04
+        1.5200E+01        7.0000E-02        2.5400E-02        1.0160E-03
+        1.6020E+01        7.0000E-02        3.8400E-02        1.5360E-03
+        1.6990E+01        7.0000E-02        4.3300E-02        1.7320E-03
+        1.7910E+01        7.0000E-02        5.8200E-02        2.3280E-03
+        2.1490E+01        7.0000E-02        7.9000E-02        3.1600E-03
+        2.2460E+01        7.0000E-02        7.9000E-02        3.1600E-03
+        2.3380E+01        7.0000E-02        1.0000E-01        4.0000E-03

@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 1-H-3(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.3000e+01 MeV - 3.0000e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1161-004-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-3(P,G)2-HE-4,,SIG,,D4PI) 
+#   First author: R.C.Mcbroom 
+#   Institute:  (1USATNL): Triangle Universities Nuclear Laboratory , Durham, NC 
+#   Reference:  (J,PR/C,25,1644,1982) 
+#   Year:  1982 
+#   Facility:  (CYGFF): Cyclograaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A11/A1161.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1161
+#
+#       E_in(MeV)        dE_in(MeV)        data(B/SR)       ddata(B/SR)
+        1.3000E+01        0.0000E+00        5.0500E-06        1.6000E-07
+        1.7000E+01        0.0000E+00        4.0700E-06        1.2000E-07
+        1.9000E+01        0.0000E+00        4.0300E-06        9.0000E-08
+        2.1000E+01        0.0000E+00        3.4000E-06        9.0000E-08
+        2.3000E+01        0.0000E+00        2.9100E-06        5.0000E-08
+        2.5000E+01        0.0000E+00        2.8300E-06        6.0000E-08
+        2.7000E+01        0.0000E+00        2.2900E-06        5.0000E-08
+        3.0000E+01        0.0000E+00        2.1100E-06        1.4000E-07

@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 50-SN-124(7-N-14,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 50 
+#   A: 124 
+#   Nuclide: 50-SN-124 
+# Reaction: 
+#   Process: 7-N-14,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.0130e+01 MeV - 8.4850e+01 MeV 
+# Residual: 
+#   Z: 55 
+#   A: 134 
+#   Nuclide: 55-CS-134 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6384-006-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-124(7-N-14,X)55-CS-134,,SIG) 
+#   First author: A.Mahato 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,EPJ/A,56,131,2020) 
+#   Year:  2020 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D63/D6384.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6384
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.0130E+01        5.2000E-01        1.0800E-03        2.2000E-04
+        7.4410E+01        5.5000E-01        1.1400E-03        2.3000E-04
+        7.8290E+01        5.8000E-01        1.2200E-03        2.7000E-04
+        8.1440E+01        6.0000E-01        1.1200E-03        1.6000E-04
+        8.4850E+01        6.5000E-01        8.5000E-04        1.7000E-04

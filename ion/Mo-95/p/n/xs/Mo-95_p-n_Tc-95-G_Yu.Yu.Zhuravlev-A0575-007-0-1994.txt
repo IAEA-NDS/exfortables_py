@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 42-MO-95(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 95 
+#   Nuclide: 42-MO-95 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  5.1500e+00 MeV - 6.0200e+00 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 95 
+#   Nuclide: 43-TC-95-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0575-007-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-95(P,N)43-TC-95-G,,SIG) 
+#   First author: Yu.Yu.Zhuravlev 
+#   Institute:  (4RUSSUL): Gosudarstvennyi University (State University ), St.Petersburg 
+#   Reference:  (J,BAS,58,798,1994) 
+#   Year:  1994 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0575.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0575
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.1500E+00        0.0000E+00        1.2000E-02        2.0000E-03
+        6.0200E+00        0.0000E+00        3.8000E-02        2.0000E-03

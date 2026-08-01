@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 64-GD-158(A,6N)  Energy distribution 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 64 
+#   A: 158 
+#   Nuclide: 64-GD-158 
+# Reaction: 
+#   Process: A,6N 
+#   MF-MT number: 5 - None 
+#   Incident energy:  7.0000e+01 MeV 
+# Residual: 
+#   Z: 66 
+#   A: 156 
+#   Nuclide: 66-DY-156 
+#   Outgoing energy:  1.4080e+00 MeV - 8.6230e+00 MeV 
+# EXFOR BIB:
+#   Entry id: E0831-016-0 (entry-subentry-pointer) 
+#   Reaction code: (64-GD-158(A,6N)66-DY-156,,DE) 
+#   First author: M.J.A.De Voigt 
+#   Institute:  (2NEDKVI): Kernfysich Versneller Institute , Groningen 
+#   Reference:  (J,NP/A,379,(1),160,198204) 
+#   Year:  1982 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E08/E0831.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E0831
+#
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
+        1.4080E+00        0.0000E+00        1.4510E-06        2.6930E-07
+        1.8940E+00        0.0000E+00        1.7010E-06        2.4340E-07
+        2.6330E+00        0.0000E+00        9.4370E-07        1.6830E-07
+        3.5170E+00        0.0000E+00        3.4020E-07        8.7630E-08
+        4.8790E+00        0.0000E+00        1.8550E-07        5.3960E-08
+        6.4560E+00        0.0000E+00        5.6790E-08        1.9690E-08
+        8.6230E+00        0.0000E+00        1.7610E-08        1.0360E-08

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 45-RH-103(D,5N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: D,5N 
+#   MF-MT number: 3 - 152 
+#   Incident energy:  3.7000e+01 MeV - 3.9900e+01 MeV 
+# Residual: 
+#   Z: 46 
+#   A: 100 
+#   Nuclide: 46-PD-100 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4250-004-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(D,5N)46-PD-100,,SIG) 
+#   First author: F.Ditroi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,269,1963,2011) 
+#   Year:  2011 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4250.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4250
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.7000E+01        5.0000E-01        3.0000E-04        1.0000E-04
+        3.9900E+01        4.0000E-01        1.9800E-02        2.9000E-03

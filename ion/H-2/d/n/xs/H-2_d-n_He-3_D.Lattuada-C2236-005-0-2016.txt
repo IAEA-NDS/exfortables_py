@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 1-H-2(D,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: D,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.2306e-02 MeV - 4.1145e-02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2236-005-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(D,N)2-HE-3,,SIG,,SFC/AV) 
+#   First author: D.Lattuada 
+#   Institute:  (2ITYITY): Italy 
+#   Reference:  (J,PR/C,93,045808,2016) 
+#   Year:  2016 
+#   Facility:  (LASER): Laser system 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C22/C2236.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2236
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
+        2.2306E-02        1.3691E-03        4.6700E+07        4.3000E+06
+        2.4216E-02        3.2689E-03        5.1600E+07        3.8000E+06
+        2.8264E-02        4.2236E-03        5.1200E+07        3.0000E+06
+        3.0888E-02        7.9378E-03        4.7900E+07        4.0000E+06
+        4.1145E-02        6.6830E-03        5.8700E+07        5.5000E+06

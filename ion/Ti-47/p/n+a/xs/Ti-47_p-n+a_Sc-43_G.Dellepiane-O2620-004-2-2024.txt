@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 22-TI-47(P,N+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 22 
+#   A: 47 
+#   Nuclide: 22-TI-47 
+# Reaction: 
+#   Process: P,N+A 
+#   MF-MT number: 3 - 22 
+#   Incident energy:  1.7100e+01 MeV - 1.8200e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 43 
+#   Nuclide: 21-SC-43 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2620-004-2 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-47(P,N+A)21-SC-43,,SIG,,,DERIV) 
+#   First author: G.Dellepiane 
+#   Institute:  (2SWTUBE): Universitaet Bern, Bern 
+#   Reference:  (J,ARI,206,111220,2024) 
+#   Year:  2024 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O26/O2620.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2620
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.7100E+01        4.0000E-01        1.5000E-04        9.0000E-05
+        1.8200E+01        4.0000E-01        8.0000E-04        2.0000E-04

@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 82-PB-208(3-LI-8,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 82 
+#   A: 208 
+#   Nuclide: 82-PB-208 
+# Reaction: 
+#   Process: 3-LI-8,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.2100e+01 MeV - 3.7500e+01 MeV 
+# Residual: 
+#   Z: 85 
+#   A: 211 
+#   Nuclide: 85-AT-211 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1774-002-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-208(3-LI-8,X)85-AT-211,,SIG) 
+#   First author: E.F.Aguilera 
+#   Institute:  (1USANOT): University of Notre Dame, Notre Dame, IN 
+#   Reference:  (J,PR/C,80,044605,2009) 
+#   Year:  2009 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C17/C1774.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1774
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        3.2100E+01        0.0000E+00        1.0000E-04        6.0000E-05
+        3.3000E+01        0.0000E+00        1.0000E-03        2.0000E-04
+        3.3900E+01        0.0000E+00        7.2000E-03        9.0000E-04
+        3.4800E+01        0.0000E+00        3.3500E-02        4.4000E-03
+        3.5700E+01        0.0000E+00        9.2200E-02        8.7000E-03
+        3.6600E+01        0.0000E+00        1.6200E-01        8.5000E-03
+        3.7500E+01        0.0000E+00        2.5390E-01        6.6000E-03

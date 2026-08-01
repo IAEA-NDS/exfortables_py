@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 42-MO-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 0 
+#   Nuclide: 42-MO-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.3000e+00 MeV - 1.7300e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 94 
+#   Nuclide: 43-TC-94-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D1007-003-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-0(P,X)43-TC-94-G,,SIG) 
+#   First author: A.A.Ahmed 
+#   Institute:  (3POLUJK): Jagiellonian University, Krakow 
+#   Reference:  (J,RPC,190,109774,2022) 
+#   Year:  2022 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D10/D1007.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D1007
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.3000E+00        2.7000E+00        9.2000E-04        0.0000E+00
+        5.9000E+00        3.8000E+00        1.0500E-03        0.0000E+00
+        9.4000E+00        3.4000E+00        7.3100E-03        0.0000E+00
+        1.2500E+01        2.7000E+00        1.8500E-02        0.0000E+00
+        1.5100E+01        2.4000E+00        5.1800E-02        0.0000E+00
+        1.7300E+01        2.1000E+00        6.5200E-02        0.0000E+00

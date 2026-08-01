@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 1-H-2(D,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: D,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  6.8970e-03 MeV - 1.8465e-02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1299-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(D,N)2-HE-3,,SIG) 
+#   First author: A.S.Belov 
+#   Institute:  (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
+#   Reference:  (J,NC/A,103,1647,1990) 
+#   Year:  1990 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A12/A1299.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1299
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.8970E-03        2.3000E-05        1.7680E-06        0.0000E+00
+        9.2960E-03        2.3000E-05        1.0940E-05        0.0000E+00
+        1.1019E-02        2.3000E-05        2.3980E-05        0.0000E+00
+        1.3833E-02        2.3000E-05        7.2000E-05        0.0000E+00
+        1.6148E-02        2.3000E-05        1.4890E-04        0.0000E+00
+        1.8465E-02        2.3000E-05        2.4840E-04        0.0000E+00

@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 78-PT-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 78 
+#   A: 0 
+#   Nuclide: 78-PT-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.8900e+01 MeV - 3.8100e+01 MeV 
+# Residual: 
+#   Z: 80 
+#   A: 195 
+#   Nuclide: 80-HG-195-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4132-004-M (entry-subentry-pointer) 
+#   Reaction code: (78-PT-0(A,X)80-HG-195-M,,SIG) 
+#   First author: A.Hermanne 
+#   Institute:  (2BLGVUB): Vrije Universiteit Brussels, Brussels 
+#   Reference:  (J,NIM/B,251,333,2006) 
+#   Year:  2006 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4132.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4132
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.8900E+01        1.3000E+00        1.0000E-04        2.0000E-05
+        1.9400E+01        9.0000E-01        1.0000E-04        1.0000E-05
+        2.1300E+01        1.1000E+00        7.0000E-04        1.0000E-04
+        2.3600E+01        7.0000E-01        3.0000E-04        3.0000E-05
+        2.4600E+01        9.0000E-01        4.0000E-04        1.0000E-04
+        2.6100E+01        7.0000E-01        5.1000E-03        4.0000E-04
+        2.7400E+01        5.0000E-01        2.6000E-03        3.0000E-04
+        3.0500E+01        5.0000E-01        1.1110E-01        8.9000E-03
+        3.0900E+01        4.0000E-01        1.4100E-01        1.5000E-02
+        3.3100E+01        4.0000E-01        2.4520E-01        1.9600E-02
+        3.4100E+01        3.0000E-01        3.3000E-01        3.7000E-02
+        3.5700E+01        3.0000E-01        3.6650E-01        2.9300E-02
+        3.7100E+01        2.0000E-01        4.8800E-01        5.4000E-02
+        3.8100E+01        2.0000E-01        5.5230E-01        4.4200E-02

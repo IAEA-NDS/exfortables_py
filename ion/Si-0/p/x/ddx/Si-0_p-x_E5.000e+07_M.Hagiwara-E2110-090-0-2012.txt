@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 14-SI-0(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 14 
+#   A: 0 
+#   Nuclide: 14-SI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  5.0000e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM 
+#   Outgoing energy:  2.7500e+00 MeV - 8.7500e+00 MeV 
+# EXFOR BIB:
+#   Entry id: E2110-090-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-0(P,X)ELEM,,DA/DE) 
+#   First author: M.Hagiwara 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,NST,49,(6),571,2012) 
+#   Year:  2012 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E21/E2110.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2110
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        8.7500E+00        0.0000E+00        9.0000E+01        0.0000E+00        1.1490E-09        8.5700E-11
+        2.7500E+00        0.0000E+00        9.0000E+01        0.0000E+00        1.2580E-09        9.3900E-11
+        8.2500E+00        0.0000E+00        9.0000E+01        0.0000E+00        1.3930E-09        1.0400E-10
+        3.2500E+00        0.0000E+00        9.0000E+01        0.0000E+00        1.5370E-09        1.1400E-10
+        7.7500E+00        0.0000E+00        9.0000E+01        0.0000E+00        1.6060E-09        1.1900E-10
+        3.7500E+00        0.0000E+00        9.0000E+01        0.0000E+00        1.7600E-09        1.3000E-10
+        7.2500E+00        0.0000E+00        9.0000E+01        0.0000E+00        1.7840E-09        1.3200E-10
+        4.2500E+00        0.0000E+00        9.0000E+01        0.0000E+00        1.9280E-09        1.4300E-10
+        6.7500E+00        0.0000E+00        9.0000E+01        0.0000E+00        2.0010E-09        1.4800E-10
+        4.7500E+00        0.0000E+00        9.0000E+01        0.0000E+00        2.0640E-09        1.5300E-10
+        6.2500E+00        0.0000E+00        9.0000E+01        0.0000E+00        2.0830E-09        1.5400E-10
+        5.7500E+00        0.0000E+00        9.0000E+01        0.0000E+00        2.1260E-09        1.5700E-10
+        5.2500E+00        0.0000E+00        9.0000E+01        0.0000E+00        2.1380E-09        1.5800E-10

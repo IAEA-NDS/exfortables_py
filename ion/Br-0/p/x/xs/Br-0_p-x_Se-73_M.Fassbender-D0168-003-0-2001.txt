@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 35-BR-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 35 
+#   A: 0 
+#   Nuclide: 35-BR-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.1800e+01 MeV - 1.0000e+02 MeV 
+# Residual: 
+#   Z: 34 
+#   A: 73 
+#   Nuclide: 34-SE-73 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0168-003-0 (entry-subentry-pointer) 
+#   Reaction code: (35-BR-0(P,X)34-SE-73,CUM,SIG) 
+#   First author: M.Fassbender 
+#   Institute:  (3SAFNAC): National Accelerator Centre, Faure 
+#   Reference:  (J,ARI,54,905,2001) 
+#   Year:  2001 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D01/D0168.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0168
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.1800E+01        0.0000E+00        1.6000E-03        1.0000E-04
+        4.5300E+01        0.0000E+00        5.3000E-03        4.0000E-04
+        4.8600E+01        0.0000E+00        1.1700E-02        1.0000E-03
+        5.1700E+01        0.0000E+00        1.5800E-02        1.3000E-03
+        5.5500E+01        0.0000E+00        1.8000E-02        1.5000E-03
+        5.9100E+01        0.0000E+00        1.6900E-02        1.4000E-03
+        6.2500E+01        0.0000E+00        1.3400E-02        1.1000E-03
+        6.5700E+01        0.0000E+00        1.1100E-02        9.0000E-04
+        6.8900E+01        0.0000E+00        1.0400E-02        9.0000E-04
+        7.2200E+01        0.0000E+00        1.0400E-02        9.0000E-04
+        7.5400E+01        0.0000E+00        1.1700E-02        1.0000E-03
+        7.9200E+01        0.0000E+00        1.3700E-02        1.1000E-03
+        8.2900E+01        0.0000E+00        1.6100E-02        1.3000E-03
+        8.7100E+01        0.0000E+00        1.8600E-02        1.5000E-03
+        9.1200E+01        0.0000E+00        2.1400E-02        1.7000E-03
+        9.5700E+01        0.0000E+00        2.2400E-02        1.8000E-03
+        1.0000E+02        0.0000E+00        2.4400E-02        2.0000E-03

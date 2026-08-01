@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 77-IR-191(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 77 
+#   A: 191 
+#   Nuclide: 77-IR-191 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.3500e+01 MeV - 1.6470e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 194 
+#   Nuclide: 79-AU-194 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4386-006-0 (entry-subentry-pointer) 
+#   Reaction code: (77-IR-191(A,N)79-AU-194,,SIG,,,DERIV) 
+#   First author: T.Szucs 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,PL/B,776,396,2018) 
+#   Year:  2018 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4386.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4386
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        1.3500E+01        8.0000E-02        1.5000E-06        9.0000E-08
+        1.4020E+01        8.0000E-02        1.5300E-05        8.0000E-07
+        1.4510E+01        9.0000E-02        3.9000E-05        2.1000E-06
+        1.5000E+01        9.0000E-02        1.1900E-04        6.0000E-06
+        1.5490E+01        9.0000E-02        3.2900E-04        1.7000E-05
+        1.5980E+01        1.0000E-01        9.5600E-04        5.0000E-05
+        1.6470E+01        1.0000E-01        1.4200E-03        7.5000E-05

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 82-PB-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.4800e+01 MeV - 3.6300e+01 MeV 
+# Residual: 
+#   Z: 83 
+#   A: 201 
+#   Nuclide: 83-BI-201 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4304-007-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(P,X)83-BI-201,,SIG) 
+#   First author: F.Ditroi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,ARI,90,208,2014) 
+#   Year:  2014 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4304.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4304
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.4800E+01        3.0000E-01        1.5000E-03        5.0000E-04
+        3.6300E+01        3.0000E-01        3.9000E-03        6.0000E-04

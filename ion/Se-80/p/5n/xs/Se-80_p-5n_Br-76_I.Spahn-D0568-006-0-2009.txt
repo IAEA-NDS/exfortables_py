@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 34-SE-80(P,5N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 34 
+#   A: 80 
+#   Nuclide: 34-SE-80 
+# Reaction: 
+#   Process: P,5N 
+#   MF-MT number: 3 - 152 
+#   Incident energy:  4.6200e+01 MeV - 8.4200e+01 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 76 
+#   Nuclide: 35-BR-76 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0568-006-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-80(P,5N)35-BR-76,,SIG) 
+#   First author: I.Spahn 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,RCA,97,535,2009) 
+#   Year:  2009 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D05/D0568.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0568
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.6200E+01        4.0000E-01        5.4000E-03        5.0000E-04
+        4.8800E+01        3.0000E-01        1.3000E-02        1.2000E-03
+        5.1300E+01        3.0000E-01        2.0300E-02        1.8000E-03
+        5.3900E+01        3.0000E-01        4.9000E-02        4.4000E-03
+        5.6500E+01        3.0000E-01        5.6900E-02        5.1000E-03
+        5.8900E+01        2.0000E-01        4.9200E-02        4.4000E-03
+        6.1400E+01        2.0000E-01        7.3100E-02        6.6000E-03
+        6.6500E+01        4.0000E-01        7.3300E-02        6.6000E-03
+        6.8500E+01        4.0000E-01        5.0900E-02        4.6000E-03
+        7.0500E+01        4.0000E-01        5.5900E-02        5.0000E-03
+        7.2400E+01        3.0000E-01        5.3200E-02        4.8000E-03
+        7.4500E+01        3.0000E-01        5.4900E-02        4.9000E-03
+        7.6500E+01        3.0000E-01        4.5400E-02        4.1000E-03
+        7.8500E+01        3.0000E-01        2.8400E-02        2.6000E-03
+        8.0400E+01        2.0000E-01        4.1300E-02        3.7000E-03
+        8.2300E+01        2.0000E-01        1.6000E-02        1.4000E-03
+        8.4200E+01        2.0000E-01        2.2000E-02        2.0000E-03

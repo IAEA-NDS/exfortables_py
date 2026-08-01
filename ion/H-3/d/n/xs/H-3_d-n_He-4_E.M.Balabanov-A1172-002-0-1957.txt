@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 1-H-3(D,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+# Reaction: 
+#   Process: D,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  5.2000e-02 MeV - 1.2970e-01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1172-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-3(D,N)2-HE-4,,SIG) 
+#   First author: E.M.Balabanov 
+#   Institute:  (4RUSLEB): Fiz.Institute Lebedev (FIAN), Moskva 
+#   Reference:  (J,AE/S,,(5),57,1957) 
+#   Year:  1957 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A11/A1172.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1172
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.2000E-02        2.0800E-04        1.6000E+00        1.0000E-01
+        7.9300E-02        3.1720E-04        4.2000E+00        9.0000E-02
+        9.1300E-02        3.6520E-04        4.9000E+00        1.0000E-01
+        1.0600E-01        4.2400E-04        5.2200E+00        9.0000E-02
+        1.1530E-01        4.6120E-04        5.0200E+00        9.0000E-02
+        1.2970E-01        5.1880E-04        4.7000E+00        2.0000E-01

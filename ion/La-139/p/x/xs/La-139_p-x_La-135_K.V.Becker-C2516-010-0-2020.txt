@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 57-LA-139(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 57 
+#   A: 139 
+#   Nuclide: 57-LA-139 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.6960e+01 MeV - 8.8660e+01 MeV 
+# Residual: 
+#   Z: 57 
+#   A: 135 
+#   Nuclide: 57-LA-135 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2516-010-0 (entry-subentry-pointer) 
+#   Reaction code: (57-LA-139(P,X)57-LA-135,CUM,SIG) 
+#   First author: K.V.Becker 
+#   Institute:  (1USAWIS): University of Wisconsin, Madison, WI 
+#   Reference:  (J,NIM/B,468,81,2020) 
+#   Year:  2020 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C25/C2516.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2516
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.6960E+01        2.5000E+00        2.9890E-02        2.5000E-03
+        5.1580E+01        1.7000E+00        7.3550E-02        8.0200E-03
+        5.4930E+01        1.6000E+00        7.0670E-02        6.8600E-03
+        5.8870E+01        1.6000E+00        9.4380E-02        8.9100E-03
+        6.3320E+01        1.0000E+00        1.2288E-01        1.0790E-02
+        6.7990E+01        1.4000E+00        1.2854E-01        1.2520E-02
+        7.8050E+01        2.0000E-01        1.2291E-01        1.0940E-02
+        8.8660E+01        6.0000E-01        1.0813E-01        1.0410E-02

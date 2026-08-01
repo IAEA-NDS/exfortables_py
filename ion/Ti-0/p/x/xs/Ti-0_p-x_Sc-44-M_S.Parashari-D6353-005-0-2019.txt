@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 22-TI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 22 
+#   A: 0 
+#   Nuclide: 22-TI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.2940e+01 MeV - 2.1950e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 44 
+#   Nuclide: 21-SC-44-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6353-005-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-0(P,X)21-SC-44-M,,SIG) 
+#   First author: S.Parashari 
+#   Institute:  (3INDBDA): M.S. University of Baroda, Baroda 
+#   Reference:  (J,NP/A,987,128,2019) 
+#   Year:  2019 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D63/D6353.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6353
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2940E+01        7.0000E-02        8.4000E-04        7.0000E-05
+        1.5050E+01        7.0000E-02        1.0300E-03        8.0000E-05
+        1.7560E+01        6.0000E-02        1.4200E-03        1.1000E-04
+        1.9840E+01        5.0000E-02        1.3500E-03        9.0000E-05
+        2.1950E+01        5.0000E-02        3.5400E-03        2.3000E-04

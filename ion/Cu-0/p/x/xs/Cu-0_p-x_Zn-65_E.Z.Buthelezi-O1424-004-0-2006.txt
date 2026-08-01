@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 29-CU-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.7920e+00 MeV - 3.7880e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 65 
+#   Nuclide: 30-ZN-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1424-004-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(P,X)30-ZN-65,,SIG) 
+#   First author: E.Z.Buthelezi 
+#   Institute:  (3SAFITH): iThemba Laboratories, Somerset West 
+#   Reference:  (J,ARI,64,915,2006) 
+#   Year:  2006 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O14/O1424.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1424
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.7920E+00        1.0000E+00        1.7900E-01        1.2000E-02
+        1.0430E+01        1.0000E+00        2.0000E-01        1.4000E-02
+        1.3870E+01        1.0000E+00        9.3600E-02        6.3000E-03
+        1.6760E+01        1.0000E+00        4.0200E-02        2.7000E-03
+        1.9310E+01        1.0000E+00        2.1600E-02        1.5000E-03
+        2.1640E+01        1.0000E+00        1.5500E-02        1.1000E-03
+        2.3780E+01        1.0000E+00        1.3600E-02        9.1000E-04
+        2.7510E+01        1.0000E+00        1.0400E-02        7.0000E-04
+        3.0880E+01        1.0000E+00        8.8600E-03        5.9000E-04
+        3.4530E+01        1.0000E+00        7.7600E-03        5.2000E-04
+        3.7880E+01        1.0000E+00        7.6300E-03        5.1000E-04

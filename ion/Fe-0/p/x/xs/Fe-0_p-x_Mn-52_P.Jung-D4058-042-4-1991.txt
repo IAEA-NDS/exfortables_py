@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 26-FE-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 26 
+#   A: 0 
+#   Nuclide: 26-FE-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.5000e+00 MeV - 2.3800e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 52 
+#   Nuclide: 25-MN-52 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4058-042-4 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-0(P,X)25-MN-52,,SIG) 
+#   First author: P.Jung 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (C,91JUELIC,,352,1991) 
+#   Year:  1991 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4058.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4058
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.5000E+00        5.0000E-01               NAN        0.0000E+00
+        1.5700E+01        3.0000E-01               NAN        0.0000E+00
+        2.3800E+01        2.0000E-01        1.1200E-02        0.0000E+00

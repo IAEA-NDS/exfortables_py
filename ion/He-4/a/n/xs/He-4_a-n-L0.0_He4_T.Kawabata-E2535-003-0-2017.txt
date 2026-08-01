@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 2-HE-4(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 50 
+#   Incident energy:  3.8501e+01 MeV - 3.9644e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: E2535-003-0 (entry-subentry-pointer) 
+#   Reaction code: (2-HE-4(A,N)4-BE-7,PAR,SIG) 
+#   First author: T.Kawabata 
+#   Institute:  (2JPNKTO): Kyoto University , Kyoto 
+#   Reference:  (J,PRL,118,052701,2017) 
+#   Year:  2017 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E25/E2535.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2535
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.8501E+01        7.0000E-03        1.6200E-03        7.4000E-04
+        3.8903E+01        1.1000E-02        5.3900E-03        1.3000E-04
+        3.9300E+01        9.0000E-03        1.1140E-02        4.3000E-04
+        3.9644E+01        1.5000E-02        1.9520E-02        2.2300E-03

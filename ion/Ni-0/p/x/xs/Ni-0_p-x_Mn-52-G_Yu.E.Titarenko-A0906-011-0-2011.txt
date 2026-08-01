@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 28-NI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.3000e+01 MeV - 2.6050e+03 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 52 
+#   Nuclide: 25-MN-52-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0906-011-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(P,X)25-MN-52-G,CUM,SIG) 
+#   First author: Yu.E.Titarenko 
+#   Institute:  (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
+#   Reference:  (J,PAN,74,537,2011) 
+#   Year:  2011 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0906.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0906
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.3000E+01        1.0000E+00        6.3100E-04        5.1000E-05
+        6.6000E+01        1.0000E+00        2.0900E-02        1.7000E-03
+        9.7000E+01        1.0000E+00        1.8200E-02        1.6000E-03
+        1.4800E+02        1.0000E+00        1.9500E-02        1.8000E-03
+        2.4900E+02        1.0000E+00        1.6800E-02        1.4000E-03
+        3.9900E+02        2.0000E+00        1.8400E-02        1.9000E-03
+        5.9900E+02        2.0000E+00        1.8200E-02        1.8000E-03
+        7.9900E+02        2.0000E+00        1.5300E-02        1.4000E-03
+        1.1990E+03        3.0000E+00        1.4600E-02        1.3000E-03
+        1.5980E+03        4.0000E+00        1.1300E-02        1.0000E-03
+        2.6050E+03        8.0000E+00        9.1100E-03        8.6000E-04

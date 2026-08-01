@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 24-CR-54(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 24 
+#   A: 54 
+#   Nuclide: 24-CR-54 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.5393e+00 MeV - 2.3191e+00 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 55 
+#   Nuclide: 25-MN-55 
+#   Level energy: 1.2600e-01 MeV 
+# EXFOR BIB:
+#   Entry id: D5040-003-0 (entry-subentry-pointer) 
+#   Reaction code: (24-CR-54(P,G)25-MN-55,PAR,SIG) 
+#   First author: S.N.Utenkov 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,BAS,70,1859,2006) 
+#   Year:  2006 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D50/D5040.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D5040
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5393E+00        2.0000E-03        7.6483E-06        2.4302E-06
+        1.6614E+00        2.0000E-03        1.2470E-05        5.0362E-06
+        1.7789E+00        2.0000E-03        4.5759E-05        6.9456E-06
+        1.8934E+00        2.0000E-03        7.0885E-05        1.0762E-05
+        1.9510E+00        2.0000E-03        4.2475E-05        6.7697E-06
+        2.0113E+00        2.0000E-03        8.8549E-05        1.3889E-05
+        2.0733E+00        2.0000E-03        7.1776E-05        1.7881E-05
+        2.1264E+00        2.0000E-03        3.1903E-05        6.2513E-06
+        2.1730E+00        2.0000E-03        3.2128E-05        5.9018E-06
+        2.2124E+00        2.0000E-03        1.1684E-05        5.3811E-06
+        2.3191E+00        2.0000E-03        6.4195E-06        2.4302E-06

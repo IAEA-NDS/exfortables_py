@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 28-NI-58(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  9.0000e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Outgoing energy:  4.1130e+00 MeV - 5.0700e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O0137-135-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(P,X)2-HE-4,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,698,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0137.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0137
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        5.0700E+01        0.0000E+00        1.2000E+02        0.0000E+00        1.9800E-13        1.9800E-14
+        4.3470E+01        0.0000E+00        1.2000E+02        0.0000E+00        7.8730E-13        7.8730E-14
+        3.8140E+01        0.0000E+00        1.2000E+02        0.0000E+00        2.2350E-12        2.2350E-13
+        3.0130E+01        0.0000E+00        1.2000E+02        0.0000E+00        9.5140E-12        9.5140E-13
+        2.2900E+01        0.0000E+00        1.2000E+02        0.0000E+00        3.9110E-11        3.9110E-12
+        4.1130E+00        0.0000E+00        1.2000E+02        0.0000E+00        1.4830E-10        1.4830E-11
+        1.8100E+01        0.0000E+00        1.2000E+02        0.0000E+00        1.8930E-10        1.8930E-11
+        6.4430E+00        0.0000E+00        1.2000E+02        0.0000E+00        6.2060E-10        6.2060E-11
+        9.5290E+00        0.0000E+00        1.2000E+02        0.0000E+00        2.1940E-09        2.1940E-10

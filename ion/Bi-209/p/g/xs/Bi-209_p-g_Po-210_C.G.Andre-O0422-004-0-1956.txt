@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 83-BI-209(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  6.3600e+00 MeV - 1.0600e+01 MeV 
+# Residual: 
+#   Z: 84 
+#   A: 210 
+#   Nuclide: 84-PO-210 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0422-004-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(P,G)84-PO-210,,SIG) 
+#   First author: C.G.Andre 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,PR,101,645,1956) 
+#   Year:  1956 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O04/O0422.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0422
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        6.3600E+00        0.0000E+00        3.8000E-06        2.0000E-07
+        7.6800E+00        0.0000E+00        3.3000E-05        2.0000E-06
+        8.8400E+00        0.0000E+00        7.3000E-05        4.0000E-06
+        9.3700E+00        0.0000E+00        1.0500E-04        4.0000E-06
+        9.4900E+00        0.0000E+00        1.0900E-04        4.0000E-06
+        9.6200E+00        0.0000E+00        1.1100E-04        4.0000E-06
+        9.7400E+00        0.0000E+00        1.3500E-04        5.0000E-06
+        9.7700E+00        0.0000E+00        1.0900E-04        6.0000E-06
+        9.8700E+00        0.0000E+00        1.4100E-04        5.0000E-06
+        9.9900E+00        0.0000E+00        1.4700E-04        7.0000E-06
+        1.0020E+01        0.0000E+00        1.3200E-04        7.0000E-06
+        1.0110E+01        0.0000E+00        1.5800E-04        7.0000E-06
+        1.0230E+01        0.0000E+00        1.7200E-04        7.0000E-06
+        1.0260E+01        0.0000E+00        1.4500E-04        8.0000E-06
+        1.0360E+01        0.0000E+00        1.9200E-04        8.0000E-06
+        1.0480E+01        0.0000E+00        1.7600E-04        7.0000E-06
+        1.0600E+01        0.0000E+00        1.8400E-04        8.0000E-06

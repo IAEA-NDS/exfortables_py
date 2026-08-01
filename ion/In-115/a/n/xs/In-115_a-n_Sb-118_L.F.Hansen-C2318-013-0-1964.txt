@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 49-IN-115(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 49 
+#   A: 115 
+#   Nuclide: 49-IN-115 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.1910e+01 MeV - 1.7890e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 118 
+#   Nuclide: 51-SB-118 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2318-013-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-115(A,N)51-SB-118,,SIG) 
+#   First author: L.F.Hansen 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR,136,B1000,1964) 
+#   Year:  1964 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2318.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2318
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1910E+01        2.0000E-01        9.8300E-03        0.0000E+00
+        1.2390E+01        2.0000E-01        1.6700E-02        0.0000E+00
+        1.3620E+01        2.0000E-01        9.1000E-02        0.0000E+00
+        1.3720E+01        2.0000E-01        9.9700E-02        0.0000E+00
+        1.4140E+01        2.0000E-01        1.3800E-01        0.0000E+00
+        1.4700E+01        2.0000E-01        2.2700E-01        0.0000E+00
+        1.5960E+01        2.0000E-01        3.9100E-01        0.0000E+00
+        1.6810E+01        2.0000E-01        5.9700E-01        0.0000E+00
+        1.7890E+01        2.0000E-01        8.5800E-01        0.0000E+00

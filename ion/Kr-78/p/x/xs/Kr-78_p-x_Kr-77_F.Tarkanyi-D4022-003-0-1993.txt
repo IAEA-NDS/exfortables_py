@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 36-KR-78(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 36 
+#   A: 78 
+#   Nuclide: 36-KR-78 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4950e+01 MeV - 1.9530e+01 MeV 
+# Residual: 
+#   Z: 36 
+#   A: 77 
+#   Nuclide: 36-KR-77 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4022-003-0 (entry-subentry-pointer) 
+#   Reaction code: (36-KR-78(P,X)36-KR-77,CUM,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,ARI,44,1105,1993) 
+#   Year:  1993 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4022.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4022
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4950E+01        2.6000E-01        5.8000E-03        8.0000E-04
+        1.5170E+01        2.5000E-01        7.0000E-03        9.0000E-04
+        1.5670E+01        2.3000E-01        2.9600E-02        4.1000E-03
+        1.5730E+01        2.5000E-01        1.6700E-02        2.1000E-03
+        1.6350E+01        2.0000E-01        6.1400E-02        8.4000E-03
+        1.6450E+01        2.2000E-01        5.7200E-02        7.2000E-03
+        1.6510E+01        2.0000E-01        6.9800E-02        8.8000E-03
+        1.7020E+01        1.8000E-01        1.1400E-01        1.6000E-02
+        1.7030E+01        3.0000E-01        1.2400E-01        1.6000E-02
+        1.7150E+01        1.9000E-01        1.0900E-01        1.4000E-02
+        1.7190E+01        2.0000E-01        1.5300E-01        2.0000E-02
+        1.7660E+01        2.7000E-01        1.8400E-01        2.4000E-02
+        1.7670E+01        1.5000E-01        1.5400E-01        2.1000E-02
+        1.7770E+01        1.5000E-01        1.3800E-01        1.8000E-02
+        1.7820E+01        1.6000E-01        1.7500E-01        2.3000E-02
+        1.8190E+01        1.5000E-01        2.3400E-01        3.0000E-02
+        1.8300E+01        2.5000E-01        2.2800E-01        2.9000E-02
+        1.8930E+01        2.2000E-01        2.7400E-01        3.5000E-02
+        1.9530E+01        2.0000E-01        2.9300E-01        3.7000E-02

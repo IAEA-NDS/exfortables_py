@@ -1,7 +1,7 @@
 # Header: 
-#   title: 26-FE-0(N,EL) strength_function cross section 
+#   title: 26-FE-0(N,EL) strength function 
 #   source: EXFOR 
-#   date created: 2026-06-11 
+#   date created: 2026-08-01 
 # Target: 
 #   Z: 26 
 #   A: 0 
@@ -20,11 +20,11 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [NO-DIM]     dData         sf8    sf9
 40934-003-0         A.B.Popov               1983   4.5000E-04   0.0000E+00   3.7000E-05   0.0000E+00                
 40934-032-0         A.B.Popov               1983   1.2740E-04   0.0000E+00   5.0000E-05   0.0000E+00                
 40934-059-0         A.B.Popov               1983   1.2740E-04   0.0000E+00   0.0000E+00   0.0000E+00                
 40934-059-0         A.B.Popov               1983   1.2740E-04   0.0000E+00   7.7000E-05   0.0000E+00                
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [NO-DIM]     dData         sf8    sf9
 22105-043-0         L.Koester               1988   3.0250E+00   0.0000E+00   3.0000E-04   0.0000E+00           DERIV

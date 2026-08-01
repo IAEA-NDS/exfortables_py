@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 24-CR-50(D,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 24 
+#   A: 50 
+#   Nuclide: 24-CR-50 
+# Reaction: 
+#   Process: D,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.2000e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 51 
+#   Nuclide: 25-MN-51 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2033-006-0 (entry-subentry-pointer) 
+#   Reaction code: (24-CR-50(D,N)25-MN-51,,SIG) 
+#   First author: M.Cogneau 
+#   Institute:  (2BLGLVN): Catholic University of Louvain, Louvain-la-Neuve 
+#   Reference:  (J,NP,79,203,1966) 
+#   Year:  1966 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2033.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2033
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2000E+01        0.0000E+00        1.9600E-01        9.0000E-03

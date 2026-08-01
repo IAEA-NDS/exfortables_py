@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 25-MN-55(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 25 
+#   A: 55 
+#   Nuclide: 25-MN-55 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.9400e+01 MeV - 3.8500e+02 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 46 
+#   Nuclide: 21-SC-46-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0276-052-0 (entry-subentry-pointer) 
+#   Reaction code: (25-MN-55(P,X)21-SC-46-G,M+,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,NIM/B,129,153,1997) 
+#   Year:  1997 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0276
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.9400E+01        1.0400E+00        2.2200E-03        1.8100E-04
+        6.6000E+01        1.1900E+00        3.0100E-03        2.3300E-04
+        8.1200E+01        8.6600E-01        2.2200E-03        1.7800E-04
+        9.1300E+01        5.2600E-01        2.7500E-03        2.2600E-04
+        9.4600E+01        5.9800E-01        2.9700E-03        2.3100E-04
+        2.3900E+02        1.6000E+00        9.6300E-03        7.9000E-04
+        3.4800E+02        1.6000E+00        1.2200E-02        9.5000E-04
+        3.8500E+02        1.0000E+00        1.2500E-02        9.6000E-04

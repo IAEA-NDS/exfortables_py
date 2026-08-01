@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 8-O-16(8-O-16,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: 8-O-16,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.5290e+01 MeV - 5.4580e+01 MeV 
+# Residual: 
+#   Z: 14 
+#   A: 29 
+#   Nuclide: 14-SI-29 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1147-028-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(8-O-16,X)14-SI-29,,SIG) 
+#   First author: H.Ikezoe 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,NP/A,456,(2),298,198608) 
+#   Year:  1986 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E11/E1147.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1147
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        3.5290E+01        0.0000E+00        9.8320E-02        1.2330E-02
+        4.0260E+01        0.0000E+00        5.7190E-02        8.1380E-03
+        4.5520E+01        0.0000E+00        3.1220E-02        4.6880E-03
+        4.7970E+01        0.0000E+00        2.3810E-02        3.2180E-03
+        5.0290E+01        0.0000E+00        1.7830E-02        2.4030E-03
+        5.4580E+01        0.0000E+00        1.0750E-02        1.7380E-03

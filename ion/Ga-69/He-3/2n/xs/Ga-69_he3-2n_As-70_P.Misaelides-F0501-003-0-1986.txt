@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 31-GA-69(HE3,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 31 
+#   A: 69 
+#   Nuclide: 31-GA-69 
+# Reaction: 
+#   Process: HE3,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  8.2570e+00 MeV - 1.1720e+01 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 70 
+#   Nuclide: 33-AS-70 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F0501-003-0 (entry-subentry-pointer) 
+#   Reaction code: (31-GA-69(HE3,2N)33-AS-70,,SIG,,,DERIV) 
+#   First author: P.Misaelides 
+#   Institute:  (2GERFRK): J.W.Goethe University , Frankfurt/Main 
+#   Reference:  (J,NIM/B,18,281,1986) 
+#   Year:  1986 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F05/F0501.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0501
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.2570E+00        0.0000E+00        1.0100E-03        0.0000E+00
+        8.7290E+00        0.0000E+00        3.6800E-03        0.0000E+00
+        9.2220E+00        0.0000E+00        6.6700E-03        0.0000E+00
+        9.7340E+00        0.0000E+00        1.7800E-02        0.0000E+00
+        1.0210E+01        0.0000E+00        3.0800E-02        0.0000E+00
+        1.0710E+01        0.0000E+00        5.0000E-02        0.0000E+00
+        1.1200E+01        0.0000E+00        6.1000E-02        0.0000E+00
+        1.1720E+01        0.0000E+00        9.3100E-02        0.0000E+00

@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 13-AL-27(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.5200e+01 MeV - 5.1710e+01 MeV 
+# Residual: 
+#   Z: 13 
+#   A: 26 
+#   Nuclide: 13-AL-26-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0972-003-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(P,X)13-AL-26-G,,SIG) 
+#   First author: M.Furukawa 
+#   Institute:  (2JPNTOK): University of Tokyo, Tokyo 
+#   Reference:  (J,NP/A,174,539,1971) 
+#   Year:  1971 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O09/O0972.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0972
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5200E+01        2.0000E-01        6.8000E-02        6.8000E-03
+        1.6800E+01        1.2000E+00        1.2000E-01        9.6000E-03
+        1.7600E+01        7.0000E-01        1.3200E-01        1.0560E-02
+        1.8760E+01        2.5000E-01        1.4100E-01        1.2690E-02
+        2.0710E+01        2.0000E-01        1.6300E-01        1.3040E-02
+        2.5500E+01        9.0000E-01        1.6100E-01        1.2880E-02
+        3.1070E+01        2.2000E-01        1.0200E-01        7.1400E-03
+        3.9280E+01        2.0000E-01        8.2000E-02        4.9200E-03
+        3.9710E+01        2.4000E-01        8.1000E-02        8.9100E-03
+        5.1710E+01        2.4000E-01        6.7000E-02        8.0400E-03

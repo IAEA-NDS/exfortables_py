@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 92-U-235(D,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: D,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  9.3000e+00 MeV - 2.3400e+01 MeV 
+# Residual: 
+#   Z: 93 
+#   A: 236 
+#   Nuclide: 93-NP-236 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0719-008-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(D,N)93-NP-236,,SIG) 
+#   First author: R.M.Lessler 
+#   Institute:  (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
+#   Reference:  (J,NP,81,401,1966) 
+#   Year:  1966 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C07/C0719.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0719
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.3000E+00        5.0000E-01        1.5000E-03        0.0000E+00
+        1.0700E+01        5.0000E-01        3.9000E-03        0.0000E+00
+        1.4700E+01        5.0000E-01        4.7000E-03        0.0000E+00
+        1.7300E+01        5.0000E-01        5.0000E-03        0.0000E+00
+        2.0600E+01        5.0000E-01        5.7000E-03        0.0000E+00
+        2.3400E+01        5.0000E-01        6.6000E-03        0.0000E+00

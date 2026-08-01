@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 14-SI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 14 
+#   A: 0 
+#   Nuclide: 14-SI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.9100e+01 MeV - 4.4400e+01 MeV 
+# Residual: 
+#   Z: 10 
+#   A: 20 
+#   Nuclide: 10-NE-20 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0350-015-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-0(P,X)10-NE-20,CUM,SIG) 
+#   First author: J.R.Walton 
+#   Institute:  (1USARIC): Rice University, Houston, TX 
+#   Reference:  (J,JGR,81,5689,1976) 
+#   Year:  1976 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O03/O0350.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0350
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.9100E+01        9.0000E-01        8.9000E-04        2.3140E-04
+        3.0000E+01        1.1000E+00        7.0000E-04        7.0000E-04
+        3.1400E+01        1.2000E+00        1.3000E-03        5.2000E-04
+        3.2500E+01        1.2000E+00        7.9000E-03        1.1060E-03
+        3.3500E+01        1.1000E+00        9.1000E-03        2.1840E-03
+        3.4400E+01        1.3000E+00        1.3000E-02        1.8200E-03
+        3.6600E+01        1.5000E+00        2.0000E-02        5.0000E-03
+        4.0400E+01        1.5000E+00        2.6000E-02        3.9000E-03
+        4.2200E+01        1.5000E+00        3.7000E-02        1.1100E-02
+        4.4400E+01        1.4000E+00        3.4000E-02        6.1200E-03

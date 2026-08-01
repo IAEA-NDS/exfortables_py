@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 79-AU-197(D,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: D,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  8.1940e+00 MeV - 1.1665e+01 MeV 
+# Residual: 
+#   Z: 80 
+#   A: 197 
+#   Nuclide: 80-HG-197 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1206-003-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(D,2N)80-HG-197,,SIG) 
+#   First author: Yu.V.Khrisanfov 
+#   Institute:  (4RUSSUL): Gosudarstvennyi University (State University ), St.Petersburg 
+#   Reference:  (J,IZV,36,(3),641,1972) 
+#   Year:  1972 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F12/F1206.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1206
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.1940E+00        2.3000E-02        3.6450E-02        1.4580E-03
+        9.2990E+00        2.3000E-02        1.0798E-01        4.3192E-03
+        1.0217E+01        2.3000E-02        2.0103E-01        8.0412E-03
+        1.1015E+01        2.3000E-02        2.4070E-01        9.6280E-03
+        1.1665E+01        2.3000E-02        2.7967E-01        1.1187E-02

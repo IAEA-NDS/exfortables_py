@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 27-CO-59(HE3,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: HE3,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.2000e+00 MeV - 2.4700e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 57 
+#   Nuclide: 27-CO-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4158-003-1 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(HE3,X)27-CO-57,,SIG,,,EXP) 
+#   First author: A.Fenyvesi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,222,355,2004) 
+#   Year:  2004 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4158.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4158
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.2000E+00        1.3000E+00        2.1000E-03        3.0000E-03
+        1.2100E+01        1.0000E+00        4.2400E-02        5.4000E-03
+        1.5400E+01        9.0000E-01        7.7600E-02        9.2000E-03
+        1.8200E+01        7.0000E-01        9.0900E-02        1.1300E-02
+        2.0500E+01        7.0000E-01        8.8000E-02        1.0100E-02
+        2.2700E+01        6.0000E-01        7.8400E-02        9.2000E-03
+        2.4700E+01        6.0000E-01        6.9200E-02        8.2000E-03

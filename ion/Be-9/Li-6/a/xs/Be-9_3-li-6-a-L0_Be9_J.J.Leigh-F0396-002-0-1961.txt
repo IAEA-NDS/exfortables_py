@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 4-BE-9(3-LI-6,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 4 
+#   A: 9 
+#   Nuclide: 4-BE-9 
+# Reaction: 
+#   Process: 3-LI-6,A 
+#   MF-MT number: 3 - 800 
+#   Incident energy:  3.0000e+00 MeV - 3.5000e+00 MeV 
+# Residual: 
+#   Z: 5 
+#   A: 11 
+#   Nuclide: 5-B-11 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: F0396-002-0 (entry-subentry-pointer) 
+#   Reaction code: (4-BE-9(3-LI-6,A)5-B-11,PAR,SIG) 
+#   First author: J.J.Leigh 
+#   Institute:  (1USAMIN): University of Minnesota, Minneapolis, MN 
+#   Reference:  (J,PR,121,246,1961) 
+#   Year:  1961 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F03/F0396.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0396
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.0000E+00        0.0000E+00        4.9000E-04        1.9600E-04
+        3.2500E+00        0.0000E+00        7.0000E-04        2.8000E-04
+        3.5000E+00        0.0000E+00        9.7000E-04        3.8800E-04

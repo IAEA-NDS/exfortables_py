@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 44-RU-102(HE3,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 44 
+#   A: 102 
+#   Nuclide: 44-RU-102 
+# Reaction: 
+#   Process: HE3,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 3.3600e+01 MeV 
+# Residual: 
+#   Z: 46 
+#   A: 103 
+#   Nuclide: 46-PD-103 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D5057-005-0 (entry-subentry-pointer) 
+#   Reaction code: (44-RU-102(HE3,2N)46-PD-103,,SIG) 
+#   First author: Ye.Skakun 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,ARI,66,653,2008) 
+#   Year:  2008 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D50/D5057.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D5057
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3500E+01        0.0000E+00        1.0800E-01        1.5000E-02
+        1.5700E+01        0.0000E+00        2.4700E-01        3.8000E-02
+        1.7500E+01        0.0000E+00        3.0400E-01        4.2000E-02
+        1.9900E+01        0.0000E+00        2.4100E-01        3.7000E-02
+        2.3100E+01        0.0000E+00        1.8100E-01        2.7000E-02
+        2.5400E+01        0.0000E+00        9.0300E-02        1.3900E-02
+        2.8800E+01        0.0000E+00        5.4200E-02        8.6000E-03
+        3.1200E+01        0.0000E+00        3.7500E-02        6.3000E-03
+        3.3600E+01        0.0000E+00        3.2900E-02        5.6000E-03

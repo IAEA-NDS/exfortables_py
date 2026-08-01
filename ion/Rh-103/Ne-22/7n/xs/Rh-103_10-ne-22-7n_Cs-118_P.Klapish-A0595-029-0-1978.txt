@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 45-RH-103(10-NE-22,7N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: 10-NE-22,7N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3300e+02 MeV - 1.6200e+02 MeV 
+# Residual: 
+#   Z: 55 
+#   A: 118 
+#   Nuclide: 55-CS-118 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0595-029-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(10-NE-22,7N)55-CS-118,,SIG) 
+#   First author: P.Klapish 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (P,JINR-P7-11661,1978) 
+#   Year:  1978 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0595.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0595
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3300E+02        1.8000E+00        2.1000E-04        1.3000E-04
+        1.4200E+02        8.0000E-01        4.7000E-04        9.0000E-05
+        1.5100E+02        1.2000E+00        6.6000E-04        9.0000E-05
+        1.6200E+02        1.1000E+00        5.9000E-04        4.0000E-05

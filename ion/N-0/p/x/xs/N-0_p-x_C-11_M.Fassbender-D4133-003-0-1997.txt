@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 7-N-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 7 
+#   A: 0 
+#   Nuclide: 7-N-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.1000e+01 MeV - 1.7240e+02 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 11 
+#   Nuclide: 6-C-11 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4133-003-0 (entry-subentry-pointer) 
+#   Reaction code: (7-N-0(P,X)6-C-11,,SIG) 
+#   First author: M.Fassbender 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (C,97TRIEST,,1646,1997) 
+#   Year:  1997 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4133.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4133
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.1000E+01        0.0000E+00        1.3300E-02        3.2000E-03
+        5.5400E+01        0.0000E+00        1.3000E-02        2.7000E-03
+        5.9500E+01        0.0000E+00        1.2900E-02        2.8000E-03
+        6.4000E+01        0.0000E+00        1.1000E-02        2.3000E-03
+        6.8000E+01        0.0000E+00        1.1800E-02        2.5000E-03
+        1.7240E+02        0.0000E+00        9.2000E-03        9.0000E-04

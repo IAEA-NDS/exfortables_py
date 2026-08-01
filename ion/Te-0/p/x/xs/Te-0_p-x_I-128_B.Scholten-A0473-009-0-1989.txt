@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 52-TE-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 52 
+#   A: 0 
+#   Nuclide: 52-TE-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  8.0900e+00 MeV - 1.9000e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 128 
+#   Nuclide: 53-I-128 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0473-009-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-0(P,X)53-I-128,,SIG) 
+#   First author: B.Scholten 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,ARI,40,127,1989) 
+#   Year:  1989 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0473.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0473
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.0900E+00        2.0000E-02        8.4380E-03        0.0000E+00
+        9.2000E+00        2.0000E-02        2.9660E-02        0.0000E+00
+        9.8100E+00        2.0000E-02        5.3530E-02        0.0000E+00
+        1.0230E+01        2.0000E-02        7.4360E-02        0.0000E+00
+        1.0880E+01        2.0000E-02        8.8690E-02        0.0000E+00
+        1.1780E+01        2.0000E-02        7.4120E-02        0.0000E+00
+        1.2210E+01        2.0000E-02        5.0620E-02        0.0000E+00
+        1.2620E+01        2.0000E-02        4.3070E-02        0.0000E+00
+        1.3060E+01        2.0000E-02        3.7270E-02        0.0000E+00
+        1.3470E+01        2.0000E-02        3.0400E-02        0.0000E+00
+        1.5310E+01        2.0000E-02        2.1410E-02        0.0000E+00
+        1.6580E+01        2.0000E-02        1.5490E-02        0.0000E+00
+        1.6640E+01        2.0000E-02        1.1810E-02        0.0000E+00
+        1.6900E+01        2.0000E-02        1.6010E-02        0.0000E+00
+        1.7180E+01        2.0000E-02        1.2110E-02        0.0000E+00
+        1.7540E+01        2.0000E-02        9.1510E-03        0.0000E+00
+        1.8680E+01        2.0000E-02        1.2480E-02        0.0000E+00
+        1.9000E+01        2.0000E-02        9.4370E-03        0.0000E+00

@@ -1,7 +1,7 @@
 # Header: 
-#   title: 15-P-31(N,EL) strength_function cross section 
+#   title: 15-P-31(N,EL) strength function 
 #   source: EXFOR 
-#   date created: 2026-06-11 
+#   date created: 2026-08-01 
 # Target: 
 #   Z: 15 
 #   A: 31 
@@ -20,9 +20,9 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [NO-DIM]     dData         sf8    sf9
 20292-006-0         K.Tsukada               1963   3.5000E+00   0.0000E+00   3.9000E-04   0.0000E+00                
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
-12942-003-0         R.L.Macklin             1985   4.9410E-01   0.0000E+00   5.1000E-05   0.0000E+00           DERIV
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [NO-DIM]     dData         sf8    sf9
 22105-033-0         L.Koester               1988   3.0250E+00   0.0000E+00   2.2000E-04   0.0000E+00           DERIV
+12942-003-0         R.L.Macklin             1985   4.9410E-01   0.0000E+00   5.1000E-05   0.0000E+00           DERIV

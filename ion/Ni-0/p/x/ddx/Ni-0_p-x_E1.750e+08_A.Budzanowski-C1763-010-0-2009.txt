@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 28-NI-0(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.7500e+02 MeV 
+# Residual: 
+#   Z: 3 
+#   A: 8 
+#   Nuclide: 3-LI-8 
+#   Outgoing energy:  1.7500e+01 MeV - 5.0500e+01 MeV 
+# EXFOR BIB:
+#   Entry id: C1763-010-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(P,X)3-LI-8,,DA/DE) 
+#   First author: A.Budzanowski 
+#   Institute:  (3POLIFJ): Niewodniczanski Institute of Nuclear Physics, Krakow 
+#   Reference:  (J,PR/C,80,054604,2009) 
+#   Year:  2009 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C17/C1763.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1763
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        2.3500E+01        0.0000E+00        5.0000E+01        0.0000E+00        5.8000E-14        5.0000E-14
+        2.6500E+01        0.0000E+00        5.0000E+01        0.0000E+00        5.8000E-14        5.0000E-14
+        2.4500E+01        0.0000E+00        3.5000E+01        0.0000E+00        9.7000E-14        6.5000E-14
+        5.0500E+01        0.0000E+00        1.5600E+01        0.0000E+00        1.0000E-13        1.3000E-13
+        2.0500E+01        0.0000E+00        5.0000E+01        0.0000E+00        1.1600E-13        5.8000E-14
+        5.0500E+01        0.0000E+00        2.0000E+01        0.0000E+00        1.6100E-13        6.1000E-14
+        2.9500E+01        0.0000E+00        5.0000E+01        0.0000E+00        1.7500E-13        7.1000E-14
+        3.0500E+01        0.0000E+00        3.5000E+01        0.0000E+00        1.9400E-13        7.9000E-14
+        4.7500E+01        0.0000E+00        1.5600E+01        0.0000E+00        2.0800E-13        6.0000E-14
+        4.7500E+01        0.0000E+00        2.0000E+01        0.0000E+00        2.1400E-13        5.7000E-14
+        2.1500E+01        0.0000E+00        3.5000E+01        0.0000E+00        2.2600E-13        8.5000E-14
+        1.7500E+01        0.0000E+00        5.0000E+01        0.0000E+00        2.3300E-13        8.7000E-14
+        3.3500E+01        0.0000E+00        3.5000E+01        0.0000E+00        2.4000E-13        1.1000E-13
+        2.7500E+01        0.0000E+00        3.5000E+01        0.0000E+00        2.5800E-13        9.7000E-14
+        1.8500E+01        0.0000E+00        3.5000E+01        0.0000E+00        3.9000E-13        1.1000E-13

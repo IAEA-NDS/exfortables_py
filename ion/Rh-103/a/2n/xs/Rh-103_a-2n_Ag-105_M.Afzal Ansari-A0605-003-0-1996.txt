@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 45-RH-103(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.8920e+01 MeV - 3.9880e+01 MeV 
+# Residual: 
+#   Z: 47 
+#   A: 105 
+#   Nuclide: 47-AG-105 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0605-003-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(A,2N)47-AG-105,,SIG) 
+#   First author: M.Afzal Ansari 
+#   Institute:  (3ZZZTPT): Intern.Centre for Theoretical Physics, Trieste 
+#   Reference:  (J,IMP/E,5,345,1996) 
+#   Year:  1996 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A06/A0605.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0605
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.8920E+01        5.9000E-01        2.9575E-01        1.5120E-02
+        2.4660E+01        5.9000E-01        1.0298E+00        9.8200E-03
+        2.9610E+01        5.7000E-01        9.0560E-01        4.6010E-02
+        3.5010E+01        5.7000E-01        2.6586E-01        9.0700E-03
+        3.9880E+01        5.6000E-01        1.2440E-01        1.0030E-02

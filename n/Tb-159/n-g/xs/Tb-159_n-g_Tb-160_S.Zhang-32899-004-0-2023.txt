@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 65-TB-159(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-04-23 
+#   Date created: 2026-07-31 
 # Target: 
 #   Z: 65 
 #   A: 159 
 #   Nuclide: 65-TB-159 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  1.0338e-06 MeV - 9.9881e-05 MeV 
 # Residual: 
 #   Z: 65 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32899.x4 
 #   nds:  https://nds.iaea.org/EXFOR/32899
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
         1.0338E-06        0.0000E+00        2.6347E+00        0.0000E+00
         1.0965E-06        0.0000E+00        2.6342E+00        0.0000E+00
         1.2846E-06        0.0000E+00        2.6782E+00        0.0000E+00

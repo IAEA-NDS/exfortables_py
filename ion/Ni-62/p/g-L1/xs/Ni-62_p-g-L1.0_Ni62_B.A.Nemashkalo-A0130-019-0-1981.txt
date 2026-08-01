@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 28-NI-62(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 62 
+#   Nuclide: 28-NI-62 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102.0 
+#   Incident energy:  1.4900e+00 MeV - 3.0000e+00 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+#   Level energy: 6.6900e-01 MeV 
+# EXFOR BIB:
+#   Entry id: A0130-019-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-62(P,G)29-CU-63,PAR,SIG) 
+#   First author: B.A.Nemashkalo 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,VAT/O,,(2/16),37,1981) 
+#   Year:  1981 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A01/A0130.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0130
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4900E+00        2.0000E-03        4.1000E-06        6.0000E-07
+        1.6400E+00        2.0000E-03        5.0000E-06        7.0000E-07
+        1.7900E+00        2.0000E-03        1.0800E-05        1.6000E-06
+        1.9400E+00        2.0000E-03        9.9000E-06        1.5000E-06
+        2.0600E+00        2.0000E-03        2.1800E-05        3.0000E-06
+        2.0700E+00        2.0000E-03        1.1300E-05        1.7000E-06
+        2.2100E+00        2.0000E-03        2.2000E-05        3.3000E-06
+        2.3500E+00        2.0000E-03        1.6700E-05        2.5000E-06
+        2.4600E+00        2.0000E-03        3.0400E-05        4.6000E-06
+        2.5800E+00        2.0000E-03        6.7900E-05        1.0100E-05
+        2.6600E+00        2.0000E-03        4.1000E-05        6.1000E-06
+        2.7900E+00        2.0000E-03        4.1900E-05        6.3000E-06
+        2.8900E+00        2.0000E-03        3.2400E-05        4.0000E-06
+        2.9100E+00        2.0000E-03        2.3000E-05        3.4000E-06
+        3.0000E+00        2.0000E-03        5.5000E-05        6.8000E-06

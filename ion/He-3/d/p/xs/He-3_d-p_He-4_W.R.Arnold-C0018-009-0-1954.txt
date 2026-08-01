@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 2-HE-3(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  3.6000e-02 MeV - 9.3000e-02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0018-009-0 (entry-subentry-pointer) 
+#   Reaction code: (2-HE-3(D,P)2-HE-4,,SIG,,,DERIV) 
+#   First author: W.R.Arnold 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,93,483,1954) 
+#   Year:  1954 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C00/C0018.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0018
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.6000E-02        0.0000E+00        1.2400E-04        2.9760E-06
+        4.0000E-02        0.0000E+00        2.5800E-04        6.1920E-06
+        4.6000E-02        0.0000E+00        6.0500E-04        9.0750E-06
+        5.3000E-02        0.0000E+00        1.2800E-03        1.9200E-05
+        6.0000E-02        0.0000E+00        2.3200E-03        3.4800E-05
+        6.7000E-02        0.0000E+00        3.8400E-03        5.7600E-05
+        7.3000E-02        0.0000E+00        5.6500E-03        8.4750E-05
+        8.0000E-02        0.0000E+00        8.4500E-03        1.2675E-04
+        9.3000E-02        0.0000E+00        1.6200E-02        2.4300E-04

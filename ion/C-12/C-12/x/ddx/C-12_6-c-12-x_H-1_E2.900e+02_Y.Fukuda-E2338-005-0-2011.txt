@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 6-C-12(6-C-12,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: 6-C-12,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  2.9000e-04 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Outgoing energy:  1.0120e+02 MeV - 4.1980e+02 MeV 
+# EXFOR BIB:
+#   Entry id: E2338-005-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(6-C-12,X)1-H-1,,DA/DE) 
+#   First author: Y.Fukuda 
+#   Institute:  (2JPNKYU): Kyushu University , Fukuoka 
+#   Reference:  (J,NSTP,1,102,201102) 
+#   Year:  2011 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E23/E2338.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2338
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        4.1980E+02        0.0000E+00        1.5000E+01        0.0000E+00        2.5920E-10        1.5440E-10
+        4.0050E+02        0.0000E+00        1.5000E+01        0.0000E+00        5.2240E-10        2.9320E-10
+        3.6030E+02        0.0000E+00        1.5000E+01        0.0000E+00        5.4880E-10        2.3520E-10
+        3.4020E+02        0.0000E+00        1.5000E+01        0.0000E+00        5.7640E-10        2.5300E-10
+        3.8040E+02        0.0000E+00        1.5000E+01        0.0000E+00        6.8470E-10        3.6530E-10
+        3.2010E+02        0.0000E+00        1.5000E+01        0.0000E+00        9.3120E-10        4.0880E-10
+        1.2060E+02        0.0000E+00        1.5000E+01        0.0000E+00        1.6000E-09        1.8510E-10
+        1.8010E+02        0.0000E+00        1.5000E+01        0.0000E+00        1.7650E-09        3.0600E-10
+        2.0100E+02        0.0000E+00        1.5000E+01        0.0000E+00        1.9480E-09        3.9450E-10
+        1.0120E+02        0.0000E+00        1.5000E+01        0.0000E+00        2.3420E-09        2.9270E-10
+        1.4070E+02        0.0000E+00        1.5000E+01        0.0000E+00        2.5210E-09        3.4590E-10
+        3.0070E+02        0.0000E+00        1.5000E+01        0.0000E+00        2.5210E-09        7.3450E-10
+        1.6080E+02        0.0000E+00        1.5000E+01        0.0000E+00        2.5840E-09        4.3530E-10
+        2.4120E+02        0.0000E+00        1.5000E+01        0.0000E+00        2.6160E-09        4.9360E-10
+        2.6130E+02        0.0000E+00        1.5000E+01        0.0000E+00        2.7480E-09        7.5210E-10
+        2.8060E+02        0.0000E+00        1.5000E+01        0.0000E+00        2.7480E-09        8.4790E-10
+        2.2110E+02        0.0000E+00        1.5000E+01        0.0000E+00        3.4710E-09        6.5490E-10

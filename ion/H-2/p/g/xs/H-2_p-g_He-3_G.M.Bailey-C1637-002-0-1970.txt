@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 1-H-2(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102.0 
+#   Incident energy:  5.4224e-02 MeV - 1.0942e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1637-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(P,G)2-HE-3,,SIG) 
+#   First author: G.M.Bailey 
+#   Institute:  (1CANUBC): University of British Columbia, Vancouver, B.C. 
+#   Reference:  (J,CJP,48,3059,1970) 
+#   Year:  1970 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C16/C1637.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1637
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.4224E-02        0.0000E+00        2.2100E-07        2.6000E-08
+        9.1799E-02        0.0000E+00        4.2700E-07        5.8000E-08
+        1.3148E-01        0.0000E+00        6.6400E-07        7.4000E-08
+        3.8789E-01        0.0000E+00        1.5490E-06        1.0000E-07
+        4.6499E-01        0.0000E+00        1.7710E-06        1.1100E-07
+        5.1090E-01        0.0000E+00        2.0080E-06        1.0600E-07
+        6.1506E-01        0.0000E+00        2.2600E-06        1.1100E-07
+        6.4840E-01        0.0000E+00        2.3450E-06        7.9000E-08
+        6.9215E-01        0.0000E+00        2.4610E-06        1.0600E-07
+        7.9421E-01        0.0000E+00        2.6920E-06        1.0600E-07
+        9.9221E-01        0.0000E+00        3.3140E-06        2.0600E-07
+        1.0942E+00        0.0000E+00        3.4400E-06        1.7900E-07

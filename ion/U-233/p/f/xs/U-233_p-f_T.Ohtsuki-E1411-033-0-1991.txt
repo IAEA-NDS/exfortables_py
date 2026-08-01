@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 92-U-233(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 233 
+#   Nuclide: 92-U-233 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  8.2000e+00 MeV - 1.5500e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 132 
+#   Nuclide: 52-TE-132 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1411-033-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-233(P,F)52-TE-132,(CUM),SIG) 
+#   First author: T.Ohtsuki 
+#   Institute:  (2JPNTMU): Tokyo Metropolitan University , Hachioji, Tokyo 
+#   Reference:  (J,PR/C,44,1405,1991) 
+#   Year:  1991 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E14/E1411.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1411
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.2000E+00        0.0000E+00        1.8000E-04        3.0000E-05
+        9.8000E+00        0.0000E+00        5.0000E-04        6.0000E-05
+        1.1200E+01        0.0000E+00        1.8100E-03        1.1000E-04
+        1.2200E+01        0.0000E+00        3.7900E-03        6.9000E-04
+        1.3000E+01        0.0000E+00        6.9100E-03        4.5000E-04
+        1.3900E+01        0.0000E+00        7.8900E-03        5.6000E-04
+        1.4600E+01        0.0000E+00        1.2710E-02        3.1000E-04
+        1.5500E+01        0.0000E+00        1.2310E-02        1.6000E-04

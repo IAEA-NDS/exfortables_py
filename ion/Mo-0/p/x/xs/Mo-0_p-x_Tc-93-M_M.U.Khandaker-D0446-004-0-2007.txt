@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 42-MO-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 0 
+#   Nuclide: 42-MO-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.9930e+01 MeV - 2.6240e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 93 
+#   Nuclide: 43-TC-93-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0446-004-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-0(P,X)43-TC-93-M,,SIG) 
+#   First author: M.U.Khandaker 
+#   Institute:  (3KORKNU): Kyungpook National University, Daegu 
+#   Reference:  (J,NIM/B,262,171,2007) 
+#   Year:  2007 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D04/D0446.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0446
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.9930E+01        3.6000E-01        3.2300E-03        6.1000E-04
+        2.3250E+01        3.0000E-01        8.4400E-03        7.2000E-04
+        2.6240E+01        2.1000E-01        1.0180E-02        9.2000E-04

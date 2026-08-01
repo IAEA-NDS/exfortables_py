@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 37-RB-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 37 
+#   A: 0 
+#   Nuclide: 37-RB-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.6200e+01 MeV - 1.6000e+03 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 77 
+#   Nuclide: 35-BR-77-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0505-009-0 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-0(P,X)35-BR-77-G,CUM,SIG) 
+#   First author: E.Gilabert 
+#   Institute:  (2FR GRA): Centre d'Etudes Nucleaires de Bordeaux-Gradignan 
+#   Reference:  (J,NIM/B,145,293,1998) 
+#   Year:  1998 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0505.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0505
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.6200E+01        1.6000E+00        1.4000E-02        1.5000E-03
+        8.1600E+01        1.6000E+00        1.9500E-02        2.0000E-03
+        8.9000E+01        1.4000E+00        1.7700E-02        1.8000E-03
+        1.0800E+02        1.0000E+00        1.9600E-02        2.0000E-03
+        1.1200E+02        2.0000E+00        2.3300E-02        2.4000E-03
+        1.2400E+02        1.0000E+00        2.5400E-02        2.7000E-03
+        1.3000E+02        1.0000E+00        2.6900E-02        2.8000E-03
+        1.4200E+02        2.0000E+00        2.9300E-02        3.0000E-03
+        1.6800E+02        1.0000E+00        3.4000E-02        3.5000E-03
+        2.9300E+02        1.0000E+00        3.5500E-02        3.7000E-03
+        3.6800E+02        1.0000E+00        2.9700E-02        3.1000E-03
+        5.7500E+02        1.0000E+00        2.8900E-02        3.1000E-03
+        7.7700E+02        1.0000E+00        2.5700E-02        2.7000E-03
+        9.6200E+02        2.0000E+00        2.0100E-02        2.1000E-03
+        1.6000E+03        2.0000E+01        2.2000E-02        2.7000E-03

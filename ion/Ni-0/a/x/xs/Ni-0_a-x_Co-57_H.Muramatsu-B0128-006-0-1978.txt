@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 28-NI-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.9400e+01 MeV - 3.6600e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 57 
+#   Nuclide: 27-CO-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0128-006-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(A,X)27-CO-57,(CUM),SIG) 
+#   First author: H.Muramatsu 
+#   Institute:  (2JPNTMU): Tokyo Metropolitan University , Hachioji, Tokyo 
+#   Reference:  (J,ARI,29,611,1978) 
+#   Year:  1978 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0128.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0128
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.9400E+01        0.0000E+00        3.6000E-02        0.0000E+00
+        2.2400E+01        0.0000E+00        7.9000E-02        0.0000E+00
+        2.5300E+01        0.0000E+00        1.0900E-01        0.0000E+00
+        2.8300E+01        0.0000E+00        1.0900E-01        0.0000E+00
+        3.1100E+01        0.0000E+00        1.2000E-01        0.0000E+00
+        3.3700E+01        0.0000E+00        9.4000E-02        0.0000E+00
+        3.6600E+01        0.0000E+00        1.0000E-01        0.0000E+00

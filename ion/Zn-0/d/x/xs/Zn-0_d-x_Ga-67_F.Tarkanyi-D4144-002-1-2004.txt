@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 30-ZN-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 30 
+#   A: 0 
+#   Nuclide: 30-ZN-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.7000e+00 MeV - 4.8300e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 67 
+#   Nuclide: 31-GA-67 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4144-002-1 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-0(D,X)31-GA-67,,SIG,,,EXP) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,217,531,2004) 
+#   Year:  2004 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4144.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4144
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.7000E+00        1.4000E+00        7.0600E-02        8.0000E-03
+        1.5500E+01        9.0000E-01        5.9100E-02        6.8000E-03
+        2.1500E+01        6.0000E-01        7.1200E-02        8.1000E-03
+        2.4500E+01        1.5000E+00        9.0300E-02        1.0200E-02
+        2.6700E+01        4.0000E-01        1.0390E-01        1.1700E-02
+        2.7900E+01        1.3000E+00        1.0350E-01        1.1700E-02
+        2.8600E+01        1.3000E+00        1.0630E-01        1.2000E-02
+        3.1000E+01        1.2000E+00        1.0430E-01        1.1800E-02
+        3.2100E+01        1.1000E+00        1.0020E-01        1.1600E-02
+        3.4800E+01        1.0000E+00        8.8300E-02        1.0000E-02
+        3.6300E+01        9.0000E-01        7.8600E-02        8.9000E-03
+        3.7600E+01        8.0000E-01        7.4000E-02        8.4000E-03
+        3.8300E+01        8.0000E-01        7.0400E-02        8.0000E-03
+        4.0000E+01        7.0000E-01        5.9800E-02        6.8000E-03
+        4.1400E+01        6.0000E-01        5.7400E-02        6.6000E-03
+        4.3700E+01        5.0000E-01        5.0600E-02        5.8000E-03
+        4.4100E+01        5.0000E-01        5.0900E-02        5.8000E-03
+        4.5400E+01        4.0000E-01        4.6000E-02        5.3000E-03
+        4.6300E+01        4.0000E-01        4.4200E-02        5.1000E-03
+        4.8300E+01        3.0000E-01        4.3600E-02        5.1000E-03

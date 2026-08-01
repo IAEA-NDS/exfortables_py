@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 8-O-16(D,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: D,N 
+#   MF-MT number: 3 - 50 
+#   Incident energy:  3.0000e+00 MeV - 5.5000e+00 MeV 
+# Residual: 
+#   Z: 9 
+#   A: 17 
+#   Nuclide: 9-F-17 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: F0724-003-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(D,N)9-F-17,PAR,SIG) 
+#   First author: G.Lodin 
+#   Institute:  (2SWDAE): Studsvik Energiteknik AB 
+#   Reference:  (J,ZP,233,181,1970) 
+#   Year:  1970 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F07/F0724.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0724
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.0000E+00        0.0000E+00        1.9600E-01        2.1560E-02
+        3.5000E+00        0.0000E+00        1.7900E-01        1.9690E-02
+        4.0000E+00        0.0000E+00        1.8600E-01        2.0460E-02
+        4.5000E+00        0.0000E+00        1.6200E-01        1.7820E-02
+        5.0000E+00        0.0000E+00        1.9500E-01        2.1450E-02
+        5.5000E+00        0.0000E+00        1.5300E-01        1.6830E-02

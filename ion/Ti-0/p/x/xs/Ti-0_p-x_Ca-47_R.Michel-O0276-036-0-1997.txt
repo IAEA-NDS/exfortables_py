@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 22-TI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 22 
+#   A: 0 
+#   Nuclide: 22-TI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.5800e+01 MeV - 1.6100e+02 MeV 
+# Residual: 
+#   Z: 20 
+#   A: 47 
+#   Nuclide: 20-CA-47 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0276-036-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-0(P,X)20-CA-47,CUM,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,NIM/B,129,153,1997) 
+#   Year:  1997 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0276.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0276
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.5800E+01        8.0000E-01        1.1000E-05        5.0000E-06
+        5.0000E+01        7.0000E-01        3.2000E-05        8.0000E-06
+        5.3600E+01        6.0000E-01        3.8000E-05        8.0000E-06
+        5.7000E+01        5.6200E-01        2.3300E-05        6.1200E-06
+        5.7000E+01        6.0000E-01        3.2000E-05        8.0000E-06
+        6.0300E+01        5.0000E-01        5.0000E-05        9.0000E-06
+        6.0300E+01        5.1200E-01        4.7600E-05        7.6400E-06
+        6.3400E+01        4.6100E-01        5.0200E-05        7.1200E-06
+        6.3400E+01        5.0000E-01        5.2000E-05        8.0000E-06
+        6.6400E+01        3.9800E-01        6.2700E-05        7.6700E-06
+        6.6400E+01        4.0000E-01        5.9000E-05        8.0000E-06
+        6.9400E+01        3.0000E-01        6.4000E-05        8.0000E-06
+        6.9400E+01        3.1900E-01        6.3000E-05        7.6500E-06
+        1.1600E+02        1.4400E+00        9.8500E-05        9.9700E-06
+        1.2700E+02        1.3600E+00        1.1900E-04        9.6900E-06
+        1.3800E+02        1.2700E+00        1.2400E-04        1.0600E-05
+        1.5000E+02        1.1700E+00        1.3300E-04        1.1300E-05
+        1.6100E+02        1.0400E+00        1.3400E-04        1.1000E-05

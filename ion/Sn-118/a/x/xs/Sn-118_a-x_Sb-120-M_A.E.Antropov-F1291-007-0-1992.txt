@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 50-SN-118(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 50 
+#   A: 118 
+#   Nuclide: 50-SN-118 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.2100e+01 MeV - 2.4400e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 120 
+#   Nuclide: 51-SB-120-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1291-007-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-118(A,X)51-SB-120-M,,SIG) 
+#   First author: A.E.Antropov 
+#   Institute:  (4RUSSUL): Gosudarstvennyi University (State University ), St.Petersburg 
+#   Reference:  (C,92ALMAAT,,288,1992) 
+#   Year:  1992 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F12/F1291.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1291
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.4400E+01        0.0000E+00        1.2000E-03        1.4000E-04
+        2.3000E+01        0.0000E+00        3.0000E-04        8.0000E-05
+        2.2100E+01        0.0000E+00        3.0000E-04        6.0000E-05

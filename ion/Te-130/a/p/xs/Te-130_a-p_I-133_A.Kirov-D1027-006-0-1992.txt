@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 52-TE-130(A,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 52 
+#   A: 130 
+#   Nuclide: 52-TE-130 
+# Reaction: 
+#   Process: A,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4700e+01 MeV - 3.6500e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 133 
+#   Nuclide: 53-I-133 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D1027-006-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-130(A,P)53-I-133,,SIG) 
+#   First author: A.Kirov 
+#   Institute:  (3BULSOF): University of Sofia 
+#   Reference:  (J,ZP/A,341,443,1992) 
+#   Year:  1992 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D10/D1027.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D1027
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4700E+01        7.0000E-01        1.2000E-06        8.0000E-07
+        1.7800E+01        6.0000E-01        5.0000E-05        1.0000E-05
+        2.0800E+01        6.0000E-01        4.2000E-04        5.0000E-05
+        2.3800E+01        5.0000E-01        1.2500E-03        1.5000E-04
+        2.6800E+01        5.0000E-01        1.8300E-03        2.2000E-04
+        2.9300E+01        4.0000E-01        1.5700E-03        1.8000E-04
+        3.2700E+01        3.0000E-01        1.3200E-03        1.5000E-04
+        3.6500E+01        2.0000E-01        1.1700E-03        1.3000E-04

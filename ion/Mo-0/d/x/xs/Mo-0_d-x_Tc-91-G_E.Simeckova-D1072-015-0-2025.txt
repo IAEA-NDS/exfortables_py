@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 42-MO-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 0 
+#   Nuclide: 42-MO-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.0620e+01 MeV - 3.7810e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 91 
+#   Nuclide: 43-TC-91-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D1072-015-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-0(D,X)43-TC-91-G,,SIG) 
+#   First author: E.Simeckova 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,PR/C,111,044612,2025) 
+#   Year:  2025 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D10/D1072.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D1072
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.0620E+01        4.4000E-01        4.3200E-03        7.0000E-04
+        3.1710E+01        4.3000E-01        5.3000E-03        7.0000E-04
+        3.2550E+01        4.2000E-01        6.5500E-03        8.1000E-04
+        3.3350E+01        4.2000E-01        6.7000E-03        7.7000E-04
+        3.4600E+01        4.0000E-01        7.6700E-03        1.1100E-03
+        3.6120E+01        3.9000E-01        7.2200E-03        8.0000E-04
+        3.7080E+01        3.8000E-01        6.2400E-03        7.9000E-04
+        3.7810E+01        3.8000E-01        7.1500E-03        8.0000E-04

@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 47-AG-0(HE3,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 47 
+#   A: 0 
+#   Nuclide: 47-AG-0 
+# Reaction: 
+#   Process: HE3,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3750e+01 MeV - 3.7580e+01 MeV 
+# Residual: 
+#   Z: 47 
+#   A: 106 
+#   Nuclide: 47-AG-106-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1963-006-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-0(HE3,X)47-AG-106-M,,SIG) 
+#   First author: T.Omori 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,RRL,44,307,1980) 
+#   Year:  1980 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1963.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1963
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3750E+01        5.0000E-01        1.2190E-03        9.7520E-05
+        1.4970E+01        5.0000E-01        3.3840E-03        2.7072E-04
+        1.6700E+01        5.0000E-01        1.1140E-02        8.9120E-04
+        1.8000E+01        5.0000E-01        2.0430E-02        1.6344E-03
+        1.9210E+01        5.0000E-01        2.9650E-02        2.3720E-03
+        2.0930E+01        5.0000E-01        3.9920E-02        3.1936E-03
+        2.2720E+01        5.0000E-01        4.9900E-02        3.9920E-03
+        2.4510E+01        5.0000E-01        5.4310E-02        4.3448E-03
+        2.7580E+01        5.0000E-01        4.0710E-02        3.2568E-03
+        3.1360E+01        5.0000E-01        3.6170E-02        2.8936E-03
+        3.7580E+01        5.0000E-01        7.5270E-02        6.0216E-03

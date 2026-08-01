@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 40-ZR-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 40 
+#   A: 0 
+#   Nuclide: 40-ZR-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.3600e+01 MeV - 5.4400e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 90 
+#   Nuclide: 39-Y-90-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0197-008-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-0(A,X)39-Y-90-M,,SIG,,DAM) 
+#   First author: M.De La Vega Vedoya 
+#   Institute:  (3ARGCNE): Comision Nacional de Energia Atomica, Buenos Aires 
+#   Reference:  (J,JRC,67,165,1981) 
+#   Year:  1981 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A01/A0197.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0197
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.3600E+01        5.0000E-01        5.0000E-07        1.0000E-07
+        3.6400E+01        5.0000E-01        2.4000E-06        4.0000E-07
+        3.7900E+01        5.0000E-01        1.6200E-05        3.0000E-06
+        4.1200E+01        5.0000E-01        2.3700E-05        3.9000E-06
+        4.2400E+01        5.0000E-01        2.6500E-05        4.5000E-06
+        4.5600E+01        5.0000E-01        2.2400E-05        3.9000E-06
+        4.8600E+01        5.0000E-01        2.9600E-05        5.2000E-06
+        5.1600E+01        5.0000E-01        7.1600E-05        1.3000E-05
+        5.4400E+01        5.0000E-01        1.1060E-04        1.7800E-05

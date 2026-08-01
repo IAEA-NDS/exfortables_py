@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 42-MO-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 0 
+#   Nuclide: 42-MO-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.5750e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 88 
+#   Nuclide: 41-NB-88-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0805-016-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-0(P,X)41-NB-88-M,,SIG) 
+#   First author: J.Cervenak 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,NIM/B,380,32,2016) 
+#   Year:  2016 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D08/D0805.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0805
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.5750E+01        3.1000E-01        2.6100E-03        4.5000E-04

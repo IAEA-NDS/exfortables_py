@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 42-MO-92(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 92 
+#   Nuclide: 42-MO-92 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.8500e+01 MeV - 2.6800e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 94 
+#   Nuclide: 43-TC-94-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4016-004-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-92(A,X)43-TC-94-M,,SIG) 
+#   First author: F.-O.Denzler 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,RCA,68,13,1995) 
+#   Year:  1995 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4016.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4016
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.8500E+01        4.0000E-01        1.0000E-03        3.4000E-04
+        1.9300E+01        4.0000E-01        3.3000E-03        1.2000E-03
+        2.0300E+01        4.0000E-01        9.0000E-03        2.0000E-03
+        2.1200E+01        3.0000E-01        3.0000E-02        7.0000E-03
+        2.2200E+01        3.0000E-01        3.8000E-02        7.0000E-03
+        2.2800E+01        3.0000E-01        1.2800E-01        2.2000E-02
+        2.3100E+01        3.0000E-01        1.1100E-01        1.6000E-02
+        2.4300E+01        3.0000E-01        1.7000E-01        3.7000E-02
+        2.4800E+01        3.0000E-01        1.7400E-01        4.0000E-02
+        2.5900E+01        3.0000E-01        3.1100E-01        7.0000E-02
+        2.6800E+01        3.0000E-01        2.1400E-01        3.8000E-02

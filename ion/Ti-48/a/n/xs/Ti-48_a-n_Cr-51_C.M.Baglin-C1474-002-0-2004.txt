@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 22-TI-48(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 22 
+#   A: 48 
+#   Nuclide: 22-TI-48 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  6.5840e+00 MeV - 1.1161e+01 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 51 
+#   Nuclide: 24-CR-51 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1474-002-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-48(A,N)24-CR-51,,SIG) 
+#   First author: C.M.Baglin 
+#   Institute:  (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
+#   Reference:  (C,2004SANTA,,1370,2004) 
+#   Year:  2004 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C14/C1474.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1474
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.5840E+00        1.9700E-01        2.1530E-02        2.1260E-03
+        7.1340E+00        1.2700E-01        4.7010E-02        5.3720E-03
+        7.7010E+00        1.6200E-01        9.7460E-02        8.0930E-03
+        8.0480E+00        2.2600E-01        1.3090E-01        1.2930E-02
+        8.1230E+00        1.0400E-01        1.5180E-01        1.6170E-02
+        8.3260E+00        1.9700E-01        1.5580E-01        3.9980E-03
+        9.2460E+00        1.7400E-01        2.9390E-01        2.4400E-02
+        9.2920E+00        1.6200E-01        2.9130E-01        2.8780E-02
+        9.5470E+00        1.0400E-01        3.2060E-01        2.9160E-02
+        1.0392E+01        1.2700E-01        4.2380E-01        4.8430E-02
+        1.1161E+01        1.3300E-01        4.1710E-01        3.7770E-02

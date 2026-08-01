@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 13-AL-27(A,3P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: A,3P 
+#   MF-MT number: 3 - 197 
+#   Incident energy:  3.1125e+01 MeV - 4.1485e+01 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 28 
+#   Nuclide: 12-MG-28 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: P0123-006-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(A,3P)12-MG-28,,SIG) 
+#   First author: R.H.Lindsay 
+#   Institute:  (1USAWSU): Washington State University, Pullman, WA 
+#   Reference:  (J,PR,118,1293,1960) 
+#   Year:  1960 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P01/P0123.x4 
+#   nds:  https://nds.iaea.org/EXFOR/P0123
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.1125E+01        6.4700E-01        4.0710E-07        0.0000E+00
+        3.2247E+01        5.7900E-01        1.4970E-06        0.0000E+00
+        3.3386E+01        5.7900E-01        2.5970E-06        0.0000E+00
+        3.4431E+01        5.4500E-01        6.5270E-06        0.0000E+00
+        3.5506E+01        0.0000E+00        1.3560E-05        0.0000E+00
+        3.6511E+01        0.0000E+00        2.6880E-05        0.0000E+00
+        3.7509E+01        0.0000E+00        3.9280E-05        0.0000E+00
+        3.8476E+01        0.0000E+00        6.4970E-05        0.0000E+00
+        4.0493E+01        5.1100E-01        8.4600E-05        0.0000E+00
+        4.1485E+01        0.0000E+00        9.4730E-05        0.0000E+00

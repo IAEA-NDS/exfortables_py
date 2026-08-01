@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 14-SI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 14 
+#   A: 0 
+#   Nuclide: 14-SI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.4900e+01 MeV - 1.5660e+02 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 14 
+#   Nuclide: 6-C-14 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: T0105-006-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-0(P,X)6-C-14,,SIG) 
+#   First author: A.J.T.Jull 
+#   Institute:  (1USAUAZ): Arizona University , Tucson, AZ 
+#   Reference:  (J,GCA,62,3025,1998) 
+#   Year:  1998 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T01/T0105.x4 
+#   nds:  https://nds.iaea.org/EXFOR/T0105
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.4900E+01        4.0000E+00        6.0000E-06        1.0000E-06
+        6.0200E+01        4.0000E+00        1.0000E-05        1.0000E-06
+        6.5500E+01        4.0000E+00        2.0000E-05        2.0000E-06
+        7.6000E+01        3.5000E+00        3.1000E-05        2.0000E-06
+        8.6300E+01        3.0000E+00        6.5000E-05        5.0000E-06
+        9.6600E+01        3.0000E+00        9.0000E-05        7.0000E-06
+        1.2750E+02        2.0000E+00        1.7400E-04        1.0000E-05
+        1.4750E+02        1.0000E+00        1.7700E-04        1.7000E-05
+        1.5660E+02        1.0000E+00        2.0700E-04        1.9000E-05

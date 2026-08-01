@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 15-P-31(7-N-14,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 15 
+#   A: 31 
+#   Nuclide: 15-P-31 
+# Reaction: 
+#   Process: 7-N-14,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.2100e+01 MeV - 4.1900e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 43 
+#   Nuclide: 21-SC-43 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: P0139-002-0 (entry-subentry-pointer) 
+#   Reaction code: (15-P-31(7-N-14,X)21-SC-43,,SIG) 
+#   First author: I.R.Williams 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,PR,138,B382,1965) 
+#   Year:  1965 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P01/P0139.x4 
+#   nds:  https://nds.iaea.org/EXFOR/P0139
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.2100E+01        0.0000E+00        7.2100E-02        2.1630E-02
+        2.2900E+01        0.0000E+00        1.4800E-01        4.4400E-02
+        2.3600E+01        0.0000E+00        2.2200E-01        6.6600E-02
+        2.5100E+01        0.0000E+00        3.7000E-01        1.1100E-01
+        2.6100E+01        0.0000E+00        4.3900E-01        1.3170E-01
+        2.8100E+01        0.0000E+00        5.2700E-01        1.5810E-01
+        3.0100E+01        0.0000E+00        5.7500E-01        1.7250E-01
+        3.1800E+01        0.0000E+00        5.7800E-01        1.7340E-01
+        3.3600E+01        0.0000E+00        5.5500E-01        1.6650E-01
+        3.5000E+01        0.0000E+00        5.3500E-01        1.6050E-01
+        3.6900E+01        0.0000E+00        4.9400E-01        1.4820E-01
+        3.8000E+01        0.0000E+00        4.6800E-01        1.4040E-01
+        3.9600E+01        0.0000E+00        4.2100E-01        1.2630E-01
+        4.0700E+01        0.0000E+00        3.9300E-01        1.1790E-01
+        4.1900E+01        0.0000E+00        3.5300E-01        1.0590E-01

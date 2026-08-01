@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 42-MO-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 0 
+#   Nuclide: 42-MO-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  8.4000e+00 MeV - 2.9980e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 99 
+#   Nuclide: 43-TC-99-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0615-009-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-0(P,X)43-TC-99-M,,SIG) 
+#   First author: O.Lebeda 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,ARI,68,2355,2010) 
+#   Year:  2010 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D06/D0615.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0615
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.4000E+00        0.0000E+00        3.1900E-03        3.0000E-04
+        1.0560E+01        0.0000E+00        1.7400E-02        1.6000E-03
+        1.2220E+01        0.0000E+00        2.2600E-02        2.1000E-03
+        1.3930E+01        0.0000E+00        2.4400E-02        2.3000E-03
+        1.5720E+01        0.0000E+00        2.4700E-02        2.3000E-03
+        1.8040E+01        0.0000E+00        2.3900E-02        2.2000E-03
+        2.0000E+01        0.0000E+00        1.8000E-02        1.7000E-03
+        2.1830E+01        0.0000E+00        1.2000E-02        1.1000E-03
+        2.3680E+01        0.0000E+00        7.5900E-03        7.4000E-04
+        2.5430E+01        0.0000E+00        5.2500E-03        5.2000E-04
+        2.6970E+01        0.0000E+00        4.3200E-03        4.4000E-04
+        2.8440E+01        0.0000E+00        3.9100E-03        4.2000E-04
+        2.9980E+01        0.0000E+00        3.5400E-03        3.9000E-04

@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 92-U-238(5-B-11,6N+P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: 5-B-11,6N+P 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.8000e+01 MeV - 1.1100e+02 MeV 
+# Residual: 
+#   Z: 96 
+#   A: 242 
+#   Nuclide: 96-CM-242 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: P0147-008-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(5-B-11,6N+P)96-CM-242,,SIG) 
+#   First author: A.Fleury 
+#   Institute:  (2FR GRA): Centre d'Etudes Nucleaires de Bordeaux-Gradignan 
+#   Reference:  (J,PL/B,24,576,1967) 
+#   Year:  1967 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P01/P0147.x4 
+#   nds:  https://nds.iaea.org/EXFOR/P0147
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.8000E+01        0.0000E+00        1.3900E-04        3.1000E-05
+        5.8800E+01        0.0000E+00        1.1700E-04        2.4000E-05
+        7.0200E+01        0.0000E+00        3.7300E-04        6.3000E-05
+        7.1100E+01        0.0000E+00        3.7300E-04        5.9000E-05
+        7.2400E+01        0.0000E+00        2.8100E-04        5.9000E-05
+        8.2800E+01        0.0000E+00        1.9500E-04        3.3000E-05
+        8.3300E+01        0.0000E+00        1.5700E-04        2.9000E-05
+        8.5600E+01        0.0000E+00        1.3700E-04        1.9000E-05
+        9.3700E+01        0.0000E+00        9.7000E-05        1.9000E-05
+        9.5100E+01        0.0000E+00        1.0800E-04        2.1000E-05
+        9.8400E+01        0.0000E+00        5.7000E-05        9.0000E-06
+        1.0200E+02        0.0000E+00        4.3000E-05        9.0000E-06
+        1.0700E+02        0.0000E+00        4.0000E-05        7.0000E-06
+        1.1100E+02        0.0000E+00        2.7000E-05        5.0000E-06

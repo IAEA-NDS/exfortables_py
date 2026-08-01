@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 92-U-238(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.5000e+02 MeV - 1.1500e+04 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 83 
+#   Nuclide: 38-SR-83 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0544-006-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(P,X)38-SR-83,CUM,SIG) 
+#   First author: K.Beg 
+#   Institute:  (1USAPUR): Purdue University, West Lafayette, IN 
+#   Reference:  (J,PR/C,3,1631,1971) 
+#   Year:  1971 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0544.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0544
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.5000E+02        0.0000E+00        1.0000E-04        1.0000E-05
+        2.0000E+03        0.0000E+00        5.9000E-04        1.0000E-05
+        3.0000E+03        0.0000E+00        4.1000E-03        1.0000E-04
+        4.5000E+03        0.0000E+00        5.0000E-03        3.0000E-04
+        6.0000E+03        0.0000E+00        7.1000E-03        3.0000E-04
+        9.0000E+03        0.0000E+00        5.6000E-03        2.0000E-04
+        1.1500E+04        0.0000E+00        5.8000E-03        2.0000E-04

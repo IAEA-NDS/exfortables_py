@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-238(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.5000e+02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2106-009-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(P,X)ELEM/MASS,,SIG) 
+#   First author: R.Klapisch 
+#   Institute:  (2FR CSN): Centre Sci. Nuclear et Sci. Matiere (CSNSM), Orsay 
+#   Reference:  (J,NIM,53,216,1967) 
+#   Year:  1967 
+#   Facility:  (OLMS): On-line mass separator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2106.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2106
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5000E+02        0.0000E+00        9.1670E-03        7.7100E-04

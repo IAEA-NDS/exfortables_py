@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 73-TA-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 73 
+#   A: 0 
+#   Nuclide: 73-TA-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.5700e+01 MeV - 3.7600e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 181 
+#   Nuclide: 75-RE-181 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4139-007-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-0(A,X)75-RE-181,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,211,22,2003) 
+#   Year:  2003 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4139.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4139
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.5700E+01        2.5000E-01        2.6660E-02        2.9800E-03
+        3.7600E+01        2.0000E-01        1.6928E-01        1.8400E-02

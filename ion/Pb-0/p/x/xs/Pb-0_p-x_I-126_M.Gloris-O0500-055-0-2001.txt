@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 82-PB-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  9.5600e+01 MeV - 3.2200e+02 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 126 
+#   Nuclide: 53-I-126 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0500-055-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(P,X)53-I-126,,SIG) 
+#   First author: M.Gloris 
+#   Institute:  (2GERUH): University Hannover (previously Tech.University Hannover) 
+#   Reference:  (J,NIM/A,463,593,2001) 
+#   Year:  2001 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0500.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0500
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.5600E+01        1.2000E+00        1.0800E-04        3.0000E-05
+        1.2200E+02        1.0000E+00        1.4300E-04        3.1000E-05
+        1.2900E+02        1.0000E+00        1.9100E-04        5.6000E-05
+        1.5100E+02        1.0000E+00        1.7400E-04        4.3000E-05
+        1.6700E+02        1.0000E+00        1.8900E-04        4.2000E-05
+        2.7200E+02        1.0000E+00        2.4700E-04        3.9000E-05
+        3.2200E+02        2.0000E+00        2.7800E-04        6.3000E-05

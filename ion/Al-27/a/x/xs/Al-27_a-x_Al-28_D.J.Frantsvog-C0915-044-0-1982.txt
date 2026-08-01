@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 13-AL-27(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.7200e+01 MeV - 3.0850e+01 MeV 
+# Residual: 
+#   Z: 13 
+#   A: 28 
+#   Nuclide: 13-AL-28 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0915-044-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(A,X)13-AL-28,,SIG,,AV) 
+#   First author: D.J.Frantsvog 
+#   Institute:  (1USAUWY): University of Wyoming, Laramie, WY 
+#   Reference:  (J,PR/C,25,770,198202) 
+#   Year:  1982 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C09/C0915.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0915
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.7200E+01        0.0000E+00        2.2800E-03        0.0000E+00
+        2.2550E+01        0.0000E+00        3.3800E-04        0.0000E+00
+        2.8300E+01        0.0000E+00        4.8000E-03        0.0000E+00
+        3.0850E+01        0.0000E+00        5.2000E-03        0.0000E+00

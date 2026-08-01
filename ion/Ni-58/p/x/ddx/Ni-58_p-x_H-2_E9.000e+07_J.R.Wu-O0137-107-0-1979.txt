@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 28-NI-58(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  9.0000e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+#   Outgoing energy:  4.8400e+00 MeV - 7.5310e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O0137-107-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(P,X)1-H-2,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,698,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0137.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0137
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        7.5310E+01        0.0000E+00        1.0500E+02        0.0000E+00        1.6460E-13        1.6460E-14
+        6.8340E+01        0.0000E+00        1.0500E+02        0.0000E+00        5.0120E-13        5.0120E-14
+        6.2370E+01        0.0000E+00        1.0500E+02        0.0000E+00        1.2420E-12        1.2420E-13
+        5.3400E+01        0.0000E+00        1.0500E+02        0.0000E+00        3.9450E-12        3.9450E-13
+        4.1410E+01        0.0000E+00        1.0500E+02        0.0000E+00        1.2550E-11        1.2550E-12
+        3.2410E+01        0.0000E+00        1.0500E+02        0.0000E+00        2.7530E-11        2.7530E-12
+        2.4400E+01        0.0000E+00        1.0500E+02        0.0000E+00        5.1210E-11        5.1210E-12
+        4.8400E+00        0.0000E+00        1.0500E+02        0.0000E+00        1.1290E-10        1.1290E-11
+        1.5920E+01        0.0000E+00        1.0500E+02        0.0000E+00        1.2710E-10        1.2710E-11
+        7.4240E+00        0.0000E+00        1.0500E+02        0.0000E+00        2.9040E-10        2.9040E-11

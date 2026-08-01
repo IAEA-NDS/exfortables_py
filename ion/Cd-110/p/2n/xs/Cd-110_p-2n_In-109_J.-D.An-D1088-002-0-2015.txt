@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 48-CD-110(P,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 48 
+#   A: 110 
+#   Nuclide: 48-CD-110 
+# Reaction: 
+#   Process: P,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3600e+01 MeV - 1.7500e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 109 
+#   Nuclide: 49-IN-109 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D1088-002-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-110(P,2N)49-IN-109,,SIG) 
+#   First author: J.-D.An 
+#   Institute:  (3KDRKDR): Democratic People's Rep. of Korea 
+#   Reference:  (J,RED,170,901,2015) 
+#   Year:  2015 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D10/D1088.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D1088
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3600E+01        0.0000E+00        3.6200E-02        4.3000E-03
+        1.4300E+01        0.0000E+00        1.3490E-01        4.6000E-03
+        1.5100E+01        0.0000E+00        2.7040E-01        1.6700E-02
+        1.5900E+01        0.0000E+00        3.7730E-01        1.5700E-02
+        1.6700E+01        0.0000E+00        5.0600E-01        2.5800E-02
+        1.7500E+01        0.0000E+00        5.4040E-01        1.7000E-02

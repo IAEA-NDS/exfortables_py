@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 67-HO-165(8-O-16,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 67 
+#   A: 165 
+#   Nuclide: 67-HO-165 
+# Reaction: 
+#   Process: 8-O-16,3N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  8.4720e+01 MeV - 9.9960e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 178 
+#   Nuclide: 75-RE-178 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0472-002-0 (entry-subentry-pointer) 
+#   Reaction code: (67-HO-165(8-O-16,3N)75-RE-178,,SIG) 
+#   First author: Anil Sharma 
+#   Institute:  (3INDNSD): Inter-University Accelerator Centre, New Delhi 
+#   Reference:  (J,PRM,54,355,2000) 
+#   Year:  2000 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0472.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0472
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.4720E+01        1.1000E+00        1.3900E-01        1.2510E-02
+        8.9770E+01        1.1000E+00        3.3500E-01        2.3450E-02
+        9.4960E+01        1.1000E+00        6.5000E-01        5.2000E-02
+        9.9960E+01        1.1000E+00        6.2000E-01        3.7200E-02

@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 64-GD-154(A,6N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 64 
+#   A: 154 
+#   Nuclide: 64-GD-154 
+# Reaction: 
+#   Process: A,6N 
+#   MF-MT number: 3 - 153.0 
+#   Incident energy:  6.7000e+01 MeV - 1.0000e+02 MeV 
+# Residual: 
+#   Z: 66 
+#   A: 152 
+#   Nuclide: 66-DY-152 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0035-021-0 (entry-subentry-pointer) 
+#   Reaction code: (64-GD-154(A,6N)66-DY-152,,SIG) 
+#   First author: D.Chmielewska 
+#   Institute:  (3POLIBJ): Institute Badan Jadr., Swierk and Warszawa 
+#   Reference:  (J,BAS,42,(11),132,1978) 
+#   Year:  1978 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A00/A0035.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0035
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.7000E+01        0.0000E+00        1.0500E-01        1.0000E-02
+        7.1000E+01        0.0000E+00        2.5500E-01        2.0000E-02
+        8.0000E+01        0.0000E+00        3.6500E-01        2.0000E-02
+        8.4000E+01        0.0000E+00        3.6000E-01        2.0000E-02
+        9.0000E+01        0.0000E+00        2.3000E-01        1.0000E-02
+        1.0000E+02        0.0000E+00        1.1000E-01        1.0000E-02

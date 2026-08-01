@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 6-C-12(8-O-16,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: 8-O-16,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.0200e+01 MeV - 5.5390e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1147-018-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(8-O-16,X)11-NA-24,,SIG) 
+#   First author: H.Ikezoe 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,NP/A,456,(2),298,198608) 
+#   Year:  1986 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E11/E1147.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1147
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        3.0200E+01        0.0000E+00        1.2890E-03        3.0300E-04
+        3.4520E+01        0.0000E+00        2.7490E-03        4.6750E-04
+        3.8730E+01        0.0000E+00        5.4660E-03        8.7640E-04
+        4.3420E+01        0.0000E+00        8.4120E-03        1.3750E-03
+        4.9000E+01        0.0000E+00        1.1120E-02        1.6100E-03
+        5.1580E+01        0.0000E+00        9.9860E-03        1.6110E-03
+        5.5390E+01        0.0000E+00        1.3250E-02        2.5060E-03

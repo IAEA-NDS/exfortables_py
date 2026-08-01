@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 92-U-235(A,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: A,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  2.4460e+01 MeV - 2.7940e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2481-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(A,F),,SIG) 
+#   First author: G.R.Bethune 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR/C,6,1087,1972) 
+#   Year:  1972 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C24/C2481.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2481
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.4460E+01        2.0000E-01        2.8200E-01        2.8200E-02
+        2.5320E+01        2.0000E-01        3.8400E-01        3.8400E-02
+        2.5660E+01        2.0000E-01        4.3800E-01        4.3800E-02
+        2.6170E+01        2.0000E-01        5.0600E-01        5.0600E-02
+        2.6510E+01        2.0000E-01        5.3700E-01        5.3700E-02
+        2.6760E+01        2.0000E-01        6.0500E-01        6.0500E-02
+        2.7100E+01        2.0000E-01        5.9400E-01        5.9400E-02
+        2.7360E+01        2.0000E-01        6.6800E-01        6.6800E-02
+        2.7940E+01        2.0000E-01        7.5600E-01        7.5600E-02

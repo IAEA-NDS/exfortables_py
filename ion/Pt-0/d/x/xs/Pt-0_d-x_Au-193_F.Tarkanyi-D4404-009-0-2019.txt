@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 78-PT-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 78 
+#   A: 0 
+#   Nuclide: 78-PT-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.4800e+01 MeV - 4.8500e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 193 
+#   Nuclide: 79-AU-193 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4404-009-0 (entry-subentry-pointer) 
+#   Reaction code: (78-PT-0(D,X)79-AU-193,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,JRN,321,747,2019) 
+#   Year:  2019 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4404.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4404
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.4800E+01        5.0000E-01        2.8424E-01        3.6700E-02
+        3.7300E+01        5.0000E-01        3.3004E-01        4.2680E-02
+        3.9800E+01        5.0000E-01        3.2122E-01        4.1470E-02
+        4.2100E+01        4.0000E-01        2.8300E-01        3.6570E-02
+        4.4300E+01        4.0000E-01        2.6644E-01        3.4400E-02
+        4.6500E+01        3.0000E-01        2.1867E-01        2.8250E-02
+        4.8500E+01        3.0000E-01        2.0738E-01        2.6730E-02

@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 41-NB-93(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.2000e+02 MeV - 8.8000e+02 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 57 
+#   Nuclide: 28-NI-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0335-025-1 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(A,X)28-NI-57,,SIG) 
+#   First author: R.G.Korteling 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR,136,B425,1964) 
+#   Year:  1964 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C03/C0335.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0335
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.2000E+02        1.0000E+01        5.4000E-06        1.0800E-06
+        5.0000E+02        1.0000E+01        3.6000E-05        7.2000E-06
+        7.2000E+02        1.0000E+01        1.4300E-04        2.8600E-05
+        8.8000E+02        1.0000E+01        2.4200E-04        4.8400E-05

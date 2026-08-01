@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 34-SE-76(D,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 34 
+#   A: 76 
+#   Nuclide: 34-SE-76 
+# Reaction: 
+#   Process: D,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.0560e+01 MeV - 4.3960e+01 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 76 
+#   Nuclide: 35-BR-76 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0253-005-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-76(D,2N)35-BR-76,,SIG) 
+#   First author: A.M.J.Paans 
+#   Institute:  (2NEDRUG): Rijksuniversiteit Groningen, Groningen 
+#   Reference:  (J,ARI,31,267,1980) 
+#   Year:  1980 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0253.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0253
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0560E+01        7.0000E-02        2.3040E-01        2.8000E-02
+        1.4820E+01        7.0000E-02        7.4670E-01        7.4530E-02
+        1.8190E+01        7.0000E-02        6.6600E-01        7.7820E-02
+        2.1110E+01        7.0000E-02        5.3470E-01        5.3370E-02
+        2.4030E+01        7.0000E-02        4.1320E-01        4.1240E-02
+        2.6430E+01        7.0000E-02        3.0730E-01        4.6090E-02
+        3.0400E+01        7.0000E-02        1.8170E-01        1.8140E-02
+        3.4300E+01        7.0000E-02        1.2520E-01        1.3880E-02
+        3.7890E+01        7.0000E-02        1.1170E-01        1.1200E-02
+        4.1040E+01        7.0000E-02        1.0250E-01        1.2460E-02
+        4.3960E+01        7.0000E-02        8.9690E-02        1.1870E-02

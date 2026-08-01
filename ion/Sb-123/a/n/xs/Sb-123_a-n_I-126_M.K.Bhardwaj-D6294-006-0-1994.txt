@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 51-SB-123(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 51 
+#   A: 123 
+#   Nuclide: 51-SB-123 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.1807e+01 MeV - 2.6870e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 126 
+#   Nuclide: 53-I-126 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6294-006-0 (entry-subentry-pointer) 
+#   Reaction code: (51-SB-123(A,N)53-I-126,,SIG) 
+#   First author: M.K.Bhardwaj 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  (J,IMP/E,3,239,1994) 
+#   Year:  1994 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D62/D6294.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6294
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.1807E+01        7.1200E-01        7.9960E-02        0.0000E+00
+        2.4631E+01        8.1400E-01        4.1820E-02        0.0000E+00
+        2.6870E+01        8.6500E-01        3.3000E-02        0.0000E+00

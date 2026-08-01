@@ -1,0 +1,52 @@
+# Header: 
+#   Title: 81-TL-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 81 
+#   A: 0 
+#   Nuclide: 81-TL-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.5700e+01 MeV - 2.7200e+01 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 202 
+#   Nuclide: 82-PB-202-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1509-003-0 (entry-subentry-pointer) 
+#   Reaction code: (81-TL-0(P,X)82-PB-202-M,,SIG) 
+#   First author: F.S.Al-Saleh 
+#   Institute:  (3SARSAR): Saudi Arabia 
+#   Reference:  (J,RCA,95,127,2007) 
+#   Year:  2007 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O15/O1509.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1509
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5700E+01        4.5000E-01        1.4000E-03        2.0000E-04
+        1.6400E+01        4.5000E-01        2.5000E-03        3.0000E-04
+        1.7000E+01        4.5000E-01        4.4000E-03        4.0000E-04
+        1.7600E+01        4.5000E-01        4.9000E-03        5.0000E-04
+        1.8100E+01        4.5000E-01        6.7000E-03        7.0000E-04
+        1.8700E+01        4.5000E-01        1.0000E-02        1.0000E-03
+        1.9300E+01        4.5000E-01        1.2000E-02        1.0000E-03
+        1.9800E+01        4.5000E-01        1.5000E-02        2.0000E-03
+        2.0400E+01        4.5000E-01        1.6000E-02        2.0000E-03
+        2.1000E+01        4.5000E-01        2.1000E-02        2.0000E-03
+        2.1500E+01        4.5000E-01        2.2000E-02        2.0000E-03
+        2.2000E+01        4.5000E-01        2.3000E-02        2.0000E-03
+        2.2500E+01        4.5000E-01        2.1000E-02        2.0000E-03
+        2.3000E+01        4.0000E-01        2.0000E-02        2.0000E-03
+        2.3500E+01        4.0000E-01        1.9000E-02        2.0000E-03
+        2.4000E+01        4.0000E-01        2.1000E-02        2.0000E-03
+        2.4500E+01        4.0000E-01        2.1000E-02        2.0000E-03
+        2.4900E+01        4.0000E-01        1.8000E-02        2.0000E-03
+        2.5400E+01        4.0000E-01        1.8000E-02        2.0000E-03
+        2.5900E+01        4.0000E-01        1.6000E-02        2.0000E-03
+        2.6300E+01        4.0000E-01        1.4000E-02        1.0000E-03
+        2.6800E+01        4.0000E-01        1.3000E-02        1.0000E-03
+        2.7200E+01        4.0000E-01        1.0000E-02        1.0000E-03

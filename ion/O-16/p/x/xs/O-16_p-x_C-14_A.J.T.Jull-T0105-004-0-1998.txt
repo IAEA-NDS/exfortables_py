@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 8-O-16(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.3000e+01 MeV - 6.3800e+01 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 14 
+#   Nuclide: 6-C-14 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: T0105-004-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(P,X)6-C-14,CUM,SIG) 
+#   First author: A.J.T.Jull 
+#   Institute:  (1USAUAZ): Arizona University , Tucson, AZ 
+#   Reference:  (J,GCA,62,3025,1998) 
+#   Year:  1998 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T01/T0105.x4 
+#   nds:  https://nds.iaea.org/EXFOR/T0105
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.3000E+01        0.0000E+00        9.0800E-04        4.9000E-05
+        3.8200E+01        0.0000E+00        1.3800E-03        7.4000E-05
+        4.4400E+01        0.0000E+00        1.7600E-03        9.5000E-05
+        5.8700E+01        4.0000E+00        2.5100E-03        1.7800E-04
+        6.3800E+01        4.0000E+00        2.1100E-03        1.4900E-04

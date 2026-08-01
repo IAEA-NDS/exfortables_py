@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 82-PB-204(22-TI-50,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 82 
+#   A: 204 
+#   Nuclide: 82-PB-204 
+# Reaction: 
+#   Process: 22-TI-50,2N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.3910e+02 MeV - 2.4410e+02 MeV 
+# Residual: 
+#   Z: 104 
+#   A: 252 
+#   Nuclide: 104-RF-252 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D8108-002-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-204(22-TI-50,2N)104-RF-252,,SIG) 
+#   First author: J.Khuyagbaatar 
+#   Institute:  (2GERGER): Germany 
+#   Reference:  (J,PRL,134,022501,2025) 
+#   Year:  2025 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D81/D8108.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D8108
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.3910E+02        0.0000E+00        1.1000E-10        0.0000E+00
+        2.4140E+02        0.0000E+00        7.0000E-11        0.0000E+00
+        2.4190E+02        0.0000E+00        1.4000E-10        0.0000E+00
+        2.4410E+02        0.0000E+00        5.0000E-11        0.0000E+00

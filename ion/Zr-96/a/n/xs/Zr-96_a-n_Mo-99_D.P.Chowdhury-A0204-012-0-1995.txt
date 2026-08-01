@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 40-ZR-96(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 40 
+#   A: 96 
+#   Nuclide: 40-ZR-96 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.0000e+01 MeV - 3.8100e+01 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 99 
+#   Nuclide: 42-MO-99 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0204-012-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-96(A,N)42-MO-99,,SIG) 
+#   First author: D.P.Chowdhury 
+#   Institute:  (3INDSAH): Saha Institute of Nuclear Physics, Kolkata 
+#   Reference:  (J,NIM/B,103,261,1995) 
+#   Year:  1995 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0204.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0204
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E+01        0.0000E+00        3.6500E-02        3.6000E-03
+        1.3500E+01        0.0000E+00        7.7300E-02        7.6000E-03
+        1.5600E+01        0.0000E+00        1.1230E-01        1.1100E-02
+        1.7600E+01        0.0000E+00        9.1600E-02        8.8000E-03
+        1.9500E+01        0.0000E+00        5.0000E-02        4.8000E-03
+        2.2600E+01        0.0000E+00        4.1700E-02        3.9000E-03
+        2.4800E+01        0.0000E+00        2.0600E-02        2.1000E-03
+        2.7600E+01        0.0000E+00        1.8300E-02        1.7000E-03
+        3.2200E+01        0.0000E+00        1.8400E-02        1.8000E-03
+        3.5700E+01        0.0000E+00        1.4800E-02        1.5000E-03
+        3.8100E+01        0.0000E+00        1.2600E-02        1.5000E-03

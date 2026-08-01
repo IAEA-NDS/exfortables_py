@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 64-GD-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 64 
+#   A: 0 
+#   Nuclide: 64-GD-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0550e+01 MeV - 3.3340e+01 MeV 
+# Residual: 
+#   Z: 64 
+#   A: 159 
+#   Nuclide: 64-GD-159 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2334-011-0 (entry-subentry-pointer) 
+#   Reaction code: (64-GD-0(D,X)64-GD-159,,SIG) 
+#   First author: C.Duchemin 
+#   Institute:  (2FR NTE): Universite de Nantes 
+#   Reference:  (J,ARI,118,281,2016) 
+#   Year:  2016 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2334.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2334
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0550E+01        9.3000E-01        4.6200E-02        6.1600E-03
+        1.2360E+01        6.6000E-01        6.1300E-02        1.0560E-02
+        1.4430E+01        7.3000E-01        5.2900E-02        8.3900E-03
+        1.6160E+01        6.5000E-01        4.7230E-02        7.6700E-03
+        1.8360E+01        4.6000E-01        4.8150E-02        8.3900E-03
+        2.1820E+01        6.4000E-01        4.2630E-02        7.1000E-03
+        2.3130E+01        2.9000E-01        4.5500E-02        7.5200E-03
+        2.4560E+01        4.0000E-01        5.9190E-02        9.7000E-03
+        2.6090E+01        5.2000E-01        5.4600E-02        9.3000E-03
+        2.7950E+01        3.0000E-01        6.9900E-02        1.1280E-02
+        2.9910E+01        4.2000E-01        6.7290E-02        1.1110E-02
+        3.3340E+01        3.0000E-01        7.0930E-02        1.1670E-02

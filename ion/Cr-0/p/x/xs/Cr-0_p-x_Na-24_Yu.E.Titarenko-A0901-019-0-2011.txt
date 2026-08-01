@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 24-CR-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 24 
+#   A: 0 
+#   Nuclide: 24-CR-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4800e+02 MeV - 2.6050e+03 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0901-019-0 (entry-subentry-pointer) 
+#   Reaction code: (24-CR-0(P,X)11-NA-24,CUM,SIG) 
+#   First author: Yu.E.Titarenko 
+#   Institute:  (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
+#   Reference:  (J,YF,74,548,2011) 
+#   Year:  2011 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0901.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0901
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4800E+02        1.0000E+00        1.2000E-05        2.0000E-06
+        2.4800E+02        1.0000E+00        6.1000E-05        6.0000E-06
+        3.9900E+02        2.0000E+00        3.0800E-04        2.7000E-05
+        5.9900E+02        2.0000E+00        1.0400E-03        9.0000E-05
+        7.9900E+02        2.0000E+00        1.8300E-03        1.8000E-04
+        1.1980E+03        3.0000E+00        3.3600E-03        2.9000E-04
+        1.5980E+03        4.0000E+00        3.8900E-03        3.5000E-04
+        2.6050E+03        8.0000E+00        3.6900E-03        3.4000E-04

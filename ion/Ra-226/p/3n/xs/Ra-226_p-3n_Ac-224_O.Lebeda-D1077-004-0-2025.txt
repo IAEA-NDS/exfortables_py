@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 88-RA-226(P,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 88 
+#   A: 226 
+#   Nuclide: 88-RA-226 
+# Reaction: 
+#   Process: P,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  1.4140e+01 MeV - 1.7190e+01 MeV 
+# Residual: 
+#   Z: 89 
+#   A: 224 
+#   Nuclide: 89-AC-224 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D1077-004-0 (entry-subentry-pointer) 
+#   Reaction code: (88-RA-226(P,3N)89-AC-224,,SIG) 
+#   First author: O.Lebeda 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,NMB,142-143,108995,2025) 
+#   Year:  2025 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D10/D1077.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D1077
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4140E+01        2.0000E-01        1.5900E-02        1.4000E-03
+        1.5220E+01        2.0000E-01        1.4400E-01        1.2000E-02
+        1.6210E+01        2.0000E-01        2.3500E-01        1.9000E-02
+        1.7190E+01        2.0000E-01        5.1700E-01        4.3000E-02

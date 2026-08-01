@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 46-PD-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 46 
+#   A: 0 
+#   Nuclide: 46-PD-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.1100e+01 MeV - 5.0100e+01 MeV 
+# Residual: 
+#   Z: 47 
+#   A: 105 
+#   Nuclide: 47-AG-105 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2608-010-0 (entry-subentry-pointer) 
+#   Reaction code: (46-PD-0(A,X)47-AG-105,CUM,SIG) 
+#   First author: M.Aikawa 
+#   Institute:  (2JPNHOK): Hokkaido Univesity, Sapporo 
+#   Reference:  (J,NIM/B,449,99,2019) 
+#   Year:  2019 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E26/E2608.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2608
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1100E+01        1.2000E+00        6.8000E-05        1.2000E-05
+        1.7000E+01        1.0000E+00        4.7000E-03        5.0000E-04
+        2.1700E+01        8.0000E-01        9.0000E-03        1.0000E-03
+        2.5900E+01        7.0000E-01        3.8000E-03        4.0000E-04
+        2.9600E+01        7.0000E-01        5.1000E-03        6.0000E-04
+        3.3100E+01        6.0000E-01        4.2700E-02        4.6000E-03
+        3.6300E+01        6.0000E-01        9.8800E-02        1.0700E-02
+        3.9300E+01        6.0000E-01        1.4200E-01        1.5400E-02
+        4.2200E+01        5.0000E-01        1.8610E-01        2.0200E-02
+        4.4900E+01        5.0000E-01        1.9040E-01        2.0700E-02
+        4.7600E+01        5.0000E-01        2.2030E-01        2.3900E-02
+        5.0100E+01        5.0000E-01        2.4220E-01        2.6300E-02

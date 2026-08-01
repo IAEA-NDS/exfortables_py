@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 41-NB-93(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.0000e-01 MeV - 3.0000e+00 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 94 
+#   Nuclide: 41-NB-94 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21619-004-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(N,G)41-NB-94,,SIG) 
+#   First author: J.Voignier 
+#   Institute:  (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
+#   Reference:  (R,CEA-R-5089,1981) 
+#   Year:  1981.0 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21619.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21619
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.0000E-01        8.0000E-02        5.1000E-02        5.8000E-03
+        7.0000E-01        8.0000E-02        5.0200E-02        5.8000E-03
+        1.0000E+00        7.0000E-02        3.6700E-02        4.4000E-03
+        2.0000E+00        6.0000E-02        1.2600E-02        1.8000E-03
+        3.0000E+00        5.0000E-02        6.9000E-03        1.4000E-03

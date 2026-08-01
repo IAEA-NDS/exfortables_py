@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 82-PB-208(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 82 
+#   A: 208 
+#   Nuclide: 82-PB-208 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 50.0 
+#   Incident energy:  2.4800e+01 MeV - 3.8600e+01 MeV 
+# Residual: 
+#   Z: 83 
+#   A: 208 
+#   Nuclide: 83-BI-208 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: T0294-003-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-208(P,N)83-BI-208,PAR,SIG) 
+#   First author: T.J.Woods 
+#   Institute:  (1USAMIN): University of Minnesota, Minneapolis, MN 
+#   Reference:  (J,NP/A,198,542,1972) 
+#   Year:  1972 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T02/T0294.x4 
+#   nds:  https://nds.iaea.org/EXFOR/T0294
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.4800E+01        0.0000E+00        6.2900E-03        0.0000E+00
+        3.0500E+01        0.0000E+00        6.3900E-03        7.0000E-04
+        3.8600E+01        0.0000E+00        5.6000E-03        6.6000E-04

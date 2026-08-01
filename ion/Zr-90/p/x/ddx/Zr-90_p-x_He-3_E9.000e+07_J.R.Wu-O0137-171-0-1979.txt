@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 40-ZR-90(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  9.0000e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Outgoing energy:  1.0480e+01 MeV - 4.6100e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O0137-171-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(P,X)2-HE-3,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,698,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0137.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0137
+#
+#      E_out(MeV)       dE_out(MeV)    Angle(degrees)   dAngle(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        4.6100E+01        0.0000E+00        1.4000E+02        0.0000E+00        9.8080E-14        9.8080E-15
+        4.1690E+01        0.0000E+00        1.4000E+02        0.0000E+00        1.8970E-13        1.8970E-14
+        3.7700E+01        0.0000E+00        1.4000E+02        0.0000E+00        3.9170E-13        3.9170E-14
+        3.2500E+01        0.0000E+00        1.4000E+02        0.0000E+00        8.9340E-13        8.9340E-14
+        2.8100E+01        0.0000E+00        1.4000E+02        0.0000E+00        1.9070E-12        1.9070E-13
+        2.3290E+01        0.0000E+00        1.4000E+02        0.0000E+00        3.5700E-12        3.5700E-13
+        1.8490E+01        0.0000E+00        1.4000E+02        0.0000E+00        7.3750E-12        7.3750E-13
+        1.4480E+01        0.0000E+00        1.4000E+02        0.0000E+00        1.3350E-11        1.3350E-12
+        1.0480E+01        0.0000E+00        1.4000E+02        0.0000E+00        2.3400E-11        2.3400E-12

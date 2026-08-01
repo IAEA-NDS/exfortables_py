@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 30-ZN-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 30 
+#   A: 0 
+#   Nuclide: 30-ZN-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.6810e+01 MeV - 1.9350e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 66 
+#   Nuclide: 31-GA-66 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4439-005-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-0(A,X)31-GA-66,CUM,SIG) 
+#   First author: A.Elbinawi 
+#   Institute:  (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
+#   Reference:  (J,NP/A,1063,123211,2025) 
+#   Year:  2025 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4439.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4439
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.6810E+01        6.5000E-01        2.7000E-04        6.0000E-05
+        1.9350E+01        6.0000E-01        8.3900E-03        1.5200E-03

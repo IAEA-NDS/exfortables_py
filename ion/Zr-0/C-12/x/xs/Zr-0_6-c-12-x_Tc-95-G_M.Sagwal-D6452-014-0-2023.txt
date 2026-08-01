@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 40-ZR-0(6-C-12,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 40 
+#   A: 0 
+#   Nuclide: 40-ZR-0 
+# Reaction: 
+#   Process: 6-C-12,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.3500e+01 MeV - 7.6200e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 95 
+#   Nuclide: 43-TC-95-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6452-014-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-0(6-C-12,X)43-TC-95-G,CUM,SIG) 
+#   First author: M.Sagwal 
+#   Institute:  (3INDIRR): Indian Institute of Technology, Roorkee 
+#   Reference:  (J,PR/C,107,034609,2023) 
+#   Year:  2023 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D64/D6452.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6452
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.3500E+01        2.5000E+00        9.0000E-04        2.0000E-04
+        5.5600E+01        1.2000E+00        3.6000E-03        6.0000E-04
+        5.7800E+01        2.4000E+00        6.7000E-03        8.0000E-04
+        6.0800E+01        1.1000E+00        2.0100E-02        3.3000E-03
+        6.1000E+01        2.3000E+00        2.0900E-02        2.2000E-03
+        6.5000E+01        2.3000E+00        5.5700E-02        7.4000E-03
+        6.6200E+01        1.1000E+00        6.8900E-02        9.7000E-03
+        7.1300E+01        1.0000E+00        1.1440E-01        1.4000E-02
+        7.1700E+01        2.1000E+00        1.6840E-01        1.8800E-02
+        7.6200E+01        1.0000E+00        1.7580E-01        2.1800E-02

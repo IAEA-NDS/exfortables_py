@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 48-CD-106(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 48 
+#   A: 106 
+#   Nuclide: 48-CD-106 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  7.5660e+00 MeV - 1.1385e+01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 110 
+#   Nuclide: 50-SN-110 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4169-005-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-106(A,G)50-SN-110,,SIG,,SFC) 
+#   First author: Gy.Gyurky 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,PR/C,74,025805,2006) 
+#   Year:  2006 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4169.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4169
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
+        7.5660E+00        1.0000E-02        1.6400E+29        2.9000E+28
+        8.0400E+00        1.0000E-02        1.4100E+29        1.4000E+28
+        8.5130E+00        1.1000E-02        1.2600E+29        1.3000E+28
+        8.9920E+00        1.2000E-02        1.0800E+29        1.1000E+28
+        9.4660E+00        1.2000E-02        9.2700E+28        9.3000E+27
+        9.4700E+00        1.2000E-02        9.5300E+28        9.5000E+27
+        9.5990E+00        1.2000E-02        9.9900E+28        7.7000E+27
+        1.0429E+01        1.4000E-02        3.0600E+28        3.6000E+27
+        1.0909E+01        1.4000E-02        1.5800E+28        1.6000E+27
+        1.1385E+01        1.5000E-02        6.8500E+27        7.0000E+26

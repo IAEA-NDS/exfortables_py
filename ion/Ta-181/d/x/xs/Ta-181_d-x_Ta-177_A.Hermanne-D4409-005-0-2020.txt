@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 73-TA-181(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.2900e+01 MeV - 4.8600e+01 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 177 
+#   Nuclide: 73-TA-177 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4409-005-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-181(D,X)73-TA-177,CUM,SIG) 
+#   First author: A.Hermanne 
+#   Institute:  (2BLGVUB): Vrije Universiteit Brussels, Brussels 
+#   Reference:  (J,NIM/B,481,82,2020) 
+#   Year:  2020 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4409.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4409
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.2900E+01        1.1000E+00        1.5000E-03        3.0000E-04
+        3.4500E+01        1.0000E+00        1.8000E-03        4.0000E-04
+        3.6100E+01        9.0000E-01        1.1000E-03        2.0000E-04
+        3.7600E+01        8.0000E-01        1.1000E-03        2.0000E-04
+        3.9100E+01        7.0000E-01        3.5000E-03        4.0000E-04
+        4.0500E+01        6.0000E-01        1.0400E-02        1.0000E-03
+        4.1900E+01        5.0000E-01        3.1000E-02        3.0000E-03
+        4.3300E+01        4.0000E-01        7.3300E-02        8.0000E-03
+        4.5100E+01        3.0000E-01        1.5790E-01        1.7000E-02
+        4.6900E+01        2.0000E-01        2.6960E-01        3.0000E-02
+        4.8600E+01        2.0000E-01        3.8930E-01        4.3000E-02

@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 52-TE-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 52 
+#   A: 0 
+#   Nuclide: 52-TE-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.8000e+00 MeV - 1.3300e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 123 
+#   Nuclide: 53-I-123 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0978-007-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-0(P,X)53-I-123,,SIG) 
+#   First author: A.Azzam 
+#   Institute:  (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
+#   Reference:  (J,NP/A,999,121790,2020) 
+#   Year:  2020 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D09/D0978.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0978
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.8000E+00        0.0000E+00        3.1000E-04        1.0000E-04
+        7.1000E+00        0.0000E+00        2.1100E-03        3.2000E-04
+        8.0000E+00        0.0000E+00        2.1100E-03        3.2000E-04
+        8.7000E+00        0.0000E+00        2.9200E-03        4.4000E-04
+        9.4000E+00        0.0000E+00        3.1400E-03        4.7000E-04
+        1.0100E+01        0.0000E+00        5.4000E-03        8.1000E-04
+        1.1100E+01        0.0000E+00        5.4700E-03        8.2000E-04
+        1.1800E+01        0.0000E+00        1.0900E-02        1.6400E-03
+        1.2300E+01        0.0000E+00        1.3620E-02        2.1000E-03
+        1.2800E+01        0.0000E+00        1.2200E-02        1.8300E-03
+        1.3300E+01        0.0000E+00        1.3130E-02        2.0000E-03

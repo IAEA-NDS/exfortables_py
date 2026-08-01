@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 30-ZN-66(D,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 30 
+#   A: 66 
+#   Nuclide: 30-ZN-66 
+# Reaction: 
+#   Process: D,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  8.8760e+00 MeV - 1.3911e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 66 
+#   Nuclide: 31-GA-66 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1220-010-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-66(D,2N)31-GA-66,,SIG) 
+#   First author: N.A.Vlasov 
+#   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference:  (J,AE,2,169,1957) 
+#   Year:  1957 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F12/F1220.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1220
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.8760E+00        1.3000E-02        2.9300E-03        4.3950E-04
+        9.4850E+00        1.3000E-02        1.7550E-02        2.6325E-03
+        1.0103E+01        1.3000E-02        6.8860E-02        1.0329E-02
+        1.0688E+01        1.3000E-02        1.4271E-01        2.1406E-02
+        1.1276E+01        1.3000E-02        2.3082E-01        3.4623E-02
+        1.1881E+01        1.3000E-02        3.0665E-01        4.5997E-02
+        1.2484E+01        1.3000E-02        3.7840E-01        5.6760E-02
+        1.3471E+01        1.3000E-02        4.9804E-01        7.4706E-02
+        1.3911E+01        1.3000E-02        5.3965E-01        8.0947E-02

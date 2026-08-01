@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 38-SR-88(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 38 
+#   A: 88 
+#   Nuclide: 38-SR-88 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102.0 
+#   Incident energy:  2.4780e+00 MeV - 4.5610e+00 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0316-008-2 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-88(P,G)39-Y-89,,SIG,,SFC) 
+#   First author: S.Harissopulos 
+#   Institute:  (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
+#   Reference:  (J,PR/C,104,025804,2021) 
+#   Year:  2021 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O03/O0316.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0316
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
+        2.4780E+00        1.5900E-02        9.4840E+12        1.7400E+12
+        2.9790E+00        1.5900E-02        5.2190E+12        6.8800E+11
+        3.5520E+00        1.5900E-02        2.8760E+12        4.1600E+11
+        3.9520E+00        1.5900E-02        1.8940E+12        2.4200E+11
+        4.5610E+00        1.5900E-02        8.6300E+11        1.2100E+11

@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 27-CO-59(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.5300e+01 MeV - 9.8600e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 52 
+#   Nuclide: 26-FE-52-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0573-003-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(P,X)26-FE-52-G,(CUM),SIG) 
+#   First author: C.Deptula 
+#   Institute:  (3CZRUJV): Research Centre Rez, Husinec-Rez 
+#   Reference:  (J,NKA,35,49,1990) 
+#   Year:  1990 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0573.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0573
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.5300E+01        0.0000E+00        9.0000E-05        1.3500E-05
+        6.7700E+01        0.0000E+00        1.2000E-04        1.8000E-05
+        7.0200E+01        0.0000E+00        1.9000E-04        2.8500E-05
+        7.2000E+01        0.0000E+00        2.3000E-04        3.4500E-05
+        7.3800E+01        0.0000E+00        3.0000E-04        4.5000E-05
+        7.5900E+01        0.0000E+00        3.6000E-04        5.4000E-05
+        7.8700E+01        0.0000E+00        3.6000E-04        5.4000E-05
+        8.0900E+01        0.0000E+00        2.8000E-04        4.2000E-05
+        8.3800E+01        0.0000E+00        2.6000E-04        3.9000E-05
+        8.5800E+01        0.0000E+00        2.9000E-04        4.3500E-05
+        8.7000E+01        0.0000E+00        2.4000E-04        3.6000E-05
+        8.8000E+01        0.0000E+00        2.1000E-04        3.1500E-05
+        9.0300E+01        0.0000E+00        2.2000E-04        3.3000E-05
+        9.1500E+01        0.0000E+00        2.2000E-04        3.3000E-05
+        9.2600E+01        0.0000E+00        2.1000E-04        3.1500E-05
+        9.4600E+01        0.0000E+00        2.5000E-04        3.7500E-05
+        9.6700E+01        0.0000E+00        2.1000E-04        3.1500E-05
+        9.8600E+01        0.0000E+00        2.3000E-04        3.4500E-05

@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 78-PT-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 78 
+#   A: 0 
+#   Nuclide: 78-PT-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.1600e+01 MeV - 5.0200e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 196 
+#   Nuclide: 79-AU-196 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2811-011-1 (entry-subentry-pointer) 
+#   Reaction code: (78-PT-0(A,X)79-AU-196,,SIG) 
+#   First author: N.Otuka 
+#   Institute:  (3ZZZIAE): International Atomic Energy Agency (IAEA), Vienna 
+#   Reference:  (J,EPJ/A,61,184,2025) 
+#   Year:  2025 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E28/E2811.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2811
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.1600E+01        3.0000E-01        6.2600E-03        2.3000E-04
+        3.4300E+01        3.0000E-01        1.0830E-02        2.9000E-04
+        3.6800E+01        3.0000E-01        1.6070E-02        4.8000E-04
+        3.9300E+01        3.0000E-01        2.1370E-02        5.2000E-04
+        4.1600E+01        2.0000E-01        2.6800E-02        5.3000E-04
+        4.3900E+01        2.0000E-01        3.2350E-02        7.3000E-04
+        4.6000E+01        2.0000E-01        3.7360E-02        5.7000E-04
+        4.8100E+01        2.0000E-01        4.0400E-02        1.2000E-03
+        5.0200E+01        2.0000E-01        4.5000E-02        1.3000E-03

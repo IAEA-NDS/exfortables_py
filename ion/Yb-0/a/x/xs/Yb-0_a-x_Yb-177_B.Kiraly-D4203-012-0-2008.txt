@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 70-YB-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 70 
+#   A: 0 
+#   Nuclide: 70-YB-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.2300e+01 MeV - 3.7700e+01 MeV 
+# Residual: 
+#   Z: 70 
+#   A: 177 
+#   Nuclide: 70-YB-177 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4203-012-0 (entry-subentry-pointer) 
+#   Reaction code: (70-YB-0(A,X)70-YB-177,IND,SIG) 
+#   First author: B.Kiraly 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,266,3919,2008) 
+#   Year:  2008 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4203.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4203
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.2300E+01        4.0000E-01        1.9000E-04        1.2000E-04
+        3.4800E+01        4.0000E-01        2.2000E-04        1.8000E-04
+        3.5300E+01        4.0000E-01        2.9000E-04        1.5000E-04
+        3.7700E+01        3.0000E-01        2.3000E-04        1.1000E-04
