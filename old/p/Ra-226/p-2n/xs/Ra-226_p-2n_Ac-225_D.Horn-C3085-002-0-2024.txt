@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 88-RA-226(P,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 88 
+#   A: 226 
+#   Nuclide: 88-RA-226 
+# Reaction: 
+#   Process: P,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5100e+01 MeV - 1.6800e+01 MeV 
+# Residual: 
+#   Z: 89 
+#   A: 225 
+#   Nuclide: 89-AC-225 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C3085-002-0 (entry-subentry-pointer) 
+#   Reaction code: (88-RA-226(P,2N)89-AC-225,,SIG) 
+#   First author: D.Horn 
+#   Institute:  (1CANCRC): A.E.C.L., Chalk River, Ontario 
+#   Reference:  (J,ARI,212,111427,2024) 
+#   Year:  2024 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C30/C3085.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C3085
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5100E+01        1.0000E-01        4.7800E-01        7.0000E-02
+        1.6000E+01        1.0000E-01        6.9800E-01        6.5000E-02
+        1.6800E+01        1.0000E-01        6.2800E-01        5.5000E-02

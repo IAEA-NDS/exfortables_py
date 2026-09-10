@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 70-YB-176(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 70 
+#   A: 176 
+#   Nuclide: 70-YB-176 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.6000e-03 MeV - 1.8770e+00 MeV 
+# Residual: 
+#   Z: 70 
+#   A: 177 
+#   Nuclide: 70-YB-177 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11624-012-0 (entry-subentry-pointer) 
+#   Reaction code: (70-YB-176(N,G)70-YB-177,,SIG) 
+#   First author: D.C.Stupegia 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,JNE,22,267,1968) 
+#   Year:  1968.0 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11624.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11624
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.6000E-03        1.5000E-03        6.2800E-01        5.8000E-02
+        1.1200E-02        4.0000E-03        4.0800E-01        3.7000E-02
+        2.4000E-02        7.0000E-03        2.1500E-01        2.0000E-02
+        4.9000E-02        1.0000E-02        1.7200E-01        1.6000E-02
+        9.1000E-02        1.3000E-02        1.0800E-01        1.0000E-02
+        1.4900E-01        1.4000E-02        5.7500E-02        5.0000E-03
+        1.9400E-01        3.6000E-02        6.1000E-02        3.5000E-03
+        3.0000E-01        4.9000E-02        2.8500E-02        1.5000E-03
+        3.7500E-01        2.2000E-02        2.6800E-02        1.5000E-03
+        5.4100E-01        3.2000E-02        2.2500E-02        1.3000E-03
+        6.5000E-01        3.0000E-02        2.5800E-02        1.4000E-03
+        8.6000E-01        3.1000E-02        2.7400E-02        1.5000E-03
+        9.6800E-01        3.0000E-02        2.5000E-02        1.4000E-03
+        1.0670E+00        3.2000E-02        3.0200E-02        1.7000E-03
+        1.1830E+00        3.0000E-02        2.6100E-02        1.4000E-03
+        1.2710E+00        3.4000E-02        3.2600E-02        1.8000E-03
+        1.3890E+00        4.0000E-02        2.5800E-02        1.4000E-03
+        1.5770E+00        3.5000E-02        2.6200E-02        1.4000E-03
+        1.6930E+00        4.1000E-02        2.3600E-02        1.3000E-03
+        1.8770E+00        4.0000E-02        2.3500E-02        1.3000E-03

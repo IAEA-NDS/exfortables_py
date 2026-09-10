@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 73-TA-181(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16.0 
+#   Incident energy:  1.8800e+01 MeV - 3.9300e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 183 
+#   Nuclide: 75-RE-183 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1266-009-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-181(A,2N)75-RE-183,,SIG) 
+#   First author: M.Ismail 
+#   Institute:  (3INDVEC): Variable Energy Cyclotron Centre, Kolkata 
+#   Reference:  (J,PRM,50,173,1998) 
+#   Year:  1998 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O12/O1266.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1266
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.8800E+01        1.0000E+00        6.0900E-03        0.0000E+00
+        2.0700E+01        1.0000E+00        1.1423E-01        0.0000E+00
+        2.2600E+01        9.0000E-01        3.7589E-01        0.0000E+00
+        2.4200E+01        8.0000E-01        5.8104E-01        0.0000E+00
+        2.6200E+01        8.0000E-01        7.3062E-01        0.0000E+00
+        2.7800E+01        8.0000E-01        7.7258E-01        0.0000E+00
+        2.9400E+01        8.0000E-01        6.9882E-01        0.0000E+00
+        3.0900E+01        8.0000E-01        4.5757E-01        0.0000E+00
+        3.2500E+01        8.0000E-01        3.3407E-01        0.0000E+00
+        3.3900E+01        7.0000E-01        2.2418E-01        0.0000E+00
+        3.5300E+01        7.0000E-01        1.7745E-01        0.0000E+00
+        3.6700E+01        7.0000E-01        1.3290E-01        0.0000E+00
+        3.8000E+01        7.0000E-01        1.1890E-01        0.0000E+00
+        3.9300E+01        7.0000E-01        9.1250E-02        0.0000E+00

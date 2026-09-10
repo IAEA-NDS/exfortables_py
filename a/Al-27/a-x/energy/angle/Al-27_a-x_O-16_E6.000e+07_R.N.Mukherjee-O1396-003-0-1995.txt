@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 13-AL-27(A,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  6.0000e+01 MeV 
+# Residual: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+#   Outgoing energy:  1.1200e+01 MeV - 2.4900e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O1396-003-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(A,X)8-O-16,,DA/DE) 
+#   First author: R.N.Mukherjee 
+#   Institute:  (3INDSAH): Saha Institute of Nuclear Physics, Kolkata 
+#   Reference:  (J,ZP/A,352,417,1995) 
+#   Year:  1995 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O13/O1396.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1396
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.1200E+01        4.0000E-01        4.0000E+01        0.0000E+00        1.8200E-11        0.0000E+00
+        1.4300E+01        4.0000E-01        4.0000E+01        0.0000E+00        1.3000E-11        2.9900E-12
+        1.7400E+01        4.0000E-01        4.0000E+01        0.0000E+00        7.1000E-12        1.7750E-12
+        2.0800E+01        4.0000E-01        4.0000E+01        0.0000E+00        2.1300E-12        0.0000E+00
+        2.4900E+01        4.0000E-01        4.0000E+01        0.0000E+00        3.4000E-13        8.8400E-14
+        1.1200E+01        4.0000E-01        5.0000E+01        0.0000E+00        1.1500E-11        0.0000E+00
+        1.4300E+01        4.0000E-01        5.0000E+01        0.0000E+00        6.4000E-12        1.2800E-12
+        1.7700E+01        4.0000E-01        5.0000E+01        0.0000E+00        2.7300E-12        0.0000E+00
+        2.1100E+01        4.0000E-01        5.0000E+01        0.0000E+00        6.7000E-13        0.0000E+00
+        2.4000E+01        4.0000E-01        5.0000E+01        0.0000E+00        1.3000E-13        2.9900E-14

@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 26-FE-0(N,X)  Energy distribution 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 26 
+#   A: 0 
+#   Nuclide: 26-FE-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 5 - None 
+#   Incident energy:  6.1000e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Outgoing energy:  4.0000e+00 MeV - 7.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 22358-003-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-0(N,X)2-HE-4,,DE) 
+#   First author: I.Matsuyama 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  ((S,JAERI-M-94-019,191,1994)=(S,INDC(JPN)-169,191,1994)) 
+#   Year:  1994 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22358.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22358
+#
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
+        7.0000E+00        0.0000E+00        9.1680E-11        4.9450E-11
+        4.0000E+00        0.0000E+00        2.5160E-10        7.5080E-11
+        4.4000E+00        0.0000E+00        4.9500E-10        1.7190E-10
+        6.8000E+00        0.0000E+00        5.6380E-10        1.1190E-10
+        4.6000E+00        0.0000E+00        6.7530E-10        1.3040E-10
+        4.2000E+00        0.0000E+00        6.9740E-10        7.6350E-11
+        4.8000E+00        0.0000E+00        8.1430E-10        1.8910E-10
+        6.6000E+00        0.0000E+00        1.0160E-09        1.6310E-10
+        5.0000E+00        0.0000E+00        1.0510E-09        2.6890E-10
+        6.4000E+00        0.0000E+00        1.1950E-09        2.1090E-10
+        6.2000E+00        0.0000E+00        1.4870E-09        2.2420E-10
+        5.2000E+00        0.0000E+00        1.4870E-09        2.6190E-10
+        5.4000E+00        0.0000E+00        1.6740E-09        2.2500E-10
+        6.0000E+00        0.0000E+00        1.9440E-09        2.5490E-10
+        5.6000E+00        0.0000E+00        1.9920E-09        2.2830E-10
+        5.8000E+00        0.0000E+00        2.0590E-09        2.4420E-10

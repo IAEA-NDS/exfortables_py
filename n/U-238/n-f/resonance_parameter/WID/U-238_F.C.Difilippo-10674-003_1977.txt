@@ -1,0 +1,34 @@
+# Header: 
+#   Title                 : 92-U-238 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2026-09-07 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10674-003-3 
+#   First Author          : F.C.Difilippo 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,NSE,63,153,1977) 
+#   Year                  : 1977 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 92 
+#   A                     : 238 
+#   Isomer                :  
+#   Nuclide               : 92-U-238 
+# Reaction: 
+#   EXFOR Reaction        : (92-U-238(N,F),,WID) 
+#   Incident Energy       : 7.0850e+02 eV - 1.2700e+03 eV 
+#   Resonance Energy Type : EN 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/106/10674.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10674
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   7.0850E+02          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   2.4200E-05   3.1000E-06          NAN          NAN
+   7.2210E+02          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.4200E-03   3.0000E-04          NAN          NAN
+   7.3060E+02          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.1600E-04   3.2000E-05          NAN          NAN
+   7.6570E+02          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   6.1000E-06   1.2000E-06          NAN          NAN
+   8.4500E+02          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.1000E-06   2.0000E-07          NAN          NAN
+   1.1383E+03          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.3600E-06   2.8000E-07          NAN          NAN
+   1.1683E+03          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.1100E-05   1.4000E-06          NAN          NAN
+   1.2126E+03          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   3.1200E-04   2.8000E-05          NAN          NAN
+   1.2700E+03          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   4.2000E-06   7.0000E-07          NAN          NAN

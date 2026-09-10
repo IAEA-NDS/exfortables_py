@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 49-IN-113(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 49 
+#   A: 113 
+#   Nuclide: 49-IN-113 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.0800e+00 MeV - 3.0100e+00 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 113 
+#   Nuclide: 49-IN-113-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22191-007-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-113(N,INL)49-IN-113-M,,SIG) 
+#   First author: Y.Ikeda 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  ((P,NEANDC(J)-155,11,1990)=(P,INDC(JPN)-142,11,1990)) 
+#   Year:  1990.0 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22191.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22191
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.0100E+00        0.0000E+00        3.0000E-01        1.4000E-02
+        2.8100E+00        0.0000E+00        3.0400E-01        1.6000E-02
+        2.6700E+00        0.0000E+00        3.1500E-01        1.6000E-02
+        2.5400E+00        0.0000E+00        3.1100E-01        1.9000E-02
+        2.4000E+00        0.0000E+00        2.7800E-01        1.5000E-02
+        2.3000E+00        0.0000E+00        2.7000E-01        1.4000E-02
+        2.2000E+00        0.0000E+00        2.5700E-01        1.4000E-02
+        2.0800E+00        0.0000E+00        2.1000E-01        1.1000E-02

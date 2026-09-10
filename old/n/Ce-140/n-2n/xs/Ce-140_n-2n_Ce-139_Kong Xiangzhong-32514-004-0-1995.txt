@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 58-CE-140(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 58 
+#   A: 140 
+#   Nuclide: 58-CE-140 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 139 
+#   Nuclide: 58-CE-139 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32514-004-0 (entry-subentry-pointer) 
+#   Reaction code: (58-CE-140(N,2N)58-CE-139,,SIG) 
+#   First author: Kong Xiangzhong 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,PHE,19,781,1995) 
+#   Year:  1995 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32514.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32514
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3500E+01        7.0000E-02        1.7220E+00        9.6000E-02
+        1.4180E+01        7.0000E-02        1.7990E+00        1.0000E-01
+        1.4800E+01        1.1000E-01        1.8300E+00        1.1000E-01

@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 48-CD-114(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 48 
+#   A: 114 
+#   Nuclide: 48-CD-114 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  7.4500e+00 MeV - 1.3170e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 114 
+#   Nuclide: 49-IN-114-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1502-004-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-114(P,N)49-IN-114-M,,SIG) 
+#   First author: S.A.Said 
+#   Institute:  (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
+#   Reference:  (J,ARI,64,1655,2006) 
+#   Year:  2006 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O15/O1502.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1502
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.4500E+00        0.0000E+00        1.6510E-01        1.2200E-02
+        9.9300E+00        0.0000E+00        3.6230E-01        3.2200E-02
+        1.1260E+01        0.0000E+00        2.8090E-01        2.2300E-02
+        1.3170E+01        0.0000E+00        1.7400E-01        1.5500E-02

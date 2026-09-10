@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 27-CO-59(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3570e+01 MeV - 1.4710e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 56 
+#   Nuclide: 25-MN-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31449-007-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,A)25-MN-56,,SIG) 
+#   First author: N.I.Molla 
+#   Institute:  (3BANSAV): Institute Nuclear Science & Technology, AERE, Savar, Dhaka 
+#   Reference:  (C,94GATLIN,2,938,199405) 
+#   Year:  1994 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31449.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31449
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3570E+01        0.0000E+00        2.8000E-02        1.6000E-03
+        1.3900E+01        0.0000E+00        2.9700E-02        1.9000E-03
+        1.4100E+01        0.0000E+00        3.0700E-02        2.2000E-03
+        1.4510E+01        0.0000E+00        2.9200E-02        1.6000E-03
+        1.4710E+01        0.0000E+00        2.8100E-02        1.7000E-03

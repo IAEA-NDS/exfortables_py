@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 41-NB-93(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.3200e+01 MeV - 3.7400e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 95 
+#   Nuclide: 41-NB-95-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6171-007-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(A,X)41-NB-95-G,(CUM),SIG) 
+#   First author: F.K.Amanuel 
+#   Institute:  (3ETPETP): Ethiopia 
+#   Reference:  (J,CHP,49,884,2011) 
+#   Year:  2011 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D61/D6171.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6171
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.3200E+01        0.0000E+00        9.0000E-05        0.0000E+00
+        3.5300E+01        0.0000E+00        1.0000E-04        0.0000E+00
+        3.7400E+01        0.0000E+00        2.4000E-04        0.0000E+00

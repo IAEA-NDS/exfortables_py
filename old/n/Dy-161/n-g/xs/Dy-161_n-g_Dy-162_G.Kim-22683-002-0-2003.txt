@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 66-DY-161(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 66 
+#   A: 161 
+#   Nuclide: 66-DY-161 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.0000e-02 MeV - 6.6500e-02 MeV 
+# Residual: 
+#   Z: 66 
+#   A: 162 
+#   Nuclide: 66-DY-162 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22683-002-0 (entry-subentry-pointer) 
+#   Reaction code: (66-DY-161(N,G)66-DY-162,,SIG,,AV) 
+#   First author: G.Kim 
+#   Institute:  (2JPNTIT): Tokyo Institute of Technology, Tokyo 
+#   Reference:  ((S,ISINN-10,249,2003)=(S,JINR-E3-2003-10,249,2003)) 
+#   Year:  2003 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22683.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22683
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.0000E-02        0.0000E+00        2.8260E+00        1.4400E-01
+        2.7500E-02        0.0000E+00        2.3330E+00        1.1000E-01
+        4.2500E-02        0.0000E+00        1.4110E+00        6.2000E-02
+        6.6500E-02        0.0000E+00        9.8900E-01        5.2000E-02

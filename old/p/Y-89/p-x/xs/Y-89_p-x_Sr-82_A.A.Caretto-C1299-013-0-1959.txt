@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 39-Y-89(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0000e+02 MeV - 2.4000e+02 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 82 
+#   Nuclide: 38-SR-82 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1299-013-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(P,X)38-SR-82,,SIG) 
+#   First author: A.A.Caretto 
+#   Institute:  (1USAROC): University of Rochester, Rochester, NY 
+#   Reference:  (J,PR,115,1238,1959) 
+#   Year:  1959 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C12/C1299.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1299
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E+02        0.0000E+00        2.0000E-03        5.0000E-04
+        1.5000E+02        0.0000E+00        7.0000E-03        1.0000E-03
+        1.8000E+02        0.0000E+00        1.1000E-02        3.0000E-03
+        2.4000E+02        0.0000E+00        9.3000E-03        5.0000E-03

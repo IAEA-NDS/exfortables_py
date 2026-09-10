@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 50-SN-117(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 50 
+#   A: 117 
+#   Nuclide: 50-SN-117 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.0000e-02 MeV - 1.0000e-01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 118 
+#   Nuclide: 50-SN-118 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22377-025-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-117(N,G)50-SN-118,,SIG,,MXW) 
+#   First author: K.Wisshak 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,PR/C,54,(3),1451,199609) 
+#   Year:  1996 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22377.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22377
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E-02        0.0000E+00        5.4940E-01        1.3000E-02
+        1.2000E-02        0.0000E+00        5.0660E-01        1.0000E-02
+        2.0000E-02        0.0000E+00        3.9550E-01        6.5000E-03
+        2.5000E-02        0.0000E+00        3.5180E-01        5.5000E-03
+        3.0000E-02        0.0000E+00        3.1880E-01        4.8000E-03
+        4.0000E-02        0.0000E+00        2.7140E-01        4.0000E-03
+        5.0000E-02        0.0000E+00        2.3910E-01        3.5000E-03
+        5.2000E-02        0.0000E+00        2.3370E-01        3.4000E-03
+        6.0000E-02        0.0000E+00        2.1500E-01        3.1000E-03
+        7.0000E-02        0.0000E+00        1.9640E-01        2.8000E-03
+        8.0000E-02        0.0000E+00        1.8150E-01        2.7000E-03
+        9.0000E-02        0.0000E+00        1.6930E-01        2.5000E-03
+        1.0000E-01        0.0000E+00        1.5910E-01        2.6000E-03

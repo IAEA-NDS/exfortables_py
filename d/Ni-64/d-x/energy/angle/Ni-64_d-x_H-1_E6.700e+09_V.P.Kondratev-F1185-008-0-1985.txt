@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 28-NI-64(D,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 28 
+#   A: 64 
+#   Nuclide: 28-NI-64 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  6.7000e+03 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Outgoing energy:  4.0380e+00 MeV - 1.2012e+01 MeV 
+# EXFOR BIB:
+#   Entry id: F1185-008-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-64(D,X)1-H-1,,DA/DE) 
+#   First author: V.P.Kondratev 
+#   Institute:  (4RUSSUL): Gosudarstvennyi University (State University ), St.Petersburg 
+#   Reference:  (J,IZV,49,(1),147,1985) 
+#   Year:  1985 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F11/F1185.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1185
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        4.0380E+00        6.0000E-02        9.0000E+01        0.0000E+00        1.3634E-08        2.6300E-10
+        4.9450E+00        6.0000E-02        9.0000E+01        0.0000E+00        1.5369E-08        3.0100E-10
+        6.0580E+00        6.0000E-02        9.0000E+01        0.0000E+00        1.6056E-08        3.1000E-10
+        7.0780E+00        6.0000E-02        9.0000E+01        0.0000E+00        1.5767E-08        3.3800E-10
+        7.9890E+00        6.0000E-02        9.0000E+01        0.0000E+00        1.5064E-08        2.2500E-10
+        9.0370E+00        6.0000E-02        9.0000E+01        0.0000E+00        1.3687E-08        2.2500E-10
+        1.0072E+01        6.0000E-02        9.0000E+01        0.0000E+00        1.2835E-08        2.6300E-10
+        1.1046E+01        6.0000E-02        9.0000E+01        0.0000E+00        1.2020E-08        2.2500E-10
+        1.2012E+01        6.0000E-02        9.0000E+01        0.0000E+00        1.1505E-08        1.8800E-10

@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 28-NI-64(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-08-01 
+#   Date created: 2026-09-07 
 # Target: 
 #   Z: 28 
 #   A: 64 
 #   Nuclide: 28-NI-64 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  1.7600e-01 MeV - 1.9580e+00 MeV 
 # Residual: 
 #   Z: 28 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/117/11765.x4 
 #   nds:  https://nds.iaea.org/EXFOR/11765
 #
-#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
         1.7600E-01        2.4000E-02        5.9100E-03        1.3300E-03
         1.9000E-01        5.0000E-02        3.9300E-03        8.7000E-04
         2.7300E-01        3.3000E-02        4.2500E-03        1.0200E-03

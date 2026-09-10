@@ -1,0 +1,36 @@
+# Header: 
+#   Title                 : 15-P-31 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2026-09-07 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C0793-002-4 
+#   First Author          : C.Iliadis 
+#   Institute             : (1USANOT): University of Notre Dame, Notre Dame, IN 
+#   Reference             : (J,NP/A,533,153,1991) 
+#   Year                  : 1991 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 15 
+#   A                     : 31 
+#   Isomer                :  
+#   Nuclide               : 15-P-31 
+# Reaction: 
+#   EXFOR Reaction        : (15-P-31(P,G),,WID/STR) 
+#   Incident Energy       : 1.6300e+05 eV - 6.1900e+05 eV 
+#   Resonance Energy Type : EN-RES 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C07/C0793.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C0793
+#
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   1.6300E+05          NAN        3.0        NAN          NAN          NAN   5.6000E-11          NAN          NAN          NAN          NAN          NAN   4.9000E-11          NAN
+   2.0100E+05          NAN        NAN        NAN          NAN          NAN   2.8000E-11          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   2.0600E+05          NAN        4.0        NAN          NAN          NAN   1.0000E-10          NAN          NAN          NAN          NAN          NAN   5.8000E-11          NAN
+   3.1600E+05          NAN        3.0        NAN          NAN          NAN   3.7000E-05          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.4200E+05          NAN        2.0        NAN          NAN          NAN   6.1000E-05          NAN          NAN          NAN          NAN          NAN   4.2000E-04          NAN
+   3.5500E+05   1.0000E+03        1.0        NAN          NAN          NAN   4.2000E-03   7.0000E-04          NAN          NAN          NAN          NAN          NAN          NAN
+   3.8300E+05   2.0000E+03        1.0        NAN          NAN          NAN   6.0000E-05   1.2000E-05          NAN          NAN          NAN          NAN   2.7000E-03   7.0000E-04
+   4.0300E+05   2.0000E+03        2.0        NAN          NAN          NAN   4.5000E-04   7.0000E-05          NAN          NAN          NAN          NAN   2.6000E-04          NAN
+   4.3900E+05   1.0000E+03        1.0        NAN          NAN          NAN   2.5000E-02   4.0000E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   5.4100E+05   1.0000E+03        2.0        NAN          NAN          NAN   1.2000E-01   2.0000E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   6.1900E+05   1.0000E+03        2.0        NAN          NAN          NAN   1.1000E-03   2.0000E-04          NAN          NAN          NAN          NAN          NAN          NAN

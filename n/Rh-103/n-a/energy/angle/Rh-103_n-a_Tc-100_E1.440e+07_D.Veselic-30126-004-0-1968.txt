@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 45-RH-103(N,A)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.4400e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 100 
+#   Nuclide: 43-TC-100 
+#   Outgoing energy:  1.0000e+01 MeV - 1.7700e+01 MeV 
+# EXFOR BIB:
+#   Entry id: 30126-004-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,A)43-TC-100,,DA/DE) 
+#   First author: D.Veselic 
+#   Institute:  (3CRORBZ): Institute Rudjer Boskovic, Zagreb 
+#   Reference:  (J,NP/A,110,225,196803) 
+#   Year:  1968 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30126.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30126
+#
+#   E_out_cm(MeV)    dE_out_cm(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.0000E+01        8.0000E-01        4.5000E+01        1.2500E+01        1.8000E-10        1.0000E-10
+        1.0400E+01        8.0000E-01        4.5000E+01        1.2500E+01        2.5000E-10        1.1000E-10
+        1.0800E+01        8.0000E-01        4.5000E+01        1.2500E+01        3.3000E-10        1.1000E-10
+        1.1150E+01        8.0000E-01        4.5000E+01        1.2500E+01        3.1000E-10        1.0000E-10
+        1.1550E+01        8.0000E-01        4.5000E+01        1.2500E+01        1.8000E-10        1.1000E-10
+        1.1900E+01        8.0000E-01        4.5000E+01        1.2500E+01        3.4000E-10        1.0000E-10
+        1.2300E+01        8.0000E-01        4.5000E+01        1.2500E+01        3.8000E-10        1.3000E-10
+        1.2700E+01        8.0000E-01        4.5000E+01        1.2500E+01        3.6000E-10        1.1000E-10
+        1.3100E+01        8.0000E-01        4.5000E+01        1.2500E+01        2.4000E-10        1.0000E-10
+        1.3550E+01        8.0000E-01        4.5000E+01        1.2500E+01        3.9000E-10        8.0000E-11
+        1.3950E+01        8.0000E-01        4.5000E+01        1.2500E+01        3.7000E-10        8.0000E-11
+        1.4400E+01        8.0000E-01        4.5000E+01        1.2500E+01        3.0000E-10        1.0000E-10
+        1.4800E+01        8.0000E-01        4.5000E+01        1.2500E+01        2.0000E-10        9.0000E-11
+        1.5300E+01        8.0000E-01        4.5000E+01        1.2500E+01        2.5000E-10        9.0000E-11
+        1.5750E+01        8.0000E-01        4.5000E+01        1.2500E+01        1.0000E-10        1.0000E-10
+        1.6250E+01        8.0000E-01        4.5000E+01        1.2500E+01        6.0000E-11        1.0000E-10
+        1.6700E+01        8.0000E-01        4.5000E+01        1.2500E+01        6.0000E-11        1.0000E-10
+        1.7200E+01        8.0000E-01        4.5000E+01        1.2500E+01        4.0000E-11        1.1000E-10
+        1.7700E+01        8.0000E-01        4.5000E+01        1.2500E+01        2.0000E-11        1.1000E-10

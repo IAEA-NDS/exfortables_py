@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 79-AU-197(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103.0 
+#   Incident energy:  1.1800e+01 MeV - 1.3850e+01 MeV 
+# Residual: 
+#   Z: 78 
+#   A: 197 
+#   Nuclide: 78-PT-197 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11504-016-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,P)78-PT-197,,SIG) 
+#   First author: H.A.Tewes 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (R,UCRL-6028-T,1960) 
+#   Year:  1960 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11504.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11504
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1800E+01        2.0000E-01        8.0000E-05        1.6000E-05
+        1.2800E+01        2.0000E-01        2.1000E-04        4.2000E-05
+        1.3850E+01        2.0000E-01        2.6000E-04        5.2000E-05

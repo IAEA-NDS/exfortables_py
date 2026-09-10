@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 64-GD-160(3-LI-7,5N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 64 
+#   A: 160 
+#   Nuclide: 64-GD-160 
+# Reaction: 
+#   Process: 3-LI-7,5N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.4950e+01 MeV - 6.6870e+01 MeV 
+# Residual: 
+#   Z: 67 
+#   A: 162 
+#   Nuclide: 67-HO-162 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1323-004-0 (entry-subentry-pointer) 
+#   Reaction code: (64-GD-160(3-LI-7,5N)67-HO-162,,SIG) 
+#   First author: A.Jungclaus 
+#   Institute:  (2SPNAUT): Universidad Autonoma de Madrid, Madrid 
+#   Reference:  (J,PR/C,66,014312,2002) 
+#   Year:  2002 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O13/O1323.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1323
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.4950E+01        1.9000E-01        3.9500E-03        7.9000E-04
+        3.9930E+01        1.9000E-01        7.9000E-02        1.5800E-02
+        5.6090E+01        1.9000E-01        1.8400E-01        3.6800E-02
+        6.0820E+01        1.9000E-01        6.2000E-02        1.2400E-02
+        6.6870E+01        1.9000E-01        2.6900E-02        5.3800E-03

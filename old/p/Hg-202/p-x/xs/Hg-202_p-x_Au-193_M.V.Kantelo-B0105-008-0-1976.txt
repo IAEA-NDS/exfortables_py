@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 80-HG-202(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 80 
+#   A: 202 
+#   Nuclide: 80-HG-202 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.8000e+01 MeV - 8.6000e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 193 
+#   Nuclide: 79-AU-193 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0105-008-0 (entry-subentry-pointer) 
+#   Reaction code: (80-HG-202(P,X)79-AU-193,,SIG) 
+#   First author: M.V.Kantelo 
+#   Institute:  (1CANMCG): McGill University, Montreal,Quebec 
+#   Reference:  (J,PR/C,13,1095,1976) 
+#   Year:  1976 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0105.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0105
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.8000E+01        2.0000E+00        1.5300E-03        3.1000E-04
+        7.4000E+01        2.0000E+00        4.8000E-03        7.0000E-04
+        8.0000E+01        2.0000E+00        1.2000E-02        2.3000E-03
+        8.6000E+01        2.0000E+00        1.4200E-02        2.0000E-03

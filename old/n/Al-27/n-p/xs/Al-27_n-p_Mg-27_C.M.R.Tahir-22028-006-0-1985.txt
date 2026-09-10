@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 13-AL-27(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3440e+01 MeV - 1.4900e+01 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 27 
+#   Nuclide: 12-MG-27 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22028-006-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,P)12-MG-27,,SIG) 
+#   First author: C.M.R.Tahir 
+#   Institute:  (2UK BIR): University of Birmingham, England 
+#   Reference:  (J,IPA,23,439,198509) 
+#   Year:  1985 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22028.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22028
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3440E+01        2.1000E-01        7.6070E-02        1.0870E-03
+        1.3560E+01        2.1000E-01        7.1970E-02        1.2620E-03
+        1.3750E+01        1.5000E-01        7.0370E-02        1.3630E-03
+        1.4020E+01        9.0000E-02        6.8460E-02        1.4670E-03
+        1.4260E+01        1.0000E-01        5.9880E-02        1.9370E-03
+        1.4510E+01        1.1000E-01        6.5890E-02        1.7620E-03
+        1.4710E+01        1.3000E-01        6.6330E-02        1.8720E-03
+        1.4750E+01        1.9000E-01        6.3520E-02        1.9480E-03
+        1.4900E+01        0.0000E+00        6.3020E-02        1.8060E-03

@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 1-H-3(D,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+# Reaction: 
+#   Process: D,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5813e-02 MeV - 9.5245e-02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 5 
+#   Nuclide: 2-HE-5 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F0751-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-3(D,G)2-HE-5,,SIG) 
+#   First author: V.M.Bezotosny 
+#   Institute:  (4RUSEPA): Experimental Physics Institute , Sarov 
+#   Reference:  (J,YF,10,225,1969) 
+#   Year:  1969 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F07/F0751.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0751
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.5813E-02        1.4000E-04        2.3527E-05        8.0440E-06
+        4.8602E-02        1.4000E-04        3.1049E-04        8.9778E-05
+        6.7539E-02        1.4000E-04        5.6663E-04        1.9883E-04
+        9.5245E-02        1.4000E-04        1.3784E-03        4.3456E-04

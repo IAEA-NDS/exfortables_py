@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 62-SM-144(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 62 
+#   A: 144 
+#   Nuclide: 62-SM-144 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  4.0000e+00 MeV - 6.0000e+00 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 141 
+#   Nuclide: 60-ND-141 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32755-002-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-144(N,A)60-ND-141,,SIG) 
+#   First author: Yu.Gledenov 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,EPJ/CS,146,11033,2017) 
+#   Year:  2017 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32755.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32755
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.0000E+00        2.3000E-01        6.0000E-05        1.0000E-05
+        5.0000E+00        1.6000E-01        1.1000E-04        3.0000E-05
+        6.0000E+00        1.2000E-01        1.7000E-04        3.0000E-05

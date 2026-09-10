@@ -1,0 +1,50 @@
+# Header: 
+#   Title: 28-NI-60(A,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.4400e+01 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 1 
+#   Nuclide: 0-NN-1 
+#   Outgoing energy:  2.0870e+00 MeV - 6.1460e+00 MeV 
+# EXFOR BIB:
+#   Entry id: C2824-011-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(A,X)0-NN-1,,DA/DE) 
+#   First author: S.M.Grimes 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR/C,10,2373,1974) 
+#   Year:  1974 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C28/C2824.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2824
+#
+#      E_out(MeV)       dE_out(MeV) Angle_cm(degrees) dAngle_cm(degrees)  data_cm(B/SR/EV) ddata_cm(B/SR/EV)
+        6.1460E+00        0.0000E+00        1.2000E+02        0.0000E+00        4.1330E-10        0.0000E+00
+        5.7310E+00        0.0000E+00        1.2000E+02        0.0000E+00        4.7300E-10        0.0000E+00
+        5.9600E+00        0.0000E+00        1.2000E+02        0.0000E+00        5.7870E-10        0.0000E+00
+        5.5450E+00        0.0000E+00        1.2000E+02        0.0000E+00        6.3730E-10        0.0000E+00
+        5.3160E+00        0.0000E+00        1.2000E+02        0.0000E+00        6.5610E-10        0.0000E+00
+        5.1320E+00        0.0000E+00        1.2000E+02        0.0000E+00        1.2990E-09        0.0000E+00
+        4.6950E+00        0.0000E+00        1.2000E+02        0.0000E+00        1.4030E-09        0.0000E+00
+        4.4880E+00        0.0000E+00        1.2000E+02        0.0000E+00        1.5450E-09        0.0000E+00
+        4.9250E+00        0.0000E+00        1.2000E+02        0.0000E+00        1.6520E-09        0.0000E+00
+        4.2400E+00        0.0000E+00        1.2000E+02        0.0000E+00        2.1430E-09        0.0000E+00
+        4.0940E+00        0.0000E+00        1.2000E+02        0.0000E+00        2.3370E-09        0.0000E+00
+        3.8670E+00        0.0000E+00        1.2000E+02        0.0000E+00        3.3040E-09        0.0000E+00
+        3.7010E+00        0.0000E+00        1.2000E+02        0.0000E+00        3.8540E-09        0.0000E+00
+        3.4330E+00        0.0000E+00        1.2000E+02        0.0000E+00        5.8850E-09        0.0000E+00
+        3.2670E+00        0.0000E+00        1.2000E+02        0.0000E+00        7.2030E-09        0.0000E+00
+        2.7280E+00        0.0000E+00        1.2000E+02        0.0000E+00        9.9930E-09        0.0000E+00
+        3.0610E+00        0.0000E+00        1.2000E+02        0.0000E+00        1.0690E-08        0.0000E+00
+        2.6670E+00        0.0000E+00        1.2000E+02        0.0000E+00        1.3080E-08        0.0000E+00
+        2.4180E+00        0.0000E+00        1.2000E+02        0.0000E+00        1.4400E-08        0.0000E+00
+        2.2520E+00        0.0000E+00        1.2000E+02        0.0000E+00        1.8150E-08        0.0000E+00
+        2.0870E+00        0.0000E+00        1.2000E+02        0.0000E+00        2.3080E-08        0.0000E+00

@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 53-I-127(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-07-31 
+#   Date created: 2026-09-07 
 # Target: 
 #   Z: 53 
 #   A: 127 
 #   Nuclide: 53-I-127 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  6.0000e-01 MeV - 2.5100e+00 MeV 
 # Residual: 
 #   Z: 53 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33162.x4 
 #   nds:  https://nds.iaea.org/EXFOR/33162
 #
-#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
         6.0000E-01        1.0000E-02        4.7580E-02        7.1180E-03
         1.2600E+00        2.0000E-02        3.1580E-02        3.0159E-03
         2.5100E+00        2.0000E-02        2.7340E-02        1.7498E-03

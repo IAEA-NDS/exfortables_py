@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 40-ZR-90(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.5210e+00 MeV - 5.0450e+00 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 91 
+#   Nuclide: 41-NB-91 
+#   Level energy: 1.3120e+00 MeV 
+# EXFOR BIB:
+#   Entry id: O2591-004-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(P,G)41-NB-91,PAR,SIG) 
+#   First author: P.Erbacher 
+#   Institute:  (2GERGER): Germany 
+#   Reference:  (J,EPJ/A,59,69,2023) 
+#   Year:  2023 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O25/O2591.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2591
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        3.5210E+00        1.3000E-02        4.1900E-05        2.9000E-06
+        3.9180E+00        1.2000E-02        5.8600E-05        3.9000E-06
+        4.2150E+00        1.2000E-02        6.5300E-05        4.1000E-06
+        4.4620E+00        1.1000E-02        1.1500E-04        6.0000E-06
+        4.7100E+00        1.1000E-02        1.0600E-04        2.0000E-06
+        5.0070E+00        1.0000E-02        1.0000E-04        7.0000E-06
+        5.0450E+00        1.0000E-02        1.4700E-04        8.0000E-06

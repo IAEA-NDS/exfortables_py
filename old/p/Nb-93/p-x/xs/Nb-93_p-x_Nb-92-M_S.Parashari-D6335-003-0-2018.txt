@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 41-NB-93(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.1590e+01 MeV - 2.1850e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 92 
+#   Nuclide: 41-NB-92-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6335-003-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(P,X)41-NB-92-M,,SIG) 
+#   First author: S.Parashari 
+#   Institute:  (3INDBDA): M.S. University of Baroda, Baroda 
+#   Reference:  (J,NP/A,978,160,2018) 
+#   Year:  2018 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D63/D6335.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6335
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1590E+01        4.6000E-01        1.1300E-04        6.0000E-06
+        1.4130E+01        4.0000E-01        5.5600E-03        2.5000E-04
+        1.6980E+01        3.5000E-01        4.1360E-02        2.9300E-03
+        1.9530E+01        3.2000E-01        7.5250E-02        3.3700E-03
+        2.1850E+01        2.9000E-01        9.1170E-02        5.7400E-03

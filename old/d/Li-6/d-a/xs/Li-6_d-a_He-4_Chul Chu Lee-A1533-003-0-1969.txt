@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 3-LI-6(D,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: D,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  4.0400e-02 MeV - 8.9400e-02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1533-003-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(D,A)2-HE-4,,SIG) 
+#   First author: Chul Chu Lee 
+#   Institute:  (3KORYON): Yonsei University, Seoul 
+#   Reference:  (J,KPS,2,(1),1,196904) 
+#   Year:  1969 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A15/A1533.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1533
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.0400E-02        4.0000E-04        6.2000E-06        3.7200E-08
+        4.9600E-02        4.0000E-04        3.8000E-05        2.2800E-07
+        5.9700E-02        4.0000E-04        1.0680E-04        6.4080E-07
+        6.9900E-02        4.0000E-04        2.1390E-04        1.2834E-06
+        7.9900E-02        4.0000E-04        3.3870E-04        2.0322E-06
+        8.9400E-02        4.0000E-04        4.7730E-04        2.8638E-06

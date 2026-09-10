@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 22-TI-47(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 22 
+#   A: 47 
+#   Nuclide: 22-TI-47 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 801 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 20 
+#   A: 44 
+#   Nuclide: 20-CA-44 
+#   Level energy: 1.1560e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 11644-002-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-47(N,A)20-CA-44,PAR,SIG) 
+#   First author: C.Spira 
+#   Institute:  (1CANOTU): University of Ottawa, Ottawa, Ontario 
+#   Reference:  (J,NP/A,127,81,1969) 
+#   Year:  1969 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11644.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11644
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4600E+01        0.0000E+00        1.6000E-03        6.0000E-04

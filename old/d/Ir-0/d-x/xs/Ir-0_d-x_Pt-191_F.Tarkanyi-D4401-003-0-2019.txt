@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 77-IR-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 77 
+#   A: 0 
+#   Nuclide: 77-IR-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.7090e+01 MeV - 4.9500e+01 MeV 
+# Residual: 
+#   Z: 78 
+#   A: 191 
+#   Nuclide: 78-PT-191 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4401-003-0 (entry-subentry-pointer) 
+#   Reaction code: (77-IR-0(D,X)78-PT-191,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,458,105,2019) 
+#   Year:  2019 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4401.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4401
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.9500E+01        2.0000E-01        1.3178E-01        1.5750E-02
+        4.7860E+01        2.8000E-01        1.4594E-01        1.7440E-02
+        4.6180E+01        3.1000E-01        1.5316E-01        1.8290E-02
+        4.4450E+01        3.4000E-01        1.7057E-01        2.0370E-02
+        4.2930E+01        3.8000E-01        2.1785E-01        2.6030E-02
+        4.1620E+01        4.1000E-01        2.4097E-01        2.8780E-02
+        4.0280E+01        4.5000E-01        2.6316E-01        3.1430E-02
+        3.8900E+01        5.0000E-01        3.0899E-01        3.6880E-02
+        3.7490E+01        5.5000E-01        3.6556E-01        4.3620E-02
+        3.6030E+01        6.0000E-01        4.1948E-01        5.0050E-02
+        3.4520E+01        6.6000E-01        4.9385E-01        5.8910E-02
+        3.2960E+01        7.3000E-01        5.3609E-01        6.3950E-02
+        3.1340E+01        8.0000E-01        5.3717E-01        6.4090E-02
+        2.9650E+01        8.8000E-01        4.8895E-01        5.8330E-02
+        2.7880E+01        9.7000E-01        3.9403E-01        4.7020E-02
+        2.6020E+01        1.0700E+00        2.5776E-01        3.0780E-02
+        2.4040E+01        1.1800E+00        1.1453E-01        1.3710E-02
+        2.1920E+01        1.2900E+00        7.1270E-02        8.5600E-03
+        1.9630E+01        1.4200E+00        1.1296E-01        1.3530E-02
+        1.7090E+01        1.5700E+00        1.7078E-01        2.0420E-02

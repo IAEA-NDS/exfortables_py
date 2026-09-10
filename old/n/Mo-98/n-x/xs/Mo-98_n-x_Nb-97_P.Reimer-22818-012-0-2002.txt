@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 42-MO-98(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 98 
+#   Nuclide: 42-MO-98 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.6221e+01 MeV - 1.8020e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 97 
+#   Nuclide: 41-NB-97 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22818-012-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-98(N,X)41-NB-97,,SIG) 
+#   First author: P.Reimer 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  ((T,REIMER,2001)=(R,JUEL-3980,2002)) 
+#   Year:  2002 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22818.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22818
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.6221E+01        0.0000E+00        2.8900E-03        2.0000E-04
+        1.8020E+01        0.0000E+00        1.2840E-02        1.6800E-03

@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 29-CU-65(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 52.0 
+#   Incident energy:  6.9500e+00 MeV - 1.4180e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+#   Level energy: 1.1160e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 22974-018-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(N,INL)29-CU-65,PAR,SIG) 
+#   First author: D.Schmidt 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (R,PTB-N-52,2006) 
+#   Year:  2006 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22974.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22974
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        6.9500E+00        0.0000E+00        6.0223E-02        2.9118E-03
+        8.0700E+00        0.0000E+00        3.8514E-02        1.0148E-03
+        8.9600E+00        0.0000E+00        3.0231E-02        8.2621E-04
+        9.9000E+00        0.0000E+00        2.2624E-02        7.2985E-04
+        1.0860E+01        0.0000E+00        2.1732E-02        8.2321E-04
+        1.1900E+01        0.0000E+00        1.8809E-02        3.6102E-03
+        1.2930E+01        0.0000E+00        2.5451E-02        9.8597E-04
+        1.4180E+01        0.0000E+00        2.4427E-02        9.0771E-04

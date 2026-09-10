@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 30-ZN-64(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.8400e+00 MeV - 4.8200e+00 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 64 
+#   Nuclide: 29-CU-64 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20291-005-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(N,P)29-CU-64,,SIG) 
+#   First author: K.Nakai 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,JPJ,17,1215,1962) 
+#   Year:  1962 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20291.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20291
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.8400E+00        5.0000E-02        7.4000E-03        2.0000E-03
+        2.2400E+00        1.7000E-01        1.5000E-02        4.0000E-03
+        2.8900E+00        3.0000E-01        4.3000E-02        9.0000E-03
+        3.7100E+00        2.9000E-01        7.7000E-02        1.6000E-02
+        4.1300E+00        2.2000E-01        9.8000E-02        2.0000E-02
+        4.4900E+00        1.5000E-01        1.0800E-01        2.2000E-02
+        4.8200E+00        5.0000E-02        1.2500E-01        2.5000E-02

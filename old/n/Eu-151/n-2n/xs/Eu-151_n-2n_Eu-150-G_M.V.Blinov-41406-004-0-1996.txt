@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 63-EU-151(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 63 
+#   A: 151 
+#   Nuclide: 63-EU-151 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3520e+01 MeV - 1.4900e+01 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 150 
+#   Nuclide: 63-EU-150-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41406-004-0 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-151(N,2N)63-EU-150-G,,SIG) 
+#   First author: M.V.Blinov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (S,INDC(NDS)-342,53,199602) 
+#   Year:  1996 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41406.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41406
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3520E+01        0.0000E+00        1.1270E+00        6.6000E-02
+        1.3750E+01        0.0000E+00        1.1670E+00        6.3000E-02
+        1.3980E+01        0.0000E+00        1.1390E+00        6.5000E-02
+        1.4210E+01        0.0000E+00        1.0920E+00        6.7000E-02
+        1.4440E+01        0.0000E+00        1.1260E+00        6.0000E-02
+        1.4670E+01        0.0000E+00        1.1400E+00        5.7000E-02
+        1.4900E+01        0.0000E+00        1.2180E+00        5.6000E-02

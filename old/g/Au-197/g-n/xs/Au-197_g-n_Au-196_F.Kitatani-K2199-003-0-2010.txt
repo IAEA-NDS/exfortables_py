@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 79-AU-197(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.0000e+01 MeV - 1.4600e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 196 
+#   Nuclide: 79-AU-196 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: K2199-003-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(G,N)79-AU-196,,SIG) 
+#   First author: F.Kitatani 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,NST,47,367,2010) 
+#   Year:  2010 
+#   Facility:  (SRING): Storage ring 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K21/K2199.x4 
+#   nds:  https://nds.iaea.org/EXFOR/K2199
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E+01        5.0000E-02        6.9900E-02        5.1027E-03
+        1.1300E+01        3.3900E-02        1.8680E-01        9.5268E-03
+        1.1700E+01        3.5100E-02        2.6600E-01        1.3034E-02
+        1.2100E+01        3.6300E-02        3.4520E-01        1.7260E-02
+        1.2700E+01        5.0800E-02        4.5060E-01        2.2079E-02
+        1.2900E+01        5.1600E-02        4.6780E-01        2.3390E-02
+        1.3500E+01        5.4000E-02        5.3210E-01        2.7137E-02
+        1.4600E+01        7.3000E-02        5.1140E-01        2.5570E-02

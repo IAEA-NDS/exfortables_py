@@ -1,0 +1,53 @@
+# Header: 
+#   Title: 13-AL-27(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103.0 
+#   Incident energy:  7.9800e+00 MeV - 1.4921e+01 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 27 
+#   Nuclide: 12-MG-27 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22976-003-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,P)12-MG-27,,SIG) 
+#   First author: W.Mannhart 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (R,PTB-N-53,2007) 
+#   Year:  2007 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22976.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22976
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.9800E+00        0.0000E+00        7.8200E-02        2.3225E-03
+        8.9480E+00        0.0000E+00        8.0800E-02        2.5937E-03
+        9.2910E+00        0.0000E+00        8.8700E-02        2.5900E-03
+        9.8780E+00        0.0000E+00        9.8000E-02        2.9498E-03
+        1.0061E+01        0.0000E+00        9.7100E-02        2.8256E-03
+        1.0392E+01        0.0000E+00        9.1300E-02        2.7573E-03
+        1.0673E+01        0.0000E+00        9.8500E-02        3.0437E-03
+        1.0943E+01        0.0000E+00        9.7900E-02        3.0251E-03
+        1.1149E+01        0.0000E+00        1.0100E-01        3.1714E-03
+        1.1160E+01        0.0000E+00        1.0490E-01        3.2729E-03
+        1.1522E+01        0.0000E+00        9.8400E-02        2.9815E-03
+        1.2124E+01        0.0000E+00        8.9000E-02        2.8391E-03
+        1.2134E+01        0.0000E+00        9.1700E-02        2.7969E-03
+        1.2521E+01        0.0000E+00        8.9500E-02        2.7924E-03
+        1.2680E+01        0.0000E+00        8.5900E-02        2.7660E-03
+        1.2980E+01        0.0000E+00        8.7300E-02        2.7761E-03
+        1.3159E+01        0.0000E+00        8.6500E-02        2.7161E-03
+        1.3515E+01        0.0000E+00        8.0800E-02        2.4886E-03
+        1.3789E+01        0.0000E+00        7.8800E-02        2.3876E-03
+        1.4001E+01        0.0000E+00        7.7000E-02        2.3254E-03
+        1.4126E+01        0.0000E+00        7.4900E-02        2.2695E-03
+        1.4240E+01        0.0000E+00        7.3100E-02        2.1345E-03
+        1.4421E+01        0.0000E+00        6.9200E-02        2.0068E-03
+        1.4921E+01        0.0000E+00        6.5800E-02        1.9148E-03

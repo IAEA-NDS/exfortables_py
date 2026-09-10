@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 74-W-186(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 74 
+#   A: 186 
+#   Nuclide: 74-W-186 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4400e+01 MeV 
+# Residual: 
+#   Z: 74 
+#   A: 185 
+#   Nuclide: 74-W-185-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32797-003-1 (entry-subentry-pointer) 
+#   Reaction code: (74-W-186(N,2N)74-W-185-M,,SIG) 
+#   First author: Xiao-Jun Sun 
+#   Institute:  (3CPRPDU): Pingdingshan University , Pingdingshan 
+#   Reference:  (J,CPL,36,112501,2019) 
+#   Year:  2019 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32797.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32797
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3500E+01        2.0000E-01        5.7500E-01        5.2000E-02
+        1.4400E+01        2.0000E-01        6.1100E-01        5.0000E-02

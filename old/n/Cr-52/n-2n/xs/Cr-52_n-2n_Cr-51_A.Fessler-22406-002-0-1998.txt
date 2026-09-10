@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 24-CR-52(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 24 
+#   A: 52 
+#   Nuclide: 24-CR-52 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16.0 
+#   Incident energy:  1.4250e+01 MeV - 1.9400e+01 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 51 
+#   Nuclide: 24-CR-51 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22406-002-0 (entry-subentry-pointer) 
+#   Reaction code: (24-CR-52(N,2N)24-CR-51,,SIG) 
+#   First author: A.Fessler 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,PR/C,58,996,1998) 
+#   Year:  1998 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22406.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22406
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4250E+01        2.0000E-01        3.3030E-01        1.7000E-02
+        1.7200E+01        2.5000E-01        5.9100E-01        2.9100E-02
+        1.8800E+01        3.0000E-01        6.2190E-01        3.1300E-02
+        1.9400E+01        3.2000E-01        6.3740E-01        3.3200E-02

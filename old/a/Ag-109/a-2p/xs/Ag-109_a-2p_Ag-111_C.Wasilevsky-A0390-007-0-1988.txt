@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 47-AG-109(A,2P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 47 
+#   A: 109 
+#   Nuclide: 47-AG-109 
+# Reaction: 
+#   Process: A,2P 
+#   MF-MT number: 3 - 111 
+#   Incident energy:  5.6100e+00 MeV - 6.6590e+01 MeV 
+# Residual: 
+#   Z: 47 
+#   A: 111 
+#   Nuclide: 47-AG-111 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0390-007-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-109(A,2P)47-AG-111,,SIG) 
+#   First author: C.Wasilevsky 
+#   Institute:  (3ARGCNE): Comision Nacional de Energia Atomica, Buenos Aires 
+#   Reference:  (J,JRN,121,115,1988) 
+#   Year:  1988 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A03/A0390.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0390
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.6590E+01        0.0000E+00        6.5540E-03        5.7820E-03
+        5.8510E+01        0.0000E+00        7.9300E-03        6.6490E-03
+        4.9510E+01        0.0000E+00        6.8910E-03        4.7910E-03
+        3.9100E+01        0.0000E+00        3.4440E-03        1.5470E-03
+        3.7110E+01        0.0000E+00        2.4100E-03        1.6630E-03
+        3.5050E+01        0.0000E+00        1.7210E-03        1.1870E-03
+        3.2900E+01        0.0000E+00        1.7180E-03        9.6270E-04
+        3.0640E+01        0.0000E+00        1.0290E-03        5.5500E-04
+        2.7320E+01        0.0000E+00        6.8570E-04        2.4220E-04
+        2.4680E+01        0.0000E+00        3.7690E-04        1.2130E-04
+        2.1830E+01        0.0000E+00        1.8480E-04        5.9440E-05
+        1.7440E+01        0.0000E+00        9.5540E-05        2.5600E-05
+        5.6100E+00        0.0000E+00        1.2980E-04        2.6140E-05

@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 47-AG-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 47 
+#   A: 0 
+#   Nuclide: 47-AG-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.0100e+01 MeV - 4.0000e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 111 
+#   Nuclide: 49-IN-111 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6478-002-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-0(A,X)49-IN-111,,SIG) 
+#   First author: D.Banerjee 
+#   Institute:  (3INDVEC): Variable Energy Cyclotron Centre, Kolkata 
+#   Reference:  (J,ARI,214,111542,2024) 
+#   Year:  2024 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D64/D6478.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6478
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0100E+01        1.0050E+00        4.1180E-02        2.5200E-03
+        2.2300E+01        1.1150E+00        2.2077E-01        1.3510E-02
+        2.4600E+01        1.2300E+00        3.8213E-01        2.3370E-02
+        2.6400E+01        1.3200E+00        4.6732E-01        2.8580E-02
+        2.8400E+01        1.4200E+00        4.5787E-01        2.7990E-02
+        3.0100E+01        1.5050E+00        5.1215E-01        3.1320E-02
+        3.2300E+01        1.6150E+00        5.3305E-01        3.2560E-02
+        3.4300E+01        1.7150E+00        2.9176E-01        1.7840E-02
+        3.5600E+01        1.7800E+00        2.8216E-01        1.7250E-02
+        3.7100E+01        1.8550E+00        2.0331E-01        1.2440E-02
+        3.8700E+01        1.9350E+00        1.4264E-01        8.7300E-03
+        4.0000E+01        2.0000E+00        9.2870E-02        5.6900E-03

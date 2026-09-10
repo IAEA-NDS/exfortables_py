@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 54-XE-124(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 54 
+#   A: 124 
+#   Nuclide: 54-XE-124 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.1360e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 54 
+#   A: 123 
+#   Nuclide: 54-XE-123 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14443-003-0 (entry-subentry-pointer) 
+#   Reaction code: (54-XE-124(N,2N)54-XE-123,,SIG) 
+#   First author: M.Bhike 
+#   Institute:  (1USAUSA): United States of America 
+#   Reference:  (J,PR/C,91,011601,2015) 
+#   Year:  2015 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/144/14443.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14443
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1360E+01        1.4000E-01        8.0360E-02        5.0300E-03
+        1.1860E+01        1.4000E-01        2.2856E-01        1.2170E-02
+        1.2360E+01        1.4000E-01        3.9122E-01        3.4250E-02
+        1.2850E+01        1.5000E-01        5.7007E-01        2.8460E-02
+        1.3350E+01        1.5000E-01        6.7628E-01        3.9990E-02
+        1.3850E+01        1.5000E-01        7.9388E-01        3.8130E-02
+        1.4350E+01        1.5000E-01        8.3957E-01        4.6530E-02
+        1.4800E+01        7.0000E-02        9.0944E-01        4.6870E-02

@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 50-SN-112(50-SN-112,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 50 
+#   A: 112 
+#   Nuclide: 50-SN-112 
+# Reaction: 
+#   Process: 50-SN-112,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  5.0000e-05 MeV 
+# Residual: 
+#   Z: 7 
+#   A: 18 
+#   Nuclide: 7-N-18 
+#   Outgoing energy:  4.6000e-07 MeV - 7.1800e-06 MeV 
+# EXFOR BIB:
+#   Entry id: C1946-030-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-112(50-SN-112,X)7-N-18,,DA/DE) 
+#   First author: T.X.Liu 
+#   Institute:  (1USAMSU): Michigan State University, East Lansing, MI 
+#   Reference:  (J,PR/C,86,024605,2012) 
+#   Year:  2012 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C19/C1946.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1946
+#
+#   E_out_cm(MeV)    dE_out_cm(MeV) Angle_cm(degrees) dAngle_cm(degrees)  data_cm(B/SR/EV) ddata_cm(B/SR/EV)
+        4.6000E-07        0.0000E+00        9.0000E+01        0.0000E+00        2.0800E-15        0.0000E+00
+        1.5900E-06        0.0000E+00        9.0000E+01        0.0000E+00        3.7600E-15        0.0000E+00
+        2.7100E-06        0.0000E+00        9.0000E+01        0.0000E+00        4.6700E-15        0.0000E+00
+        3.8300E-06        0.0000E+00        9.0000E+01        0.0000E+00        3.1000E-15        0.0000E+00
+        4.9500E-06        0.0000E+00        9.0000E+01        0.0000E+00        1.7700E-15        0.0000E+00
+        6.0700E-06        0.0000E+00        9.0000E+01        0.0000E+00        9.3900E-16        2.9600E-16
+        7.1800E-06        0.0000E+00        9.0000E+01        0.0000E+00        4.4300E-16        2.1000E-16

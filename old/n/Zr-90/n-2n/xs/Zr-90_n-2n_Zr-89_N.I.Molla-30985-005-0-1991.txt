@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 40-ZR-90(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3640e+01 MeV - 1.4830e+01 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 89 
+#   Nuclide: 40-ZR-89 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30985-005-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(N,2N)40-ZR-89,,SIG) 
+#   First author: N.I.Molla 
+#   Institute:  (3BANSAV): Institute Nuclear Science & Technology, AERE, Savar, Dhaka 
+#   Reference:  (C,91JUELIC,,355,199105) 
+#   Year:  1991 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30985.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30985
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3640E+01        0.0000E+00        4.6000E-01        4.3000E-02
+        1.3880E+01        0.0000E+00        5.6000E-01        5.1000E-02
+        1.4100E+01        0.0000E+00        6.4000E-01        5.8000E-02
+        1.4580E+01        0.0000E+00        6.9000E-01        6.2000E-02
+        1.4830E+01        0.0000E+00        8.1000E-01        7.2000E-02

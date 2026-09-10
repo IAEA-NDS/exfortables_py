@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 30-ZN-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 30 
+#   A: 0 
+#   Nuclide: 30-ZN-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.5500e+00 MeV - 2.3200e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 65 
+#   Nuclide: 30-ZN-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2473-004-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-0(D,X)30-ZN-65,CUM,SIG) 
+#   First author: M.U.Khandaker 
+#   Institute:  (3MALMAL): Malaysia 
+#   Reference:  (J,NIM/B,346,8,2015) 
+#   Year:  2015 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E24/E2473.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2473
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.5500E+00        9.9000E-01        4.7000E-03        3.4000E-04
+        5.9200E+00        6.4000E-01        2.2103E-01        1.5010E-02
+        8.3000E+00        5.3000E-01        2.9918E-01        2.0310E-02
+        1.1210E+01        4.5000E-01        2.2490E-01        1.5270E-02
+        1.1950E+01        4.4000E-01        2.0677E-01        1.4040E-02
+        1.3940E+01        4.1000E-01        1.6080E-01        1.0920E-02
+        1.5390E+01        3.8000E-01        1.3718E-01        9.3200E-03
+        1.6330E+01        3.8000E-01        1.2375E-01        8.4100E-03
+        1.6910E+01        3.8000E-01        1.1932E-01        8.1100E-03
+        1.7480E+01        3.7000E-01        1.1197E-01        7.6100E-03
+        1.9010E+01        3.5000E-01        1.1188E-01        7.6100E-03
+        1.9840E+01        3.5000E-01        1.1578E-01        7.8700E-03
+        2.0620E+01        3.4000E-01        1.2610E-01        8.5700E-03
+        2.1390E+01        3.4000E-01        1.3272E-01        9.0200E-03
+        2.2490E+01        3.3000E-01        1.5289E-01        1.0390E-02
+        2.3200E+01        3.3000E-01        1.6561E-01        1.1250E-02

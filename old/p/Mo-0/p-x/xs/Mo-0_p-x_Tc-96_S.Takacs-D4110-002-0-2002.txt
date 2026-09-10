@@ -1,0 +1,53 @@
+# Header: 
+#   Title: 42-MO-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 42 
+#   A: 0 
+#   Nuclide: 42-MO-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.7100e+00 MeV - 3.7950e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 96 
+#   Nuclide: 43-TC-96 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4110-002-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-0(P,X)43-TC-96,,SIG) 
+#   First author: S.Takacs 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,198,183,2002) 
+#   Year:  2002 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4110.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4110
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.7100E+00        7.8000E-01        1.3700E-02        1.5000E-03
+        9.0000E+00        7.1000E-01        9.0400E-02        1.0200E-02
+        1.1560E+01        6.4000E-01        1.2980E-01        1.4600E-02
+        1.3760E+01        5.8000E-01        1.3740E-01        1.5400E-02
+        1.5720E+01        5.3000E-01        1.1120E-01        1.2500E-02
+        1.7500E+01        4.8000E-01        1.0340E-01        1.1600E-02
+        1.9160E+01        4.4000E-01        9.8000E-02        1.1000E-02
+        1.9840E+01        7.6000E-01        9.6900E-02        1.0900E-02
+        2.0720E+01        4.0000E-01        9.4700E-02        1.0600E-02
+        2.1370E+01        7.0000E-01        1.0070E-01        1.1300E-02
+        2.2190E+01        3.6000E-01        1.0710E-01        1.2000E-02
+        2.2830E+01        6.5000E-01        1.2520E-01        1.4100E-02
+        2.3590E+01        3.3000E-01        1.3920E-01        1.5600E-02
+        2.4340E+01        6.0000E-01        1.5320E-01        1.7200E-02
+        2.4920E+01        3.0000E-01        1.6750E-01        1.8800E-02
+        2.6120E+01        5.6000E-01        1.7860E-01        2.0100E-02
+        2.7810E+01        5.1000E-01        1.9270E-01        2.1600E-02
+        2.9430E+01        4.8000E-01        1.9690E-01        2.2100E-02
+        3.0980E+01        4.4000E-01        1.9280E-01        2.1600E-02
+        3.2470E+01        4.1000E-01        1.7280E-01        1.9400E-02
+        3.3900E+01        3.8000E-01        1.5420E-01        1.7300E-02
+        3.5290E+01        3.5000E-01        1.3290E-01        1.4900E-02
+        3.6540E+01        3.2000E-01        1.1100E-01        1.2500E-02
+        3.7950E+01        3.0000E-01        9.0800E-02        1.0200E-02

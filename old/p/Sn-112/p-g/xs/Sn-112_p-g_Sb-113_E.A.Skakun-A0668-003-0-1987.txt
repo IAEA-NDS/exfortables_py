@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 50-SN-112(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 50 
+#   A: 112 
+#   Nuclide: 50-SN-112 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.0000e+00 MeV - 9.0000e+00 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 113 
+#   Nuclide: 51-SB-113 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0668-003-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-112(P,G)51-SB-113,,SIG) 
+#   First author: E.A.Skakun 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,YF,45,614,1987) 
+#   Year:  1987 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A06/A0668.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0668
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.0000E+00        0.0000E+00        2.0100E-03        1.3000E-04
+        7.0000E+00        0.0000E+00        2.6300E-02        1.5000E-03
+        9.0000E+00        0.0000E+00        3.1500E-02        1.8000E-03

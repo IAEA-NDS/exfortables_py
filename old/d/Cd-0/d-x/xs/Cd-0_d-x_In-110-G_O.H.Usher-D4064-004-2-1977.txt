@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 48-CD-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 48 
+#   A: 0 
+#   Nuclide: 48-CD-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0770e+01 MeV - 2.7280e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 110 
+#   Nuclide: 49-IN-110-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4064-004-2 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-0(D,X)49-IN-110-G,,SIG,,DAM) 
+#   First author: O.H.Usher 
+#   Institute:  (3ARGCNE): Comision Nacional de Energia Atomica, Buenos Aires 
+#   Reference:  (J,RCA,24,55,1977) 
+#   Year:  1977 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4064.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4064
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.7280E+01        0.0000E+00        3.2700E-04        2.4000E-05
+        2.6370E+01        0.0000E+00        2.6700E-04        2.0000E-05
+        2.5480E+01        0.0000E+00        3.0200E-04        2.2000E-05
+        2.4495E+01        0.0000E+00        2.4500E-04        1.8000E-05
+        2.3550E+01        0.0000E+00        2.6600E-04        2.0000E-05
+        2.2490E+01        0.0000E+00        2.3100E-04        1.8000E-05
+        2.1410E+01        0.0000E+00        2.4700E-04        1.8000E-05
+        2.0290E+01        0.0000E+00        1.6500E-04        1.2000E-05
+        1.9200E+01        0.0000E+00        2.8500E-04        2.2000E-05
+        1.7940E+01        0.0000E+00        3.6900E-04        3.2000E-05
+        1.5665E+01        0.0000E+00        3.1200E-04        2.4000E-05
+        1.5370E+01        0.0000E+00        3.2200E-04        2.6000E-05
+        1.3930E+01        0.0000E+00        3.0700E-04        2.8000E-05
+        1.2400E+01        0.0000E+00        2.7000E-04        2.6000E-05
+        1.0770E+01        0.0000E+00        2.1300E-04        3.0000E-05

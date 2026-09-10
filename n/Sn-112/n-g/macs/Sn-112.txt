@@ -1,0 +1,29 @@
+# Header: 
+#   title: 50-SN-112(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 50 
+#   A: 112 
+#   Nuclide: 50-SN-112 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4300e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.28000E-01  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+10938-002-0         T.Bradley               1979   2.4300E-02   0.0000E+00   2.2800E-01   2.5000E-02                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+40960-073-0         V.M.Timokhov            1988   3.0000E-02   0.0000E+00   2.3100E-01   1.2000E-02     MXW   DERIV
+V0102-231-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.1000E-01   1.2000E-02     MXW   RECOM
+V1001-510-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   2.0200E-01   2.4000E-02     MXW   RECOM

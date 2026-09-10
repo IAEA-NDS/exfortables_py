@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 34-SE-77(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 34 
+#   A: 77 
+#   Nuclide: 34-SE-77 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.5500e+00 MeV - 2.9700e+00 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 78 
+#   Nuclide: 35-BR-78 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0048-010-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-77(P,G)35-BR-78,,SIG) 
+#   First author: G.A.Krivonosov 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,BAS,41,(10),175,1977) 
+#   Year:  1977 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A00/A0048.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0048
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5500E+00        2.0000E-03        4.0000E-05        2.9000E-05
+        1.7500E+00        2.0000E-03        9.8000E-05        3.0000E-05
+        1.9500E+00        2.0000E-03        2.7000E-04        8.6000E-05
+        2.0500E+00        2.0000E-03        6.7000E-04        1.4000E-05
+        2.1600E+00        2.0000E-03        7.7000E-04        1.5000E-04
+        2.2600E+00        2.0000E-03        7.1000E-04        1.3000E-04
+        2.3600E+00        2.0000E-03        5.8000E-04        9.8000E-05
+        2.5600E+00        2.0000E-03        3.6000E-04        5.4000E-05
+        2.7700E+00        2.0000E-03        5.6000E-04        8.4000E-05
+        2.9700E+00        2.0000E-03        8.8000E-04        1.3000E-04

@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 15-P-31(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 15 
+#   A: 31 
+#   Nuclide: 15-P-31 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  6.1100e+00 MeV - 9.5700e+00 MeV 
+# Residual: 
+#   Z: 14 
+#   A: 31 
+#   Nuclide: 14-SI-31 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11481-004-0 (entry-subentry-pointer) 
+#   Reaction code: (15-P-31(N,P)14-SI-31,,SIG) 
+#   First author: J.A.Grundl 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,109,425,1958) 
+#   Year:  1958 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11481.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11481
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.1100E+00        1.2000E-01        1.4590E-01        1.4000E-02
+        6.6100E+00        1.1000E-01        1.4810E-01        1.4000E-02
+        7.1100E+00        1.1000E-01        1.3640E-01        1.3000E-02
+        7.6100E+00        1.0000E-01        1.3670E-01        1.3000E-02
+        8.0900E+00        9.0000E-02        1.4420E-01        1.4000E-02
+        8.5800E+00        9.0000E-02        1.3890E-01        1.3000E-02
+        9.0700E+00        9.0000E-02        1.4340E-01        1.4000E-02
+        9.5700E+00        1.0000E-01        1.4210E-01        1.4000E-02

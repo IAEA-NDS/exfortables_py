@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 6-C-12(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.1300e-01 MeV - 3.5800e-01 MeV 
+# Residual: 
+#   Z: 7 
+#   A: 13 
+#   Nuclide: 7-N-13 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D5145-003-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(P,G)7-N-13,,SIG,,,DERIV) 
+#   First author: A.S.Deineko 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,ZET,32,251,1957) 
+#   Year:  1957 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D51/D5145.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D5145
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.1300E-01        0.0000E+00        3.0000E-07        0.0000E+00
+        3.4000E-01        0.0000E+00        2.6000E-06        0.0000E+00
+        3.5800E-01        0.0000E+00        6.4000E-06        0.0000E+00

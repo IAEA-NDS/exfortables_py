@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 79-AU-197(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103.0 
+#   Incident energy:  1.2130e+01 MeV - 1.9760e+01 MeV 
+# Residual: 
+#   Z: 78 
+#   A: 197 
+#   Nuclide: 78-PT-197 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11462-019-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,P)78-PT-197,,SIG) 
+#   First author: B.P.Bayhurst 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,JIN,23,173,61) 
+#   Year:  1961 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11462.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11462
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2130E+01        1.5000E-01        7.0000E-04        1.0000E-05
+        1.3400E+01        2.0000E-01        1.4000E-03        1.0000E-04
+        1.3520E+01        1.5000E-01        1.4000E-03        1.0000E-04
+        1.3690E+01        1.0000E-01        1.6000E-03        1.0000E-04
+        1.3880E+01        1.0000E-01        1.7000E-03        1.0000E-04
+        1.4010E+01        1.0000E-01        1.8000E-03        1.0000E-04
+        1.4090E+01        1.0000E-01        2.0000E-03        1.0000E-04
+        1.4310E+01        1.3000E-01        2.0000E-03        1.0000E-04
+        1.4500E+01        2.0000E-01        2.2000E-03        1.0000E-04
+        1.4680E+01        2.6000E-01        2.6000E-03        1.0000E-04
+        1.4810E+01        3.1000E-01        2.4000E-03        1.0000E-04
+        1.4930E+01        3.6000E-01        2.6000E-03        1.0000E-04
+        1.6500E+01        3.0000E-01        4.0000E-03        3.0000E-04
+        1.7950E+01        3.2000E-01        6.0000E-03        4.0000E-04
+        1.9760E+01        4.3000E-01        5.8000E-03        4.0000E-04

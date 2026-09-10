@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 70-YB-168(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 70 
+#   A: 168 
+#   Nuclide: 70-YB-168 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.2534e+01 MeV - 1.4732e+01 MeV 
+# Residual: 
+#   Z: 72 
+#   A: 171 
+#   Nuclide: 72-HF-171 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2178-002-2 (entry-subentry-pointer) 
+#   Reaction code: (70-YB-168(A,N)72-HF-171,,SIG) 
+#   First author: L.Netterdon 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,NP/A,916,149,2013) 
+#   Year:  2013 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2178.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2178
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2534E+01        2.8000E-02               NAN        0.0000E+00
+        1.3155E+01        2.8000E-02               NAN        0.0000E+00
+        1.3406E+01        2.8000E-02        7.0000E-05        7.0000E-06
+        1.3835E+01        2.8000E-02               NAN        0.0000E+00
+        1.4178E+01        2.8000E-02        3.8000E-04        4.0000E-05
+        1.4732E+01        2.6000E-02        1.3000E-03        1.2000E-04

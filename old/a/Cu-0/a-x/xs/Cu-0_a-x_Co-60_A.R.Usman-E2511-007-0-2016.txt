@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 29-CU-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.0800e+01 MeV - 4.8500e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 60 
+#   Nuclide: 27-CO-60 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2511-007-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(A,X)27-CO-60,,SIG) 
+#   First author: A.R.Usman 
+#   Institute:  (3MALMAL): Malaysia 
+#   Reference:  (J,ARI,114,104,2016) 
+#   Year:  2016 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E25/E2511.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2511
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.8500E+01        8.0000E-01        3.7000E-03        3.0000E-04
+        4.5200E+01        9.0000E-01        2.4000E-03        2.0000E-04
+        4.0800E+01        9.0000E-01        8.6000E-04        1.0000E-04

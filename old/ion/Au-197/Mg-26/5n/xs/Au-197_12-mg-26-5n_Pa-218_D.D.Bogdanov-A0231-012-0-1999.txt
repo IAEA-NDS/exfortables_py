@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 79-AU-197(12-MG-26,5N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: 12-MG-26,5N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.9500e+01 MeV - 6.4000e+01 MeV 
+# Residual: 
+#   Z: 91 
+#   A: 218 
+#   Nuclide: 91-PA-218 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0231-012-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(12-MG-26,5N)91-PA-218,,SIG) 
+#   First author: D.D.Bogdanov 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,YF,62,1931,1999) 
+#   Year:  1999 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0231.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0231
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        3.9500E+01        5.9250E-01        1.0000E-06        4.0000E-07
+        4.5000E+01        6.7500E-01        2.0000E-06        8.0000E-07
+        4.7500E+01        7.1250E-01        2.8000E-06        1.1200E-06
+        5.1000E+01        7.6500E-01        2.4000E-06        9.6000E-07
+        5.7000E+01        8.5500E-01        1.1000E-06        4.4000E-07
+        6.4000E+01        9.6000E-01        2.0000E-07        8.0000E-08

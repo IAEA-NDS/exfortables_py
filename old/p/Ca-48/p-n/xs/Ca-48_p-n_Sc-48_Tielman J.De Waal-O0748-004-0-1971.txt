@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 20-CA-48(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 20 
+#   A: 48 
+#   Nuclide: 20-CA-48 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4.0 
+#   Incident energy:  1.8640e+00 MeV - 5.4740e+00 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 48 
+#   Nuclide: 21-SC-48 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0748-004-0 (entry-subentry-pointer) 
+#   Reaction code: (20-CA-48(P,N)21-SC-48,,SIG) 
+#   First author: Tielman J.De Waal 
+#   Institute:  (3SAFSUN): Southern Universities Nuclear Insstitute, Faure 
+#   Reference:  (J,JIN,33,2783,1971) 
+#   Year:  1971 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0748.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0748
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.4740E+00        2.0000E-03        2.5410E-01        1.8200E-02
+        5.2840E+00        2.0000E-03        2.5510E-01        1.8100E-02
+        5.0830E+00        2.0000E-03        2.1450E-01        1.4800E-02
+        4.9730E+00        2.0000E-03        1.7330E-01        2.0100E-02
+        4.8830E+00        2.0000E-03        1.9610E-01        1.5100E-02
+        4.6720E+00        2.0000E-03        1.7880E-01        1.2600E-02
+        4.4700E+00        2.0000E-03        1.5990E-01        1.1900E-02
+        4.2390E+00        2.0000E-03        1.5820E-01        1.1800E-02
+        4.2090E+00        2.0000E-03        1.4350E-01        1.0500E-02
+        4.0080E+00        2.0000E-03        1.2350E-01        9.8000E-03
+        3.7550E+00        2.0000E-03        9.1900E-02        7.6000E-03
+        3.5040E+00        2.0000E-03        7.8700E-02        6.0000E-03
+        3.4640E+00        2.0000E-03        7.1100E-02        4.9000E-03
+        3.2220E+00        2.0000E-03        4.8400E-02        3.5000E-03
+        2.8880E+00        2.0000E-03        3.0800E-02        2.2000E-03
+        2.6150E+00        2.0000E-03        1.8600E-02        1.7000E-03
+        2.5750E+00        2.0000E-03        1.5700E-02        1.2000E-03
+        2.2300E+00        2.0000E-03        6.8000E-03        5.0000E-04
+        1.8950E+00        2.0000E-03        5.1000E-03        6.0000E-04
+        1.8640E+00        2.0000E-03        3.4000E-03        4.0000E-04

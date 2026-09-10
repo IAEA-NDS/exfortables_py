@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 92-U-238(HE3,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: HE3,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.6300e+01 MeV - 5.9600e+01 MeV 
+# Residual: 
+#   Z: 90 
+#   A: 231 
+#   Nuclide: 90-TH-231 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0229-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(HE3,X)90-TH-231,,SIG,,(A)) 
+#   First author: Y.Y.Chu 
+#   Institute:  (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference:  (J,IRE,30,1149,1983) 
+#   Year:  1983 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0229.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0229
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        4.6300E+01        0.0000E+00        2.8000E-06        3.0000E-07
+        5.3000E+01        0.0000E+00        1.0600E-05        1.1000E-06
+        5.9600E+01        0.0000E+00        1.6200E-05        2.0000E-06

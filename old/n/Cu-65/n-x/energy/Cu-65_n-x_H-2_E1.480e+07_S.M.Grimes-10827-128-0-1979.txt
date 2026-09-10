@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 29-CU-65(N,X)  Energy distribution 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 5 - None 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+#   Outgoing energy:  2.0000e+00 MeV - 1.0000e+01 MeV 
+# EXFOR BIB:
+#   Entry id: 10827-128-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(N,X)1-H-2,,DE) 
+#   First author: S.M.Grimes 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR/C,19,2127,1979) 
+#   Year:  1979 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10827.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10827
+#
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
+        1.0000E+01        0.0000E+00        4.4300E-10        6.6450E-11
+        2.5000E+00        0.0000E+00        5.2600E-10        7.8900E-11
+        4.0000E+00        0.0000E+00        5.2600E-10        7.8900E-11
+        3.0000E+00        0.0000E+00        7.3100E-10        1.0965E-10
+        9.0000E+00        0.0000E+00        7.3400E-10        1.1010E-10
+        2.0000E+00        0.0000E+00        7.3700E-10        1.1055E-10
+        3.5000E+00        0.0000E+00        9.3800E-10        1.4070E-10
+        6.0000E+00        0.0000E+00        1.0500E-09        1.5750E-10
+        4.5000E+00        0.0000E+00        1.2500E-09        1.8750E-10
+        7.5000E+00        0.0000E+00        1.2700E-09        1.9050E-10
+        7.0000E+00        0.0000E+00        1.4700E-09        2.2050E-10
+        5.5000E+00        0.0000E+00        1.4800E-09        2.2200E-10
+        8.0000E+00        0.0000E+00        1.6800E-09        2.5200E-10
+        9.5000E+00        0.0000E+00        1.7200E-09        2.5800E-10
+        6.5000E+00        0.0000E+00        1.8800E-09        2.8200E-10
+        8.5000E+00        0.0000E+00        1.9000E-09        2.8500E-10
+        5.0000E+00        0.0000E+00        2.1800E-09        3.2700E-10

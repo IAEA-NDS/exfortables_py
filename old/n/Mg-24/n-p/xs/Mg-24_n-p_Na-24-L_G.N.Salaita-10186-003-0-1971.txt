@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 12-MG-24(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 12 
+#   A: 24 
+#   Nuclide: 12-MG-24 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24-L 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10186-003-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-24(N,P)11-NA-24-L,,SIG) 
+#   First author: G.N.Salaita 
+#   Institute:  (1USASMU): Southern Methodist University, Dallas, TX 
+#   Reference:  (J,NP/A,170,193,1971) 
+#   Year:  1971 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10186.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10186
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4800E+01        0.0000E+00        1.3800E-01        1.4000E-02

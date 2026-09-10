@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 29-CU-0(N,X)  Energy distribution 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 12 - None 
+#   Incident energy:  1.3800e+01 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 0 
+#   Nuclide: 0-G-0 
+#   Outgoing energy:  5.0000e-01 MeV - 8.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 41201-002-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(N,X)0-G-0,,DE) 
+#   First author: V.M.Gorbachev 
+#   Institute:  (4RUSEPA): Experimental Physics Institute , Sarov 
+#   Reference:  (C,94GATLIN,2,950,1994) 
+#   Year:  1994 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41201.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41201
+#
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
+        8.0000E+00        0.0000E+00        7.0000E-09        6.0000E-09
+        7.0000E+00        0.0000E+00        2.5000E-08        1.0000E-08
+        6.0000E+00        0.0000E+00        5.7000E-08        1.8000E-08
+        5.0000E+00        0.0000E+00        8.6000E-08        2.2000E-08
+        4.0000E+00        0.0000E+00        1.3500E-07        2.8000E-08
+        3.0000E+00        0.0000E+00        2.2000E-07        4.4000E-08
+        2.5000E+00        0.0000E+00        3.0400E-07        4.6000E-08
+        2.0000E+00        0.0000E+00        4.2800E-07        6.4000E-08
+        1.5000E+00        0.0000E+00        8.2400E-07        1.6400E-07
+        5.0000E-01        0.0000E+00        2.1140E-06        4.1000E-07
+        1.0000E+00        0.0000E+00        2.4100E-06        4.8000E-07

@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 26-FE-56(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 26 
+#   A: 56 
+#   Nuclide: 26-FE-56 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.2430e+01 MeV - 1.7890e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 56 
+#   Nuclide: 25-MN-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11715-004-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-56(N,P)25-MN-56,,SIG) 
+#   First author: J.Terrell 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,109,2031,1958) 
+#   Year:  1958 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/117/11715.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11715
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2430E+01        1.1000E-01        1.1100E-01        3.0000E-03
+        1.3350E+01        2.9000E-01        1.1600E-01        3.0000E-03
+        1.3990E+01        3.9000E-01        1.1400E-01        2.0000E-03
+        1.4710E+01        4.4000E-01        1.0500E-01        2.0000E-03
+        1.5480E+01        4.4000E-01        9.6000E-02        2.0000E-03
+        1.6230E+01        4.1000E-01        8.4000E-02        2.0000E-03
+        1.6890E+01        3.2000E-01        7.4000E-02        2.0000E-03
+        1.7890E+01        8.0000E-02        6.2000E-02        2.0000E-03

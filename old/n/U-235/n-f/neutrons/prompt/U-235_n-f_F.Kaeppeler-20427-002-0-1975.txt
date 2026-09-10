@@ -1,0 +1,51 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission-neutron yield, nu-bar 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 1 - 18 
+#   Incident energy:  2.2500e-01 MeV - 1.3630e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20427-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F),PR,NU) 
+#   First author: F.Kaeppeler 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (C,75WASH,2,549,197503) 
+#   Year:  1975 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20427.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20427
+#
+#       E_in(MeV)        dE_in(MeV)      Multiplicity     dMultiplicity
+        2.2500E-01        1.0000E-02        2.4760E+00        2.2284E-02
+        2.7100E-01        1.2000E-02        2.4540E+00        2.4540E-02
+        3.2300E-01        1.8000E-02        2.4690E+00        1.7283E-02
+        3.6400E-01        1.8000E-02        2.4960E+00        2.9952E-02
+        4.1900E-01        1.7000E-02        2.4770E+00        1.7339E-02
+        4.6300E-01        2.2000E-02        2.4880E+00        2.7368E-02
+        5.2200E-01        1.6000E-02        2.5160E+00        2.2644E-02
+        6.1600E-01        2.2000E-02        2.4560E+00        1.7192E-02
+        6.7300E-01        2.2000E-02        2.4870E+00        1.7409E-02
+        7.2300E-01        2.4000E-02        2.4520E+00        1.7164E-02
+        7.8200E-01        2.2000E-02        2.5100E+00        2.5100E-02
+        8.3200E-01        2.0000E-02        2.5170E+00        2.5170E-02
+        8.8700E-01        2.3000E-02        2.5160E+00        2.5160E-02
+        9.3000E-01        2.5000E-02        2.4750E+00        2.4750E-02
+        9.8800E-01        2.7000E-02        2.4690E+00        2.4690E-02
+        1.0460E+00        3.5000E-02        2.5090E+00        1.7563E-02
+        1.0970E+00        2.6000E-02        2.5360E+00        2.7896E-02
+        1.1480E+00        2.7000E-02        2.5300E+00        2.7830E-02
+        1.1990E+00        3.4000E-02        2.5670E+00        2.8237E-02
+        1.2650E+00        3.0000E-02        2.5400E+00        2.7940E-02
+        1.3230E+00        4.0000E-02        2.5480E+00        2.5480E-02
+        1.3630E+00        3.5000E-02        2.5310E+00        2.7841E-02

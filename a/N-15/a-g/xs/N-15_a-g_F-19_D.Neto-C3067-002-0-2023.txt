@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 7-N-15(A,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-04-23 
+#   Date created: 2026-09-07 
 # Target: 
 #   Z: 7 
 #   A: 15 
@@ -9,7 +9,7 @@
 # Reaction: 
 #   Process: A,G 
 #   MF-MT number: 3 - 102 
-#   Incident energy:  4.7550e+00 MeV - 5.3450e+00 MeV 
+#   Incident energy:  7.4100e-01 MeV - 1.3310e+00 MeV 
 # Residual: 
 #   Z: 9 
 #   A: 19 
@@ -26,11 +26,11 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C30/C3067.x4 
 #   nds:  https://nds.iaea.org/EXFOR/C3067
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
-        4.7550E+00        1.4000E-02        1.5000E-10        1.4000E-10
-        4.8450E+00        1.4000E-02        9.0000E-10        8.6000E-10
-        4.9450E+00        1.4000E-02        1.1000E-09        1.0000E-09
-        5.0350E+00        1.4000E-02        3.1000E-09        2.6000E-09
-        5.1350E+00        1.4000E-02        3.9000E-09        1.9000E-09
-        5.3450E+00        1.5000E-02        3.6000E-06        8.0000E-07
-        5.3450E+00        1.5000E-02        1.3000E-05        5.0000E-06
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        7.4100E-01        1.4000E-02        1.5000E-10        1.4000E-10
+        8.3100E-01        1.4000E-02        9.0000E-10        8.6000E-10
+        9.3100E-01        1.4000E-02        1.1000E-09        1.0000E-09
+        1.0210E+00        1.4000E-02        3.1000E-09        2.6000E-09
+        1.1210E+00        1.4000E-02        3.9000E-09        1.9000E-09
+        1.3310E+00        1.5000E-02        3.6000E-06        8.0000E-07
+        1.3310E+00        1.5000E-02        1.3000E-05        5.0000E-06

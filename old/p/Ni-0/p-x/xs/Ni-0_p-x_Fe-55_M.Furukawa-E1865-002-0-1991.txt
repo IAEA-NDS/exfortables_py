@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 28-NI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  8.5290e+00 MeV - 2.9840e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 55 
+#   Nuclide: 26-FE-55 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1865-002-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(P,X)26-FE-55,,SIG) 
+#   First author: M.Furukawa 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  (P,A-INS-1990,35,1991) 
+#   Year:  1991 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E18/E1865.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1865
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.5290E+00        0.0000E+00        7.4020E-03        0.0000E+00
+        1.1890E+01        0.0000E+00        1.7560E-02        0.0000E+00
+        1.6060E+01        0.0000E+00        2.8000E-02        0.0000E+00
+        1.9700E+01        0.0000E+00        2.4920E-02        0.0000E+00
+        2.3020E+01        0.0000E+00        9.7940E-03        0.0000E+00
+        2.6130E+01        0.0000E+00        4.9390E-03        0.0000E+00
+        2.9840E+01        0.0000E+00        4.3310E-03        0.0000E+00

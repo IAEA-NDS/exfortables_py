@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 75-RE-187(A,7N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 75 
+#   A: 187 
+#   Nuclide: 75-RE-187 
+# Reaction: 
+#   Process: A,7N 
+#   MF-MT number: 3 - 160 
+#   Incident energy:  7.1800e+01 MeV - 8.2900e+01 MeV 
+# Residual: 
+#   Z: 77 
+#   A: 184 
+#   Nuclide: 77-IR-184 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0493-021-0 (entry-subentry-pointer) 
+#   Reaction code: (75-RE-187(A,7N)77-IR-184,,SIG) 
+#   First author: J.D.Stickler 
+#   Institute:  (1USAKTY): University of Kentucky, Lexington, KY 
+#   Reference:  (J,PR/C,9,1064,1974) 
+#   Year:  1974 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D04/D0493.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0493
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.1800E+01        9.0000E-01        8.5000E-02        2.0000E-02
+        7.4200E+01        7.0000E-01        4.1500E-01        8.0000E-02
+        7.7000E+01        5.0000E-01        7.0000E-01        1.5000E-01
+        8.0000E+01        3.0000E-01        1.0200E+00        2.0000E-01
+        8.2900E+01        1.0000E-01        9.8000E-01        2.0000E-01

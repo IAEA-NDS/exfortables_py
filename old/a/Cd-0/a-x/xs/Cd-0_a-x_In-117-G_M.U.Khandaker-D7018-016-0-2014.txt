@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 48-CD-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 48 
+#   A: 0 
+#   Nuclide: 48-CD-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3500e+01 MeV - 4.4600e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 117 
+#   Nuclide: 49-IN-117-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D7018-016-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-0(A,X)49-IN-117-G,(M),SIG) 
+#   First author: M.U.Khandaker 
+#   Institute:  (3MALMAL): Malaysia 
+#   Reference:  (J,NIM/B,333,80,2014) 
+#   Year:  2014 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D70/D7018.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D7018
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3500E+01        1.7000E+00        1.0000E-04        4.0000E-05
+        1.5100E+01        1.5000E+00        2.1000E-04        4.0000E-05
+        1.6600E+01        1.5000E+00        5.4000E-04        9.0000E-05
+        1.9700E+01        1.3000E+00        1.7000E-03        2.0000E-04
+        2.2400E+01        1.2000E+00        2.8000E-03        2.0000E-04
+        2.5000E+01        1.1000E+00        2.9000E-03        3.0000E-04
+        2.7400E+01        1.1000E+00        3.6000E-03        3.0000E-04
+        2.9700E+01        1.0000E+00        3.6000E-03        3.0000E-04
+        3.1800E+01        1.0000E+00        4.0000E-03        3.0000E-04
+        3.3800E+01        9.0000E-01        4.6000E-03        4.0000E-04
+        3.5800E+01        9.0000E-01        6.0000E-03        4.0000E-04
+        3.7700E+01        8.0000E-01        6.3000E-03        5.0000E-04
+        3.9500E+01        8.0000E-01        8.3000E-03        6.0000E-04
+        4.1300E+01        8.0000E-01        9.5000E-03        7.0000E-04
+        4.3000E+01        8.0000E-01        1.0900E-02        8.0000E-04
+        4.4600E+01        8.0000E-01        1.1700E-02        8.0000E-04

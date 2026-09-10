@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 62-SM-154(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 62 
+#   A: 154 
+#   Nuclide: 62-SM-154 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 66.0 
+#   Incident energy:  1.6530e+00 MeV - 2.1320e+00 MeV 
+# Residual: 
+#   Z: 62 
+#   A: 154 
+#   Nuclide: 62-SM-154 
+#   Level energy: 1.5390e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 10362-015-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-154(N,INL)62-SM-154,PAR,SIG) 
+#   First author: S.A.Elbakr 
+#   Institute:  (1CANALA): University of Alberta, Edmonton, Alberta 
+#   Reference:  (J,NP/A,211,493,1973) 
+#   Year:  1973 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/103/10362.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10362
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.6530E+00        0.0000E+00        5.4028E-02        1.1839E-02
+        1.7880E+00        0.0000E+00        9.2088E-02        2.1215E-02
+        1.9570E+00        0.0000E+00        9.8092E-02        2.1709E-02
+        2.1320E+00        0.0000E+00        1.1742E-01        2.1710E-02

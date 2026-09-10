@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 19-K-39(N,N+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 19 
+#   A: 39 
+#   Nuclide: 19-K-39 
+# Reaction: 
+#   Process: N,N+A 
+#   MF-MT number: 3 - 22 
+#   Incident energy:  1.2700e+01 MeV - 1.9600e+01 MeV 
+# Residual: 
+#   Z: 17 
+#   A: 35 
+#   Nuclide: 17-CL-35 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21081-006-0 (entry-subentry-pointer) 
+#   Reaction code: (19-K-39(N,N+A)17-CL-35,,SIG) 
+#   First author: M.Bormann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (J,ZN/A,17,479,6203) 
+#   Year:  1962 
+#   Facility:  (VDG  ): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21081.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21081
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2700E+01        1.5000E-01        2.2000E-02        3.9600E-03
+        1.4100E+01        1.0000E-01        2.6000E-02        5.2000E-03
+        1.5200E+01        1.5000E-01        3.6000E-02        5.0400E-03
+        1.7500E+01        2.0000E-01        4.2000E-02        5.8800E-03
+        1.9600E+01        2.0000E-02        4.7000E-02        7.0500E-03

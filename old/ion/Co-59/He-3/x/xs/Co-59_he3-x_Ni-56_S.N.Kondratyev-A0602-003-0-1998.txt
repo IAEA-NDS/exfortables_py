@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 27-CO-59(HE3,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: HE3,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.7000e+01 MeV - 9.1900e+01 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 56 
+#   Nuclide: 28-NI-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0602-003-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(HE3,X)28-NI-56,CUM,SIG) 
+#   First author: S.N.Kondratyev 
+#   Institute:  (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+#   Reference:  (J,UFZ,43,5,1998) 
+#   Year:  1998 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A06/A0602.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0602
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.7000E+01        2.1000E+00        1.1000E-05        2.0000E-06
+        2.5600E+01        1.6000E+00        1.9000E-05        3.0000E-06
+        6.2100E+01        8.0000E-01        1.7000E-04        3.0000E-05
+        6.8800E+01        8.0000E-01        2.6000E-04        4.0000E-05
+        7.5100E+01        6.0000E-01        4.5000E-04        5.0000E-05
+        8.0900E+01        6.0000E-01        5.3000E-04        5.0000E-05
+        8.6400E+01        6.0000E-01        6.3000E-04        6.0000E-05
+        9.1900E+01        6.0000E-01        8.2000E-04        8.0000E-05

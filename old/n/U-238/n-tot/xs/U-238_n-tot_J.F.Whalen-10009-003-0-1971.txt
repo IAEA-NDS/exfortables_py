@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 92-U-238(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  6.0667e-01 MeV - 1.2041e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10009-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,TOT),,SIG) 
+#   First author: J.F.Whalen 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (P,ANL-7710,9,197101) 
+#   Year:  1971 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10009.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10009
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.0667E-01        2.0000E-02        8.0730E+00        1.6000E-01
+        8.0574E-01        2.0000E-02        7.2300E+00        1.7100E-01
+        1.0048E+00        2.0000E-02        6.9830E+00        1.9800E-01
+        1.2041E+00        2.0000E-02        6.4118E+00        2.1100E-01

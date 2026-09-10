@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 8-O-16(HE3,2A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: HE3,2A 
+#   MF-MT number: 3 - 108 
+#   Incident energy:  1.1170e+01 MeV - 2.9020e+01 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 11 
+#   Nuclide: 6-C-11 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F0207-012-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(HE3,2A)6-C-11,,SIG) 
+#   First author: O.D.Brill' 
+#   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference:  (J,SNP,1,37,1965) 
+#   Year:  1965 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F02/F0207.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0207
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.1170E+01        0.0000E+00        1.8900E-02        4.7250E-03
+        1.3570E+01        0.0000E+00        3.0600E-02        7.6500E-03
+        1.5970E+01        0.0000E+00        3.6200E-02        9.0500E-03
+        1.7810E+01        0.0000E+00        3.9300E-02        9.8250E-03
+        1.9570E+01        0.0000E+00        4.3300E-02        1.0825E-02
+        2.1190E+01        0.0000E+00        4.5300E-02        1.1325E-02
+        2.3190E+01        0.0000E+00        4.6800E-02        1.1700E-02
+        2.4440E+01        0.0000E+00        4.8700E-02        1.2175E-02
+        2.6170E+01        0.0000E+00        3.7200E-02        9.3000E-03
+        2.7630E+01        0.0000E+00        3.7300E-02        9.3250E-03
+        2.9020E+01        0.0000E+00        2.5600E-02        6.4000E-03

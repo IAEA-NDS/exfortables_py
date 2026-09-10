@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 90-TH-232(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.7000e+00 MeV - 9.8500e+00 MeV 
+# Residual: 
+#   Z: 90 
+#   A: 233 
+#   Nuclide: 90-TH-233 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33033-003-0 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(N,G)90-TH-233,,SIG) 
+#   First author: H.Naik 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,EPJ/A,47,51,2011) 
+#   Year:  2011 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33033.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33033
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.7000E+00        3.0000E-01        1.0900E-02        9.0000E-04
+        9.8500E+00        3.8000E-01        1.3500E-03        1.2000E-04

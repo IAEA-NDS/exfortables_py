@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 7-N-15(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 7 
+#   A: 15 
+#   Nuclide: 7-N-15 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  5.5030e+00 MeV - 1.3539e+01 MeV 
+# Residual: 
+#   Z: 8 
+#   A: 15 
+#   Nuclide: 8-O-15 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: T0015-003-0 (entry-subentry-pointer) 
+#   Reaction code: (7-N-15(P,N)8-O-15,,SIG) 
+#   First author: C.Wong 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR,123,598,1961) 
+#   Year:  1961 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T00/T0015.x4 
+#   nds:  https://nds.iaea.org/EXFOR/T0015
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.5030E+00        2.1300E-01        1.5948E-01        1.5088E-02
+        6.4580E+00        2.1300E-01        2.3362E-01        2.4536E-02
+        6.9850E+00        1.6600E-01        1.9639E-01        2.2166E-02
+        7.3500E+00        0.0000E+00        1.3745E-01        1.4156E-02
+        7.6050E+00        0.0000E+00        1.6719E-01        0.0000E+00
+        7.6530E+00        0.0000E+00        1.6342E-01        0.0000E+00
+        7.7480E+00        1.6600E-01        1.5729E-01        1.6514E-02
+        8.0710E+00        1.8900E-01        7.8065E-02        7.0710E-03
+        8.1160E+00        0.0000E+00        8.9862E-02        0.0000E+00
+        8.6390E+00        0.0000E+00        7.1975E-02        0.0000E+00
+        8.9920E+00        3.0700E-01        7.8607E-02        9.4350E-03
+        9.4200E+00        0.0000E+00        6.7789E-02        0.0000E+00
+        1.0498E+01        0.0000E+00        4.5856E-02        0.0000E+00
+        1.0650E+01        2.3700E-01        5.9391E-02        6.1330E-03
+        1.1382E+01        2.1300E-01        5.8975E-02        7.0760E-03
+        1.2165E+01        2.6000E-01        4.3467E-02        4.7160E-03
+        1.3539E+01        1.8900E-01        2.8476E-02        3.7760E-03

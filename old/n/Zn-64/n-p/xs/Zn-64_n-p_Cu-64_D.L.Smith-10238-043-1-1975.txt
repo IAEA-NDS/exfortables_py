@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 30-ZN-64(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.1590e+00 MeV - 3.9580e+00 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 64 
+#   Nuclide: 29-CU-64 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10238-043-1 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(N,P)29-CU-64,,SIG) 
+#   First author: D.L.Smith 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,NSE,58,314,197511) 
+#   Year:  1975 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10238.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10238
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1590E+00        1.0200E-01        2.2650E-04        1.7680E-05
+        1.3630E+00        1.0400E-01        4.9170E-04        3.1470E-05
+        1.5710E+00        1.0200E-01        1.2120E-03        8.0000E-05
+        1.7740E+00        1.0200E-01        2.4170E-03        1.3780E-04
+        1.9490E+00        1.6000E-01        5.3350E-03        2.7740E-04
+        2.1540E+00        1.5800E-01        9.7810E-03        4.9890E-04
+        2.3560E+00        1.5800E-01        1.6960E-02        8.6520E-04
+        2.5620E+00        1.5600E-01        2.9180E-02        1.4890E-03
+        2.7620E+00        1.5600E-01        4.9900E-02        2.4950E-03
+        2.9630E+00        1.5600E-01        7.4630E-02        3.7320E-03
+        3.1650E+00        1.5600E-01        9.4190E-02        4.7100E-03
+        3.3670E+00        1.5600E-01        1.0890E-01        5.4470E-03
+        3.5680E+00        1.5600E-01        1.1360E-01        5.6820E-03
+        3.7700E+00        1.5600E-01        1.2530E-01        6.2640E-03
+        3.9580E+00        1.5600E-01        1.3040E-01        6.5190E-03

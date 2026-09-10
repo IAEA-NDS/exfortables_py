@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 1-H-2(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 4.0 
+#   Incident energy:  5.9700e+00 MeV - 1.1390e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M0488-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(G,N)1-H-1,,SIG) 
+#   First author: Y.Birenbaum 
+#   Institute:  (3ISLNEG): Ben Gurion University of the Negev, Beer-Sheva 
+#   Reference:  (J,PR/C,32,1825,1985) 
+#   Year:  1985 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M04/M0488.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0488
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.9700E+00        0.0000E+00        2.1620E-03        9.9000E-05
+        7.2500E+00        1.0000E-02        1.8820E-03        1.1000E-05
+        7.6000E+00        1.0000E-02        1.8030E-03        1.6000E-05
+        7.6400E+00        0.0000E+00        1.8100E-03        2.8000E-05
+        8.8000E+00        2.0000E-02        1.5860E-03        1.1000E-05
+        9.0000E+00        0.0000E+00        1.5700E-03        3.6000E-05
+        1.1390E+01        0.0000E+00        1.2570E-03        3.6000E-05

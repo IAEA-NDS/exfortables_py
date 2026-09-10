@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 12-MG-24(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 12 
+#   A: 24 
+#   Nuclide: 12-MG-24 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  6.3000e+00 MeV - 8.3500e+00 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21049-004-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-24(N,P)11-NA-24,,SIG) 
+#   First author: A.B.M.G.Mostafa 
+#   Institute:  (2UK BIR): University of Birmingham, England 
+#   Reference:  (J,NSP/B,9,10,7610) 
+#   Year:  1976 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21049.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21049
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.3000E+00        0.0000E+00        5.6000E-03        7.0000E-04
+        6.5500E+00        0.0000E+00        3.9500E-02        2.7000E-03
+        7.1000E+00        0.0000E+00        5.2700E-02        3.7000E-03
+        8.0000E+00        0.0000E+00        9.6000E-02        6.7000E-03
+        8.3500E+00        0.0000E+00        1.2000E-01        8.4000E-03

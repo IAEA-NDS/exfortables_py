@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 13-AL-27(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  8.0000e+00 MeV - 9.3000e+00 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 27 
+#   Nuclide: 12-MG-27 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40135-003-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,P)12-MG-27,,SIG) 
+#   First author: Yu.A.Nemilov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,INDC(CCP)-42,13,1974) 
+#   Year:  1974 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40135.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40135
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.0000E+00        3.0000E-01        7.5000E-02        8.0000E-03
+        8.6000E+00        3.0000E-01        9.2000E-02        1.0000E-02
+        9.0500E+00        3.0000E-01        9.8000E-02        9.0000E-03
+        9.3000E+00        3.0000E-01        9.2000E-02        8.0000E-03

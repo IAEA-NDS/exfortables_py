@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 92-U-238(G,ABS)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: G,ABS 
+#   MF-MT number: 3 - 27 
+#   Incident energy:  1.0000e+01 MeV - 2.0000e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M0411-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(G,ABS),,SIG) 
+#   First author: N.K.Sherman 
+#   Institute:  (1CANOTC): National Research Council, Ottawa, Ontario 
+#   Reference:  (J,PRL,54,1649,1985) 
+#   Year:  1985 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M04/M0411.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0411
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E+01        1.2900E-01        2.1023E-02        0.0000E+00
+        2.0000E+01        3.3800E-01        2.6036E-02        0.0000E+00

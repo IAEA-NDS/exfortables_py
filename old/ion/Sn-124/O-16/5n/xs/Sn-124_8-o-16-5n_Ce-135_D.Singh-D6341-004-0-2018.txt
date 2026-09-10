@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 50-SN-124(8-O-16,5N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 50 
+#   A: 124 
+#   Nuclide: 50-SN-124 
+# Reaction: 
+#   Process: 8-O-16,5N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.1580e+01 MeV - 9.9720e+01 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 135 
+#   Nuclide: 58-CE-135 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6341-004-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-124(8-O-16,5N)58-CE-135,,SIG) 
+#   First author: D.Singh 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,PR/C,97,064610,2018) 
+#   Year:  2018 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D63/D6341.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6341
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.1580E+01        3.0000E-01        1.7900E-03        2.5000E-04
+        6.8040E+01        2.3000E-01        6.5960E-02        5.7000E-03
+        7.4160E+01        2.2000E-01        4.3422E-01        3.7520E-02
+        7.9790E+01        2.1000E-01        5.5378E-01        4.6740E-02
+        8.2970E+01        2.6000E-01        7.5014E-01        6.3850E-02
+        8.8500E+01        3.0000E-01        5.2167E-01        4.4130E-02
+        9.4110E+01        2.9000E-01        3.2656E-01        2.8230E-02
+        9.9720E+01        2.8000E-01        1.5402E-01        1.3870E-02

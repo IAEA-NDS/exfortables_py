@@ -1,0 +1,53 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  3.1470e+00 MeV - 6.2030e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 12848-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F),,SIG) 
+#   First author: A.D.Carlson 
+#   Institute:  (1USANBS): National Bureau of Standards, Washington, DC 
+#   Reference:  (C,78HARWELL,,880,1978) 
+#   Year:  1978 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12848.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12848
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.1470E+00        1.0050E-02        1.1350E+00        2.8070E-02
+        3.2270E+00        1.0440E-02        1.1390E+00        2.8510E-02
+        3.3110E+00        1.0840E-02        1.1400E+00        2.8680E-02
+        3.3970E+00        1.1270E-02        1.1770E+00        2.9680E-02
+        3.4870E+00        1.1720E-02        1.1170E+00        2.8060E-02
+        3.5810E+00        1.2200E-02        1.0980E+00        2.7710E-02
+        3.6780E+00        1.2700E-02        1.1000E+00        2.7780E-02
+        3.7800E+00        1.3230E-02        1.1110E+00        2.8130E-02
+        3.8850E+00        1.3790E-02        1.0550E+00        2.6850E-02
+        3.9960E+00        1.4380E-02        1.0800E+00        2.7160E-02
+        4.1110E+00        1.5000E-02        1.0630E+00        2.6690E-02
+        4.2310E+00        1.5660E-02        1.0980E+00        2.7800E-02
+        4.3560E+00        1.6370E-02        1.1210E+00        2.8510E-02
+        4.4870E+00        1.7110E-02        1.0930E+00        2.7750E-02
+        4.6250E+00        1.7900E-02        1.0660E+00        2.3230E-02
+        4.7680E+00        1.8740E-02        1.0880E+00        2.3470E-02
+        4.9180E+00        1.9630E-02        1.0350E+00        2.2750E-02
+        5.0760E+00        2.0590E-02        1.0240E+00        2.2450E-02
+        5.2410E+00        2.1600E-02        1.0050E+00        2.2140E-02
+        5.4150E+00        2.2680E-02        1.0160E+00        2.2430E-02
+        5.5970E+00        2.3840E-02        1.0410E+00        2.3010E-02
+        5.7890E+00        2.5070E-02        1.0360E+00        2.3010E-02
+        5.9910E+00        2.6390E-02        1.0820E+00        2.3450E-02
+        6.2030E+00        2.7810E-02        1.1580E+00        2.4630E-02

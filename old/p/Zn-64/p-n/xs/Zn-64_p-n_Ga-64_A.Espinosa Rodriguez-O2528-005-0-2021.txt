@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 30-ZN-64(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  8.4500e+00 MeV - 9.4500e+00 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 64 
+#   Nuclide: 31-GA-64 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2528-005-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(P,N)31-GA-64,,SIG,,,DERIV) 
+#   First author: A.Espinosa Rodriguez 
+#   Institute:  (2SPNAUT): Universidad Autonoma de Madrid, Madrid 
+#   Reference:  (J,RPC,185,109485,2021) 
+#   Year:  2021 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O25/O2528.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2528
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.4500E+00        3.0000E-02        2.8000E-02        5.0000E-03
+        8.9600E+00        3.0000E-02        7.0000E-02        1.0000E-02
+        9.3700E+00        2.0000E-02        1.1000E-01        3.0000E-02
+        9.4500E+00        2.0000E-02        1.1400E-01        9.0000E-03

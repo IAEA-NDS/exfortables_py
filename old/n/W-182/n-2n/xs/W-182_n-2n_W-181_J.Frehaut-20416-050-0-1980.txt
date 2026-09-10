@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 74-W-182(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 74 
+#   A: 182 
+#   Nuclide: 74-W-182 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  8.1800e+00 MeV - 1.4760e+01 MeV 
+# Residual: 
+#   Z: 74 
+#   A: 181 
+#   Nuclide: 74-W-181 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20416-050-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-182(N,2N)74-W-181,,SIG) 
+#   First author: J.Frehaut 
+#   Institute:  (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
+#   Reference:  ((S,INDC(USA)-84,(1),399,1980)=(S,BNL-NCS-51245,(1),399,1980)) 
+#   Year:  1980 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20416.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20416
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.1800E+00        1.4500E-01        1.5000E-02        1.2000E-02
+        8.4400E+00        1.3500E-01        6.1000E-02        1.2000E-02
+        8.6900E+00        1.3000E-01        2.0900E-01        2.7000E-02
+        8.9400E+00        1.2500E-01        3.4200E-01        2.1000E-02
+        9.4400E+00        1.1500E-01        6.8700E-01        4.0000E-02
+        9.9300E+00        1.1000E-01        1.0850E+00        5.8000E-02
+        1.0420E+01        1.0000E-01        1.2930E+00        6.7000E-02
+        1.0910E+01        9.5000E-02        1.5030E+00        9.5000E-02
+        1.1880E+01        8.5000E-02        1.7500E+00        1.2400E-01
+        1.2850E+01        8.0000E-02        1.8690E+00        1.3600E-01
+        1.3330E+01        7.5000E-02        1.8870E+00        1.3600E-01
+        1.3800E+01        7.5000E-02        1.9120E+00        1.4100E-01
+        1.4280E+01        7.0000E-02        2.0300E+00        1.5700E-01
+        1.4760E+01        6.5000E-02        2.0170E+00        1.5000E-01

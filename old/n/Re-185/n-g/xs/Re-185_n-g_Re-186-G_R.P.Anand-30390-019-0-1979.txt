@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 75-RE-185(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 75 
+#   A: 185 
+#   Nuclide: 75-RE-185 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102.0 
+#   Incident energy:  2.5000e-02 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 186 
+#   Nuclide: 75-RE-186-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30390-019-0 (entry-subentry-pointer) 
+#   Reaction code: (75-RE-185(N,G)75-RE-186-G,,SIG) 
+#   First author: R.P.Anand 
+#   Institute:  (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference:  (J,NC/A,50,247,1979) 
+#   Year:  1979 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30390.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30390
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.5000E-02        5.0000E-03        2.2600E+00        2.4700E-01

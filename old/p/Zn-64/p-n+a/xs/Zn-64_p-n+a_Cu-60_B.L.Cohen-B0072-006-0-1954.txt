@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 30-ZN-64(P,N+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: P,N+A 
+#   MF-MT number: 3 - 22 
+#   Incident energy:  1.8500e+01 MeV - 2.3500e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 60 
+#   Nuclide: 29-CU-60 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0072-006-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(P,N+A)29-CU-60,,SIG,,,EXP) 
+#   First author: B.L.Cohen 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,PR,94,620,1954) 
+#   Year:  1954 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0072.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0072
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.8500E+01        0.0000E+00        3.2000E-04        0.0000E+00
+        1.9000E+01        0.0000E+00        7.9000E-04        0.0000E+00
+        1.9500E+01        0.0000E+00        1.8000E-03        0.0000E+00
+        2.0000E+01        0.0000E+00        3.3000E-03        0.0000E+00
+        2.0500E+01        0.0000E+00        5.2000E-03        0.0000E+00
+        2.1000E+01        0.0000E+00        7.6000E-03        0.0000E+00
+        2.1500E+01        0.0000E+00        1.1000E-02        0.0000E+00
+        2.2000E+01        0.0000E+00        1.5000E-02        0.0000E+00
+        2.2500E+01        0.0000E+00        1.9000E-02        0.0000E+00
+        2.3000E+01        0.0000E+00        2.3000E-02        0.0000E+00
+        2.3500E+01        0.0000E+00        2.7000E-02        0.0000E+00

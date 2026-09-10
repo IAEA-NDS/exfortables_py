@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 26-FE-56(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 26 
+#   A: 56 
+#   Nuclide: 26-FE-56 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.2571e+01 MeV - 1.6642e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33201-002-1 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-56(N,X)1-H-1,,SIG,,,DERIV) 
+#   First author: A.Sharma 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,PL/B,848,138381,2024) 
+#   Year:  2024 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/332/33201.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33201
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2571E+01        5.0000E-01        1.0418E-01        1.8094E-02
+        1.3588E+01        5.0000E-01        1.5838E-01        2.2699E-02
+        1.4606E+01        5.0000E-01        2.0927E-01        2.0880E-02
+        1.5624E+01        5.0000E-01        2.9422E-01        2.7021E-02
+        1.6642E+01        5.0000E-01        3.1294E-01        2.9679E-02

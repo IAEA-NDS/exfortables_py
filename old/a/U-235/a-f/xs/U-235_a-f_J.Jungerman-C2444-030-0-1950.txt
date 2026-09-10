@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 92-U-235(A,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: A,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  2.0568e+01 MeV - 3.8939e+02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2444-030-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(A,F),,SIG) 
+#   First author: J.Jungerman 
+#   Institute:  (1USAUCX): University of California, Berkeley, CA 
+#   Reference:  (J,PR,79,632,1950) 
+#   Year:  1950 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C24/C2444.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2444
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0568E+01        0.0000E+00        1.5000E-02        0.0000E+00
+        2.2119E+01        0.0000E+00        7.6000E-02        0.0000E+00
+        2.4198E+01        0.0000E+00        2.5000E-01        0.0000E+00
+        2.5753E+01        0.0000E+00        3.5300E-01        0.0000E+00
+        2.8344E+01        0.0000E+00        5.1100E-01        0.0000E+00
+        3.0412E+01        0.0000E+00        5.9800E-01        0.0000E+00
+        3.1974E+01        0.0000E+00        7.5200E-01        0.0000E+00
+        1.0764E+02        0.0000E+00        1.3950E+00        0.0000E+00
+        2.0327E+02        0.0000E+00        1.4090E+00        0.0000E+00
+        3.0352E+02        0.0000E+00        1.3770E+00        0.0000E+00
+        3.8939E+02        0.0000E+00        1.4430E+00        0.0000E+00

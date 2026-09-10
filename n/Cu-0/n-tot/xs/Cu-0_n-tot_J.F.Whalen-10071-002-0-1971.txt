@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 29-CU-0(N,TOT)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-08-01 
+#   Date created: 2026-09-07 
 # Target: 
 #   Z: 29 
 #   A: 0 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10071.x4 
 #   nds:  https://nds.iaea.org/EXFOR/10071
 #
-#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
         1.0158E-01        4.4230E-03        5.8484E+00        0.0000E+00
         1.0467E-01        4.3280E-03        5.7794E+00        0.0000E+00
         1.0774E-01        4.2540E-03        6.0943E+00        0.0000E+00
@@ -616,8 +616,8 @@
         1.4030E+00        1.0060E-03        3.4193E+00        0.0000E+00
         1.4050E+00        1.0060E-03        3.0959E+00        0.0000E+00
         1.4070E+00        1.0050E-03        3.4680E+00        0.0000E+00
-        1.4090E+00        1.0040E-03        3.1579E+00        0.0000E+00
         1.4090E+00        1.0040E-03        3.4140E+00        0.0000E+00
+        1.4090E+00        1.0040E-03        3.1579E+00        0.0000E+00
         1.4110E+00        1.0040E-03        3.1580E+00        0.0000E+00
         1.4130E+00        1.0030E-03        3.1780E+00        0.0000E+00
         1.4150E+00        1.0020E-03        3.0070E+00        0.0000E+00

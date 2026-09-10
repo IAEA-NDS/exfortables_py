@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 28-NI-60(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.0000e+00 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 61 
+#   Nuclide: 29-CU-61 
+#   Level energy: 1.9040e+00 MeV 
+# EXFOR BIB:
+#   Entry id: A0130-003-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(P,G)29-CU-61,PAR,SIG) 
+#   First author: B.A.Nemashkalo 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,VAT/O,,(2/16),37,1981) 
+#   Year:  1981 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A01/A0130.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0130
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        3.0000E+00        1.0800E-01        9.1000E-06        2.7000E-06
+        3.0000E+00        1.0800E-01        6.7000E-06        2.7000E-06
+        3.0000E+00        1.0800E-01        4.2000E-06        2.7000E-06

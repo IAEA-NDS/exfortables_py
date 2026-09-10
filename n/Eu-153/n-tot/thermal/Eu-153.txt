@@ -1,0 +1,28 @@
+# Header: 
+#   title: 63-EU-153(N,TOT) thermal cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 63 
+#   A: 153 
+#   Nuclide: 63-EU-153 
+# Reaction: 
+#   Type: N,TOT 
+#   Type: N,TOT 
+#   Incident energy       : 2.5000e-08 MeV - 2.5300e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Thermal Simple Mean       |  Simple Stdev        : 4.56000E+02  |           NAN   (N = 1)
+#   Thermal Weighted Mean    +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+21325-015-0         N.J.Pattenden           1958   2.5300E-08   0.0000E+00   4.5600E+02   1.6000E+01                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+30560-006-0         M.Adib                  1980   2.5300E-08   0.0000E+00   3.7500E+02   2.0000E+01           DERIV
+14382-023-0         G.Leinweber             2014   2.5000E-08   0.0000E+00   3.4000E+02   1.0000E+01     MXW   DERIV

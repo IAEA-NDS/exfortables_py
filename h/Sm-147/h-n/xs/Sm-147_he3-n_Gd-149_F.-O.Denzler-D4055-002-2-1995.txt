@@ -1,0 +1,52 @@
+# Header: 
+#   Title: 62-SM-147(HE3,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 62 
+#   A: 147 
+#   Nuclide: 62-SM-147 
+# Reaction: 
+#   Process: HE3,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.1300e+01 MeV - 3.4500e+01 MeV 
+# Residual: 
+#   Z: 64 
+#   A: 149 
+#   Nuclide: 64-GD-149 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4055-002-2 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-147(HE3,N)64-GD-149,,SIG) 
+#   First author: F.-O.Denzler 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,RCA,69,209,1995) 
+#   Year:  1995 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4055.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4055
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        3.4500E+01        3.0000E-01               NAN        0.0000E+00
+        3.3100E+01        3.1000E-01        4.5000E-03        2.4000E-03
+        3.2400E+01        3.2000E-01        1.0700E-02        6.0000E-03
+        3.1400E+01        3.3000E-01        6.9000E-03        3.5000E-03
+        3.0800E+01        3.4000E-01        1.7000E-03        7.0000E-04
+        2.9900E+01        3.4000E-01        5.9000E-03        2.6000E-03
+        2.9200E+01        3.5000E-01               NAN        0.0000E+00
+        2.8300E+01        3.5000E-01        6.1000E-03        4.4000E-03
+        2.7500E+01        3.6000E-01        5.7000E-03        1.3000E-03
+        2.6400E+01        3.7000E-01        4.3000E-03        1.2000E-03
+        2.5700E+01        3.8000E-01        5.5000E-03        8.0000E-04
+        2.4500E+01        3.9000E-01        5.8000E-03        9.0000E-04
+        2.3700E+01        4.0000E-01        3.4000E-03        5.0000E-04
+        2.2500E+01        4.2000E-01        5.9000E-03        1.1000E-03
+        2.1600E+01        4.3000E-01        4.5000E-03        8.0000E-04
+        2.0500E+01        4.5000E-01        2.9000E-03        5.0000E-04
+        1.9400E+01        4.6000E-01        3.2000E-03        7.0000E-04
+        1.8200E+01        4.8000E-01        2.9000E-03        6.0000E-04
+        1.7100E+01        5.2000E-01        2.0000E-03        4.0000E-04
+        1.5600E+01        5.5000E-01        2.8000E-03        6.0000E-04
+        1.4500E+01        5.8000E-01        2.0000E-03        4.0000E-04
+        1.3800E+01        6.5000E-01               NAN        0.0000E+00
+        1.1300E+01        6.9000E-01        4.0000E-04        1.0000E-04

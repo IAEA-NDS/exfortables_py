@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 40-ZR-90(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  9.0000e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Outgoing energy:  1.1350e+01 MeV - 7.5220e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O0137-167-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(P,X)2-HE-3,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,698,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0137.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0137
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.1350E+01        0.0000E+00        6.0000E+01        0.0000E+00        6.4830E-11        6.4830E-12
+        1.9400E+01        0.0000E+00        6.0000E+01        0.0000E+00        4.0770E-11        4.0770E-12
+        2.9060E+01        0.0000E+00        6.0000E+01        0.0000E+00        2.2470E-11        2.2470E-12
+        3.8720E+01        0.0000E+00        6.0000E+01        0.0000E+00        1.1590E-11        1.1590E-12
+        4.7160E+01        0.0000E+00        6.0000E+01        0.0000E+00        6.1830E-12        6.1830E-13
+        5.4800E+01        0.0000E+00        6.0000E+01        0.0000E+00        3.0890E-12        3.0890E-13
+        6.1230E+01        0.0000E+00        6.0000E+01        0.0000E+00        1.7620E-12        1.7620E-13
+        6.7640E+01        0.0000E+00        6.0000E+01        0.0000E+00        7.7200E-13        7.7200E-14
+        7.2040E+01        0.0000E+00        6.0000E+01        0.0000E+00        3.8630E-13        3.8630E-14
+        7.5220E+01        0.0000E+00        6.0000E+01        0.0000E+00        1.6950E-13        1.6950E-14

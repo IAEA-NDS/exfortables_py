@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 94-PU-241(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 94 
+#   A: 241 
+#   Nuclide: 94-PU-241 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.0735e+01 MeV - 1.5755e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33053-002-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-241(N,F),,SIG,,,DERIV) 
+#   First author: V.V.Desai 
+#   Institute:  (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference:  (J,PR/C,87,034604,2013) 
+#   Year:  2013 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33053.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33053
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0735E+01        0.0000E+00        2.0664E+00        2.1430E-01
+        1.1739E+01        0.0000E+00        2.1700E+00        1.7200E-01
+        1.2743E+01        0.0000E+00        1.9466E+00        1.1240E-01
+        1.3747E+01        0.0000E+00        1.8741E+00        8.7700E-02
+        1.4751E+01        0.0000E+00        2.1467E+00        1.1280E-01
+        1.5755E+01        0.0000E+00        2.3657E+00        1.7500E-01

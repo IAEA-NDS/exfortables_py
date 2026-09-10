@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 47-AG-109(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 47 
+#   A: 109 
+#   Nuclide: 47-AG-109 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.1900e+01 MeV - 2.6500e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 111 
+#   Nuclide: 49-IN-111 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4327-010-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-109(A,2N)49-IN-111,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,351,6,2015) 
+#   Year:  2015 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4327.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4327
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1900E+01        6.0000E-01        3.0000E-04        2.0000E-05
+        1.2000E+01        5.0000E-01        3.0000E-04        3.0000E-05
+        1.3600E+01        5.0000E-01        2.5000E-03        1.4000E-04
+        1.5300E+01        5.0000E-01        6.3300E-02        3.4000E-03
+        1.6700E+01        5.0000E-01        2.6460E-01        1.4300E-02
+        1.8200E+01        4.0000E-01        4.4570E-01        2.4100E-02
+        1.9500E+01        4.0000E-01        6.7910E-01        3.6700E-02
+        2.0800E+01        4.0000E-01        8.0020E-01        4.3300E-02
+        2.2000E+01        4.0000E-01        9.8250E-01        5.3100E-02
+        2.3200E+01        3.0000E-01        9.9190E-01        5.3600E-02
+        2.4300E+01        3.0000E-01        1.1495E+00        6.2100E-02
+        2.5400E+01        3.0000E-01        1.1142E+00        6.0200E-02
+        2.6500E+01        3.0000E-01        1.2206E+00        6.6000E-02

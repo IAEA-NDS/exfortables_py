@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 49-IN-115(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 49 
+#   A: 115 
+#   Nuclide: 49-IN-115 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 114 
+#   Nuclide: 49-IN-114-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10214-012-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-115(N,2N)49-IN-114-M,,SIG) 
+#   First author: J.K.Temperley 
+#   Institute:  (1USABRL): Ballistic Research Labs, Aberdeen Proving Grounds, MD 
+#   Reference:  (R,BRL-R-1491,1970) 
+#   Year:  1970 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10214.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10214
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        5.0000E-01        1.2100E+00        1.4000E-01

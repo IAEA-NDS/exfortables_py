@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 47-AG-109(A,6N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 47 
+#   A: 109 
+#   Nuclide: 47-AG-109 
+# Reaction: 
+#   Process: A,6N 
+#   MF-MT number: 3 - 153 
+#   Incident energy:  6.1000e+01 MeV - 8.9100e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 107 
+#   Nuclide: 49-IN-107 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0319-030-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-109(A,6N)49-IN-107,,SIG,,,DERIV) 
+#   First author: P.Misaelides 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,JIN,42,937,1980) 
+#   Year:  1980 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A03/A0319.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0319
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.1000E+01        0.0000E+00        3.1000E-02        1.0200E-02
+        6.4100E+01        0.0000E+00        5.1000E-02        3.9000E-02
+        6.4600E+01        0.0000E+00        4.3000E-02        1.4200E-02
+        6.8000E+01        0.0000E+00        6.3000E-02        2.0800E-02
+        6.9400E+01        0.0000E+00        7.2000E-02        2.3800E-02
+        7.2100E+01        0.0000E+00        4.8000E-02        1.5000E-02
+        7.4700E+01        0.0000E+00        1.0900E-01        3.6000E-02
+        7.7300E+01        0.0000E+00        1.3400E-01        3.5000E-02
+        8.0000E+01        0.0000E+00        1.3400E-01        4.4200E-02
+        8.4700E+01        0.0000E+00        1.0200E-01        3.3700E-02
+        8.6200E+01        0.0000E+00        1.1700E-01        1.6000E-02
+        8.6900E+01        0.0000E+00        6.8000E-02        2.2400E-02
+        8.9100E+01        0.0000E+00        6.8000E-02        1.2000E-02

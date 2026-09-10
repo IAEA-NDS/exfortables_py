@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 37-RB-87(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 37 
+#   A: 87 
+#   Nuclide: 37-RB-87 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3000e+01 MeV - 1.6600e+01 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 86 
+#   Nuclide: 37-RB-86 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30350-008-0 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-87(N,2N)37-RB-86,,SIG) 
+#   First author: W.Augustyniak 
+#   Institute:  (3POLIFJ): Niewodniczanski Institute of Nuclear Physics, Krakow 
+#   Reference:  (J,APP/B,7,347,197605) 
+#   Year:  1976 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30350.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30350
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3000E+01        2.0000E-01        1.2400E+00        1.1500E-01
+        1.3300E+01        1.0000E-01        1.0900E+00        1.0700E-01
+        1.3800E+01        1.0000E-01        1.1270E+00        1.1200E-01
+        1.4500E+01        1.0000E-01        1.3070E+00        1.4000E-01
+        1.5100E+01        2.0000E-01        1.1260E+00        1.2000E-01
+        1.5400E+01        2.0000E-01        1.1760E+00        1.2000E-01
+        1.6000E+01        2.0000E-01        1.2090E+00        9.8000E-02
+        1.6600E+01        1.0000E-01        1.0270E+00        9.5000E-02

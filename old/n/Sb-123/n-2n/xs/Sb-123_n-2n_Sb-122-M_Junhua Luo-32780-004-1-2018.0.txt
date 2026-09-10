@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 51-SB-123(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 51 
+#   A: 123 
+#   Nuclide: 51-SB-123 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 122 
+#   Nuclide: 51-SB-122-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32780-004-1 (entry-subentry-pointer) 
+#   Reaction code: (51-SB-123(N,2N)51-SB-122-M,,SIG,,AV) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRHXU): Hexi University , Zhangye 
+#   Reference:  (J,ARI,140,115,2018) 
+#   Year:  2018.0 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32780.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32780
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3500E+01        2.0000E-01        4.9600E-01        5.2000E-02
+        1.4100E+01        2.0000E-01        5.5400E-01        5.4000E-02
+        1.4800E+01        2.0000E-01        5.9000E-01        6.2000E-02

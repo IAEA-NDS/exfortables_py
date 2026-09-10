@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 74-W-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 74 
+#   A: 0 
+#   Nuclide: 74-W-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.3400e+02 MeV - 2.5900e+03 MeV 
+# Residual: 
+#   Z: 65 
+#   A: 153 
+#   Nuclide: 65-TB-153 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1099-038-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-0(P,X)65-TB-153,CUM,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERUH): University Hannover (previously Tech.University Hannover) 
+#   Reference:  (J,NSTS,2,242,2002) 
+#   Year:  2002 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O10/O1099.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1099
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.3400E+02        1.6800E+00        6.2690E-04        1.3470E-04
+        5.5900E+02        1.4800E+00        1.1570E-02        1.2810E-03
+        7.6400E+02        1.4500E+00        2.2860E-02        2.4400E-03
+        9.8800E+02        1.0100E+00        3.1050E-02        3.3690E-03
+        1.1600E+03        1.3660E+00        3.0170E-02        3.2390E-03
+        1.3800E+03        1.0160E+00        2.8770E-02        3.0530E-03
+        1.5700E+03        1.2900E+00        2.7890E-02        3.2160E-03
+        2.5800E+03        1.0020E+00        2.0130E-02        3.8690E-03
+        2.5900E+03        1.0100E+00        1.4500E-02        1.5120E-03

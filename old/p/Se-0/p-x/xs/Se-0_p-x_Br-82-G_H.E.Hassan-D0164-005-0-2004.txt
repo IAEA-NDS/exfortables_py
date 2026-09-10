@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 34-SE-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 34 
+#   A: 0 
+#   Nuclide: 34-SE-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.9000e+00 MeV - 1.9900e+01 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 82 
+#   Nuclide: 35-BR-82-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0164-005-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-0(P,X)35-BR-82-G,M+,SIG) 
+#   First author: H.E.Hassan 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,ARI,60,899,2004) 
+#   Year:  2004 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D01/D0164.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0164
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.9000E+00        1.0000E+00        3.1500E-02        3.2000E-03
+        8.6000E+00        1.0000E+00        5.8800E-02        5.9000E-03
+        9.1000E+00        7.0000E-01        6.8000E-02        6.8000E-03
+        9.4000E+00        8.0000E-01        8.0000E-02        8.0000E-03
+        1.1300E+01        8.0000E-01        5.5000E-02        5.5000E-03
+        1.1500E+01        5.0000E-01        3.4600E-02        3.5000E-03
+        1.1700E+01        9.0000E-01        2.0800E-02        2.1000E-03
+        1.2100E+01        7.0000E-01        1.7500E-02        1.7000E-03
+        1.2800E+01        5.0000E-01        1.6400E-02        1.6000E-03
+        1.4800E+01        5.0000E-01        7.3000E-03        7.0000E-04
+        1.5000E+01        5.0000E-01        7.3000E-03        7.0000E-04
+        1.5800E+01        8.0000E-01        5.3000E-03        5.0000E-04
+        1.6800E+01        5.0000E-01        5.2000E-03        5.0000E-04
+        1.7900E+01        7.0000E-01        4.0000E-03        4.0000E-04
+        1.9500E+01        5.0000E-01        4.9000E-03        5.0000E-04
+        1.9900E+01        3.0000E-01        5.3000E-03        5.0000E-04

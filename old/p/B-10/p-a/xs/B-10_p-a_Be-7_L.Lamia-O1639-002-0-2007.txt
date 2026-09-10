@@ -1,0 +1,50 @@
+# Header: 
+#   Title: 5-B-10(P,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 5 
+#   A: 10 
+#   Nuclide: 5-B-10 
+# Reaction: 
+#   Process: P,A 
+#   MF-MT number: 3 - 107.0 
+#   Incident energy:  8.8000e-03 MeV - 4.0980e-01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1639-002-0 (entry-subentry-pointer) 
+#   Reaction code: (5-B-10(P,A)4-BE-7,,SIG,,SFC) 
+#   First author: L.Lamia 
+#   Institute:  (2ITYLNS): INFN Laboratori Nazionali del Sud, Catania 
+#   Reference:  (J,NP/A,787,309,2007) 
+#   Year:  2007 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O16/O1639.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1639
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
+        8.8000E-03        1.6000E-03        2.2000E+08        1.1000E+08
+        2.8700E-02        1.6000E-03        3.2000E+08        1.6000E+08
+        4.7200E-02        1.6000E-03        3.0000E+08        1.5000E+08
+        6.8000E-02        1.6000E-03        2.4000E+08        1.2000E+08
+        8.6400E-02        1.6000E-03        1.7000E+08        8.5000E+07
+        1.0830E-01        1.6000E-03        1.2000E+08        6.0000E+07
+        1.3010E-01        1.6000E-03        8.0000E+07        4.0000E+07
+        1.4850E-01        1.6000E-03        5.2000E+07        2.6000E+07
+        1.6920E-01        1.6000E-03        3.8000E+07        1.9000E+07
+        1.8770E-01        1.6000E-03        2.8000E+07        1.4000E+07
+        2.0960E-01        1.6000E-03        2.3000E+07        1.1500E+07
+        2.3040E-01        1.6000E-03        1.9000E+07        9.5000E+06
+        2.4890E-01        1.6000E-03        1.7000E+07        8.5000E+06
+        2.6970E-01        1.6000E-03        1.5000E+07        7.5000E+06
+        2.8940E-01        1.6000E-03        1.4000E+07        7.0000E+06
+        3.0790E-01        1.6000E-03        1.3000E+07        6.5000E+06
+        3.3110E-01        1.6000E-03        1.3000E+07        6.5000E+06
+        3.4960E-01        1.6000E-03        1.2000E+07        6.0000E+06
+        3.7040E-01        1.6000E-03        1.1000E+07        5.5000E+06
+        3.8900E-01        1.6000E-03        1.1000E+07        5.5000E+06
+        4.0980E-01        1.6000E-03        1.1000E+07        5.5000E+06

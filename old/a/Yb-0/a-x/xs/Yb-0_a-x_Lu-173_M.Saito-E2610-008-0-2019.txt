@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 70-YB-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 70 
+#   A: 0 
+#   Nuclide: 70-YB-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.8600e+01 MeV - 4.9400e+01 MeV 
+# Residual: 
+#   Z: 71 
+#   A: 173 
+#   Nuclide: 71-LU-173 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2610-008-0 (entry-subentry-pointer) 
+#   Reaction code: (70-YB-0(A,X)71-LU-173,CUM,SIG) 
+#   First author: M.Saito 
+#   Institute:  (2JPNHOK): Hokkaido Univesity, Sapporo 
+#   Reference:  (J,NIM/B,453,15,2019) 
+#   Year:  2019 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E26/E2610.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2610
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.9400E+01        7.0000E-01        5.2080E-01        5.9900E-02
+        4.8300E+01        7.0000E-01        4.4950E-01        5.1700E-02
+        4.7100E+01        7.0000E-01        4.1090E-01        4.7300E-02
+        4.6000E+01        7.0000E-01        3.9510E-01        4.5400E-02
+        4.4800E+01        7.0000E-01        4.2540E-01        4.8900E-02
+        4.3600E+01        7.0000E-01        4.1250E-01        4.7400E-02
+        4.0600E+01        7.0000E-01        4.5670E-01        5.2700E-02
+        3.9400E+01        7.0000E-01        4.3580E-01        5.0100E-02
+        3.8100E+01        8.0000E-01        4.0550E-01        4.6600E-02
+        3.4900E+01        8.0000E-01        3.3550E-01        3.8600E-02
+        3.1400E+01        9.0000E-01        2.7170E-01        3.1200E-02
+        2.7600E+01        9.0000E-01        1.6330E-01        1.8700E-02
+        2.3400E+01        1.1000E+00        9.7000E-02        1.1100E-02
+        1.8600E+01        1.3000E+00        7.9000E-03        9.0000E-04

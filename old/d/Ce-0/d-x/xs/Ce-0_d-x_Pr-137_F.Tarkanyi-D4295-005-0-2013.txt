@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 58-CE-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 58 
+#   A: 0 
+#   Nuclide: 58-CE-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.3400e+01 MeV - 4.9100e+01 MeV 
+# Residual: 
+#   Z: 59 
+#   A: 137 
+#   Nuclide: 59-PR-137 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4295-005-0 (entry-subentry-pointer) 
+#   Reaction code: (58-CE-0(D,X)59-PR-137,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,316,22,2013) 
+#   Year:  2013 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4295.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4295
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.3400E+01        4.0000E-01        3.1190E-01        6.8700E-02
+        4.4200E+01        4.0000E-01        3.4130E-01        1.3950E-01
+        4.4900E+01        4.0000E-01        2.8630E-01        1.6640E-01
+        4.5600E+01        4.0000E-01        3.4670E-01        6.1000E-02
+        4.7000E+01        4.0000E-01        4.8770E-01        1.6660E-01
+        4.7700E+01        3.0000E-01        4.7630E-01        6.5300E-02
+        4.8400E+01        3.0000E-01        5.9350E-01        1.3150E-01
+        4.9100E+01        3.0000E-01        5.5760E-01        7.4800E-02

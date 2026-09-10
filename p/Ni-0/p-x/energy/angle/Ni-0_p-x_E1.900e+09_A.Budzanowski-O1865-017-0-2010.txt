@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 28-NI-0(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.9000e+03 MeV 
+# Residual: 
+#   Z: 5 
+#   A: 12 
+#   Nuclide: 5-B-12 
+#   Outgoing energy:  3.4500e+01 MeV - 4.3500e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O1865-017-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(P,X)5-B-12,,DA/DE) 
+#   First author: A.Budzanowski 
+#   Institute:  (3POLIFJ): Niewodniczanski Institute of Nuclear Physics, Krakow 
+#   Reference:  (J,PR/C,82,034605,2010) 
+#   Year:  2010 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O18/O1865.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1865
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        3.7500E+01        0.0000E+00        3.5000E+01        0.0000E+00        5.9000E-13        3.9000E-13
+        4.0500E+01        0.0000E+00        3.5000E+01        0.0000E+00        5.9000E-13        3.9000E-13
+        4.3500E+01        0.0000E+00        3.5000E+01        0.0000E+00        1.8000E-12        1.8000E-12
+        3.4500E+01        0.0000E+00        5.0000E+01        0.0000E+00        8.9000E-13        4.0000E-13
+        3.7500E+01        0.0000E+00        5.0000E+01        0.0000E+00        8.9000E-13        4.0000E-13
+        4.0500E+01        0.0000E+00        5.0000E+01        0.0000E+00        2.7000E-12        2.1000E-12
+        4.2500E+01        0.0000E+00        8.0000E+01        0.0000E+00        7.6000E-13        9.3000E-13

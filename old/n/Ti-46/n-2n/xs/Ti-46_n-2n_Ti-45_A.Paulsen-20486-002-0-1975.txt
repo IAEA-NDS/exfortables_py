@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 22-TI-46(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 22 
+#   A: 46 
+#   Nuclide: 22-TI-46 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3790e+01 MeV - 1.9590e+01 MeV 
+# Residual: 
+#   Z: 22 
+#   A: 45 
+#   Nuclide: 22-TI-45 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20486-002-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-46(N,2N)22-TI-45,,SIG) 
+#   First author: A.Paulsen 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,AKE,26,34,7508) 
+#   Year:  1975 
+#   Facility:  (VDG  ): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20486.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20486
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3790E+01        2.4000E-01        1.8600E-02        3.5000E-03
+        1.4050E+01        2.5000E-01        1.6200E-02        1.7000E-03
+        1.4420E+01        2.7000E-01        2.8300E-02        2.4000E-03
+        1.4710E+01        2.8000E-01        4.3200E-02        2.8000E-03
+        1.5090E+01        2.9000E-01        6.1100E-02        4.2000E-03
+        1.5370E+01        2.9000E-01        9.0500E-02        5.7000E-03
+        1.5750E+01        2.8000E-01        1.1200E-01        8.0000E-03
+        1.5990E+01        2.8000E-01        1.1700E-01        7.0000E-03
+        1.6250E+01        2.7000E-01        1.3100E-01        9.0000E-03
+        1.6420E+01        2.7000E-01        1.4200E-01        8.0000E-03
+        1.6610E+01        2.6000E-01        1.4900E-01        9.0000E-03
+        1.7270E+01        4.7000E-01        1.8800E-01        1.8000E-02
+        1.7750E+01        4.5000E-01        1.9700E-01        1.4000E-02
+        1.8330E+01        4.1000E-01        2.1800E-01        1.5000E-02
+        1.8710E+01        3.7000E-01        2.3200E-01        1.4000E-02
+        1.9130E+01        3.1000E-01        2.2600E-01        1.4000E-02
+        1.9360E+01        2.6000E-01        2.3500E-01        1.4000E-02
+        1.9590E+01        2.3000E-01        2.3900E-01        1.4000E-02

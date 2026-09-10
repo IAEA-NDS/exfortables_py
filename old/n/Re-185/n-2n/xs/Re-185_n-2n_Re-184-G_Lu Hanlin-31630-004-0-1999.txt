@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 75-RE-185(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 75 
+#   A: 185 
+#   Nuclide: 75-RE-185 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4440e+01 MeV - 1.4470e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 184 
+#   Nuclide: 75-RE-184-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31630-004-0 (entry-subentry-pointer) 
+#   Reaction code: (75-RE-185(N,2N)75-RE-184-G,,SIG) 
+#   First author: Lu Hanlin 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CST,33,(5),410,199909) 
+#   Year:  1999 
+#   Facility:  (FNS): Fusion neutron source 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31630.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31630
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4440E+01        0.0000E+00        1.8860E+00        7.5000E-02
+        1.4470E+01        0.0000E+00        1.8860E+00        7.1000E-02

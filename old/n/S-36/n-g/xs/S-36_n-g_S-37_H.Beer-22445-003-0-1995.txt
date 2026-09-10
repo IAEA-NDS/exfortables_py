@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 16-S-36(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 16 
+#   A: 36 
+#   Nuclide: 16-S-36 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.5100e-01 MeV - 2.1800e-01 MeV 
+# Residual: 
+#   Z: 16 
+#   A: 37 
+#   Nuclide: 16-S-37 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22445-003-0 (entry-subentry-pointer) 
+#   Reaction code: (16-S-36(N,G)16-S-37,,SIG,,SPA) 
+#   First author: H.Beer 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,PR/C,52,3442,1995) 
+#   Year:  1995 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22445.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22445
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5100E-01        1.5000E-02        8.1000E-05        7.0000E-06
+        1.7600E-01        2.0000E-02        1.2500E-04        1.1000E-05
+        2.1800E-01        2.3000E-02        7.8000E-05        7.0000E-06

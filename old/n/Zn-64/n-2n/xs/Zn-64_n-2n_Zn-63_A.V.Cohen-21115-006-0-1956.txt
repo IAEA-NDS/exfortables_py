@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 30-ZN-64(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3050e+01 MeV - 1.7550e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 63 
+#   Nuclide: 30-ZN-63 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21115-006-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(N,2N)30-ZN-63,,SIG) 
+#   First author: A.V.Cohen 
+#   Institute:  (2UK LON): University of London, London, England 
+#   Reference:  (J,NP,1,73,5602) 
+#   Year:  1956 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/211/21115.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21115
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3050E+01        1.5000E-01        1.2000E-01        2.5000E-02
+        1.3150E+01        1.5000E-01        1.3500E-01        2.0000E-02
+        1.3200E+01        1.5000E-01        2.0000E-01        2.0000E-02
+        1.3900E+01        1.5000E-01        1.7000E-01        2.0000E-02
+        1.3900E+01        1.5000E-01        2.0500E-01        2.0000E-02
+        1.4000E+01        1.5000E-01        1.5000E-01        3.0000E-02
+        1.4450E+01        2.0000E-01        2.7000E-01        2.5000E-02
+        1.4650E+01        1.5000E-01        2.6500E-01        1.5000E-02
+        1.4900E+01        1.5000E-01        2.9500E-01        2.5000E-02
+        1.5050E+01        2.5000E-01        2.6500E-01        2.0000E-02
+        1.5400E+01        2.0000E-01        2.8000E-01        2.0000E-02
+        1.5500E+01        3.0000E-01        3.1500E-01        2.0000E-02
+        1.5850E+01        1.5000E-01        4.3000E-01        3.0000E-02
+        1.6100E+01        3.5000E-01        3.4000E-01        3.5000E-02
+        1.6200E+01        2.0000E-01        3.3500E-01        2.0000E-02
+        1.6700E+01        2.5000E-01        3.5500E-01        5.0000E-02
+        1.6750E+01        1.5000E-01        4.8500E-01        3.5000E-02
+        1.7550E+01        2.0000E-01        5.1000E-01        5.0000E-02

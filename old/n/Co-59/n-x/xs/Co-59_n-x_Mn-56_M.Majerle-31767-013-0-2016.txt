@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 27-CO-59(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.7300e+01 MeV - 3.5500e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 56 
+#   Nuclide: 25-MN-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31767-013-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,X)25-MN-56,,SIG) 
+#   First author: M.Majerle 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,NP/A,953,139,2016) 
+#   Year:  2016 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31767.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31767
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.7300E+01        1.1000E+00        1.7000E-02        3.5000E-03
+        2.2100E+01        1.1000E+00        5.9000E-03        1.2000E-03
+        2.4500E+01        1.1000E+00        5.6000E-03        1.0000E-03
+        2.7600E+01        1.0000E+00        5.7000E-03        9.0000E-04
+        2.9800E+01        1.0000E+00        5.9000E-03        9.0000E-04
+        3.2600E+01        1.0000E+00        7.3000E-03        2.0000E-03
+        3.5500E+01        1.0000E+00        2.5000E-03        1.0000E-03

@@ -1,0 +1,50 @@
+# Header: 
+#   Title: 8-O-16(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 50 
+#   Incident energy:  1.7470e+01 MeV - 3.0000e+01 MeV 
+# Residual: 
+#   Z: 8 
+#   A: 15 
+#   Nuclide: 8-O-15 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: M0307-014-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(G,N)8-O-15,PAR,SIG,,BRS) 
+#   First author: C.Milone 
+#   Institute:  (2ITYCAT): Universita degli Studi di Catania + INFN Catania 
+#   Reference:  (J,NC,13,(5),1035,1959) 
+#   Year:  1959 
+#   Facility:  (BETAT): Betatron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M03/M0307.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0307
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7470E+01        2.7000E-01        7.0000E-04        0.0000E+00
+        1.8000E+01        2.7000E-01        9.0000E-04        0.0000E+00
+        1.8530E+01        2.7000E-01        8.0000E-04        0.0000E+00
+        1.9070E+01        2.7000E-01        2.3000E-03        0.0000E+00
+        1.9600E+01        2.7000E-01        3.2000E-03        0.0000E+00
+        2.0130E+01        2.7000E-01        4.2000E-03        0.0000E+00
+        2.0670E+01        2.7000E-01        5.2000E-03        0.0000E+00
+        2.1200E+01        2.7000E-01        5.4000E-03        0.0000E+00
+        2.1730E+01        2.7000E-01        9.0000E-03        0.0000E+00
+        2.2260E+01        2.7000E-01        5.8000E-03        0.0000E+00
+        2.2800E+01        2.7000E-01        8.7000E-03        0.0000E+00
+        2.3330E+01        2.7000E-01        3.8000E-03        0.0000E+00
+        2.3870E+01        2.7000E-01        8.1000E-03        0.0000E+00
+        2.4400E+01        2.7000E-01        8.7000E-03        0.0000E+00
+        2.4930E+01        2.7000E-01        4.0000E-03        0.0000E+00
+        2.5470E+01        2.7000E-01        3.0000E-03        0.0000E+00
+        2.6000E+01        2.7000E-01        5.4000E-03        0.0000E+00
+        2.6800E+01        5.3000E-01        1.8000E-03        0.0000E+00
+        2.7870E+01        5.3000E-01        2.6000E-03        0.0000E+00
+        2.8930E+01        5.3000E-01        1.8000E-03        0.0000E+00
+        3.0000E+01        5.3000E-01        2.3000E-03        0.0000E+00

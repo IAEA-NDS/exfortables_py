@@ -1,0 +1,28 @@
+# Header: 
+#   title: 48-CD-0(N,TOT) thermal cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 48 
+#   A: 0 
+#   Nuclide: 48-CD-0 
+# Reaction: 
+#   Type: N,TOT 
+#   Type: N,TOT 
+#   Incident energy       : 2.5000e-08 MeV - 2.5300e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Thermal Simple Mean       |  Simple Stdev        : 2.45250E+03  |   3.53553E+00   (N = 2)
+#   Thermal Weighted Mean    +/- Weighted Error      : 2.45471E+03 +/-  9.70143E+00   (N = 2)
+#   MXW Simple Mean           |  Simple Stdev        : 3.30000E+03  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+21034-004-0         F.Widder                1968   2.5300E-08   0.0000E+00   2.4550E+03   1.0000E+01                
+23196-034-0         K.Volev                 2013   2.5300E-08   0.0000E+00   2.4500E+03   4.0000E+01                
+12634-042-0         J.R.Dunning             1935   2.5000E-08   0.0000E+00   3.3000E+03   0.0000E+00     MXW        

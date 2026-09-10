@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 50-SN-112(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 50 
+#   A: 112 
+#   Nuclide: 50-SN-112 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.1800e+01 MeV - 1.3850e+01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 111 
+#   Nuclide: 50-SN-111 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11504-013-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-112(N,2N)50-SN-111,,SIG) 
+#   First author: H.A.Tewes 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (R,UCRL-6028-T,1960) 
+#   Year:  1960 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11504.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11504
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1800E+01        2.0000E-01        1.0900E-01        2.1800E-02
+        1.2800E+01        2.0000E-01        5.1200E-01        1.0240E-01
+        1.3850E+01        2.0000E-01        7.2600E-01        1.4520E-01

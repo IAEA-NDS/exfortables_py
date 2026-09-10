@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 92-U-238(6-C-12,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: 6-C-12,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.7061e+01 MeV - 7.7975e+01 MeV 
+# Residual: 
+#   Z: 98 
+#   A: 246 
+#   Nuclide: 98-CF-246 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1385-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(6-C-12,X)98-CF-246,,SIG) 
+#   First author: V.V.Volkov 
+#   Institute:  (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
+#   Reference:  (J,ZET,36,762,1959) 
+#   Year:  1959 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F13/F1385.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1385
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.7061E+01        2.3000E-02        5.1900E-07        0.0000E+00
+        5.9990E+01        2.3000E-02        1.1365E-05        4.1880E-06
+        6.0001E+01        2.3000E-02        4.0360E-06        2.3560E-06
+        6.2002E+01        2.3000E-02        1.3276E-05        3.4030E-06
+        6.2933E+01        2.3000E-02        1.2788E-05        2.6170E-06
+        6.4290E+01        2.3000E-02        3.7970E-05        7.0710E-06
+        6.6016E+01        2.3000E-02        5.8716E-05        8.1160E-06
+        6.6429E+01        2.3000E-02        5.8732E-05        9.1610E-06
+        6.8505E+01        2.3000E-02        5.3053E-05        7.5930E-06
+        6.9035E+01        2.3000E-02        4.4436E-05        7.0670E-06
+        7.0483E+01        2.3000E-02        4.3707E-05        6.0200E-06
+        7.2021E+01        2.3000E-02        1.7329E-05        2.6170E-06
+        7.2526E+01        2.3000E-02        2.5463E-05        2.8790E-06
+        7.5026E+01        2.3000E-02        1.1949E-05        2.0940E-06
+        7.5163E+01        2.3000E-02        2.4257E-05        3.9260E-06
+        7.7972E+01        2.3000E-02        1.2063E-05        2.0940E-06
+        7.7975E+01        2.3000E-02        1.0231E-05        1.8320E-06

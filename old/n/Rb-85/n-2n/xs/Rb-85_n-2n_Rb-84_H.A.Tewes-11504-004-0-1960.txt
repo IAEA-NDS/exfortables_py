@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 37-RB-85(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 37 
+#   A: 85 
+#   Nuclide: 37-RB-85 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.0350e+01 MeV - 1.4500e+01 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 84 
+#   Nuclide: 37-RB-84 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11504-004-0 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-85(N,2N)37-RB-84,,SIG) 
+#   First author: H.A.Tewes 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (R,UCRL-6028-T,1960) 
+#   Year:  1960 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11504.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11504
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0350E+01        2.0000E-01        4.6000E-02        1.8400E-02
+        1.1500E+01        2.0000E-01        2.8400E-01        1.1360E-01
+        1.2300E+01        2.0000E-01        8.7000E-01        3.4800E-01
+        1.3850E+01        2.0000E-01        1.4500E+00        5.8000E-01
+        1.4500E+01        2.0000E-01        1.8700E+00        7.4800E-01

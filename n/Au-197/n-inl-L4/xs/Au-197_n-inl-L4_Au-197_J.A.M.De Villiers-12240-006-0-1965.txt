@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 79-AU-197(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 54.0 
+#   Incident energy:  1.0000e+00 MeV - 1.2000e+00 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+#   Level energy: 4.0900e-01 MeV 
+# EXFOR BIB:
+#   Entry id: 12240-006-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,INL)79-AU-197,PAR,SIG) 
+#   First author: J.A.M.De Villiers 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,ZP,183,323,65) 
+#   Year:  1965 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12240.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12240
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.0000E+00        0.0000E+00        1.0000E-01        4.0000E-02
+        1.0000E+00        0.0000E+00        1.2000E-01        4.0000E-02
+        1.1000E+00        0.0000E+00        1.3000E-01        5.0000E-02
+        1.2000E+00        0.0000E+00        1.3000E-01        4.0000E-02

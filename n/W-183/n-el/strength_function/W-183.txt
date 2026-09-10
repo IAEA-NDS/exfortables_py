@@ -1,0 +1,36 @@
+# Header: 
+#   title: 74-W-183(N,EL) strength function 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 74 
+#   A: 183 
+#   Nuclide: 74-W-183 
+# Reaction: 
+#   Type: N,EL 
+#   Type: N,EL 
+#   Incident energy       : 1.0059e-04 MeV - 2.0250e-01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Strength Function Simple Mean  |  Simple Stdev        : 1.93750E-04  |   7.79831E-05   (N = 8)
+#   Strength Function Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 8)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [NO-DIM]     dData         sf8    sf9
+10507-003-2         H.S.Camarda             1973   1.3200E-03   0.0000E+00   1.6500E-04   0.0000E+00                
+22065-004-1         M.Ohkubo                1984   1.1000E-03   0.0000E+00   1.2400E-04   0.0000E+00                
+40977-015-0         V.N.Kononov             1987   2.0250E-01   0.0000E+00   7.0000E-05   0.0000E+00                
+40977-015-0         V.N.Kononov             1987   2.0250E-01   0.0000E+00   1.7000E-04   0.0000E+00                
+10002-026-1         Z.M.Bartolome           1969   4.5650E-04   0.0000E+00   2.4100E-04   0.0000E+00                
+21316-011-0         F.W.K.Firk              1959   1.0059E-04   0.0000E+00   3.0000E-04   0.0000E+00                
+21316-011-0         F.W.K.Firk              1959   1.0059E-04   0.0000E+00   2.8000E-04   0.0000E+00                
+11458-013-0         R.C.Block               1966   4.0000E-04   0.0000E+00   2.0000E-04   0.0000E+00                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [NO-DIM]     dData         sf8    sf9
+10999-011-1         R.L.Macklin             1983   5.7800E-02   3.4658E-06          NAN   0.0000E+00           DERIV
+10999-011-1         R.L.Macklin             1983   5.7800E-02   3.4658E-06   7.2000E-05   0.0000E+00           DERIV
+10999-011-1         R.L.Macklin             1983   5.7800E-02   3.4658E-06   2.9000E-05   0.0000E+00           DERIV

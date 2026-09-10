@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 42-MO-98(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 98 
+#   Nuclide: 42-MO-98 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102.0 
+#   Incident energy:  1.6700e+00 MeV - 2.6600e+00 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 99 
+#   Nuclide: 42-MO-99 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33197-002-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-98(N,G)42-MO-99,,SIG) 
+#   First author: M.Upadhyay 
+#   Institute:  (3CZRCZR): Czech Republic 
+#   Reference:  (J,JP/G,50,125107,2023) 
+#   Year:  2023 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33197.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33197
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.6700E+00        1.4000E-01        1.0848E-02        1.1542E-03
+        2.0600E+00        1.4000E-01        1.2241E-02        9.9885E-04
+        2.6600E+00        1.6000E-01        8.2430E-03        7.1632E-04

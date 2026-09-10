@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 29-CU-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.7500e+01 MeV - 3.9400e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 66 
+#   Nuclide: 31-GA-66 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0090-003-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(A,X)31-GA-66,,SIG) 
+#   First author: I.A.Rizvi 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  (J,JPJ,56,3135,1987) 
+#   Year:  1987 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D00/D0090.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0090
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.7500E+01        0.0000E+00        3.5640E-02        2.7000E-04
+        3.0100E+01        0.0000E+00        5.3050E-02        5.2000E-04
+        3.2700E+01        0.0000E+00        7.2360E-02        1.4500E-03
+        3.5000E+01        0.0000E+00        1.1469E-01        1.7300E-03
+        3.7300E+01        0.0000E+00        1.7032E-01        1.7500E-03
+        3.9400E+01        0.0000E+00        2.0908E-01        1.9200E-03

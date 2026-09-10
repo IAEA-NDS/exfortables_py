@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 28-NI-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.8150e+01 MeV - 3.8450e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 56 
+#   Nuclide: 27-CO-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6467-002-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(A,X)27-CO-56,(CUM),SIG) 
+#   First author: N.Singh 
+#   Institute:  (3INDBHU): Banaras Hindu University , Varanasi 
+#   Reference:  (J,EPJ/A,60,24,2024) 
+#   Year:  2024 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D64/D6467.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6467
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.8150E+01        1.0300E+00        4.0000E-05        4.0000E-06
+        3.1850E+01        3.2000E-01        8.0000E-05        7.0000E-06
+        3.5260E+01        1.7300E+00        9.7000E-04        9.0000E-05
+        3.8450E+01        1.1500E+00        5.6100E-03        5.3000E-04

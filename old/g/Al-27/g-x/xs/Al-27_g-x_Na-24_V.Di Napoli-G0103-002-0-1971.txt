@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 13-AL-27(G,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: G,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.0000e+02 MeV - 1.0000e+03 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: G0103-002-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(G,X)11-NA-24,,SIG,,BRA) 
+#   First author: V.Di Napoli 
+#   Institute:  (2ITYROM): University degli Studi di Roma "La Sapienza" + INFN Roma 1 
+#   Reference:  (J,NCL,1,835,1971) 
+#   Year:  1971 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G01/G0103.x4 
+#   nds:  https://nds.iaea.org/EXFOR/G0103
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.0000E+02        0.0000E+00        3.7400E-04        1.0000E-05
+        3.2000E+02        0.0000E+00        3.9500E-04        1.0000E-05
+        3.5000E+02        0.0000E+00        3.9400E-04        1.0000E-05
+        3.8000E+02        0.0000E+00        4.1500E-04        1.0000E-05
+        4.2000E+02        0.0000E+00        4.5200E-04        9.0000E-06
+        4.5000E+02        0.0000E+00        4.8400E-04        1.1000E-05
+        5.0000E+02        0.0000E+00        4.9200E-04        1.3000E-05
+        5.5000E+02        0.0000E+00        5.0500E-04        1.1000E-05
+        6.0000E+02        0.0000E+00        5.2500E-04        1.9000E-05
+        6.5000E+02        0.0000E+00        5.2500E-04        2.0000E-05
+        7.0000E+02        0.0000E+00        5.6400E-04        1.8000E-05
+        7.5000E+02        0.0000E+00        5.5300E-04        2.2000E-05
+        8.4000E+02        0.0000E+00        6.0400E-04        1.9000E-05
+        9.0000E+02        0.0000E+00        5.9400E-04        1.8000E-05
+        1.0000E+03        0.0000E+00        6.6500E-04        1.9000E-05

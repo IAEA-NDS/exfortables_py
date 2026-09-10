@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 95-AM-241(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 95 
+#   A: 241 
+#   Nuclide: 95-AM-241 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  9.0000e+00 MeV - 1.5600e+01 MeV 
+# Residual: 
+#   Z: 95 
+#   A: 240 
+#   Nuclide: 95-AM-240 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: L0156-004-0 (entry-subentry-pointer) 
+#   Reaction code: (95-AM-241(G,N)95-AM-240,,SIG) 
+#   First author: A.P.Tonchev 
+#   Institute:  (1USADKE): Duke University, Durham, NC 
+#   Reference:  (J,PR/C,82,054620,2010) 
+#   Year:  2010 
+#   Facility:  (ESTRG): Electron storage ring 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L01/L0156.x4 
+#   nds:  https://nds.iaea.org/EXFOR/L0156
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.0000E+00        1.3000E-01        3.3000E-02        1.3000E-02
+        9.7000E+00        1.4000E-01        6.0000E-02        5.0000E-03
+        1.0000E+01        1.5000E-01        9.1000E-02        1.3000E-02
+        1.0470E+01        1.6000E-01        1.5200E-01        1.5000E-02
+        1.1200E+01        1.7000E-01        1.8600E-01        1.1000E-02
+        1.2200E+01        1.7000E-01        2.0100E-01        8.0000E-03
+        1.2900E+01        1.9000E-01        1.7900E-01        1.1000E-02
+        1.3600E+01        2.0000E-01        1.5900E-01        5.0000E-03
+        1.5600E+01        2.4000E-01        7.0000E-02        3.0000E-03

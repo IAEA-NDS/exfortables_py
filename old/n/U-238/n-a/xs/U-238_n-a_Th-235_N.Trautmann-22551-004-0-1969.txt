@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-238(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 90 
+#   A: 235 
+#   Nuclide: 90-TH-235 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22551-004-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,A)90-TH-235,,SIG) 
+#   First author: N.Trautmann 
+#   Institute:  (2GERMNZ): Johannes Gutenberg-Universitaet Mainz, Mainz 
+#   Reference:  (J,RCA,11,168,1969) 
+#   Year:  1969 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/225/22551.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22551
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4800E+01        3.0000E-01        6.0000E-04        1.5000E-04

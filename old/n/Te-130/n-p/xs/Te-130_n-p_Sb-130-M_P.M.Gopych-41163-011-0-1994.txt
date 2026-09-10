@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 52-TE-130(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 52 
+#   A: 130 
+#   Nuclide: 52-TE-130 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 130 
+#   Nuclide: 51-SB-130-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41163-011-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-130(N,P)51-SB-130-M,,SIG) 
+#   First author: P.M.Gopych 
+#   Institute:  (4UKRKHU): Kharkivsky Natsionalny University "V.N. Karazin", Kharkiv 
+#   Reference:  (J,PAN,57,363,1994) 
+#   Year:  1994 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41163.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41163
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4600E+01        2.0000E-01        7.0000E-04        2.0000E-04

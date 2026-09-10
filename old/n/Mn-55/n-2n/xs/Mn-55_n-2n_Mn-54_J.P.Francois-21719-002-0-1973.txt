@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 25-MN-55(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 25 
+#   A: 55 
+#   Nuclide: 25-MN-55 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16.0 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 54 
+#   Nuclide: 25-MN-54 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21719-002-0 (entry-subentry-pointer) 
+#   Reaction code: (25-MN-55(N,2N)25-MN-54,,SIG,,FIS) 
+#   First author: J.P.Francois 
+#   Institute:  (2BLGGHT): Universiteit Gent, Gent 
+#   Reference:  (J,JIN,35,(2),381,7302) 
+#   Year:  1973 
+#   Facility:  (REAC ): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21719.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21719
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5000E+00        0.0000E+00        2.1000E-04        3.5700E-05

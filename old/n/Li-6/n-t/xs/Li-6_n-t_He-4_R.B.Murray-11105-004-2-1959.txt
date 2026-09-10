@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 3-LI-6(N,T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: N,T 
+#   MF-MT number: 3 - 105 
+#   Incident energy:  1.7200e+00 MeV - 4.1300e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11105-004-2 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(N,T)2-HE-4,,SIG) 
+#   First author: R.B.Murray 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,PR,115,1707,1959) 
+#   Year:  1959 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/111/11105.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11105
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.7200E+00        0.0000E+00        2.6000E-01        1.8000E-02
+        2.0100E+00        0.0000E+00        2.4100E-01        1.3000E-02
+        2.1700E+00        0.0000E+00        2.4000E-01        1.7000E-02
+        2.5200E+00        0.0000E+00        2.0000E-01        1.3000E-02
+        2.5400E+00        0.0000E+00        1.9800E-01        1.0000E-02
+        2.7700E+00        0.0000E+00        1.8200E-01        1.2000E-02
+        3.1000E+00        0.0000E+00        1.5600E-01        8.0000E-03
+        3.1600E+00        0.0000E+00        1.4400E-01        1.0000E-02
+        3.2100E+00        0.0000E+00        1.3800E-01        1.0000E-02
+        3.5300E+00        0.0000E+00        1.2500E-01        7.0000E-03
+        4.1300E+00        0.0000E+00        1.0300E-01        5.0000E-03

@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 53-I-127(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 53 
+#   A: 127 
+#   Nuclide: 53-I-127 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  9.5000e+00 MeV - 1.5150e+01 MeV 
+# Residual: 
+#   Z: 55 
+#   A: 131 
+#   Nuclide: 55-CS-131 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4273-003-0 (entry-subentry-pointer) 
+#   Reaction code: (53-I-127(A,G)55-CS-131,,SIG) 
+#   First author: G.G.Kiss 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,PR/C,86,035801,2012) 
+#   Year:  2012 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4273.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4273
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.5000E+00        1.2000E-01        1.8000E-07        4.0000E-08
+        1.0000E+01        9.0000E-02        6.5000E-07        1.2000E-07
+        1.0710E+01        8.0000E-02        1.7600E-06        2.9000E-07
+        1.1130E+01        6.0000E-02        3.9000E-06        7.9000E-07
+        1.1600E+01        6.0000E-02        8.5400E-06        7.4000E-07
+        1.2220E+01        6.0000E-02        2.1600E-05        1.7000E-06
+        1.2590E+01        9.0000E-02        3.3400E-05        2.6000E-06
+        1.3180E+01        9.0000E-02        4.2800E-05        3.5000E-06
+        1.3550E+01        7.0000E-02        6.3500E-05        5.0000E-06
+        1.4190E+01        9.0000E-02        9.6600E-05        7.3000E-06
+        1.4530E+01        8.0000E-02        1.2320E-04        9.2000E-06
+        1.5150E+01        1.0000E-01        1.2770E-04        1.1000E-05

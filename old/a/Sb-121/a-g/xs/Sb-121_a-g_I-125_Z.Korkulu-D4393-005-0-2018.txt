@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 51-SB-121(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 51 
+#   A: 121 
+#   Nuclide: 51-SB-121 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  9.7400e+00 MeV - 1.3050e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 125 
+#   Nuclide: 53-I-125 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4393-005-0 (entry-subentry-pointer) 
+#   Reaction code: (51-SB-121(A,G)53-I-125,,SIG) 
+#   First author: Z.Korkulu 
+#   Institute:  (2TUKKOC): Kocaeli University, Kocaeli 
+#   Reference:  (J,PR/C,97,045803,2018) 
+#   Year:  2018 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4393.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4393
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.7400E+00        1.1000E-01        1.4800E-06        2.2000E-07
+        1.0080E+01        1.2000E-01        3.3200E-06        4.3000E-07
+        1.0620E+01        8.0000E-02        5.7700E-06        7.7000E-07
+        1.1110E+01        8.0000E-02        1.2500E-05        1.6000E-06
+        1.2110E+01        1.2000E-01        4.4600E-05        5.6000E-06
+        1.3050E+01        9.0000E-02        1.1500E-04        1.4000E-05

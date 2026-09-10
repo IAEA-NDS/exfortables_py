@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 29-CU-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.8140e+01 MeV - 3.0030e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 59 
+#   Nuclide: 26-FE-59 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C3121-044-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(D,X)26-FE-59,CUM,SIG) 
+#   First author: H.L.O.Ekeberg 
+#   Institute:  (2NORNOR): Norway 
+#   Reference:  (J,ARI,229,112311,2026) 
+#   Year:  2026 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C31/C3121.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C3121
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.8140E+01        0.0000E+00        3.0000E-05        1.0000E-05
+        2.0570E+01        0.0000E+00        7.0000E-05        1.0000E-05
+        2.2770E+01        0.0000E+00        1.2000E-04        1.0000E-05
+        2.5320E+01        0.0000E+00        1.7000E-04        2.0000E-05
+        2.7740E+01        0.0000E+00        1.8000E-04        2.0000E-05
+        3.0030E+01        0.0000E+00        2.1000E-04        3.0000E-05

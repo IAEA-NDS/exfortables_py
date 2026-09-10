@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 11-NA-23(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 11 
+#   A: 23 
+#   Nuclide: 11-NA-23 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 103.0 
+#   Incident energy:  5.4700e+00 MeV - 1.9790e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0782-003-0 (entry-subentry-pointer) 
+#   Reaction code: (11-NA-23(D,P)11-NA-24,,SIG) 
+#   First author: T.Y.Hirsh 
+#   Institute:  (3ISLSOR): Soreq Research Centre, Yavne 
+#   Reference:  (J,NIM/B,362,29,2015) 
+#   Year:  2015 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D07/D0782.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0782
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.9790E+01        2.1000E-01        8.1500E-02        4.1000E-03
+        1.9140E+01        2.2000E-01        8.4100E-02        4.2000E-03
+        1.8270E+01        2.3000E-01        9.6100E-02        4.8000E-03
+        1.7370E+01        2.5000E-01        9.8300E-02        4.9000E-03
+        1.6440E+01        2.6000E-01        1.0260E-01        5.1000E-03
+        1.5460E+01        2.8000E-01        1.0530E-01        5.3000E-03
+        1.4430E+01        3.0000E-01        1.2530E-01        6.3000E-03
+        1.3340E+01        3.2000E-01        1.4480E-01        7.2000E-03
+        1.2180E+01        3.5000E-01        1.6900E-01        8.5000E-03
+        9.6300E+00        4.2000E-01        2.3000E-01        1.2000E-02
+        9.0100E+00        4.4000E-01        2.5300E-01        1.3000E-02
+        8.3600E+00        4.7000E-01        2.5100E-01        1.3000E-02
+        6.9200E+00        5.5000E-01        3.1900E-01        1.6000E-02
+        6.4700E+00        5.8000E-01        3.1100E-01        1.6000E-02
+        5.9900E+00        6.2000E-01        3.4400E-01        1.7000E-02
+        5.4700E+00        6.6000E-01        3.7100E-01        1.9000E-02

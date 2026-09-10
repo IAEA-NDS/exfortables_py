@@ -1,0 +1,51 @@
+# Header: 
+#   Title: 7-N-15(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 7 
+#   A: 15 
+#   Nuclide: 7-N-15 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  9.9000e-01 MeV - 1.9100e+00 MeV 
+# Residual: 
+#   Z: 9 
+#   A: 19 
+#   Nuclide: 9-F-19 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1993-002-0 (entry-subentry-pointer) 
+#   Reaction code: (7-N-15(A,G)9-F-19,,SIG) 
+#   First author: C.Ugalde 
+#   Institute:  (1USACHI): University of Chicago, IL 
+#   Reference:  (J,PL/B,719,74,2013) 
+#   Year:  2013 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C19/C1993.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1993
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.9000E-01        3.0000E-02        3.2800E-09        2.0500E-10
+        1.0800E+00        3.0000E-02        4.7900E-09        3.3300E-10
+        1.1700E+00        3.0000E-02        1.4700E-08        1.1200E-09
+        1.2100E+00        3.0000E-02        1.1300E-07        8.5600E-09
+        1.2400E+00        3.0000E-02        1.0100E-07        9.6800E-09
+        1.2600E+00        3.0000E-02        1.7000E-07        1.0600E-08
+        1.2800E+00        3.0000E-02        4.5800E-07        3.1700E-08
+        1.2800E+00        3.0000E-02        3.2400E-07        3.3100E-08
+        1.2900E+00        3.0000E-02        4.8400E-06        3.0300E-07
+        1.3400E+00        3.0000E-02        6.1800E-06        4.2900E-07
+        1.3800E+00        3.0000E-02        2.9900E-06        1.8700E-07
+        1.4100E+00        3.0000E-02        1.8500E-06        1.1600E-07
+        1.4500E+00        3.0000E-02        9.9500E-07        7.5600E-08
+        1.4500E+00        3.0000E-02        1.1600E-06        9.5600E-08
+        1.4900E+00        3.0000E-02        8.1300E-07        6.6900E-08
+        1.5300E+00        3.0000E-02        6.9400E-07        7.3500E-08
+        1.5900E+00        3.0000E-02        2.9100E-07        3.5300E-08
+        1.5900E+00        3.0000E-02        2.7700E-07        3.8800E-08
+        1.6500E+00        3.0000E-02        1.8800E-07        2.7400E-08
+        1.7000E+00        3.0000E-02        1.1100E-07        1.2100E-08
+        1.8000E+00        3.0000E-02        7.0600E-08        1.0900E-08
+        1.9100E+00        3.0000E-02        2.5000E-07        1.5700E-08

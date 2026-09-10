@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 2-HE-3(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102.0 
+#   Incident energy:  2.8000e-08 MeV - 3.7000e-07 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40656-003-0 (entry-subentry-pointer) 
+#   Reaction code: (2-HE-3(N,G)2-HE-4,,SIG) 
+#   First author: V.P.Alfimenkov 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,YF,31,(1),21,198001) 
+#   Year:  1980 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40656.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40656
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.8000E-08        0.0000E+00        1.7000E-05        5.0000E-06
+        6.2000E-08        0.0000E+00        1.4000E-05        4.0000E-06
+        3.7000E-07        0.0000E+00        5.0000E-06        2.0000E-06

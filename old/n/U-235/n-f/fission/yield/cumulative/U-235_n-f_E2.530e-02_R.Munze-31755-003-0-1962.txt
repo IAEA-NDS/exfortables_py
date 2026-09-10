@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission yield 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18.0 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 67 
+#   Nuclide: 29-CU-67 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31755-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)29-CU-67,CUM,FY) 
+#   First author: R.Munze 
+#   Institute:  (3DDRROS): Zentralinstitut fuer Kernforschung (ZFK), Rossendorf 
+#   Reference:  (J,KE,5,472,1962) 
+#   Year:  1962 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31755.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31755
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             29.0             67.0                         5.9000E-10        7.0000E-12

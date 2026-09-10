@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 20-CA-46(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 20 
+#   A: 46 
+#   Nuclide: 20-CA-46 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.0000e-02 MeV - 2.1500e-01 MeV 
+# Residual: 
+#   Z: 20 
+#   A: 47 
+#   Nuclide: 20-CA-47 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22500-007-0 (entry-subentry-pointer) 
+#   Reaction code: (20-CA-46(N,G)20-CA-47,,SIG,,SPA) 
+#   First author: P.Mohr 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,PR/C,59,3410,1999) 
+#   Year:  1999 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/225/22500.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22500
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.0000E-02        5.0000E-03        1.2131E-02        1.5528E-03
+        3.0000E-02        5.0000E-03        1.3034E-02        1.6684E-03
+        3.0000E-02        5.0000E-03        1.4537E-02        1.9916E-03
+        3.0000E-02        5.0000E-03        2.2997E-02        3.3576E-03
+        3.0000E-02        1.0000E-02        6.5360E-03        8.4968E-04
+        3.0000E-02        1.0000E-02        7.2900E-03        9.3312E-04
+        3.0000E-02        1.0000E-02        7.9290E-03        1.0149E-03
+        3.0000E-02        1.0000E-02        9.0410E-03        1.1572E-03
+        3.0000E-02        1.0000E-02        1.0317E-02        1.3206E-03
+        3.0000E-02        1.0000E-02        1.0788E-02        1.3701E-03
+        1.0400E-01        2.0000E-02        1.4100E-03        1.8894E-04
+        1.0400E-01        2.0000E-02        1.6300E-03        2.2168E-04
+        1.4900E-01        2.0000E-02        1.1730E-03        1.5601E-04
+        1.4900E-01        2.0000E-02        1.1980E-03        1.5814E-04
+        1.8000E-01        2.0000E-02        1.0340E-03        1.4062E-04
+        1.8000E-01        2.0000E-02        1.0730E-03        1.4807E-04
+        2.1500E-01        2.3000E-02        9.2000E-04        1.2972E-04
+        2.1500E-01        2.3000E-02        1.3000E-03        1.7290E-04

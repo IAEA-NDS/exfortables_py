@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 22-TI-48(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 22 
+#   A: 48 
+#   Nuclide: 22-TI-48 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103.0 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 48 
+#   Nuclide: 21-SC-48 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30252-004-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-48(N,P)21-SC-48,,SIG,,FIS) 
+#   First author: S.Niese 
+#   Institute:  (3DDRROS): Zentralinstitut fuer Kernforschung (ZFK), Rossendorf 
+#   Reference:  (J,KE,6,37,1963) 
+#   Year:  1963 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/302/30252.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30252
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5000E+00        0.0000E+00        4.4000E-04        8.0000E-05

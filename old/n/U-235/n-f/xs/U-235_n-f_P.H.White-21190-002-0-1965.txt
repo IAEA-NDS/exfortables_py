@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18.0 
+#   Incident energy:  4.0000e-02 MeV - 1.4100e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21190-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F),,SIG) 
+#   First author: P.H.White 
+#   Institute:  (2UK ALD): Atomic Weapons Establishment (AWE), Aldermaston 
+#   Reference:  (J,JNE/AB,19,325,196505) 
+#   Year:  1965 
+#   Facility:  (VDG  ): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/211/21190.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21190
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.0000E-02        4.0000E-03        2.1000E+00        6.3000E-02
+        6.7000E-02        5.0000E-03        1.7860E+00        5.3580E-02
+        1.2700E-01        1.5000E-02        1.5400E+00        3.8500E-02
+        1.6000E-01        2.0000E-02        1.5200E+00        3.8000E-02
+        2.0700E-01        2.0000E-02        1.3800E+00        3.4500E-02
+        3.1200E-01        2.0000E-02        1.3000E+00        3.2500E-02
+        4.0400E-01        2.0000E-02        1.2200E+00        3.0500E-02
+        5.0500E-01        2.0000E-02        1.1700E+00        2.9250E-02
+        1.0000E+00        5.0000E-02        1.2200E+00        3.0500E-02
+        2.2500E+00        5.0000E-02        1.3100E+00        3.9300E-02
+        5.4000E+00        1.0000E-01        1.0000E+00        5.0000E-02
+        1.4100E+01        5.0000E-02        2.1700E+00        4.3400E-02

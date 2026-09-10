@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 1-H-3(N,EL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 3 - 2 
+#   Incident energy:  1.0000e+00 MeV - 6.0000e+00 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11107-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-3(N,EL)1-H-3,,SIG) 
+#   First author: J.D.Seagrave 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,119,1981,60) 
+#   Year:  1960 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/111/11107.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11107
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E+00        2.0000E-01        1.7200E+00        6.0000E-02
+        2.0000E+00        1.0000E-01        2.1000E+00        6.0000E-02
+        3.5000E+00        1.0000E-01        2.4100E+00        7.0000E-02
+        6.0000E+00        1.0000E-01        1.9500E+00        6.0000E-02

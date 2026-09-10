@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 82-PB-0(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 12 - None 
+#   Incident energy:  3.0000e+03 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 0 
+#   Nuclide: 0-G-0 
+#   Outgoing energy:  1.2000e+00 MeV - 5.0000e+01 MeV 
+# EXFOR BIB:
+#   Entry id: E1764-090-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(P,X)0-G-0,,DA/DE) 
+#   First author: K.Iga 
+#   Institute:  (2JPNKYU): Kyushu University , Fukuoka 
+#   Reference:  (J,NST,35,(5),329,199805) 
+#   Year:  1998 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E17/E1764.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1764
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.2000E+00        0.0000E+00        1.2000E+02        0.0000E+00        6.6610E-08        2.4190E-08
+        1.6000E+00        0.0000E+00        1.2000E+02        0.0000E+00        5.8170E-08        2.2270E-08
+        2.0000E+00        0.0000E+00        1.2000E+02        0.0000E+00        8.4860E-08        2.5910E-08
+        2.4000E+00        0.0000E+00        1.2000E+02        0.0000E+00        6.7340E-08        2.1680E-08
+        2.8000E+00        0.0000E+00        1.2000E+02        0.0000E+00        5.1520E-08        1.6630E-08
+        3.2500E+00        0.0000E+00        1.2000E+02        0.0000E+00        4.6440E-08        1.3490E-08
+        3.7500E+00        0.0000E+00        1.2000E+02        0.0000E+00        3.1430E-08        9.0960E-09
+        4.2500E+00        0.0000E+00        1.2000E+02        0.0000E+00        1.7690E-08        7.0030E-09
+        4.7500E+00        0.0000E+00        1.2000E+02        0.0000E+00        1.0160E-08        3.9930E-09
+        5.5000E+00        0.0000E+00        1.2000E+02        0.0000E+00        5.1320E-09        1.6970E-09
+        6.5000E+00        0.0000E+00        1.2000E+02        0.0000E+00        2.1770E-09        8.1360E-10
+        7.5000E+00        0.0000E+00        1.2000E+02        0.0000E+00        7.3670E-10        3.3440E-10
+        9.0000E+00        0.0000E+00        1.2000E+02        0.0000E+00        5.7610E-10        2.6910E-10
+        1.2000E+01        0.0000E+00        1.2000E+02        0.0000E+00        9.7440E-10        3.6440E-10
+        1.7000E+01        0.0000E+00        1.2000E+02        0.0000E+00        1.3880E-08        1.6910E-08
+        2.5000E+01        0.0000E+00        1.2000E+02        0.0000E+00        1.8130E-08        1.1360E-08
+        3.5000E+01        0.0000E+00        1.2000E+02        0.0000E+00        1.2220E-08        1.0410E-08
+        5.0000E+01        0.0000E+00        1.2000E+02        0.0000E+00        1.2300E-08        9.8720E-09

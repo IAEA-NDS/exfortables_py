@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 39-Y-89(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4500e+01 MeV - 1.4900e+01 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 86 
+#   Nuclide: 37-RB-86 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 12977-018-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(N,A)37-RB-86,,SIG) 
+#   First author: L.R.Greenwood 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (S,ASTM-STP-956,743,1987) 
+#   Year:  1987 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12977.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12977
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4500E+01        4.0000E-01        5.5000E-03        7.1500E-04
+        1.4900E+01        4.0000E-01        5.8000E-03        7.5400E-04

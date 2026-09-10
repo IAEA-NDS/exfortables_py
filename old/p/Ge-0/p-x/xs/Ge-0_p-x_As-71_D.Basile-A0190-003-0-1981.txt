@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 32-GE-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 32 
+#   A: 0 
+#   Nuclide: 32-GE-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.5030e+01 MeV - 4.1050e+01 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 71 
+#   Nuclide: 33-AS-71 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0190-003-0 (entry-subentry-pointer) 
+#   Reaction code: (32-GE-0(P,X)33-AS-71,,SIG) 
+#   First author: D.Basile 
+#   Institute:  (2ITYITY): Italy 
+#   Reference:  (J,ARI,32,403,1981) 
+#   Year:  1981 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A01/A0190.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0190
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5030E+01        1.7000E-01        3.1000E-02        3.1000E-04
+        1.7540E+01        1.7000E-01        9.7000E-02        9.7000E-04
+        2.0170E+01        1.7000E-01        1.2300E-01        1.2300E-03
+        2.2620E+01        1.7000E-01        1.3600E-01        1.3600E-03
+        2.4950E+01        1.7000E-01        1.4600E-01        1.4600E-03
+        2.6940E+01        1.7000E-01        1.0400E-01        1.0400E-03
+        2.9790E+01        1.7000E-01        9.2000E-02        9.2000E-04
+        3.2130E+01        1.7000E-01        6.6000E-02        6.6000E-04
+        3.3350E+01        1.7000E-01        6.1000E-02        6.1000E-04
+        3.5750E+01        1.7000E-01        5.6000E-02        5.6000E-04
+        3.8550E+01        1.7000E-01        6.6000E-02        6.6000E-04
+        4.1050E+01        1.7000E-01        5.8000E-02        5.8000E-04

@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 68-ER-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 68 
+#   A: 0 
+#   Nuclide: 68-ER-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.2400e+01 MeV - 3.7300e+01 MeV 
+# Residual: 
+#   Z: 70 
+#   A: 169 
+#   Nuclide: 70-YB-169 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4222-011-0 (entry-subentry-pointer) 
+#   Reaction code: (68-ER-0(A,X)70-YB-169,,SIG) 
+#   First author: Y.Homma 
+#   Institute:  (2JPNKYO): Kyoritsu College of Pharmacy, Tokyo 
+#   Reference:  (J,ARI,31,505,1980) 
+#   Year:  1980 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4222.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4222
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2400E+01        0.0000E+00        5.0000E-03        0.0000E+00
+        2.4500E+01        0.0000E+00        1.3100E-02        0.0000E+00
+        2.7400E+01        0.0000E+00        1.8200E-02        0.0000E+00
+        2.9500E+01        0.0000E+00        2.0500E-02        0.0000E+00
+        3.0600E+01        0.0000E+00        2.5900E-02        0.0000E+00
+        3.4000E+01        0.0000E+00        3.9000E-02        0.0000E+00
+        3.5600E+01        0.0000E+00        3.4500E-02        0.0000E+00
+        3.7300E+01        0.0000E+00        3.0900E-02        0.0000E+00

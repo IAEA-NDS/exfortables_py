@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 30-ZN-64(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 30 
+#   A: 64 
+#   Nuclide: 30-ZN-64 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3900e+01 MeV - 1.4710e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 64 
+#   Nuclide: 29-CU-64 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31449-011-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-64(N,P)29-CU-64,,SIG) 
+#   First author: N.I.Molla 
+#   Institute:  (3BANSAV): Institute Nuclear Science & Technology, AERE, Savar, Dhaka 
+#   Reference:  (C,94GATLIN,2,938,199405) 
+#   Year:  1994 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31449.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31449
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3900E+01        0.0000E+00        2.2820E-01        1.8500E-02
+        1.4100E+01        0.0000E+00        2.2460E-01        1.9000E-02
+        1.4510E+01        0.0000E+00        2.1740E-01        1.9400E-02
+        1.4710E+01        0.0000E+00        2.0110E-01        1.7900E-02

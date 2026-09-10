@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 82-PB-208(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 82 
+#   A: 208 
+#   Nuclide: 82-PB-208 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.0400e+02 MeV 
+# Residual: 
+#   Z: 84 
+#   A: 211 
+#   Nuclide: 84-PO-211-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0114-005-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-208(A,N)84-PO-211-M,,SIG,,,EXP) 
+#   First author: B.Neumann 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,NP/A,329,259,1979) 
+#   Year:  1979 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0114.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0114
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0400E+02        0.0000E+00        8.2000E-05        1.6000E-05

@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 56-BA-136(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 56 
+#   A: 136 
+#   Nuclide: 56-BA-136 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.2015e+01 MeV - 1.7507e+01 MeV 
+# Residual: 
+#   Z: 56 
+#   A: 135 
+#   Nuclide: 56-BA-135-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: G4008-004-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-136(G,N)56-BA-135-M,,SIG,,BRS) 
+#   First author: V.M.Mazur 
+#   Institute:  (4UKRIEP): Institute of Electron Physics, Ukrain.Academy Sci., Uzhgorod 
+#   Reference:  (J,UFZ,46,(5-6),529,2001) 
+#   Year:  2001 
+#   Facility:  (MICRT): Microtron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G40/G4008.x4 
+#   nds:  https://nds.iaea.org/EXFOR/G4008
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2015E+01        8.1493E-03        4.6493E-03        1.2821E-03
+        1.2514E+01        8.1493E-03        7.8307E-03        1.4103E-03
+        1.3015E+01        8.1493E-03        1.3576E-02        2.5641E-03
+        1.3468E+01        8.1493E-03        1.9965E-02        2.4359E-03
+        1.4020E+01        8.1493E-03        3.2119E-02        2.6929E-03
+        1.4524E+01        8.1493E-03        4.5300E-02        3.7180E-03
+        1.4978E+01        8.1493E-03        5.5407E-02        5.8963E-03
+        1.5478E+01        8.1493E-03        5.8332E-02        6.4108E-03
+        1.5916E+01        8.1493E-03        5.8824E-02        6.1538E-03
+        1.6495E+01        8.1493E-03        4.7386E-02        8.3333E-03
+        1.7048E+01        8.1493E-03        3.3641E-02        1.2565E-02
+        1.7507E+01        8.1493E-03        2.5670E-02        1.3719E-02

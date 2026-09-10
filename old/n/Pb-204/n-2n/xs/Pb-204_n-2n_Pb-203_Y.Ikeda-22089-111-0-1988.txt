@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 82-PB-204(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 82 
+#   A: 204 
+#   Nuclide: 82-PB-204 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3330e+01 MeV - 1.4930e+01 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 203 
+#   Nuclide: 82-PB-203 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22089-111-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-204(N,2N)82-PB-203,,SIG) 
+#   First author: Y.Ikeda 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (R,JAERI-1312,1988) 
+#   Year:  1988 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22089.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22089
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3330E+01        0.0000E+00        2.0700E+00        1.1000E-01
+        1.3570E+01        0.0000E+00        2.1500E+00        1.2000E-01
+        1.3750E+01        0.0000E+00        2.1200E+00        1.2000E-01
+        1.3980E+01        0.0000E+00        2.1200E+00        1.2000E-01
+        1.4220E+01        0.0000E+00        2.1900E+00        1.3000E-01
+        1.4430E+01        0.0000E+00        2.2100E+00        1.3000E-01
+        1.4670E+01        0.0000E+00        2.3100E+00        1.3000E-01
+        1.4930E+01        0.0000E+00        2.1200E+00        1.2000E-01

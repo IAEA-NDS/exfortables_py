@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 92-U-238(N,F)  Fission yield 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  5.0000e-01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13337-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,F)ELEM/MASS,CUM,FY,,FST) 
+#   First author: N.D.Dudey 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,NT,25,294,1975) 
+#   Year:  1975 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/133/13337.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13337
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             40.0             95.0                         5.4100E-02        3.4083E-03
+             40.0             97.0                         5.4600E-02        3.6582E-03
+             44.0            103.0                         6.5300E-02        4.5710E-03
+             52.0            132.0                         5.7200E-02        5.4912E-03
+             53.0            131.0                         3.3100E-02        2.4163E-03
+             56.0            140.0                         6.1800E-02        3.8934E-03
+             58.0            143.0                         4.3400E-02        3.1682E-03

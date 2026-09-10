@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 24-CR-0(N,EL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 24 
+#   A: 0 
+#   Nuclide: 24-CR-0 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 3 - 2 
+#   Incident energy:  7.9500e+00 MeV - 1.4760e+01 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 0 
+#   Nuclide: 24-CR-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22408-006-0 (entry-subentry-pointer) 
+#   Reaction code: (24-CR-0(N,EL)24-CR-0,,SIG) 
+#   First author: D.Schmidt 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (R,PTB-N-31,1998) 
+#   Year:  1998 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22408.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22408
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.9500E+00        0.0000E+00        1.8937E+00        3.7117E-02
+        9.0000E+00        0.0000E+00        1.6841E+00        3.3177E-02
+        9.8000E+00        0.0000E+00        1.5792E+00        3.2689E-02
+        1.0790E+01        0.0000E+00        1.4629E+00        3.0575E-02
+        1.1440E+01        0.0000E+00        1.3650E+00        2.7709E-02
+        1.2010E+01        0.0000E+00        1.2760E+00        2.7051E-02
+        1.2700E+01        0.0000E+00        1.2227E+00        2.6166E-02
+        1.3650E+01        0.0000E+00        1.1088E+00        2.2509E-02
+        1.4100E+01        0.0000E+00        1.0884E+00        2.2748E-02
+        1.4760E+01        0.0000E+00        1.0356E+00        2.2265E-02

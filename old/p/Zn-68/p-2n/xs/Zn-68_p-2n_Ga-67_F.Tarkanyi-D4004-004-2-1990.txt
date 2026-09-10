@@ -1,0 +1,56 @@
+# Header: 
+#   Title: 30-ZN-68(P,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 30 
+#   A: 68 
+#   Nuclide: 30-ZN-68 
+# Reaction: 
+#   Process: P,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.1300e+01 MeV - 2.1600e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 67 
+#   Nuclide: 31-GA-67 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4004-004-2 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-68(P,2N)31-GA-67,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,RCA,50,19,1990) 
+#   Year:  1990 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4004.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4004
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1300E+01        2.0000E-01               NAN        0.0000E+00
+        1.2700E+01        2.0000E-01        1.3800E-02        1.7940E-03
+        1.3100E+01        2.0000E-01        5.9000E-02        7.6700E-03
+        1.3600E+01        2.0000E-01        1.4800E-01        1.9240E-02
+        1.4000E+01        2.0000E-01        1.5100E-01        1.9630E-02
+        1.4000E+01        2.0000E-01        1.9800E-01        2.5740E-02
+        1.4400E+01        2.0000E-01        3.0500E-01        3.9650E-02
+        1.4500E+01        2.0000E-01        3.0700E-01        3.9910E-02
+        1.4600E+01        2.0000E-01        3.2300E-01        4.1990E-02
+        1.5000E+01        2.0000E-01        3.8500E-01        5.0050E-02
+        1.5300E+01        2.0000E-01        3.8500E-01        5.0050E-02
+        1.5400E+01        2.0000E-01        4.0000E-01        5.2000E-02
+        1.5500E+01        2.0000E-01        4.5300E-01        5.8890E-02
+        1.5800E+01        2.0000E-01        4.6100E-01        5.9930E-02
+        1.6000E+01        2.0000E-01        4.9500E-01        6.4350E-02
+        1.6400E+01        2.0000E-01        5.2600E-01        6.8380E-02
+        1.6500E+01        2.0000E-01        5.3700E-01        6.9810E-02
+        1.6900E+01        2.0000E-01        5.7900E-01        7.5270E-02
+        1.7400E+01        2.0000E-01        6.3200E-01        8.2160E-02
+        1.7600E+01        2.0000E-01        5.9900E-01        7.7870E-02
+        1.7600E+01        2.0000E-01        5.7100E-01        7.4230E-02
+        1.7800E+01        2.0000E-01        5.9400E-01        7.7220E-02
+        1.8000E+01        2.0000E-01        6.2900E-01        8.1770E-02
+        1.8600E+01        2.0000E-01        6.2600E-01        8.1380E-02
+        1.9700E+01        2.0000E-01        6.5000E-01        8.4500E-02
+        2.0700E+01        2.0000E-01        6.7500E-01        8.7750E-02
+        2.1600E+01        2.0000E-01        7.0500E-01        9.1650E-02

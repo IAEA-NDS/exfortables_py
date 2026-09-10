@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 14-SI-30(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 14 
+#   A: 30 
+#   Nuclide: 14-SI-30 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 13 
+#   A: 30 
+#   Nuclide: 13-AL-30-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21846-018-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-30(N,P)13-AL-30-M,,SIG) 
+#   First author: W.Schantl 
+#   Institute:  (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
+#   Reference:  (T,SCHANTL,1970) 
+#   Year:  1970 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21846.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21846
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4700E+01        1.5000E-01        5.1000E-02        9.0000E-03
+        1.4700E+01        1.5000E-01        6.2000E-02        1.0000E-02
+        1.4700E+01        1.5000E-01        6.7000E-02        1.0000E-02

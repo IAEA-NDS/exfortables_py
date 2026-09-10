@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 42-MO-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 42 
+#   A: 0 
+#   Nuclide: 42-MO-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.8810e+01 MeV - 3.1010e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 96 
+#   Nuclide: 43-TC-96 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6431-005-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-0(A,X)43-TC-96,,SIG) 
+#   First author: M.Choudhary 
+#   Institute:  (3INDBHU): Banaras Hindu University , Varanasi 
+#   Reference:  (J,EPJ/A,58,95,2022) 
+#   Year:  2022 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D64/D6431.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6431
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8810E+01        2.9000E-01        2.0000E-04        3.0000E-05
+        2.2370E+01        2.8000E-01        1.1300E-03        1.2000E-04
+        2.6390E+01        2.2000E-01        2.0830E-02        2.3300E-03
+        3.1010E+01        2.2000E-01        3.6410E-02        4.1100E-03

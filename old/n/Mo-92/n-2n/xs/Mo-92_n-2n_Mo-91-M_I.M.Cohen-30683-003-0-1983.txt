@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 42-MO-92(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 92 
+#   Nuclide: 42-MO-92 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 91 
+#   Nuclide: 42-MO-91-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30683-003-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-92(N,2N)42-MO-91-M,,SIG,,FIS) 
+#   First author: I.M.Cohen 
+#   Institute:  (3ARGCNE): Comision Nacional de Energia Atomica, Buenos Aires 
+#   Reference:  (J,RCA,34,157,1983) 
+#   Year:  1983 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30683.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30683
+#
+#       E_in(MeV)        dE_in(MeV)       data_max(B)      ddata_max(B)
+        1.5000E+00        0.0000E+00        7.5100E-05        5.3000E-06

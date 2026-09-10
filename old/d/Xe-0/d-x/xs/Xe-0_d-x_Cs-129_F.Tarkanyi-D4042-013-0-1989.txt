@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 54-XE-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 54 
+#   A: 0 
+#   Nuclide: 54-XE-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.2300e+01 MeV - 5.2600e+01 MeV 
+# Residual: 
+#   Z: 55 
+#   A: 129 
+#   Nuclide: 55-CS-129 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4042-013-0 (entry-subentry-pointer) 
+#   Reaction code: (54-XE-0(D,X)55-CS-129,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,RCA,47,169,1989) 
+#   Year:  1989 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4042.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4042
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.2300E+01        0.0000E+00        9.4800E-02        0.0000E+00
+        2.2500E+01        0.0000E+00        4.8800E-02        0.0000E+00
+        2.5700E+01        0.0000E+00        1.0400E-01        0.0000E+00
+        2.7100E+01        0.0000E+00        1.4000E-01        0.0000E+00
+        3.0200E+01        0.0000E+00        1.0200E-01        0.0000E+00
+        3.2800E+01        0.0000E+00        1.9500E-01        0.0000E+00
+        3.3300E+01        0.0000E+00        1.5900E-01        0.0000E+00
+        3.6700E+01        0.0000E+00        2.0000E-01        0.0000E+00
+        3.7800E+01        0.0000E+00        2.6500E-01        0.0000E+00
+        3.9200E+01        0.0000E+00        1.6300E-01        0.0000E+00
+        4.2400E+01        0.0000E+00        2.1600E-01        0.0000E+00
+        4.3500E+01        0.0000E+00        3.1200E-01        0.0000E+00
+        4.4800E+01        0.0000E+00        2.3100E-01        0.0000E+00
+        4.7800E+01        0.0000E+00        2.1100E-01        0.0000E+00
+        5.2600E+01        0.0000E+00        1.8200E-01        0.0000E+00

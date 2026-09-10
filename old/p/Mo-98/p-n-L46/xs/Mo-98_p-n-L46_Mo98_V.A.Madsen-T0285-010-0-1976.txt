@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 42-MO-98(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2025-08-29 
+# Target: 
+#   Z: 42 
+#   A: 98 
+#   Nuclide: 42-MO-98 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 92 
+#   Incident energy:  1.8000e+01 MeV - 2.6000e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 98 
+#   Nuclide: 43-TC-98 
+#   Level energy: 1.0000e-06 MeV 
+# EXFOR BIB:
+#   Entry id: T0285-010-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-98(P,N)43-TC-98,PAR,SIG) 
+#   First author: V.A.Madsen 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR/C,13,548,197602) 
+#   Year:  1976 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T02/T0285.x4 
+#   nds:  https://nds.iaea.org/EXFOR/T0285
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8000E+01        0.0000E+00        1.9900E-03        0.0000E+00
+        2.2000E+01        0.0000E+00        1.5500E-03        0.0000E+00
+        2.6000E+01        0.0000E+00        9.4000E-04        0.0000E+00

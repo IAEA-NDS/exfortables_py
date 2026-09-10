@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 4-BE-9(HE3,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 4 
+#   A: 9 
+#   Nuclide: 4-BE-9 
+# Reaction: 
+#   Process: HE3,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.0300e+01 MeV - 4.0800e+01 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 10 
+#   Nuclide: 6-C-10 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0005-002-0 (entry-subentry-pointer) 
+#   Reaction code: (4-BE-9(HE3,2N)6-C-10,,SIG,,,EXP) 
+#   First author: C.E.Moss 
+#   Institute:  (1USACLU): University of Colorado, Boulder, CO 
+#   Reference:  (J,NP/A,235,11,1974) 
+#   Year:  1974 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0005.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0005
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.0300E+01        0.0000E+00        1.1700E-04        0.0000E+00
+        1.3900E+01        0.0000E+00        1.2900E-04        0.0000E+00
+        1.6500E+01        0.0000E+00        2.5300E-04        0.0000E+00
+        2.1500E+01        0.0000E+00        3.3300E-04        0.0000E+00
+        2.6300E+01        0.0000E+00        3.5300E-04        0.0000E+00
+        3.0100E+01        0.0000E+00        3.2200E-04        0.0000E+00
+        3.4900E+01        0.0000E+00        3.4400E-04        0.0000E+00
+        3.8000E+01        0.0000E+00        2.1300E-04        0.0000E+00
+        4.0800E+01        0.0000E+00        2.2200E-04        0.0000E+00

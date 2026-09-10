@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 27-CO-59(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  8.0000e+02 MeV - 2.6000e+03 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0277-124-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(P,X)4-BE-7,,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,NIM/B,103,183,1995) 
+#   Year:  1995 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0277.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0277
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.0000E+02        0.0000E+00        2.9500E-03        2.4000E-04
+        1.2000E+03        0.0000E+00        5.2800E-03        4.0000E-04
+        1.6000E+03        0.0000E+00        6.3400E-03        5.1000E-04
+        2.6000E+03        0.0000E+00        9.2900E-03        8.0000E-04

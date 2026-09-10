@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 94-PU-239(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 94 
+#   A: 239 
+#   Nuclide: 94-PU-239 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16.0 
+#   Incident energy:  6.5000e+00 MeV - 2.1960e+01 MeV 
+# Residual: 
+#   Z: 94 
+#   A: 238 
+#   Nuclide: 94-PU-238 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13787-006-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-239(N,2N)94-PU-238,,SIG,,,DERIV) 
+#   First author: L.A.Bernstein 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR/C,65,021601,2002) 
+#   Year:  2002 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/137/13787.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13787
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.5000E+00        0.0000E+00        9.2000E-02        2.7600E-02
+        6.9700E+00        0.0000E+00        1.1200E-01        3.1360E-02
+        7.5000E+00        0.0000E+00        1.3700E-01        3.5620E-02
+        8.1100E+00        0.0000E+00        2.0400E-01        4.6920E-02
+        8.7700E+00        0.0000E+00        2.4000E-01        4.5600E-02
+        9.5200E+00        0.0000E+00        2.7400E-01        4.1100E-02
+        1.0390E+01        0.0000E+00        3.1500E-01        3.7800E-02
+        1.1370E+01        0.0000E+00        3.2200E-01        3.8640E-02
+        1.2500E+01        0.0000E+00        2.6500E-01        3.4450E-02
+        1.3820E+01        0.0000E+00        2.0500E-01        2.8700E-02
+        1.5360E+01        0.0000E+00        1.4200E-01        2.1300E-02
+        1.7180E+01        0.0000E+00        1.0600E-01        1.5900E-02
+        1.9340E+01        0.0000E+00        9.4000E-02        1.5040E-02
+        2.1960E+01        0.0000E+00        1.0500E-01        1.5750E-02

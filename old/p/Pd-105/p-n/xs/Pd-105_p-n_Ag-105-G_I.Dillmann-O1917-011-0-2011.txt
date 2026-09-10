@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 46-PD-105(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 46 
+#   A: 105 
+#   Nuclide: 46-PD-105 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.7140e+00 MeV - 5.0380e+00 MeV 
+# Residual: 
+#   Z: 47 
+#   A: 105 
+#   Nuclide: 47-AG-105-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1917-011-0 (entry-subentry-pointer) 
+#   Reaction code: (46-PD-105(P,N)47-AG-105-G,,SIG,,SFC) 
+#   First author: I.Dillmann 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,PR/C,84,015802,2011) 
+#   Year:  2011 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O19/O1917.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1917
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
+        2.7140E+00        0.0000E+00        3.9300E+13        3.8000E+12
+        2.9610E+00        0.0000E+00        5.4700E+13        5.0000E+12
+        3.6510E+00        0.0000E+00        5.7200E+13        3.7000E+12
+        3.9910E+00        0.0000E+00        5.2200E+13        3.4000E+12
+        4.4730E+00        0.0000E+00        3.9300E+13        2.5000E+12
+        5.0380E+00        0.0000E+00        2.2200E+13        1.2000E+12

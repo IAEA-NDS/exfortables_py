@@ -1,0 +1,31 @@
+# Header: 
+#   title: 46-PD-110(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 46 
+#   A: 110 
+#   Nuclide: 46-PD-110 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.34400E-01  |   1.21524E-01   (N = 4)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 8.49211E-03 +/-  9.95851E-04   (N = 4)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11429-016-0         R.Booth                 1958   2.4000E-02   5.0000E-03   3.0000E-01   0.0000E+00                
+30079-022-0         A.K.Chaubey             1966   2.4000E-02   0.0000E+00   1.2000E-01   1.5000E-02                
+30492-003-G         A.Lakshmana Rao         1972   2.5000E-02   5.0000E-03   1.1000E-01   1.6000E-02                
+30492-003-M         A.Lakshmana Rao         1972   2.5000E-02   5.0000E-03   7.6000E-03   1.0000E-03                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0102-199-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.4600E-01   2.0000E-02     MXW   RECOM
+V1001-463-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   1.6000E-01   2.5000E-02     MXW   RECOM

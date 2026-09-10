@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 76-OS-192(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 76 
+#   A: 192 
+#   Nuclide: 76-OS-192 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4700e+01 MeV 
+# Residual: 
+#   Z: 76 
+#   A: 191 
+#   Nuclide: 76-OS-191-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31618-002-0 (entry-subentry-pointer) 
+#   Reaction code: (76-OS-192(N,2N)76-OS-191-G,,SIG) 
+#   First author: Liangyong Zhao 
+#   Institute:  (3CPRLNZ): Lanzhou University , Lanzhou 
+#   Reference:  (J,ARI,66,1488,2008) 
+#   Year:  2008.0 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31618.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31618
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3500E+01        2.0000E-01        1.2040E+00        1.8300E-01
+        1.4700E+01        2.0000E-01        1.1990E+00        2.0400E-01

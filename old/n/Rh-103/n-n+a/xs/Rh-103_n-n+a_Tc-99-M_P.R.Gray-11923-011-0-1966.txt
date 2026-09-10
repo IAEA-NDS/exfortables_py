@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 45-RH-103(N,N+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,N+A 
+#   MF-MT number: 3 - 22 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 99 
+#   Nuclide: 43-TC-99-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11923-011-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,N+A)43-TC-99-M,,SIG) 
+#   First author: P.R.Gray 
+#   Institute:  (1USAPPO): Phillips Petroleum Co., Bartletsville, OK 
+#   Reference:  (J,NP,75,215,196601) 
+#   Year:  1966 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11923.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11923
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4700E+01        5.0000E-01        1.5000E-04        3.0000E-05

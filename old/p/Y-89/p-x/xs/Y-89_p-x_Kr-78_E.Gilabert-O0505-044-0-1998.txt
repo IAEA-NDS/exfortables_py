@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 39-Y-89(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.0200e+01 MeV - 1.6000e+03 MeV 
+# Residual: 
+#   Z: 36 
+#   A: 78 
+#   Nuclide: 36-KR-78 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0505-044-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(P,X)36-KR-78,CUM,SIG) 
+#   First author: E.Gilabert 
+#   Institute:  (2FR GRA): Centre d'Etudes Nucleaires de Bordeaux-Gradignan 
+#   Reference:  (J,NIM/B,145,293,1998) 
+#   Year:  1998 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O05/O0505.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0505
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.0200E+01        1.0000E+00        4.6000E-05        4.0000E-06
+        1.5700E+02        1.0000E+00        1.4600E-02        8.0000E-04
+        2.2300E+02        2.0000E+00        2.4100E-02        1.4000E-03
+        3.7200E+02        1.0000E+00        3.1100E-02        1.7000E-03
+        5.6900E+02        1.0000E+00        3.4700E-02        1.9000E-03
+        1.6000E+03        2.0000E+01        2.0500E-02        1.1000E-03
+        1.6000E+03        2.0000E+01        1.7200E-02        1.6000E-03

@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 1-H-2(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4500e-02 MeV - 3.8800e-02 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A1028-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(D,P)1-H-3,,SIG) 
+#   First author: J.H.Sanders 
+#   Institute:  (2UK OXF): University of Oxford, Oxford 
+#   Reference:  (J,PR,77,(5),754(N14),1950) 
+#   Year:  1950 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A10/A1028.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A1028
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4500E-02        0.0000E+00        7.0600E-05        0.0000E+00
+        1.9400E-02        0.0000E+00        2.4800E-04        0.0000E+00
+        2.4300E-02        0.0000E+00        5.9600E-04        0.0000E+00
+        2.9100E-02        0.0000E+00        1.1200E-03        0.0000E+00
+        3.3900E-02        0.0000E+00        1.7600E-03        0.0000E+00
+        3.8800E-02        0.0000E+00        2.5500E-03        0.0000E+00

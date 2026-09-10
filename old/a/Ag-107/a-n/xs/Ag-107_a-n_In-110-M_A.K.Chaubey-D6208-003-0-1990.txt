@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 47-AG-107(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 47 
+#   A: 107 
+#   Nuclide: 47-AG-107 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  8.9000e+00 MeV - 2.6500e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 110 
+#   Nuclide: 49-IN-110-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6208-003-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-107(A,N)49-IN-110-M,,SIG) 
+#   First author: A.K.Chaubey 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  (J,ARI,41,401,1990) 
+#   Year:  1990 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D62/D6208.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6208
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.9000E+00        1.9000E+00        2.0300E-04        0.0000E+00
+        1.2700E+01        1.9000E+00        7.5700E-02        0.0000E+00
+        1.6100E+01        1.6000E+00        2.5100E-01        0.0000E+00
+        1.9200E+01        1.5000E+00        1.4620E-01        0.0000E+00
+        2.1000E+01        1.5000E+00        2.6300E-01        0.0000E+00
+        2.4000E+01        1.4000E+00        1.8000E-01        0.0000E+00
+        2.4700E+01        1.4000E+00        1.8700E-01        0.0000E+00
+        2.6500E+01        1.3000E+00        7.7700E-02        0.0000E+00

@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 82-PB-206(2-HE-6,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 82 
+#   A: 206 
+#   Nuclide: 82-PB-206 
+# Reaction: 
+#   Process: 2-HE-6,2N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4114e+01 MeV - 1.7455e+01 MeV 
+# Residual: 
+#   Z: 84 
+#   A: 210 
+#   Nuclide: 84-PO-210 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1940-002-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-206(2-HE-6,2N)84-PO-210,,SIG) 
+#   First author: R.Wolski 
+#   Institute:  (3POLIFJ): Niewodniczanski Institute of Nuclear Physics, Krakow 
+#   Reference:  (J,EPJ/A,47,111,2011) 
+#   Year:  2011 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O19/O1940.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1940
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        1.4114E+01        2.8000E-01        4.0049E-04        3.4149E-04
+        1.5076E+01        2.3000E-01        1.6185E-03        6.4381E-04
+        1.5926E+01        2.3000E-01        3.3590E-03        1.3094E-03
+        1.6723E+01        2.0000E-01        4.9141E-03        1.2201E-03
+        1.7364E+01        3.8000E-02        3.7424E-02        8.2816E-03
+        1.7455E+01        3.7000E-02        3.8071E-02        3.5787E-03

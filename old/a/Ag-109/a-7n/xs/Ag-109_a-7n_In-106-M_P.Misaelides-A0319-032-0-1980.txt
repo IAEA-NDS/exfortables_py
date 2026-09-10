@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 47-AG-109(A,7N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 47 
+#   A: 109 
+#   Nuclide: 47-AG-109 
+# Reaction: 
+#   Process: A,7N 
+#   MF-MT number: 3 - 160 
+#   Incident energy:  8.0000e+01 MeV - 9.6300e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 106 
+#   Nuclide: 49-IN-106-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0319-032-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-109(A,7N)49-IN-106-M,,SIG,,,DERIV) 
+#   First author: P.Misaelides 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,JIN,42,937,1980) 
+#   Year:  1980 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A03/A0319.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0319
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+01        0.0000E+00        1.3000E-02        0.0000E+00
+        8.4700E+01        0.0000E+00        2.3000E-02        0.0000E+00
+        8.6200E+01        0.0000E+00        3.1000E-02        0.0000E+00
+        8.6900E+01        0.0000E+00        3.5000E-02        0.0000E+00
+        8.9100E+01        0.0000E+00        3.1000E-02        0.0000E+00
+        9.6300E+01        0.0000E+00        5.5000E-02        0.0000E+00

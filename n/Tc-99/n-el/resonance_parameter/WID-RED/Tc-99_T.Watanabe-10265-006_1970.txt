@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 43-TC-99 Resonance Parameter: WID/RED 
+#   Source                : EXFOR 
+#   Date Created          : 2026-09-07 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10265-006-1 
+#   First Author          : T.Watanabe 
+#   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
+#   Reference             : (J,NSE,41,188,1970) 
+#   Year                  : 1970 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 43 
+#   A                     : 99 
+#   Isomer                :  
+#   Nuclide               : 43-TC-99 
+# Reaction: 
+#   EXFOR Reaction        : (43-TC-99(N,EL),,WID/RED) 
+#   Incident Energy       : -6.4000e+00 eV - 2.0300e+01 eV 
+#   Resonance Energy Type : EN 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10265.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10265
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+  -6.4000E+00          NAN        NAN        0.0          NAN          NAN          NAN          NAN   5.0000E-04          NAN          NAN          NAN          NAN          NAN
+   5.6000E+00          NAN        NAN        0.0          NAN          NAN          NAN          NAN   1.8100E-03          NAN          NAN          NAN          NAN          NAN
+   2.0300E+01          NAN        NAN        0.0          NAN          NAN          NAN          NAN   1.6900E-03          NAN          NAN          NAN          NAN          NAN

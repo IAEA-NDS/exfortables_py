@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 38-SR-86(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 38 
+#   A: 86 
+#   Nuclide: 38-SR-86 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 86 
+#   Nuclide: 37-RB-86 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21300-004-0 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-86(N,P)37-RB-86,,SIG) 
+#   First author: K.Kayashima 
+#   Institute:  (2JPNKYU): Kyushu University , Fukuoka 
+#   Reference:  ((P,INDC(JAP)-47,94,1979)=(P,NEANDC(J)-61,94,1979)) 
+#   Year:  1979 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21300.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21300
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4600E+01        0.0000E+00        3.4900E-02        8.4000E-03

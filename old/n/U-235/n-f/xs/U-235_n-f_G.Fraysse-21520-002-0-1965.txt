@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  3.2160e-08 MeV - 6.2600e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21520-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F),,SIG) 
+#   First author: G.Fraysse 
+#   Institute:  (2ZZZISP): EC Joint Research Center (EC-JRC), Ispra 
+#   Reference:  (C,65SALZBURG,1,255,196503) 
+#   Year:  1965 
+#   Facility:  (SPECC): Crystal spectrometer 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/215/21520.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21520
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.2160E-08        4.0000E-11        5.1200E+02        1.1000E+01
+        6.2600E-08        1.0000E-10        3.4300E+02        9.0000E+00

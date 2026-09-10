@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 25-MN-55(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 25 
+#   A: 55 
+#   Nuclide: 25-MN-55 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  9.7000e-01 MeV - 1.9390e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 56 
+#   Nuclide: 25-MN-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11420-003-0 (entry-subentry-pointer) 
+#   Reaction code: (25-MN-55(N,G)25-MN-56,,SIG) 
+#   First author: H.O.Menlove 
+#   Institute:  (1USALOK): Lockheed Aircraft Corp., Sunnyvale, CA 
+#   Reference:  (J,PR,163,1299,67) 
+#   Year:  1967 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11420.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11420
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.7000E-01        1.0000E-01        2.8000E-03        2.2000E-04
+        1.5600E+00        1.2000E-01        1.9400E-03        1.5000E-04
+        2.1500E+00        1.3000E-01        1.8900E-03        1.4000E-04
+        3.2700E+00        5.2000E-01        1.4600E-03        1.2000E-04
+        3.5700E+00        2.9000E-01        1.3600E-03        1.0000E-04
+        4.0000E+00        2.4000E-01        1.2400E-03        9.0000E-05
+        4.5800E+00        2.3000E-01        1.0900E-03        8.0000E-05
+        5.3900E+00        2.5000E-01        9.6400E-04        8.8000E-05
+        6.1300E+00        2.8000E-01        8.5500E-04        7.8000E-05
+        8.0600E+00        1.4000E-01        6.9500E-04        6.3000E-05
+        1.3280E+01        6.1000E-01        9.0700E-04        8.8000E-05
+        1.4960E+01        8.7000E-01        8.8900E-04        8.1000E-05
+        1.5820E+01        4.5000E-01        8.4300E-04        7.7000E-05
+        1.6520E+01        3.5000E-01        7.5700E-04        6.9000E-05
+        1.7350E+01        3.2000E-01        7.0500E-04        7.1000E-05
+        1.8440E+01        3.3000E-01        5.8000E-04        5.5000E-05
+        1.9390E+01        3.5000E-01        4.7200E-04        4.8000E-05

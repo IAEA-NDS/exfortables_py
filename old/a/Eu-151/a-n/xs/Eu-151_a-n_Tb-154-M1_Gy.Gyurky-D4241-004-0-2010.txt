@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 63-EU-151(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 63 
+#   A: 151 
+#   Nuclide: 63-EU-151 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.1340e+01 MeV - 1.7040e+01 MeV 
+# Residual: 
+#   Z: 65 
+#   A: 154 
+#   Nuclide: 65-TB-154-M1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4241-004-0 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-151(A,N)65-TB-154-M1,,SIG) 
+#   First author: Gy.Gyurky 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,JP/G,37,115201,2010) 
+#   Year:  2010 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4241.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4241
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1340E+01        4.0000E-02        7.3400E-06        2.0600E-06
+        1.1670E+01        4.0000E-02        1.1600E-05        2.7000E-06
+        1.2250E+01        4.0000E-02        7.7700E-05        1.5600E-05
+        1.2650E+01        4.0000E-02        2.1100E-04        4.2000E-05
+        1.3140E+01        4.0000E-02        5.0200E-04        1.0000E-04
+        1.3720E+01        4.0000E-02        1.4680E-03        2.9400E-04
+        1.4110E+01        4.0000E-02        3.1670E-03        6.3300E-04
+        1.4110E+01        4.0000E-02        3.3290E-03        6.6600E-04
+        1.4690E+01        5.0000E-02        9.9270E-03        1.9820E-03
+        1.4690E+01        4.0000E-02        9.4630E-03        1.8930E-03
+        1.5100E+01        5.0000E-02        1.3505E-02        2.7010E-03
+        1.5580E+01        5.0000E-02        3.2361E-02        6.4730E-03
+        1.5580E+01        5.0000E-02        3.2415E-02        6.4840E-03
+        1.6070E+01        5.0000E-02        5.5276E-02        1.1048E-02
+        1.6620E+01        5.0000E-02        5.4051E-02        1.0811E-02
+        1.7040E+01        5.0000E-02        8.0667E-02        1.6139E-02

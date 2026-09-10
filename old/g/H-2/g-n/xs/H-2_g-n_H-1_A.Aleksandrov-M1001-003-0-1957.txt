@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 1-H-2(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 4.0 
+#   Incident energy:  5.4000e+01 MeV - 1.4800e+02 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M1001-003-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(G,N)1-H-1,,SIG) 
+#   First author: A.Aleksandrov 
+#   Institute:  (4RUSLEB): Fiz.Institute Lebedev (FIAN), Moskva 
+#   Reference:  (J,ZET,33,614,1957) 
+#   Year:  1957 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M10/M1001.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M1001
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.4000E+01        7.5000E+00        1.2936E-04        0.0000E+00
+        7.0000E+01        7.5000E+00        1.0554E-04        0.0000E+00
+        8.8000E+01        7.5000E+00        9.0760E-05        0.0000E+00
+        1.1000E+02        7.5000E+00        7.7980E-05        0.0000E+00
+        1.2900E+02        7.5000E+00        6.2020E-05        0.0000E+00
+        1.4800E+02        7.5000E+00        6.9610E-05        0.0000E+00

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 1-H-1(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102.0 
+#   Incident energy:  2.5600e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30932-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-1(N,G)1-H-2,,SIG) 
+#   First author: P.Michel 
+#   Institute:  (3DDRROS): Zentralinstitut fuer Kernforschung (ZFK), Rossendorf 
+#   Reference:  (J,JP/G,15,1025,1989) 
+#   Year:  1989 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30932.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30932
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.5600E+01        2.8000E+00        2.4200E-05        7.0000E-07

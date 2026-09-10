@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 33-AS-75(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 33 
+#   A: 75 
+#   Nuclide: 33-AS-75 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.0980e+01 MeV - 1.4680e+01 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 74 
+#   Nuclide: 33-AS-74 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22291-004-0 (entry-subentry-pointer) 
+#   Reaction code: (33-AS-75(N,2N)33-AS-74,,SIG) 
+#   First author: I.Birn 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,NSE,116,125,1994) 
+#   Year:  1994 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22291.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22291
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0980E+01        2.4000E-01        1.9200E-01        0.0000E+00
+        1.1870E+01        2.5500E-01        6.0900E-01        0.0000E+00
+        1.4680E+01        1.0000E-01        1.1340E+00        0.0000E+00

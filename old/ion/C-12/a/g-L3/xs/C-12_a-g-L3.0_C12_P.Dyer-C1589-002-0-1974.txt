@@ -1,0 +1,53 @@
+# Header: 
+#   Title: 6-C-12(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102.0 
+#   Incident energy:  1.4100e+00 MeV - 2.9400e+00 MeV 
+# Residual: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+#   Level energy: 7.1200e+00 MeV 
+# EXFOR BIB:
+#   Entry id: C1589-002-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(A,G)8-O-16,PAR,SIG) 
+#   First author: P.Dyer 
+#   Institute:  (1USACAL): California Institute of Technology, Pasadena, CA 
+#   Reference:  (J,NP/A,233,(2),495,1974) 
+#   Year:  1974 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C15/C1589.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1589
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        1.4100E+00        1.5000E-02        2.9000E-10        1.0000E-10
+        1.5000E+00        1.5000E-02        6.4000E-10        1.4000E-10
+        1.6400E+00        1.5000E-02        1.0900E-09        1.7000E-10
+        1.7300E+00        1.5000E-02        1.7100E-09        6.0000E-10
+        1.7900E+00        1.5000E-02        2.0900E-09        4.0000E-10
+        1.8100E+00        1.5000E-02        2.4900E-09        2.5000E-10
+        1.8700E+00        1.5000E-02        2.9300E-09        3.1000E-10
+        1.8700E+00        1.5000E-02        3.2500E-09        5.0000E-10
+        1.9500E+00        1.5000E-02        4.9200E-09        4.0000E-10
+        1.9600E+00        1.5000E-02        3.9000E-09        6.0000E-10
+        2.0300E+00        1.5000E-02        7.0400E-09        6.0000E-10
+        2.0400E+00        1.5000E-02        8.3400E-09        6.5000E-10
+        2.0800E+00        1.5000E-02        9.1000E-09        6.0000E-10
+        2.1100E+00        1.5000E-02        1.4170E-08        7.0000E-10
+        2.1500E+00        1.5000E-02        1.6130E-08        1.3000E-09
+        2.1800E+00        1.5000E-02        1.9500E-08        8.1000E-10
+        2.2600E+00        1.5000E-02        2.9910E-08        1.0100E-09
+        2.3200E+00        1.5000E-02        3.9530E-08        1.3100E-09
+        2.4200E+00        1.5000E-02        3.7060E-08        1.6100E-09
+        2.4900E+00        1.5000E-02        3.1230E-08        1.2200E-09
+        2.5600E+00        1.5000E-02        2.0980E-08        1.3300E-09
+        2.7800E+00        1.5000E-02        8.4100E-09        7.3000E-10
+        2.8600E+00        1.5000E-02        6.6600E-09        7.0000E-10
+        2.9400E+00        1.5000E-02        5.6900E-09        7.5000E-10

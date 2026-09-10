@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 30-ZN-70(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 30 
+#   A: 70 
+#   Nuclide: 30-ZN-70 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4000e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 70 
+#   Nuclide: 29-CU-70-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30324-002-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-70(N,P)29-CU-70-G,M+,SIG) 
+#   First author: A.Szalay 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,RRL,15,(1),57,1973) 
+#   Year:  1973 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30324.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30324
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4000E+01        0.0000E+00        4.0000E-03        3.0000E-03

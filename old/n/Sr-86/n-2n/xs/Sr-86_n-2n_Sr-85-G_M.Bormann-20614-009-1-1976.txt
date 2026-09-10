@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 38-SR-86(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 38 
+#   A: 86 
+#   Nuclide: 38-SR-86 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2680e+01 MeV - 1.8120e+01 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 85 
+#   Nuclide: 38-SR-85-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20614-009-1 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-86(N,2N)38-SR-85-G,,SIG) 
+#   First author: M.Bormann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (J,ZP/A,277,203,7606) 
+#   Year:  1976 
+#   Facility:  (VDG  ): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20614
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2680E+01        1.0000E-01        2.5800E-01        2.4000E-02
+        1.3380E+01        1.2000E-01        4.0700E-01        3.6000E-02
+        1.4060E+01        1.3000E-01        5.4700E-01        4.8000E-02
+        1.5620E+01        1.6000E-01        6.4800E-01        5.5000E-02
+        1.6410E+01        1.6000E-01        7.1800E-01        6.3000E-02
+        1.7110E+01        1.5000E-01        7.5200E-01        6.6000E-02
+        1.8120E+01        1.3000E-01        7.4000E-01        6.2000E-02

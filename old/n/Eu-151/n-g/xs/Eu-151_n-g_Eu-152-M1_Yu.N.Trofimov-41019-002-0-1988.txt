@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 63-EU-151(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 63 
+#   A: 151 
+#   Nuclide: 63-EU-151 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.0000e-01 MeV - 2.2000e+00 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 152 
+#   Nuclide: 63-EU-152-M1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41019-002-0 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-151(N,G)63-EU-152-M1,,SIG) 
+#   First author: Yu.N.Trofimov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  ((J,YK,,(4),3,1988)=(R,INDC(CCP)-299,3,1988)) 
+#   Year:  1988 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/410/41019.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41019
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.0000E-01        1.3000E-01        6.2000E-01        7.0000E-02
+        6.0000E-01        1.3000E-01        5.6000E-01        6.0000E-02
+        7.0000E-01        1.3000E-01        4.6000E-01        5.0000E-02
+        8.0000E-01        1.3000E-01        3.6000E-01        4.0000E-02
+        9.0000E-01        1.2000E-01        2.7000E-01        3.0000E-02
+        1.0000E+00        1.2000E-01        2.4000E-01        3.0000E-02
+        1.2000E+00        1.1000E-01        1.9000E-01        2.0000E-02
+        1.4000E+00        1.0000E-01        1.7500E-01        2.0000E-02
+        1.7000E+00        9.0000E-02        1.2000E-01        1.5000E-02
+        1.8000E+00        9.0000E-02        1.6000E-01        2.0000E-02
+        2.0000E+00        9.0000E-02        1.2500E-01        1.5000E-02
+        2.2000E+00        9.0000E-02        7.6000E-02        8.0000E-03

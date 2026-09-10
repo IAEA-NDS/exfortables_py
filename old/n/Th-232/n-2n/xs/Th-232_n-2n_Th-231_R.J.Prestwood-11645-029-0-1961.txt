@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 90-TH-232(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2130e+01 MeV - 1.6500e+01 MeV 
+# Residual: 
+#   Z: 90 
+#   A: 231 
+#   Nuclide: 90-TH-231 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11645-029-0 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(N,2N)90-TH-231,,SIG) 
+#   First author: R.J.Prestwood 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,121,1438,1961) 
+#   Year:  1961 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11645.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11645
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2130E+01        1.5000E-01        1.7600E+00        1.7600E-01
+        1.3330E+01        2.3000E-01        1.6100E+00        1.6100E-01
+        1.3400E+01        2.0000E-01        1.6800E+00        1.6800E-01
+        1.3520E+01        1.5000E-01        1.6350E+00        1.6400E-01
+        1.3690E+01        1.0000E-01        1.6300E+00        1.6300E-01
+        1.3880E+01        1.0000E-01        1.5800E+00        1.5800E-01
+        1.4090E+01        1.0000E-01        1.5600E+00        1.5600E-01
+        1.4310E+01        1.3000E-01        1.5200E+00        1.5200E-01
+        1.4500E+01        2.0000E-01        1.4400E+00        1.4400E-01
+        1.4680E+01        2.6000E-01        1.4000E+00        1.4000E-01
+        1.4810E+01        3.1000E-01        1.2800E+00        1.2800E-01
+        1.4930E+01        3.6000E-01        1.2550E+00        1.2600E-01
+        1.6500E+01        3.0000E-01        4.8000E-01        0.0000E+00

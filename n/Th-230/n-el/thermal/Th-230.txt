@@ -1,0 +1,22 @@
+# Header: 
+#   title: 90-TH-230(N,EL) thermal cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 90 
+#   A: 230 
+#   Nuclide: 90-TH-230 
+# Reaction: 
+#   Type: N,EL 
+#   Type: N,EL 
+#   Incident energy       : 2.5000e-08 MeV - 2.5300e-08 MeV 
+# Residual: 
+#   Z: 90 
+#   A: 230 
+#   Nuclide: 90-TH-230
+#
+# Data Table
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V1002-557-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.0400E+01   2.5000E+00            CALC
+41670-002-0         S.M.Kalebin             1966   2.5000E-08   0.0000E+00   1.3000E+01   3.0000E+00           DERIV

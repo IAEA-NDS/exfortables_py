@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 22-TI-50(8-O-16,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 22 
+#   A: 50 
+#   Nuclide: 22-TI-50 
+# Reaction: 
+#   Process: 8-O-16,3N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.1885e+01 MeV - 4.8348e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 63 
+#   Nuclide: 30-ZN-63 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0351-006-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-50(8-O-16,3N)30-ZN-63,,SIG) 
+#   First author: R.Liguori Neto 
+#   Institute:  (3BZLUSP): University de Sao Paulo, Sao Paulo 
+#   Reference:  (J,NP/A,512,333,1990) 
+#   Year:  1990 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D03/D0351.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0351
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        2.1885E+01        5.0000E-02        1.6277E-04        7.9999E-05
+        2.3817E+01        5.0000E-02        1.7145E-03        4.6395E-04
+        2.5593E+01        5.0000E-02        1.3468E-02        2.0474E-03
+        2.9425E+01        5.0000E-02        5.6315E-02        9.9887E-03
+        3.3114E+01        5.0000E-02        1.2527E-01        1.5370E-02
+        3.6913E+01        5.0000E-02        1.7247E-01        2.1120E-02
+        4.2530E+01        5.0000E-02        1.2113E-01        1.3700E-02
+        4.8348E+01        5.0000E-02        4.3738E-02        9.6967E-03

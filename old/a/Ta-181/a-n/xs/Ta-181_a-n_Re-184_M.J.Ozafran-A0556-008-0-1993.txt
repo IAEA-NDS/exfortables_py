@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 73-TA-181(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  9.9000e+00 MeV - 8.1100e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 184 
+#   Nuclide: 75-RE-184 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0556-008-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-181(A,N)75-RE-184,,SIG) 
+#   First author: M.J.Ozafran 
+#   Institute:  (3ARGCNE): Comision Nacional de Energia Atomica, Buenos Aires 
+#   Reference:  (J,JRN,172,155,1993) 
+#   Year:  1993 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0556.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0556
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        9.9000E+00        0.0000E+00        3.1000E-04        1.2000E-04
+        1.8700E+01        0.0000E+00        1.5740E-02        2.8000E-03
+        2.5300E+01        0.0000E+00        1.2510E-02        2.4000E-03
+        3.2900E+01        0.0000E+00        7.0700E-03        1.2500E-03
+        4.1800E+01        0.0000E+00        3.5300E-03        7.1000E-04
+        4.9900E+01        0.0000E+00        1.7300E-03        3.8000E-04
+        5.7200E+01        0.0000E+00        1.2200E-03        2.2000E-04
+        6.7800E+01        0.0000E+00        6.6000E-04        1.1000E-04
+        7.0800E+01        0.0000E+00        6.0000E-04        1.2000E-04
+        7.3900E+01        0.0000E+00        5.2000E-04        7.0000E-05
+        7.6900E+01        0.0000E+00        4.9000E-04        9.0000E-05
+        8.1100E+01        0.0000E+00        3.8000E-04        1.0000E-04

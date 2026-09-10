@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 65-TB-159(20-CA-40,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 65 
+#   A: 159 
+#   Nuclide: 65-TB-159 
+# Reaction: 
+#   Process: 20-CA-40,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.8300e+02 MeV - 2.0500e+02 MeV 
+# Residual: 
+#   Z: 84 
+#   A: 196 
+#   Nuclide: 84-PO-196 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0476-004-0 (entry-subentry-pointer) 
+#   Reaction code: (65-TB-159(20-CA-40,X)84-PO-196,,SIG) 
+#   First author: A.N.Andreev 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,SNP,52,412,1990) 
+#   Year:  1990 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0476.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0476
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.8300E+02        0.0000E+00        2.3000E-05        4.6000E-06
+        1.8900E+02        0.0000E+00        1.9000E-05        3.8000E-06
+        1.9300E+02        0.0000E+00        1.4000E-05        2.8000E-06
+        2.0500E+02        0.0000E+00        2.5000E-06        5.0000E-07

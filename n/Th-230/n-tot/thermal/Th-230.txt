@@ -1,0 +1,28 @@
+# Header: 
+#   title: 90-TH-230(N,TOT) thermal cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 90 
+#   A: 230 
+#   Nuclide: 90-TH-230 
+# Reaction: 
+#   Type: N,TOT 
+#   Type: N,TOT 
+#   Incident energy       : 2.5000e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Thermal Simple Mean       |  Simple Stdev        : 6.20000E+01  |   1.13137E+01   (N = 2)
+#   Thermal Weighted Mean    +/- Weighted Error      : 6.20000E+01 +/-  2.12132E+00   (N = 2)
+#   SPA Simple Mean           |  Simple Stdev        : 5.50000E+01  |           NAN   (N = 1)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+41670-003-0         S.M.Kalebin             1966   2.5000E-08   0.0000E+00   7.0000E+01   3.0000E+00                
+40377-006-0         R.N.Ivanov              1977   2.5000E-08   0.0000E+00   5.4000E+01   3.0000E+00                
+41670-004-0         S.M.Kalebin             1966   2.5000E-08   0.0000E+00   5.5000E+01   1.0000E+00     SPA        

@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 49-IN-115(A,N)  Differential with energy of outgoing particle 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 49 
+#   A: 115 
+#   Nuclide: 49-IN-115 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 5 - None 
+#   Incident energy:  1.8300e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 118 
+#   Nuclide: 51-SB-118 
+#   Outgoing energy:  2.0200e+00 MeV - 8.9900e+00 MeV 
+# EXFOR BIB:
+#   Entry id: A0835-002-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-115(A,N)51-SB-118,,DE) 
+#   First author: B.V.Zhuravlev 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (S,ISINN-14,304,2007) 
+#   Year:  2007 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A08/A0835.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0835
+#
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
+        2.0200E+00        3.0000E-02        1.7000E-07        1.1900E-08
+        3.0300E+00        3.0000E-02        8.1000E-08        5.6700E-09
+        4.0400E+00        3.0000E-02        3.2000E-08        2.2400E-09
+        5.0500E+00        3.0000E-02        1.2100E-08        8.4700E-10
+        6.0000E+00        3.0000E-02        3.4200E-09        2.3940E-10
+        6.9900E+00        3.0000E-02        9.2000E-10        1.9320E-10
+        8.0000E+00        3.0000E-02        2.9000E-10        8.7000E-11
+        8.9900E+00        3.0000E-02        4.0000E-11        4.0000E-11

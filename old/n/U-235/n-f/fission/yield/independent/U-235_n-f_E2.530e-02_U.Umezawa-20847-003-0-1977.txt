@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission yield 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 55 
+#   A: 134 
+#   Nuclide: 55-CS-134-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20847-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)55-CS-134-G,IND,FY,,MXW) 
+#   First author: U.Umezawa 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  ((P,INDC(JAP)-37,33,1977)=(P,NEANDC(J)-51,33,1977)) 
+#   Year:  1977 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20847.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20847
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             55.0            134.0G                        7.8000E-08        0.0000E+00

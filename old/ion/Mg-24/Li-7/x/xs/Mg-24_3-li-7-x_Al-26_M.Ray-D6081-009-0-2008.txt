@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 12-MG-24(3-LI-7,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 12 
+#   A: 24 
+#   Nuclide: 12-MG-24 
+# Reaction: 
+#   Process: 3-LI-7,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.1900e+00 MeV - 2.2850e+01 MeV 
+# Residual: 
+#   Z: 13 
+#   A: 26 
+#   Nuclide: 13-AL-26 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6081-009-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-24(3-LI-7,X)13-AL-26,,SIG,,,DERIV) 
+#   First author: M.Ray 
+#   Institute:  (3INDSAH): Saha Institute of Nuclear Physics, Kolkata 
+#   Reference:  (J,PR/C,78,064617,2008) 
+#   Year:  2008 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6081.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6081
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        5.1900E+00        3.0000E-02        8.8759E-03        1.3033E-03
+        6.0200E+00        3.0000E-02        3.0386E-02        5.4706E-03
+        6.9200E+00        3.0000E-02        5.5116E-02        8.0929E-03
+        7.6000E+00        3.0000E-02        7.8784E-02        1.4184E-02
+        7.9000E+00        3.0000E-02        9.2342E-02        1.6625E-02
+        8.2100E+00        3.0000E-02        1.0823E-01        1.2152E-02
+        8.6600E+00        3.0000E-02        1.1261E-01        2.0275E-02
+        9.4900E+00        3.0000E-02        1.4868E-01        2.1832E-02
+        1.0240E+01        3.0000E-02        1.6748E-01        2.4592E-02
+        1.1070E+01        3.0000E-02        1.8132E-01        2.6623E-02
+        1.1910E+01        3.0000E-02        1.9629E-01        3.5340E-02
+        1.2660E+01        3.0000E-02        2.0424E-01        2.9988E-02
+        1.3490E+01        3.0000E-02        2.1250E-01        3.8258E-02
+        1.5080E+01        3.0000E-02        2.0421E-01        2.9985E-02
+        1.6660E+01        3.0000E-02        1.8861E-01        2.7694E-02
+        1.8170E+01        3.0000E-02        1.6742E-01        2.4583E-02
+        1.9760E+01        3.0000E-02        1.4861E-01        2.1822E-02
+        2.1420E+01        3.0000E-02        1.3192E-01        1.9370E-02
+        2.2850E+01        3.0000E-02        1.1254E-01        2.0262E-02

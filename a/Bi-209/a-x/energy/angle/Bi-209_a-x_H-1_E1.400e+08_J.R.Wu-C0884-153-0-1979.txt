@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 83-BI-209(A,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.4000e+02 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Outgoing energy:  1.1920e+01 MeV - 1.3170e+02 MeV 
+# EXFOR BIB:
+#   Entry id: C0884-153-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(A,X)1-H-1,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,659,1979) 
+#   Year:  1979 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C08/C0884.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0884
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.1920E+01        0.0000E+00        3.0000E+01        0.0000E+00        1.0850E-09        0.0000E+00
+        1.4020E+01        0.0000E+00        3.0000E+01        0.0000E+00        2.9040E-09        0.0000E+00
+        2.1840E+01        0.0000E+00        3.0000E+01        0.0000E+00        4.7380E-09        0.0000E+00
+        3.6360E+01        0.0000E+00        3.0000E+01        0.0000E+00        4.9470E-09        0.0000E+00
+        5.1820E+01        0.0000E+00        3.0000E+01        0.0000E+00        4.2410E-09        0.0000E+00
+        6.6250E+01        0.0000E+00        3.0000E+01        0.0000E+00        2.5760E-09        0.0000E+00
+        7.4880E+01        0.0000E+00        3.0000E+01        0.0000E+00        1.4930E-09        0.0000E+00
+        8.2530E+01        0.0000E+00        3.0000E+01        0.0000E+00        8.6590E-10        0.0000E+00
+        8.9230E+01        0.0000E+00        3.0000E+01        0.0000E+00        5.2770E-10        0.0000E+00
+        9.5900E+01        0.0000E+00        3.0000E+01        0.0000E+00        2.7740E-10        0.0000E+00
+        1.0060E+02        0.0000E+00        3.0000E+01        0.0000E+00        1.4590E-10        0.0000E+00
+        1.0730E+02        0.0000E+00        3.0000E+01        0.0000E+00        6.3000E-11        0.0000E+00
+        1.1480E+02        0.0000E+00        3.0000E+01        0.0000E+00        2.0230E-11        0.0000E+00
+        1.2050E+02        0.0000E+00        3.0000E+01        0.0000E+00        1.0130E-11        0.0000E+00
+        1.2430E+02        0.0000E+00        3.0000E+01        0.0000E+00        3.9660E-12        0.0000E+00
+        1.2710E+02        0.0000E+00        3.0000E+01        0.0000E+00        1.9880E-12        0.0000E+00
+        1.2980E+02        0.0000E+00        3.0000E+01        0.0000E+00        8.5960E-13        0.0000E+00
+        1.3170E+02        0.0000E+00        3.0000E+01        0.0000E+00        4.9960E-13        0.0000E+00

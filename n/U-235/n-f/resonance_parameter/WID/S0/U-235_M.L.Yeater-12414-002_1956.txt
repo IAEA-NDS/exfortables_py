@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 92-U-235 Resonance Parameter: WID,,S0 
+#   Source                : EXFOR 
+#   Date Created          : 2026-09-07 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12414-002-0 
+#   First Author          : M.L.Yeater 
+#   Institute             : (1USAKAP): Knolls Atomic Power Laboratory, Schenectady, NY 
+#   Reference             : (J,PR,104,479,56) 
+#   Year                  : 1956 
+#   Facility              : None 
+# Target: 
+#   Z                     : 92 
+#   A                     : 235 
+#   Isomer                :  
+#   Nuclide               : 92-U-235 
+# Reaction: 
+#   EXFOR Reaction        : (92-U-235(N,F),,WID,,S0) 
+#   Incident Energy       : 8.8000e+00 eV - 1.9300e+01 eV 
+#   Resonance Energy Type : EN-RES 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/124/12414.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12414
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   8.8000E+00          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.1300E+02   1.0000E+01          NAN          NAN
+   1.1700E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.1800E+01   3.0000E+00          NAN          NAN
+   1.2300E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   5.0000E+01   5.0000E+00          NAN          NAN
+   1.9300E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.1100E+02   1.0000E+01          NAN          NAN

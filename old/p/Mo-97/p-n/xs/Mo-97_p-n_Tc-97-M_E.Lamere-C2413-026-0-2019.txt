@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 42-MO-97(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 42 
+#   A: 97 
+#   Nuclide: 42-MO-97 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  9.0100e+00 MeV - 1.5040e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 97 
+#   Nuclide: 43-TC-97-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2413-026-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-97(P,N)43-TC-97-M,,SIG) 
+#   First author: E.Lamere 
+#   Institute:  (1USANOT): University of Notre Dame, Notre Dame, IN 
+#   Reference:  (J,PR/C,100,034614,2019) 
+#   Year:  2019 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C24/C2413.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2413
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.0100E+00        8.0000E-02        1.3400E-01        2.9000E-02
+        1.0050E+01        4.0000E-02        1.5600E-01        3.4000E-02
+        1.0980E+01        1.1000E-01        1.6000E-01        3.3000E-02
+        1.1980E+01        1.0000E-01        1.1000E-01        2.8000E-02
+        1.3020E+01        6.0000E-02        6.7000E-02        1.5000E-02
+        1.4020E+01        6.0000E-02        4.3000E-02        1.0000E-02
+        1.5040E+01        6.0000E-02        2.7000E-02        6.0000E-03

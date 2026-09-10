@@ -1,0 +1,30 @@
+# Header: 
+#   title: 54-XE-136(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 54 
+#   A: 136 
+#   Nuclide: 54-XE-136 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   MXW Simple Mean           |  Simple Stdev        : 1.05000E-03  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22253-024-0         H.Beer                  1991   2.5000E-02   0.0000E+00   1.0500E-03   4.2000E-05     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+21991-010-0         B.Leist                 1985   3.0000E-02   0.0000E+00   1.0000E-04   0.0000E+00     MXW   DERIV
+21991-011-0         B.Leist                 1985   3.0000E-02   0.0000E+00   1.3900E-03   0.0000E+00     MXW   DERIV
+V0102-283-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   9.1000E-04   8.0000E-05     MXW   RECOM
+V1002-074-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   9.1000E-04   8.0000E-05     MXW   RECOM

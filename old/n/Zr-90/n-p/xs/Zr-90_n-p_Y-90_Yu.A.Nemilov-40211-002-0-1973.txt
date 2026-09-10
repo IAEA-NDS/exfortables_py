@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 40-ZR-90(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  7.6000e+00 MeV - 9.3000e+00 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 90 
+#   Nuclide: 39-Y-90 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40211-002-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(N,P)39-Y-90,,SIG) 
+#   First author: Yu.A.Nemilov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,YK-12,(1),61,1973) 
+#   Year:  1973 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40211.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40211
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.6000E+00        3.0000E-01        1.6000E-02        2.0000E-03
+        8.3000E+00        3.0000E-01        3.3000E-02        4.0000E-03
+        8.8000E+00        3.0000E-01        2.2000E-02        3.0000E-03
+        9.3000E+00        3.0000E-01        2.4000E-02        3.0000E-03

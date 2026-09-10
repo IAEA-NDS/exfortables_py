@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission yield 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13082-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA) 
+#   First author: H.V.Weiss 
+#   Institute:  (1USANRD): U.S. Naval Radiolog. Defense Laboratory , San Francisco, CA 
+#   Reference:  (J,PR,139,B304,1965) 
+#   Year:  1965 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/130/13082.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13082
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             48.0            121.00.0                      6.4000E-05        5.0000E-06
+             49.0            121.01.0                      3.2000E-05        0.0000E+00
+             50.0            121.00.0                      1.1000E-04        1.0000E-05

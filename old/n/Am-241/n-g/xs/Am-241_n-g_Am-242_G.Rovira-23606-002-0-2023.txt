@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 95-AM-241(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 95 
+#   A: 241 
+#   Nuclide: 95-AM-241 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.3500e-02 MeV - 1.2770e-01 MeV 
+# Residual: 
+#   Z: 95 
+#   A: 242 
+#   Nuclide: 95-AM-242 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23606-002-0 (entry-subentry-pointer) 
+#   Reaction code: (95-AM-241(N,G)95-AM-242,,SIG) 
+#   First author: G.Rovira 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,NST,60,489,2023) 
+#   Year:  2023 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/236/23606.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23606
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.3500E-02        0.0000E+00        2.7200E+00        2.9000E-01
+        5.1500E-02        0.0000E+00        2.1400E+00        2.6000E-01
+        1.2770E-01        0.0000E+00        1.3200E+00        1.0000E-01

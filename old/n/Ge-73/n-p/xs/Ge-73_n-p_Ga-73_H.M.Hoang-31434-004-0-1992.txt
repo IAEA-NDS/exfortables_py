@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 32-GE-73(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 32 
+#   A: 73 
+#   Nuclide: 32-GE-73 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3000e+01 MeV - 1.6600e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 73 
+#   Nuclide: 31-GA-73 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31434-004-0 (entry-subentry-pointer) 
+#   Reaction code: (32-GE-73(N,P)31-GA-73,,SIG) 
+#   First author: H.M.Hoang 
+#   Institute:  (3POLIPJ): Narodowe Centrum Badan Jadrowych, Swierk+Warszawa 
+#   Reference:  (J,ZP/A,342,(3),283,199205) 
+#   Year:  1992 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31434.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31434
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3000E+01        4.0000E-01        1.8000E-02        2.3000E-03
+        1.3400E+01        2.0000E-01        2.0600E-02        2.5000E-03
+        1.3900E+01        3.0000E-01        2.2800E-02        3.0000E-03
+        1.4500E+01        3.0000E-01        2.4400E-02        3.3000E-03
+        1.5000E+01        3.0000E-01        2.4900E-02        3.6000E-03
+        1.5400E+01        2.0000E-01        2.4700E-02        3.9000E-03
+        1.5900E+01        5.0000E-01        2.3900E-02        4.6000E-03
+        1.6600E+01        5.0000E-01        2.4800E-02        5.8000E-03

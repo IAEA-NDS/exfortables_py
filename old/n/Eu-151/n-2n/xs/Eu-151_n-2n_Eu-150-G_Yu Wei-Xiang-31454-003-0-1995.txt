@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 63-EU-151(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 63 
+#   A: 151 
+#   Nuclide: 63-EU-151 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  9.5000e+00 MeV - 9.9000e+00 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 150 
+#   Nuclide: 63-EU-150-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31454-003-0 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-151(N,2N)63-EU-150-G,,SIG) 
+#   First author: Yu Wei-Xiang 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CNP,17,268,1995) 
+#   Year:  1995 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31454.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31454
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.5000E+00        5.0000E-01        3.0700E-01        3.5000E-02
+        9.9000E+00        5.0000E-01        4.9600E-01        4.0000E-02

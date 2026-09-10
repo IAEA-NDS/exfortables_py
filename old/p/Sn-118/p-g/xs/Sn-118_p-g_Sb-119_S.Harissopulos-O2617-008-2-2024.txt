@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 50-SN-118(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 50 
+#   A: 118 
+#   Nuclide: 50-SN-118 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5740e+00 MeV - 5.1530e+00 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 119 
+#   Nuclide: 51-SB-119 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2617-008-2 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-118(P,G)51-SB-119,,SIG,,SFC) 
+#   First author: S.Harissopulos 
+#   Institute:  (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
+#   Reference:  (J,PR/C,110,015803,2024) 
+#   Year:  2024 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O26/O2617.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2617
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
+        2.5740E+00        0.0000E+00        6.3000E+14        1.2600E+14
+        2.7720E+00        0.0000E+00        5.9500E+14        1.1000E+14
+        2.9710E+00        0.0000E+00        5.4200E+14        9.4700E+13
+        3.1690E+00        0.0000E+00        4.8300E+14        8.4800E+13
+        3.3670E+00        0.0000E+00        4.7400E+14        8.3600E+13
+        3.5660E+00        0.0000E+00        4.7000E+14        8.1100E+13
+        3.7640E+00        0.0000E+00        4.2400E+14        7.3500E+13
+        3.9630E+00        0.0000E+00        4.3100E+14        7.4500E+13
+        4.1610E+00        0.0000E+00        3.6000E+14        6.2200E+13
+        4.2600E+00        0.0000E+00        3.4600E+14        5.9800E+13
+        4.3600E+00        0.0000E+00        3.4300E+14        5.9400E+13
+        4.4590E+00        0.0000E+00        3.1100E+14        5.3800E+13
+        4.5580E+00        0.0000E+00        2.0400E+14        3.5200E+13
+        4.6570E+00        0.0000E+00        1.5400E+14        2.6500E+13
+        4.7560E+00        0.0000E+00        1.0800E+14        1.8700E+13
+        4.8560E+00        0.0000E+00        8.6500E+13        1.4900E+13
+        4.9550E+00        0.0000E+00        6.8300E+13        1.1800E+13
+        5.0540E+00        0.0000E+00        5.5000E+13        9.4700E+12
+        5.1530E+00        0.0000E+00        6.6400E+13        1.1400E+13

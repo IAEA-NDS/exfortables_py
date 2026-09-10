@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 80-HG-196(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 80 
+#   A: 196 
+#   Nuclide: 80-HG-196 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 80 
+#   A: 195 
+#   Nuclide: 80-HG-195-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32781-004-1 (entry-subentry-pointer) 
+#   Reaction code: (80-HG-196(N,2N)80-HG-195-M,,SIG,,AV) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRHXU): Hexi University , Zhangye 
+#   Reference:  (J,PR/C,98,014619,2018) 
+#   Year:  2018 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32781.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32781
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3500E+01        2.0000E-01        9.7700E-01        7.4000E-02
+        1.4100E+01        2.0000E-01        1.0320E+00        7.6000E-02
+        1.4800E+01        2.0000E-01        1.1100E+00        7.9000E-02

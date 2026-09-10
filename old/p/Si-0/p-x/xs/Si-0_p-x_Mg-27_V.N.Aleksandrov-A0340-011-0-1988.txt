@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 14-SI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 14 
+#   A: 0 
+#   Nuclide: 14-SI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.6000e+01 MeV - 9.9000e+01 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 27 
+#   Nuclide: 12-MG-27 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0340-011-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-0(P,X)12-MG-27,CUM,SIG) 
+#   First author: V.N.Aleksandrov 
+#   Institute:  (4RUSRUS): Russia 
+#   Reference:  (J,SJA,64,511,1988) 
+#   Year:  1988 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A03/A0340.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0340
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.6000E+01        1.3000E+00        1.2000E-05        2.1000E-06
+        4.0000E+01        1.8000E+00        1.4000E-04        2.5000E-05
+        4.5000E+01        1.6000E+00        1.6000E-04        3.0000E-05
+        5.0000E+01        1.4000E+00        1.9000E-04        3.3000E-05
+        5.5000E+01        1.3000E+00        2.2000E-04        4.1000E-05
+        6.0000E+01        1.2000E+00        2.5000E-04        4.6000E-05
+        6.5000E+01        1.1000E+00        2.8000E-04        5.2000E-05
+        7.0000E+01        9.0000E-01        2.9000E-04        5.5000E-05
+        7.5000E+01        2.2000E+00        3.6000E-04        6.8000E-05
+        8.0000E+01        2.0000E+00        2.9000E-04        5.5000E-05
+        8.5000E+01        1.9000E+00        2.8000E-04        5.1000E-05
+        9.0000E+01        1.8000E+00        2.6000E-04        4.8000E-05
+        9.5000E+01        1.7000E+00        2.4000E-04        4.6000E-05
+        9.9000E+01        1.5000E+00        2.3000E-04        4.5000E-05

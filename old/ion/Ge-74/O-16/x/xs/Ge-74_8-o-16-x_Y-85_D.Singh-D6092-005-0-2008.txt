@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 32-GE-74(8-O-16,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 32 
+#   A: 74 
+#   Nuclide: 32-GE-74 
+# Reaction: 
+#   Process: 8-O-16,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.4500e+01 MeV - 9.9400e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 85 
+#   Nuclide: 39-Y-85 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6092-005-0 (entry-subentry-pointer) 
+#   Reaction code: (32-GE-74(8-O-16,X)39-Y-85,,SIG) 
+#   First author: D.Singh 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,CHP,46,27,200802) 
+#   Year:  2008 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6092.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6092
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.4500E+01        1.1000E+00        1.0500E-01        1.5800E-02
+        7.8800E+01        1.3000E+00        9.1900E-02        1.6700E-02
+        8.3100E+01        1.2000E+00        1.4440E-01        1.5100E-02
+        8.7300E+01        1.3000E+00        1.5960E-01        1.9600E-02
+        9.1600E+01        1.4000E+00        1.4950E-01        2.9900E-02
+        9.5700E+01        1.2000E+00        1.4670E-01        2.1200E-02
+        9.9400E+01        1.2000E+00        7.8400E-02        9.1000E-03

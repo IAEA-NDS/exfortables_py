@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 62-SM-149(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 62 
+#   A: 149 
+#   Nuclide: 62-SM-149 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  5.4300e+00 MeV - 8.5700e+00 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 149 
+#   Nuclide: 63-EU-149 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0646-005-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-149(P,N)63-EU-149,,SIG) 
+#   First author: M.Ivascu 
+#   Institute:  (3RUMBUC): Horia Hulubei National Institute (IFIN-HH), Magurele 
+#   Reference:  (J,RJP,55,1006,2010) 
+#   Year:  2010 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D06/D0646.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0646
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.4300E+00        9.0000E-02        3.5391E-03        3.1410E-03
+        5.4300E+00        9.0000E-02        3.1012E-03        3.0878E-03
+        5.4300E+00        9.0000E-02        3.3359E-03        3.2443E-03
+        5.4300E+00        9.0000E-02        4.9944E-03        3.2727E-03
+        5.4300E+00        9.0000E-02        3.2084E-03        3.4454E-03
+        6.5700E+00        2.0000E-02        2.7765E-02        7.4705E-03
+        6.5700E+00        2.0000E-02        2.8539E-02        7.3865E-03
+        6.5700E+00        2.0000E-02        2.9575E-02        7.7663E-03
+        6.5700E+00        2.0000E-02        2.9642E-02        7.8332E-03
+        6.5700E+00        2.0000E-02        3.0641E-02        8.2040E-03
+        7.6600E+00        9.0000E-02        1.3114E-01        1.0955E-02
+        7.6600E+00        9.0000E-02        1.3525E-01        1.0962E-02
+        7.6600E+00        9.0000E-02        1.3880E-01        1.1358E-02
+        7.6600E+00        9.0000E-02        1.3131E-01        1.0823E-02
+        7.6600E+00        9.0000E-02        1.4487E-01        1.2018E-02
+        8.5700E+00        2.0000E-02        2.5402E-01        2.1200E-02
+        8.5700E+00        2.0000E-02        2.5918E-01        2.1001E-02
+        8.5700E+00        2.0000E-02        2.6564E-01        2.1735E-02
+        8.5700E+00        2.0000E-02        2.6423E-01        2.1696E-02
+        8.5700E+00        2.0000E-02        2.7765E-01        2.2988E-02

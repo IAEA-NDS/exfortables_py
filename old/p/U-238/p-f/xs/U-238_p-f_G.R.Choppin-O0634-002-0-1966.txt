@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 92-U-238(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  7.1000e+00 MeV - 1.2000e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0634-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(P,F),,SIG,,,EXP) 
+#   First author: G.R.Choppin 
+#   Institute:  (1USAFSU): Florida State University, Tallahassee, FL 
+#   Reference:  (J,JIN,28,1509,1966) 
+#   Year:  1966 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O06/O0634.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0634
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2000E+01        1.0000E-01        1.3720E-01        0.0000E+00
+        9.4000E+00        1.0000E-01        3.6300E-02        0.0000E+00
+        7.1000E+00        1.0000E-01        1.1000E-03        0.0000E+00

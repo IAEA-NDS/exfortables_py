@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 49-IN-115(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-07-31 
+#   Date created: 2026-09-07 
 # Target: 
 #   Z: 49 
 #   A: 115 
 #   Nuclide: 49-IN-115 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  1.1200e+00 MeV - 4.1200e+00 MeV 
 # Residual: 
 #   Z: 49 
@@ -26,12 +26,12 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33092.x4 
 #   nds:  https://nds.iaea.org/EXFOR/33092
 #
-#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.1200E+00        1.2000E-01        2.7133E-01        3.3740E-03
         1.1200E+00        1.2000E-01        2.3128E-01        2.8760E-03
         1.1200E+00        1.2000E-01        2.3332E-01        2.9010E-03
-        1.1200E+00        1.2000E-01        2.7133E-01        3.3740E-03
-        2.1200E+00        1.5000E-01        1.1471E-01        1.5540E-03
         2.1200E+00        1.5000E-01        1.2041E-01        1.6310E-03
+        2.1200E+00        1.5000E-01        1.1471E-01        1.5540E-03
         2.1200E+00        1.5000E-01        1.2286E-01        1.6640E-03
         3.1200E+00        2.1000E-01        4.1348E-02        5.3800E-04
         3.1200E+00        2.1000E-01        4.9247E-02        6.4100E-04

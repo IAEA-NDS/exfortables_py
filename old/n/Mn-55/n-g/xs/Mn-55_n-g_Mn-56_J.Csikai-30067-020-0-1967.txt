@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 25-MN-55(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 25 
+#   A: 55 
+#   Nuclide: 25-MN-55 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.3400e+01 MeV - 1.5000e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 56 
+#   Nuclide: 25-MN-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30067-020-0 (entry-subentry-pointer) 
+#   Reaction code: (25-MN-55(N,G)25-MN-56,,SIG) 
+#   First author: J.Csikai 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NP/A,95,229,1967) 
+#   Year:  1967 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30067.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30067
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3400E+01        0.0000E+00        1.3000E-03        7.0000E-05
+        1.3600E+01        0.0000E+00        1.3000E-03        7.0000E-05
+        1.3900E+01        0.0000E+00        1.2700E-03        6.0000E-05
+        1.4100E+01        0.0000E+00        1.3200E-03        7.0000E-05
+        1.4300E+01        0.0000E+00        1.2500E-03        6.0000E-05
+        1.4500E+01        0.0000E+00        1.2500E-03        6.0000E-05
+        1.5000E+01        0.0000E+00        1.2000E-03        6.0000E-05

@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 46-PD-104(3-LI-6,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 46 
+#   A: 104 
+#   Nuclide: 46-PD-104 
+# Reaction: 
+#   Process: 3-LI-6,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.4000e+01 MeV - 9.9000e+01 MeV 
+# Residual: 
+#   Z: 48 
+#   A: 105 
+#   Nuclide: 48-CD-105 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: T0196-008-0 (entry-subentry-pointer) 
+#   Reaction code: (46-PD-104(3-LI-6,X)48-CD-105,,SIG) 
+#   First author: C.M.Castaneda 
+#   Institute:  (1USAINU): Indiana University, Bloomington, IN 
+#   Reference:  (J,PR/C,16,1437,1977) 
+#   Year:  1977 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T01/T0196.x4 
+#   nds:  https://nds.iaea.org/EXFOR/T0196
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.4000E+01        0.0000E+00        2.6400E-01        6.6000E-02
+        6.6000E+01        0.0000E+00        2.8000E-01        7.0000E-02
+        7.7000E+01        0.0000E+00        2.2400E-01        5.6000E-02
+        8.4000E+01        0.0000E+00        1.1100E-01        2.7750E-02
+        9.1000E+01        0.0000E+00        1.1900E-01        2.9750E-02
+        9.9000E+01        0.0000E+00        4.5000E-02        1.1250E-02

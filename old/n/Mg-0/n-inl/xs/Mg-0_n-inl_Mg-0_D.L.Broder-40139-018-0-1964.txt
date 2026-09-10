@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 12-MG-0(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 12 
+#   A: 0 
+#   Nuclide: 12-MG-0 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4.0 
+#   Incident energy:  1.6000e+00 MeV - 4.0000e+00 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 0 
+#   Nuclide: 12-MG-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40139-018-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-0(N,INL)12-MG-0,,SIG) 
+#   First author: D.L.Broder 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (J,AE,16,103,1964) 
+#   Year:  1964 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40139.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40139
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.6000E+00        3.0000E-02        2.3000E-01        0.0000E+00
+        1.7000E+00        3.0000E-02        2.4000E-01        0.0000E+00
+        1.8000E+00        3.0000E-02        2.1000E-01        0.0000E+00
+        2.0000E+00        3.0000E-02        2.9000E-01        0.0000E+00
+        2.1000E+00        3.0000E-02        4.3000E-01        0.0000E+00
+        2.2000E+00        3.0000E-02        4.6000E-01        0.0000E+00
+        2.4000E+00        3.0000E-02        4.9000E-01        0.0000E+00
+        2.5000E+00        3.0000E-02        5.4000E-01        0.0000E+00
+        2.6000E+00        3.0000E-02        6.1000E-01        0.0000E+00
+        2.8000E+00        3.0000E-02        5.9000E-01        0.0000E+00
+        2.9000E+00        3.0000E-02        5.5000E-01        0.0000E+00
+        3.0000E+00        3.0000E-02        6.9000E-01        0.0000E+00
+        3.5000E+00        8.0000E-02        6.2000E-01        0.0000E+00
+        4.0000E+00        8.0000E-02        7.3000E-01        0.0000E+00

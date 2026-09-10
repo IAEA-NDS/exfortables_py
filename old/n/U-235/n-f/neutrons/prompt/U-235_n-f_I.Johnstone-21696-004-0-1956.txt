@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission-neutron yield, nu-bar 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 1 - 18.0 
+#   Incident energy:  2.5000e+00 MeV - 1.4100e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21696-004-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F),PR,NU) 
+#   First author: I.Johnstone 
+#   Institute:  (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference:  (R,AERE-NP/R-1912,195603) 
+#   Year:  1956 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/216/21696.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21696
+#
+#       E_in(MeV)        dE_in(MeV)      Multiplicity     dMultiplicity
+        2.5000E+00        0.0000E+00        2.6400E+00        1.9000E-01
+        1.4100E+01        0.0000E+00        4.5200E+00        3.2000E-01

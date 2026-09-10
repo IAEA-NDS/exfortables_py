@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 22-TI-49(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 22 
+#   A: 49 
+#   Nuclide: 22-TI-49 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3490e+01 MeV - 1.4980e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 48 
+#   Nuclide: 21-SC-48 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22089-031-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-49(N,X)21-SC-48,,SIG) 
+#   First author: Y.Ikeda 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (R,JAERI-1312,1988) 
+#   Year:  1988 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22089.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22089
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3490E+01        0.0000E+00        1.7600E-03        1.6000E-04
+        1.3610E+01        0.0000E+00        2.4300E-03        2.4000E-04
+        1.3990E+01        0.0000E+00        3.0800E-03        3.0000E-04
+        1.4700E+01        0.0000E+00        6.9000E-03        5.9000E-04
+        1.4980E+01        0.0000E+00        8.9700E-03        6.3000E-04

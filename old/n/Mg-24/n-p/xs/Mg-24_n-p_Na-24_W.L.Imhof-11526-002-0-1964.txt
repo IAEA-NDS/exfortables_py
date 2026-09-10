@@ -1,0 +1,53 @@
+# Header: 
+#   Title: 12-MG-24(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 12 
+#   A: 24 
+#   Nuclide: 12-MG-24 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.2050e+01 MeV - 1.9600e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11526-002-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-24(N,P)11-NA-24,,SIG) 
+#   First author: W.L.Imhof 
+#   Institute:  (1USALMS): Lockheed Missiles and Space Division , Palo Alto, CA 
+#   Reference:  (W,IMHOF,1964) 
+#   Year:  1964 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11526.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11526
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2050E+01        0.0000E+00        1.6630E-01        2.4945E-02
+        1.2230E+01        0.0000E+00        1.7900E-01        2.6850E-02
+        1.2260E+01        0.0000E+00        1.8610E-01        2.7915E-02
+        1.2600E+01        0.0000E+00        1.7770E-01        2.6655E-02
+        1.2740E+01        0.0000E+00        1.9510E-01        2.9265E-02
+        1.2940E+01        0.0000E+00        2.0250E-01        3.0375E-02
+        1.3360E+01        0.0000E+00        2.0440E-01        3.0660E-02
+        1.3550E+01        0.0000E+00        2.0350E-01        3.0525E-02
+        1.3640E+01        0.0000E+00        1.9460E-01        2.9190E-02
+        1.3960E+01        0.0000E+00        1.9860E-01        2.9790E-02
+        1.4070E+01        0.0000E+00        2.0760E-01        3.1140E-02
+        1.4490E+01        0.0000E+00        1.8030E-01        2.7045E-02
+        1.4950E+01        0.0000E+00        1.7350E-01        2.6025E-02
+        1.5740E+01        0.0000E+00        1.5250E-01        2.2875E-02
+        1.5900E+01        0.0000E+00        1.5090E-01        2.2635E-02
+        1.7020E+01        0.0000E+00        1.2570E-01        1.8855E-02
+        1.7270E+01        0.0000E+00        1.3850E-01        2.0775E-02
+        1.8150E+01        0.0000E+00        1.1200E-01        1.6800E-02
+        1.8590E+01        0.0000E+00        1.0920E-01        1.6380E-02
+        1.8710E+01        0.0000E+00        1.0920E-01        1.6380E-02
+        1.8920E+01        0.0000E+00        9.8100E-02        1.4715E-02
+        1.9200E+01        0.0000E+00        9.3300E-02        1.3995E-02
+        1.9300E+01        0.0000E+00        1.0910E-01        1.6365E-02
+        1.9600E+01        0.0000E+00        1.0330E-01        1.5495E-02

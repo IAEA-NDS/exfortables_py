@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 34-SE-74(D,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 34 
+#   A: 74 
+#   Nuclide: 34-SE-74 
+# Reaction: 
+#   Process: D,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3000e+01 MeV - 2.3400e+01 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 74 
+#   Nuclide: 35-BR-74-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4012-003-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-74(D,2N)35-BR-74-M,,SIG) 
+#   First author: S.M.Qaim 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,ARI,44,1443,1993) 
+#   Year:  1993 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D40/D4012.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4012
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3000E+01        5.0000E-01        6.4000E-02        1.3000E-02
+        1.4000E+01        1.2000E+00        2.1600E-01        4.3000E-02
+        1.4800E+01        1.2000E+00        2.7600E-01        5.5000E-02
+        1.6800E+01        1.0000E+00        3.8000E-01        7.6000E-02
+        1.9000E+01        1.0000E+00        3.4700E-01        6.9000E-02
+        1.9500E+01        1.0000E+00        2.0400E-01        4.1000E-02
+        2.0100E+01        1.0000E+00        1.5200E-01        3.0000E-02
+        2.1100E+01        8.0000E-01        1.6500E-01        3.3000E-02
+        2.1300E+01        8.0000E-01        1.4600E-01        3.0000E-02
+        2.2500E+01        8.0000E-01        1.2900E-01        2.5000E-02
+        2.3400E+01        8.0000E-01        1.5000E-01        3.0000E-02

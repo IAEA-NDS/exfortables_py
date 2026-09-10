@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 54-XE-124(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 54 
+#   A: 124 
+#   Nuclide: 54-XE-124 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 54 
+#   A: 123 
+#   Nuclide: 54-XE-123 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32871-002-0 (entry-subentry-pointer) 
+#   Reaction code: (54-XE-124(N,2N)54-XE-123,,SIG) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRCPR): China, People's Rep. 
+#   Reference:  (J,CPH/C,46,044001,2022) 
+#   Year:  2022 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32871.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32871
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3500E+01        2.0000E-01        9.4200E-01        9.6000E-02
+        1.3800E+01        2.0000E-01        1.0170E+00        1.4300E-01
+        1.4100E+01        2.0000E-01        1.0990E+00        1.4100E-01
+        1.4400E+01        2.0000E-01        1.2090E+00        1.5600E-01
+        1.4800E+01        2.0000E-01        1.2930E+00        1.4700E-01

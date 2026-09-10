@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 28-NI-59(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 59 
+#   Nuclide: 28-NI-59 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.1879e+01 MeV - 1.5848e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33130-002-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-59(N,X)1-H-1,,SIG,,,DERIV) 
+#   First author: J.Pandey 
+#   Institute:  (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference:  (J,PR/C,99,014611,2019) 
+#   Year:  2019 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33130.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33130
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1879E+01        0.0000E+00        6.4400E-01        6.5000E-02
+        1.2885E+01        0.0000E+00        5.9100E-01        4.4000E-02
+        1.3879E+01        0.0000E+00        7.7200E-01        4.9000E-02
+        1.4848E+01        0.0000E+00        8.6100E-01        4.7000E-02
+        1.5848E+01        0.0000E+00        1.0000E+00        4.5000E-02

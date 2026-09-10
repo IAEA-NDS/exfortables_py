@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.4000e-01 MeV - 9.6400e-01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14053-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F),,SIG) 
+#   First author: G.F.Knoll 
+#   Institute:  (1USAMHG): University of Michigan, Ann Arbor, MI 
+#   Reference:  (C,77NBS,,304,1977) 
+#   Year:  1977 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/140/14053.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14053
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4000E-01        0.0000E+00        1.4710E+00        2.4000E-02
+        2.6500E-01        0.0000E+00        1.2740E+00        2.0000E-02
+        7.7000E-01        0.0000E+00        1.1620E+00        2.2000E-02
+        9.6400E-01        0.0000E+00        1.1950E+00        2.5000E-02

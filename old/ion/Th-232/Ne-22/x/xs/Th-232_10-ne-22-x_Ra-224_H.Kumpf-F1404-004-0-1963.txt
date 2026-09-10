@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 90-TH-232(10-NE-22,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: 10-NE-22,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.2721e+02 MeV - 1.4178e+02 MeV 
+# Residual: 
+#   Z: 88 
+#   A: 224 
+#   Nuclide: 88-RA-224 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1404-004-0 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(10-NE-22,X)88-RA-224,CUM,SIG) 
+#   First author: H.Kumpf 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,ZET,44,798,1963) 
+#   Year:  1963 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F14/F1404.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1404
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2721E+02        2.2000E-01        1.1427E-04        3.3103E-05
+        1.3477E+02        2.2000E-01        2.7750E-04        7.5392E-05
+        1.4178E+02        2.2000E-01        4.9098E-04        1.1186E-04

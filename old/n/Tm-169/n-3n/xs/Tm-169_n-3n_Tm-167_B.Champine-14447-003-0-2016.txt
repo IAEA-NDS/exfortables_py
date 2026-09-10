@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 69-TM-169(N,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 69 
+#   A: 169 
+#   Nuclide: 69-TM-169 
+# Reaction: 
+#   Process: N,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  1.7350e+01 MeV - 2.1310e+01 MeV 
+# Residual: 
+#   Z: 69 
+#   A: 167 
+#   Nuclide: 69-TM-167 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14447-003-0 (entry-subentry-pointer) 
+#   Reaction code: (69-TM-169(N,3N)69-TM-167,,SIG) 
+#   First author: B.Champine 
+#   Institute:  (1USAUCX): University of California, Berkeley, CA 
+#   Reference:  (J,PR/C,93,014611,2016) 
+#   Year:  2016 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/144/14447.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14447
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.7350E+01        1.8000E-01        2.7900E-01        1.5000E-02
+        1.8340E+01        1.8000E-01        5.9300E-01        3.1000E-02
+        1.9330E+01        1.9000E-01        8.6100E-01        5.4000E-02
+        2.0320E+01        1.9000E-01        1.0600E+00        7.0000E-02
+        2.1310E+01        2.0000E-01        1.2700E+00        1.0000E-01

@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 50-SN-117(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 50 
+#   A: 117 
+#   Nuclide: 50-SN-117 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  2.0400e+01 MeV - 3.0400e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 119 
+#   Nuclide: 52-TE-119 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0217-004-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-117(A,2N)52-TE-119,,SIG) 
+#   First author: V.G.Batij 
+#   Institute:  (4RUSMOS): Moscow State University , Moscow 
+#   Reference:  (C,84ALMAAT,,355,1984) 
+#   Year:  1984 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0217.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0217
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0400E+01        0.0000E+00        3.5000E-01        3.0000E-02
+        2.1800E+01        0.0000E+00        5.9000E-01        9.0000E-02
+        2.4500E+01        0.0000E+00        1.0000E+00        9.0000E-02
+        2.5400E+01        0.0000E+00        1.1400E+00        1.0000E-01
+        2.6200E+01        0.0000E+00        1.1700E+00        1.0000E-01
+        2.7200E+01        0.0000E+00        1.2300E+00        1.1000E-01
+        2.8400E+01        0.0000E+00        1.2900E+00        1.0000E-01
+        3.0400E+01        0.0000E+00        1.2200E+00        1.2000E-01

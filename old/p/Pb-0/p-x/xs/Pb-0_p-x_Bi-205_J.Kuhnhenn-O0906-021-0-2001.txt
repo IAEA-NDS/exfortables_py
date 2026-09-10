@@ -1,0 +1,53 @@
+# Header: 
+#   Title: 82-PB-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  9.0000e+00 MeV - 6.9000e+01 MeV 
+# Residual: 
+#   Z: 83 
+#   A: 205 
+#   Nuclide: 83-BI-205 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0906-021-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(P,X)83-BI-205,,SIG) 
+#   First author: J.Kuhnhenn 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,RCA,89,697,2001) 
+#   Year:  2001 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O09/O0906.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0906
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.0000E+00        1.1000E+00        2.3500E-03        1.8000E-04
+        1.3800E+01        1.0000E+00        4.8400E-02        3.3000E-03
+        1.8400E+01        1.0000E+00        2.0600E-01        1.4000E-02
+        2.2300E+01        9.0000E-01        3.2600E-01        2.3000E-02
+        2.5700E+01        8.0000E-01        3.1600E-01        2.6000E-02
+        2.9700E+01        8.0000E-01        3.7000E-01        2.6000E-02
+        3.3300E+01        8.0000E-01        5.5200E-01        4.2000E-02
+        3.5500E+01        1.0000E+00        6.6600E-01        4.4000E-02
+        3.6700E+01        7.0000E-01        6.1800E-01        5.1000E-02
+        3.9200E+01        9.0000E-01        5.9300E-01        4.0000E-02
+        3.9800E+01        7.0000E-01        5.9100E-01        4.7000E-02
+        4.2200E+01        9.0000E-01        4.1000E-01        2.9000E-02
+        4.2800E+01        6.0000E-01        4.1000E-01        3.2000E-02
+        4.5000E+01        9.0000E-01        2.7300E-01        1.8000E-02
+        4.7700E+01        9.0000E-01        1.9600E-01        1.2000E-02
+        5.0400E+01        8.0000E-01        1.6200E-01        1.1000E-02
+        5.3200E+01        8.0000E-01        1.4200E-01        1.0000E-02
+        5.5700E+01        8.0000E-01        1.3200E-01        8.0000E-03
+        5.8100E+01        7.0000E-01        1.2100E-01        9.0000E-03
+        6.0000E+01        7.0000E-01        1.1500E-01        7.0000E-03
+        6.2200E+01        7.0000E-01        1.0600E-01        7.0000E-03
+        6.4400E+01        7.0000E-01        1.0200E-01        6.0000E-03
+        6.6600E+01        6.0000E-01        9.6400E-02        6.0000E-03
+        6.9000E+01        6.0000E-01        9.0200E-02        5.6000E-03

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 70-YB-172(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 70 
+#   A: 172 
+#   Nuclide: 70-YB-172 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 69 
+#   A: 172 
+#   Nuclide: 69-TM-172 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32727-005-0 (entry-subentry-pointer) 
+#   Reaction code: (70-YB-172(N,P)69-TM-172,,SIG) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRHXU): Hexi University , Zhangye 
+#   Reference:  (J,ANE,57,41,2013) 
+#   Year:  2013 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32727.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32727
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3500E+01        2.0000E-01        3.6000E-03        8.0000E-04
+        1.4800E+01        2.0000E-01        4.6000E-03        9.0000E-04

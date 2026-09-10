@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 36-KR-84(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 36 
+#   A: 84 
+#   Nuclide: 36-KR-84 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  8.0540e-03 MeV - 8.0190e-02 MeV 
+# Residual: 
+#   Z: 36 
+#   A: 85 
+#   Nuclide: 36-KR-85 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22776-002-0 (entry-subentry-pointer) 
+#   Reaction code: (36-KR-84(N,G)36-KR-85,,SIG,,MXW) 
+#   First author: A.Tomyo 
+#   Institute:  (2JPNOSA): Osaka University , Osaka 
+#   Reference:  (J,NP/A,718,530C,2003) 
+#   Year:  2003 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22776.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22776
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.0540E-03        4.0414E-05        1.0702E-01        7.4259E-03
+        1.0045E-02        4.0414E-05        8.3735E-02        5.0631E-03
+        1.5017E-02        4.0414E-05        5.6742E-02        4.7255E-03
+        2.0086E-02        4.0414E-05        4.4263E-02        4.0504E-03
+        2.5054E-02        4.0414E-05        3.6510E-02        4.0504E-03
+        3.0121E-02        4.0414E-05        3.2133E-02        2.3629E-03
+        3.4890E-02        4.0414E-05        2.8431E-02        1.6878E-03
+        3.9857E-02        4.0414E-05        2.6416E-02        3.0380E-03
+        4.4824E-02        4.0414E-05        2.4065E-02        2.7004E-03
+        4.9791E-02        4.0414E-05        2.3063E-02        2.7004E-03
+        5.4858E-02        4.0414E-05        2.1724E-02        2.0251E-03
+        5.9924E-02        4.0414E-05        2.0385E-02        2.7006E-03
+        6.5090E-02        4.0414E-05        1.9383E-02        2.3629E-03
+        7.0156E-02        4.0414E-05        1.8719E-02        2.0253E-03
+        7.5123E-02        4.0414E-05        1.7718E-02        1.0127E-03
+        8.0190E-02        4.0414E-05        1.6716E-02        3.0378E-03

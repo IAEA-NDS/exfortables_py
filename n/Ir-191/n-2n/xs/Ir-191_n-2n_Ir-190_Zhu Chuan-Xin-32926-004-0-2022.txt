@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 77-IR-191(N,2N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-07-31 
+#   Date created: 2026-09-07 
 # Target: 
 #   Z: 77 
 #   A: 191 
 #   Nuclide: 77-IR-191 
 # Reaction: 
 #   Process: N,2N 
-#   MF-MT number: 3 - 16 
+#   MF-MT number: 3 - 16.0 
 #   Incident energy:  1.3400e+01 MeV - 1.4860e+01 MeV 
 # Residual: 
 #   Z: 77 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/329/32926.x4 
 #   nds:  https://nds.iaea.org/EXFOR/32926
 #
-#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
         1.3400E+01        0.0000E+00        2.0615E+00        7.0230E-02
         1.3600E+01        0.0000E+00        2.0860E+00        7.1140E-02
         1.3800E+01        0.0000E+00        2.0962E+00        7.1600E-02

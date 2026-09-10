@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 75-RE-185(N,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 75 
+#   A: 185 
+#   Nuclide: 75-RE-185 
+# Reaction: 
+#   Process: N,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  1.4800e+01 MeV - 1.8300e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 183 
+#   Nuclide: 75-RE-183 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23723-002-1 (entry-subentry-pointer) 
+#   Reaction code: (75-RE-185(N,3N)75-RE-183,,SIG) 
+#   First author: S.Ilic 
+#   Institute:  (3SRBSRB): Serbia 
+#   Reference:  (J,EPJ/A,56,202,2020) 
+#   Year:  2020 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/237/23723.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23723
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4800E+01        5.0000E-01               NAN        0.0000E+00
+        1.5300E+01        6.0000E-01               NAN        0.0000E+00
+        1.6100E+01        6.0000E-01               NAN        0.0000E+00
+        1.6800E+01        9.0000E-01               NAN        0.0000E+00
+        1.7300E+01        1.0000E+00               NAN        0.0000E+00
+        1.8100E+01        2.8000E-01        8.3400E-01        3.4000E-02
+        1.8300E+01        1.2000E+00               NAN        0.0000E+00

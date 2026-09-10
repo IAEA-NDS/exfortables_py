@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 92-U-238(N,F)  Fission yield 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  1.0000e+00 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: ELEM/MASS 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13231-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,F)ELEM/MASS,CHN,FY,,FIS) 
+#   First author: L.S.Beller 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,ANS,11,607,68) 
+#   Year:  1968 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/132/13231.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13231
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             36.0             88.0                         1.7000E-02        0.0000E+00
+             39.0             91.0                         4.0000E-02        0.0000E+00
+             39.0             92.0                         3.7000E-02        1.1100E-02
+             41.0             97.0                         6.4000E-02        0.0000E+00
+             43.0             99.01.0                      7.8000E-02        0.0000E+00
+             43.0            104.0                         4.4000E-02        0.0000E+00
+             44.0            103.0                         6.7000E-02        0.0000E+00
+             44.0            105.0                         2.4000E-02        0.0000E+00
+             52.0            132.0                         4.7000E-02        0.0000E+00
+             52.0            134.0                         5.8000E-02        0.0000E+00
+             53.0            131.0                         3.7000E-02        0.0000E+00
+             53.0            135.0                         5.3000E-02        0.0000E+00
+             56.0            139.0                         5.3000E-02        0.0000E+00
+             56.0            140.0                         5.6000E-02        0.0000E+00
+             58.0            143.0                         4.8000E-02        0.0000E+00

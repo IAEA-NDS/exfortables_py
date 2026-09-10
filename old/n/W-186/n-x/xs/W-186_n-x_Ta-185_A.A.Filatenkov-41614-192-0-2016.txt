@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 74-W-186(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 74 
+#   A: 186 
+#   Nuclide: 74-W-186 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4720e+01 MeV - 1.4880e+01 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 185 
+#   Nuclide: 73-TA-185 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41614-192-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-186(N,X)73-TA-185,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,INDC(CCP)-0460,2016) 
+#   Year:  2016 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41614
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4720E+01        0.0000E+00        1.5500E-04        1.5004E-05
+        1.4810E+01        0.0000E+00        2.5000E-04        1.9825E-05
+        1.4880E+01        0.0000E+00        2.7000E-04        1.9791E-05

@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 77-IR-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 77 
+#   A: 0 
+#   Nuclide: 77-IR-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.2930e+01 MeV - 4.9500e+01 MeV 
+# Residual: 
+#   Z: 77 
+#   A: 187 
+#   Nuclide: 77-IR-187 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4401-014-0 (entry-subentry-pointer) 
+#   Reaction code: (77-IR-0(D,X)77-IR-187,CUM,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,458,105,2019) 
+#   Year:  2019 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4401.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4401
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.9500E+01        2.0000E-01        1.4043E-01        1.6930E-02
+        4.7860E+01        2.8000E-01        1.0201E-01        1.2380E-02
+        4.6180E+01        3.1000E-01        6.0360E-02        7.4200E-03
+        4.4450E+01        3.4000E-01        2.0750E-02        2.8000E-03
+        4.2930E+01        3.8000E-01        9.8200E-03        1.5800E-03

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 70-YB-170(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 70 
+#   A: 170 
+#   Nuclide: 70-YB-170 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.0000e+01 MeV - 1.5000e+01 MeV 
+# Residual: 
+#   Z: 70 
+#   A: 169 
+#   Nuclide: 70-YB-169 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: G0516-003-0 (entry-subentry-pointer) 
+#   Reaction code: (70-YB-170(G,N)70-YB-169,,SIG,,BRA) 
+#   First author: G.T.Bholane 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,RPC,195,110066,2022) 
+#   Year:  2022 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G05/G0516.x4 
+#   nds:  https://nds.iaea.org/EXFOR/G0516
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E+01        0.0000E+00        2.5380E-02        3.8806E-03
+        1.5000E+01        0.0000E+00        1.5289E-01        1.5243E-02

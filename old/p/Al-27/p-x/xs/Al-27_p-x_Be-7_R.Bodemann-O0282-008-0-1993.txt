@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 13-AL-27(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.1600e+01 MeV - 9.8500e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0282-008-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(P,X)4-BE-7,,SIG) 
+#   First author: R.Bodemann 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,NIM/B,82,9,1993) 
+#   Year:  1993 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0282.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0282
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.1600E+01        2.4700E+00        6.1300E-05        1.8400E-05
+        5.4000E+01        1.3700E+00        5.2100E-04        6.5900E-05
+        6.2900E+01        1.2100E+00        6.2900E-04        8.1000E-05
+        7.1000E+01        9.2900E-01        6.9200E-04        7.7700E-05
+        8.5600E+01        6.8400E-01        8.2900E-04        9.0200E-05
+        9.3900E+01        5.0200E-01        9.8000E-04        1.1500E-04
+        9.8500E+01        3.4600E-01        9.1200E-04        9.8000E-05

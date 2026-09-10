@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 36-KR-86(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 36 
+#   A: 86 
+#   Nuclide: 36-KR-86 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4.0 
+#   Incident energy:  6.9700e+00 MeV - 1.1070e+01 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 89 
+#   Nuclide: 38-SR-89 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4438-002-2 (entry-subentry-pointer) 
+#   Reaction code: (36-KR-86(A,N)38-SR-89,,SIG,,SFC) 
+#   First author: G.G.Kiss 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,AJ,988,170,2025) 
+#   Year:  2025 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4438.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4438
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
+        6.9700E+00        6.0000E-02        3.7290E+25        5.4400E+24
+        8.0800E+00        3.0000E-02        2.1440E+25        2.8200E+24
+        8.1800E+00        1.0000E-01        2.2170E+25        3.1700E+24
+        9.0500E+00        5.0000E-02        1.4250E+25        2.0200E+24
+        1.0070E+01        5.0000E-02        5.1900E+24        7.4000E+23
+        1.1060E+01        5.0000E-02        1.4900E+24        2.1000E+23
+        1.1070E+01        5.0000E-02        1.5000E+24        2.1000E+23

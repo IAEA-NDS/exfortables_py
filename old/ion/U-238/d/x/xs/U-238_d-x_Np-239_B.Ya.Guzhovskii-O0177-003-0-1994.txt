@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 92-U-238(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0000e+01 MeV - 1.3000e+01 MeV 
+# Residual: 
+#   Z: 93 
+#   A: 239 
+#   Nuclide: 93-NP-239 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0177-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(D,X)93-NP-239,CUM,SIG) 
+#   First author: B.Ya.Guzhovskii 
+#   Institute:  (4RUSEPA): Experimental Physics Institute , Sarov 
+#   Reference:  (C,94GATLIN,1,390,1994) 
+#   Year:  1994 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0177.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0177
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E+01        0.0000E+00        8.5600E-02        0.0000E+00
+        1.0980E+01        0.0000E+00        1.3750E-01        0.0000E+00
+        1.1970E+01        0.0000E+00        1.9000E-01        0.0000E+00
+        1.3000E+01        0.0000E+00        1.8200E-01        0.0000E+00

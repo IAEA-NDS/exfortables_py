@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 50-SN-118(18-AR-40,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 50 
+#   A: 118 
+#   Nuclide: 50-SN-118 
+# Reaction: 
+#   Process: 18-AR-40,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.0100e+02 MeV - 2.5900e+02 MeV 
+# Residual: 
+#   Z: 67 
+#   A: 151 
+#   Nuclide: 67-HO-151 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0015-007-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-118(18-AR-40,X)67-HO-151,,SIG,,,EXP) 
+#   First author: H.Gauvin 
+#   Institute:  (2FR PAR): Universite de Paris 
+#   Reference:  (J,NP/A,223,103,1974) 
+#   Year:  1974 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0015.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0015
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.0100E+02        0.0000E+00        1.7200E-01        0.0000E+00
+        2.1500E+02        0.0000E+00        1.6800E-01        0.0000E+00
+        2.1800E+02        0.0000E+00        2.2000E-01        0.0000E+00
+        2.2000E+02        0.0000E+00        1.9600E-01        0.0000E+00
+        2.2800E+02        0.0000E+00        2.2000E-01        0.0000E+00
+        2.4800E+02        0.0000E+00        9.8600E-02        0.0000E+00
+        2.5900E+02        0.0000E+00        7.0700E-02        0.0000E+00

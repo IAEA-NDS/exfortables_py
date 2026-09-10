@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 28-NI-60(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  5.2300e+00 MeV - 1.0080e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 60 
+#   Nuclide: 27-CO-60 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30995-003-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(N,P)27-CO-60,,SIG) 
+#   First author: S.Sudar 
+#   Institute:  (3HUNKOS): University of Debrecen, Debrecen 
+#   Reference:  (C,91JUELIC,,291,199105) 
+#   Year:  1991 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/309/30995.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30995
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.2300E+00        1.0000E-01        1.3900E-02        2.6000E-03
+        6.3000E+00        1.0000E-01        3.7600E-02        3.7000E-03
+        6.8000E+00        1.1000E-01        5.2200E-02        4.9000E-03
+        7.2900E+00        1.1000E-01        6.3400E-02        5.9000E-03
+        7.7700E+00        1.2000E-01        6.8500E-02        6.4000E-03
+        8.2400E+00        1.2000E-01        7.9100E-02        1.0000E-02
+        8.7100E+00        1.2000E-01        9.4200E-02        8.7000E-03
+        9.1700E+00        1.3000E-01        9.2500E-02        9.5000E-03
+        9.6300E+00        1.3000E-01        9.6900E-02        9.0000E-03
+        1.0080E+01        1.4000E-01        1.0550E-01        9.6000E-03

@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 13-AL-26(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 13 
+#   A: 26 
+#   Nuclide: 13-AL-26 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 600 
+#   Incident energy:  3.1000e-01 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 26 
+#   Nuclide: 12-MG-26 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 21987-004-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-26(N,P)12-MG-26,PAR,SIG) 
+#   First author: H.P.Trauvetter 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (P,NEANDC(E)-262,(5),5,8506) 
+#   Year:  1985 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21987.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21987
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.1000E-01        0.0000E+00        2.1000E-02        8.0000E-03

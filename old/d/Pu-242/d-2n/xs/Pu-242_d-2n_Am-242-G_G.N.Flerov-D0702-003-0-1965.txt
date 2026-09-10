@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 94-PU-242(D,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 94 
+#   A: 242 
+#   Nuclide: 94-PU-242 
+# Reaction: 
+#   Process: D,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  7.2000e+00 MeV - 1.2100e+01 MeV 
+# Residual: 
+#   Z: 95 
+#   A: 242 
+#   Nuclide: 95-AM-242-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0702-003-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-242(D,2N)95-AM-242-G,,SIG) 
+#   First author: G.N.Flerov 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,RRP,10,217,1965) 
+#   Year:  1965 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D07/D0702.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0702
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.2000E+00        0.0000E+00        3.1000E-05        1.0000E-05
+        8.3000E+00        0.0000E+00        2.9000E-04        4.0000E-05
+        9.2000E+00        0.0000E+00        1.2000E-03        1.3000E-04
+        9.6000E+00        0.0000E+00        2.0000E-03        2.2000E-04
+        1.0500E+01        0.0000E+00        4.6000E-03        5.0000E-04
+        1.1300E+01        0.0000E+00        7.0000E-03        7.5000E-04
+        1.2100E+01        0.0000E+00        7.5000E-03        8.0000E-04

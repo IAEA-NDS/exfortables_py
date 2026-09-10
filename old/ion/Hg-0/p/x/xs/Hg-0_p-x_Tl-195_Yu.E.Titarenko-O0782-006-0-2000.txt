@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 80-HG-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 80 
+#   A: 0 
+#   Nuclide: 80-HG-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0000e+02 MeV - 2.0000e+02 MeV 
+# Residual: 
+#   Z: 81 
+#   A: 195 
+#   Nuclide: 81-TL-195 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0782-006-0 (entry-subentry-pointer) 
+#   Reaction code: (80-HG-0(P,X)81-TL-195,,SIG) 
+#   First author: Yu.E.Titarenko 
+#   Institute:  (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
+#   Reference:  (R,LA-UR-00-3600,2000) 
+#   Year:  2000 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0782.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0782
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E+02        0.0000E+00        1.0000E-01        1.0000E-02
+        2.0000E+02        0.0000E+00        2.2900E-02        2.6000E-03

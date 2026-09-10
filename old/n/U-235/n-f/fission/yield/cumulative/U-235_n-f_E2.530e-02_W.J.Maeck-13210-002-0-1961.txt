@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission yield 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18.0 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 72 
+#   Nuclide: 30-ZN-72 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 13210-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)30-ZN-72,CUM,FY,,SPA) 
+#   First author: W.J.Maeck 
+#   Institute:  (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
+#   Reference:  (J,AC,33,(2),235,1961) 
+#   Year:  1961 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/132/13210.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13210
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             30.0             72.0                         2.6000E-07        3.0000E-08

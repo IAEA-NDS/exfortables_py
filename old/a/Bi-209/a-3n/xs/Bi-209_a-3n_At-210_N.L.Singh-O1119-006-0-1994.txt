@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 83-BI-209(A,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: A,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  2.9000e+01 MeV - 4.9200e+01 MeV 
+# Residual: 
+#   Z: 85 
+#   A: 210 
+#   Nuclide: 85-AT-210 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1119-006-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(A,3N)85-AT-210,,SIG) 
+#   First author: N.L.Singh 
+#   Institute:  (3INDBDA): M.S. University of Baroda, Baroda 
+#   Reference:  (J,NC/A,107,1635,1994) 
+#   Year:  1994 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O11/O1119.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1119
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9000E+01        0.0000E+00        3.6100E-02        2.3000E-03
+        3.2500E+01        0.0000E+00        4.2150E-01        2.7000E-02
+        3.5700E+01        0.0000E+00        7.9660E-01        5.1000E-02
+        3.8700E+01        0.0000E+00        9.3970E-01        6.0000E-02
+        4.1600E+01        0.0000E+00        7.8560E-01        5.0300E-02
+        4.4200E+01        0.0000E+00        5.7020E-01        3.6500E-02
+        4.6800E+01        0.0000E+00        4.6240E-01        2.9600E-02
+        4.9200E+01        0.0000E+00        3.9260E-01        2.5200E-02

@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 28-NI-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.1100e+02 MeV - 3.7800e+02 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 59 
+#   Nuclide: 26-FE-59 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0284-098-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(P,X)26-FE-59,CUM,SIG) 
+#   First author: Th.Schiekel 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,NIM/B,114,91,1996) 
+#   Year:  1996 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0284.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0284
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.1100E+02        1.7600E+00        2.8000E-04        6.2200E-05
+        2.3000E+02        1.6000E+00        2.3700E-04        6.0300E-05
+        2.3100E+02        1.6000E+00        2.3900E-04        5.5700E-05
+        2.5700E+02        1.3300E+00        3.0600E-04        6.1200E-05
+        2.7500E+02        1.1000E+00        2.7400E-04        5.1000E-05
+        2.7500E+02        1.1100E+00        2.3200E-04        4.6900E-05
+        3.2600E+02        1.7500E+00        3.0600E-04        6.7000E-05
+        3.4100E+02        1.5900E+00        2.2600E-04        4.4700E-05
+        3.4100E+02        1.5900E+00        2.7400E-04        4.8600E-05
+        3.6300E+02        1.3300E+00        2.2300E-04        4.9700E-05
+        3.7800E+02        1.0900E+00        2.5000E-04        4.1100E-05
+        3.7800E+02        1.0900E+00        2.6300E-04        4.5400E-05

@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 14-SI-28(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 14 
+#   A: 28 
+#   Nuclide: 14-SI-28 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 602 
+#   Incident energy:  2.0069e+00 MeV - 3.0040e+00 MeV 
+# Residual: 
+#   Z: 14 
+#   A: 29 
+#   Nuclide: 14-SI-29 
+#   Level energy: 2.0280e+00 MeV 
+# EXFOR BIB:
+#   Entry id: F0963-004-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-28(D,P)14-SI-29,PAR,SIG) 
+#   First author: B.H.Wildenthal 
+#   Institute:  (1USAKAN): University of Kansas, Lawrence, KS 
+#   Reference:  (J,PR,135,B680,1964) 
+#   Year:  1964 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F09/F0963.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0963
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        2.0069E+00        1.0000E-03        8.5865E-03        1.5456E-03
+        2.0588E+00        1.0000E-03        5.9806E-03        1.0765E-03
+        2.1040E+00        1.0000E-03        1.3075E-02        2.3535E-03
+        2.2755E+00        1.0000E-03        6.1547E-03        1.1078E-03
+        2.3925E+00        1.0000E-03        1.0198E-02        1.8356E-03
+        2.4403E+00        1.0000E-03        8.3378E-03        1.5008E-03
+        2.4737E+00        1.0000E-03        1.3715E-02        2.4687E-03
+        2.5456E+00        1.0000E-03        1.0215E-02        1.8387E-03
+        2.6464E+00        1.0000E-03        1.6719E-02        3.0094E-03
+        2.7260E+00        1.0000E-03        1.5982E-02        2.8768E-03
+        2.7496E+00        1.0000E-03        1.9194E-02        3.4549E-03
+        2.7856E+00        1.0000E-03        1.6288E-02        2.9318E-03
+        2.9408E+00        1.0000E-03        1.4365E-02        2.5857E-03
+        3.0040E+00        1.0000E-03        1.9895E-02        3.5811E-03

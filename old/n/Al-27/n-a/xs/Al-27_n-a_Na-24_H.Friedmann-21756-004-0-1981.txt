@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 13-AL-27(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3700e+01 MeV - 1.4420e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21756-004-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,A)11-NA-24,,SIG) 
+#   First author: H.Friedmann 
+#   Institute:  (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
+#   Reference:  (J,ZP/A,302,271,1981) 
+#   Year:  1981 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21756.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21756
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3700E+01        0.0000E+00        1.2670E-01        8.8690E-04
+        1.3710E+01        0.0000E+00        1.2460E-01        8.7220E-04
+        1.3760E+01        0.0000E+00        1.2520E-01        8.7640E-04
+        1.3790E+01        0.0000E+00        1.2410E-01        8.6870E-04
+        1.3830E+01        0.0000E+00        1.2330E-01        8.6310E-04
+        1.3860E+01        0.0000E+00        1.2330E-01        8.6310E-04
+        1.3900E+01        0.0000E+00        1.2430E-01        8.7010E-04
+        1.3940E+01        0.0000E+00        1.2350E-01        8.6450E-04
+        1.3990E+01        0.0000E+00        1.2350E-01        8.6450E-04
+        1.4030E+01        0.0000E+00        1.2360E-01        8.6520E-04
+        1.4070E+01        0.0000E+00        1.2370E-01        8.6590E-04
+        1.4120E+01        0.0000E+00        1.2370E-01        8.6590E-04
+        1.4160E+01        0.0000E+00        1.2290E-01        8.6030E-04
+        1.4200E+01        0.0000E+00        1.2270E-01        8.5890E-04
+        1.4240E+01        0.0000E+00        1.2050E-01        8.4350E-04
+        1.4280E+01        0.0000E+00        1.2030E-01        8.4210E-04
+        1.4320E+01        0.0000E+00        1.1960E-01        8.3720E-04
+        1.4350E+01        0.0000E+00        1.1850E-01        8.2950E-04
+        1.4390E+01        0.0000E+00        1.1830E-01        8.2810E-04
+        1.4420E+01        0.0000E+00        1.1620E-01        8.1340E-04

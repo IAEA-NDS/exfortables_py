@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 50-SN-115(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 50 
+#   A: 115 
+#   Nuclide: 50-SN-115 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.0610e+01 MeV - 1.5282e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 118 
+#   Nuclide: 52-TE-118 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0652-006-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-115(A,N)52-TE-118,,SIG) 
+#   First author: D.Filipescu 
+#   Institute:  (3RUMRUM): Romania 
+#   Reference:  (J,PR/C,83,064609,2011) 
+#   Year:  2011 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D06/D0652.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0652
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5282E+01        3.1800E-01        1.4393E-01        2.1790E-02
+        1.3842E+01        3.3200E-01        4.5860E-02        6.9400E-03
+        1.2298E+01        3.5800E-01        6.2900E-03        9.5000E-04
+        1.0610E+01        3.9000E-01        2.1400E-04        3.5000E-05

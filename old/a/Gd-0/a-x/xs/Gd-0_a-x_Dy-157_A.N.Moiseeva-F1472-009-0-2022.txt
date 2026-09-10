@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 64-GD-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 64 
+#   A: 0 
+#   Nuclide: 64-GD-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.0300e+01 MeV - 5.8900e+01 MeV 
+# Residual: 
+#   Z: 66 
+#   A: 157 
+#   Nuclide: 66-DY-157 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1472-009-0 (entry-subentry-pointer) 
+#   Reaction code: (64-GD-0(A,X)66-DY-157,,SIG) 
+#   First author: A.N.Moiseeva 
+#   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference:  (J,NMB,106-107,52,2022) 
+#   Year:  2022 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F14/F1472.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1472
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.8900E+01        1.5000E+00        2.3060E-01        3.7100E-02
+        5.7100E+01        1.6000E+00        3.1650E-01        5.1400E-02
+        5.5200E+01        1.8000E+00        3.6170E-01        5.7900E-02
+        5.3300E+01        1.9000E+00        2.4500E-01        1.3800E-01
+        5.1300E+01        2.0000E+00        3.1780E-01        5.1000E-02
+        4.9300E+01        2.2000E+00        2.6220E-01        4.2100E-02
+        4.7500E+01        2.4000E+00        2.7720E-01        4.3900E-02
+        4.5400E+01        2.6000E+00        2.8390E-01        4.4900E-02
+        4.3500E+01        2.7000E+00        3.3790E-01        5.3800E-02
+        4.1200E+01        3.0000E+00        2.7090E-01        4.2800E-02
+        3.8400E+01        3.3000E+00        3.0070E-01        5.1700E-02
+        3.5300E+01        3.7000E+00        2.6610E-01        4.2100E-02
+        3.3000E+01        3.9000E+00        2.1950E-01        3.5400E-02
+        3.0000E+01        4.4000E+00        1.9140E-01        3.1100E-02
+        2.6800E+01        4.9000E+00        1.2990E-01        2.1900E-02
+        2.3200E+01        5.7000E+00        7.5500E-02        1.2500E-02
+        2.0300E+01        6.4000E+00        4.7200E-02        7.5000E-03

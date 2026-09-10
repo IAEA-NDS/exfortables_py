@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 20-CA-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 20 
+#   A: 0 
+#   Nuclide: 20-CA-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3400e+01 MeV - 3.9700e+01 MeV 
+# Residual: 
+#   Z: 17 
+#   A: 36 
+#   Nuclide: 17-CL-36 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2808-004-0 (entry-subentry-pointer) 
+#   Reaction code: (20-CA-0(P,X)17-CL-36,,SIG) 
+#   First author: M.Imamura 
+#   Institute:  (2JPNTOK): University of Tokyo, Tokyo 
+#   Reference:  (J,NIM/B,123,330,1997) 
+#   Year:  1997 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E28/E2808.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2808
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.9700E+01        0.0000E+00        2.9600E-04        2.1000E-05
+        3.8400E+01        0.0000E+00        2.4900E-04        1.9000E-05
+        3.5100E+01        0.0000E+00        1.3800E-04        1.3000E-05
+        2.9800E+01        0.0000E+00        3.4000E-05        6.0000E-06
+        2.4700E+01        0.0000E+00        2.3000E-05        8.0000E-06
+        2.1900E+01        0.0000E+00        1.8000E-05        1.4000E-05
+        1.3400E+01        0.0000E+00        1.4000E-05        0.0000E+00

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 1-H-2(D,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Process: D,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.4000e-02 MeV - 4.0000e-02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1511-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-2(D,N)2-HE-3,,SIG) 
+#   First author: M.A.Hofstee 
+#   Institute:  (1USACSM): Colorado School of Mines, Golden, CO 
+#   Reference:  (J,NP/A,688,527,2001) 
+#   Year:  2001 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C15/C1511.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1511
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        2.4000E-02        0.0000E+00        4.4700E-03        0.0000E+00
+        4.0000E-02        0.0000E+00        1.0800E-02        0.0000E+00

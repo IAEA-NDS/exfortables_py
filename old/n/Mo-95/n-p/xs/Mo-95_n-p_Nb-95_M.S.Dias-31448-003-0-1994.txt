@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 42-MO-95(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 95 
+#   Nuclide: 42-MO-95 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.5000e+00 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 95 
+#   Nuclide: 41-NB-95 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31448-003-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-95(N,P)41-NB-95,,SIG,,FIS) 
+#   First author: M.S.Dias 
+#   Institute:  (3BZLIPE): Institute de Pesquisas Energeticas e Nucleares, Sao Paulo 
+#   Reference:  (C,94GATLIN,1,257,199405) 
+#   Year:  1994 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31448.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31448
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5000E+00        0.0000E+00        1.7400E-04        5.0000E-06

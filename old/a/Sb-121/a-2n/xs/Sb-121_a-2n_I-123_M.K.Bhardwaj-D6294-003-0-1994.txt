@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 51-SB-121(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 51 
+#   A: 121 
+#   Nuclide: 51-SB-121 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  2.2297e+01 MeV - 5.5082e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 123 
+#   Nuclide: 53-I-123 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6294-003-0 (entry-subentry-pointer) 
+#   Reaction code: (51-SB-121(A,2N)53-I-123,,SIG,,,DERIV) 
+#   First author: M.K.Bhardwaj 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  (J,IMP/E,3,239,1994) 
+#   Year:  1994 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D62/D6294.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6294
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2297E+01        8.2000E-01        6.9760E-01        0.0000E+00
+        2.4979E+01        8.2200E-01        8.7800E-01        0.0000E+00
+        2.7369E+01        7.8400E-01        9.1870E-01        0.0000E+00
+        3.0944E+01        8.3400E-01        6.1810E-01        0.0000E+00
+        3.4242E+01        9.1400E-01        5.8440E-01        0.0000E+00
+        3.7268E+01        9.3200E-01        2.6580E-01        0.0000E+00
+        4.0075E+01        9.1400E-01        1.5630E-01        0.0000E+00
+        4.3225E+01        7.4400E-01        1.2090E-01        0.0000E+00
+        4.5846E+01        8.6200E-01        1.0300E-01        0.0000E+00
+        4.8938E+01        8.2300E-01        9.7180E-02        0.0000E+00
+        5.2030E+01        9.4000E-01        8.4910E-02        0.0000E+00
+        5.5082E+01        7.4400E-01        7.6120E-02        0.0000E+00

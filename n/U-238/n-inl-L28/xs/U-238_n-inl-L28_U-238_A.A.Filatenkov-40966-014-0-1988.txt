@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-238(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 78.0 
+#   Incident energy:  3.0000e+00 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: 1.2239e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 40966-014-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,INL)92-U-238,PAR,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (J,YK,,(2),56,1988) 
+#   Year:  1988 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40966.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40966
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        3.0000E+00        0.0000E+00        3.5000E-02        4.0000E-03

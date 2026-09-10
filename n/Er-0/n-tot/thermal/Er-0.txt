@@ -1,0 +1,31 @@
+# Header: 
+#   title: 68-ER-0(N,TOT) thermal cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 68 
+#   A: 0 
+#   Nuclide: 68-ER-0 
+# Reaction: 
+#   Type: N,TOT 
+#   Type: N,TOT 
+#   Incident energy       : 2.5000e-08 MeV - 2.5300e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Thermal Simple Mean       |  Simple Stdev        : 1.90750E+02  |   1.76777E+00   (N = 2)
+#   Thermal Weighted Mean    +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
+#   MXW Simple Mean           |  Simple Stdev        : 1.20000E+02  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+30224-011-0         R.L.Zimmerman           1967   2.5300E-08   0.0000E+00   1.9200E+02   6.0000E+00                
+13725-019-0         Y.Danon                 1998   2.5300E-08   0.0000E+00   1.8950E+02   0.0000E+00                
+12634-058-0         J.R.Dunning             1935   2.5000E-08   0.0000E+00   1.2000E+02   0.0000E+00     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11745-009-0         S.Bernstein             1952   2.5300E-08   0.0000E+00   1.7200E+02   0.0000E+00           DERIV

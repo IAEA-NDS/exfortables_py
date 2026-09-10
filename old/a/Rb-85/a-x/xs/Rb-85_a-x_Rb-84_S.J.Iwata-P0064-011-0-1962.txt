@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 37-RB-85(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 37 
+#   A: 85 
+#   Nuclide: 37-RB-85 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.3500e+01 MeV - 3.8500e+01 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 84 
+#   Nuclide: 37-RB-84 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: P0064-011-0 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-85(A,X)37-RB-84,,SIG) 
+#   First author: S.J.Iwata 
+#   Institute:  (2JPNKTO): Kyoto University , Kyoto 
+#   Reference:  (J,JPJ,17,1323,1962) 
+#   Year:  1962 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P00/P0064.x4 
+#   nds:  https://nds.iaea.org/EXFOR/P0064
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.3500E+01        0.0000E+00        4.7900E-03        0.0000E+00
+        2.6800E+01        0.0000E+00        1.7100E-02        0.0000E+00
+        2.7400E+01        0.0000E+00        1.6600E-02        0.0000E+00
+        2.9900E+01        0.0000E+00        2.8800E-02        0.0000E+00
+        3.0600E+01        0.0000E+00        3.5200E-02        0.0000E+00
+        3.6100E+01        0.0000E+00        6.2500E-02        0.0000E+00
+        3.8500E+01        0.0000E+00        5.5700E-02        0.0000E+00

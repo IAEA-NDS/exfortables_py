@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 25-MN-55(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 25 
+#   A: 55 
+#   Nuclide: 25-MN-55 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.2100e+01 MeV - 4.9900e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 52 
+#   Nuclide: 25-MN-52 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4398-004-0 (entry-subentry-pointer) 
+#   Reaction code: (25-MN-55(D,X)25-MN-52,CUM,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,JRN,320,145,2019) 
+#   Year:  2019 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4398.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4398
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.9900E+01        3.0000E-01        2.1200E-02        2.5000E-03
+        4.7900E+01        3.0000E-01        1.3900E-02        1.7000E-03
+        4.5800E+01        4.0000E-01        9.1000E-03        1.1000E-03
+        4.3700E+01        4.0000E-01        5.1000E-03        6.0000E-04
+        4.1500E+01        4.0000E-01        3.5000E-03        4.0000E-04
+        3.9100E+01        5.0000E-01        2.6000E-03        3.0000E-04
+        3.6700E+01        5.0000E-01        2.0000E-03        3.0000E-04
+        3.4200E+01        6.0000E-01        1.0100E-03        1.3000E-04
+        3.2800E+01        6.0000E-01        9.2000E-04        1.3000E-04
+        3.1500E+01        7.0000E-01        5.7000E-04        1.0000E-04
+        3.0100E+01        8.0000E-01        5.4000E-04        9.0000E-05
+        2.8600E+01        9.0000E-01        6.4000E-04        8.0000E-05
+        2.7100E+01        9.0000E-01        4.7000E-04        7.0000E-05
+        2.3800E+01        1.0000E+00        3.4000E-04        5.0000E-05
+        2.2100E+01        1.1000E+00        2.7000E-04        3.0000E-05

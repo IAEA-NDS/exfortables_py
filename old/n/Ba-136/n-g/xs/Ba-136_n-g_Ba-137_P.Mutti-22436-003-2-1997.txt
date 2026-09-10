@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 56-BA-136(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 56 
+#   A: 136 
+#   Nuclide: 56-BA-136 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.0000e-03 MeV - 5.0000e-02 MeV 
+# Residual: 
+#   Z: 56 
+#   A: 137 
+#   Nuclide: 56-BA-137 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22436-003-2 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-136(N,G)56-BA-137,,SIG,,MXW,DERIV) 
+#   First author: P.Mutti 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,NP/A,621,262C,1997) 
+#   Year:  1997 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22436.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22436
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.0000E-03        0.0000E+00        1.6630E-01        4.9000E-03
+        8.0000E-03        0.0000E+00        1.2420E-01        4.5000E-03
+        1.0000E-02        0.0000E+00        1.0860E-01        4.0000E-03
+        1.2000E-02        0.0000E+00        9.7700E-02        3.8000E-03
+        1.5000E-02        0.0000E+00        8.6200E-02        3.6000E-03
+        2.0000E-02        0.0000E+00        7.4100E-02        3.3000E-03
+        2.5000E-02        0.0000E+00        6.6200E-02        3.1000E-03
+        3.0000E-02        0.0000E+00        6.0400E-02        2.9000E-03
+        4.0000E-02        0.0000E+00        5.2000E-02        2.6000E-03
+        5.0000E-02        0.0000E+00        4.5700E-02        2.4000E-03

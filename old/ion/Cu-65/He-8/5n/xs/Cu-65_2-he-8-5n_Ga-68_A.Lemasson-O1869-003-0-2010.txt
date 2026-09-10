@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 29-CU-65(2-HE-8,5N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: 2-HE-8,5N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.7720e+01 MeV - 2.7250e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 68 
+#   Nuclide: 31-GA-68 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1869-003-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(2-HE-8,5N)31-GA-68,,SIG) 
+#   First author: A.Lemasson 
+#   Institute:  (2FR GAN): Grand Accelerateur National d'Ions Lourds, Caen 
+#   Reference:  (J,PR/C,82,044617,2010) 
+#   Year:  2010 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O18/O1869.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1869
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        1.7720E+01        0.0000E+00        5.4000E-02        1.7000E-02
+        2.7250E+01        0.0000E+00        5.4700E-01        7.5000E-02

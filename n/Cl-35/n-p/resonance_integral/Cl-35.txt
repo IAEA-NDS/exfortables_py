@@ -1,0 +1,30 @@
+# Header: 
+#   title: 17-CL-35(N,P) resonance_integral cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 17 
+#   A: 35 
+#   Nuclide: 17-CL-35 
+# Reaction: 
+#   Type: N,P 
+#   Type: N,P 
+#   Incident energy       : 5.5000e-07 MeV - 1.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Resonance Integral Simple Mean  |  Simple Stdev        : 5.54000E-01  |           NAN   (N = 1)
+#   Resonance Integral Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   LIM Simple Mean           |  Simple Stdev        : 7.40000E-02  |           NAN   (N = 1)
+#   LIM Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   RNV Simple Mean           |  Simple Stdev        : 3.69000E-01  |           NAN   (N = 1)
+#   RNV Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+10042-004-0         G.H.E.Sims              1969   5.5000E-07   0.0000E+00   5.5400E-01   2.3000E-02                
+40807-006-0         Yu.P.Popov              1961   1.0000E-02   0.0000E+00   7.4000E-02   2.5000E-02     LIM        
+10042-008-0         G.H.E.Sims              1969   5.5000E-07   0.0000E+00   3.6900E-01   1.5000E-02     RNV        

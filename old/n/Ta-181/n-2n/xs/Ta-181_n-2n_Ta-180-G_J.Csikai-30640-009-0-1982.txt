@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 73-TA-181(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16.0 
+#   Incident energy:  1.3500e+01 MeV - 1.4780e+01 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 180 
+#   Nuclide: 73-TA-180-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30640-009-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-181(N,2N)73-TA-180-G,,SIG) 
+#   First author: J.Csikai 
+#   Institute:  (3HUNKOS): University of Debrecen, Debrecen 
+#   Reference:  (C,82ANTWER,,414,1982) 
+#   Year:  1982 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/306/30640.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30640
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3500E+01        0.0000E+00        2.2100E+00        1.9200E-01
+        1.3770E+01        0.0000E+00        2.1670E+00        1.8900E-01
+        1.4100E+01        0.0000E+00        2.1480E+00        1.8700E-01
+        1.4390E+01        0.0000E+00        2.1630E+00        1.8800E-01
+        1.4660E+01        0.0000E+00        2.1540E+00        1.8700E-01
+        1.4780E+01        0.0000E+00        2.1310E+00        1.8500E-01

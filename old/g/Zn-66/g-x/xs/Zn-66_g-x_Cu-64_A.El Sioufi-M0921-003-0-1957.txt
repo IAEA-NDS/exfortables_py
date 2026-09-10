@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 30-ZN-66(G,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 30 
+#   A: 66 
+#   Nuclide: 30-ZN-66 
+# Reaction: 
+#   Process: G,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.3100e+01 MeV - 2.9000e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 64 
+#   Nuclide: 29-CU-64 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: M0921-003-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-66(G,X)29-CU-64,,SIG,,BRS) 
+#   First author: A.El Sioufi 
+#   Institute:  (2SWTETH): Eidgenossische Technische Hochschule, Zuerich 
+#   Reference:  (J,HPA,30,264,1957) 
+#   Year:  1957 
+#   Facility:  (BETAT): Betatron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M09/M0921.x4 
+#   nds:  https://nds.iaea.org/EXFOR/M0921
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.3100E+01        0.0000E+00        9.0000E-04        6.6000E-04
+        2.4580E+01        0.0000E+00        2.8100E-03        1.0600E-03
+        2.6520E+01        0.0000E+00        5.2900E-03        1.1900E-03
+        2.9000E+01        0.0000E+00        1.5900E-03        1.5800E-03

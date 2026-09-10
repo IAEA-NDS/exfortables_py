@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 13-AL-27(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.8310e+01 MeV - 6.4420e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 22 
+#   Nuclide: 11-NA-22 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F0068-017-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(A,X)11-NA-22,,SIG) 
+#   First author: M.Ismail 
+#   Institute:  (3INDVEC): Variable Energy Cyclotron Centre, Kolkata 
+#   Reference:  (J,PR/C,41,87,1990) 
+#   Year:  1990 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F00/F0068.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0068
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.8310E+01        1.7800E+00        4.1000E-03        3.0000E-04
+        4.0090E+01        1.7100E+00        4.1000E-03        3.0000E-04
+        4.1820E+01        1.6600E+00        9.1000E-03        7.0000E-04
+        4.3500E+01        1.6100E+00        1.5100E-02        1.2000E-03
+        4.5130E+01        1.5600E+00        2.0100E-02        1.6000E-03
+        4.6710E+01        1.5200E+00        2.6400E-02        2.1000E-03
+        4.8250E+01        1.4800E+00        3.3100E-02        2.6000E-03
+        4.9760E+01        1.4500E+00        4.1800E-02        3.3000E-03
+        5.1230E+01        1.4100E+00        4.2800E-02        3.4000E-03
+        5.2670E+01        1.3800E+00        4.6100E-02        3.7000E-03
+        5.4080E+01        1.3500E+00        4.4700E-02        3.6000E-03
+        5.5460E+01        1.3300E+00        3.9300E-02        3.1000E-03
+        5.6810E+01        1.3000E+00        3.7500E-02        3.0000E-03
+        5.8140E+01        1.2800E+00        3.6300E-02        2.9000E-03
+        5.9440E+01        1.2500E+00        3.7300E-02        3.0000E-03
+        6.0710E+01        1.2300E+00        3.3800E-02        2.7000E-03
+        6.1960E+01        1.2100E+00        3.1200E-02        2.5000E-03
+        6.3200E+01        1.2000E+00        2.8600E-02        2.3000E-03
+        6.4420E+01        1.1800E+00        2.6100E-02        2.1000E-03

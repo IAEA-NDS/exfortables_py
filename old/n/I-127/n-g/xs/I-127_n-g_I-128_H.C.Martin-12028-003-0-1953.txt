@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 53-I-127(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 53 
+#   A: 127 
+#   Nuclide: 53-I-127 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.7000e-01 MeV - 1.6200e+00 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 128 
+#   Nuclide: 53-I-128 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 12028-003-0 (entry-subentry-pointer) 
+#   Reaction code: (53-I-127(N,G)53-I-128,,SIG) 
+#   First author: H.C.Martin 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,89,1302,1953) 
+#   Year:  1953 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12028.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12028
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.7000E-01        5.0000E-02        3.6000E-01        2.5200E-02
+        3.1000E-01        5.0000E-02        3.4000E-01        2.3800E-02
+        3.7000E-01        5.0000E-02        2.9800E-01        2.0860E-02
+        4.7000E-01        5.0000E-02        2.4300E-01        1.7010E-02
+        6.6000E-01        5.0000E-02        1.7500E-01        1.2250E-02
+        7.7000E-01        5.0000E-02        1.4500E-01        1.0150E-02
+        8.7000E-01        5.0000E-02        1.3500E-01        9.4500E-03
+        9.7000E-01        5.0000E-02        1.2300E-01        8.6100E-03
+        1.0600E+00        5.0000E-02        1.0000E-01        7.0000E-03
+        1.1700E+00        5.0000E-02        1.0000E-01        7.0000E-03
+        1.2700E+00        5.0000E-02        9.0000E-02        6.3000E-03
+        1.3700E+00        5.0000E-02        9.0000E-02        6.3000E-03
+        1.6200E+00        5.0000E-02        8.3000E-02        5.8100E-03

@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 14-SI-29(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 14 
+#   A: 29 
+#   Nuclide: 14-SI-29 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.6047e+01 MeV - 2.0272e+01 MeV 
+# Residual: 
+#   Z: 13 
+#   A: 29 
+#   Nuclide: 13-AL-29 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22414-008-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-29(N,P)13-AL-29,,SIG) 
+#   First author: A.Fessler 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,NSE,134,(2),171,2000) 
+#   Year:  2000 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22414.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22414
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.6047E+01        0.0000E+00        1.3322E-01        5.5700E-03
+        1.7004E+01        0.0000E+00        1.1799E-01        5.9500E-03
+        1.7749E+01        0.0000E+00        9.6410E-02        5.1700E-03
+        1.9066E+01        0.0000E+00        8.7490E-02        5.9900E-03
+        2.0272E+01        0.0000E+00        6.2810E-02        6.3100E-03

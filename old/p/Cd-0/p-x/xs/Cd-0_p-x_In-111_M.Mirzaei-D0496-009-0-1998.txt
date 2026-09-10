@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 48-CD-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 48 
+#   A: 0 
+#   Nuclide: 48-CD-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.5000e+01 MeV - 3.0000e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 111 
+#   Nuclide: 49-IN-111 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0496-009-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-0(P,X)49-IN-111,,SIG) 
+#   First author: M.Mirzaei 
+#   Institute:  (3IRNKRJ): Agricult., Med. & Indust. Research School (AMIRS), Karaj 
+#   Reference:  (C,98CAEN,,65,1998) 
+#   Year:  1998 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D04/D0496.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0496
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5000E+01        0.0000E+00        1.9244E-01        6.7366E-03
+        1.6000E+01        0.0000E+00        2.2823E-01        8.0839E-03
+        1.7000E+01        0.0000E+00        2.3905E-01        8.7484E-03
+        1.8000E+01        0.0000E+00        2.4655E-01        8.7667E-03
+        1.9000E+01        0.0000E+00        2.5808E-01        7.4103E-03
+        2.0000E+01        0.0000E+00        2.7299E-01        8.0839E-03
+        2.1000E+01        0.0000E+00        2.8513E-01        1.0105E-02
+        2.2000E+01        0.0000E+00        2.9665E-01        8.7484E-03
+        2.3000E+01        0.0000E+00        3.0415E-01        8.7668E-03
+        2.4000E+01        0.0000E+00        3.1501E-01        9.4312E-03
+        2.5000E+01        0.0000E+00        3.0021E-01        8.7668E-03
+        2.6000E+01        0.0000E+00        2.5381E-01        8.7668E-03
+        2.7000E+01        0.0000E+00        2.3503E-01        8.0839E-03
+        2.8000E+01        0.0000E+00        2.0479E-01        8.0931E-03
+        2.9000E+01        0.0000E+00        1.9944E-01        7.4103E-03
+        3.0000E+01        0.0000E+00        1.9281E-01        8.0839E-03

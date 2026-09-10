@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 62-SM-149(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 62 
+#   A: 149 
+#   Nuclide: 62-SM-149 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107.0 
+#   Incident energy:  4.5000e+00 MeV - 6.5000e+00 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 146 
+#   Nuclide: 60-ND-146 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32698-002-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-149(N,A)60-ND-146,,SIG) 
+#   First author: Guohui Zhang 
+#   Institute:  (3CPRBJG): Peking University , Beijing 
+#   Reference:  (J,PRL,107,(25),252502,2011) 
+#   Year:  2011 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32698.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32698
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.5000E+00        1.9000E-01        4.9000E-05        9.0000E-06
+        5.0000E+00        1.6000E-01        5.7000E-05        1.0000E-05
+        5.5000E+00        1.4000E-01        8.4000E-05        1.5000E-05
+        6.0000E+00        1.2000E-01        1.0000E-04        2.0000E-05
+        6.5000E+00        1.0000E-01        1.9000E-04        3.0000E-05

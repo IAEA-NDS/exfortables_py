@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 6-C-12(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  8.3500e-05 MeV - 2.1600e-04 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2435-004-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(A,X)2-HE-3,,SIG,,,DERIV) 
+#   First author: F.Horst 
+#   Institute:  (2GERGER): Germany 
+#   Reference:  (J,PR/C,96,024624,2017) 
+#   Year:  2017 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O24/O2435.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2435
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.3500E-05        6.5000E-06        2.1800E-01        7.2000E-02
+        1.2500E-04        5.0000E-06        1.7400E-01        6.3000E-02
+        1.7600E-04        4.0000E-06        1.2400E-01        5.8000E-02
+        2.1600E-04        4.0000E-06        1.2800E-01        5.1000E-02

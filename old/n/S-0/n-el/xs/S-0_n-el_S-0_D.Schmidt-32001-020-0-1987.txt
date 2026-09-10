@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 16-S-0(N,EL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 16 
+#   A: 0 
+#   Nuclide: 16-S-0 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 3 - 2 
+#   Incident energy:  7.0000e+00 MeV - 1.1000e+01 MeV 
+# Residual: 
+#   Z: 16 
+#   A: 0 
+#   Nuclide: 16-S-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32001-020-0 (entry-subentry-pointer) 
+#   Reaction code: (16-S-0(N,EL)16-S-0,,SIG) 
+#   First author: D.Schmidt 
+#   Institute:  (3DDRTUD): Dresden, Techn.University at Dresden and Pirna 
+#   Reference:  (J,NSE,96,159,1987) 
+#   Year:  1987 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/320/32001.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32001
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.0000E+00        1.8500E-01        1.1340E+00        1.0200E-01
+        8.0000E+00        1.6000E-01        1.0270E+00        9.2000E-02
+        9.0000E+00        1.3800E-01        9.0900E-01        8.6000E-02
+        1.0000E+01        1.2500E-01        7.2100E-01        1.1100E-01
+        1.1000E+01        1.1500E-01        8.3000E-01        6.2000E-02

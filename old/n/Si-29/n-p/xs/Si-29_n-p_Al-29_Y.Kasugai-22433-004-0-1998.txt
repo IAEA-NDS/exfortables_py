@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 14-SI-29(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 14 
+#   A: 29 
+#   Nuclide: 14-SI-29 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3400e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 13 
+#   A: 29 
+#   Nuclide: 13-AL-29 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22433-004-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-29(N,P)13-AL-29,,SIG) 
+#   First author: Y.Kasugai 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  (J,ANE,25,(1-3),23,1998) 
+#   Year:  1998 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22433.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22433
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3400E+01        5.0000E-02        1.2560E-01        4.5216E-03
+        1.3650E+01        5.0000E-02        1.3060E-01        4.7016E-03
+        1.3880E+01        5.0000E-02        1.3270E-01        4.7772E-03
+        1.4280E+01        5.0000E-02        1.3170E-01        4.8729E-03
+        1.4580E+01        5.0000E-02        1.3160E-01        4.7376E-03
+        1.4870E+01        5.0000E-02        1.3080E-01        4.7088E-03

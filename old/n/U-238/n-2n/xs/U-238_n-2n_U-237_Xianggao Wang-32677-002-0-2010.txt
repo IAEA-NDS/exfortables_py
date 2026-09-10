@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 92-U-238(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16.0 
+#   Incident energy:  1.3500e+01 MeV - 1.4900e+01 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 237 
+#   Nuclide: 92-U-237 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32677-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,2N)92-U-237,,SIG) 
+#   First author: Xianggao Wang 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,NIM/A,621,326,201009) 
+#   Year:  2010 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/326/32677.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32677
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3500E+01        3.0000E-01        1.1010E+00        2.9000E-02
+        1.4100E+01        2.0000E-01        8.5300E-01        2.2000E-02
+        1.4700E+01        3.0000E-01        6.5900E-01        1.7000E-02
+        1.4900E+01        4.0000E-01        5.9900E-01        1.6000E-02

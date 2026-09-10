@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 82-PB-0(6-C-12,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: 6-C-12,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.9012e-05 MeV - 3.8630e-04 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 74 
+#   Nuclide: 33-AS-74 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2409-012-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(6-C-12,X)33-AS-74,,SIG) 
+#   First author: T.Ogawa 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,NIM/B,300,35,2013) 
+#   Year:  2013 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E24/E2409.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2409
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.9012E-05        7.7300E-06        8.2700E-03        5.9100E-04
+        1.0877E-04        6.1740E-06        7.4430E-03        5.0700E-04
+        1.4074E-04        5.2420E-06        5.7480E-03        3.7000E-04
+        1.6841E-04        4.6570E-06        5.5910E-03        3.3600E-04
+        1.9311E-04        3.8750E-06        5.5110E-03        3.1000E-04
+        2.1631E-04        3.6280E-06        5.2490E-03        2.7300E-04
+        2.3816E-04        3.4260E-06        4.4510E-03        2.2200E-04
+        2.5924E-04        3.6020E-06        5.0060E-03        2.1700E-04
+        2.7940E-04        3.1260E-06        5.2960E-03        2.1500E-04
+        2.9848E-04        3.0280E-06        3.7740E-03        1.5000E-04
+        3.1698E-04        2.9440E-06        4.5990E-03        1.5800E-04
+        3.3522E-04        3.1470E-06        4.4780E-03        1.4000E-04
+        3.5275E-04        2.9200E-06        4.8610E-03        1.3400E-04
+        3.6961E-04        2.8370E-06        4.3120E-03        1.1600E-04
+        3.8630E-04        2.7550E-06        4.3110E-03        9.9000E-05

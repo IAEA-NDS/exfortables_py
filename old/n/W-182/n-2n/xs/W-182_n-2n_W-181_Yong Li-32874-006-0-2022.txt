@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 74-W-182(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 74 
+#   A: 182 
+#   Nuclide: 74-W-182 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 74 
+#   A: 181 
+#   Nuclide: 74-W-181 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32874-006-0 (entry-subentry-pointer) 
+#   Reaction code: (74-W-182(N,2N)74-W-181,,SIG) 
+#   First author: Yong Li 
+#   Institute:  (3CPRPDU): Pingdingshan University , Pingdingshan 
+#   Reference:  (J,CPH/C,46,054003,2022) 
+#   Year:  2022 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32874.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32874
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3500E+01        3.0000E-01        1.9650E+00        1.2800E-01
+        1.4400E+01        3.0000E-01        2.1500E+00        1.3700E-01
+        1.4800E+01        2.0000E-01        2.1670E+00        1.4200E-01

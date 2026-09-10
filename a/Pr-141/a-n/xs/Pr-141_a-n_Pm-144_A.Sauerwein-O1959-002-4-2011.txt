@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 59-PR-141(A,N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-04-23 
+#   Date created: 2026-09-07 
 # Target: 
 #   Z: 59 
 #   A: 141 
 #   Nuclide: 59-PR-141 
 # Reaction: 
 #   Process: A,N 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  1.1047e+01 MeV - 1.4956e+01 MeV 
 # Residual: 
 #   Z: 61 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O19/O1959.x4 
 #   nds:  https://nds.iaea.org/EXFOR/O1959
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
         1.1047E+01        2.8000E-02               NAN        0.0000E+00
         1.1305E+01        2.8000E-02               NAN        0.0000E+00
         1.1899E+01        2.9000E-02               NAN        0.0000E+00

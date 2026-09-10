@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 49-IN-115(N,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 49 
+#   A: 115 
+#   Nuclide: 49-IN-115 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Outgoing energy:  5.2000e+00 MeV - 1.4500e+01 MeV 
+# EXFOR BIB:
+#   Entry id: 30055-007-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-115(N,X)1-H-1,,DA/DE) 
+#   First author: H.S.Hans 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  (J,NP,47,473,196307) 
+#   Year:  1963 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30055.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30055
+#
+#   E_out_cm(MeV)    dE_out_cm(MeV) Angle_cm(degrees) dAngle_cm(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        5.2000E+00        0.0000E+00        0.0000E+00        1.7000E+01        3.1500E-10        2.5000E-11
+        5.7000E+00        0.0000E+00        0.0000E+00        1.7000E+01        3.2000E-10        2.5000E-11
+        6.4000E+00        0.0000E+00        0.0000E+00        1.7000E+01        2.9000E-10        2.0000E-11
+        7.0000E+00        0.0000E+00        0.0000E+00        1.7000E+01        2.8500E-10        2.0000E-11
+        7.7000E+00        0.0000E+00        0.0000E+00        1.7000E+01        2.4500E-10        2.0000E-11
+        8.4000E+00        0.0000E+00        0.0000E+00        1.7000E+01        2.2000E-10        1.5000E-11
+        9.0000E+00        0.0000E+00        0.0000E+00        1.7000E+01        2.0000E-10        1.5000E-11
+        9.7000E+00        0.0000E+00        0.0000E+00        1.7000E+01        2.1000E-10        1.5000E-11
+        1.0400E+01        0.0000E+00        0.0000E+00        1.7000E+01        1.8000E-10        1.5000E-11
+        1.1100E+01        0.0000E+00        0.0000E+00        1.7000E+01        1.5000E-10        1.5000E-11
+        1.1700E+01        0.0000E+00        0.0000E+00        1.7000E+01        1.6000E-10        1.5000E-11
+        1.2500E+01        0.0000E+00        0.0000E+00        1.7000E+01        1.4000E-10        1.5000E-11
+        1.3100E+01        0.0000E+00        0.0000E+00        1.7000E+01        1.1500E-10        1.5000E-11
+        1.3800E+01        0.0000E+00        0.0000E+00        1.7000E+01        1.1000E-10        1.5000E-11
+        1.4500E+01        0.0000E+00        0.0000E+00        1.7000E+01        3.0000E-11        1.0000E-11

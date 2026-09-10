@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 21-SC-45(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 21 
+#   A: 45 
+#   Nuclide: 21-SC-45 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 56.0 
+#   Incident energy:  2.1400e+00 MeV - 3.5000e+00 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 45 
+#   Nuclide: 21-SC-45 
+#   Level energy: 1.0170e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 13547-004-0 (entry-subentry-pointer) 
+#   Reaction code: (21-SC-45(N,INL)21-SC-45,PAR,SIG) 
+#   First author: A.B.Smith 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,JP/G,19,655,1993) 
+#   Year:  1993 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/135/13547.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13547
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        2.1400E+00        0.0000E+00        1.1550E-01        2.3690E-02
+        2.2700E+00        0.0000E+00        1.1700E-01        2.4000E-02
+        2.3500E+00        0.0000E+00        1.0600E-01        2.1100E-02
+        2.4500E+00        0.0000E+00        1.2500E-01        2.5180E-02
+        2.5500E+00        0.0000E+00        1.1850E-01        2.4000E-02
+        2.6700E+00        0.0000E+00        1.1800E-01        2.4000E-02
+        2.7500E+00        0.0000E+00        8.2500E-02        1.6690E-02
+        2.8700E+00        0.0000E+00        1.0900E-01        2.1780E-02
+        3.0000E+00        0.0000E+00        1.1100E-01        2.8500E-02
+        3.1000E+00        0.0000E+00        1.1800E-01        2.5500E-02
+        3.2000E+00        0.0000E+00        1.1350E-01        2.4510E-02
+        3.3000E+00        0.0000E+00        1.0200E-01        2.5000E-02
+        3.3900E+00        0.0000E+00        1.0700E-01        2.5510E-02
+        3.5000E+00        0.0000E+00        9.4000E-02        2.5500E-02

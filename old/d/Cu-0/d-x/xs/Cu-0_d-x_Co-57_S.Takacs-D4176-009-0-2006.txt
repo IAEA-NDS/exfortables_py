@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 29-CU-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.2930e+01 MeV - 4.8950e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 57 
+#   Nuclide: 27-CO-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4176-009-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(D,X)27-CO-57,CUM,SIG) 
+#   First author: S.Takacs 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,251,56,2006) 
+#   Year:  2006 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4176.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4176
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.2930E+01        5.4000E-01        2.4000E-04        7.0000E-05
+        3.4260E+01        5.1000E-01        2.1000E-04        4.0000E-05
+        3.5570E+01        4.9000E-01        2.8000E-04        1.0000E-04
+        3.7070E+01        4.7000E-01        4.1000E-04        6.0000E-05
+        3.9070E+01        4.4000E-01        4.5000E-04        7.0000E-05
+        4.0520E+01        4.2000E-01        5.8000E-04        1.1000E-04
+        4.2100E+01        4.0000E-01        3.1900E-03        3.6000E-04
+        4.2990E+01        3.8000E-01        1.2400E-03        1.5000E-04
+        4.4800E+01        3.6000E-01        2.3900E-03        2.8000E-04
+        4.5840E+01        3.5000E-01        3.4700E-03        4.0000E-04
+        4.6900E+01        3.3000E-01        5.1700E-03        5.8000E-04
+        4.7920E+01        3.2000E-01        7.4100E-03        8.4000E-04
+        4.8950E+01        3.0000E-01        1.0200E-02        1.1500E-03

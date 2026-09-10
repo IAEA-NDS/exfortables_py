@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 31-GA-71(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 31 
+#   A: 71 
+#   Nuclide: 31-GA-71 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.7000e-01 MeV - 1.6700e+00 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 72 
+#   Nuclide: 31-GA-72 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40448-003-0 (entry-subentry-pointer) 
+#   Reaction code: (31-GA-71(N,G)31-GA-72,,SIG) 
+#   First author: Yu.Ya.Stavisskii 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (J,JNE/A,12,132,1960) 
+#   Year:  1960 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/404/40448.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40448
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.7000E-01        5.0000E-02        2.7200E-02        1.2000E-03
+        4.7000E-01        5.0000E-02        2.9800E-02        1.2000E-03
+        6.8000E-01        5.0000E-02        1.8800E-02        9.0000E-04
+        8.9000E-01        5.0000E-02        1.7300E-02        7.0000E-04
+        1.2700E+00        5.0000E-02        1.3200E-02        8.0000E-04
+        1.4300E+00        5.0000E-02        9.6000E-03        4.0000E-04
+        1.6700E+00        6.0000E-02        6.8000E-03        3.0000E-04

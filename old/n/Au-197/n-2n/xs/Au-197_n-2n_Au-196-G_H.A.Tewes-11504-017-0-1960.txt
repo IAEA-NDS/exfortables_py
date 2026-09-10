@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 79-AU-197(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  8.4000e+00 MeV - 1.5100e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 196 
+#   Nuclide: 79-AU-196-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11504-017-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,2N)79-AU-196-G,,SIG) 
+#   First author: H.A.Tewes 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (R,UCRL-6028-T,1960) 
+#   Year:  1960 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11504.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11504
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.4000E+00        2.0000E-01        1.1000E-02        2.2000E-03
+        9.1000E+00        2.0000E-01        2.3500E-01        4.7000E-02
+        9.3500E+00        2.0000E-01        3.8000E-01        7.6000E-02
+        9.8000E+00        2.0000E-01        7.1000E-01        1.4200E-01
+        1.0350E+01        2.0000E-01        1.2500E+00        2.5000E-01
+        1.1000E+01        2.0000E-01        1.5550E+00        3.1100E-01
+        1.1500E+01        2.0000E-01        1.6200E+00        3.2400E-01
+        1.1800E+01        2.0000E-01        1.8000E+00        3.6000E-01
+        1.2100E+01        2.0000E-01        1.5550E+00        3.1100E-01
+        1.2300E+01        2.0000E-01        1.7250E+00        3.4500E-01
+        1.2800E+01        2.0000E-01        2.0000E+00        4.0000E-01
+        1.3000E+01        2.0000E-01        1.9300E+00        3.8600E-01
+        1.3850E+01        2.0000E-01        1.9600E+00        3.9200E-01
+        1.4000E+01        2.0000E-01        2.0300E+00        4.0600E-01
+        1.4500E+01        2.0000E-01        1.9600E+00        3.9200E-01
+        1.5100E+01        2.0000E-01        2.1100E+00        4.2200E-01

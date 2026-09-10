@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 15-P-31(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 15 
+#   A: 31 
+#   Nuclide: 15-P-31 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 604 
+#   Incident energy:  1.8549e+00 MeV - 2.5020e+00 MeV 
+# Residual: 
+#   Z: 15 
+#   A: 32 
+#   Nuclide: 15-P-32 
+#   Level energy: 1.3230e+00 MeV 
+# EXFOR BIB:
+#   Entry id: F1008-007-0 (entry-subentry-pointer) 
+#   Reaction code: (15-P-31(D,P)15-P-32,PAR,SIG) 
+#   First author: A.T.Baranik 
+#   Institute:  (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
+#   Reference:  (J,NP,72,49,1965) 
+#   Year:  1965 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F10/F1008.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1008
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.8549E+00        3.0000E-03        2.7129E-03        0.0000E+00
+        2.0000E+00        3.0000E-03        5.5842E-03        0.0000E+00
+        2.1961E+00        3.0000E-03        3.7030E-03        0.0000E+00
+        2.3098E+00        3.0000E-03        4.8119E-03        0.0000E+00
+        2.4000E+00        3.0000E-03        4.5941E-03        0.0000E+00
+        2.5020E+00        3.0000E-03        5.2871E-03        0.0000E+00

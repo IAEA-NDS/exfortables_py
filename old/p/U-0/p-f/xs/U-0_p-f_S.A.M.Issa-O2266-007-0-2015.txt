@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 92-U-0(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 92 
+#   A: 0 
+#   Nuclide: 92-U-0 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  2.1100e+02 MeV - 2.5300e+03 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 139 
+#   Nuclide: 58-CE-139 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2266-007-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-0(P,F)58-CE-139,CUM,SIG) 
+#   First author: S.A.M.Issa 
+#   Institute:  (2GERUH): University Hannover (previously Tech.University Hannover) 
+#   Reference:  (J,JRN,305,345,2015) 
+#   Year:  2015 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O22/O2266.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2266
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.1100E+02        2.0000E+00        2.6000E-03        2.0000E-04
+        1.0000E+03        2.0000E+00        6.4000E-03        2.0000E-04
+        1.4000E+03        2.0000E+00        4.3000E-03        1.0000E-04
+        2.5300E+03        2.0000E+00        5.1000E-03        2.0000E-04

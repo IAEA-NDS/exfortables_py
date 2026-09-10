@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 28-NI-60(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102.0 
+#   Incident energy:  5.0000e-03 MeV - 1.0000e-01 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 61 
+#   Nuclide: 28-NI-61 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22669-003-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(N,G)28-NI-61,,SIG,,MXW,DERIV) 
+#   First author: F.Corvi 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,NP/A,697,(3-4),581,2002) 
+#   Year:  2002 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22669.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22669
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.0000E-03        0.0000E+00        5.8420E-02        4.1000E-03
+        8.0000E-03        0.0000E+00        5.5800E-02        3.9000E-03
+        1.0000E-02        0.0000E+00        5.1020E-02        3.4000E-03
+        1.5000E-02        0.0000E+00        4.0380E-02        2.5000E-03
+        2.0000E-02        0.0000E+00        3.3220E-02        1.9000E-03
+        2.5000E-02        0.0000E+00        2.8430E-02        1.5000E-03
+        3.0000E-02        0.0000E+00        2.5090E-02        1.3000E-03
+        4.0000E-02        0.0000E+00        2.0790E-02        1.0000E-03
+        5.0000E-02        0.0000E+00        1.8150E-02        9.0000E-04
+        6.0000E-02        0.0000E+00        1.6350E-02        8.0000E-04
+        8.0000E-02        0.0000E+00        1.3960E-02        7.0000E-04
+        1.0000E-01        0.0000E+00        1.2310E-02        6.0000E-04

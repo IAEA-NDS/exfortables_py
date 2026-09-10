@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 22-TI-47(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 22 
+#   A: 47 
+#   Nuclide: 22-TI-47 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  3.4000e+00 MeV - 6.1000e+00 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 47 
+#   Nuclide: 21-SC-47 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10180-003-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-47(N,P)21-SC-47,,SIG) 
+#   First author: S.K.Ghorai 
+#   Institute:  (1USAAUB): Auburn University, Auburn, AL 
+#   Reference:  (J,JNE,25,319,197108) 
+#   Year:  1971 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10180.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10180
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.4000E+00        2.0000E-01        6.8000E-02        1.2000E-02
+        4.1000E+00        2.0000E-01        8.6000E-02        1.5000E-02
+        5.0000E+00        2.0000E-01        9.3000E-02        1.6000E-02
+        6.1000E+00        2.0000E-01        1.3500E-01        2.3000E-02

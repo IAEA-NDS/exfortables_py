@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 5-B-11(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 5 
+#   A: 11 
+#   Nuclide: 5-B-11 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4700e+01 MeV - 1.6900e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 11 
+#   Nuclide: 4-BE-11 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30180-002-0 (entry-subentry-pointer) 
+#   Reaction code: (5-B-11(N,P)4-BE-11,,SIG) 
+#   First author: B.Z.Stepancic 
+#   Institute:  (3SRBBKB): Institut za Nuklearne Nauke "Vinca", Beograd 
+#   Reference:  (J,IBK,17,237,1966) 
+#   Year:  1966 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30180.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30180
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4700E+01        7.0000E-01        4.7000E-03        5.0000E-04
+        1.5700E+01        3.0000E-01        5.2000E-03        5.0000E-04
+        1.6300E+01        3.0000E-01        4.9000E-03        5.0000E-04
+        1.6900E+01        2.0000E-01        6.0000E-03        5.0000E-04

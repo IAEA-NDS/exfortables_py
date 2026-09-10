@@ -1,0 +1,49 @@
+# Header: 
+#   Title: 69-TM-169(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 69 
+#   A: 169 
+#   Nuclide: 69-TM-169 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  3.3000e+00 MeV - 4.3900e+01 MeV 
+# Residual: 
+#   Z: 70 
+#   A: 169 
+#   Nuclide: 70-YB-169-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0018-004-0 (entry-subentry-pointer) 
+#   Reaction code: (69-TM-169(P,N)70-YB-169-G,M+,SIG,,,EXP) 
+#   First author: C.Birattari 
+#   Institute:  (2ITYMIL): Universita degli Studi di Milano + INFN Milano 
+#   Reference:  (J,NP/A,201,579,1973) 
+#   Year:  1973 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0018.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0018
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.3000E+00        0.0000E+00        7.4000E-04        6.0000E-05
+        6.2000E+00        0.0000E+00        3.0300E-02        2.5000E-03
+        8.1000E+00        0.0000E+00        1.3400E-01        9.0000E-03
+        1.0500E+01        0.0000E+00        1.6300E-01        1.1000E-02
+        1.2400E+01        0.0000E+00        9.4600E-02        7.0000E-03
+        1.4600E+01        0.0000E+00        5.3800E-02        3.3000E-03
+        1.6600E+01        0.0000E+00        3.7500E-02        2.7000E-03
+        1.8800E+01        0.0000E+00        3.1700E-02        2.2000E-03
+        2.0600E+01        0.0000E+00        2.6800E-02        1.9000E-03
+        2.2900E+01        0.0000E+00        2.5600E-02        1.7000E-03
+        2.5100E+01        0.0000E+00        2.3600E-02        1.6000E-03
+        2.7100E+01        0.0000E+00        2.2600E-02        1.5000E-03
+        2.9300E+01        0.0000E+00        2.0200E-02        1.5000E-03
+        3.1500E+01        0.0000E+00        1.9100E-02        1.5000E-03
+        3.3300E+01        0.0000E+00        1.8500E-02        1.4000E-03
+        3.5800E+01        0.0000E+00        1.7100E-02        1.2000E-03
+        3.7800E+01        0.0000E+00        1.5200E-02        1.0000E-03
+        3.9400E+01        0.0000E+00        1.3900E-02        1.1000E-03
+        4.1700E+01        0.0000E+00        1.4100E-02        1.2000E-03
+        4.3900E+01        0.0000E+00        1.2600E-02        1.1000E-03

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 36-KR-80(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 36 
+#   A: 80 
+#   Nuclide: 36-KR-80 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.4900e-01 MeV - 2.1500e-01 MeV 
+# Residual: 
+#   Z: 36 
+#   A: 81 
+#   Nuclide: 36-KR-81-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22808-006-0 (entry-subentry-pointer) 
+#   Reaction code: (36-KR-80(N,G)36-KR-81-M,,SIG,,SPA) 
+#   First author: H.Beer 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,NP/A,705,239,2002) 
+#   Year:  2002 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22808.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22808
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4900E-01        2.0000E-02        4.5900E-02        4.5000E-03
+        1.8000E-01        2.0000E-02        4.7600E-02        4.6000E-03
+        2.1500E-01        2.3000E-02        4.6500E-02        4.5000E-03

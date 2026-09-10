@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 92-U-238 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2026-09-07 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : G0028-007-3 
+#   First Author          : R.D.Heil 
+#   Institute             : (2GERJLU): Justus Liebig University , Giessen 
+#   Reference             : (J,NP/A,476,39,1988) 
+#   Year                  : 1988 
+#   Facility              : (DYNAM): Dynamitron 
+# Target: 
+#   Z                     : 92 
+#   A                     : 238 
+#   Isomer                :  
+#   Nuclide               : 92-U-238 
+# Reaction: 
+#   EXFOR Reaction        : (92-U-238(G,EL),,WID) 
+#   Incident Energy       : 2.1760e+06 eV - 2.4680e+06 eV 
+#   Resonance Energy Type : EN-RES 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G00/G0028.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/G0028
+#
+#    E_in(eV)    dE_in(eV)          J          L      (G,TOT)     d(G,TOT)        (G,G)       d(G,G)        (G,EL)     d(G,EL)        (G,F)       d(G,F)        (G,A)       d(G,A)
+   2.1760E+06          NAN        1.0        NAN          NAN          NAN          NAN          NAN   3.7100E-02   2.1000E-03          NAN          NAN          NAN          NAN
+   2.2090E+06          NAN        1.0        NAN          NAN          NAN          NAN          NAN   3.7200E-02   2.1000E-03          NAN          NAN          NAN          NAN
+   2.2450E+06          NAN        1.0        NAN          NAN          NAN          NAN          NAN   2.1200E-02   1.3000E-03          NAN          NAN          NAN          NAN
+   2.2950E+06          NAN        1.0        NAN          NAN          NAN          NAN          NAN   8.8000E-03   1.0000E-03          NAN          NAN          NAN          NAN
+   2.4100E+06          NAN        1.0        NAN          NAN          NAN          NAN          NAN   1.7600E-02   1.2000E-03          NAN          NAN          NAN          NAN
+   2.4680E+06          NAN        1.0        NAN          NAN          NAN          NAN          NAN   2.1100E-02   1.4000E-03          NAN          NAN          NAN          NAN

@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 52-TE-120(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 52 
+#   A: 120 
+#   Nuclide: 52-TE-120 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.0586e+01 MeV - 1.6410e+01 MeV 
+# Residual: 
+#   Z: 54 
+#   A: 123 
+#   Nuclide: 54-XE-123 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4433-002-2 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-120(A,N)54-XE-123,,SIG,,SFC) 
+#   First author: Zs.Matyus 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,PR/C,109,065806,2024) 
+#   Year:  2024 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D44/D4433.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4433
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0586E+01        7.2000E-02        3.8500E+30        1.5400E+30
+        1.1557E+01        7.0000E-02        1.5600E+30        2.0000E+29
+        1.2525E+01        7.1000E-02        1.1700E+30        9.0000E+28
+        1.3497E+01        6.9000E-02        5.8900E+29        4.7000E+28
+        1.4468E+01        6.8000E-02        2.7300E+29        2.3000E+28
+        1.5438E+01        6.8000E-02        9.8000E+28        8.0000E+27
+        1.6410E+01        6.6000E-02        2.9300E+28        2.3000E+27

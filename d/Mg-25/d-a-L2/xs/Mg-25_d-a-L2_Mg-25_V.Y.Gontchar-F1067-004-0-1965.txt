@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 12-MG-25(D,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 12 
+#   A: 25 
+#   Nuclide: 12-MG-25 
+# Reaction: 
+#   Process: D,A 
+#   MF-MT number: 3 - 802 
+#   Incident energy:  1.4980e+00 MeV - 2.3957e+00 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 23 
+#   Nuclide: 11-NA-23 
+#   Level energy: 2.0800e+00 MeV 
+# EXFOR BIB:
+#   Entry id: F1067-004-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-25(D,A)11-NA-23,PAR,SIG) 
+#   First author: V.Y.Gontchar 
+#   Institute:  (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
+#   Reference:  (J,NP,62,410,1965) 
+#   Year:  1965 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F10/F1067.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1067
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.4980E+00        1.4000E-03        5.4598E-04        0.0000E+00
+        1.5955E+00        1.4000E-03        6.0324E-04        0.0000E+00
+        1.6987E+00        1.4000E-03        8.1566E-04        0.0000E+00
+        1.8044E+00        1.4000E-03        6.1429E-04        0.0000E+00
+        1.8968E+00        1.4000E-03        1.5969E-03        0.0000E+00
+        1.9998E+00        1.4000E-03        1.3495E-03        0.0000E+00
+        2.1001E+00        1.4000E-03        1.3895E-03        0.0000E+00
+        2.2004E+00        1.4000E-03        1.5215E-03        0.0000E+00
+        2.2981E+00        1.4000E-03        1.9696E-03        0.0000E+00
+        2.3957E+00        1.4000E-03        2.1533E-03        0.0000E+00

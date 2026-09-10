@@ -1,7 +1,7 @@
 # Header: 
 #   Title: 13-AL-27(A,X)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-04-23 
+#   Date created: 2026-09-07 
 # Target: 
 #   Z: 13 
 #   A: 27 
@@ -20,13 +20,13 @@
 #   Reaction code: (13-AL-27(A,X)11-NA-22,,SIG) 
 #   First author: S.A.Karamyan 
 #   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
-#   Reference:  (C,92ALMAAT,291,1992) 
+#   Reference:  (C,92ALMAAT,,291,1992) 
 #   Year:  1992 
 #   Facility:  (CYCLO): Cyclotron 
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F13/F1318.x4 
 #   nds:  https://nds.iaea.org/EXFOR/F1318
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
         1.8588E+01        1.0200E-01        3.8314E-05        0.0000E+00
         2.1750E+01        1.0200E-01        1.9206E-05        0.0000E+00
         2.6493E+01        1.0200E-01        1.6731E-05        0.0000E+00

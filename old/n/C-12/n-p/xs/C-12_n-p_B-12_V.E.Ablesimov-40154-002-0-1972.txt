@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 6-C-12(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103.0 
+#   Incident energy:  1.4100e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 5 
+#   A: 12 
+#   Nuclide: 5-B-12 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40154-002-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(N,P)5-B-12,,SIG) 
+#   First author: V.E.Ablesimov 
+#   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference:  ((C,71KIEV,1,173,1971)=(R,INDC(CCP)-456,(1),173,1972)) 
+#   Year:  1972 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40154.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40154
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4100E+01        2.0000E-01        8.0000E-04        2.0000E-04
+        1.4800E+01        2.0000E-01        1.2000E-03        2.0000E-04

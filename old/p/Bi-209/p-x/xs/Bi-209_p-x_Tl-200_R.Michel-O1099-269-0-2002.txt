@@ -1,0 +1,52 @@
+# Header: 
+#   Title: 83-BI-209(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0100e+02 MeV - 2.6000e+03 MeV 
+# Residual: 
+#   Z: 81 
+#   A: 200 
+#   Nuclide: 81-TL-200 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1099-269-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(P,X)81-TL-200,CUM,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERUH): University Hannover (previously Tech.University Hannover) 
+#   Reference:  (J,NSTS,2,242,2002) 
+#   Year:  2002 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O10/O1099.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1099
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0100E+02        1.9400E+00        3.4600E-02        3.6600E-03
+        1.0100E+02        2.0100E+00        4.9910E-03        3.6240E-03
+        1.1100E+02        1.8600E+00        4.6000E-01        4.2860E-02
+        1.2100E+02        1.2500E+00        1.2800E-02        5.3550E-03
+        1.2200E+02        1.8300E+00        4.5220E-02        5.9430E-03
+        1.2800E+02        1.0800E+00        6.2240E-03        5.7470E-03
+        1.3100E+02        1.7300E+00        5.1040E-02        5.6020E-03
+        1.3300E+02        1.8600E+00        2.6430E-03        6.5230E-03
+        1.4200E+02        1.5600E+00        5.3910E-02        3.9590E-03
+        1.5000E+02        1.4800E+00        5.0160E-02        4.2270E-03
+        1.5400E+02        1.5200E+00        2.9780E-03        6.9950E-03
+        1.5900E+02        1.3800E+00        4.7110E-02        3.6540E-03
+        1.6000E+02        1.4800E+00        1.8310E-03        6.3630E-03
+        1.6600E+02        1.2600E+00        3.9970E-02        3.5680E-03
+        2.3500E+02        0.0000E+00        2.0560E-02        7.6730E-03
+        2.7600E+02        8.3600E-01        1.5040E-02        3.4490E-03
+        3.1800E+02        1.9600E+00        3.6700E-02        3.9950E-03
+        5.5100E+02        1.6900E+00        6.8760E-03        2.2380E-03
+        7.5700E+02        1.6500E+00        1.1970E-02        3.6960E-03
+        9.9800E+02        6.9000E-01        1.0650E-02        2.3900E-03
+        1.4000E+03        6.8600E-01        1.1930E-02        2.2500E-03
+        1.5700E+03        1.4700E+00        1.6680E-02        5.0210E-03
+        2.6000E+03        7.2500E-01        8.2620E-03        1.6980E-03

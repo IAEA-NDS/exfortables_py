@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 7-N-14(D,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 7 
+#   A: 14 
+#   Nuclide: 7-N-14 
+# Reaction: 
+#   Process: D,P 
+#   MF-MT number: 3 - 600.0 
+#   Incident energy:  3.2400e-01 MeV - 6.2600e-01 MeV 
+# Residual: 
+#   Z: 7 
+#   A: 15 
+#   Nuclide: 7-N-15 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: F0706-007-0 (entry-subentry-pointer) 
+#   Reaction code: (7-N-14(D,P)7-N-15,PAR,SIG) 
+#   First author: A.Valek 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NP/A,270,200,1976) 
+#   Year:  1976 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F07/F0706.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0706
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        3.2400E-01        0.0000E+00        2.5000E-05        2.4000E-06
+        3.7400E-01        0.0000E+00        7.7000E-05        6.0000E-06
+        4.7500E-01        0.0000E+00        3.4000E-04        2.5000E-05
+        5.7600E-01        0.0000E+00        7.8000E-04        5.5000E-05
+        6.2600E-01        0.0000E+00        1.2200E-03        8.5000E-05

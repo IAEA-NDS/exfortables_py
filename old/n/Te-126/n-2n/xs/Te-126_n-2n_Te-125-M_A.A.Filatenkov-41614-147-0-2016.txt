@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 52-TE-126(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 52 
+#   A: 126 
+#   Nuclide: 52-TE-126 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3670e+01 MeV - 1.4670e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 125 
+#   Nuclide: 52-TE-125-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41614-147-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-126(N,2N)52-TE-125-M,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,INDC(CCP)-0460,2016) 
+#   Year:  2016 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41614
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3670E+01        0.0000E+00        9.4500E-01        1.6065E-01
+        1.4060E+01        0.0000E+00        1.2140E+00        2.2095E-01
+        1.4280E+01        0.0000E+00        1.0090E+00        1.5942E-01
+        1.4460E+01        0.0000E+00        1.1070E+00        1.3948E-01
+        1.4670E+01        0.0000E+00        9.4000E-01        1.6920E-01

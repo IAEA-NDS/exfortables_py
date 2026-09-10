@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 27-CO-59(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 800 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 25 
+#   A: 56 
+#   Nuclide: 25-MN-56 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 11644-006-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(N,A)25-MN-56,PAR,SIG) 
+#   First author: C.Spira 
+#   Institute:  (1CANOTU): University of Ottawa, Ottawa, Ontario 
+#   Reference:  (J,NP/A,127,81,1969) 
+#   Year:  1969 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11644.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11644
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.4600E+01        0.0000E+00        1.1000E-03        4.0000E-04

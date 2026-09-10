@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 13-AL-27(N,X)  Energy distribution 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 5 - None 
+#   Incident energy:  3.4500e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Outgoing energy:  1.3500e+01 MeV - 3.4500e+01 MeV 
+# EXFOR BIB:
+#   Entry id: 22491-015-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,X)2-HE-4,,DE) 
+#   First author: S.Benck 
+#   Institute:  (2BLGLVN): Catholic University of Louvain, Louvain-la-Neuve 
+#   Reference:  (J,PR/C,58,(3),1558,199809) 
+#   Year:  1998 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22491.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22491
+#
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
+        3.4500E+01        0.0000E+00        1.0000E-11        2.0000E-11
+        3.1500E+01        0.0000E+00        9.0000E-11        7.0000E-11
+        2.8500E+01        0.0000E+00        1.2000E-10        9.0000E-11
+        2.5500E+01        0.0000E+00        1.9000E-10        1.3000E-10
+        2.2500E+01        0.0000E+00        3.4000E-10        2.2000E-10
+        1.3500E+01        0.0000E+00        5.2000E-10        9.1000E-10
+        1.9500E+01        0.0000E+00        7.3000E-10        4.0000E-10
+        1.6500E+01        0.0000E+00        1.1900E-09        6.9000E-10

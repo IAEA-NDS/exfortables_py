@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 3-LI-7(N,N+T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 3 
+#   A: 7 
+#   Nuclide: 3-LI-7 
+# Reaction: 
+#   Process: N,N+T 
+#   MF-MT number: 3 - 33.0 
+#   Incident energy:  5.4700e+00 MeV - 1.1760e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21966-002-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-7(N,N+T)2-HE-4,,SIG) 
+#   First author: M.T.Swinhoe 
+#   Institute:  (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference:  (J,NSE,89,261,8503) 
+#   Year:  1985 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21966.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21966
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.4700E+00        2.0239E-01        3.0100E-01        3.0100E-02
+        7.3500E+00        2.1315E-01        3.4400E-01        2.8552E-02
+        9.7200E+00        5.0544E-01        3.3200E-01        1.9588E-02
+        9.7700E+00        2.8333E-01        3.2700E-01        2.0928E-02
+        1.1760E+01        3.4104E-01        2.9700E-01        1.5444E-02

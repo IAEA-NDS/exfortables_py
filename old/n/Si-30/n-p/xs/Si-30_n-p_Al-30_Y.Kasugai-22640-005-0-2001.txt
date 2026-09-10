@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 14-SI-30(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 14 
+#   A: 30 
+#   Nuclide: 14-SI-30 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4940e+01 MeV 
+# Residual: 
+#   Z: 13 
+#   A: 30 
+#   Nuclide: 13-AL-30 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22640-005-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-30(N,P)13-AL-30,,SIG) 
+#   First author: Y.Kasugai 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  ((S,JAERI-C-2001-006,190,2001)=(S,INDC(JPN)-188,190,2001)) 
+#   Year:  2001 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22640.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22640
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4940E+01        0.0000E+00        3.4000E-02        5.0000E-03

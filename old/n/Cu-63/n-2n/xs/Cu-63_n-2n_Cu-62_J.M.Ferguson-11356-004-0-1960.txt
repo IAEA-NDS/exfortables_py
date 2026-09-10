@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 29-CU-63(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2410e+01 MeV - 1.7980e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 62 
+#   Nuclide: 29-CU-62 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11356-004-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-63(N,2N)29-CU-62,,SIG) 
+#   First author: J.M.Ferguson 
+#   Institute:  (1USANRD): U.S. Naval Radiolog. Defense Laboratory , San Francisco, CA 
+#   Reference:  (J,PR,118,228,1960) 
+#   Year:  1960 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11356.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11356
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2410E+01        1.2000E-01        1.8600E-01        1.9000E-02
+        1.2810E+01        1.5000E-01        2.3300E-01        2.1000E-02
+        1.3770E+01        2.0000E-01        3.7800E-01        3.4000E-02
+        1.4740E+01        2.7000E-01        5.0700E-01        4.5000E-02
+        1.5780E+01        3.2000E-01        6.4900E-01        5.8000E-02
+        1.6960E+01        3.4000E-01        7.5800E-01        6.8000E-02
+        1.7980E+01        2.4000E-01        8.3600E-01        7.5000E-02

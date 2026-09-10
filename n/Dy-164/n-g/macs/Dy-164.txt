@@ -1,0 +1,34 @@
+# Header: 
+#   title: 66-DY-164(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 66 
+#   A: 164 
+#   Nuclide: 66-DY-164 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.53000E-01  |   1.74973E-01   (N = 6)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.66944E-01 +/-  1.33913E-02   (N = 6)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11429-025-0         R.Booth                 1958   2.4000E-02   5.0000E-03   3.3000E-01   1.3000E-01                
+30063-008-0         A.K.Chaubey             1965   2.4000E-02   0.0000E+00   1.9000E-01   2.0000E-02                
+30086-008-0         A.K.Chaubey             1968   2.4000E-02   0.0000E+00   1.6000E-01   2.5000E-02                
+30086-009-0         A.K.Chaubey             1968   2.4000E-02   0.0000E+00   3.0000E-02   3.0000E-02                
+30234-023-0         A.Lakshmana Rao         1972   2.5000E-02   5.0000E-03   2.6400E-01   1.2000E-01                
+30234-024-0         A.Lakshmana Rao         1972   2.5000E-02   5.0000E-03   5.4400E-01   6.5000E-02                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+41177-036-0         M.V.Bokhovko            1991   3.0000E-02   0.0000E+00   2.0900E-01   1.5000E-02     MXW   DERIV
+V0102-368-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.1200E-01   3.0000E-03     MXW   RECOM
+V1002-290-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   2.1200E-01   6.0000E-03     MXW   RECOM

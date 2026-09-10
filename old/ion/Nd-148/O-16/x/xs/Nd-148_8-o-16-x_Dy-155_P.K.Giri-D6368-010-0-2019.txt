@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 60-ND-148(8-O-16,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 60 
+#   A: 148 
+#   Nuclide: 60-ND-148 
+# Reaction: 
+#   Process: 8-O-16,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  8.4100e+01 MeV - 9.9900e+01 MeV 
+# Residual: 
+#   Z: 66 
+#   A: 155 
+#   Nuclide: 66-DY-155 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6368-010-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-148(8-O-16,X)66-DY-155,,SIG) 
+#   First author: P.K.Giri 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,PR/C,100,024621,2019) 
+#   Year:  2019 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D63/D6368.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6368
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.4100E+01        1.1000E-01        4.7130E-02        4.2300E-03
+        8.9100E+01        1.7000E-01        5.2330E-02        3.8300E-03
+        9.4700E+01        1.7000E-01        5.1780E-02        3.8200E-03
+        9.9900E+01        9.0000E-02        7.4010E-02        3.3100E-03

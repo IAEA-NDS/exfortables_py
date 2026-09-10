@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 29-CU-0(6-C-12,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: 6-C-12,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.3600e+02 MeV - 2.2200e+03 MeV 
+# Residual: 
+#   Z: 17 
+#   A: 38 
+#   Nuclide: 17-CL-38 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1829-063-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(6-C-12,X)17-CL-38,CUM,SIG) 
+#   First author: H.Yashima 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,RCA,91,689,2003) 
+#   Year:  2003 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E18/E1829.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1829
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.3600E+02        0.0000E+00        2.8900E-03        5.2000E-04
+        9.2400E+02        0.0000E+00        3.5780E-03        5.4000E-04
+        1.6080E+03        0.0000E+00        3.9250E-03        5.4000E-04
+        2.2200E+03        0.0000E+00        3.5680E-03        4.7000E-04

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 16-S-34(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 16 
+#   A: 34 
+#   Nuclide: 16-S-34 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  6.7530e+00 MeV - 6.9300e+00 MeV 
+# Residual: 
+#   Z: 17 
+#   A: 34 
+#   Nuclide: 17-CL-34-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1961-005-0 (entry-subentry-pointer) 
+#   Reaction code: (16-S-34(P,N)17-CL-34-M,,SIG) 
+#   First author: C.J.Umbarger 
+#   Institute:  (1USAFSU): Florida State University, Tallahassee, FL 
+#   Reference:  (J,PR/C,2,(4),1378,1970) 
+#   Year:  1970 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C19/C1961.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1961
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.7530E+00        0.0000E+00        6.3490E-03        4.2520E-04
+        6.8440E+00        0.0000E+00        1.2820E-02        5.8240E-04
+        6.9300E+00        0.0000E+00        1.4510E-02        6.2320E-04

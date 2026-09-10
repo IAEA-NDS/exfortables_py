@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 42-MO-95(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 95 
+#   Nuclide: 42-MO-95 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  7.7300e+00 MeV - 1.3080e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 95 
+#   Nuclide: 41-NB-95-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23233-004-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-95(N,P)41-NB-95-M,,SIG) 
+#   First author: V.Semkova 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (J,EPJ/CS,66,03077,2014) 
+#   Year:  2014 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23233.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23233
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.7300E+00        1.3000E-01        1.5000E-03        1.0000E-04
+        8.9200E+00        1.2000E-01        2.7000E-03        1.0000E-04
+        1.0920E+01        1.1000E-01        4.8000E-03        3.0000E-04
+        1.1770E+01        1.1000E-01        5.2000E-03        5.0000E-04
+        1.3080E+01        1.1000E-01        6.8000E-03        3.0000E-04

@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 62-SM-147(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 62 
+#   A: 147 
+#   Nuclide: 62-SM-147 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.0000e-02 MeV - 1.0000e-01 MeV 
+# Residual: 
+#   Z: 62 
+#   A: 148 
+#   Nuclide: 62-SM-148 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22375-007-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-147(N,G)62-SM-148,,SIG,,MXW,DERIV) 
+#   First author: K.Guber 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (R,KFK-5170,199305) 
+#   Year:  1993 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22375.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22375
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E-02        0.0000E+00        1.9670E+00        4.3000E-02
+        1.2000E-02        0.0000E+00        1.7400E+00        3.2000E-02
+        2.0000E-02        0.0000E+00        1.2490E+00        1.5000E-02
+        2.5000E-02        0.0000E+00        1.0880E+00        1.2000E-02
+        3.0000E-02        0.0000E+00        9.7500E-01        1.0000E-02
+        4.0000E-02        0.0000E+00        8.2600E-01        7.0000E-03
+        5.0000E-02        0.0000E+00        7.3000E-01        6.0000E-03
+        5.2000E-02        0.0000E+00        7.1500E-01        6.0000E-03
+        6.0000E-02        0.0000E+00        6.6300E-01        5.0000E-03
+        7.0000E-02        0.0000E+00        6.1300E-01        5.0000E-03
+        8.0000E-02        0.0000E+00        5.7400E-01        5.0000E-03
+        9.0000E-02        0.0000E+00        5.4200E-01        5.0000E-03
+        1.0000E-01        0.0000E+00        5.1500E-01        6.0000E-03

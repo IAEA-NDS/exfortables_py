@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 82-PB-0(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  1.3140e+01 MeV - 1.5600e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11320-014-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(N,TOT),,SIG) 
+#   First author: J.P.Conner 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,109,1268,1958) 
+#   Year:  1958 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11320.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11320
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3140E+01        5.0000E-02        5.4700E+00        1.0000E-01
+        1.3600E+01        7.0000E-02        5.3800E+00        9.0000E-02
+        1.4100E+01        4.0000E-02        5.4000E+00        8.0000E-02
+        1.4590E+01        1.1000E-01        5.5300E+00        9.0000E-02
+        1.5120E+01        1.3000E-01        5.5200E+00        1.0000E-01
+        1.5600E+01        1.3000E-01        5.6100E+00        1.1000E-01

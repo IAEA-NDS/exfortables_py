@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 92-U-238(5-B-10,7N+P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: 5-B-10,7N+P 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.7700e+01 MeV - 9.9900e+01 MeV 
+# Residual: 
+#   Z: 96 
+#   A: 240 
+#   Nuclide: 96-CM-240 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: P0147-005-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(5-B-10,7N+P)96-CM-240,,SIG) 
+#   First author: A.Fleury 
+#   Institute:  (2FR GRA): Centre d'Etudes Nucleaires de Bordeaux-Gradignan 
+#   Reference:  (J,PL/B,24,576,1967) 
+#   Year:  1967 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P01/P0147.x4 
+#   nds:  https://nds.iaea.org/EXFOR/P0147
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.7700E+01        0.0000E+00        2.0000E-06        1.0000E-06
+        8.1900E+01        0.0000E+00        5.0000E-06        1.0000E-06
+        8.6000E+01        0.0000E+00        9.0000E-06        2.0000E-06
+        9.3600E+01        0.0000E+00        1.2000E-05        2.0000E-06
+        9.7500E+01        0.0000E+00        9.0000E-06        2.0000E-06
+        9.9900E+01        0.0000E+00        7.0000E-06        2.0000E-06

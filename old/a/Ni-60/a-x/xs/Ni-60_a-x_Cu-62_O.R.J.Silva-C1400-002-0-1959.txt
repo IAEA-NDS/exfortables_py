@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 28-NI-60(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.9800e+01 MeV - 3.2420e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 62 
+#   Nuclide: 29-CU-62 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C1400-002-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(A,X)29-CU-62,,SIG) 
+#   First author: O.R.J.Silva 
+#   Institute:  (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
+#   Reference:  (P,UCRL-8678,1959) 
+#   Year:  1959 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C14/C1400.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1400
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.9800E+01        0.0000E+00        9.7900E-01        9.8000E-02
+        3.0800E+01        0.0000E+00        9.5100E-01        9.0000E-02
+        3.1020E+01        0.0000E+00        9.0100E-01        8.8000E-02
+        3.2420E+01        0.0000E+00        9.3800E-01        8.0000E-02

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 37-RB-87(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 37 
+#   A: 87 
+#   Nuclide: 37-RB-87 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4050e+01 MeV - 1.4700e+01 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 86 
+#   Nuclide: 37-RB-86 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20033-004-0 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-87(N,2N)37-RB-86,,SIG) 
+#   First author: R.Rieder 
+#   Institute:  (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
+#   Reference:  (J,APA,23,42,1966) 
+#   Year:  1966 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20033.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20033
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4050E+01        5.0000E-02        1.3940E+00        1.3940E-01
+        1.4700E+01        1.0000E-01        1.5600E+00        1.5600E-01

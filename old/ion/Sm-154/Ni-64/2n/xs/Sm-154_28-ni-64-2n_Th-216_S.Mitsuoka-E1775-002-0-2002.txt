@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 62-SM-154(28-NI-64,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 62 
+#   A: 154 
+#   Nuclide: 62-SM-154 
+# Reaction: 
+#   Process: 28-NI-64,2N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.7200e+02 MeV - 2.2400e+02 MeV 
+# Residual: 
+#   Z: 90 
+#   A: 216 
+#   Nuclide: 90-TH-216 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1775-002-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-154(28-NI-64,2N)90-TH-216,,SIG) 
+#   First author: S.Mitsuoka 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,PR/C,65,054608,200205) 
+#   Year:  2002 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E17/E1775.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1775
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        1.7200E+02        0.0000E+00        3.8000E-08        2.4000E-08
+        1.7500E+02        0.0000E+00        1.0000E-07        5.3000E-08
+        1.7900E+02        0.0000E+00        2.1000E-07        1.1000E-07
+        1.8300E+02        0.0000E+00        1.5000E-07        7.5000E-08
+        1.8700E+02        0.0000E+00        6.9000E-08        4.2000E-08
+        1.9000E+02        0.0000E+00        2.0000E-08        1.2000E-08
+        1.9400E+02        0.0000E+00        2.4000E-08        0.0000E+00
+        2.0000E+02        0.0000E+00        5.2000E-09        0.0000E+00
+        2.0500E+02        0.0000E+00        7.3000E-09        0.0000E+00
+        2.1000E+02        0.0000E+00        7.4000E-09        0.0000E+00
+        2.1500E+02        0.0000E+00        1.3000E-08        0.0000E+00
+        2.2400E+02        0.0000E+00        6.0000E-09        0.0000E+00

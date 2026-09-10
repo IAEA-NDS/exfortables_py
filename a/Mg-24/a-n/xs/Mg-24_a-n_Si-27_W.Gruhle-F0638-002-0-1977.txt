@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 12-MG-24(A,N)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-04-23 
+#   Date created: 2026-09-07 
 # Target: 
 #   Z: 12 
 #   A: 24 
 #   Nuclide: 12-MG-24 
 # Reaction: 
 #   Process: A,N 
-#   MF-MT number: 3 - 4 
+#   MF-MT number: 3 - 4.0 
 #   Incident energy:  1.7214e+01 MeV - 2.7023e+01 MeV 
 # Residual: 
 #   Z: 14 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F06/F0638.x4 
 #   nds:  https://nds.iaea.org/EXFOR/F0638
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
         1.7214E+01        1.0000E-02        1.3595E-03        1.3595E-04
         1.7225E+01        1.0000E-02        2.8732E-03        2.8732E-04
         1.7301E+01        1.0000E-02        3.6883E-03        3.6883E-04

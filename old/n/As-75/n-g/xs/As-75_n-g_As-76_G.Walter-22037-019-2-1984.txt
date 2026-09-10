@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 33-AS-75(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 33 
+#   A: 75 
+#   Nuclide: 33-AS-75 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 76 
+#   Nuclide: 33-AS-76 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22037-019-2 (entry-subentry-pointer) 
+#   Reaction code: (33-AS-75(N,G)33-AS-76,,SIG,,MXW,DERIV) 
+#   First author: G.Walter 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (R,KFK-3706,1984) 
+#   Year:  1984 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/220/22037.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22037
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.5000E-02        0.0000E+00               NAN        0.0000E+00
+        3.0000E-02        0.0000E+00        5.7600E-01        3.5000E-02

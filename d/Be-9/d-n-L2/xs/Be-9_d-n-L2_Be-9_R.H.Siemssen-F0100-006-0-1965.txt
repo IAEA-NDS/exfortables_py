@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 4-BE-9(D,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 4 
+#   A: 9 
+#   Nuclide: 4-BE-9 
+# Reaction: 
+#   Process: D,N 
+#   MF-MT number: 3 - 52.0 
+#   Incident energy:  1.1030e+00 MeV - 2.7870e+00 MeV 
+# Residual: 
+#   Z: 5 
+#   A: 10 
+#   Nuclide: 5-B-10 
+#   Level energy: 1.7400e+00 MeV 
+# EXFOR BIB:
+#   Entry id: F0100-006-0 (entry-subentry-pointer) 
+#   Reaction code: (4-BE-9(D,N)5-B-10,PAR,SIG) 
+#   First author: R.H.Siemssen 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (J,NP,69,209,1965) 
+#   Year:  1965 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F01/F0100.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0100
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.1030E+00        1.3000E-02        1.3400E-02        0.0000E+00
+        1.5440E+00        1.3000E-02        1.2800E-02        0.0000E+00
+        1.9710E+00        1.3000E-02        1.3000E-02        0.0000E+00
+        2.3680E+00        1.3000E-02        1.1700E-02        0.0000E+00
+        2.7870E+00        1.3000E-02        1.1900E-02        0.0000E+00

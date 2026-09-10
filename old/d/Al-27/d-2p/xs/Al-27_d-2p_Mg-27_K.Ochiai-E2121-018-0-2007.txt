@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 13-AL-27(D,2P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: D,2P 
+#   MF-MT number: 3 - 111 
+#   Incident energy:  9.8900e+00 MeV - 4.4570e+01 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 27 
+#   Nuclide: 12-MG-27 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2121-018-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(D,2P)12-MG-27,,SIG) 
+#   First author: K.Ochiai 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (C,2007NICE,2,1011,2007) 
+#   Year:  2007 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E21/E2121.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2121
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.8900E+00        0.0000E+00        1.8660E-02        4.1300E-03
+        2.0780E+01        0.0000E+00        2.3610E-02        3.8500E-03
+        2.1650E+01        0.0000E+00        2.5870E-02        5.2900E-03
+        2.2480E+01        0.0000E+00        2.8160E-02        5.5600E-03
+        2.4410E+01        0.0000E+00        2.9600E-02        4.9000E-03
+        2.6970E+01        0.0000E+00        2.4100E-02        3.9000E-03
+        2.9360E+01        0.0000E+00        2.3700E-02        3.7000E-03
+        3.1620E+01        0.0000E+00        2.1700E-02        3.3000E-03
+        3.3760E+01        0.0000E+00        1.9900E-02        3.0000E-03
+        3.7010E+01        0.0000E+00        1.7320E-02        2.8300E-03
+        3.9180E+01        0.0000E+00        1.5170E-02        2.3200E-03
+        4.1170E+01        0.0000E+00        1.5250E-02        2.4600E-03
+        4.4570E+01        0.0000E+00        1.5510E-02        2.3100E-03

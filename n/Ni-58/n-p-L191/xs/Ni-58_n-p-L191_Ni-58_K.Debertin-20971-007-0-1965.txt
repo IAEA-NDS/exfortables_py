@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 28-NI-58(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 649 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: 5.5000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 20971-007-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,P)27-CO-58,PAR,SIG) 
+#   First author: K.Debertin 
+#   Institute:  (2GERFRK): J.W.Goethe University , Frankfurt/Main 
+#   Reference:  (J,NP,70,89,1965) 
+#   Year:  1965 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20971.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20971
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.4100E+01        0.0000E+00        1.9000E-02        1.9000E-03

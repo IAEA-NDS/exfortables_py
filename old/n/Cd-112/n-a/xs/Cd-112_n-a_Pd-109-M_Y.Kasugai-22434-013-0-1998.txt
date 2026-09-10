@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 48-CD-112(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 48 
+#   A: 112 
+#   Nuclide: 48-CD-112 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3400e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 46 
+#   A: 109 
+#   Nuclide: 46-PD-109-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22434-013-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-112(N,A)46-PD-109-M,,SIG) 
+#   First author: Y.Kasugai 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  (J,ANE,25,(18),1485,1998) 
+#   Year:  1998 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22434.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22434
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3400E+01        5.0000E-02        3.8000E-04        9.5000E-05
+        1.3650E+01        5.0000E-02        3.7000E-04        1.0360E-04
+        1.3880E+01        5.0000E-02        5.2000E-04        1.0400E-04
+        1.4280E+01        5.0000E-02        5.2000E-04        1.1960E-04
+        1.4580E+01        5.0000E-02        5.9000E-04        1.5930E-04
+        1.4870E+01        5.0000E-02        6.1000E-04        1.8300E-04

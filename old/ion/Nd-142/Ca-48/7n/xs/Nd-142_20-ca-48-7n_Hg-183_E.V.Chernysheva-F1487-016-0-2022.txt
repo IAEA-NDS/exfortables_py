@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 60-ND-142(20-CA-48,7N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 60 
+#   A: 142 
+#   Nuclide: 60-ND-142 
+# Reaction: 
+#   Process: 20-CA-48,7N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.8240e+01 MeV - 9.9020e+01 MeV 
+# Residual: 
+#   Z: 80 
+#   A: 183 
+#   Nuclide: 80-HG-183 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1487-016-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-142(20-CA-48,7N)80-HG-183,,SIG) 
+#   First author: E.V.Chernysheva 
+#   Institute:  (3CZRCZR): Czech Republic 
+#   Reference:  (J,BAS,86,883,2022) 
+#   Year:  2022 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F14/F1487.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1487
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        7.8240E+01        0.0000E+00        2.3740E-03        8.5500E-04
+        8.1230E+01        0.0000E+00        3.9870E-03        1.4350E-03
+        8.4970E+01        0.0000E+00        7.5500E-03        2.7180E-03
+        8.7880E+01        0.0000E+00        9.8070E-03        3.5300E-03
+        9.0950E+01        0.0000E+00        1.0953E-02        3.9430E-03
+        9.4160E+01        0.0000E+00        1.2193E-02        4.3900E-03
+        9.6630E+01        0.0000E+00        1.1871E-02        4.2730E-03
+        9.9020E+01        0.0000E+00        9.2650E-03        3.3350E-03

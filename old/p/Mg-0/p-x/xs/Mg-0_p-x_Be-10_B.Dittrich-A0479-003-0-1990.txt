@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 12-MG-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 12 
+#   A: 0 
+#   Nuclide: 12-MG-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.6000e+01 MeV - 2.6000e+03 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 10 
+#   Nuclide: 4-BE-10 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0479-003-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-0(P,X)4-BE-10,,SIG) 
+#   First author: B.Dittrich 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  ((P,NEANDC(E)-312,(5),51,1990)=(P,INDC(GER)-035/LN,51,1990)) 
+#   Year:  1990 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0479.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0479
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.6000E+01        7.0000E-01        1.7900E-05        6.5000E-06
+        9.5000E+01        2.0000E-01        8.4700E-05        9.7000E-06
+        6.0000E+02        0.0000E+00        1.1100E-03        4.0000E-05
+        8.0000E+02        0.0000E+00        1.9600E-03        1.2000E-04
+        1.2000E+03        0.0000E+00        2.4500E-03        1.5000E-04
+        2.6000E+03        0.0000E+00        2.8900E-03        1.7000E-04

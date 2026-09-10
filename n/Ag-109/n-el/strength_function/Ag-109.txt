@@ -1,0 +1,41 @@
+# Header: 
+#   title: 47-AG-109(N,EL) strength function 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 47 
+#   A: 109 
+#   Nuclide: 47-AG-109 
+# Reaction: 
+#   Type: N,EL 
+#   Type: N,EL 
+#   Incident energy       : 1.0650e-04 MeV - 3.7000e-03 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Strength Function Simple Mean  |  Simple Stdev        : 8.25000E-05  |   6.36188E-05  (N = 14)
+#   Strength Function Weighted Mean +/- Weighted Error      :         NAN +/-          NAN  (N = 14)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [NO-DIM]     dData         sf8    sf9
+40114-007-0         G.V.Muradyan            1968   4.0000E-04   0.0000E+00   8.3000E-05   0.0000E+00                
+40114-007-0         G.V.Muradyan            1968   4.0000E-04   0.0000E+00   1.4000E-04   0.0000E+00                
+20021-006-0         N.J.Pattenden           1969   2.5000E-04   0.0000E+00   6.5000E-05   0.0000E+00                
+20021-006-0         N.J.Pattenden           1969   7.5000E-04   0.0000E+00   5.8000E-05   0.0000E+00                
+20021-006-0         N.J.Pattenden           1969   1.2500E-03   0.0000E+00   4.9000E-05   0.0000E+00                
+20021-006-0         N.J.Pattenden           1969   1.7500E-03   0.0000E+00   3.0000E-05   0.0000E+00                
+20021-006-0         N.J.Pattenden           1969   2.2500E-03   0.0000E+00   3.1000E-05   0.0000E+00                
+20021-007-0         N.J.Pattenden           1969   1.2500E-03   0.0000E+00   4.6000E-05   0.0000E+00                
+40622-009-0         V.A.Anufriev            1982   1.0650E-04   0.0000E+00   9.0000E-05   0.0000E+00                
+20685-008-0         S.De Barros             1969   3.8000E-04   0.0000E+00   7.5000E-05   0.0000E+00                
+13687-007-2         L.Y.Lowie               1999   7.0000E-04   0.0000E+00   8.4000E-05   0.0000E+00                
+13687-007-2         L.Y.Lowie               1999   7.0000E-04   0.0000E+00   2.8000E-04   0.0000E+00                
+21814-008-0         M.Mizumoto              1982   3.7000E-03   0.0000E+00   4.5000E-05   0.0000E+00                
+21083-004-0         N.J.Pattenden           1965   3.4610E-04   0.0000E+00   7.9000E-05   0.0000E+00                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [NO-DIM]     dData         sf8    sf9
+22437-006-0         L.Zanini                1997   7.0500E-04   0.0000E+00   9.3000E-05   0.0000E+00           DERIV
+22437-006-0         L.Zanini                1997   7.0500E-04   0.0000E+00   1.4800E-04   0.0000E+00           DERIV

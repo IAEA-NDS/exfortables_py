@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 37-RB-87(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 37 
+#   A: 87 
+#   Nuclide: 37-RB-87 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3400e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 84 
+#   Nuclide: 35-BR-84-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22281-014-0 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-87(N,A)35-BR-84-M,,SIG) 
+#   First author: K.Kawade 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((R,JAERI-M-92-020,1992)=(R,INDC(JPN)-154,1992)) 
+#   Year:  1992 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22281.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22281
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3400E+01        5.0000E-02        4.9000E-04        8.8200E-05
+        1.3650E+01        5.0000E-02        5.2000E-04        1.0920E-04
+        1.3880E+01        5.0000E-02        5.9000E-04        1.0030E-04
+        1.4280E+01        5.0000E-02        7.7000E-04        2.0020E-04
+        1.4580E+01        5.0000E-02        6.9000E-04        1.1730E-04
+        1.4870E+01        5.0000E-02        8.1000E-04        1.1340E-04

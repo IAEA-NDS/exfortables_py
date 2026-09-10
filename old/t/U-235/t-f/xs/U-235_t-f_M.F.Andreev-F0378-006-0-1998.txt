@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 92-U-235(T,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: T,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  9.8400e+00 MeV - 1.3340e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F0378-006-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(T,F),,SIG) 
+#   First author: M.F.Andreev 
+#   Institute:  (4RUSEPA): Experimental Physics Institute , Sarov 
+#   Reference:  (J,YK,,(1),53,1998) 
+#   Year:  1998 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F03/F0378.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0378
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.8400E+00        0.0000E+00        3.7700E-02        0.0000E+00
+        1.0340E+01        0.0000E+00        7.0400E-02        0.0000E+00
+        1.0830E+01        0.0000E+00        1.1930E-01        0.0000E+00
+        1.1280E+01        0.0000E+00        1.7150E-01        0.0000E+00
+        1.1580E+01        0.0000E+00        2.1900E-01        0.0000E+00
+        1.2420E+01        0.0000E+00        3.5550E-01        0.0000E+00
+        1.2810E+01        0.0000E+00        4.2350E-01        0.0000E+00
+        1.3340E+01        0.0000E+00        4.9010E-01        0.0000E+00

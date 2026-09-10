@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 71-LU-175(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 71 
+#   A: 175 
+#   Nuclide: 71-LU-175 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107.0 
+#   Incident energy:  1.3570e+01 MeV - 1.4860e+01 MeV 
+# Residual: 
+#   Z: 69 
+#   A: 172 
+#   Nuclide: 69-TM-172 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32934-003-0 (entry-subentry-pointer) 
+#   Reaction code: (71-LU-175(N,A)69-TM-172,,SIG) 
+#   First author: Yueli Song 
+#   Institute:  (3CPRPDU): Pingdingshan University , Pingdingshan 
+#   Reference:  (J,CPH/C,48,054104,2024) 
+#   Year:  2024 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/329/32934.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32934
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3570E+01        2.7000E-01        6.9000E-04        8.0000E-05
+        1.4030E+01        2.8000E-01        8.5000E-04        1.0000E-04
+        1.4620E+01        2.2000E-01        1.0700E-03        1.2000E-04
+        1.4860E+01        2.3000E-01        1.1600E-03        1.3000E-04

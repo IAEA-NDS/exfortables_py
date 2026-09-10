@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 28-NI-58(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.9864e+00 MeV - 3.2986e+00 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22759-008-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,P)27-CO-58,,SIG) 
+#   First author: T.Senga 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((S,JAERI-C-2000-005,208,2000)=(S,INDC(JPN)-185,208,2000)) 
+#   Year:  2000 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22759.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22759
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.9864E+00        4.5911E-03        4.2229E-02        0.0000E+00
+        2.2098E+00        4.5911E-03        6.9211E-02        0.0000E+00
+        2.4604E+00        4.5911E-03        9.8563E-02        0.0000E+00
+        2.7681E+00        4.5911E-03        1.7012E-01        0.0000E+00
+        3.0278E+00        4.5911E-03        2.3020E-01        0.0000E+00
+        3.2986E+00        4.5911E-03        2.5386E-01        0.0000E+00

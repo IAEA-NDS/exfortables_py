@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 3-LI-7(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 3 
+#   A: 7 
+#   Nuclide: 3-LI-7 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 50 
+#   Incident energy:  1.3539e+02 MeV - 1.6044e+02 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: C2012-006-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-7(P,N)4-BE-7,PAR,SIG) 
+#   First author: J.W.Watson 
+#   Institute:  (1USAKNT): Kent State University, Kent, OH 
+#   Reference:  (J,NIM,215,413,1983) 
+#   Year:  1983 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C20/C2012.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2012
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.3539E+02        0.0000E+00        3.8000E-04        3.0000E-05
+        1.6044E+02        0.0000E+00        3.4000E-04        3.0000E-05

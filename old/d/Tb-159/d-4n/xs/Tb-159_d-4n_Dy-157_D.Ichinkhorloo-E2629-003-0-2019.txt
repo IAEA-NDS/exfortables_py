@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 65-TB-159(D,4N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 65 
+#   A: 159 
+#   Nuclide: 65-TB-159 
+# Reaction: 
+#   Process: D,4N 
+#   MF-MT number: 3 - 37 
+#   Incident energy:  2.1000e+01 MeV - 2.3700e+01 MeV 
+# Residual: 
+#   Z: 66 
+#   A: 157 
+#   Nuclide: 66-DY-157 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2629-003-0 (entry-subentry-pointer) 
+#   Reaction code: (65-TB-159(D,4N)66-DY-157,,SIG) 
+#   First author: D.Ichinkhorloo 
+#   Institute:  (2JPNHOK): Hokkaido Univesity, Sapporo 
+#   Reference:  (J,NIM/B,461,102,2019) 
+#   Year:  2019 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E26/E2629.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2629
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.3700E+01        2.0000E-01        1.2250E-01        1.1300E-02
+        2.2800E+01        2.0000E-01        5.0000E-02        4.6000E-03
+        2.1900E+01        2.0000E-01        1.1800E-02        1.1000E-03
+        2.1000E+01        2.0000E-01        1.0000E-03        1.0000E-04

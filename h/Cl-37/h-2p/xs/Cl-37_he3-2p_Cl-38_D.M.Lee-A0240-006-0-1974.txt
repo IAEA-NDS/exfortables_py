@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 17-CL-37(HE3,2P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 17 
+#   A: 37 
+#   Nuclide: 17-CL-37 
+# Reaction: 
+#   Process: HE3,2P 
+#   MF-MT number: 3 - 111 
+#   Incident energy:  8.2500e+00 MeV - 2.0050e+01 MeV 
+# Residual: 
+#   Z: 17 
+#   A: 38 
+#   Nuclide: 17-CL-38 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0240-006-0 (entry-subentry-pointer) 
+#   Reaction code: (17-CL-37(HE3,2P)17-CL-38,,SIG) 
+#   First author: D.M.Lee 
+#   Institute:  (1USABRK): Lawrence Berkeley National Laboratory, Berkeley, CA 
+#   Reference:  (J,JRC,19,159,1974) 
+#   Year:  1974 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0240.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0240
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        8.2500E+00        0.0000E+00        1.0000E-04        1.5000E-05
+        8.9000E+00        0.0000E+00        2.8000E-03        4.2000E-04
+        1.0650E+01        0.0000E+00        1.3400E-02        2.0100E-03
+        1.1250E+01        0.0000E+00        2.1800E-02        3.2700E-03
+        1.3800E+01        0.0000E+00        4.8000E-02        7.2000E-03
+        1.4850E+01        0.0000E+00        5.3100E-02        7.9650E-03
+        1.5450E+01        0.0000E+00        6.0500E-02        9.0750E-03
+        1.5850E+01        0.0000E+00        6.2200E-02        9.3300E-03
+        1.7150E+01        0.0000E+00        7.0000E-02        1.0500E-02
+        1.7950E+01        0.0000E+00        7.5000E-02        1.1250E-02
+        2.0050E+01        0.0000E+00        7.7700E-02        1.1655E-02

@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 60-ND-144(8-O-16,5N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 60 
+#   A: 144 
+#   Nuclide: 60-ND-144 
+# Reaction: 
+#   Process: 8-O-16,5N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.6880e+01 MeV - 1.0500e+02 MeV 
+# Residual: 
+#   Z: 68 
+#   A: 155 
+#   Nuclide: 68-ER-155 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1581-005-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-144(8-O-16,5N)68-ER-155,,SIG) 
+#   First author: S.Tobbeche 
+#   Institute:  (2FR SAC): CEA/Saclay 
+#   Reference:  (J,ZP/A,325,85,1986) 
+#   Year:  1986 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O15/O1581.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1581
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.6880E+01        1.1532E-01        2.5000E-03        7.0000E-04
+        8.2400E+01        1.2360E-01        1.2000E-02        3.6000E-03
+        8.8330E+01        1.3250E-01        4.3000E-02        3.8700E-03
+        9.3960E+01        1.4094E-01        1.4500E-01        0.0000E+00
+        9.9580E+01        1.4937E-01        2.9100E-01        0.0000E+00
+        1.0500E+02        1.5750E-01        3.8500E-01        0.0000E+00

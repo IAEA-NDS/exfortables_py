@@ -1,0 +1,51 @@
+# Header: 
+#   Title: 92-U-235(N,INL)  Angular distribution 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 4 - 53.0 
+#   Incident energy:  1.8500e-01 MeV - 5.5000e-01 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+#   Level energy: 4.6000e-02 MeV 
+# EXFOR BIB:
+#   Entry id: 13506-007-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,INL)92-U-235,PAR,DA) 
+#   First author: G.C.Goswami 
+#   Institute:  (1USALTI): University of Massachusetts at Lowell, MA 
+#   Reference:  (T,GOSWAMI,1986) 
+#   Year:  1986 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/135/13506.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13506
+#
+# Angle_lab(degrees) dAngle_lab(degrees)        data(B/SR)       ddata(B/SR)
+        3.5000E+01        0.0000E+00        3.3490E-02        5.0000E-03
+        4.5000E+01        0.0000E+00        1.6940E-02        2.5000E-03
+        5.5000E+01        0.0000E+00        2.8410E-02        4.3000E-03
+        6.5000E+01        0.0000E+00        2.7460E-02        4.1000E-03
+        7.5000E+01        0.0000E+00        2.2480E-02        3.8000E-03
+        8.5000E+01        0.0000E+00        2.1550E-02        3.2000E-03
+        9.5000E+01        0.0000E+00        2.1150E-02        3.1000E-03
+        1.0500E+02        0.0000E+00        2.0700E-02        3.1000E-03
+        1.1500E+02        0.0000E+00        2.8090E-02        4.2000E-03
+        1.2500E+02        0.0000E+00        2.8260E-02        4.2000E-03
+        1.3500E+02        0.0000E+00        2.1930E-02        3.2000E-03
+        1.4500E+02        0.0000E+00        2.5110E-02        3.7000E-03
+        4.5000E+01        0.0000E+00        3.1400E-02        7.8000E-03
+        5.5000E+01        0.0000E+00        3.3600E-02        8.0000E-03
+        6.5000E+01        0.0000E+00        2.6700E-02        5.2000E-03
+        7.5000E+01        0.0000E+00        4.7500E-02        9.5000E-03
+        8.5000E+01        0.0000E+00        3.8800E-02        7.8000E-03
+        9.5000E+01        0.0000E+00        4.9600E-02        1.0000E-02
+        1.0500E+02        0.0000E+00        4.8800E-02        9.8000E-03
+        1.1500E+02        0.0000E+00        4.0600E-02        8.1000E-03
+        1.2500E+02        0.0000E+00        3.7900E-02        7.6000E-03
+        1.3500E+02        0.0000E+00        3.1000E-02        6.2000E-03

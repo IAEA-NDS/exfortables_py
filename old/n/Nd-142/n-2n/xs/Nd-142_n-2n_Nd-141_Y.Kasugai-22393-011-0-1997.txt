@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 60-ND-142(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 60 
+#   A: 142 
+#   Nuclide: 60-ND-142 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3380e+01 MeV - 1.4950e+01 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 141 
+#   Nuclide: 60-ND-141 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22393-011-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-142(N,2N)60-ND-141,,SIG) 
+#   First author: Y.Kasugai 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (C,97TRIEST,1,635,199705) 
+#   Year:  1997 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22393.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22393
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3380E+01        0.0000E+00        1.5000E+00        1.0000E-01
+        1.3700E+01        0.0000E+00        1.5800E+00        1.0000E-01
+        1.4030E+01        0.0000E+00        1.6900E+00        1.0000E-01
+        1.4360E+01        0.0000E+00        1.6900E+00        1.0000E-01
+        1.4660E+01        0.0000E+00        1.6800E+00        1.1000E-01
+        1.4950E+01        0.0000E+00        1.7400E+00        1.2000E-01

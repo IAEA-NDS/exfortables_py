@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 78-PT-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 78 
+#   A: 0 
+#   Nuclide: 78-PT-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.7100e+00 MeV - 2.3570e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 192 
+#   Nuclide: 79-AU-192 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2485-002-0 (entry-subentry-pointer) 
+#   Reaction code: (78-PT-0(D,X)79-AU-192,,SIG) 
+#   First author: M.U.Khandaker 
+#   Institute:  (3MALMAL): Malaysia 
+#   Reference:  (J,NIM/B,362,151,2015) 
+#   Year:  2015 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E24/E2485.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2485
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.3570E+01        4.3000E-01        8.3400E-03        1.0600E-03
+        2.2620E+01        4.4000E-01        6.1300E-03        6.4000E-04
+        2.1370E+01        4.6000E-01        5.5600E-03        8.4000E-04
+        2.0070E+01        4.7000E-01        6.5600E-03        9.0000E-04
+        1.9000E+01        4.8000E-01        7.1600E-03        8.7000E-04
+        1.8280E+01        4.9000E-01        7.7200E-03        1.2400E-03
+        1.7130E+01        5.1000E-01        8.6900E-03        1.0200E-03
+        1.6360E+01        5.2000E-01        8.6400E-03        1.0100E-03
+        1.5110E+01        5.4000E-01        7.3600E-03        7.4000E-04
+        1.3780E+01        5.7000E-01        5.9900E-03        5.9000E-04
+        1.3260E+01        5.8000E-01        5.4400E-03        5.4000E-04
+        1.2340E+01        6.0000E-01        4.1200E-03        4.1000E-04
+        1.0800E+01        6.4000E-01        2.0400E-03        2.1000E-04
+        1.0190E+01        6.6000E-01        1.3200E-03        1.3000E-04
+        8.4200E+00        7.3000E-01        1.5000E-04        2.0000E-05
+        7.7100E+00        7.7000E-01        1.9000E-05        3.0000E-06

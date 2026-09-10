@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 80-HG-200(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 80 
+#   A: 200 
+#   Nuclide: 80-HG-200 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 200 
+#   Nuclide: 79-AU-200 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 12219-011-0 (entry-subentry-pointer) 
+#   Reaction code: (80-HG-200(N,P)79-AU-200,,SIG) 
+#   First author: J.K.Temperley 
+#   Institute:  (1USANDL): U.S. Army Nuclear Defence Laboratory , Edgewood Arsenal, MD 
+#   Reference:  (J,PR,178,1904,1969) 
+#   Year:  1969 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12219.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12219
+#
+#       E_in(MeV)        dE_in(MeV)       data_max(B)      ddata_max(B)
+        1.4100E+01        5.0000E-01        1.2000E-02        0.0000E+00

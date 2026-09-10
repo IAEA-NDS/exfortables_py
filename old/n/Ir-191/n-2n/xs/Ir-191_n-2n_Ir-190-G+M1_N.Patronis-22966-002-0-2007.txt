@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 77-IR-191(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 77 
+#   A: 191 
+#   Nuclide: 77-IR-191 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.0000e+01 MeV - 1.1300e+01 MeV 
+# Residual: 
+#   Z: 77 
+#   A: 190 
+#   Nuclide: 77-IR-190-G+M1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22966-002-0 (entry-subentry-pointer) 
+#   Reaction code: (77-IR-191(N,2N)77-IR-190-G+M1,,SIG) 
+#   First author: N.Patronis 
+#   Institute:  (2GRCTUA): National Technical University of Athens, Athens 
+#   Reference:  (J,PR/C,75,034607,200703) 
+#   Year:  2007 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22966.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22966
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E+01        0.0000E+00        1.0900E+00        7.0000E-02
+        1.0500E+01        0.0000E+00        1.4000E+00        9.0000E-02
+        1.1000E+01        0.0000E+00        1.5500E+00        1.0000E-01
+        1.1300E+01        0.0000E+00        1.6400E+00        1.0000E-01

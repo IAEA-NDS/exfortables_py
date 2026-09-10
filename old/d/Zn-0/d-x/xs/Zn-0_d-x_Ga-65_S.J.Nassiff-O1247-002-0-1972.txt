@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 30-ZN-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 30 
+#   A: 0 
+#   Nuclide: 30-ZN-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.0000e+00 MeV - 1.3000e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 65 
+#   Nuclide: 31-GA-65 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1247-002-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-0(D,X)31-GA-65,,SIG) 
+#   First author: S.J.Nassiff 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,RRL,12,353,1972) 
+#   Year:  1972 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O12/O1247.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1247
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.0000E+00        5.0000E-04        3.0000E-02        0.0000E+00
+        6.9000E+00        5.0000E-04        4.6000E-02        0.0000E+00
+        9.2000E+00        5.0000E-04        3.9000E-02        0.0000E+00
+        1.3000E+01        5.0000E-04        2.2000E-02        0.0000E+00

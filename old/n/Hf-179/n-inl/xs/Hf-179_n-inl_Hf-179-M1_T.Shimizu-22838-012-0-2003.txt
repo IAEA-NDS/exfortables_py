@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 72-HF-179(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 72 
+#   A: 179 
+#   Nuclide: 72-HF-179 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.0900e+00 MeV - 3.0900e+00 MeV 
+# Residual: 
+#   Z: 72 
+#   A: 179 
+#   Nuclide: 72-HF-179-M1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22838-012-0 (entry-subentry-pointer) 
+#   Reaction code: (72-HF-179(N,INL)72-HF-179-M1,,SIG) 
+#   First author: T.Shimizu 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((S,JAERI-C-2003-006,138,2003)=(S,INDC(JPN)-191/U,138,2003)) 
+#   Year:  2003 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22838.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22838
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.0900E+00        5.0000E-02        5.3200E-01        3.1388E-02
+        2.2700E+00        5.0000E-02        6.1800E-01        3.8316E-02
+        2.4600E+00        5.0000E-02        6.6400E-01        4.1168E-02
+        2.6900E+00        5.0000E-02        6.0600E-01        3.6360E-02
+        2.9000E+00        5.0000E-02        6.1400E-01        3.5612E-02
+        3.0900E+00        5.0000E-02        5.6600E-01        2.9432E-02

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 23-V-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 23 
+#   A: 0 
+#   Nuclide: 23-V-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  8.0000e+02 MeV - 2.6000e+03 MeV 
+# Residual: 
+#   Z: 19 
+#   A: 43 
+#   Nuclide: 19-K-43 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0478-040-0 (entry-subentry-pointer) 
+#   Reaction code: (23-V-0(P,X)19-K-43,CUM,SIG) 
+#   First author: B.Dittrich 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  ((P,NEANDC(E)-312U,(5),46,1990)=(P,INDC(GER)-035/LN,46,1990)) 
+#   Year:  1990 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0478.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0478
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.0000E+02        0.0000E+00        4.8200E-03        4.0000E-04
+        1.2000E+03        0.0000E+00        4.0300E-03        2.9000E-04
+        2.6000E+03        0.0000E+00        3.6700E-03        2.7000E-04

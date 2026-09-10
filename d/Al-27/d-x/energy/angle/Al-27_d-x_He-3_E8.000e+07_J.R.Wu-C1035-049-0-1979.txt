@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 13-AL-27(D,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  8.0000e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Outgoing energy:  1.2530e+01 MeV - 3.8790e+01 MeV 
+# EXFOR BIB:
+#   Entry id: C1035-049-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(D,X)2-HE-3,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,370,1979) 
+#   Year:  1979 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C10/C1035.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C1035
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.2530E+01        0.0000E+00        1.5000E+02        0.0000E+00        1.8360E-11        0.0000E+00
+        1.6010E+01        0.0000E+00        1.5000E+02        0.0000E+00        1.2220E-11        0.0000E+00
+        1.8110E+01        0.0000E+00        1.5000E+02        0.0000E+00        7.3910E-12        0.0000E+00
+        2.1260E+01        0.0000E+00        1.5000E+02        0.0000E+00        4.0690E-12        0.0000E+00
+        2.3360E+01        0.0000E+00        1.5000E+02        0.0000E+00        2.5400E-12        0.0000E+00
+        2.6860E+01        0.0000E+00        1.5000E+02        0.0000E+00        1.3550E-12        0.0000E+00
+        2.9320E+01        0.0000E+00        1.5000E+02        0.0000E+00        7.4590E-13        0.0000E+00
+        3.1780E+01        0.0000E+00        1.5000E+02        0.0000E+00        3.9780E-13        0.0000E+00
+        3.4240E+01        0.0000E+00        1.5000E+02        0.0000E+00        2.1890E-13        0.0000E+00
+        3.8790E+01        0.0000E+00        1.5000E+02        0.0000E+00        8.2640E-14        0.0000E+00

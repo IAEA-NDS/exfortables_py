@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 53-I-127(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 53 
+#   A: 127 
+#   Nuclide: 53-I-127 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4600e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 125 
+#   Nuclide: 52-TE-125-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21994-005-0 (entry-subentry-pointer) 
+#   Reaction code: (53-I-127(N,X)52-TE-125-M,,SIG) 
+#   First author: S.M.Qaim 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,NP/A,438,(2),384,198505) 
+#   Year:  1985 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21994.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21994
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4600E+01        4.0000E-01        3.5000E-05        1.0000E-05

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 40-ZR-96(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 40 
+#   A: 96 
+#   Nuclide: 40-ZR-96 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 53.0 
+#   Incident energy:  3.0000e+00 MeV - 4.0000e+00 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 96 
+#   Nuclide: 40-ZR-96 
+#   Level energy: 1.8970e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 14075-004-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-96(N,INL)40-ZR-96,PAR,SIG) 
+#   First author: G.Molnar 
+#   Institute:  (1USAKTY): University of Kentucky, Lexington, KY 
+#   Reference:  (J,NP/A,500,43,1989) 
+#   Year:  1989 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/140/14075.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14075
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        3.0000E+00        0.0000E+00        1.5600E-01        1.2000E-02
+        3.5000E+00        0.0000E+00        6.9000E-02        1.3000E-02
+        4.0000E+00        0.0000E+00        6.4000E-02        1.4000E-02

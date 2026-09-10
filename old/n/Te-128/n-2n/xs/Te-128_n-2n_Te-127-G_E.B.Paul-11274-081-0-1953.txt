@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 52-TE-128(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 52 
+#   A: 128 
+#   Nuclide: 52-TE-128 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4500e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 127 
+#   Nuclide: 52-TE-127-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11274-081-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-128(N,2N)52-TE-127-G,,SIG) 
+#   First author: E.B.Paul 
+#   Institute:  (1CANCRC): A.E.C.L., Chalk River, Ontario 
+#   Reference:  (J,CJP,31,267,1953) 
+#   Year:  1953 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11274.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11274
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4500E+01        0.0000E+00        7.7900E-01        2.3370E-01

@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 45-RH-103(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 45 
+#   A: 103 
+#   Nuclide: 45-RH-103 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  4.0000e-03 MeV - 1.7500e-01 MeV 
+# Residual: 
+#   Z: 45 
+#   A: 104 
+#   Nuclide: 45-RH-104 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22195-003-0 (entry-subentry-pointer) 
+#   Reaction code: (45-RH-103(N,G)45-RH-104,,SIG,,AV) 
+#   First author: K.Wisshak 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,PR/C,42,1731,199010) 
+#   Year:  1990 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22195.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22195
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.0000E-03        0.0000E+00        2.2172E+00        2.6385E-01
+        7.5000E-03        0.0000E+00        1.5898E+00        7.3131E-02
+        1.2500E-02        0.0000E+00        1.2947E+00        2.5894E-02
+        1.7500E-02        0.0000E+00        1.0781E+00        1.7250E-02
+        2.5000E-02        0.0000E+00        9.3630E-01        1.0299E-02
+        3.5000E-02        0.0000E+00        7.6410E-01        8.4051E-03
+        5.0000E-02        0.0000E+00        6.4260E-01        6.4260E-03
+        7.0000E-02        0.0000E+00        5.2960E-01        5.2960E-03
+        9.0000E-02        0.0000E+00        4.3410E-01        4.3410E-03
+        1.1000E-01        0.0000E+00        3.9750E-01        4.3725E-03
+        1.3500E-01        0.0000E+00        3.5660E-01        4.6358E-03
+        1.7500E-01        0.0000E+00        3.0190E-01        3.9247E-03

@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 71-LU-175(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 71 
+#   A: 175 
+#   Nuclide: 71-LU-175 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4100e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 71 
+#   A: 174 
+#   Nuclide: 71-LU-174-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21709-008-0 (entry-subentry-pointer) 
+#   Reaction code: (71-LU-175(N,2N)71-LU-174-M,,SIG) 
+#   First author: J.Laurec 
+#   Institute:  (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
+#   Reference:  (R,CEA-R-5109,198106) 
+#   Year:  1981 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21709.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21709
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4100E+01        1.0000E-01        5.1500E-01        3.6000E-02
+        1.4800E+01        3.0000E-01        5.4000E-01        3.6000E-02

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 79-AU-197(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3640e+01 MeV - 1.4820e+01 MeV 
+# Residual: 
+#   Z: 77 
+#   A: 194 
+#   Nuclide: 77-IR-194 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41614-227-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,A)77-IR-194,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,INDC(CCP)-0460,2016) 
+#   Year:  2016 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41614
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3640E+01        0.0000E+00        2.2000E-04        5.8960E-05
+        1.4280E+01        0.0000E+00        3.7000E-04        9.9160E-05
+        1.4820E+01        0.0000E+00        5.6000E-04        1.5008E-04

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 20-CA-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 20 
+#   A: 0 
+#   Nuclide: 20-CA-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.2000e+03 MeV - 2.6000e+03 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 28 
+#   Nuclide: 12-MG-28 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0277-043-0 (entry-subentry-pointer) 
+#   Reaction code: (20-CA-0(P,X)12-MG-28,CUM,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,NIM/B,103,183,1995) 
+#   Year:  1995 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O02/O0277.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0277
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2000E+03        0.0000E+00        1.4200E-04        1.4000E-05
+        1.6000E+03        0.0000E+00        1.7000E-04        1.8000E-05
+        2.6000E+03        0.0000E+00        1.4300E-04        1.5000E-05

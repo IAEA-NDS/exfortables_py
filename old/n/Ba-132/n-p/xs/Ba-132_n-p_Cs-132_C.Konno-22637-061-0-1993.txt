@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 56-BA-132(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 56 
+#   A: 132 
+#   Nuclide: 56-BA-132 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3340e+01 MeV - 1.4950e+01 MeV 
+# Residual: 
+#   Z: 55 
+#   A: 132 
+#   Nuclide: 55-CS-132 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22637-061-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-132(N,P)55-CS-132,,SIG) 
+#   First author: C.Konno 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (R,JAERI-1329,1993) 
+#   Year:  1993 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22637.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22637
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3340E+01        0.0000E+00        1.2700E-02        2.9000E-03
+        1.3990E+01        0.0000E+00        1.4900E-02        3.5000E-03
+        1.4680E+01        0.0000E+00        1.7800E-02        4.1000E-03
+        1.4950E+01        0.0000E+00        2.0100E-02        4.6000E-03

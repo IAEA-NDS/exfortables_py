@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 41-NB-93(HE3,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: HE3,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.2800e+01 MeV - 9.3000e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 86 
+#   Nuclide: 39-Y-86 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0583-030-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(HE3,X)39-Y-86,,SIG) 
+#   First author: S.N.Kondratyev 
+#   Institute:  (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+#   Reference:  (J,PAN,59,2041,1996) 
+#   Year:  1996 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0583.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0583
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        9.3000E+01        5.0000E-01        5.3700E-02        4.5000E-03
+        8.8400E+01        5.0000E-01        3.7300E-02        3.1000E-03
+        8.3500E+01        5.0000E-01        2.3500E-02        2.0000E-03
+        7.8400E+01        6.0000E-01        1.3300E-02        1.1000E-03
+        7.3900E+01        6.0000E-01        7.9000E-03        7.0000E-04
+        6.9100E+01        7.0000E-01        8.3000E-03        7.0000E-04
+        6.3900E+01        7.0000E-01        1.0300E-02        7.0000E-04
+        5.8500E+01        7.0000E-01        1.3200E-02        8.0000E-04
+        5.2800E+01        7.0000E-01        9.3000E-03        5.0000E-04
+        4.8000E+01        7.0000E-01        5.3000E-03        3.0000E-04
+        4.2800E+01        8.0000E-01        1.5200E-03        2.4000E-04

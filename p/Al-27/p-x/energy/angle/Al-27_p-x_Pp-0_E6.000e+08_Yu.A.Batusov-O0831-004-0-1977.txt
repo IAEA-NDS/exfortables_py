@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 13-AL-27(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  6.0000e+02 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 0 
+#   Nuclide: 1-PP-0 
+#   Outgoing energy:  1.1180e+01 MeV - 9.7480e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O0831-004-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(P,X)1-PP-0,,DA/DE) 
+#   First author: Yu.A.Batusov 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,YF,26,966,1977) 
+#   Year:  1977 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O08/O0831.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0831
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.1180E+01        3.0000E-01        1.0500E+02        0.0000E+00        1.3800E-08        5.0000E-10
+        1.7230E+01        3.0000E-01        1.0500E+02        0.0000E+00        1.8400E-08        6.0000E-10
+        2.1040E+01        3.0000E-01        1.0500E+02        0.0000E+00        2.1900E-08        5.0000E-10
+        2.5740E+01        3.0000E-01        1.0500E+02        0.0000E+00        2.4900E-08        1.2000E-09
+        2.9550E+01        3.0000E-01        1.0500E+02        0.0000E+00        2.8200E-08        1.5000E-09
+        3.2470E+01        3.0000E-01        1.0500E+02        0.0000E+00        3.0700E-08        1.2000E-09
+        3.5820E+01        3.0000E-01        1.0500E+02        0.0000E+00        3.1300E-08        1.7000E-09
+        4.0260E+01        3.0000E-01        1.0500E+02        0.0000E+00        2.9400E-08        1.8000E-09
+        4.3840E+01        3.0000E-01        1.0500E+02        0.0000E+00        3.0500E-08        1.5000E-09
+        4.8290E+01        3.0000E-01        1.0500E+02        0.0000E+00        3.0400E-08        1.5000E-09
+        5.2980E+01        3.0000E-01        1.0500E+02        0.0000E+00        3.0800E-08        1.3000E-09
+        5.7440E+01        3.0000E-01        1.0500E+02        0.0000E+00        3.1600E-08        1.7000E-09
+        6.3440E+01        3.0000E-01        1.0500E+02        0.0000E+00        2.8100E-08        1.6000E-09
+        6.9220E+01        3.0000E-01        1.0500E+02        0.0000E+00        2.6000E-08        1.6000E-09
+        7.5450E+01        3.0000E-01        1.0500E+02        0.0000E+00        2.4500E-08        1.3000E-09
+        8.2130E+01        3.0000E-01        1.0500E+02        0.0000E+00        2.3300E-08        2.0000E-09
+        8.8800E+01        3.0000E-01        1.0500E+02        0.0000E+00        1.9400E-08        1.7000E-09
+        9.7480E+01        3.0000E-01        1.0500E+02        0.0000E+00        1.7000E-08        1.8000E-09

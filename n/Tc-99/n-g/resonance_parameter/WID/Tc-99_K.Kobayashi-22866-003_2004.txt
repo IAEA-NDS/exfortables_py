@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 43-TC-99 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2026-09-07 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 22866-003-4 
+#   First Author          : K.Kobayashi 
+#   Institute             : (2JPNKTO): Kyoto University , Kyoto 
+#   Reference             : (J,NSE,146,(2),209,2004) 
+#   Year                  : 2004 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 43 
+#   A                     : 99 
+#   Isomer                :  
+#   Nuclide               : 43-TC-99 
+# Reaction: 
+#   EXFOR Reaction        : (43-TC-99(N,G),,WID) 
+#   Incident Energy       : -1.7000e+01 eV - 2.0270e+01 eV 
+#   Resonance Energy Type : EN 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22866.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/22866
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+  -1.7000E+01          NAN        5.0        NAN          NAN          NAN   1.5000E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   6.6500E+00          NAN        5.0        NAN          NAN          NAN   1.5650E-01   4.4000E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   2.0270E+01          NAN        4.0        NAN          NAN          NAN   1.8760E-01   1.5700E-02          NAN          NAN          NAN          NAN          NAN          NAN

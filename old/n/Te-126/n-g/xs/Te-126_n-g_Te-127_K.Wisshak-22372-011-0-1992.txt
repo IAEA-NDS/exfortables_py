@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 52-TE-126(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 52 
+#   A: 126 
+#   Nuclide: 52-TE-126 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  6.2500e-03 MeV - 1.8750e-01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 127 
+#   Nuclide: 52-TE-127 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22372-011-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-126(N,G)52-TE-127,,SIG,,AV) 
+#   First author: K.Wisshak 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  (J,PR/C,45,(5),2470,199205) 
+#   Year:  1992 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22372.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22372
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.2500E-03        0.0000E+00        2.0900E-01        3.5739E-02
+        8.7500E-03        0.0000E+00        1.4810E-01        1.9549E-02
+        1.1250E-02        0.0000E+00        1.7100E-01        9.2340E-03
+        1.3750E-02        0.0000E+00        1.3440E-01        6.8544E-03
+        1.7500E-02        0.0000E+00        1.6060E-01        4.1756E-03
+        2.2500E-02        0.0000E+00        9.1300E-02        2.5564E-03
+        2.7500E-02        0.0000E+00        8.2700E-02        1.9848E-03
+        3.5000E-02        0.0000E+00        6.7900E-02        1.4259E-03
+        4.5000E-02        0.0000E+00        6.1200E-02        1.2852E-03
+        5.5000E-02        0.0000E+00        5.8500E-02        1.2285E-03
+        7.0000E-02        0.0000E+00        4.6200E-02        9.2400E-04
+        9.0000E-02        0.0000E+00        4.0600E-02        8.9320E-04
+        1.1000E-01        0.0000E+00        4.0200E-02        1.0452E-03
+        1.3500E-01        0.0000E+00        3.8200E-02        9.5500E-04
+        1.6250E-01        0.0000E+00        3.7100E-02        9.6460E-04
+        1.8750E-01        0.0000E+00        3.6800E-02        1.0304E-03

@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 53-I-127(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 53 
+#   A: 127 
+#   Nuclide: 53-I-127 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  4.4100e+00 MeV - 9.4500e+00 MeV 
+# Residual: 
+#   Z: 54 
+#   A: 127 
+#   Nuclide: 54-XE-127-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2528-004-0 (entry-subentry-pointer) 
+#   Reaction code: (53-I-127(P,N)54-XE-127-M,,SIG,,,DERIV) 
+#   First author: A.Espinosa Rodriguez 
+#   Institute:  (2SPNAUT): Universidad Autonoma de Madrid, Madrid 
+#   Reference:  (J,RPC,185,109485,2021) 
+#   Year:  2021 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O25/O2528.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2528
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.4100E+00        4.0000E-02        2.8000E-04        8.0000E-05
+        4.9200E+00        4.0000E-02        1.1000E-03        2.0000E-04
+        5.4200E+00        4.0000E-02        4.6000E-03        7.0000E-04
+        5.8100E+00        3.0000E-02        8.0000E-03        2.0000E-03
+        6.1700E+00        3.0000E-02        1.4000E-02        2.0000E-03
+        6.4400E+00        3.0000E-02        2.7000E-02        4.0000E-03
+        6.6500E+00        3.0000E-02        2.9000E-02        4.0000E-03
+        7.3200E+00        3.0000E-02        5.2000E-02        7.0000E-03
+        7.4400E+00        3.0000E-02        7.7000E-02        1.3000E-02
+        7.9500E+00        3.0000E-02        1.2000E-01        2.0000E-02
+        8.4500E+00        3.0000E-02        1.1000E-01        3.0000E-02
+        8.4500E+00        3.0000E-02        1.5000E-01        3.0000E-02
+        8.9600E+00        3.0000E-02        1.5000E-01        4.0000E-02
+        9.3700E+00        2.0000E-02        1.4000E-01        4.0000E-02
+        9.4500E+00        2.0000E-02        2.0000E-01        5.0000E-02

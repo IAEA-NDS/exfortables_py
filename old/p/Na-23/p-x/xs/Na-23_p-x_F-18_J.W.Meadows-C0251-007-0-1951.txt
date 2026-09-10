@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 11-NA-23(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 11 
+#   A: 23 
+#   Nuclide: 11-NA-23 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.0000e+01 MeV - 1.0700e+02 MeV 
+# Residual: 
+#   Z: 9 
+#   A: 18 
+#   Nuclide: 9-F-18 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0251-007-0 (entry-subentry-pointer) 
+#   Reaction code: (11-NA-23(P,X)9-F-18,,SIG) 
+#   First author: J.W.Meadows 
+#   Institute:  (1USAHRV): Harvard University, Cambridge, MA 
+#   Reference:  (J,PR,83,47,1951) 
+#   Year:  1951 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0251.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0251
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E+01        0.0000E+00        0.0000E+00        0.0000E+00
+        1.5000E+01        0.0000E+00        5.0000E-04        1.0000E-04
+        2.2000E+01        0.0000E+00        1.0000E-03        2.0000E-04
+        2.7000E+01        0.0000E+00        4.0000E-03        8.0000E-04
+        3.2000E+01        0.0000E+00        1.6000E-02        3.2000E-03
+        3.6500E+01        0.0000E+00        2.6000E-02        5.2000E-03
+        3.8500E+01        0.0000E+00        3.5500E-02        7.1000E-03
+        5.0500E+01        0.0000E+00        2.6000E-02        5.2000E-03
+        5.2500E+01        0.0000E+00        3.0000E-02        6.0000E-03
+        6.4000E+01        0.0000E+00        2.2500E-02        4.5000E-03
+        6.4500E+01        0.0000E+00        2.4500E-02        4.9000E-03
+        7.4000E+01        0.0000E+00        2.2500E-02        4.5000E-03
+        8.3500E+01        0.0000E+00        2.1000E-02        4.2000E-03
+        9.1500E+01        0.0000E+00        2.0000E-02        4.0000E-03
+        1.0000E+02        0.0000E+00        1.9000E-02        3.8000E-03
+        1.0700E+02        0.0000E+00        1.8500E-02        3.7000E-03

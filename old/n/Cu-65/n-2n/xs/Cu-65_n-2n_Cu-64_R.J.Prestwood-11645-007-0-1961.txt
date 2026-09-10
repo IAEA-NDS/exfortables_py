@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 29-CU-65(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2060e+01 MeV - 1.9760e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 64 
+#   Nuclide: 29-CU-64 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11645-007-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(N,2N)29-CU-64,,SIG) 
+#   First author: R.J.Prestwood 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,121,1438,1961) 
+#   Year:  1961 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11645.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11645
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2060E+01        1.1000E-01        5.0400E-01        2.5000E-02
+        1.3330E+01        2.3000E-01        7.7800E-01        3.1000E-02
+        1.3400E+01        2.0000E-01        7.7100E-01        3.1000E-02
+        1.3520E+01        1.5000E-01        8.1400E-01        3.3000E-02
+        1.3690E+01        1.0000E-01        8.3000E-01        3.3000E-02
+        1.3880E+01        1.0000E-01        8.7900E-01        3.5000E-02
+        1.4010E+01        1.0000E-01        8.7900E-01        3.5000E-02
+        1.4090E+01        1.0000E-01        9.0600E-01        3.6000E-02
+        1.4310E+01        1.3000E-01        8.9200E-01        3.6000E-02
+        1.4500E+01        2.0000E-01        9.3700E-01        3.7000E-02
+        1.4680E+01        2.6000E-01        9.5300E-01        3.8000E-02
+        1.4810E+01        3.1000E-01        9.6800E-01        3.9000E-02
+        1.4930E+01        3.6000E-01        9.7500E-01        3.9000E-02
+        1.6500E+01        3.0000E-01        9.9700E-01        5.0000E-02
+        1.7950E+01        3.2000E-01        9.3000E-01        4.7000E-02
+        1.9760E+01        4.3000E-01        9.8600E-01        4.9000E-02

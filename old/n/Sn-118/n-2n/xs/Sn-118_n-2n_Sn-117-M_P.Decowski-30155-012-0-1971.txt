@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 50-SN-118(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 50 
+#   A: 118 
+#   Nuclide: 50-SN-118 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3020e+01 MeV - 1.5880e+01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 117 
+#   Nuclide: 50-SN-117-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30155-012-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-118(N,2N)50-SN-117-M,,SIG) 
+#   First author: P.Decowski 
+#   Institute:  (3POLIPJ): Narodowe Centrum Badan Jadrowych, Swierk+Warszawa 
+#   Reference:  (P,INR-1318,8,1971) 
+#   Year:  1971 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30155.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30155
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3020E+01        1.4000E-01        6.2400E-01        8.0000E-02
+        1.3360E+01        1.4000E-01        7.6100E-01        4.1000E-02
+        1.3900E+01        9.0000E-02        8.0800E-01        2.8000E-02
+        1.4470E+01        1.1000E-01        7.4500E-01        5.9000E-02
+        1.5060E+01        1.7000E-01        8.0500E-01        2.1000E-02
+        1.5360E+01        2.0000E-01        8.9000E-01        3.4000E-02
+        1.5880E+01        1.9000E-01        1.0550E+00        1.6400E-01

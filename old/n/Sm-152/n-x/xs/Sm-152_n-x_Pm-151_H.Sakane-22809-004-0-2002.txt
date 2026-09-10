@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 62-SM-152(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 62 
+#   A: 152 
+#   Nuclide: 62-SM-152 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4020e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 61 
+#   A: 151 
+#   Nuclide: 61-PM-151 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22809-004-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-152(N,X)61-PM-151,,SIG) 
+#   First author: H.Sakane 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,ANE,29,(10),1209,2002) 
+#   Year:  2002 
+#   Facility:  (FNS): Fusion neutron source 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22809.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22809
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4870E+01        5.0000E-02        7.7000E-04        5.8520E-05
+        1.4640E+01        5.0000E-02        5.0000E-04        4.4500E-05
+        1.4350E+01        5.0000E-02        3.8000E-04        3.8000E-05
+        1.4020E+01        5.0000E-02        2.1000E-04        2.3100E-05

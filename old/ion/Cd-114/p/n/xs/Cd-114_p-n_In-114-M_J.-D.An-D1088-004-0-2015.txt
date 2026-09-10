@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 48-CD-114(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 48 
+#   A: 114 
+#   Nuclide: 48-CD-114 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  3.1000e+00 MeV - 1.7500e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 114 
+#   Nuclide: 49-IN-114-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D1088-004-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-114(P,N)49-IN-114-M,,SIG) 
+#   First author: J.-D.An 
+#   Institute:  (3KDRKDR): Democratic People's Rep. of Korea 
+#   Reference:  (J,RED,170,901,2015) 
+#   Year:  2015 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D10/D1088.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D1088
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.1000E+00        0.0000E+00        2.5000E-03        4.0000E-04
+        4.8000E+00        0.0000E+00        5.8000E-03        9.0000E-04
+        6.5000E+00        0.0000E+00        3.6300E-02        1.2000E-03
+        7.8000E+00        0.0000E+00        1.4740E-01        1.7000E-03
+        8.9000E+00        0.0000E+00        2.8250E-01        3.9000E-03
+        9.8000E+00        0.0000E+00        3.6520E-01        8.7000E-03
+        1.0500E+01        0.0000E+00        4.3170E-01        1.1100E-02
+        1.1500E+01        0.0000E+00        3.9570E-01        2.1500E-02
+        1.2200E+01        0.0000E+00        4.0390E-01        2.5200E-02
+        1.2900E+01        0.0000E+00        3.0590E-01        3.3400E-02
+        1.3600E+01        0.0000E+00        2.4790E-01        3.7500E-02
+        1.4300E+01        0.0000E+00        2.1990E-01        2.1300E-02
+        1.5100E+01        0.0000E+00        2.0040E-01        2.8700E-02
+        1.5900E+01        0.0000E+00        1.4990E-01        2.2500E-02
+        1.6700E+01        0.0000E+00        2.1320E-01        2.1100E-02
+        1.7500E+01        0.0000E+00        1.7740E-01        1.9200E-02

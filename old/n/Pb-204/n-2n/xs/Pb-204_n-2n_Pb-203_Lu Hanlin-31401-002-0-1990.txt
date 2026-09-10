@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 82-PB-204(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 82 
+#   A: 204 
+#   Nuclide: 82-PB-204 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4490e+01 MeV - 1.4580e+01 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 203 
+#   Nuclide: 82-PB-203 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31401-002-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-204(N,2N)82-PB-203,,SIG) 
+#   First author: Lu Hanlin 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CNP,12,269,1990) 
+#   Year:  1990 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31401.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31401
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4490E+01        4.0000E-01        2.0540E+00        4.5000E-02
+        1.4580E+01        1.6000E-01        2.0180E+00        4.3000E-02

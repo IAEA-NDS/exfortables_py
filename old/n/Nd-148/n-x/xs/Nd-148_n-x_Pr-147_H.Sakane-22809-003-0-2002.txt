@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 60-ND-148(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 60 
+#   A: 148 
+#   Nuclide: 60-ND-148 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4020e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 59 
+#   A: 147 
+#   Nuclide: 59-PR-147 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22809-003-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-148(N,X)59-PR-147,,SIG) 
+#   First author: H.Sakane 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,ANE,29,(10),1209,2002) 
+#   Year:  2002 
+#   Facility:  (FNS): Fusion neutron source 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22809.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22809
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4020E+01        5.0000E-02        1.9000E-04        4.3700E-05
+        1.4350E+01        5.0000E-02        2.7000E-04        3.7800E-05
+        1.4640E+01        5.0000E-02        4.3000E-04        5.1600E-05
+        1.4870E+01        5.0000E-02        5.5000E-04        6.6000E-05

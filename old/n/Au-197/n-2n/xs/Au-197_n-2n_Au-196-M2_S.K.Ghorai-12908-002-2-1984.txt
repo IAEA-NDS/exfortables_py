@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 79-AU-197(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4200e+01 MeV - 1.8200e+01 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 196 
+#   Nuclide: 79-AU-196-M2 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 12908-002-2 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,2N)79-AU-196-M2,,SIG) 
+#   First author: S.K.Ghorai 
+#   Institute:  (1USAAUB): Auburn University, Auburn, AL 
+#   Reference:  (J,BAP,29,(P2.100),1117,8409) 
+#   Year:  1984 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12908.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12908
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4200E+01        0.0000E+00        1.5200E-01        1.1000E-02
+        1.5200E+01        0.0000E+00        1.6100E-01        1.1000E-02
+        1.6200E+01        0.0000E+00        1.8500E-01        1.3000E-02
+        1.7200E+01        0.0000E+00        2.0200E-01        1.4000E-02
+        1.8200E+01        0.0000E+00        1.8500E-01        1.3000E-02

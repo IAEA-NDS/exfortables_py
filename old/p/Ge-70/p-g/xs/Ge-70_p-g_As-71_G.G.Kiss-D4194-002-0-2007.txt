@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 32-GE-70(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 32 
+#   A: 70 
+#   Nuclide: 32-GE-70 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.5650e+00 MeV - 4.3360e+00 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 71 
+#   Nuclide: 33-AS-71 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4194-002-0 (entry-subentry-pointer) 
+#   Reaction code: (32-GE-70(P,G)33-AS-71,,SIG) 
+#   First author: G.G.Kiss 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,PR/C,76,055807,2007) 
+#   Year:  2007 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4194.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4194
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        1.5650E+00        1.3000E-02        3.5000E-05        4.0000E-06
+        1.9630E+00        1.3000E-02        2.2000E-04        3.0000E-05
+        2.3630E+00        4.0000E-03        7.1000E-04        8.0000E-05
+        2.7570E+00        9.0000E-03        1.4000E-03        2.0000E-04
+        3.1520E+00        1.0000E-02        2.4000E-03        3.0000E-04
+        3.5450E+00        1.2000E-02        3.2000E-03        4.0000E-04
+        3.9420E+00        1.2000E-02        4.9000E-03        6.0000E-04
+        4.3360E+00        1.3000E-02        6.8000E-03        8.0000E-04

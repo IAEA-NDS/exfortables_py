@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 49-IN-115(6-C-12,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 49 
+#   A: 115 
+#   Nuclide: 49-IN-115 
+# Reaction: 
+#   Process: 6-C-12,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.4324e+01 MeV - 8.4267e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 118 
+#   Nuclide: 51-SB-118 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6010-010-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-115(6-C-12,X)51-SB-118,,SIG) 
+#   First author: S.Mukherjee 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,IMP/E,15,237,2006) 
+#   Year:  2006 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6010.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6010
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.4324E+01        5.0000E-02        2.7804E-03        3.6397E-04
+        5.8598E+01        5.0000E-02        6.6111E-03        9.5721E-04
+        6.4321E+01        5.0000E-02        1.7416E-02        2.8529E-03
+        6.9000E+01        5.0000E-02        2.6792E-02        4.3873E-03
+        7.4250E+01        5.0000E-02        2.7893E-02        4.3055E-03
+        7.9064E+01        5.0000E-02        2.0524E-02        2.5749E-03
+        8.4267E+01        5.0000E-02        1.6709E-02        2.7361E-03

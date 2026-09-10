@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 56-BA-130(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 56 
+#   A: 130 
+#   Nuclide: 56-BA-130 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.2051e+01 MeV - 1.5998e+01 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 133 
+#   Nuclide: 58-CE-133-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4271-004-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-130(A,N)58-CE-133-M,,SIG) 
+#   First author: Z.Halasz 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,PR/C,85,025804,2012) 
+#   Year:  2012 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4271.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4271
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2051E+01        8.3000E-02        2.4900E-04        3.6000E-05
+        1.2596E+01        4.1000E-02        6.1100E-04        6.8000E-05
+        1.3080E+01        4.2000E-02        1.6200E-03        1.8100E-04
+        1.3559E+01        4.6000E-02        5.5190E-03        6.1300E-04
+        1.4024E+01        6.0000E-02        1.0905E-02        1.2120E-03
+        1.4509E+01        6.1000E-02        2.2563E-02        2.5060E-03
+        1.4995E+01        6.1000E-02        3.6151E-02        4.0160E-03
+        1.5509E+01        4.8000E-02        4.3548E-02        4.8370E-03
+        1.5998E+01        4.9000E-02        4.4203E-02        4.9110E-03

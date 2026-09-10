@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 7-N-15(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 7 
+#   A: 15 
+#   Nuclide: 7-N-15 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  5.5200e+00 MeV - 5.7500e+00 MeV 
+# Residual: 
+#   Z: 8 
+#   A: 15 
+#   Nuclide: 8-O-15 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0111-002-0 (entry-subentry-pointer) 
+#   Reaction code: (7-N-15(P,N)8-O-15,,SIG) 
+#   First author: A.R.Barnett 
+#   Institute:  (2UK OXF): University of Oxford, Oxford 
+#   Reference:  (J,NP/A,120,342,1968) 
+#   Year:  1968 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D01/D0111.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0111
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.5200E+00        0.0000E+00        2.4000E-01        2.4000E-02
+        5.6800E+00        0.0000E+00        1.5400E-01        1.5000E-02
+        5.7500E+00        0.0000E+00        1.5100E-01        1.5000E-02

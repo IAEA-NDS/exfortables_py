@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 42-MO-100(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 100 
+#   Nuclide: 42-MO-100 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.3400e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 99 
+#   Nuclide: 41-NB-99-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22827-004-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-100(N,X)41-NB-99-M,,SIG) 
+#   First author: H.Sakane 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,ANE,30,1847,2003) 
+#   Year:  2003 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22827.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22827
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3400E+01        0.0000E+00        1.2000E-04        4.0800E-05
+        1.3700E+01        0.0000E+00        1.3000E-04        3.7700E-05
+        1.4020E+01        0.0000E+00        2.3000E-04        5.0600E-05
+        1.4350E+01        0.0000E+00        2.6000E-04        5.4600E-05
+        1.4640E+01        0.0000E+00        2.9000E-04        5.8000E-05
+        1.4870E+01        0.0000E+00        3.2000E-04        6.4000E-05

@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 60-ND-142(G,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 60 
+#   A: 142 
+#   Nuclide: 60-ND-142 
+# Reaction: 
+#   Process: G,INL 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.1300e+00 MeV - 8.7100e+00 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 142 
+#   Nuclide: 60-ND-142 
+#   Level energy: 1.0000e-06 MeV 
+# EXFOR BIB:
+#   Entry id: L0182-002-0 (entry-subentry-pointer) 
+#   Reaction code: (60-ND-142(G,INL)60-ND-142,EP,SIG) 
+#   First author: C.T.Angell 
+#   Institute:  (1USANCA): University of North Carolina, Chapel Hill, NC 
+#   Reference:  (J,PR/C,86,051302,2012) 
+#   Year:  2012 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L01/L0182.x4 
+#   nds:  https://nds.iaea.org/EXFOR/L0182
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.1300E+00        1.2390E-01        9.0000E-05        1.0000E-05
+        4.6400E+00        1.3920E-01        3.1000E-04        2.0000E-05
+        4.9500E+00        1.4850E-01        4.7000E-04        3.0000E-05
+        5.2200E+00        1.5660E-01        1.0000E-03        6.0000E-05
+        5.4400E+00        1.6320E-01        1.4900E-03        8.0000E-05
+        5.5900E+00        1.6770E-01        2.4000E-03        1.7000E-04
+        5.7700E+00        1.7310E-01        2.9100E-03        2.3000E-04
+        5.9700E+00        1.7910E-01        7.1600E-03        4.1000E-04
+        6.2200E+00        1.8660E-01        9.9500E-03        5.5000E-04
+        6.6000E+00        1.9800E-01        1.3730E-02        8.0000E-04
+        6.8900E+00        2.0670E-01        1.5990E-02        8.7000E-04
+        7.1900E+00        2.1570E-01        1.6800E-02        1.0900E-03
+        7.6600E+00        2.2980E-01        2.9550E-02        1.6100E-03
+        8.1700E+00        2.4510E-01        2.3760E-02        1.3500E-03
+        8.7100E+00        2.6130E-01        2.3040E-02        1.3100E-03

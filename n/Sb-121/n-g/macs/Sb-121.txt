@@ -1,0 +1,33 @@
+# Header: 
+#   title: 51-SB-121(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 51 
+#   A: 121 
+#   Nuclide: 51-SB-121 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 8.56000E-01  |   4.74641E-01   (N = 7)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 2.04011E-03 +/-  2.99993E-04   (N = 7)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11010-013-0         V.Hummel                1951   2.4000E-02   0.0000E+00   1.6000E+00   3.2000E-01                
+11399-031-0         R.L.Macklin             1957   2.4000E-02   0.0000E+00   9.5000E-01   1.0000E-01                
+11429-019-0         R.Booth                 1958   2.4000E-02   5.0000E-03   8.1000E-01   2.5000E-01                
+30077-013-0         S.S.Hasan               1968   2.4000E-02   0.0000E+00   7.0000E-01   7.0000E-02                
+30234-017-0         A.Lakshmana Rao         1972   2.5000E-02   5.0000E-03   2.0000E-03   3.0000E-04                
+30234-018-0         A.Lakshmana Rao         1972   2.5000E-02   5.0000E-03   1.0350E+00   1.0000E-01                
+31712-021-0         M.Sriramachandra Murty    1973   2.4000E-02   5.0000E-03   8.9500E-01   1.0800E-01                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0102-248-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   5.3200E-01   1.6000E-02     MXW   RECOM

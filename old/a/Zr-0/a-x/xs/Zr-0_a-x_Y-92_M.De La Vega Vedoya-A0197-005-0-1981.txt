@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 40-ZR-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 40 
+#   A: 0 
+#   Nuclide: 40-ZR-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.5900e+01 MeV - 5.4400e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 92 
+#   Nuclide: 39-Y-92 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0197-005-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-0(A,X)39-Y-92,,SIG,,DAM) 
+#   First author: M.De La Vega Vedoya 
+#   Institute:  (3ARGCNE): Comision Nacional de Energia Atomica, Buenos Aires 
+#   Reference:  (J,JRC,67,165,1981) 
+#   Year:  1981 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A01/A0197.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0197
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5900E+01        5.0000E-01        3.1500E-05        6.1000E-06
+        1.7300E+01        5.0000E-01        2.9300E-05        5.4000E-06
+        1.9400E+01        5.0000E-01        3.9600E-05        7.1000E-06
+        2.1400E+01        5.0000E-01        4.5900E-05        6.3000E-06
+        2.7100E+01        5.0000E-01        8.3100E-05        5.2000E-06
+        2.8800E+01        5.0000E-01        9.3500E-05        5.2000E-06
+        3.2100E+01        5.0000E-01        1.0050E-04        4.3000E-06
+        3.3600E+01        5.0000E-01        1.2910E-04        9.2000E-06
+        3.6100E+01        5.0000E-01        1.3220E-04        8.1000E-06
+        3.7700E+01        5.0000E-01        1.2600E-04        1.6200E-05
+        4.1200E+01        5.0000E-01        1.4770E-04        1.9800E-05
+        4.2400E+01        5.0000E-01        1.2260E-04        2.0500E-05
+        4.5600E+01        5.0000E-01        1.3930E-04        2.2000E-05
+        4.8600E+01        5.0000E-01        1.2420E-04        1.9700E-05
+        5.1600E+01        5.0000E-01        1.1550E-04        1.3200E-05
+        5.4400E+01        5.0000E-01        1.0600E-04        1.9600E-05

@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 6-C-12(A,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-04-23 
+#   Date created: 2026-09-07 
 # Target: 
 #   Z: 6 
 #   A: 12 
 #   Nuclide: 6-C-12 
 # Reaction: 
 #   Process: A,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  3.0000e-01 MeV 
 # Residual: 
 #   Z: 8 
@@ -26,5 +26,5 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C15/C1589.x4 
 #   nds:  https://nds.iaea.org/EXFOR/C1589
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
         3.0000E-01        0.0000E+00        8.0000E+04        0.0000E+00

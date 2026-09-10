@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 8-O-16(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.2200e+02 MeV - 3.6200e+02 MeV 
+# Residual: 
+#   Z: 8 
+#   A: 15 
+#   Nuclide: 8-O-15 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0208-004-2 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(P,X)8-O-15,,SIG) 
+#   First author: V.Parikh 
+#   Institute:  (2UK LVP): University of Liverpool, England 
+#   Reference:  (J,NP,18,646,1960) 
+#   Year:  1960 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C02/C0208.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0208
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.2200E+02        1.5000E+01               NAN        0.0000E+00
+        2.7900E+02        1.5000E+01               NAN        0.0000E+00
+        3.1400E+02        1.5000E+01               NAN        0.0000E+00
+        3.6200E+02        1.5000E+01        2.0200E-02        0.0000E+00

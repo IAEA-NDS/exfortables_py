@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 83-BI-209(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  4.0107e+01 MeV - 9.9445e+01 MeV 
+# Residual: 
+#   Z: 85 
+#   A: 211 
+#   Nuclide: 85-AT-211 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0204-002-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(A,2N)85-AT-211,,SIG) 
+#   First author: G.Deconninck 
+#   Institute:  (2BLGLVN): Catholic University of Louvain, Louvain-la-Neuve 
+#   Reference:  (J,ASS,88,341,1974) 
+#   Year:  1974 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D02/D0204.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0204
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0107E+01        2.0000E-01        1.3040E-01        3.2600E-02
+        4.9304E+01        2.0000E-01        5.1323E-02        1.2831E-02
+        5.7157E+01        2.0000E-01        2.7726E-02        6.9315E-03
+        6.4365E+01        2.0000E-01        1.8184E-02        4.5460E-03
+        7.1050E+01        2.0000E-01        1.0501E-02        2.6252E-03
+        7.7259E+01        2.0000E-01        8.4268E-03        2.1067E-03
+        8.3394E+01        2.0000E-01        5.4608E-03        1.3652E-03
+        8.9104E+01        2.0000E-01        4.9173E-03        1.2293E-03
+        9.4347E+01        2.0000E-01        4.0979E-03        1.0245E-03
+        9.9445E+01        2.0000E-01        3.7213E-03        9.3032E-04

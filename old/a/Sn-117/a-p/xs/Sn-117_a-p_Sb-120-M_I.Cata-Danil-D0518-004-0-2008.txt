@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 50-SN-117(A,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 50 
+#   A: 117 
+#   Nuclide: 50-SN-117 
+# Reaction: 
+#   Process: A,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4500e+01 MeV - 1.5100e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 120 
+#   Nuclide: 51-SB-120-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0518-004-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-117(A,P)51-SB-120-M,,SIG) 
+#   First author: I.Cata-Danil 
+#   Institute:  (3RUMBUC): Horia Hulubei National Institute (IFIN-HH), Magurele 
+#   Reference:  (J,PR/C,78,035803,2008) 
+#   Year:  2008 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D05/D0518.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0518
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5100E+01        1.0000E-01        1.2000E-06        2.0000E-06
+        1.4500E+01        1.0000E-01        5.0000E-06        1.0000E-06

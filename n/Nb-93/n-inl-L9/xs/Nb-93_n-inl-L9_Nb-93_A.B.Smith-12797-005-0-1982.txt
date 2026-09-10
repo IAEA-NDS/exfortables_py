@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 41-NB-93(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 59.0 
+#   Incident energy:  1.9000e+00 MeV - 2.8000e+00 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+#   Level energy: 1.0880e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 12797-005-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(N,INL)41-NB-93,PAR,SIG) 
+#   First author: A.B.Smith 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (R,ANL-NDM-70,1982) 
+#   Year:  1982 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/127/12797.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12797
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.9000E+00        0.0000E+00        1.9900E-01        6.9600E-02
+        2.0000E+00        0.0000E+00        2.2300E-01        6.6900E-02
+        2.1000E+00        0.0000E+00        1.9700E-01        5.9100E-02
+        2.5000E+00        0.0000E+00        1.5900E-01        3.9800E-02
+        2.6000E+00        0.0000E+00        1.3500E-01        4.0500E-02
+        2.7000E+00        0.0000E+00        1.3200E-01        3.9600E-02
+        2.8000E+00        0.0000E+00        1.0400E-01        3.6400E-02

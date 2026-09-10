@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 82-PB-206(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 82 
+#   A: 206 
+#   Nuclide: 82-PB-206 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.3800e+00 MeV - 8.4300e+00 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 207 
+#   Nuclide: 82-PB-207 
+#   Level energy: 2.7400e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 20070-002-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-206(N,G)82-PB-207,PAR,SIG) 
+#   First author: I.Bergqvist 
+#   Institute:  (2SWDAE ): Studsvik Energiteknik AB 
+#   Reference:  (J,NP/A,153,553,1970) 
+#   Year:  1970 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20070.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20070
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.3800E+00        0.0000E+00        1.6000E-04        0.0000E+00
+        6.4600E+00        0.0000E+00        2.3200E-04        4.7000E-05
+        7.4600E+00        0.0000E+00        3.8500E-04        7.7000E-05
+        8.4300E+00        0.0000E+00        5.8000E-04        1.1600E-04

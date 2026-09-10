@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-235(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102.0 
+#   Incident energy:  4.2600e-01 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 236 
+#   Nuclide: 92-U-236 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23170-005-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,G)92-U-236,,SIG,,SPA) 
+#   First author: A.Wallner 
+#   Institute:  (3AULCBR): Australian National University, Canberra 
+#   Reference:  (J,PRL,112,192501,2014) 
+#   Year:  2014 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23170.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23170
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.2600E-01        1.5000E-01        1.6700E-01        1.3000E-02

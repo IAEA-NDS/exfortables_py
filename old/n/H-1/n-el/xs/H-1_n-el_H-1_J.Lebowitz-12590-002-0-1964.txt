@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 1-H-1(N,EL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 3 - 2 
+#   Incident energy:  3.2040e+00 MeV - 5.8580e+00 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 12590-002-0 (entry-subentry-pointer) 
+#   Reaction code: (1-H-1(N,EL)1-H-1,,SIG) 
+#   First author: J.Lebowitz 
+#   Institute:  (1USACOL): Columbia University, New York, NY 
+#   Reference:  (R,WASH-1048,21,6406) 
+#   Year:  1964 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12590.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12590
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.2040E+00        0.0000E+00        2.1220E+00        3.7135E-03
+        5.8580E+00        0.0000E+00        1.4650E+00        2.3440E-03

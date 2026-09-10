@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 30-ZN-0(G,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 30 
+#   A: 0 
+#   Nuclide: 30-ZN-0 
+# Reaction: 
+#   Process: G,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.0000e+01 MeV - 6.5000e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 63 
+#   Nuclide: 30-ZN-63 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: G3126-003-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-0(G,X)30-ZN-63,,SIG,,BRA) 
+#   First author: M.Zaman 
+#   Institute:  (3KORKNU): Kyungpook National University, Daegu 
+#   Reference:  (J,NP/A,960,22,2017) 
+#   Year:  2017 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G31/G3126.x4 
+#   nds:  https://nds.iaea.org/EXFOR/G3126
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.0000E+01        0.0000E+00        9.2860E-03        1.5780E-03
+        5.5000E+01        0.0000E+00        6.6870E-03        1.0560E-03
+        6.0000E+01        0.0000E+00        5.9600E-03        8.3600E-04
+        6.5000E+01        0.0000E+00        6.1960E-03        9.9100E-04

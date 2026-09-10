@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Fission yield 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 8 - 18 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 137 
+#   Nuclide: 53-I-137 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23356-009-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F)53-I-137,CUM,FY) 
+#   First author: P.Del Marmol 
+#   Institute:  (2BLGMOL): SCK CEN (Belgian Nuclear Research Centre), Mol 
+#   Reference:  (J,RCA,16,4,1971) 
+#   Year:  1971 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/233/23356.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23356
+#
+# Charge(No Dim.)    Mass(No Dim.)  Isomer(No Dim.)    Yield(%/fiss)   dYield(%/fiss)
+             53.0            137.0                         3.3000E-02        5.0000E-03

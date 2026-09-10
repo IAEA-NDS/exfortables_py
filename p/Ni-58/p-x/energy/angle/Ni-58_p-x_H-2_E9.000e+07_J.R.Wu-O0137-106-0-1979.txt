@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 28-NI-58(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  9.0000e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+#   Outgoing energy:  4.3360e+00 MeV - 7.8820e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O0137-106-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(P,X)1-H-2,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,698,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0137.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0137
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        4.3360E+00        0.0000E+00        9.0000E+01        0.0000E+00        1.1290E-10        1.1290E-11
+        5.4240E+00        0.0000E+00        9.0000E+01        0.0000E+00        3.4260E-10        3.4260E-11
+        1.2940E+01        0.0000E+00        9.0000E+01        0.0000E+00        2.3580E-10        2.3580E-11
+        1.7940E+01        0.0000E+00        9.0000E+01        0.0000E+00        1.3780E-10        1.3780E-11
+        2.3940E+01        0.0000E+00        9.0000E+01        0.0000E+00        9.1080E-11        9.1080E-12
+        3.0960E+01        0.0000E+00        9.0000E+01        0.0000E+00        6.0170E-11        6.0170E-12
+        3.9970E+01        0.0000E+00        9.0000E+01        0.0000E+00        3.3690E-11        3.3690E-12
+        4.5970E+01        0.0000E+00        9.0000E+01        0.0000E+00        1.9680E-11        1.9680E-12
+        5.2970E+01        0.0000E+00        9.0000E+01        0.0000E+00        1.0160E-11        1.0160E-12
+        5.8960E+01        0.0000E+00        9.0000E+01        0.0000E+00        5.4670E-12        5.4670E-13
+        6.4950E+01        0.0000E+00        9.0000E+01        0.0000E+00        3.0650E-12        3.0650E-13
+        6.8930E+01        0.0000E+00        9.0000E+01        0.0000E+00        1.6510E-12        1.6510E-13
+        6.8930E+01        0.0000E+00        9.0000E+01        0.0000E+00        1.6510E-12        1.6510E-13
+        7.2450E+01        0.0000E+00        9.0000E+01        0.0000E+00        1.5820E-12        1.5820E-13
+        7.5420E+01        0.0000E+00        9.0000E+01        0.0000E+00        7.8520E-13        7.8520E-14
+        7.8820E+01        0.0000E+00        9.0000E+01        0.0000E+00        1.3940E-13        1.3940E-14

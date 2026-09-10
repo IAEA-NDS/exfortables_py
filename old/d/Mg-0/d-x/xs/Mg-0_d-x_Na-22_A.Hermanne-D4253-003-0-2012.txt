@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 12-MG-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 12 
+#   A: 0 
+#   Nuclide: 12-MG-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.0000e-01 MeV - 4.8900e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 22 
+#   Nuclide: 11-NA-22 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4253-003-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-0(D,X)11-NA-22,,SIG) 
+#   First author: A.Hermanne 
+#   Institute:  (2BLGVUB): Vrije Universiteit Brussels, Brussels 
+#   Reference:  (J,ARI,70,2763,2012) 
+#   Year:  2012 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4253.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4253
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.8900E+01        2.0000E-01        4.7000E-02        6.0000E-03
+        4.7100E+01        3.0000E-01        4.5000E-02        6.0000E-03
+        4.5300E+01        3.0000E-01        4.2000E-02        5.0000E-03
+        4.3400E+01        5.0000E-01        4.0000E-02        5.0000E-03
+        4.1500E+01        6.0000E-01        3.5000E-02        5.0000E-03
+        3.9500E+01        8.0000E-01        3.2000E-02        4.0000E-03
+        3.7300E+01        1.0000E+00        2.9000E-02        4.0000E-03
+        3.5100E+01        1.2000E+00        2.4000E-02        3.0000E-03
+        3.2800E+01        1.4000E+00        2.2000E-02        3.0000E-03
+        3.0400E+01        1.8000E+00        1.8000E-02        2.0000E-03
+        2.7700E+01        2.1000E+00        1.4000E-02        2.0000E-03
+        2.4900E+01        2.3000E+00        2.5000E-02        3.0000E-03
+        2.1800E+01        2.5000E+00        3.1000E-02        4.0000E-03
+        1.8200E+01        2.6000E+00        4.5000E-02        6.0000E-03
+        1.4100E+01        2.8000E+00        7.5000E-02        1.1000E-02
+        8.6000E+00        3.0000E+00        1.1000E-01        2.0000E-02
+        3.0000E-01        4.0000E+00        5.0000E-03        1.0000E-03

@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 53-I-127(G,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 53 
+#   A: 127 
+#   Nuclide: 53-I-127 
+# Reaction: 
+#   Process: G,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5416e+01 MeV - 1.6851e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 125 
+#   Nuclide: 53-I-125 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: L0057-006-0 (entry-subentry-pointer) 
+#   Reaction code: (53-I-127(G,2N)53-I-125,,SIG) 
+#   First author: B.L.Berman 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR/C,36,1286,8705) 
+#   Year:  1987 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L00/L0057.x4 
+#   nds:  https://nds.iaea.org/EXFOR/L0057
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5416E+01        0.0000E+00       -3.1000E-04       -3.1000E-05
+        1.5895E+01        0.0000E+00        1.5000E-03        1.5000E-04
+        1.6373E+01        0.0000E+00        2.0900E-03        2.0900E-04
+        1.6851E+01        0.0000E+00        2.1350E-02        2.1350E-03

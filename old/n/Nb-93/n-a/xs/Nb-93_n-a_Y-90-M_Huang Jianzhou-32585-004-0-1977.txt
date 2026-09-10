@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 41-NB-93(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.2870e+01 MeV - 1.7550e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 90 
+#   Nuclide: 39-Y-90-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32585-004-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(N,A)39-Y-90-M,,SIG) 
+#   First author: Huang Jianzhou 
+#   Institute:  (3CPRAEP): China Institute of Atomic Energy, Beijing 
+#   Reference:  (J,CST,11,(3),211,197707) 
+#   Year:  1977 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32585.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32585
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2870E+01        1.0000E-01        4.1500E-03        3.9000E-04
+        1.3660E+01        1.0000E-01        5.4100E-03        4.2000E-04
+        1.4600E+01        3.0000E-01        5.6800E-03        3.6000E-04
+        1.5690E+01        3.3000E-01        5.5800E-03        4.8000E-04
+        1.6650E+01        3.4000E-01        5.5900E-03        5.1000E-04
+        1.7310E+01        3.1000E-01        5.3100E-03        3.8000E-04
+        1.7550E+01        2.1000E-01        4.9200E-03        6.8000E-04

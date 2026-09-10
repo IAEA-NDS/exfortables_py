@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 48-CD-0(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 48 
+#   A: 0 
+#   Nuclide: 48-CD-0 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4.0 
+#   Incident energy:  4.0000e-01 MeV - 1.0000e+00 MeV 
+# Residual: 
+#   Z: 48 
+#   A: 0 
+#   Nuclide: 48-CD-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40662-022-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-0(N,INL)48-CD-0,,SIG) 
+#   First author: N.P.Glazkov 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (J,AE,14,400,1963) 
+#   Year:  1963 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40662.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40662
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.0000E-01        0.0000E+00        1.0000E-01        1.0000E-02
+        6.0000E-01        0.0000E+00        2.4000E-01        2.0000E-02
+        8.0000E-01        0.0000E+00        5.0000E-01        5.0000E-02
+        1.0000E+00        0.0000E+00        9.0000E-01        1.0000E-01

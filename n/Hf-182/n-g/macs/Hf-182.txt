@@ -1,0 +1,41 @@
+# Header: 
+#   title: 72-HF-182(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 72 
+#   A: 182 
+#   Nuclide: 72-HF-182 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   MXW Simple Mean           |  Simple Stdev        : 1.50650E-01  |   2.78550E-03   (N = 6)
+#   MXW Weighted Mean        +/- Weighted Error      : 1.50517E-01 +/-  3.28753E-03   (N = 6)
+#   SPA Simple Mean           |  Simple Stdev        : 1.41850E-01  |   2.59827E-03   (N = 6)
+#   SPA Weighted Mean        +/- Weighted Error      : 1.42258E-01 +/-  2.90116E-03   (N = 6)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22963-014-0         C.Vockenhuber           2007   2.5000E-02   0.0000E+00   1.5340E-01   8.2836E-03     MXW        
+22963-014-0         C.Vockenhuber           2007   2.5000E-02   0.0000E+00   1.5250E-01   8.2350E-03     MXW        
+22963-014-0         C.Vockenhuber           2007   2.5000E-02   0.0000E+00   1.5360E-01   8.2944E-03     MXW        
+22963-015-0         C.Vockenhuber           2007   2.5000E-02   0.0000E+00   1.4840E-01   7.8652E-03     MXW        
+22963-015-0         C.Vockenhuber           2007   2.5000E-02   0.0000E+00   1.4800E-01   7.8440E-03     MXW        
+22963-015-0         C.Vockenhuber           2007   2.5000E-02   0.0000E+00   1.4800E-01   7.8440E-03     MXW        
+22963-006-0         C.Vockenhuber           2007   2.5000E-02   0.0000E+00   1.4440E-01   8.0000E-03     SPA        
+22963-006-0         C.Vockenhuber           2007   2.5000E-02   0.0000E+00   1.4360E-01   8.1000E-03     SPA        
+22963-006-0         C.Vockenhuber           2007   2.5000E-02   0.0000E+00   1.4460E-01   5.2000E-03     SPA        
+22963-007-0         C.Vockenhuber           2007   2.5000E-02   0.0000E+00   1.3970E-01   7.6835E-03     SPA        
+22963-007-0         C.Vockenhuber           2007   2.5000E-02   0.0000E+00   1.3940E-01   7.6670E-03     SPA        
+22963-007-0         C.Vockenhuber           2007   2.5000E-02   0.0000E+00   1.3940E-01   7.6670E-03     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0102-413-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.1700E-01   4.1000E-02     MXW   RECOM
+V0102-414-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.4100E-01   8.0000E-03     MXW   RECOM

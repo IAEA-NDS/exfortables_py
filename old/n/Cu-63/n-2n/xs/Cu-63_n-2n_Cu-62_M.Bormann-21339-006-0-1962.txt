@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 29-CU-63(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3200e+01 MeV - 1.9600e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 62 
+#   Nuclide: 29-CU-62 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21339-006-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-63(N,2N)29-CU-62,,SIG) 
+#   First author: M.Bormann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (J,ZP,166,477,1962) 
+#   Year:  1962 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21339.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21339
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3200E+01        3.0000E-01        7.6600E-01        7.6600E-02
+        1.4100E+01        4.0000E-01        4.7800E-01        5.2580E-02
+        1.5200E+01        4.0000E-01        6.2700E-01        5.6430E-02
+        1.6000E+01        4.0000E-01        7.5100E-01        6.7590E-02
+        1.7100E+01        4.0000E-01        8.4900E-01        7.6410E-02
+        1.8000E+01        4.0000E-01        9.2000E-01        7.3600E-02
+        1.9400E+01        3.0000E-01        8.6000E-01        6.8800E-02
+        1.9600E+01        3.0000E-01        8.5400E-01        6.8320E-02

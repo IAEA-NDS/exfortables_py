@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 92-U-235(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.1700e+00 MeV - 2.1900e+00 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 1 
+#   Nuclide: 0-NN-1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41066-007-2 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,X)0-NN-1,,SIG) 
+#   First author: N.V.Kornilov 
+#   Institute:  (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference:  (R,FEI-2220,1991) 
+#   Year:  1991 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/410/41066.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41066
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1700E+00        1.2000E-02        1.9100E+00        0.0000E+00
+        1.7900E+00        1.4000E-02        2.2100E+00        0.0000E+00
+        2.1900E+00        1.5000E-02        2.3600E+00        0.0000E+00

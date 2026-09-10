@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 72-HF-180(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 72 
+#   A: 180 
+#   Nuclide: 72-HF-180 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.4430e+01 MeV - 1.4940e+01 MeV 
+# Residual: 
+#   Z: 70 
+#   A: 177 
+#   Nuclide: 70-YB-177 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22637-079-0 (entry-subentry-pointer) 
+#   Reaction code: (72-HF-180(N,A)70-YB-177,,SIG) 
+#   First author: C.Konno 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (R,JAERI-1329,1993) 
+#   Year:  1993 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22637.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22637
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4430E+01        0.0000E+00        9.0000E-04        5.4000E-04
+        1.4670E+01        0.0000E+00        9.0000E-04        5.3000E-04
+        1.4940E+01        0.0000E+00        9.5000E-04        5.5000E-04

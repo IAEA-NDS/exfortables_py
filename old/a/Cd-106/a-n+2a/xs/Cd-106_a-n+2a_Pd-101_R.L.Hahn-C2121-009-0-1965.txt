@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 48-CD-106(A,N+2A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 48 
+#   A: 106 
+#   Nuclide: 48-CD-106 
+# Reaction: 
+#   Process: A,N+2A 
+#   MF-MT number: 3 - 29 
+#   Incident energy:  3.6000e+01 MeV - 3.9000e+01 MeV 
+# Residual: 
+#   Z: 46 
+#   A: 101 
+#   Nuclide: 46-PD-101 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2121-009-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-106(A,N+2A)46-PD-101,,SIG) 
+#   First author: R.L.Hahn 
+#   Institute:  (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference:  (J,PR,137,B1491,1965) 
+#   Year:  1965 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C21/C2121.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2121
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6000E+01        0.0000E+00        2.2000E-04        2.0000E-05
+        3.8400E+01        0.0000E+00        3.7000E-04        3.0000E-05
+        3.9000E+01        0.0000E+00        3.2000E-04        4.0000E-05

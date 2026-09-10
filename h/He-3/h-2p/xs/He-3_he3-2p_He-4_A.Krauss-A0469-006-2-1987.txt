@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 2-HE-3(HE3,2P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+# Reaction: 
+#   Process: HE3,2P 
+#   MF-MT number: 3 - 111 
+#   Incident energy:  4.9000e-02 MeV - 1.7050e-01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0469-006-2 (entry-subentry-pointer) 
+#   Reaction code: (2-HE-3(HE3,2P)2-HE-4,,SIG,,SFC) 
+#   First author: A.Krauss 
+#   Institute:  (2GERMST): Westfaelische Wilhelms-Universitaet Muenster,Muenster 
+#   Reference:  (J,NP/A,467,273,1987) 
+#   Year:  1987 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0469.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0469
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
+        4.9000E-02        0.0000E+00        5.0000E+06        3.4000E+05
+        1.7050E-01        0.0000E+00        4.7600E+06        1.8000E+05
+        1.7050E-01        0.0000E+00        4.7300E+06        1.6000E+05

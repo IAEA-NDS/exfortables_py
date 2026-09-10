@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 17-CL-37(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 17 
+#   A: 37 
+#   Nuclide: 17-CL-37 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.5990e+00 MeV - 2.4240e+00 MeV 
+# Residual: 
+#   Z: 18 
+#   A: 37 
+#   Nuclide: 18-AR-37 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0309-004-0 (entry-subentry-pointer) 
+#   Reaction code: (17-CL-37(P,N)18-AR-37,,SIG) 
+#   First author: R.O.Weber 
+#   Institute:  (3AULAML): University of Melbourne, Parkville, Victoria 
+#   Reference:  (J,NP/A,439,176,1985) 
+#   Year:  1985 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A03/A0309.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0309
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        1.5990E+00        2.0000E-03        6.0020E-04        0.0000E+00
+        1.6320E+00        2.0000E-03        2.4530E-03        0.0000E+00
+        1.6840E+00        2.0000E-03        5.3270E-03        0.0000E+00
+        1.7310E+00        2.0000E-03        6.7950E-03        0.0000E+00
+        1.7780E+00        2.0000E-03        1.2420E-02        0.0000E+00
+        1.8330E+00        2.0000E-03        1.6070E-02        0.0000E+00
+        1.8800E+00        2.0000E-03        1.8010E-02        0.0000E+00
+        1.9280E+00        2.0000E-03        3.8550E-02        0.0000E+00
+        1.9790E+00        2.0000E-03        3.7420E-02        0.0000E+00
+        2.0300E+00        2.0000E-03        3.1020E-02        0.0000E+00
+        2.0800E+00        2.0000E-03        2.4980E-02        0.0000E+00
+        2.1300E+00        2.0000E-03        1.7930E-02        0.0000E+00
+        2.1780E+00        2.0000E-03        3.8380E-02        0.0000E+00
+        2.2250E+00        2.0000E-03        3.0040E-02        0.0000E+00
+        2.2760E+00        2.0000E-03        3.8310E-02        0.0000E+00
+        2.3230E+00        2.0000E-03        3.2220E-02        0.0000E+00
+        2.3770E+00        2.0000E-03        2.7880E-02        0.0000E+00
+        2.4240E+00        2.0000E-03        3.7670E-02        0.0000E+00

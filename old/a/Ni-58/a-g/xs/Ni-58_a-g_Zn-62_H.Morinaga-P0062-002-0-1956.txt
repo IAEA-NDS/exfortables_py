@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 28-NI-58(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.0600e+01 MeV - 1.6200e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 62 
+#   Nuclide: 30-ZN-62 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: P0062-002-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(A,G)30-ZN-62,,SIG) 
+#   First author: H.Morinaga 
+#   Institute:  (1USAPUR): Purdue University, West Lafayette, IN 
+#   Reference:  (J,PR,101,100,195601) 
+#   Year:  1956 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P00/P0062.x4 
+#   nds:  https://nds.iaea.org/EXFOR/P0062
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.0600E+01        0.0000E+00        9.5000E-05        0.0000E+00
+        1.2600E+01        0.0000E+00        2.9100E-04        0.0000E+00
+        1.4600E+01        0.0000E+00        4.0300E-04        0.0000E+00
+        1.6200E+01        0.0000E+00        3.9800E-04        0.0000E+00

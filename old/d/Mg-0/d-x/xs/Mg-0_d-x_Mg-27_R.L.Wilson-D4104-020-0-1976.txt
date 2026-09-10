@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 12-MG-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 12 
+#   A: 0 
+#   Nuclide: 12-MG-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.4000e+00 MeV - 1.6750e+01 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 27 
+#   Nuclide: 12-MG-27 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4104-020-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-0(D,X)12-MG-27,,SIG) 
+#   First author: R.L.Wilson 
+#   Institute:  (1USACLU): University of Colorado, Boulder, CO 
+#   Reference:  (J,PR/C,13,976,1976) 
+#   Year:  1976 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4104.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4104
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.4000E+00        0.0000E+00        8.3000E-02        1.0000E-02
+        1.2500E+01        0.0000E+00        5.6000E-02        5.0000E-03
+        1.6750E+01        0.0000E+00        2.2000E-02        3.0000E-03

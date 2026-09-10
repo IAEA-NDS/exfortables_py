@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 67-HO-165(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 67 
+#   A: 165 
+#   Nuclide: 67-HO-165 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3400e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 67 
+#   A: 164 
+#   Nuclide: 67-HO-164-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22662-018-0 (entry-subentry-pointer) 
+#   Reaction code: (67-HO-165(N,2N)67-HO-164-M,,SIG) 
+#   First author: H.Sakane 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  (J,ANE,28,1175,2001) 
+#   Year:  2001 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22662.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22662
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3400E+01        5.0000E-02        7.0100E-01        1.1917E-01
+        1.3650E+01        5.0000E-02        7.8500E-01        1.3345E-01
+        1.3880E+01        5.0000E-02        7.7100E-01        1.2336E-01
+        1.4280E+01        5.0000E-02        7.8500E-01        1.3345E-01
+        1.4580E+01        5.0000E-02        7.0500E-01        1.1985E-01
+        1.4870E+01        5.0000E-02        7.9700E-01        1.2752E-01

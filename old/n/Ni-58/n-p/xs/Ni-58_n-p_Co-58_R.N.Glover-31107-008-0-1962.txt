@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 28-NI-58(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3860e+01 MeV - 1.4880e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 58 
+#   Nuclide: 27-CO-58 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31107-008-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(N,P)27-CO-58,,SIG) 
+#   First author: R.N.Glover 
+#   Institute:  (3AULCBR): Australian National University, Canberra 
+#   Reference:  (J,NP,29,309,1962) 
+#   Year:  1962 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/311/31107.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31107
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3860E+01        1.0000E-01        4.3600E-01        3.4880E-02
+        1.4110E+01        1.0000E-01        4.3500E-01        3.4800E-02
+        1.4240E+01        1.0000E-01        4.3700E-01        3.4960E-02
+        1.4370E+01        1.5000E-01        4.2400E-01        3.3920E-02
+        1.4490E+01        2.0000E-01        4.0100E-01        3.2080E-02
+        1.4590E+01        2.0000E-01        3.8500E-01        3.0800E-02
+        1.4690E+01        2.5000E-01        3.6300E-01        2.9040E-02
+        1.4770E+01        2.5000E-01        3.5500E-01        2.8400E-02
+        1.4880E+01        3.0000E-01        3.3300E-01        2.6640E-02

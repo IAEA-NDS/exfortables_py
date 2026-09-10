@@ -1,0 +1,32 @@
+# Header: 
+#   title: 42-MO-96(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 42 
+#   A: 96 
+#   Nuclide: 42-MO-96 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.04000E-01  |   0.00000E+00   (N = 2)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.04000E-01 +/-  1.02899E-02   (N = 2)
+#   MXW Simple Mean           |  Simple Stdev        : 1.10000E-01  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+30506-010-0         D.B.Stroud              1972   3.0000E-02   0.0000E+00   1.0400E-01   1.2000E-02                
+30506-014-0         D.B.Stroud              1972   3.0000E-02   0.0000E+00   1.0400E-01   2.0000E-02                
+30357-025-0         A.R.De L.Musgrove       1976   3.0000E-02   0.0000E+00   1.1000E-01   1.5000E-02     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0102-174-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.1200E-01   8.0000E-03     MXW   RECOM
+V1001-398-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   1.1200E-01   6.0000E-03     MXW   RECOM

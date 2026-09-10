@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 79-AU-197(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.9800e+01 MeV - 6.5470e+01 MeV 
+# Residual: 
+#   Z: 80 
+#   A: 193 
+#   Nuclide: 80-HG-193-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D7045-011-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(P,X)80-HG-193-M,,SIG) 
+#   First author: H.Naik 
+#   Institute:  (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference:  (J,RCA,111,655,2023) 
+#   Year:  2023 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D70/D7045.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D7045
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.9800E+01        6.0000E-01        3.5320E-01        1.7900E-02
+        5.1620E+01        5.7000E-01        3.0900E-01        2.3200E-02
+        5.3420E+01        5.7000E-01        2.8870E-01        2.0700E-02
+        5.5180E+01        5.4000E-01        2.5140E-01        1.6200E-02
+        5.6850E+01        5.2000E-01        2.0770E-01        2.1500E-02
+        5.9160E+01        5.2000E-01        1.7500E-01        1.0200E-02
+        6.0770E+01        5.0000E-01        1.5880E-01        6.6000E-03
+        6.2340E+01        5.0000E-01        1.5410E-01        5.9000E-03
+        6.3920E+01        5.0000E-01        1.4260E-01        7.0000E-03
+        6.5470E+01        4.7000E-01        1.3090E-01        6.8000E-03

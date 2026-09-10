@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 63-EU-151(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 63 
+#   A: 151 
+#   Nuclide: 63-EU-151 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.1340e+01 MeV - 1.7040e+01 MeV 
+# Residual: 
+#   Z: 65 
+#   A: 154 
+#   Nuclide: 65-TB-154 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4241-006-0 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-151(A,N)65-TB-154,,SIG) 
+#   First author: Gy.Gyurky 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,JP/G,37,115201,2010) 
+#   Year:  2010 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4241.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4241
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.1340E+01        4.0000E-02        7.3000E-06        0.0000E+00
+        1.1670E+01        4.0000E-02        1.1600E-05        0.0000E+00
+        1.2250E+01        4.0000E-02        1.0700E-04        1.8000E-05
+        1.2650E+01        4.0000E-02        2.7600E-04        4.7000E-05
+        1.3140E+01        4.0000E-02        6.6600E-04        1.1100E-04
+        1.3720E+01        4.0000E-02        1.8980E-03        3.2200E-04
+        1.4110E+01        4.0000E-02        4.1170E-03        6.9800E-04
+        1.4110E+01        4.0000E-02        4.2350E-03        7.2200E-04
+        1.4690E+01        5.0000E-02        1.2636E-02        2.1430E-03
+        1.4690E+01        4.0000E-02        1.2770E-02        2.1040E-03
+        1.5100E+01        5.0000E-02        1.6932E-02        2.9040E-03
+        1.5580E+01        5.0000E-02        4.1503E-02        7.0450E-03
+        1.5580E+01        5.0000E-02        3.9427E-02        7.0920E-03
+        1.6070E+01        5.0000E-02        6.9274E-02        1.1793E-02
+        1.6620E+01        5.0000E-02        6.9490E-02        1.1750E-02
+        1.7040E+01        5.0000E-02        9.9486E-02        1.7256E-02

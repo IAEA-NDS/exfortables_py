@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 46-PD-110(18-AR-40,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 46 
+#   A: 110 
+#   Nuclide: 46-PD-110 
+# Reaction: 
+#   Process: 18-AR-40,3N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4000e+02 MeV - 1.8600e+02 MeV 
+# Residual: 
+#   Z: 64 
+#   A: 147 
+#   Nuclide: 64-GD-147 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0129-011-0 (entry-subentry-pointer) 
+#   Reaction code: (46-PD-110(18-AR-40,3N)64-GD-147,,SIG,,,EXP) 
+#   First author: S.Della Negra 
+#   Institute:  (2FR PAR): Universite de Paris 
+#   Reference:  (J,ZP/A,282,65,1977) 
+#   Year:  1977 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0129.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0129
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4000E+02        1.0000E+00        1.1000E-02        7.0000E-04
+        1.4300E+02        1.0000E+00        3.0000E-02        3.4000E-03
+        1.4900E+02        5.0000E+00        3.0000E-02        9.0000E-03
+        1.4900E+02        1.0000E+00        4.8000E-02        0.0000E+00
+        1.5400E+02        1.0000E+00        5.9000E-02        9.0000E-03
+        1.5800E+02        1.0000E+00        4.6000E-02        0.0000E+00
+        1.5900E+02        5.0000E+00        4.4500E-02        7.5000E-03
+        1.6300E+02        5.0000E+00        5.1000E-02        9.0000E-03
+        1.6300E+02        1.0000E+00        5.8000E-02        4.0000E-03
+        1.6800E+02        5.0000E+00        3.8000E-02        6.0000E-03
+        1.6800E+02        1.0000E+00        4.3000E-02        6.0000E-03
+        1.7500E+02        5.0000E+00        4.4000E-02        7.5000E-03
+        1.7800E+02        5.0000E+00        1.1300E-02        2.5000E-03
+        1.8600E+02        5.0000E+00        9.7000E-03        2.0000E-03

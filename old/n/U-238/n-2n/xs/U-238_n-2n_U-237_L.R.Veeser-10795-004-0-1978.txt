@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 92-U-238(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4700e+01 MeV - 1.9000e+01 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 237 
+#   Nuclide: 92-U-237 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10795-004-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,2N)92-U-237,,SIG) 
+#   First author: L.R.Veeser 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (C,78HARWELL,,1054,197809) 
+#   Year:  1978 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10795.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10795
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4700E+01        1.5000E-01        6.7300E-01        4.1000E-02
+        1.6000E+01        2.0000E-01        4.5100E-01        8.2000E-02
+        1.7000E+01        2.0000E-01        3.6600E-01        7.5000E-02
+        1.8000E+01        1.5000E-01        2.3400E-01        8.5000E-02
+        1.9000E+01        1.5000E-01        2.7300E-01        8.8000E-02

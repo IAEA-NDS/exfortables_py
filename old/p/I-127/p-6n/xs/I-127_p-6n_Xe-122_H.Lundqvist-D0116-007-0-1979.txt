@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 53-I-127(P,6N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 53 
+#   A: 127 
+#   Nuclide: 53-I-127 
+# Reaction: 
+#   Process: P,6N 
+#   MF-MT number: 3 - 153 
+#   Incident energy:  5.8770e+01 MeV - 9.4706e+01 MeV 
+# Residual: 
+#   Z: 54 
+#   A: 122 
+#   Nuclide: 54-XE-122 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0116-007-0 (entry-subentry-pointer) 
+#   Reaction code: (53-I-127(P,6N)54-XE-122,,SIG) 
+#   First author: H.Lundqvist 
+#   Institute:  (2SWDUPP): Uppsala University , Uppsala 
+#   Reference:  (J,ARI,30,39,1979) 
+#   Year:  1979 
+#   Facility:  (SYNCY): Synchro cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D01/D0116.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0116
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.8770E+01        2.0000E-01        3.3330E-02        5.2715E-03
+        6.3608E+01        2.0000E-01        1.0156E-01        1.8467E-02
+        7.3791E+01        2.0000E-01        9.5650E-02        1.5688E-02
+        8.3982E+01        2.0000E-01        6.9940E-02        1.1471E-02
+        9.4706E+01        2.0000E-01        4.8618E-02        7.4041E-03

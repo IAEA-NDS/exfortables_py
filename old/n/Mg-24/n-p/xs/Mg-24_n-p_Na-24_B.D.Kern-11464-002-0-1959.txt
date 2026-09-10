@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 12-MG-24(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 12 
+#   A: 24 
+#   Nuclide: 12-MG-24 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3030e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11464-002-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-24(N,P)11-NA-24,,SIG) 
+#   First author: B.D.Kern 
+#   Institute:  (1USANRD): U.S. Naval Radiolog. Defense Laboratory , San Francisco, CA 
+#   Reference:  (J,NP,10,226,1959) 
+#   Year:  1959 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11464.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11464
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3030E+01        2.0000E-01        2.1900E-01        2.6000E-02

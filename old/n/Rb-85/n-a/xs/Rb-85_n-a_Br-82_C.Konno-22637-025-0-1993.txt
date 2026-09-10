@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 37-RB-85(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 37 
+#   A: 85 
+#   Nuclide: 37-RB-85 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3340e+01 MeV - 1.4950e+01 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 82 
+#   Nuclide: 35-BR-82 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22637-025-0 (entry-subentry-pointer) 
+#   Reaction code: (37-RB-85(N,A)35-BR-82,,SIG) 
+#   First author: C.Konno 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (R,JAERI-1329,1993) 
+#   Year:  1993 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22637.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22637
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3340E+01        0.0000E+00        4.2400E-03        2.5000E-04
+        1.3570E+01        0.0000E+00        4.6200E-03        3.5000E-04
+        1.3760E+01        0.0000E+00        4.7200E-03        3.6000E-04
+        1.3990E+01        0.0000E+00        5.0100E-03        4.2000E-04
+        1.4230E+01        0.0000E+00        5.1100E-03        4.4000E-04
+        1.4440E+01        0.0000E+00        5.3300E-03        4.4000E-04
+        1.4680E+01        0.0000E+00        6.4300E-03        4.6000E-04
+        1.4950E+01        0.0000E+00        6.5300E-03        3.9000E-04

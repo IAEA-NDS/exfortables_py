@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 94-PU-242(6-C-12,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 94 
+#   A: 242 
+#   Nuclide: 94-PU-242 
+# Reaction: 
+#   Process: 6-C-12,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.5020e+01 MeV - 9.3270e+01 MeV 
+# Residual: 
+#   Z: 98 
+#   A: 246 
+#   Nuclide: 98-CF-246 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1377-003-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-242(6-C-12,X)98-CF-246,IND,SIG) 
+#   First author: N.Shinohara 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,PR/C,34,(3),909,198609) 
+#   Year:  1986 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E13/E1377.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1377
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.5020E+01        0.0000E+00        1.0350E-07        3.9790E-08
+        6.7550E+01        0.0000E+00        3.2160E-07        7.3980E-08
+        7.0410E+01        0.0000E+00        5.3700E-07        9.1770E-08
+        7.1450E+01        0.0000E+00        9.2360E-07        1.0580E-07
+        7.5670E+01        0.0000E+00        1.0550E-05        7.3830E-06
+        7.8400E+01        0.0000E+00        2.3680E-05        4.3230E-06
+        8.4240E+01        0.0000E+00        2.2990E-05        6.4290E-06
+        8.7820E+01        0.0000E+00        3.3120E-05        3.4320E-06
+        9.3270E+01        0.0000E+00        1.1530E-05        1.8380E-06

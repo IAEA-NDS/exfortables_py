@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 29-CU-0(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  3.4500e+02 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 0 
+#   Nuclide: 1-PP-0 
+#   Outgoing energy:  2.9540e+01 MeV - 1.1020e+02 MeV 
+# EXFOR BIB:
+#   Entry id: E2202-006-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(P,X)1-PP-0,,DA/DE) 
+#   First author: S.Tokunaga 
+#   Institute:  (2JPNJPN): Japan 
+#   Reference:  (J,JPJ,8,571,1953) 
+#   Year:  1953 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E22/E2202.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2202
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        2.9540E+01        1.1660E+00        9.0000E+01        0.0000E+00        8.3570E-13        0.0000E+00
+        3.6860E+01        1.4000E+00        9.0000E+01        0.0000E+00        1.1920E-12        0.0000E+00
+        5.0130E+01        1.4000E+00        9.0000E+01        0.0000E+00        1.9810E-12        0.0000E+00
+        5.9700E+01        1.4000E+00        9.0000E+01        0.0000E+00        1.9850E-12        0.0000E+00
+        7.7310E+01        2.5670E+00        9.0000E+01        0.0000E+00        1.4170E-12        0.0000E+00
+        8.7520E+01        2.3350E+00        9.0000E+01        0.0000E+00        1.1620E-12        0.0000E+00
+        9.7430E+01        2.8000E+00        9.0000E+01        0.0000E+00        5.9480E-13        0.0000E+00
+        1.1020E+02        4.4360E+00        9.0000E+01        0.0000E+00        3.0440E-13        0.0000E+00

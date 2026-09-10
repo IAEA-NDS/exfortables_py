@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 82-PB-204(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 82 
+#   A: 204 
+#   Nuclide: 82-PB-204 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3560e+01 MeV - 1.4530e+01 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 203 
+#   Nuclide: 82-PB-203 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32205-025-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-204(N,2N)82-PB-203,,SIG) 
+#   First author: S.V.Begun 
+#   Institute:  (4UKRKGU): Kyivsky Natsionalny University "Taras Shevchenko", Kyiv 
+#   Reference:  (J,NSTS,2,425,2002) 
+#   Year:  2002 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/322/32205.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32205
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3560E+01        0.0000E+00        1.9900E+00        1.4000E-01
+        1.3690E+01        0.0000E+00        1.9700E+00        1.1000E-01
+        1.3950E+01        0.0000E+00        2.1900E+00        1.5000E-01
+        1.4210E+01        0.0000E+00        2.1600E+00        1.2000E-01
+        1.4470E+01        0.0000E+00        2.2300E+00        1.2000E-01
+        1.4530E+01        0.0000E+00        2.1900E+00        1.0000E-01

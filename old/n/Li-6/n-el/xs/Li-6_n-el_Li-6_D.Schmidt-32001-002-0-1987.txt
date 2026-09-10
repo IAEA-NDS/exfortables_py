@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 3-LI-6(N,EL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 3 - 2 
+#   Incident energy:  7.7500e+00 MeV - 8.9000e+00 MeV 
+# Residual: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32001-002-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(N,EL)3-LI-6,,SIG) 
+#   First author: D.Schmidt 
+#   Institute:  (3DDRTUD): Dresden, Techn.University at Dresden and Pirna 
+#   Reference:  (J,NSE,96,159,1987) 
+#   Year:  1987 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/320/32001.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32001
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.7500E+00        1.6000E-01        1.1430E+00        3.6000E-02
+        8.9000E+00        1.3800E-01        1.2050E+00        5.0000E-02

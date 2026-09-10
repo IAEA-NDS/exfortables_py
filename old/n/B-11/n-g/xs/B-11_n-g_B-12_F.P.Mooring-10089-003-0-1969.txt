@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 5-B-11(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 5 
+#   A: 11 
+#   Nuclide: 5-B-11 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102.0 
+#   Incident energy:  1.0070e-02 MeV - 5.4910e-02 MeV 
+# Residual: 
+#   Z: 5 
+#   A: 12 
+#   Nuclide: 5-B-12 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10089-003-0 (entry-subentry-pointer) 
+#   Reaction code: (5-B-11(N,G)5-B-12,,SIG) 
+#   First author: F.P.Mooring 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,PR,178,1612,1969) 
+#   Year:  1969 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10089.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10089
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0070E-02        7.0000E-03        5.0730E-05        0.0000E+00
+        1.2180E-02        7.0000E-03        5.5310E-05        0.0000E+00
+        1.4890E-02        7.0000E-03        6.5750E-05        0.0000E+00
+        1.5960E-02        7.0000E-03        1.4270E-04        0.0000E+00
+        1.8870E-02        7.0000E-03        2.9950E-04        0.0000E+00
+        2.1610E-02        7.0000E-03        2.2740E-04        0.0000E+00
+        2.1650E-02        7.0000E-03        3.4190E-04        0.0000E+00
+        2.4690E-02        7.0000E-03        1.3780E-04        0.0000E+00
+        2.7680E-02        7.0000E-03        9.6130E-05        0.0000E+00
+        3.0480E-02        7.0000E-03        7.4690E-05        0.0000E+00
+        3.5500E-02        7.0000E-03        2.8860E-05        0.0000E+00
+        3.9820E-02        7.0000E-03        3.8020E-05        0.0000E+00
+        4.5500E-02        7.0000E-03        1.6900E-05        0.0000E+00
+        4.9910E-02        7.0000E-03        1.0140E-05        0.0000E+00
+        5.4910E-02        7.0000E-03        2.6620E-05        0.0000E+00

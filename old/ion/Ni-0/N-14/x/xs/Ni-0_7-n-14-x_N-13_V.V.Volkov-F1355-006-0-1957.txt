@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 28-NI-0(7-N-14,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 28 
+#   A: 0 
+#   Nuclide: 28-NI-0 
+# Reaction: 
+#   Process: 7-N-14,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  3.0592e+01 MeV - 1.0666e+02 MeV 
+# Residual: 
+#   Z: 7 
+#   A: 13 
+#   Nuclide: 7-N-13 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1355-006-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-0(7-N-14,X)7-N-13,,SIG) 
+#   First author: V.V.Volkov 
+#   Institute:  (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference:  (J,ZET,33,595,1957) 
+#   Year:  1957 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F13/F1355.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1355
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.0592E+01        0.0000E+00        4.8480E-04        1.4544E-04
+        4.5066E+01        0.0000E+00        9.7403E-03        2.9221E-03
+        5.5101E+01        0.0000E+00        1.8241E-02        5.4723E-03
+        7.0347E+01        0.0000E+00        2.3768E-02        7.1304E-03
+        8.2080E+01        0.0000E+00        3.0093E-02        9.0279E-03
+        9.8513E+01        0.0000E+00        4.4201E-02        1.3260E-02
+        1.0666E+02        0.0000E+00        3.2623E-02        9.7869E-03

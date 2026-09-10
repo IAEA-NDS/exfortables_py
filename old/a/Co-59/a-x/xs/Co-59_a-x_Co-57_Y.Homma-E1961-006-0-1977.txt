@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 27-CO-59(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.6580e+01 MeV - 3.9350e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 57 
+#   Nuclide: 27-CO-57 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1961-006-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(A,X)27-CO-57,,SIG) 
+#   First author: Y.Homma 
+#   Institute:  (2JPNKYO): Kyoritsu College of Pharmacy, Tokyo 
+#   Reference:  (J,BCJ,50,1251,1977) 
+#   Year:  1977 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1961.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1961
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6580E+01        0.0000E+00        6.7180E-03        5.6140E-03
+        2.7960E+01        0.0000E+00        1.0560E-02        5.9490E-03
+        2.9150E+01        0.0000E+00        1.6740E-02        5.2790E-03
+        3.0610E+01        0.0000E+00        2.8830E-02        4.6190E-03
+        3.0940E+01        0.0000E+00        3.5400E-02        3.9650E-03
+        3.1950E+01        0.0000E+00        6.3370E-02        4.6240E-03
+        3.2220E+01        0.0000E+00        7.0280E-02        4.6190E-03
+        3.3340E+01        0.0000E+00        9.3950E-02        4.2950E-03
+        3.3520E+01        0.0000E+00        1.3450E-01        4.2890E-03
+        3.3810E+01        0.0000E+00        1.2690E-01        3.9540E-03
+        3.5130E+01        0.0000E+00        1.5650E-01        3.9650E-03
+        3.5520E+01        0.0000E+00        1.6270E-01        4.2840E-03
+        3.7420E+01        0.0000E+00        1.7650E-01        4.2840E-03
+        3.8090E+01        0.0000E+00        1.7510E-01        4.2790E-03
+        3.9350E+01        0.0000E+00        1.8290E-01        4.6300E-03

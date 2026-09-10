@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 69-TM-169(6-C-12,4N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 69 
+#   A: 169 
+#   Nuclide: 69-TM-169 
+# Reaction: 
+#   Process: 6-C-12,4N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.0000e+01 MeV - 8.3500e+01 MeV 
+# Residual: 
+#   Z: 75 
+#   A: 177 
+#   Nuclide: 75-RE-177 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0459-003-0 (entry-subentry-pointer) 
+#   Reaction code: (69-TM-169(6-C-12,4N)75-RE-177,,SIG) 
+#   First author: S.Chakrabarty 
+#   Institute:  (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference:  (J,NP/A,678,355,2000) 
+#   Year:  2000 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0459.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0459
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.0000E+01        1.1000E+00        1.2860E-01        1.0600E-02
+        6.5300E+01        1.1000E+00        5.0940E-01        2.1300E-02
+        6.8600E+01        1.1000E+00        5.0530E-01        2.3500E-02
+        7.4000E+01        1.1000E+00        6.0070E-01        3.8500E-02
+        7.8800E+01        1.1000E+00        2.8450E-01        2.7700E-02
+        8.3500E+01        1.1000E+00        1.5030E-01        8.1000E-03

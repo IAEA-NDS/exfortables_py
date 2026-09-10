@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 44-RU-104(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 44 
+#   A: 104 
+#   Nuclide: 44-RU-104 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3400e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 104 
+#   Nuclide: 43-TC-104 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22415-005-0 (entry-subentry-pointer) 
+#   Reaction code: (44-RU-104(N,P)43-TC-104,,SIG) 
+#   First author: Y.Kasugai 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((S,JAERI-M-92-027,268,1992)=(S,INDC(JPN)-157,268,1992)) 
+#   Year:  1992 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22415.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22415
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3400E+01        0.0000E+00        4.0200E-03        4.6000E-04
+        1.3650E+01        0.0000E+00        4.8500E-03        7.2000E-04
+        1.3880E+01        0.0000E+00        5.2600E-03        5.9000E-04
+        1.4280E+01        0.0000E+00        6.4100E-03        7.3000E-04
+        1.4580E+01        0.0000E+00        7.5300E-03        8.5000E-04
+        1.4870E+01        0.0000E+00        7.8100E-03        8.7000E-04

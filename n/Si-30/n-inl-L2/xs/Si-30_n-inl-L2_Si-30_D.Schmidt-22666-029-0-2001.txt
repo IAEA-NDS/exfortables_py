@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 14-SI-30(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 14 
+#   A: 30 
+#   Nuclide: 14-SI-30 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 52 
+#   Incident energy:  7.8900e+00 MeV - 1.3850e+01 MeV 
+# Residual: 
+#   Z: 14 
+#   A: 30 
+#   Nuclide: 14-SI-30 
+#   Level energy: 3.6740e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 22666-029-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-30(N,INL)14-SI-30,PAR,SIG) 
+#   First author: D.Schmidt 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (R,PTB-N-43,2001) 
+#   Year:  2001 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22666.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22666
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        7.8900E+00        1.6100E-01        2.4529E-01        2.8086E-02
+        8.3800E+00        1.4100E-01        3.0358E-01        3.1572E-02
+        8.8900E+00        1.4100E-01        2.0473E-01        1.8978E-02
+        9.4200E+00        1.4100E-01        2.2614E-01        2.6752E-02
+        9.8800E+00        1.2100E-01        1.6654E-01        3.2775E-02
+        1.0350E+01        1.2100E-01        1.7460E-01        3.5880E-02
+        1.0810E+01        1.2100E-01        2.3020E-01        3.9917E-02
+        1.1780E+01        1.2100E-01        1.3085E-01        1.9379E-02
+        1.2790E+01        1.2100E-01        1.4247E-01        2.8138E-02
+        1.3850E+01        1.2100E-01        1.3449E-01        5.6324E-02

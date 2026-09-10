@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 92-U-235(N,TOT)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,TOT 
+#   MF-MT number: 3 - 1 
+#   Incident energy:  7.0500e+00 MeV - 1.4250e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11155-034-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,TOT),,SIG) 
+#   First author: A.Bratenahl 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR,110,927,195805) 
+#   Year:  1958 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/111/11155.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11155
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.0500E+00        0.0000E+00        6.8400E+00        7.0000E-02
+        8.6700E+00        0.0000E+00        6.1200E+00        5.0000E-02
+        1.0740E+01        0.0000E+00        5.7300E+00        6.0000E-02
+        1.2670E+01        0.0000E+00        5.7500E+00        6.0000E-02
+        1.4250E+01        0.0000E+00        5.7900E+00        7.0000E-02

@@ -1,0 +1,53 @@
+# Header: 
+#   Title: 13-AL-27(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  2.8050e+00 MeV - 3.9620e+00 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 27 
+#   Nuclide: 12-MG-27 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10238-020-1 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,P)12-MG-27,,SIG) 
+#   First author: D.L.Smith 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,NSE,58,314,197511) 
+#   Year:  1975 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10238.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10238
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.8050E+00        5.8180E-02        3.5170E-04        6.3840E-05
+        2.8560E+00        5.8310E-02        4.5520E-04        4.1370E-05
+        2.9050E+00        5.8430E-02        7.2910E-04        6.4220E-05
+        2.9560E+00        5.8570E-02        7.8170E-04        3.7200E-05
+        3.0060E+00        5.8700E-02        1.0640E-03        6.6460E-05
+        3.0570E+00        5.8850E-02        1.0300E-03        6.2960E-05
+        3.1070E+00        5.8990E-02        2.0270E-03        1.1010E-04
+        3.1570E+00        5.9150E-02        2.1100E-03        1.0780E-04
+        3.2060E+00        5.9300E-02        2.1260E-03        1.8560E-04
+        3.2570E+00        5.9460E-02        2.8270E-03        1.3710E-04
+        3.3060E+00        5.9620E-02        2.0120E-03        1.0270E-04
+        3.3600E+00        5.9800E-02        2.2980E-03        1.2440E-04
+        3.4090E+00        5.9970E-02        5.1520E-03        3.0480E-04
+        3.4590E+00        6.0140E-02        7.4200E-03        3.8670E-04
+        3.5080E+00        6.0320E-02        8.1410E-03        4.7370E-04
+        3.5590E+00        6.0510E-02        5.3220E-03        2.4660E-04
+        3.6100E+00        6.0700E-02        7.0920E-03        3.3390E-04
+        3.6590E+00        6.0880E-02        7.2960E-03        3.3520E-04
+        3.7100E+00        6.1080E-02        6.3730E-03        3.0070E-04
+        3.7580E+00        6.1270E-02        9.6200E-03        4.4260E-04
+        3.8090E+00        6.1480E-02        6.2150E-03        2.8670E-04
+        3.8600E+00        6.1680E-02        4.4550E-03        2.0950E-04
+        3.9100E+00        6.1880E-02        5.8170E-03        2.8280E-04
+        3.9620E+00        6.2100E-02        7.5170E-03        3.5590E-04

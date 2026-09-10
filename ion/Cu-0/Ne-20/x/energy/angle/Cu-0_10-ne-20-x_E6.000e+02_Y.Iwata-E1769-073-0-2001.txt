@@ -1,0 +1,50 @@
+# Header: 
+#   Title: 29-CU-0(10-NE-20,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: 10-NE-20,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  6.0000e-04 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 1 
+#   Nuclide: 0-NN-1 
+#   Outgoing energy:  1.0000e+01 MeV - 1.7100e+03 MeV 
+# EXFOR BIB:
+#   Entry id: E1769-073-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(10-NE-20,X)0-NN-1,,DA/DE) 
+#   First author: Y.Iwata 
+#   Institute:  (2JPNIRS): National Institute for Quantum & Radiol.Sci.& Tech., Chiba 
+#   Reference:  (J,PR/C,64,(5),054609,200111) 
+#   Year:  2001 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E17/E1769.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1769
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.0000E+01        0.0000E+00        1.0000E+01        0.0000E+00        5.4000E-08        0.0000E+00
+        3.0000E+01        0.0000E+00        1.0000E+01        0.0000E+00        1.4100E-08        0.0000E+00
+        7.0000E+01        0.0000E+00        1.0000E+01        0.0000E+00        5.9700E-09        0.0000E+00
+        1.1000E+02        0.0000E+00        1.0000E+01        0.0000E+00        7.6000E-09        0.0000E+00
+        1.5000E+02        0.0000E+00        1.0000E+01        0.0000E+00        6.9600E-09        0.0000E+00
+        1.9000E+02        0.0000E+00        1.0000E+01        0.0000E+00        1.0700E-08        0.0000E+00
+        2.3000E+02        0.0000E+00        1.0000E+01        0.0000E+00        1.8800E-08        0.0000E+00
+        2.7000E+02        0.0000E+00        1.0000E+01        0.0000E+00        1.7000E-08        0.0000E+00
+        3.1000E+02        0.0000E+00        1.0000E+01        0.0000E+00        2.0000E-08        0.0000E+00
+        3.5000E+02        0.0000E+00        1.0000E+01        0.0000E+00        3.4700E-08        0.0000E+00
+        3.9000E+02        0.0000E+00        1.0000E+01        0.0000E+00        3.7900E-08        0.0000E+00
+        4.3000E+02        0.0000E+00        1.0000E+01        0.0000E+00        2.8900E-08        0.0000E+00
+        4.9000E+02        0.0000E+00        1.0000E+01        0.0000E+00        3.0900E-08        0.0000E+00
+        5.5000E+02        0.0000E+00        1.0000E+01        0.0000E+00        2.3000E-08        0.0000E+00
+        6.3000E+02        0.0000E+00        1.0000E+01        0.0000E+00        1.9000E-08        0.0000E+00
+        7.5000E+02        0.0000E+00        1.0000E+01        0.0000E+00        1.6900E-08        0.0000E+00
+        9.1000E+02        0.0000E+00        1.0000E+01        0.0000E+00        4.8300E-09        0.0000E+00
+        1.1100E+03        0.0000E+00        1.0000E+01        0.0000E+00        1.3600E-09        0.0000E+00
+        1.3100E+03        0.0000E+00        1.0000E+01        0.0000E+00        4.5500E-10        0.0000E+00
+        1.5100E+03        0.0000E+00        1.0000E+01        0.0000E+00        2.4200E-10        0.0000E+00
+        1.7100E+03        0.0000E+00        1.0000E+01        0.0000E+00        2.8400E-11        0.0000E+00

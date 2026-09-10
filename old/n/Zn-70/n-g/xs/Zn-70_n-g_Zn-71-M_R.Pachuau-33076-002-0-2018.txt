@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 30-ZN-70(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 30 
+#   A: 70 
+#   Nuclide: 30-ZN-70 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  4.0000e-01 MeV - 1.6900e+00 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 71 
+#   Nuclide: 30-ZN-71-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33076-002-0 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-70(N,G)30-ZN-71-M,,SIG) 
+#   First author: R.Pachuau 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,PR/C,97,064617,2018) 
+#   Year:  2018 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33076.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33076
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.0000E-01        1.5000E-01        1.8200E-03        1.1397E-04
+        7.0000E-01        1.0000E-01        1.9900E-03        6.3740E-05
+        9.6000E-01        1.5000E-01        1.8300E-03        1.6360E-04
+        1.6900E+00        1.5000E-01        1.3300E-03        9.5321E-05

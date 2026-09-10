@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 41-NB-93(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3300e+01 MeV - 1.9000e+01 MeV 
+# Residual: 
+#   Z: 41 
+#   A: 92 
+#   Nuclide: 41-NB-92-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10836-003-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(N,2N)41-NB-92-M,,SIG) 
+#   First author: C.G.Hudson 
+#   Institute:  (1USAAUB): Auburn University, Auburn, AL 
+#   Reference:  (J,ANE,5,589,78) 
+#   Year:  1978 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10836.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10836
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3300E+01        1.4000E-01        5.6200E-01        4.9000E-02
+        1.4100E+01        2.2000E-01        5.4200E-01        4.3000E-02
+        1.5200E+01        2.4000E-01        5.1500E-01        4.1000E-02
+        1.6000E+01        1.5000E-01        5.0300E-01        4.0000E-02
+        1.7100E+01        1.0000E-01        4.9600E-01        5.0000E-02
+        1.8400E+01        2.4000E-01        4.8300E-01        4.8000E-02
+        1.9000E+01        1.3000E-01        3.9100E-01        3.9000E-02

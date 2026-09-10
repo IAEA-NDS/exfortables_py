@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 28-NI-60(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102.0 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 28 
+#   A: 61 
+#   Nuclide: 28-NI-61 
+#   Level energy: 3.2315e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 13947-004-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(N,G)28-NI-61,PAR,SIG,,MXW) 
+#   First author: S.Raman 
+#   Institute:  (2SPNSPN): Spain 
+#   Reference:  (J,PR/C,70,044318,200410) 
+#   Year:  2004 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/139/13947.x4 
+#   nds:  https://nds.iaea.org/EXFOR/13947
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        2.5300E-08        0.0000E+00        2.3800E+00        9.0000E-02
+        2.5300E-08        0.0000E+00        1.8700E+00        9.0000E-02
+        2.5300E-08        0.0000E+00        2.8000E-01        8.0000E-02

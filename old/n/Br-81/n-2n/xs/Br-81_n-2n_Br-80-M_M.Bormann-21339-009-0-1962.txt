@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 35-BR-81(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 35 
+#   A: 81 
+#   Nuclide: 35-BR-81 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3200e+01 MeV - 1.9400e+01 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 80 
+#   Nuclide: 35-BR-80-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21339-009-0 (entry-subentry-pointer) 
+#   Reaction code: (35-BR-81(N,2N)35-BR-80-M,,SIG) 
+#   First author: M.Bormann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (J,ZP,166,477,1962) 
+#   Year:  1962 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21339.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21339
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3200E+01        3.0000E-01        6.1700E-01        1.3000E-02
+        1.4100E+01        4.0000E-01        7.1900E-01        1.2000E-02
+        1.4600E+01        4.0000E-01        7.5500E-01        1.2000E-02
+        1.5400E+01        4.0000E-01        8.0200E-01        1.1000E-02
+        1.5900E+01        4.0000E-01        8.0600E-01        1.0000E-02
+        1.6500E+01        4.0000E-01        8.1300E-01        1.1000E-02
+        1.7000E+01        4.0000E-01        8.4100E-01        1.0000E-02
+        1.7500E+01        4.0000E-01        8.2700E-01        1.0000E-02
+        1.8000E+01        4.0000E-01        7.5100E-01        9.0000E-03
+        1.9400E+01        3.0000E-01        6.4900E-01        9.0000E-03

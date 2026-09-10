@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 28-NI-60(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.8800e+01 MeV - 2.3500e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 63 
+#   Nuclide: 30-ZN-63 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0058-005-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(A,N)30-ZN-63,,SIG,,,EXP) 
+#   First author: M.Hille 
+#   Institute:  (2GERMUN): Technische Universitaet Muenchen 
+#   Reference:  (J,NP/A,198,625,1972) 
+#   Year:  1972 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B00/B0058.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0058
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.8800E+01        0.0000E+00        5.8300E-01        0.0000E+00
+        2.0400E+01        0.0000E+00        5.1200E-01        3.4000E-02
+        2.2000E+01        0.0000E+00        3.9500E-01        0.0000E+00
+        2.3500E+01        0.0000E+00        2.6800E-01        0.0000E+00

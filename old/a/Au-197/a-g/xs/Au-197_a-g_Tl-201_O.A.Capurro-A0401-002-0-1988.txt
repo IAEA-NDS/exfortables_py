@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 79-AU-197(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.1000e+01 MeV - 3.9700e+01 MeV 
+# Residual: 
+#   Z: 81 
+#   A: 201 
+#   Nuclide: 81-TL-201 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0401-002-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(A,G)81-TL-201,,SIG) 
+#   First author: O.A.Capurro 
+#   Institute:  (3ARGCNE): Comision Nacional de Energia Atomica, Buenos Aires 
+#   Reference:  (J,JRN/L,128,403,1988) 
+#   Year:  1988 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0401.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0401
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.9700E+01        5.0000E-01        6.4000E-04        5.0000E-04
+        3.5300E+01        5.0000E-01        1.7100E-03        3.7000E-04
+        3.0400E+01        5.0000E-01        3.9300E-03        6.9000E-04
+        2.4800E+01        5.0000E-01        5.0600E-03        8.8000E-04
+        2.2200E+01        5.0000E-01        4.1700E-03        7.1000E-04
+        1.4600E+01        5.0000E-01        1.1500E-03        2.3000E-04
+        1.1000E+01        5.0000E-01        1.2000E-04        7.0000E-05

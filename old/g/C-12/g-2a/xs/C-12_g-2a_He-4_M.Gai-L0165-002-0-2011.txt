@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 6-C-12(G,2A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: G,2A 
+#   MF-MT number: 3 - 108 
+#   Incident energy:  9.4000e+00 MeV - 1.0600e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: L0165-002-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(G,2A)2-HE-4,,SIG) 
+#   First author: M.Gai 
+#   Institute:  (1USAUCO): University of Connecticut, Groton, CT 
+#   Reference:  (J,JP/CS,267,012046,2011) 
+#   Year:  2011 
+#   Facility:  (ESTRG): Electron storage ring 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L01/L0165.x4 
+#   nds:  https://nds.iaea.org/EXFOR/L0165
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.4000E+00        3.0000E-01        3.2000E-06        8.0000E-07
+        9.6000E+00        3.0000E-01        5.2000E-06        1.3000E-06
+        9.8000E+00        3.0000E-01        5.4000E-06        1.5000E-06
+        1.0600E+01        3.0000E-01        2.7000E-06        0.0000E+00

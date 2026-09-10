@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 16-S-32(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 16 
+#   A: 32 
+#   Nuclide: 16-S-32 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5920e+01 MeV - 1.6420e+01 MeV 
+# Residual: 
+#   Z: 16 
+#   A: 31 
+#   Nuclide: 16-S-31 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20900-002-0 (entry-subentry-pointer) 
+#   Reaction code: (16-S-32(N,2N)16-S-31,,SIG) 
+#   First author: M.Bormann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (P,EANDC(E)-66,42,1966) 
+#   Year:  1966 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20900.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20900
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5920E+01        2.6000E-01        1.4500E-04        1.4000E-05
+        1.6170E+01        2.8000E-01        2.8000E-04        2.7000E-05
+        1.6420E+01        3.0000E-01        5.8000E-04        5.7000E-05

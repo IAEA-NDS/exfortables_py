@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 29-CU-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.9926e+01 MeV - 3.1139e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 64 
+#   Nuclide: 29-CU-64 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0119-005-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(A,X)29-CU-64,,SIG) 
+#   First author: J.Zweit 
+#   Institute:  (2UK MAN): University of Manchester, England 
+#   Reference:  (J,ARI,38,499,1987) 
+#   Year:  1987 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D01/D0119.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0119
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.9926E+01        7.0000E-02        3.9771E-03        6.5725E-04
+        2.1480E+01        7.0000E-02        1.1284E-02        1.3581E-03
+        2.2913E+01        7.0000E-02        2.0050E-02        2.5126E-03
+        2.4605E+01        7.0000E-02        3.2230E-02        2.3110E-03
+        2.6080E+01        7.0000E-02        5.0013E-02        4.8082E-03
+        2.7400E+01        7.0000E-02        7.5913E-02        1.0259E-02
+        2.8746E+01        7.0000E-02        8.1578E-02        9.4201E-03
+        2.9928E+01        7.0000E-02        9.6493E-02        1.1142E-02
+        3.1139E+01        7.0000E-02        1.1769E-01        1.1885E-02

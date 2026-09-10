@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 29-CU-0(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.9430e+01 MeV - 2.2850e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 59 
+#   Nuclide: 26-FE-59 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E2467-006-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(D,X)26-FE-59,,SIG) 
+#   First author: M.U.Khandaker 
+#   Institute:  (3MALMAL): Malaysia 
+#   Reference:  (J,JRN,302,759,2014) 
+#   Year:  2014 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E24/E2467.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2467
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.9430E+01        1.5000E-01        5.0000E-05        1.0000E-05
+        2.0240E+01        1.4000E-01        7.0000E-05        1.0000E-05
+        2.1010E+01        1.4000E-01        9.0000E-05        1.0000E-05
+        2.2850E+01        1.3000E-01        1.3000E-04        2.0000E-05

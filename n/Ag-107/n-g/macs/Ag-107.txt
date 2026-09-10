@@ -1,0 +1,36 @@
+# Header: 
+#   title: 47-AG-107(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 47 
+#   A: 107 
+#   Nuclide: 47-AG-107 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.13883E+00  |   3.72484E-01   (N = 6)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.09947E+00 +/-  5.28772E-02   (N = 6)
+#   MXW Simple Mean           |  Simple Stdev        : 8.06000E-01  |   2.82843E-02   (N = 2)
+#   MXW Weighted Mean        +/- Weighted Error      : 8.05344E-01 +/-  4.31161E-02   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11010-011-0         V.Hummel                1951   2.4000E-02   0.0000E+00   1.1000E+00   1.8700E-01                
+11399-029-0         R.L.Macklin             1957   2.4000E-02   0.0000E+00   9.3000E-01   1.8000E-01                
+40421-018-0         V.N.Kononov             1958   2.4000E-02   0.0000E+00   1.3450E+00   9.1000E-02                
+20205-008-0         J.F.Vervier             1959   2.5000E-02   0.0000E+00   1.7880E+00   2.0800E-01                
+30063-003-0         A.K.Chaubey             1965   2.4000E-02   0.0000E+00   8.4000E-01   9.0000E-02                
+13497-003-0         W.W.Campbell            1970   2.4000E-02   0.0000E+00   8.3000E-01   1.8000E-01                
+22306-002-0         H.Beer                  1994   2.5000E-02   0.0000E+00   7.8600E-01   6.0000E-02     MXW        
+22306-004-2         H.Beer                  1994   2.5000E-02   0.0000E+00   8.2600E-01   6.2000E-02     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0102-200-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   7.9200E-01   3.0000E-02     MXW   RECOM

@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 8-O-16(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 800.0 
+#   Incident energy:  1.2800e+01 MeV - 1.5000e+01 MeV 
+# Residual: 
+#   Z: 6 
+#   A: 13 
+#   Nuclide: 6-C-13 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 23005-004-1 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(N,A)6-C-13,PAR,SIG) 
+#   First author: T.Sanami 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,NIM/A,440,403,2000) 
+#   Year:  2000 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23005.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23005
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.2800E+01        0.0000E+00        2.4800E-02        2.0900E-03
+        1.3700E+01        0.0000E+00               NAN        0.0000E+00
+        1.4100E+01        0.0000E+00               NAN        0.0000E+00
+        1.5000E+01        0.0000E+00               NAN        0.0000E+00

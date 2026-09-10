@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 22-TI-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 22 
+#   A: 0 
+#   Nuclide: 22-TI-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  8.9660e+01 MeV - 1.7107e+02 MeV 
+# Residual: 
+#   Z: 20 
+#   A: 47 
+#   Nuclide: 20-CA-47 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0148-012-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-0(A,X)20-CA-47,CUM,SIG) 
+#   First author: R.Michel 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,RCA,32,173,1983) 
+#   Year:  1983 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A01/A0148.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0148
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.7107E+02        3.4000E-01        3.3700E-04        3.4000E-05
+        1.6218E+02        5.1000E-01        3.1300E-04        4.0000E-05
+        1.5282E+02        6.2000E-01        2.8900E-04        3.5000E-05
+        1.4448E+02        7.0000E-01        2.8100E-04        4.2000E-05
+        1.3575E+02        7.7000E-01        2.6300E-04        3.9000E-05
+        1.2656E+02        8.4000E-01        2.5900E-04        3.1000E-05
+        1.1821E+02        8.9000E-01        2.2600E-04        2.5000E-05
+        1.0935E+02        9.6000E-01        1.7800E-04        3.4000E-05
+        9.9880E+01        1.0100E+00        1.6800E-04        3.0000E-05
+        8.9660E+01        1.0800E+00        6.5000E-05        1.4000E-05

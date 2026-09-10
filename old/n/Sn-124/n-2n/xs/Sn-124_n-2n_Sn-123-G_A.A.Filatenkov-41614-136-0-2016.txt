@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 50-SN-124(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 50 
+#   A: 124 
+#   Nuclide: 50-SN-124 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3450e+01 MeV - 1.4880e+01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 123 
+#   Nuclide: 50-SN-123-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41614-136-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-124(N,2N)50-SN-123-G,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,INDC(CCP)-0460,2016) 
+#   Year:  2016 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41614
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3450E+01        0.0000E+00        1.2140E+00        2.1366E-01
+        1.3880E+01        0.0000E+00        1.2560E+00        2.3487E-01
+        1.4050E+01        0.0000E+00        1.3310E+00        2.5821E-01
+        1.4280E+01        0.0000E+00        1.2990E+00        2.4941E-01
+        1.4490E+01        0.0000E+00        1.2530E+00        2.2930E-01
+        1.4700E+01        0.0000E+00        1.2280E+00        2.0876E-01
+        1.4880E+01        0.0000E+00        1.3150E+00        2.5117E-01

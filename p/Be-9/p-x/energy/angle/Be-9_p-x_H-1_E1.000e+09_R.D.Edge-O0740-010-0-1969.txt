@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 4-BE-9(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 4 
+#   A: 9 
+#   Nuclide: 4-BE-9 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.0000e+03 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 1 
+#   Nuclide: 1-H-1 
+#   Outgoing energy:  8.3900e+01 MeV - 8.2410e+02 MeV 
+# EXFOR BIB:
+#   Entry id: O0740-010-0 (entry-subentry-pointer) 
+#   Reaction code: (4-BE-9(P,X)1-H-1,EM,DA/DE) 
+#   First author: R.D.Edge 
+#   Institute:  (1USASCA): University of South Carolina, Columbia, SC 
+#   Reference:  (J,PR,183,849,1969) 
+#   Year:  1969 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O07/O0740.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0740
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        8.3900E+01        2.8000E+00        3.2000E+01        0.0000E+00        7.9000E-11        7.1100E-13
+        1.7420E+02        2.8000E+00        3.2000E+01        0.0000E+00        1.3100E-10        1.1790E-12
+        3.5650E+02        2.8000E+00        3.2000E+01        0.0000E+00        9.9700E-11        8.9730E-13
+        5.8680E+02        2.8000E+00        3.2000E+01        0.0000E+00        9.4800E-11        8.5320E-13
+        8.2410E+02        2.8000E+00        3.2000E+01        0.0000E+00        1.6160E-11        1.4544E-13

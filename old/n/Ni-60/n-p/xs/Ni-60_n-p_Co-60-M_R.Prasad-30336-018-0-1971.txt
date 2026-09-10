@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 28-NI-60(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 60 
+#   Nuclide: 27-CO-60-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30336-018-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(N,P)27-CO-60-M,,SIG) 
+#   First author: R.Prasad 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  (J,NC/A,3,467,1971) 
+#   Year:  1971 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30336.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30336
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4800E+01        5.0000E-01        2.5000E-02        6.0000E-03

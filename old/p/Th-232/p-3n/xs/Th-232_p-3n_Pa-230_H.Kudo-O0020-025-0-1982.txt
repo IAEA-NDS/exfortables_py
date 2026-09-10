@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 90-TH-232(P,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: P,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  1.5400e+01 MeV - 2.1100e+01 MeV 
+# Residual: 
+#   Z: 91 
+#   A: 230 
+#   Nuclide: 91-PA-230 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0020-025-0 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(P,3N)91-PA-230,,SIG) 
+#   First author: H.Kudo 
+#   Institute:  (2JPNTOK): University of Tokyo, Tokyo 
+#   Reference:  (J,PR/C,25,3011,1982) 
+#   Year:  1982 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O00/O0020.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0020
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5400E+01        3.0000E-01        1.7000E-02        0.0000E+00
+        1.5900E+01        3.0000E-01        4.8000E-02        0.0000E+00
+        1.6600E+01        3.0000E-01        1.0500E-01        0.0000E+00
+        1.7400E+01        3.0000E-01        1.8700E-01        0.0000E+00
+        1.7900E+01        3.0000E-01        2.6000E-01        0.0000E+00
+        1.8500E+01        3.0000E-01        3.2000E-01        0.0000E+00
+        1.9200E+01        3.0000E-01        3.6000E-01        0.0000E+00
+        1.9600E+01        3.0000E-01        3.8000E-01        0.0000E+00
+        2.0200E+01        3.0000E-01        4.2000E-01        0.0000E+00
+        2.1100E+01        3.0000E-01        3.8000E-01        0.0000E+00

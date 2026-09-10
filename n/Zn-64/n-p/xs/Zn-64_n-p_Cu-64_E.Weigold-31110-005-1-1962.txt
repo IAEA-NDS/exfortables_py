@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 30-ZN-64(N,P)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-08-01 
+#   Date created: 2026-09-07 
 # Target: 
 #   Z: 30 
 #   A: 64 
 #   Nuclide: 30-ZN-64 
 # Reaction: 
 #   Process: N,P 
-#   MF-MT number: 3 - 103 
+#   MF-MT number: 3 - 103.0 
 #   Incident energy:  1.3860e+01 MeV - 1.4770e+01 MeV 
 # Residual: 
 #   Z: 29 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/311/31110.x4 
 #   nds:  https://nds.iaea.org/EXFOR/31110
 #
-#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
         1.3860E+01        1.0000E-01        1.9000E-01        1.5200E-02
         1.4110E+01        1.0000E-01        1.9100E-01        1.5280E-02
         1.4370E+01        1.5000E-01        1.7700E-01        1.4160E-02

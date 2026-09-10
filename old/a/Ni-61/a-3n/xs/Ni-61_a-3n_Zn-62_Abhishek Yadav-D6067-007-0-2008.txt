@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 28-NI-61(A,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 28 
+#   A: 61 
+#   Nuclide: 28-NI-61 
+# Reaction: 
+#   Process: A,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  3.6000e+01 MeV - 4.0000e+01 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 62 
+#   Nuclide: 30-ZN-62 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6067-007-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-61(A,3N)30-ZN-62,,SIG) 
+#   First author: Abhishek Yadav 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  (J,PR/C,78,044606,2008) 
+#   Year:  2008 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6067.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6067
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        3.6000E+01        7.0000E-01        2.0000E-03        8.0000E-04
+        4.0000E+01        7.0000E-01        1.0000E-02        7.0000E-04

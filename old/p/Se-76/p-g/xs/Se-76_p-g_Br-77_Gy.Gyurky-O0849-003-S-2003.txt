@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 34-SE-76(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 34 
+#   A: 76 
+#   Nuclide: 34-SE-76 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.4560e+00 MeV - 3.5480e+00 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 77 
+#   Nuclide: 35-BR-77 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0849-003-S (entry-subentry-pointer) 
+#   Reaction code: (34-SE-76(P,G)35-BR-77,,SIG) 
+#   First author: Gy.Gyurky 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,PR/C,68,055803,2003) 
+#   Year:  2003 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O08/O0849.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0849
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        1.4560E+00        2.7000E-02        9.5000E-06        8.0000E-07
+        1.5690E+00        1.2000E-02        1.0400E-05        9.0000E-07
+        1.6580E+00        2.2000E-02        2.1800E-05        2.2000E-06
+        1.7670E+00        1.2000E-02        5.9600E-05        6.2000E-06
+        1.8590E+00        2.0000E-02        5.3800E-05        5.3000E-06
+        1.9540E+00        2.2000E-02        9.3100E-05        9.2000E-06
+        2.0580E+00        1.8000E-02        1.4700E-04        1.4000E-05
+        2.1600E+00        1.4000E-02        2.0700E-04        2.0000E-05
+        2.3110E+00        1.1000E-02        7.9600E-04        7.8000E-05
+        2.4570E+00        1.3000E-02        1.1820E-03        1.1600E-04
+        2.7530E+00        1.3000E-02        3.2000E-03        3.1200E-04
+        3.0500E+00        1.2000E-02        6.4670E-03        6.3100E-04
+        3.3490E+00        8.0000E-03        1.1529E-02        1.1430E-03
+        3.5480E+00        6.0000E-03        1.7252E-02        2.0440E-03

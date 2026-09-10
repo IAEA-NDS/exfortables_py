@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 29-CU-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.5500e+01 MeV - 3.6300e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 67 
+#   Nuclide: 31-GA-67 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4276-003-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(A,X)31-GA-67,,SIG) 
+#   First author: F.Szelecsenyi 
+#   Institute:  (2JPNJPN): Japan 
+#   Reference:  (J,RCA,100,5,2012) 
+#   Year:  2012 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4276.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4276
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.5500E+01        1.3000E+00        5.6000E-03        7.0000E-04
+        1.7200E+01        1.2000E+00        3.1600E-02        3.5000E-03
+        1.9500E+01        1.1000E+00        1.1370E-01        1.2400E-02
+        2.1900E+01        1.0000E+00        2.0680E-01        2.2500E-02
+        2.3400E+01        1.0000E+00        2.5880E-01        2.8200E-02
+        2.4800E+01        9.0000E-01        2.7630E-01        3.0100E-02
+        2.7000E+01        8.0000E-01        2.8440E-01        3.1000E-02
+        2.8300E+01        8.0000E-01        3.0250E-01        3.3000E-02
+        3.0300E+01        7.0000E-01        2.6650E-01        2.9100E-02
+        3.3500E+01        6.0000E-01        2.1630E-01        2.3600E-02
+        3.6300E+01        5.0000E-01        1.4210E-01        1.5600E-02

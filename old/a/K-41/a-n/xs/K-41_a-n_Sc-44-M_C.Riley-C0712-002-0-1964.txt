@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 19-K-41(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 19 
+#   A: 41 
+#   Nuclide: 19-K-41 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  8.0000e+00 MeV - 1.9000e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 44 
+#   Nuclide: 21-SC-44-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0712-002-0 (entry-subentry-pointer) 
+#   Reaction code: (19-K-41(A,N)21-SC-44-M,,SIG) 
+#   First author: C.Riley 
+#   Institute:  (1USAFSU): Florida State University, Tallahassee, FL 
+#   Reference:  (J,PR,135,B1340,196409) 
+#   Year:  1964 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C07/C0712.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0712
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E+00        0.0000E+00        1.7000E-02        2.5500E-03
+        9.0000E+00        0.0000E+00        5.3000E-02        7.9500E-03
+        1.0000E+01        0.0000E+00        7.9000E-02        1.1850E-02
+        1.1000E+01        0.0000E+00        1.2400E-01        1.8600E-02
+        1.2000E+01        0.0000E+00        1.3800E-01        2.0700E-02
+        1.3000E+01        0.0000E+00        1.7100E-01        2.5650E-02
+        1.4000E+01        0.0000E+00        1.8900E-01        2.8350E-02
+        1.5000E+01        0.0000E+00        1.9900E-01        2.9850E-02
+        1.6000E+01        0.0000E+00        2.0900E-01        3.1350E-02
+        1.7000E+01        0.0000E+00        2.0500E-01        3.0750E-02
+        1.8000E+01        0.0000E+00        1.9000E-01        2.8500E-02
+        1.9000E+01        0.0000E+00        1.4000E-01        2.1000E-02

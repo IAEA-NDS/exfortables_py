@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 49-IN-115(N,T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 49 
+#   A: 115 
+#   Nuclide: 49-IN-115 
+# Reaction: 
+#   Process: N,T 
+#   MF-MT number: 3 - 105 
+#   Incident energy:  1.6320e+01 MeV - 1.9020e+01 MeV 
+# Residual: 
+#   Z: 48 
+#   A: 113 
+#   Nuclide: 48-CD-113 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22183-004-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-115(N,T)48-CD-113,,SIG) 
+#   First author: R.Woelfle 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,RCA,50,5,1990) 
+#   Year:  1990 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22183.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22183
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.9020E+01        5.6000E-01        1.3900E-03        1.5000E-04
+        1.7680E+01        7.7000E-01        4.7000E-04        5.0000E-05
+        1.6320E+01        5.8000E-01        2.3000E-04        3.0000E-05

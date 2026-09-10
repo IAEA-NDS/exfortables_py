@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 18-AR-37(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 18 
+#   A: 37 
+#   Nuclide: 18-AR-37 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.2430e-08 MeV - 5.7270e-07 MeV 
+# Residual: 
+#   Z: 16 
+#   A: 34 
+#   Nuclide: 16-S-34 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23505-002-0 (entry-subentry-pointer) 
+#   Reaction code: (18-AR-37(N,A)16-S-34,,SIG) 
+#   First author: G.Goeminne 
+#   Institute:  (2BLGGHT): Universiteit Gent, Gent 
+#   Reference:  (J,NP/A,678,11,2000) 
+#   Year:  2000 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/235/23505.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23505
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2430E-08        1.0193E-10        1.5690E+03        2.3020E+02
+        1.5140E-08        1.2415E-10        1.4480E+03        2.1240E+02
+        1.8800E-08        1.5416E-10        1.3140E+03        1.5680E+02
+        2.3790E-08        1.9508E-10        1.1280E+03        1.2440E+02
+        3.1850E-08        2.6117E-10        9.3660E+02        7.8530E+01
+        4.3860E-08        3.5965E-10        8.1000E+02        7.5010E+01
+        6.4510E-08        5.2898E-10        6.4630E+02        7.1310E+01
+        1.0530E-07        8.6346E-10        5.3680E+02        5.4450E+01
+        2.0340E-07        1.6679E-09        3.8570E+02        4.2550E+01
+        5.7270E-07        4.6961E-09        2.2650E+02        3.3220E+01

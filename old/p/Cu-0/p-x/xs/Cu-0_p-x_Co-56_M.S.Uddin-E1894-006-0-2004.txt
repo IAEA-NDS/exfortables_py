@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 29-CU-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 29 
+#   A: 0 
+#   Nuclide: 29-CU-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.3435e+01 MeV - 6.8788e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 56 
+#   Nuclide: 27-CO-56 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1894-006-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-0(P,X)27-CO-56,CUM,SIG) 
+#   First author: M.S.Uddin 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,ARI,60,911,2004) 
+#   Year:  2004 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E18/E1894.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1894
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.3435E+01        0.0000E+00        3.6000E-04        7.0000E-05
+        5.7552E+01        0.0000E+00        1.9300E-03        2.0000E-04
+        6.1472E+01        0.0000E+00        5.1200E-03        5.0000E-04
+        6.5194E+01        0.0000E+00        9.1600E-03        8.0000E-04
+        6.8788E+01        0.0000E+00        1.2200E-02        1.1000E-03

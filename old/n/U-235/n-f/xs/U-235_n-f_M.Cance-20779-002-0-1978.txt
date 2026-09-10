@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 92-U-235(N,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: N,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.3900e+01 MeV - 1.4600e+01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide:  
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20779-002-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(N,F),,SIG) 
+#   First author: M.Cance 
+#   Institute:  (2FR BRC): CEA/DAM Ile-de-France, Bruyeres-le-Chatel, Arpajon 
+#   Reference:  (J,NSE,68,197,1978) 
+#   Year:  1978 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20779.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20779
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3900E+01        1.3000E-01        2.0620E+00        3.9000E-02
+        1.4600E+01        1.3000E-01        2.0630E+00        3.9000E-02

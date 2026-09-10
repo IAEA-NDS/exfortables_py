@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 65-TB-159(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 65 
+#   A: 159 
+#   Nuclide: 65-TB-159 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 64 
+#   A: 159 
+#   Nuclide: 64-GD-159 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32716-003-0 (entry-subentry-pointer) 
+#   Reaction code: (65-TB-159(N,P)64-GD-159,,SIG) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRHXU): Hexi University , Zhangye 
+#   Reference:  (J,JRN,300,819,2014) 
+#   Year:  2014 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/327/32716.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32716
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3500E+01        2.0000E-01        3.1000E-03        4.0000E-04
+        1.4100E+01        2.0000E-01        4.5000E-03        6.0000E-04
+        1.4800E+01        2.0000E-01        6.1000E-03        5.0000E-04

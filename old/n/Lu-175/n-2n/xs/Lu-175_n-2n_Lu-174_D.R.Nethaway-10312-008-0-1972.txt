@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 71-LU-175(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 71 
+#   A: 175 
+#   Nuclide: 71-LU-175 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3800e+01 MeV - 1.4420e+01 MeV 
+# Residual: 
+#   Z: 71 
+#   A: 174 
+#   Nuclide: 71-LU-174 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10312-008-0 (entry-subentry-pointer) 
+#   Reaction code: (71-LU-175(N,2N)71-LU-174,,SIG) 
+#   First author: D.R.Nethaway 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,NP/A,190,635,1972) 
+#   Year:  1972 
+#   Facility:  (ICTR): Insulated core transformer accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/103/10312.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10312
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3800E+01        0.0000E+00        1.6570E+00        0.0000E+00
+        1.3840E+01        0.0000E+00        1.8270E+00        0.0000E+00
+        1.4010E+01        0.0000E+00        1.7940E+00        0.0000E+00
+        1.4040E+01        0.0000E+00        1.7480E+00        0.0000E+00
+        1.4100E+01        0.0000E+00        1.6760E+00        1.7000E-01
+        1.4210E+01        0.0000E+00        1.8120E+00        0.0000E+00
+        1.4390E+01        0.0000E+00        1.6770E+00        0.0000E+00
+        1.4420E+01        0.0000E+00        1.7930E+00        0.0000E+00

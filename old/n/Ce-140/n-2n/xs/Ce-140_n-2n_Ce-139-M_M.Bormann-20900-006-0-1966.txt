@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 58-CE-140(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 58 
+#   A: 140 
+#   Nuclide: 58-CE-140 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2880e+01 MeV - 1.6900e+01 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 139 
+#   Nuclide: 58-CE-139-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20900-006-0 (entry-subentry-pointer) 
+#   Reaction code: (58-CE-140(N,2N)58-CE-139-M,,SIG) 
+#   First author: M.Bormann 
+#   Institute:  (2GERHAM): Hamburg, Universitaet 
+#   Reference:  (P,EANDC(E)-66,42,1966) 
+#   Year:  1966 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20900.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20900
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2880E+01        2.7000E-01        1.2300E+00        1.1800E-01
+        1.3080E+01        2.5000E-01        1.3900E+00        1.3300E-01
+        1.3480E+01        2.6000E-01        1.4400E+00        1.3800E-01
+        1.3980E+01        2.7000E-01        1.2300E+00        1.1800E-01
+        1.4250E+01        1.4000E-01        1.3700E+00        1.3100E-01
+        1.4330E+01        3.0000E-01        1.1900E+00        1.1400E-01
+        1.4530E+01        1.4000E-01        1.2500E+00        1.2000E-01
+        1.4680E+01        3.0000E-01        1.1600E+00        1.1100E-01
+        1.4820E+01        1.6000E-01        1.1500E+00        1.1000E-01
+        1.5080E+01        1.7000E-01        1.1400E+00        1.0900E-01
+        1.5170E+01        3.0000E-01        1.1300E+00        1.0800E-01
+        1.5300E+01        1.8000E-01        1.1800E+00        1.1300E-01
+        1.5420E+01        3.0000E-01        1.0700E+00        1.0300E-01
+        1.5540E+01        1.9000E-01        1.0800E+00        1.0400E-01
+        1.5760E+01        1.9000E-01        1.1000E+00        1.0600E-01
+        1.5930E+01        2.1000E-01        1.0250E+00        9.8300E-02
+        1.6170E+01        2.8000E-01        9.8600E-01        9.4700E-02
+        1.6650E+01        2.0000E-01        1.0150E+00        9.7400E-02
+        1.6900E+01        2.5000E-01        9.3800E-01        9.0000E-02

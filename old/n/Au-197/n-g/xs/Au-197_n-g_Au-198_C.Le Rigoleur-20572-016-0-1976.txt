@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 79-AU-197(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 79 
+#   A: 197 
+#   Nuclide: 79-AU-197 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.9750e-02 MeV - 3.2800e-02 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 198 
+#   Nuclide: 79-AU-198 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20572-016-0 (entry-subentry-pointer) 
+#   Reaction code: (79-AU-197(N,G)79-AU-198,,SIG,,AV) 
+#   First author: C.Le Rigoleur 
+#   Institute:  (2FR CAD): CEA/Cadarache 
+#   Reference:  (R,CEA-R-4788,1976) 
+#   Year:  1976 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20572.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20572
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.9750E-02        0.0000E+00        5.9300E-01        2.1000E-02
+        3.0450E-02        0.0000E+00        5.9100E-01        2.1000E-02
+        3.1200E-02        0.0000E+00        5.9000E-01        2.1000E-02
+        3.2800E-02        0.0000E+00        5.9000E-01        2.1000E-02

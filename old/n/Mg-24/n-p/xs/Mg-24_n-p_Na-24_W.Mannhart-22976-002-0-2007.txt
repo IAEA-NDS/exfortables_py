@@ -1,0 +1,55 @@
+# Header: 
+#   Title: 12-MG-24(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 12 
+#   A: 24 
+#   Nuclide: 12-MG-24 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  8.3340e+00 MeV - 1.4740e+01 MeV 
+# Residual: 
+#   Z: 11 
+#   A: 24 
+#   Nuclide: 11-NA-24 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22976-002-0 (entry-subentry-pointer) 
+#   Reaction code: (12-MG-24(N,P)11-NA-24,,SIG) 
+#   First author: W.Mannhart 
+#   Institute:  (2GERPTB): Physikalisch-Technische Bundesanstalt, Braunschweig 
+#   Reference:  (R,PTB-N-53,2007) 
+#   Year:  2007 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22976.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22976
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.3340E+00        0.0000E+00        1.1810E-01        3.7201E-03
+        8.5560E+00        0.0000E+00        1.1360E-01        3.6466E-03
+        8.9070E+00        0.0000E+00        1.2100E-01        3.8599E-03
+        9.1110E+00        0.0000E+00        1.2760E-01        4.1342E-03
+        9.2650E+00        0.0000E+00        1.1700E-01        3.7674E-03
+        9.5470E+00        0.0000E+00        1.3480E-01        4.3136E-03
+        9.8370E+00        0.0000E+00        1.3290E-01        4.3724E-03
+        1.0069E+01        0.0000E+00        1.4740E-01        4.8347E-03
+        1.0264E+01        0.0000E+00        1.5520E-01        5.0130E-03
+        1.0551E+01        0.0000E+00        1.5290E-01        4.9234E-03
+        1.0751E+01        0.0000E+00        1.5900E-01        5.1834E-03
+        1.0998E+01        0.0000E+00        1.5380E-01        5.0600E-03
+        1.1223E+01        0.0000E+00        1.6460E-01        5.6293E-03
+        1.1399E+01        0.0000E+00        1.6870E-01        5.7527E-03
+        1.1654E+01        0.0000E+00        1.9060E-01        6.6138E-03
+        1.1839E+01        0.0000E+00        1.6840E-01        5.7761E-03
+        1.2116E+01        0.0000E+00        1.6450E-01        5.8891E-03
+        1.2273E+01        0.0000E+00        1.7140E-01        6.1018E-03
+        1.2446E+01        0.0000E+00        1.9670E-01        7.1402E-03
+        1.2703E+01        0.0000E+00        1.8870E-01        6.9253E-03
+        1.2976E+01        0.0000E+00        1.9420E-01        7.3408E-03
+        1.3187E+01        0.0000E+00        1.8270E-01        6.9243E-03
+        1.3425E+01        0.0000E+00        2.1350E-01        8.3906E-03
+        1.3609E+01        0.0000E+00        2.1050E-01        8.4832E-03
+        1.4147E+01        0.0000E+00        1.9760E-01        8.2399E-03
+        1.4740E+01        0.0000E+00        1.6630E-01        7.0844E-03

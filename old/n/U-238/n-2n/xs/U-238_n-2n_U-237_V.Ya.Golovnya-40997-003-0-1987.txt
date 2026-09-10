@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 92-U-238(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16.0 
+#   Incident energy:  1.4760e+01 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 237 
+#   Nuclide: 92-U-237 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 40997-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,2N)92-U-237,,SIG) 
+#   First author: V.Ya.Golovnya 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (C,87KIEV,3,281,1987) 
+#   Year:  1987 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40997.x4 
+#   nds:  https://nds.iaea.org/EXFOR/40997
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4760E+01        2.5000E-01        7.0400E-01        6.4000E-02

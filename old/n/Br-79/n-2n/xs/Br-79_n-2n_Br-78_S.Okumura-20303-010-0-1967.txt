@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 35-BR-79(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 35 
+#   A: 79 
+#   Nuclide: 35-BR-79 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3390e+01 MeV - 1.4960e+01 MeV 
+# Residual: 
+#   Z: 35 
+#   A: 78 
+#   Nuclide: 35-BR-78 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20303-010-0 (entry-subentry-pointer) 
+#   Reaction code: (35-BR-79(N,2N)35-BR-78,,SIG) 
+#   First author: S.Okumura 
+#   Institute:  (2JPNKTO): Kyoto University , Kyoto 
+#   Reference:  (J,NP/A,93,74,1967) 
+#   Year:  1967 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20303.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20303
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3390E+01        6.0000E-02        7.6500E-01        1.8000E-02
+        1.3460E+01        8.0000E-02        8.2100E-01        1.8000E-02
+        1.3860E+01        8.0000E-02        8.4300E-01        3.6000E-02
+        1.4020E+01        8.0000E-02        8.6800E-01        1.2000E-02
+        1.4160E+01        8.0000E-02        9.2000E-01        3.0000E-02
+        1.4350E+01        8.0000E-02        9.3300E-01        1.5000E-02
+        1.4590E+01        8.0000E-02        9.9700E-01        1.4000E-02
+        1.4790E+01        9.0000E-02        1.0130E+00        1.4000E-02
+        1.4960E+01        1.0000E-01        1.0370E+00        2.0000E-02

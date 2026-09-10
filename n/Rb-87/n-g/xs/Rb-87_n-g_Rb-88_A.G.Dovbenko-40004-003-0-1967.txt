@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 37-RB-87(N,G)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-08-01 
+#   Date created: 2026-09-07 
 # Target: 
 #   Z: 37 
 #   A: 87 
 #   Nuclide: 37-RB-87 
 # Reaction: 
 #   Process: N,G 
-#   MF-MT number: 3 - 102 
+#   MF-MT number: 3 - 102.0 
 #   Incident energy:  1.1000e-02 MeV - 2.6460e+00 MeV 
 # Residual: 
 #   Z: 37 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40004.x4 
 #   nds:  https://nds.iaea.org/EXFOR/40004
 #
-#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
         1.1000E-02        0.0000E+00        5.1500E-02        3.9140E-03
         2.4000E-02        0.0000E+00        3.4000E-02        2.1080E-03
         5.0000E-02        0.0000E+00        1.8000E-02        2.1420E-03

@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 59-PR-141(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 59 
+#   A: 141 
+#   Nuclide: 59-PR-141 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3430e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 58 
+#   A: 141 
+#   Nuclide: 58-CE-141 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22156-019-0 (entry-subentry-pointer) 
+#   Reaction code: (59-PR-141(N,P)58-CE-141,,SIG) 
+#   First author: T.Katoh 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((R,JAERI-M-89-083,1989)=(R,NEANDC(J)-137,1989)=(R,INDC(JPN)-124,1989)) 
+#   Year:  1989 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22156.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22156
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3430E+01        5.0000E-02        7.8600E-03        4.8732E-04
+        1.3890E+01        5.0000E-02        8.7200E-03        8.7200E-04
+        1.4190E+01        5.0000E-02        9.3100E-03        4.1895E-04
+        1.4440E+01        5.0000E-02        9.6500E-03        4.3425E-04
+        1.4670E+01        5.0000E-02        1.0100E-02        4.5450E-04
+        1.4870E+01        5.0000E-02        9.7300E-03        4.3785E-04

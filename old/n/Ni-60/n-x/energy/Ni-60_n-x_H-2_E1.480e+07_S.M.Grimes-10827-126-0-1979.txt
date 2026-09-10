@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 28-NI-60(N,X)  Energy distribution 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 28 
+#   A: 60 
+#   Nuclide: 28-NI-60 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 5 - None 
+#   Incident energy:  1.4800e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+#   Outgoing energy:  2.0000e+00 MeV - 8.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 10827-126-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-60(N,X)1-H-2,,DE) 
+#   First author: S.M.Grimes 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR/C,19,2127,1979) 
+#   Year:  1979 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10827.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10827
+#
+#      E_out(MeV)       dE_out(MeV)        data(B/EV)       ddata(B/EV)
+        2.0000E+00        0.0000E+00        1.9900E-10        2.9850E-11
+        8.0000E+00        0.0000E+00        3.9000E-10        5.8500E-11
+        3.0000E+00        0.0000E+00        3.9600E-10        5.9400E-11
+        3.5000E+00        0.0000E+00        5.8200E-10        8.7300E-11
+        2.5000E+00        0.0000E+00        5.8600E-10        8.7900E-11
+        4.0000E+00        0.0000E+00        1.5900E-09        2.3850E-10
+        6.0000E+00        0.0000E+00        1.5900E-09        2.3850E-10
+        5.5000E+00        0.0000E+00        2.1800E-09        3.2700E-10
+        6.5000E+00        0.0000E+00        2.1800E-09        3.2700E-10
+        4.5000E+00        0.0000E+00        2.7100E-09        4.0650E-10
+        7.5000E+00        0.0000E+00        3.0000E-09        4.5000E-10
+        5.0000E+00        0.0000E+00        3.1700E-09        4.7550E-10
+        7.0000E+00        0.0000E+00        3.9500E-09        5.9250E-10

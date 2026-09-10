@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 9-F-19(A,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 9 
+#   A: 19 
+#   Nuclide: 9-F-19 
+# Reaction: 
+#   Process: A,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  8.0000e-02 MeV - 8.8000e-01 MeV 
+# Residual: 
+#   Z: 10 
+#   A: 22 
+#   Nuclide: 10-NE-22 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0839-002-0 (entry-subentry-pointer) 
+#   Reaction code: (9-F-19(A,P)10-NE-22,,SIG,,,DERIV) 
+#   First author: R.G.Pizzone 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,AJ,836,57,2017) 
+#   Year:  2017 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D08/D0839.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0839
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.0000E-02        8.0000E-02        9.6800E-42        2.2500E-42
+        1.6000E-01        8.0000E-02        3.7000E-27        8.0200E-28
+        2.4000E-01        8.0000E-02        6.5300E-21        1.5500E-21
+        3.2000E-01        8.0000E-02        3.2600E-17        7.8800E-18
+        4.0000E-01        8.0000E-02        1.6800E-14        4.0000E-15
+        4.8000E-01        8.0000E-02        1.3800E-12        4.0000E-15
+        5.6000E-01        8.0000E-02        4.7500E-11        1.0800E-11
+        6.4000E-01        8.0000E-02        6.3200E-10        1.8000E-10
+        7.2000E-01        8.0000E-02        4.7800E-09        1.1600E-09
+        8.0000E-01        8.0000E-02        4.9000E-08        1.1200E-08
+        8.8000E-01        8.0000E-02        9.9700E-08        2.9400E-08

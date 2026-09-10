@@ -1,0 +1,44 @@
+# Header: 
+#   Title: 40-ZR-90(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  9.0000e+01 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 3 
+#   Nuclide: 2-HE-3 
+#   Outgoing energy:  1.1380e+01 MeV - 7.5770e+01 MeV 
+# EXFOR BIB:
+#   Entry id: O0137-165-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(P,X)2-HE-3,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,698,1979) 
+#   Year:  1979 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O01/O0137.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0137
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.1380E+01        0.0000E+00        3.0000E+01        0.0000E+00        9.9420E-11        9.9420E-12
+        1.9440E+01        0.0000E+00        3.0000E+01        0.0000E+00        7.3700E-11        7.3700E-12
+        2.9930E+01        0.0000E+00        3.0000E+01        0.0000E+00        6.0240E-11        6.0240E-12
+        3.9620E+01        0.0000E+00        3.0000E+01        0.0000E+00        4.9260E-11        4.9260E-12
+        5.0910E+01        0.0000E+00        3.0000E+01        0.0000E+00        3.4150E-11        3.4150E-12
+        5.8570E+01        0.0000E+00        3.0000E+01        0.0000E+00        2.7040E-11        2.7040E-12
+        6.4210E+01        0.0000E+00        3.0000E+01        0.0000E+00        2.0060E-11        2.0060E-12
+        6.8240E+01        0.0000E+00        3.0000E+01        0.0000E+00        1.9380E-11        1.9380E-12
+        7.0230E+01        0.0000E+00        3.0000E+01        0.0000E+00        1.0710E-11        1.0710E-12
+        7.1870E+01        0.0000E+00        3.0000E+01        0.0000E+00        1.7530E-11        1.7530E-12
+        7.2720E+01        0.0000E+00        3.0000E+01        0.0000E+00        3.3840E-11        3.3840E-12
+        7.3460E+01        0.0000E+00        3.0000E+01        0.0000E+00        1.0700E-11        1.0700E-12
+        7.3460E+01        0.0000E+00        3.0000E+01        0.0000E+00        1.0700E-11        1.0700E-12
+        7.4210E+01        0.0000E+00        3.0000E+01        0.0000E+00        4.2580E-12        4.2580E-13
+        7.5770E+01        0.0000E+00        3.0000E+01        0.0000E+00        1.6400E-12        1.6400E-13

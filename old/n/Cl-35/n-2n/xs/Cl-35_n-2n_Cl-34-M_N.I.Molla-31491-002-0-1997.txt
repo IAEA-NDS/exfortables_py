@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 17-CL-35(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 17 
+#   A: 35 
+#   Nuclide: 17-CL-35 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3900e+01 MeV - 1.4710e+01 MeV 
+# Residual: 
+#   Z: 17 
+#   A: 34 
+#   Nuclide: 17-CL-34-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31491-002-0 (entry-subentry-pointer) 
+#   Reaction code: (17-CL-35(N,2N)17-CL-34-M,,SIG) 
+#   First author: N.I.Molla 
+#   Institute:  (3BANSAV): Institute Nuclear Science & Technology, AERE, Savar, Dhaka 
+#   Reference:  (C,97TRIEST,1,517,1997) 
+#   Year:  1997 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/314/31491.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31491
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3900E+01        0.0000E+00        3.1500E-03        3.0000E-04
+        1.4100E+01        0.0000E+00        3.9500E-03        3.7000E-04
+        1.4310E+01        0.0000E+00        8.7700E-03        7.1000E-04
+        1.4570E+01        0.0000E+00        1.0280E-02        8.0000E-04
+        1.4710E+01        0.0000E+00        1.0490E-02        8.2000E-04

@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 77-IR-191(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 77 
+#   A: 191 
+#   Nuclide: 77-IR-191 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  5.3000e-01 MeV - 1.3100e+00 MeV 
+# Residual: 
+#   Z: 77 
+#   A: 192 
+#   Nuclide: 77-IR-192 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30512-002-0 (entry-subentry-pointer) 
+#   Reaction code: (77-IR-191(N,G)77-IR-192,,SIG) 
+#   First author: M.Herman 
+#   Institute:  (3POLIBJ): Institute Badan Jadr., Swierk and Warszawa 
+#   Reference:  ((P,INR-1809/I/PL/A,1,1979)=(P,INDC(POL)-10,1,197906)) 
+#   Year:  1979 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30512.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30512
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        5.3000E-01        1.4000E-01        3.3320E-01        3.6300E-02
+        8.6000E-01        2.1000E-01        2.6600E-01        2.8900E-02
+        1.2000E+00        1.5000E-01        2.2450E-01        2.3900E-02
+        1.3100E+00        7.0000E-02        1.8030E-01        1.9400E-02

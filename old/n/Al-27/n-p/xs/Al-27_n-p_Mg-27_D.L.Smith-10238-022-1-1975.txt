@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 13-AL-27(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  5.4370e+00 MeV - 9.9600e+00 MeV 
+# Residual: 
+#   Z: 12 
+#   A: 27 
+#   Nuclide: 12-MG-27 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10238-022-1 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(N,P)12-MG-27,,SIG) 
+#   First author: D.L.Smith 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,NSE,58,314,197511) 
+#   Year:  1975 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10238.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10238
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.4370E+00        3.3400E-01        3.6100E-02        1.8410E-03
+        5.7070E+00        3.3000E-01        5.8530E-02        3.1020E-03
+        5.9700E+00        3.2800E-01        4.1500E-02        2.2410E-03
+        6.4970E+00        3.3200E-01        5.1470E-02        2.6770E-03
+        6.7560E+00        3.3600E-01        4.9230E-02        2.5110E-03
+        7.0070E+00        3.4200E-01        5.6090E-02        2.8610E-03
+        7.2630E+00        3.4800E-01        6.1410E-02        3.1320E-03
+        7.5150E+00        3.5400E-01        6.2550E-02        2.3290E-03
+        7.7640E+00        3.6200E-01        6.9270E-02        3.5320E-03
+        8.0110E+00        3.7000E-01        7.0610E-02        3.6020E-03
+        8.2570E+00        3.7800E-01        7.7320E-02        4.0210E-03
+        8.5050E+00        3.8800E-01        7.6570E-02        3.9050E-03
+        8.7510E+00        3.9400E-01        8.4270E-02        4.8040E-03
+        8.9950E+00        4.0400E-01        7.8740E-02        4.4880E-03
+        9.2370E+00        4.1400E-01        8.3680E-02        4.5180E-03
+        9.4790E+00        4.2400E-01        8.1830E-02        4.6650E-03
+        9.7100E+00        4.3400E-01        8.5790E-02        4.8890E-03
+        9.9600E+00        4.4400E-01        8.9680E-02        5.1110E-03

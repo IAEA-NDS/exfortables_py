@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 20-CA-40(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 20 
+#   A: 40 
+#   Nuclide: 20-CA-40 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.1000e+02 MeV - 6.0000e+02 MeV 
+# Residual: 
+#   Z: 19 
+#   A: 39 
+#   Nuclide: 19-K-39 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0807-004-0 (entry-subentry-pointer) 
+#   Reaction code: (20-CA-40(P,X)19-K-39,,SIG) 
+#   First author: O.Artun 
+#   Institute:  (2FR SAC): CEA/Saclay 
+#   Reference:  (J,PRL,35,773,1975) 
+#   Year:  1975 
+#   Facility:  (SYNCH): Synchrotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O08/O0807.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0807
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1000E+02        0.0000E+00        1.5200E-02        3.0400E-03
+        2.1000E+02        0.0000E+00        9.7000E-03        1.9400E-03
+        6.0000E+02        0.0000E+00        3.2000E-03        6.4000E-04

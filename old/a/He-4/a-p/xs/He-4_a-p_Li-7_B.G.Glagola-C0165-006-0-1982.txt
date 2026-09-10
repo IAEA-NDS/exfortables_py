@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 2-HE-4(A,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+# Reaction: 
+#   Process: A,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  6.1500e+01 MeV - 1.5820e+02 MeV 
+# Residual: 
+#   Z: 3 
+#   A: 7 
+#   Nuclide: 3-LI-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0165-006-0 (entry-subentry-pointer) 
+#   Reaction code: (2-HE-4(A,P)3-LI-7,,SIG) 
+#   First author: B.G.Glagola 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,25,34,198201) 
+#   Year:  1982 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C01/C0165.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0165
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        6.1500E+01        0.0000E+00        3.3170E-02        2.6900E-03
+        8.0800E+01        0.0000E+00        1.6760E-02        1.0800E-03
+        1.1890E+02        0.0000E+00        3.9900E-03        2.6000E-04
+        1.3920E+02        0.0000E+00        1.9900E-03        1.4000E-04
+        1.5820E+02        0.0000E+00        9.5000E-04        8.0000E-05

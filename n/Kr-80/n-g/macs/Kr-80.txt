@@ -1,0 +1,30 @@
+# Header: 
+#   title: 36-KR-80(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 36 
+#   A: 80 
+#   Nuclide: 36-KR-80 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   MXW Simple Mean           |  Simple Stdev        : 1.76800E-01  |   1.13420E-01   (N = 2)
+#   MXW Weighted Mean        +/- Weighted Error      : 1.05439E-01 +/-  3.75602E-03   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22253-005-0         H.Beer                  1991   2.5000E-02   0.0000E+00   9.6600E-02   3.8640E-03     MXW        
+31837-010-0         M.Tessler               2021   3.0000E-02   0.0000E+00   2.5700E-01   1.6000E-02     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0102-134-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.6700E-01   1.4000E-02     MXW   RECOM
+V0102-135-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   8.8200E-02   3.5000E-03     MXW   RECOM
+V1001-317-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   2.8600E-01   4.0000E-03     MXW   RECOM

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 70-YB-176(10-NE-22,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 70 
+#   A: 176 
+#   Nuclide: 70-YB-176 
+# Reaction: 
+#   Process: 10-NE-22,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.1200e+02 MeV - 1.7240e+02 MeV 
+# Residual: 
+#   Z: 79 
+#   A: 193 
+#   Nuclide: 79-AU-193 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0594-007-0 (entry-subentry-pointer) 
+#   Reaction code: (70-YB-176(10-NE-22,X)79-AU-193,,SIG) 
+#   First author: H.Bruchertseifer 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (P,JINR-P7-80-666,1980) 
+#   Year:  1980 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A05/A0594.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0594
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1200E+02        4.0000E+00        1.7000E-01        4.0800E-02
+        1.4370E+02        2.7000E+00        5.2000E-04        1.0920E-04
+        1.7240E+02        1.9000E+00        2.4000E-04        5.0400E-05

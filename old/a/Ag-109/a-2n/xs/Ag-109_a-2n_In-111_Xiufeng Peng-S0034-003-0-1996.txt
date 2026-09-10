@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 47-AG-109(A,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 47 
+#   A: 109 
+#   Nuclide: 47-AG-109 
+# Reaction: 
+#   Process: A,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.5500e+01 MeV - 2.6300e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 111 
+#   Nuclide: 49-IN-111 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: S0034-003-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-109(A,2N)49-IN-111,,SIG) 
+#   First author: Xiufeng Peng 
+#   Institute:  (3CPRSIU): Sichuan University , Chengdu 
+#   Reference:  (J,ARI,47,309,1996) 
+#   Year:  1996 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S00/S0034.x4 
+#   nds:  https://nds.iaea.org/EXFOR/S0034
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.6300E+01        0.0000E+00        1.0529E+00        6.2400E-02
+        2.4800E+01        0.0000E+00        9.6600E-01        5.7300E-02
+        2.3200E+01        0.0000E+00        8.9800E-01        5.3200E-02
+        2.1400E+01        0.0000E+00        7.6440E-01        4.5300E-02
+        1.9600E+01        0.0000E+00        5.9810E-01        3.5500E-02
+        1.7600E+01        0.0000E+00        3.3930E-01        2.0200E-02
+        1.5500E+01        0.0000E+00        7.3800E-02        4.5000E-03

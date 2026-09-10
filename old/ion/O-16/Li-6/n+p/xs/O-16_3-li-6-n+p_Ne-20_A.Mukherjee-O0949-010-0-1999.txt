@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 8-O-16(3-LI-6,N+P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 8 
+#   A: 16 
+#   Nuclide: 8-O-16 
+# Reaction: 
+#   Process: 3-LI-6,N+P 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.9780e+00 MeV - 1.2031e+01 MeV 
+# Residual: 
+#   Z: 10 
+#   A: 20 
+#   Nuclide: 10-NE-20 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O0949-010-0 (entry-subentry-pointer) 
+#   Reaction code: (8-O-16(3-LI-6,N+P)10-NE-20,,SIG) 
+#   First author: A.Mukherjee 
+#   Institute:  (3INDSAH): Saha Institute of Nuclear Physics, Kolkata 
+#   Reference:  (J,NP/A,645,13,1999) 
+#   Year:  1999 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O09/O0949.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0949
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.9780E+00        0.0000E+00        4.0300E-02        5.1000E-03
+        5.9670E+00        0.0000E+00        1.0600E-01        1.3000E-02
+        6.9440E+00        0.0000E+00        1.7600E-01        2.2000E-02
+        7.9480E+00        0.0000E+00        2.2300E-01        2.7000E-02
+        8.5660E+00        0.0000E+00        2.5300E-01        3.1000E-02
+        8.7040E+00        0.0000E+00        2.6300E-01        3.2000E-02
+        9.9830E+00        0.0000E+00        2.7900E-01        3.4000E-02
+        1.0505E+01        0.0000E+00        2.9900E-01        3.7000E-02
+        1.1523E+01        0.0000E+00        3.3700E-01        4.1000E-02
+        1.2031E+01        0.0000E+00        3.1800E-01        4.0000E-02

@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 52-TE-130(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 52 
+#   A: 130 
+#   Nuclide: 52-TE-130 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.2560e+01 MeV - 3.9950e+01 MeV 
+# Residual: 
+#   Z: 53 
+#   A: 132 
+#   Nuclide: 53-I-132-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0298-004-0 (entry-subentry-pointer) 
+#   Reaction code: (52-TE-130(A,X)53-I-132-M,,SIG) 
+#   First author: B.P.Singh 
+#   Institute:  (3INDMUA): Aligarh Muslim University , Aligarh 
+#   Reference:  (J,PR/C,47,2055,1993) 
+#   Year:  1993 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0298.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0298
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.2560E+01        8.4000E-01        2.2700E-03        2.3000E-04
+        2.4070E+01        8.0000E-01        9.4500E-03        4.9000E-04
+        2.5500E+01        7.7000E-01        1.6700E-02        4.0000E-04
+        2.6890E+01        7.3000E-01        3.8460E-02        6.8000E-04
+        2.9360E+01        6.8000E-01        4.7920E-02        8.7000E-04
+        3.1690E+01        6.5000E-01        4.6180E-02        8.1000E-04
+        3.3890E+01        6.3000E-01        3.1920E-02        5.8000E-04
+        3.6000E+01        5.9000E-01        3.4940E-02        4.1000E-04
+        3.8020E+01        5.6000E-01        2.1230E-02        2.7000E-04
+        3.9950E+01        5.5000E-01        1.7850E-02        2.6000E-04

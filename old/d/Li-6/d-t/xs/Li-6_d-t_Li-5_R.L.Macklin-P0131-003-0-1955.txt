@@ -1,0 +1,54 @@
+# Header: 
+#   Title: 3-LI-6(D,T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: D,T 
+#   MF-MT number: 3 - 105 
+#   Incident energy:  3.7500e-01 MeV - 3.9200e+00 MeV 
+# Residual: 
+#   Z: 3 
+#   A: 5 
+#   Nuclide: 3-LI-5 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: P0131-003-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(D,T)3-LI-5,,SIG) 
+#   First author: R.L.Macklin 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,PR,97,753,1955) 
+#   Year:  1955 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/P01/P0131.x4 
+#   nds:  https://nds.iaea.org/EXFOR/P0131
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.7500E-01        0.0000E+00        5.2000E-02        2.6000E-03
+        4.8000E-01        0.0000E+00        8.8000E-02        4.4000E-03
+        6.3500E-01        0.0000E+00        1.3100E-01        6.5500E-03
+        8.4500E-01        0.0000E+00        1.7400E-01        8.7000E-03
+        1.0500E+00        0.0000E+00        1.8800E-01        9.4000E-03
+        1.1500E+00        0.0000E+00        1.9600E-01        9.8000E-03
+        1.2900E+00        0.0000E+00        2.0100E-01        1.0050E-02
+        1.3400E+00        0.0000E+00        2.0700E-01        1.0350E-02
+        1.4300E+00        0.0000E+00        2.1600E-01        1.0800E-02
+        1.6400E+00        0.0000E+00        2.1900E-01        1.0950E-02
+        1.8500E+00        0.0000E+00        2.2700E-01        1.1350E-02
+        1.9200E+00        0.0000E+00        2.1200E-01        1.0600E-02
+        2.0500E+00        0.0000E+00        2.1500E-01        1.0750E-02
+        2.1300E+00        0.0000E+00        2.2200E-01        1.1100E-02
+        2.3100E+00        0.0000E+00        2.2100E-01        1.1050E-02
+        2.5000E+00        0.0000E+00        2.2600E-01        1.1300E-02
+        2.6800E+00        0.0000E+00        2.2800E-01        1.1400E-02
+        2.8600E+00        0.0000E+00        2.3800E-01        1.1900E-02
+        3.0400E+00        0.0000E+00        2.3800E-01        1.1900E-02
+        3.1900E+00        0.0000E+00        2.5100E-01        1.2550E-02
+        3.3600E+00        0.0000E+00        2.7300E-01        1.3650E-02
+        3.5300E+00        0.0000E+00        2.6700E-01        1.3350E-02
+        3.6600E+00        0.0000E+00        2.6300E-01        1.3150E-02
+        3.8100E+00        0.0000E+00        2.9300E-01        1.4650E-02
+        3.9200E+00        0.0000E+00        2.8100E-01        1.4050E-02

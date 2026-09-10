@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 51-SB-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 51 
+#   A: 0 
+#   Nuclide: 51-SB-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.8400e+01 MeV - 1.4500e+02 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 113 
+#   Nuclide: 50-SN-113 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1461-003-0 (entry-subentry-pointer) 
+#   Reaction code: (51-SB-0(P,X)50-SN-113,CUM,SIG) 
+#   First author: S.V.Ermolaev 
+#   Institute:  (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
+#   Reference:  (J,RCA,108,327,2020) 
+#   Year:  2020 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F14/F1461.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1461
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4500E+02        6.0000E-01        3.2000E-02        4.8000E-03
+        1.3300E+02        1.0000E+00        2.9000E-02        4.4000E-03
+        1.2100E+02        1.5000E+00        3.8000E-02        5.7000E-03
+        1.0800E+02        2.2000E+00        2.9000E-02        4.4000E-03
+        1.0100E+02        2.5000E+00        2.1000E-02        3.2000E-03
+        9.5000E+01        3.0000E+00        1.7000E-02        2.7000E-03
+        8.8000E+01        3.5000E+00        1.5000E-02        2.4000E-03
+        8.1000E+01        4.2000E+00        1.4000E-02        2.3000E-03
+        7.5000E+01        8.0000E-01        1.7100E-02        2.6000E-03
+        7.1400E+01        2.0000E-01        1.1600E-02        1.7000E-03
+        6.8100E+01        4.0000E-01        1.0300E-02        1.5000E-03
+        6.8000E+01        1.2000E+00        1.2600E-02        2.0000E-03
+        6.4800E+01        6.0000E-01        5.9000E-03        9.0000E-04
+        6.1400E+01        7.0000E-01        2.3000E-03        4.0000E-04
+        5.9000E+01        1.9000E+00        3.5000E-03        6.0000E-04
+        5.7800E+01        8.0000E-01        1.1000E-03        2.0000E-04
+        5.4800E+01        8.0000E-01        2.1000E-04        4.0000E-05
+        5.1600E+01        9.0000E-01        1.5000E-04        4.0000E-05
+        4.8400E+01        9.0000E-01        1.0000E-05        1.0000E-05

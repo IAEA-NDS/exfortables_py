@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 94-PU-239(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 94 
+#   A: 239 
+#   Nuclide: 94-PU-239 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  1.1200e+01 MeV - 1.5500e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 132 
+#   Nuclide: 52-TE-132 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1411-172-0 (entry-subentry-pointer) 
+#   Reaction code: (94-PU-239(P,F)52-TE-132,(CUM),SIG) 
+#   First author: T.Ohtsuki 
+#   Institute:  (2JPNTMU): Tokyo Metropolitan University , Hachioji, Tokyo 
+#   Reference:  (J,PR/C,44,1405,1991) 
+#   Year:  1991 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E14/E1411.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1411
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1200E+01        0.0000E+00        1.0500E-03        7.0000E-05
+        1.2200E+01        0.0000E+00        5.0800E-03        3.9000E-04
+        1.3000E+01        0.0000E+00        5.3700E-03        5.0000E-04
+        1.3900E+01        0.0000E+00        9.6800E-03        6.6000E-04
+        1.4600E+01        0.0000E+00        1.4410E-02        3.9000E-04
+        1.5500E+01        0.0000E+00        1.2960E-02        5.7000E-04

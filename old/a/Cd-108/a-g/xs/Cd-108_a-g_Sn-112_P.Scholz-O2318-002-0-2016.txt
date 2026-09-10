@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 48-CD-108(A,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 48 
+#   A: 108 
+#   Nuclide: 48-CD-108 
+# Reaction: 
+#   Process: A,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.1978e+01 MeV - 1.3479e+01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 112 
+#   Nuclide: 50-SN-112 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O2318-002-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-108(A,G)50-SN-112,,SIG) 
+#   First author: P.Scholz 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  (J,PL/B,761,247,2016) 
+#   Year:  2016 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2318.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O2318
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.3479E+01        3.1000E-02        1.3600E-03        4.1000E-04
+        1.2979E+01        3.1000E-02        1.0900E-03        3.4000E-04
+        1.2478E+01        3.1000E-02        8.2000E-04        2.5000E-04
+        1.1978E+01        3.1000E-02        6.1000E-04        1.9000E-04

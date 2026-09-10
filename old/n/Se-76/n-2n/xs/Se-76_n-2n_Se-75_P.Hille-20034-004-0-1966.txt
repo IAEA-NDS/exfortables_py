@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 34-SE-76(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 34 
+#   A: 76 
+#   Nuclide: 34-SE-76 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4050e+01 MeV - 1.4750e+01 MeV 
+# Residual: 
+#   Z: 34 
+#   A: 75 
+#   Nuclide: 34-SE-75 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 20034-004-0 (entry-subentry-pointer) 
+#   Reaction code: (34-SE-76(N,2N)34-SE-75,,SIG) 
+#   First author: P.Hille 
+#   Institute:  (2AUSIRK): Institute fuer Isotopenforschung und Kernphysik, Vienna 
+#   Reference:  (J,APA,23,44,1966) 
+#   Year:  1966 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20034.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20034
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4050E+01        1.0000E-01        8.4500E-01        5.9150E-02
+        1.4750E+01        1.0000E-01        9.4400E-01        6.6080E-02

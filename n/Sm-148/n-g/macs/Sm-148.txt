@@ -1,0 +1,31 @@
+# Header: 
+#   title: 62-SM-148(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 62 
+#   A: 148 
+#   Nuclide: 62-SM-148 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.58000E-01  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   MXW Simple Mean           |  Simple Stdev        : 2.57000E-01  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+12095-004-0         R.L.Macklin             1963   3.0000E-02   7.0000E-03   2.5800E-01   4.8000E-02                
+14322-009-0         R.L.Macklin             1967   3.0000E-02   0.0000E+00   2.5700E-01   5.0000E-02     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0102-333-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.4100E-01   2.0000E-03     MXW   RECOM
+V1002-191-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   2.4070E-01   2.2000E-03     MXW   RECOM

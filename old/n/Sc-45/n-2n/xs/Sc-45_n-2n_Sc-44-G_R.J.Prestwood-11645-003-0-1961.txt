@@ -1,0 +1,40 @@
+# Header: 
+#   Title: 21-SC-45(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 21 
+#   A: 45 
+#   Nuclide: 21-SC-45 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.1970e+01 MeV - 1.9760e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 44 
+#   Nuclide: 21-SC-44-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11645-003-0 (entry-subentry-pointer) 
+#   Reaction code: (21-SC-45(N,2N)21-SC-44-G,,SIG) 
+#   First author: R.J.Prestwood 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,121,1438,1961) 
+#   Year:  1961 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11645.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11645
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1970E+01        8.0000E-02        6.5000E-03        3.0000E-04
+        1.3400E+01        2.0000E-01        8.7000E-02        3.3000E-03
+        1.3690E+01        1.0000E-01        1.1190E-01        4.2000E-03
+        1.4010E+01        1.0000E-01        1.3850E-01        5.2000E-03
+        1.4090E+01        1.0000E-01        1.5000E-01        5.7000E-03
+        1.4310E+01        1.3000E-01        1.6900E-01        6.4000E-03
+        1.4500E+01        2.0000E-01        1.8140E-01        6.9000E-03
+        1.4680E+01        2.6000E-01        2.0430E-01        7.7000E-03
+        1.6500E+01        3.0000E-01        2.8370E-01        1.3600E-02
+        1.7950E+01        3.2000E-01        3.1890E-01        1.5200E-02
+        1.9760E+01        4.3000E-01        3.2220E-01        1.5400E-02

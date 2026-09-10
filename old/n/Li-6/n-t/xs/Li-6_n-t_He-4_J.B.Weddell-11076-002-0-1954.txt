@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 3-LI-6(N,T)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 3 
+#   A: 6 
+#   Nuclide: 3-LI-6 
+# Reaction: 
+#   Process: N,T 
+#   MF-MT number: 3 - 105 
+#   Incident energy:  1.5000e+00 MeV - 2.0000e+00 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11076-002-0 (entry-subentry-pointer) 
+#   Reaction code: (3-LI-6(N,T)2-HE-4,,SIG) 
+#   First author: J.B.Weddell 
+#   Institute:  (1USANWU): Northwestern University, Evanston, IL 
+#   Reference:  (J,PR,95,117,1954) 
+#   Year:  1954 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11076.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11076
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.5000E+00        0.0000E+00        2.8000E-01        5.0000E-02
+        2.0000E+00        0.0000E+00        2.4000E-01        4.0000E-02

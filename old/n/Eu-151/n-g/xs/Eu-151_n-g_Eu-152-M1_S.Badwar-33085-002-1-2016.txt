@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 63-EU-151(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 63 
+#   A: 151 
+#   Nuclide: 63-EU-151 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.1200e+00 MeV - 4.1200e+00 MeV 
+# Residual: 
+#   Z: 63 
+#   A: 152 
+#   Nuclide: 63-EU-152-M1 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33085-002-1 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-151(N,G)63-EU-152-M1,,SIG) 
+#   First author: S.Badwar 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,JRN,307,1385,2016) 
+#   Year:  2016 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/330/33085.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33085
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1200E+00        1.1000E-01        1.2354E-01        5.9300E-03
+        2.1200E+00        1.5000E-01        5.6040E-02        2.7400E-03
+        3.1200E+00        2.1000E-01        2.9360E-02        1.4100E-03
+        4.1200E+00        2.2000E-01        1.3460E-02        1.8200E-03

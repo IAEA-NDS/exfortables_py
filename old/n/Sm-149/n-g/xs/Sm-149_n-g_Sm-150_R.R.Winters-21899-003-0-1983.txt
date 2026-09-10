@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 62-SM-149(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 62 
+#   A: 149 
+#   Nuclide: 62-SM-149 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  1.0000e-02 MeV - 1.0000e-01 MeV 
+# Residual: 
+#   Z: 62 
+#   A: 150 
+#   Nuclide: 62-SM-150 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21899-003-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-149(N,G)62-SM-150,,SIG,,MXW) 
+#   First author: R.R.Winters 
+#   Institute:  (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference:  ((P,NEANDC(E)-242U,8,198306)=(P,INDC(GER)-25/L,8,1983)) 
+#   Year:  1983 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21899.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21899
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.0000E-02        0.0000E+00        2.9620E+00        1.4200E-01
+        2.0000E-02        0.0000E+00        1.9290E+00        8.9000E-02
+        3.0000E-02        0.0000E+00        1.5110E+00        7.0000E-02
+        5.0000E-02        0.0000E+00        1.1360E+00        5.2000E-02
+        1.0000E-01        0.0000E+00        7.9400E-01        3.6000E-02

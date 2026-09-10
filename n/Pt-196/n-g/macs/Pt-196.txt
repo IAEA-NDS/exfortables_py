@@ -1,0 +1,35 @@
+# Header: 
+#   title: 78-PT-196(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 78 
+#   A: 196 
+#   Nuclide: 78-PT-196 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.3400e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 3.70000E-02  |   3.53553E-02   (N = 2)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.49412E-02 +/-  1.94029E-03   (N = 2)
+#   MXW Simple Mean           |  Simple Stdev        : 1.13100E-01  |   1.41280E-01   (N = 2)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+30492-004-G         A.Lakshmana Rao         1972   2.5000E-02   5.0000E-03   6.2000E-02   8.0000E-03                
+30492-004-M         A.Lakshmana Rao         1972   2.5000E-02   5.0000E-03   1.2000E-02   2.0000E-03                
+22010-004-0         H.Beer                  1986   2.3400E-02   0.0000E+00   1.3200E-02   0.0000E+00     MXW        
+22010-005-0         H.Beer                  1986   2.3400E-02   0.0000E+00   2.1300E-01   0.0000E+00     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V0102-457-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.9700E-01   2.3000E-02     MXW   RECOM
+V0102-458-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.8300E-01   1.6000E-02     MXW   RECOM
+V0102-459-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.3000E-02   1.4000E-03     MXW   RECOM
+V0102-460-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.2200E-02   5.0000E-04     MXW   RECOM

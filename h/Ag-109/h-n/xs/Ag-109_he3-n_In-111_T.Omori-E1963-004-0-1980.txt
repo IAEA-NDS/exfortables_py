@@ -1,0 +1,50 @@
+# Header: 
+#   Title: 47-AG-109(HE3,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 47 
+#   A: 109 
+#   Nuclide: 47-AG-109 
+# Reaction: 
+#   Process: HE3,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.2210e+01 MeV - 4.6030e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 111 
+#   Nuclide: 49-IN-111 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1963-004-0 (entry-subentry-pointer) 
+#   Reaction code: (47-AG-109(HE3,N)49-IN-111,,SIG) 
+#   First author: T.Omori 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  (J,RRL,44,307,1980) 
+#   Year:  1980 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E19/E1963.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1963
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.2210E+01        5.0000E-01        7.2620E-05        5.8096E-06
+        1.4100E+01        5.0000E-01        5.2560E-04        4.2048E-05
+        1.5250E+01        5.0000E-01        1.3840E-03        1.1072E-04
+        1.6540E+01        5.0000E-01        2.5380E-03        2.0304E-04
+        1.6680E+01        5.0000E-01        2.2820E-03        1.8256E-04
+        1.7900E+01        5.0000E-01        3.2060E-03        2.5648E-04
+        1.8550E+01        5.0000E-01        3.4170E-03        2.7336E-04
+        1.9330E+01        5.0000E-01        3.5270E-03        2.8216E-04
+        2.0900E+01        5.0000E-01        3.4150E-03        2.7320E-04
+        2.1620E+01        5.0000E-01        3.2380E-03        2.5904E-04
+        2.2690E+01        5.0000E-01        3.2710E-03        2.6168E-04
+        2.4330E+01        5.0000E-01        3.3050E-03        2.6440E-04
+        2.4330E+01        5.0000E-01        3.7150E-03        2.9720E-04
+        2.7330E+01        5.0000E-01        3.1650E-03        2.5320E-04
+        2.7540E+01        5.0000E-01        2.8450E-03        2.2760E-04
+        3.1400E+01        5.0000E-01        2.6380E-03        2.1104E-04
+        3.3760E+01        5.0000E-01        2.4470E-03        1.9576E-04
+        3.5040E+01        5.0000E-01        2.3690E-03        1.8952E-04
+        3.7900E+01        5.0000E-01        1.8530E-03        1.4824E-04
+        4.2180E+01        5.0000E-01        1.3600E-03        1.0880E-04
+        4.6030E+01        5.0000E-01        1.3020E-03        1.0416E-04

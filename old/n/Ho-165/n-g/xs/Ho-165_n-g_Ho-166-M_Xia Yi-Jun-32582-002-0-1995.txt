@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 67-HO-165(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 67 
+#   A: 165 
+#   Nuclide: 67-HO-165 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.0300e-01 MeV - 9.7400e-01 MeV 
+# Residual: 
+#   Z: 67 
+#   A: 166 
+#   Nuclide: 67-HO-166-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32582-002-0 (entry-subentry-pointer) 
+#   Reaction code: (67-HO-165(N,G)67-HO-166-M,,SIG) 
+#   First author: Xia Yi-Jun 
+#   Institute:  (3CPRSIU): Sichuan University , Chengdu 
+#   Reference:  (J,CNP,17,43,1995) 
+#   Year:  1995 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/325/32582.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32582
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        2.0300E-01        3.0000E-01        3.7400E-02        5.6000E-03
+        6.7600E-01        1.1400E-01        1.2200E-02        2.4000E-03
+        9.7400E-01        1.2600E-01        1.0900E-02        3.4000E-03

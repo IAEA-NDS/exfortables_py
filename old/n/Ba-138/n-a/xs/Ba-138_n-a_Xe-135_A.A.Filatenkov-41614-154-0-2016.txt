@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 56-BA-138(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 56 
+#   A: 138 
+#   Nuclide: 56-BA-138 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107.0 
+#   Incident energy:  1.3470e+01 MeV - 1.4810e+01 MeV 
+# Residual: 
+#   Z: 54 
+#   A: 135 
+#   Nuclide: 54-XE-135 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41614-154-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-138(N,A)54-XE-135,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,INDC(CCP)-0460,2016) 
+#   Year:  2016 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41614
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3470E+01        0.0000E+00        1.8600E-03        1.0900E-04
+        1.3660E+01        0.0000E+00        2.0500E-03        1.2894E-04
+        1.3880E+01        0.0000E+00        2.2900E-03        1.4999E-04
+        1.4040E+01        0.0000E+00        2.2100E-03        1.4873E-04
+        1.4260E+01        0.0000E+00        2.3900E-03        1.4770E-04
+        1.4440E+01        0.0000E+00        2.6400E-03        1.6870E-04
+        1.4630E+01        0.0000E+00        2.5700E-03        1.6936E-04
+        1.4810E+01        0.0000E+00        2.7100E-03        1.6748E-04

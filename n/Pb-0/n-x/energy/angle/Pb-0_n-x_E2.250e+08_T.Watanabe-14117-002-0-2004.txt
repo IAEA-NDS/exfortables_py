@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 82-PB-0(N,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  2.2500e+02 MeV 
+# Residual: 
+#   Z: 0 
+#   A: 1 
+#   Nuclide: 0-NN-1 
+#   Outgoing energy:  5.0160e+01 MeV - 2.4950e+02 MeV 
+# EXFOR BIB:
+#   Entry id: 14117-002-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(N,X)0-NN-1,,DA/DE) 
+#   First author: T.Watanabe 
+#   Institute:  (2JPNKYU): Kyushu University , Fukuoka 
+#   Reference:  (C,2004SANTA,1,1062,2004) 
+#   Year:  2004 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/141/14117.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14117
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        5.0160E+01        0.0000E+00        1.5000E+01        0.0000E+00        2.6150E-09        6.3740E-08
+        6.9490E+01        0.0000E+00        1.5000E+01        0.0000E+00        3.5810E-09        2.0040E-08
+        8.9660E+01        0.0000E+00        1.5000E+01        0.0000E+00        2.5000E-09        7.1180E-09
+        1.0990E+02        0.0000E+00        1.5000E+01        0.0000E+00        2.7350E-09        6.4610E-09
+        1.3900E+02        0.0000E+00        1.5000E+01        0.0000E+00        1.8250E-09        6.9660E-09
+        1.6950E+02        0.0000E+00        1.5000E+01        0.0000E+00        2.7350E-09        9.3050E-09
+        1.9740E+02        0.0000E+00        1.5000E+01        0.0000E+00        5.8690E-09        4.4810E-08
+        2.1850E+02        0.0000E+00        1.5000E+01        0.0000E+00        1.2040E-08        5.7360E-08
+        2.4950E+02        0.0000E+00        1.5000E+01        0.0000E+00        7.6840E-09        6.4900E-08

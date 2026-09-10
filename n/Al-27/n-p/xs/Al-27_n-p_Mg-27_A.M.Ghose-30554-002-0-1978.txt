@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 13-AL-27(N,P)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-08-01 
+#   Date created: 2026-09-07 
 # Target: 
 #   Z: 13 
 #   A: 27 
 #   Nuclide: 13-AL-27 
 # Reaction: 
 #   Process: N,P 
-#   MF-MT number: 3 - 103 
+#   MF-MT number: 3 - 103.0 
 #   Incident energy:  8.4000e+00 MeV 
 # Residual: 
 #   Z: 12 
@@ -26,5 +26,5 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30554.x4 
 #   nds:  https://nds.iaea.org/EXFOR/30554
 #
-#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
         8.4000E+00        0.0000E+00        1.1000E-01        1.6500E-02

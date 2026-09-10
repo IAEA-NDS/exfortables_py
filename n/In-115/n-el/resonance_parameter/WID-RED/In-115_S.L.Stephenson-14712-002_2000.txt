@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 49-IN-115 Resonance Parameter: WID/RED 
+#   Source                : EXFOR 
+#   Date Created          : 2026-09-07 
+# EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 14712-002-4 
+#   First Author          : S.L.Stephenson 
+#   Institute             : (1USANCS): North Carolina State University, Raleigh, NC 
+#   Reference             : (J,PR/C,61,045501,2000) 
+#   Year                  : 2000 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 49 
+#   A                     : 115 
+#   Isomer                :  
+#   Nuclide               : 49-IN-115 
+# Reaction: 
+#   EXFOR Reaction        : (49-IN-115(N,EL),,WID/RED) 
+#   Incident Energy       : 1.4570e+00 eV - 2.6450e+02 eV 
+#   Resonance Energy Type : EN 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/147/14712.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/14712
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   1.4570E+00          NAN        5.0        0.0          NAN          NAN          NAN          NAN   1.6700E-03          NAN          NAN          NAN          NAN          NAN
+   6.6400E+01   1.2000E-01        NAN        1.0          NAN          NAN          NAN          NAN   4.0000E-08   2.0000E-09          NAN          NAN          NAN          NAN
+   1.0370E+02   2.0000E-01        5.0        1.0          NAN          NAN          NAN          NAN   4.0000E-07   2.0000E-07          NAN          NAN          NAN          NAN
+   2.6450E+02   5.0000E-01        NAN        1.0          NAN          NAN          NAN          NAN   4.0000E-05   2.0000E-05          NAN          NAN          NAN          NAN

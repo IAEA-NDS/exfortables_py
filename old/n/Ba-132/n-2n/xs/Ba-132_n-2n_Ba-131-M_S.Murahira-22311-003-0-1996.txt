@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 56-BA-132(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 56 
+#   A: 132 
+#   Nuclide: 56-BA-132 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3400e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 56 
+#   A: 131 
+#   Nuclide: 56-BA-131-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22311-003-0 (entry-subentry-pointer) 
+#   Reaction code: (56-BA-132(N,2N)56-BA-131-M,,SIG) 
+#   First author: S.Murahira 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((S,INDC(JPN)-175,171,199603)=(S,JAERI-C-96-008,171,199603)) 
+#   Year:  1996 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22311.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22311
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3400E+01        9.0000E-02        7.0900E-01        4.4667E-02
+        1.3650E+01        9.0000E-02        6.9800E-01        5.0954E-02
+        1.3880E+01        9.0000E-02        7.6100E-01        4.7943E-02
+        1.4280E+01        9.0000E-02        7.9200E-01        6.2568E-02
+        1.4580E+01        9.0000E-02        8.1300E-01        5.7723E-02
+        1.4870E+01        9.0000E-02        8.8000E-01        6.8640E-02

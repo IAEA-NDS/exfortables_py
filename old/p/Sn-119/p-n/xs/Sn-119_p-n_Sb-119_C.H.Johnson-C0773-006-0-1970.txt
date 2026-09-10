@@ -1,0 +1,46 @@
+# Header: 
+#   Title: 50-SN-119(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 50 
+#   A: 119 
+#   Nuclide: 50-SN-119 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.9890e+00 MeV - 5.1170e+00 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 119 
+#   Nuclide: 51-SB-119 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0773-006-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-119(P,N)51-SB-119,,SIG) 
+#   First author: C.H.Johnson 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,PR/C,2,639,1970) 
+#   Year:  1970 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C07/C0773.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0773
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.9890E+00        2.9890E-04        5.9000E-05        0.0000E+00
+        3.1070E+00        3.1070E-04        9.3000E-05        0.0000E+00
+        3.2270E+00        3.2270E-04        1.5700E-04        0.0000E+00
+        3.3490E+00        3.3490E-04        2.3800E-04        0.0000E+00
+        3.4730E+00        3.4730E-04        3.6900E-04        0.0000E+00
+        3.5990E+00        3.5990E-04        5.5500E-04        0.0000E+00
+        3.7270E+00        3.7270E-04        8.2000E-04        0.0000E+00
+        3.8570E+00        3.8570E-04        1.1900E-03        0.0000E+00
+        3.9890E+00        3.9890E-04        1.7100E-03        0.0000E+00
+        4.1230E+00        4.1230E-04        2.4400E-03        0.0000E+00
+        4.2590E+00        4.2590E-04        3.4500E-03        0.0000E+00
+        4.3970E+00        4.3970E-04        4.9900E-03        0.0000E+00
+        4.5370E+00        4.5370E-04        7.0000E-03        0.0000E+00
+        4.6790E+00        4.6790E-04        9.8500E-03        0.0000E+00
+        4.8230E+00        4.8230E-04        1.2700E-02        0.0000E+00
+        4.9690E+00        4.9690E-04        1.6100E-02        0.0000E+00
+        5.1170E+00        5.1170E-04        2.0800E-02        0.0000E+00

@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 63-EU-153(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 63 
+#   A: 153 
+#   Nuclide: 63-EU-153 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3500e+01 MeV - 1.4800e+01 MeV 
+# Residual: 
+#   Z: 62 
+#   A: 153 
+#   Nuclide: 62-SM-153 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 32808-002-0 (entry-subentry-pointer) 
+#   Reaction code: (63-EU-153(N,P)62-SM-153,,SIG) 
+#   First author: Junhua Luo 
+#   Institute:  (3CPRHXU): Hexi University , Zhangye 
+#   Reference:  (J,JP/G,47,075104,2020) 
+#   Year:  2020 
+#   Facility:  (NGEN): Neutron generator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/328/32808.x4 
+#   nds:  https://nds.iaea.org/EXFOR/32808
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3500E+01        2.0000E-01        3.6000E-03        5.0000E-04
+        1.4100E+01        2.0000E-01        3.8000E-03        6.0000E-04
+        1.4800E+01        2.0000E-01        4.5000E-03        7.0000E-04

@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 23-V-51(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 23 
+#   A: 51 
+#   Nuclide: 23-V-51 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  7.7790e+01 MeV - 1.1190e+02 MeV 
+# Residual: 
+#   Z: 24 
+#   A: 48 
+#   Nuclide: 24-CR-48 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1116-005-0 (entry-subentry-pointer) 
+#   Reaction code: (23-V-51(A,X)24-CR-48,CUM,SIG) 
+#   First author: N.L.Singh 
+#   Institute:  (3INDBDA): M.S. University of Baroda, Baroda 
+#   Reference:  (J,JP/G,21,399,1995) 
+#   Year:  1995 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O11/O1116.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1116
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        7.7790E+01        2.5000E-01        2.1000E-05        5.0400E-06
+        8.3090E+01        2.5000E-01        7.9000E-05        1.9750E-05
+        8.6820E+01        2.5000E-01        2.5000E-04        4.0000E-05
+        9.1910E+01        2.5000E-01        3.3100E-04        2.6480E-05
+        9.6610E+01        2.5000E-01        5.2000E-04        4.1600E-05
+        1.0660E+02        2.5000E-01        6.5000E-04        3.9000E-05
+        1.1190E+02        2.5000E-01        8.0000E-04        4.8000E-05

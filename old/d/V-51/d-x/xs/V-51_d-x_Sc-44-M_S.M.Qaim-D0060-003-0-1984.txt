@@ -1,0 +1,51 @@
+# Header: 
+#   Title: 23-V-51(D,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 23 
+#   A: 51 
+#   Nuclide: 23-V-51 
+# Reaction: 
+#   Process: D,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.8875e+01 MeV - 8.9574e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 44 
+#   Nuclide: 21-SC-44-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0060-003-0 (entry-subentry-pointer) 
+#   Reaction code: (23-V-51(D,X)21-SC-44-M,,SIG) 
+#   First author: S.M.Qaim 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,RCA,35,11,1984) 
+#   Year:  1984 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D00/D0060.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0060
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        4.8875E+01        2.0000E-01        2.2065E-05        1.0089E-06
+        4.9688E+01        2.0000E-01        3.0400E-05        0.0000E+00
+        5.1139E+01        2.0000E-01        6.1246E-05        0.0000E+00
+        5.1139E+01        2.0000E-01        7.2696E-05        0.0000E+00
+        5.3752E+01        2.0000E-01        1.8179E-04        0.0000E+00
+        5.6248E+01        2.0000E-01        3.3243E-04        2.5718E-05
+        5.8629E+01        2.0000E-01        5.5178E-04        0.0000E+00
+        6.1125E+01        2.0000E-01        8.3130E-04        0.0000E+00
+        6.3389E+01        2.0000E-01        1.2807E-03        0.0000E+00
+        6.5712E+01        2.0000E-01        1.9732E-03        1.5265E-04
+        6.7860E+01        2.0000E-01        2.9288E-03        0.0000E+00
+        7.0008E+01        2.0000E-01        4.4124E-03        0.0000E+00
+        7.2098E+01        2.0000E-01        5.4768E-03        0.0000E+00
+        7.4246E+01        2.0000E-01        7.4339E-03        0.0000E+00
+        7.6337E+01        2.0000E-01        8.4378E-03        0.0000E+00
+        7.8311E+01        2.0000E-01        1.0015E-02        6.9471E-04
+        8.0285E+01        2.0000E-01        1.0871E-02        0.0000E+00
+        8.2259E+01        2.0000E-01        1.2247E-02        0.0000E+00
+        8.4116E+01        2.0000E-01        1.2807E-02        0.0000E+00
+        8.5974E+01        2.0000E-01        1.3594E-02        0.0000E+00
+        8.7774E+01        2.0000E-01        1.3696E-02        0.0000E+00
+        8.9574E+01        2.0000E-01        1.4429E-02        1.0009E-03

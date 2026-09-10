@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 39-Y-89(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.0100e+01 MeV - 4.3000e+01 MeV 
+# Residual: 
+#   Z: 40 
+#   A: 88 
+#   Nuclide: 40-ZR-88 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D7014-007-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(A,X)40-ZR-88,CUM,SIG) 
+#   First author: M.Shahid 
+#   Institute:  (3KORKNU): Kyungpook National University, Daegu 
+#   Reference:  (J,NIM/B,342,158,2015) 
+#   Year:  2015 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D70/D7014.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D7014
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.3000E+01        5.0000E-01        5.0000E-05        1.0000E-05
+        4.2100E+01        5.0000E-01        5.0000E-05        1.0000E-05
+        4.1000E+01        5.0000E-01        2.0000E-05        1.0000E-05
+        4.0100E+01        6.0000E-01        3.0000E-05        1.0000E-05

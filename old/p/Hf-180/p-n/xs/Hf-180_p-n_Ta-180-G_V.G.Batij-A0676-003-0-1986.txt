@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 72-HF-180(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 72 
+#   A: 180 
+#   Nuclide: 72-HF-180 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  7.1900e+00 MeV - 9.1800e+00 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 180 
+#   Nuclide: 73-TA-180-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0676-003-0 (entry-subentry-pointer) 
+#   Reaction code: (72-HF-180(P,N)73-TA-180-G,,SIG) 
+#   First author: V.G.Batij 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,IZV,50,913,1986) 
+#   Year:  1986 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A06/A0676.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0676
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.1900E+00        0.0000E+00        1.0400E-02        1.3520E-03
+        7.6900E+00        0.0000E+00        2.3000E-02        2.9900E-03
+        8.6700E+00        0.0000E+00        7.1000E-02        9.9400E-03
+        9.1800E+00        0.0000E+00        8.7000E-02        1.2180E-02

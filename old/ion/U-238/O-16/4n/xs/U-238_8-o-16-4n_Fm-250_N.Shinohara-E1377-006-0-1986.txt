@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 92-U-238(8-O-16,4N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: 8-O-16,4N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  8.4810e+01 MeV - 1.0090e+02 MeV 
+# Residual: 
+#   Z: 100 
+#   A: 250 
+#   Nuclide: 100-FM-250 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1377-006-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(8-O-16,4N)100-FM-250,,SIG) 
+#   First author: N.Shinohara 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,PR/C,34,(3),909,198609) 
+#   Year:  1986 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E13/E1377.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1377
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.4810E+01        0.0000E+00        5.0300E-08        1.6630E-08
+        8.4880E+01        0.0000E+00        4.2130E-08        2.2860E-08
+        8.6500E+01        0.0000E+00        2.9050E-07        1.8960E-07
+        8.7740E+01        0.0000E+00        2.9330E-07        1.8670E-07
+        9.6980E+01        0.0000E+00        9.5660E-07        2.1980E-07
+        1.0090E+02        0.0000E+00        9.8290E-08        4.7470E-08
+        1.0090E+02        0.0000E+00        3.4010E-07        1.2600E-07

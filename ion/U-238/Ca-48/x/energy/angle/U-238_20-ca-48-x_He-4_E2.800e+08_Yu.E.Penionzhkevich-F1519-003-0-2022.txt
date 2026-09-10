@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 92-U-238(20-CA-48,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: 20-CA-48,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  2.8000e+02 MeV 
+# Residual: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+#   Outgoing energy:  4.6130e+01 MeV - 1.0200e+02 MeV 
+# EXFOR BIB:
+#   Entry id: F1519-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(20-CA-48,X)2-HE-4,,DA/DE) 
+#   First author: Yu.E.Penionzhkevich 
+#   Institute:  (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference:  (J,PAN,85,307,2022) 
+#   Year:  2022 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F15/F1519.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1519
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        4.6130E+01        0.0000E+00        0.0000E+00        0.0000E+00        1.6380E-06        0.0000E+00
+        5.1490E+01        0.0000E+00        0.0000E+00        0.0000E+00        1.0520E-06        0.0000E+00
+        5.6230E+01        0.0000E+00        0.0000E+00        0.0000E+00        6.4330E-07        0.0000E+00
+        6.5230E+01        0.0000E+00        0.0000E+00        0.0000E+00        2.5270E-07        0.0000E+00
+        7.2640E+01        0.0000E+00        0.0000E+00        0.0000E+00        7.0380E-08        0.0000E+00
+        7.9110E+01        0.0000E+00        0.0000E+00        0.0000E+00        1.6110E-08        0.0000E+00
+        8.3850E+01        0.0000E+00        0.0000E+00        0.0000E+00        5.7360E-09        0.0000E+00
+        9.3480E+01        0.0000E+00        0.0000E+00        0.0000E+00        7.6420E-10        0.0000E+00
+        1.0200E+02        0.0000E+00        0.0000E+00        0.0000E+00        1.0180E-10        0.0000E+00

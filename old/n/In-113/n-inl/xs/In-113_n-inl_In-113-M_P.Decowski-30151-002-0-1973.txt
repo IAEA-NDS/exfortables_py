@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 49-IN-113(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 49 
+#   A: 113 
+#   Nuclide: 49-IN-113 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  1.2980e+01 MeV - 1.7830e+01 MeV 
+# Residual: 
+#   Z: 49 
+#   A: 113 
+#   Nuclide: 49-IN-113-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30151-002-0 (entry-subentry-pointer) 
+#   Reaction code: (49-IN-113(N,INL)49-IN-113-M,,SIG) 
+#   First author: P.Decowski 
+#   Institute:  (3POLIBJ): Institute Badan Jadr., Swierk and Warszawa 
+#   Reference:  (J,NP/A,204,121,197304) 
+#   Year:  1973 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/301/30151.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30151
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.2980E+01        1.5000E-01        1.0400E-01        2.8000E-02
+        1.3330E+01        1.0000E-01        6.2000E-02        1.4000E-02
+        1.3880E+01        9.0000E-02        3.7000E-02        9.0000E-03
+        1.4520E+01        1.2000E-01        4.2000E-02        9.0000E-03
+        1.5050E+01        2.0000E-01        3.0000E-02        8.0000E-03
+        1.5140E+01        1.4000E-01        2.7000E-02        6.0000E-03
+        1.5440E+01        1.7000E-01        1.9000E-02        5.0000E-03
+        1.5980E+01        1.7000E-01        3.8000E-02        9.0000E-03
+        1.6590E+01        9.0000E-02        4.5000E-02        1.1000E-02
+        1.7830E+01        1.4000E-01        3.4000E-02        3.0000E-02

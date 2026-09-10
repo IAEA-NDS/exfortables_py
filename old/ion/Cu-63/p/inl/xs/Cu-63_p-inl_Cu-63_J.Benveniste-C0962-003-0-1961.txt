@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 29-CU-63(P,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+# Reaction: 
+#   Process: P,INL 
+#   MF-MT number: 3 - nan 
+#   Incident energy:  6.2000e+00 MeV - 1.1030e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0962-003-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-63(P,INL)29-CU-63,,SIG) 
+#   First author: J.Benveniste 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,PR,123,1818,1961) 
+#   Year:  1961 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C09/C0962.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0962
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.2000E+00        0.0000E+00        2.1500E-01        2.5000E-02
+        8.8000E+00        0.0000E+00        3.0300E-01        2.0000E-02
+        1.0200E+01        0.0000E+00        3.4000E-01        2.0000E-02
+        1.1030E+01        0.0000E+00        3.9400E-01        2.0000E-02

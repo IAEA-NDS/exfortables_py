@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 2-HE-4(3-LI-8,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 2 
+#   A: 4 
+#   Nuclide: 2-HE-4 
+# Reaction: 
+#   Process: 3-LI-8,N 
+#   MF-MT number: 3 - nan 
+#   Incident energy:  1.5990e+00 MeV - 6.4360e+00 MeV 
+# Residual: 
+#   Z: 5 
+#   A: 11 
+#   Nuclide: 5-B-11 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1644-002-0 (entry-subentry-pointer) 
+#   Reaction code: (2-HE-4(3-LI-8,N)5-B-11,,SIG) 
+#   First author: R.N.Boyd 
+#   Institute:  (2JPNIPC): RIKEN (Institute of Physical and Chemical Research), Wako 
+#   Reference:  (J,PRL,68,(9),1283,199203) 
+#   Year:  1992 
+#   Facility:  (PRJFS): Secondary beam from projectile fragment separator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E16/E1644.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1644
+#
+#    E_in_cm(MeV)     dE_in_cm(MeV)           data(B)          ddata(B)
+        1.5990E+00        0.0000E+00        3.8180E-01        1.0220E-01
+        1.9620E+00        0.0000E+00        5.1250E-01        1.2590E-01
+        2.2000E+00        0.0000E+00        5.1840E-01        1.2590E-01
+        2.4270E+00        0.0000E+00        5.3150E-01        1.0570E-01
+        2.7330E+00        0.0000E+00        4.6380E-01        9.5040E-02
+        2.9490E+00        0.0000E+00        4.1390E-01        1.0220E-01
+        3.2440E+00        0.0000E+00        4.7920E-01        9.6230E-02
+        3.5270E+00        0.0000E+00        3.7470E-01        8.5540E-02
+        3.7770E+00        0.0000E+00        2.7840E-01        7.1280E-02
+        4.0490E+00        0.0000E+00        4.2460E-01        8.7920E-02
+        4.3140E+00        0.0000E+00        4.1610E-01        8.4530E-02
+        4.5930E+00        0.0000E+00        2.7490E-01        7.1280E-02
+        4.8320E+00        0.0000E+00        3.3670E-01        7.7220E-02
+        5.1270E+00        0.0000E+00        3.0460E-01        7.4850E-02
+        5.3760E+00        0.0000E+00        1.3110E-01        5.4650E-02
+        5.6260E+00        0.0000E+00        1.9290E-01        5.2270E-02
+        5.8980E+00        0.0000E+00        9.6660E-02        4.0390E-02
+        6.1930E+00        0.0000E+00        1.8580E-01        7.7220E-02
+        6.4360E+00        0.0000E+00        1.6250E-01        6.8170E-02

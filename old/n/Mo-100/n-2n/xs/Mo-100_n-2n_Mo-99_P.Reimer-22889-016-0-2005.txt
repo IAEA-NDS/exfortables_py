@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 42-MO-100(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 100 
+#   Nuclide: 42-MO-100 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.6200e+01 MeV - 2.0500e+01 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 99 
+#   Nuclide: 42-MO-99 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22889-016-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-100(N,2N)42-MO-99,,SIG) 
+#   First author: P.Reimer 
+#   Institute:  (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference:  (J,PR/C,71,044617,200504) 
+#   Year:  2005 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22889.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22889
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.6200E+01        3.0000E-01        1.2720E+00        1.2700E-01
+        1.8000E+01        1.0000E-01        9.8000E-01        7.8000E-02
+        1.9300E+01        1.0000E-01        1.0180E+00        1.8000E-01
+        2.0500E+01        1.0000E-01        8.1400E-01        1.0500E-01

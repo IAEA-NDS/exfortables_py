@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 14-SI-28(A,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 14 
+#   A: 28 
+#   Nuclide: 14-SI-28 
+# Reaction: 
+#   Process: A,P 
+#   MF-MT number: 3 - 601.0 
+#   Incident energy:  1.6000e+01 MeV - 2.4000e+01 MeV 
+# Residual: 
+#   Z: 15 
+#   A: 31 
+#   Nuclide: 15-P-31 
+#   Level energy: 1.2650e+00 MeV 
+# EXFOR BIB:
+#   Entry id: F0673-007-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-28(A,P)15-P-31,PAR,SIG) 
+#   First author: N.S.Zelenskaya 
+#   Institute:  (4RUSMOS): Moscow State University , Moscow 
+#   Reference:  (J,YF,9,691,1969) 
+#   Year:  1969 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F06/F0673.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F0673
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.6000E+01        0.0000E+00        6.7100E-03        1.3420E-03
+        1.8000E+01        0.0000E+00        3.2500E-03        6.5000E-04
+        2.0000E+01        0.0000E+00        1.9600E-03        3.9200E-04
+        2.2000E+01        0.0000E+00        1.4700E-03        2.9400E-04
+        2.4000E+01        0.0000E+00        1.0200E-03        2.0400E-04

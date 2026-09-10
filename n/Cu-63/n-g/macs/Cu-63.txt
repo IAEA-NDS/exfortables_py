@@ -1,0 +1,55 @@
+# Header: 
+#   title: 29-CU-63(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2026-09-07 
+# Target: 
+#   Z: 29 
+#   A: 63 
+#   Nuclide: 29-CU-63 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.5000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 8.94286E-02  |   3.57391E-02   (N = 7)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 8.96763E-02 +/-  4.17572E-03   (N = 7)
+#   MXW Simple Mean           |  Simple Stdev        : 7.54000E-02  |   1.66366E-02   (N = 5)
+#   MXW Weighted Mean        +/- Weighted Error      : 5.72931E-02 +/-  1.72387E-03   (N = 5)
+#   SPA Simple Mean           |  Simple Stdev        : 7.58875E-02  |   1.25209E-02   (N = 8)
+#   SPA Weighted Mean        +/- Weighted Error      : 6.55585E-02 +/-  1.16123E-03   (N = 8)
+#   SPA/AV Simple Mean        |  Simple Stdev        : 8.71000E-02  |           NAN   (N = 1)
+#   SPA/AV Weighted Mean     +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11399-010-0         R.L.Macklin             1957   2.4000E-02   0.0000E+00   1.1600E-01   1.2000E-02                
+11429-008-0         R.Booth                 1958   2.4000E-02   5.0000E-03   1.1400E-01   2.4000E-02                
+20205-004-0         J.F.Vervier             1959   2.5000E-02   0.0000E+00   1.0500E-01   9.4000E-03                
+30077-005-0         S.S.Hasan               1968   2.4000E-02   0.0000E+00   1.1000E-01   1.0000E-02                
+30493-003-0         S.N.Chaturvedi          1970   2.4000E-02   3.0000E-03   2.3000E-02   0.0000E+00                
+31712-015-0         M.Sriramachandra Murty    1973   2.4000E-02   5.0000E-03   1.0200E-01   1.2000E-02                
+30390-003-0         R.P.Anand               1979   2.5000E-02   5.0000E-03   5.6000E-02   7.0000E-03                
+22928-004-0         M.Heil                  2005   3.0000E-02   0.0000E+00   5.3000E-02   2.0000E-03     MXW        
+23326-004-0         M.Weigand               2017   2.5000E-02   0.0000E+00   9.2100E-02   0.0000E+00     MXW        
+23326-007-2         M.Weigand               2017   2.5000E-02   0.0000E+00   9.1800E-02   0.0000E+00     MXW        
+31779-005-0         L.Weissman              2017   3.0000E-02   0.0000E+00   6.9700E-02   3.4000E-03     MXW        
+31817-005-0         L.Weissman              2019   3.0000E-02   0.0000E+00   7.0400E-02   0.0000E+00     MXW        
+22996-005-0         M.Heil                  2008   2.5000E-02   0.0000E+00   5.8100E-02   2.3000E-03     SPA        
+22996-015-0         M.Heil                  2008   2.5000E-02   0.0000E+00   6.1700E-02   2.3000E-03     SPA        
+23326-002-1         M.Weigand               2017   2.5000E-02   0.0000E+00   8.5200E-02   0.0000E+00     SPA        
+23326-002-2         M.Weigand               2017   2.5000E-02   0.0000E+00   8.8600E-02   0.0000E+00     SPA        
+23326-005-1         M.Weigand               2017   2.5000E-02   0.0000E+00   8.5000E-02   0.0000E+00     SPA        
+23326-005-2         M.Weigand               2017   2.5000E-02   0.0000E+00   8.8600E-02   0.0000E+00     SPA        
+31779-004-0         L.Weissman              2017   3.5000E-02   0.0000E+00   6.7100E-02   3.4000E-03     SPA        
+31817-002-2         L.Weissman              2019   2.8000E-02   0.0000E+00   7.2800E-02   1.9000E-03     SPA        
+23326-006-2         M.Weigand               2017   2.5000E-02   0.0000E+00   8.7100E-02   0.0000E+00  SPA/AV        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+23326-003-0         M.Weigand               2017   2.5000E-02   0.0000E+00   8.7400E-02   0.0000E+00     SPA   DERIV
+V0102-094-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   9.4000E-02   1.0000E-02     MXW   RECOM
+V0102-095-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   5.5600E-02   2.2000E-03     MXW   RECOM

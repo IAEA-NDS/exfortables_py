@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 26-FE-0(N,EL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 26 
+#   A: 0 
+#   Nuclide: 26-FE-0 
+# Reaction: 
+#   Process: N,EL 
+#   MF-MT number: 3 - 2 
+#   Incident energy:  2.2500e+00 MeV - 2.4500e+00 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 0 
+#   Nuclide: 26-FE-0 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11396-010-0 (entry-subentry-pointer) 
+#   Reaction code: (26-FE-0(N,EL)26-FE-0,,SIG) 
+#   First author: L.Cranberg 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  (J,PR,103,343,5607) 
+#   Year:  1956 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11396.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11396
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.2500E+00        1.0000E-01        2.0500E+00        0.0000E+00
+        2.4500E+00        1.0000E-01        2.7100E+00        0.0000E+00

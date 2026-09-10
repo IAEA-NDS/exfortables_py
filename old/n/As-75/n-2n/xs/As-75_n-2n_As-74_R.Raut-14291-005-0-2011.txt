@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 33-AS-75(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 33 
+#   A: 75 
+#   Nuclide: 33-AS-75 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.1500e+01 MeV - 1.5000e+01 MeV 
+# Residual: 
+#   Z: 33 
+#   A: 74 
+#   Nuclide: 33-AS-74 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 14291-005-0 (entry-subentry-pointer) 
+#   Reaction code: (33-AS-75(N,2N)33-AS-74,,SIG) 
+#   First author: R.Raut 
+#   Institute:  (1USADKE): Duke University, Durham, NC 
+#   Reference:  (J,PR/C,83,044621,2011) 
+#   Year:  2011 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/142/14291.x4 
+#   nds:  https://nds.iaea.org/EXFOR/14291
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1500E+01        1.0000E-01        2.0930E-01        2.1900E-02
+        1.2500E+01        1.0000E-01        5.3460E-01        3.7600E-02
+        1.3250E+01        1.0000E-01        8.4500E-01        6.0700E-02
+        1.4000E+01        1.0000E-01        8.9650E-01        6.4400E-02
+        1.4500E+01        1.0000E-01        9.6970E-01        6.8900E-02
+        1.5000E+01        1.0000E-01        9.1860E-01        6.5500E-02

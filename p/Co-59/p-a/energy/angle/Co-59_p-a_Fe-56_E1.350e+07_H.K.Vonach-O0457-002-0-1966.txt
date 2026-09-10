@@ -1,0 +1,43 @@
+# Header: 
+#   Title: 27-CO-59(P,A)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 27 
+#   A: 59 
+#   Nuclide: 27-CO-59 
+# Reaction: 
+#   Process: P,A 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.3500e+01 MeV 
+# Residual: 
+#   Z: 26 
+#   A: 56 
+#   Nuclide: 26-FE-56 
+#   Outgoing energy:  2.7500e+00 MeV - 9.2500e+00 MeV 
+# EXFOR BIB:
+#   Entry id: O0457-002-0 (entry-subentry-pointer) 
+#   Reaction code: (27-CO-59(P,A)26-FE-56,,DA/DE) 
+#   First author: H.K.Vonach 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,PR,149,844,1966) 
+#   Year:  1966 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O04/O0457.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O0457
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)  data_cm(B/SR/EV) ddata_cm(B/SR/EV)
+        2.7500E+00        0.0000E+00        9.0000E+01        0.0000E+00        5.4000E-11        5.4000E-12
+        3.2500E+00        0.0000E+00        9.0000E+01        0.0000E+00        1.9200E-10        1.9200E-11
+        3.7500E+00        0.0000E+00        9.0000E+01        0.0000E+00        1.9000E-10        1.9000E-11
+        4.2500E+00        0.0000E+00        9.0000E+01        0.0000E+00        2.2000E-10        2.2000E-11
+        4.7500E+00        0.0000E+00        9.0000E+01        0.0000E+00        4.0200E-10        4.0200E-11
+        5.2500E+00        0.0000E+00        9.0000E+01        0.0000E+00        4.8000E-10        4.8000E-11
+        5.7500E+00        0.0000E+00        9.0000E+01        0.0000E+00        6.4200E-10        6.4200E-11
+        6.2500E+00        0.0000E+00        9.0000E+01        0.0000E+00        7.8400E-10        7.8400E-11
+        6.7500E+00        0.0000E+00        9.0000E+01        0.0000E+00        8.9000E-10        8.9000E-11
+        7.2500E+00        0.0000E+00        9.0000E+01        0.0000E+00        9.7600E-10        9.7600E-11
+        7.7500E+00        0.0000E+00        9.0000E+01        0.0000E+00        1.0200E-09        1.0200E-10
+        8.2500E+00        0.0000E+00        9.0000E+01        0.0000E+00        9.1200E-10        9.1200E-11
+        8.7500E+00        0.0000E+00        9.0000E+01        0.0000E+00        7.3200E-10        7.3200E-11
+        9.2500E+00        0.0000E+00        9.0000E+01        0.0000E+00        4.8800E-10        4.8800E-11

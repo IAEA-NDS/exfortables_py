@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 13-AL-27(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 13 
+#   A: 27 
+#   Nuclide: 13-AL-27 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.6700e+01 MeV - 2.6000e+03 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 10 
+#   Nuclide: 4-BE-10 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0479-004-0 (entry-subentry-pointer) 
+#   Reaction code: (13-AL-27(P,X)4-BE-10,,SIG) 
+#   First author: B.Dittrich 
+#   Institute:  (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference:  ((P,NEANDC(E)-312,(5),51,1990)=(P,INDC(GER)-035/LN,51,1990)) 
+#   Year:  1990 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0479.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0479
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.6700E+01        8.0000E-01        1.8300E-05        1.6000E-06
+        8.0000E+01        3.0000E-01        4.6300E-05        2.4000E-06
+        9.5500E+01        2.0000E-01        9.1100E-05        8.0000E-06
+        1.5530E+02        1.1000E+00        1.6200E-04        7.0000E-06
+        2.0200E+02        1.4000E+00        2.7900E-04        1.7000E-05
+        6.0000E+02        0.0000E+00        1.3300E-03        4.0000E-05
+        8.0000E+02        0.0000E+00        2.1000E-03        1.3000E-04
+        1.2000E+03        0.0000E+00        3.0100E-03        1.8000E-04
+        2.6000E+03        0.0000E+00        3.0200E-03        1.8000E-04

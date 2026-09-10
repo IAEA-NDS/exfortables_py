@@ -1,0 +1,51 @@
+# Header: 
+#   Title: 29-CU-65(P,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: P,G 
+#   MF-MT number: 3 - 102.0 
+#   Incident energy:  1.9951e+00 MeV - 4.3523e+00 MeV 
+# Residual: 
+#   Z: 30 
+#   A: 66 
+#   Nuclide: 30-ZN-66 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0739-007-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(P,G)30-ZN-66,,SIG) 
+#   First author: S.Qiang 
+#   Institute:  (1USAUSA): United States of America 
+#   Reference:  (T,QIANG,1990) 
+#   Year:  1990 
+#   Facility:  (VDG): Van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C07/C0739.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0739
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.9951E+00        0.0000E+00        4.3800E-04        1.6400E-05
+        1.9972E+00        0.0000E+00        5.0700E-04        1.9500E-05
+        2.1263E+00        0.0000E+00        6.4400E-04        2.5000E-05
+        2.1961E+00        0.0000E+00        6.3900E-04        2.5400E-05
+        2.2749E+00        0.0000E+00        4.9900E-04        1.9000E-05
+        2.3959E+00        0.0000E+00        2.5100E-04        1.0500E-05
+        2.5065E+00        0.0000E+00        1.7400E-04        8.9000E-06
+        2.6264E+00        0.0000E+00        1.8500E-04        8.0000E-06
+        2.7554E+00        0.0000E+00        1.9200E-04        9.6000E-06
+        2.8843E+00        0.0000E+00        2.4900E-04        1.4000E-05
+        2.9942E+00        0.0000E+00        2.8800E-04        2.1700E-05
+        3.1002E+00        0.0000E+00        2.3800E-04        1.4000E-05
+        3.1941E+00        0.0000E+00        2.4300E-04        2.2200E-05
+        3.2956E+00        0.0000E+00        2.3000E-04        2.0700E-05
+        3.3933E+00        0.0000E+00        2.7100E-04        2.6200E-05
+        3.4937E+00        0.0000E+00        2.4700E-04        2.9500E-05
+        3.5939E+00        0.0000E+00        4.3800E-04        5.0900E-05
+        3.6937E+00        0.0000E+00        3.6000E-04        4.2800E-05
+        3.7777E+00        0.0000E+00        4.7800E-04        6.1700E-05
+        3.9936E+00        0.0000E+00        3.2100E-04        6.8600E-05
+        4.2618E+00        0.0000E+00        3.9300E-04        2.3000E-05
+        4.3523E+00        0.0000E+00        3.9400E-04        1.7900E-05

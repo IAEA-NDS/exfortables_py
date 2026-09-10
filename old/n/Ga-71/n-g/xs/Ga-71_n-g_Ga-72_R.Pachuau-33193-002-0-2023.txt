@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 31-GA-71(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 31 
+#   A: 71 
+#   Nuclide: 31-GA-71 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  2.1500e+00 MeV - 3.1900e+00 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 72 
+#   Nuclide: 31-GA-72 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33193-002-0 (entry-subentry-pointer) 
+#   Reaction code: (31-GA-71(N,G)31-GA-72,,SIG) 
+#   First author: R.Pachuau 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,CPH/C,47,074001,2023) 
+#   Year:  2023 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33193.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33193
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.1500E+00        1.5000E-01        9.1400E-03        8.1346E-04
+        3.1900E+00        1.2000E-01        5.7400E-03        5.0282E-04

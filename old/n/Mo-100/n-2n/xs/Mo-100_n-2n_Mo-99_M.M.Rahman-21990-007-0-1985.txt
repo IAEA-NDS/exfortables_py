@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 42-MO-100(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 42 
+#   A: 100 
+#   Nuclide: 42-MO-100 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  8.1320e+00 MeV - 9.5770e+00 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 99 
+#   Nuclide: 42-MO-99 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 21990-007-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-100(N,2N)42-MO-99,,SIG) 
+#   First author: M.M.Rahman 
+#   Institute:  (2GERJUL): Forschungszentrum Juelich, Juelich 
+#   Reference:  (J,NP/A,435,43,198503) 
+#   Year:  1985 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/219/21990.x4 
+#   nds:  https://nds.iaea.org/EXFOR/21990
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        8.1320E+00        1.0900E-01        1.4000E-02        2.0000E-03
+        8.6320E+00        1.2300E-01        8.0000E-02        1.0000E-02
+        9.1530E+00        1.2300E-01        4.1800E-01        4.8000E-02
+        9.5770E+00        2.1500E-01        6.7900E-01        7.5000E-02

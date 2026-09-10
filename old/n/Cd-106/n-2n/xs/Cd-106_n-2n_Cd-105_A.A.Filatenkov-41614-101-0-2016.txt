@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 48-CD-106(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 48 
+#   A: 106 
+#   Nuclide: 48-CD-106 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3470e+01 MeV - 1.4860e+01 MeV 
+# Residual: 
+#   Z: 48 
+#   A: 105 
+#   Nuclide: 48-CD-105 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41614-101-0 (entry-subentry-pointer) 
+#   Reaction code: (48-CD-106(N,2N)48-CD-105,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,INDC(CCP)-0460,2016) 
+#   Year:  2016 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41614.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41614
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3470E+01        0.0000E+00        3.9800E-01        3.6696E-02
+        1.3640E+01        0.0000E+00        4.4100E-01        4.4100E-02
+        1.3880E+01        0.0000E+00        4.5700E-01        4.1953E-02
+        1.4050E+01        0.0000E+00        4.8500E-01        3.9818E-02
+        1.4280E+01        0.0000E+00        4.7800E-01        4.7800E-02
+        1.4470E+01        0.0000E+00        5.4500E-01        5.3519E-02
+        1.4680E+01        0.0000E+00        5.2100E-01        4.2201E-02
+        1.4810E+01        0.0000E+00        5.4300E-01        4.4200E-02
+        1.4860E+01        0.0000E+00        5.5900E-01        5.8136E-02

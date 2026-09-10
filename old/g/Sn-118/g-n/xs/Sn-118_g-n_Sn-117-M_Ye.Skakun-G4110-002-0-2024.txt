@@ -1,0 +1,53 @@
+# Header: 
+#   Title: 50-SN-118(G,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 50 
+#   A: 118 
+#   Nuclide: 50-SN-118 
+# Reaction: 
+#   Process: G,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  9.7770e+00 MeV - 1.3996e+01 MeV 
+# Residual: 
+#   Z: 50 
+#   A: 117 
+#   Nuclide: 50-SN-117-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: G4110-002-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-118(G,N)50-SN-117-M,,SIG,,BRA) 
+#   First author: Ye.Skakun 
+#   Institute:  (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference:  (J,VAT/I,,(5/153),12,2024) 
+#   Year:  2024 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G41/G4110.x4 
+#   nds:  https://nds.iaea.org/EXFOR/G4110
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.7770E+00        0.0000E+00        3.9400E-04        0.0000E+00
+        9.9950E+00        0.0000E+00        5.7700E-04        0.0000E+00
+        1.0087E+01        0.0000E+00        6.3700E-04        0.0000E+00
+        1.0245E+01        0.0000E+00        7.9000E-04        0.0000E+00
+        1.0390E+01        0.0000E+00        8.8100E-04        0.0000E+00
+        1.0495E+01        0.0000E+00        9.7200E-04        0.0000E+00
+        1.0601E+01        0.0000E+00        1.0950E-03        0.0000E+00
+        1.0746E+01        0.0000E+00        1.2160E-03        0.0000E+00
+        1.0818E+01        0.0000E+00        1.2470E-03        0.0000E+00
+        1.0996E+01        0.0000E+00        1.4300E-03        0.0000E+00
+        1.1246E+01        0.0000E+00        1.7660E-03        0.0000E+00
+        1.1293E+01        0.0000E+00        1.8270E-03        0.0000E+00
+        1.1391E+01        0.0000E+00        1.9180E-03        0.0000E+00
+        1.1497E+01        0.0000E+00        2.0710E-03        0.0000E+00
+        1.1741E+01        0.0000E+00        2.5300E-03        2.1500E-04
+        1.1998E+01        0.0000E+00        2.9590E-03        2.4600E-04
+        1.2248E+01        0.0000E+00        3.5400E-03        3.3800E-04
+        1.2499E+01        0.0000E+00        4.1840E-03        4.3000E-04
+        1.2749E+01        0.0000E+00        4.9810E-03        4.9200E-04
+        1.3000E+01        0.0000E+00        5.9010E-03        5.5300E-04
+        1.3250E+01        0.0000E+00        6.9740E-03        7.0700E-04
+        1.3494E+01        0.0000E+00        8.2930E-03        8.6000E-04
+        1.3745E+01        0.0000E+00        9.7360E-03        9.8300E-04
+        1.3996E+01        0.0000E+00        1.1423E-02        1.1670E-03

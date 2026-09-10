@@ -1,0 +1,34 @@
+# Header: 
+#   Title: 32-GE-73(HE3,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 32 
+#   A: 73 
+#   Nuclide: 32-GE-73 
+# Reaction: 
+#   Process: HE3,3N 
+#   MF-MT number: 3 - 17 
+#   Incident energy:  3.2500e+01 MeV - 3.6500e+01 MeV 
+# Residual: 
+#   Z: 34 
+#   A: 73 
+#   Nuclide: 34-SE-73-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: B0152-005-0 (entry-subentry-pointer) 
+#   Reaction code: (32-GE-73(HE3,3N)34-SE-73-G,M+,SIG,,,EXP) 
+#   First author: M.Guillaume 
+#   Institute:  (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference:  (J,ARI,29,411,1978) 
+#   Year:  1978 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/B01/B0152.x4 
+#   nds:  https://nds.iaea.org/EXFOR/B0152
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        3.2500E+01        0.0000E+00        5.6900E-01        9.1000E-02
+        3.3500E+01        0.0000E+00        7.5600E-01        1.2100E-01
+        3.4500E+01        0.0000E+00        9.8600E-01        1.5800E-01
+        3.5500E+01        0.0000E+00        1.2330E+00        1.9700E-01
+        3.6500E+01        0.0000E+00        1.4980E+00        2.4000E-01

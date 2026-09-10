@@ -1,0 +1,48 @@
+# Header: 
+#   Title: 28-NI-58(P,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  4.2000e+01 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+#   Outgoing energy:  1.9000e+01 MeV - 2.8000e+01 MeV 
+# EXFOR BIB:
+#   Entry id: E2400-245-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-58(P,X)1-H-3,,DA/DE) 
+#   First author: M.Harada 
+#   Institute:  (2JPNKYU): Kyushu University , Fukuoka 
+#   Reference:  (J,NSTS,2,393,2002) 
+#   Year:  2002 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E24/E2400.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E2400
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.9000E+01        0.0000E+00        7.5000E+01        0.0000E+00        5.2676E-12        0.0000E+00
+        1.9500E+01        0.0000E+00        7.5000E+01        0.0000E+00        1.5789E-11        0.0000E+00
+        2.0000E+01        0.0000E+00        7.5000E+01        0.0000E+00        7.0602E-12        0.0000E+00
+        2.0500E+01        0.0000E+00        7.5000E+01        0.0000E+00        4.4265E-12        0.0000E+00
+        2.1000E+01        0.0000E+00        7.5000E+01        0.0000E+00        6.2114E-12        0.0000E+00
+        2.1500E+01        0.0000E+00        7.5000E+01        0.0000E+00        1.7780E-12        0.0000E+00
+        2.2000E+01        0.0000E+00        7.5000E+01        0.0000E+00        4.4519E-12        0.0000E+00
+        2.2500E+01        0.0000E+00        7.5000E+01        0.0000E+00        6.2412E-12        0.0000E+00
+        2.3000E+01        0.0000E+00        7.5000E+01        0.0000E+00        8.9267E-13        0.0000E+00
+        2.3500E+01        0.0000E+00        7.5000E+01        0.0000E+00        5.3618E-12        0.0000E+00
+        2.4000E+01        0.0000E+00        7.5000E+01        0.0000E+00        1.7890E-12        0.0000E+00
+        2.4500E+01        0.0000E+00        7.5000E+01        0.0000E+00        0.0000E+00        0.0000E+00
+        2.5000E+01        0.0000E+00        7.5000E+01        0.0000E+00        2.6881E-12        0.0000E+00
+        2.5500E+01        0.0000E+00        7.5000E+01        0.0000E+00        1.7934E-12        0.0000E+00
+        2.6000E+01        0.0000E+00        7.5000E+01        0.0000E+00        0.0000E+00        0.0000E+00
+        2.6500E+01        0.0000E+00        7.5000E+01        0.0000E+00        1.1673E-11        0.0000E+00
+        2.7000E+01        0.0000E+00        7.5000E+01        0.0000E+00        5.3910E-12        0.0000E+00
+        2.7500E+01        0.0000E+00        7.5000E+01        0.0000E+00        2.6971E-12        0.0000E+00
+        2.8000E+01        0.0000E+00        7.5000E+01        0.0000E+00        0.0000E+00        0.0000E+00

@@ -1,0 +1,42 @@
+# Header: 
+#   Title: 90-TH-232(A,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.4000e+02 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+#   Outgoing energy:  1.3860e+01 MeV - 1.2700e+02 MeV 
+# EXFOR BIB:
+#   Entry id: C0884-228-0 (entry-subentry-pointer) 
+#   Reaction code: (90-TH-232(A,X)1-H-3,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,659,1979) 
+#   Year:  1979 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C08/C0884.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0884
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        1.3860E+01        0.0000E+00        7.5000E+01        0.0000E+00        8.9740E-12        0.0000E+00
+        1.7900E+01        0.0000E+00        7.5000E+01        0.0000E+00        3.3580E-11        0.0000E+00
+        2.6890E+01        0.0000E+00        7.5000E+01        0.0000E+00        1.8520E-11        0.0000E+00
+        3.5930E+01        0.0000E+00        7.5000E+01        0.0000E+00        1.1830E-11        0.0000E+00
+        4.7710E+01        0.0000E+00        7.5000E+01        0.0000E+00        7.5360E-12        0.0000E+00
+        5.4910E+01        0.0000E+00        7.5000E+01        0.0000E+00        4.8200E-12        0.0000E+00
+        6.4000E+01        0.0000E+00        7.5000E+01        0.0000E+00        3.7450E-12        0.0000E+00
+        7.5790E+01        0.0000E+00        7.5000E+01        0.0000E+00        2.5060E-12        0.0000E+00
+        9.0260E+01        0.0000E+00        7.5000E+01        0.0000E+00        1.3100E-12        0.0000E+00
+        1.0100E+02        0.0000E+00        7.5000E+01        0.0000E+00        6.2270E-13        0.0000E+00
+        1.0820E+02        0.0000E+00        7.5000E+01        0.0000E+00        3.2740E-13        0.0000E+00
+        1.1900E+02        0.0000E+00        7.5000E+01        0.0000E+00        1.4820E-13        0.0000E+00
+        1.2700E+02        0.0000E+00        7.5000E+01        0.0000E+00        6.7230E-14        0.0000E+00

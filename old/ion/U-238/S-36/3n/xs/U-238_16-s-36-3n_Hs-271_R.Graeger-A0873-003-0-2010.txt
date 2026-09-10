@@ -1,0 +1,31 @@
+# Header: 
+#   Title: 92-U-238(16-S-36,3N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: 16-S-36,3N 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.7950e+02 MeV - 1.9350e+02 MeV 
+# Residual: 
+#   Z: 108 
+#   A: 271 
+#   Nuclide: 108-HS-271 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0873-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(16-S-36,3N)108-HS-271,,SIG) 
+#   First author: R.Graeger 
+#   Institute:  (2GERMUN): Technische Universitaet Muenchen 
+#   Reference:  (J,PR/C,81,061601,2010) 
+#   Year:  2010 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A08/A0873.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0873
+#
+#       E_in(MeV)        dE_in(MeV)       data_max(B)      ddata_max(B)
+        1.7950E+02        1.5000E+00        2.9000E-12        0.0000E+00
+        1.9350E+02        1.5000E+00        1.5000E-12        0.0000E+00

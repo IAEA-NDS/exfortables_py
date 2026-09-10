@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 62-SM-147(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 62 
+#   A: 147 
+#   Nuclide: 62-SM-147 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 802.0 
+#   Incident energy:  2.5300e-08 MeV 
+# Residual: 
+#   Z: 60 
+#   A: 144 
+#   Nuclide: 60-ND-144 
+#   Level energy: 1.3100e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 20564-002-0 (entry-subentry-pointer) 
+#   Reaction code: (62-SM-147(N,A)60-ND-144,PAR,SIG,,MXW) 
+#   First author: A.Emsallem 
+#   Institute:  (2FR LYO): Universite de Lyon 
+#   Reference:  (J,NP/A,231,437,1974) 
+#   Year:  1974 
+#   Facility:  (REAC): Reactor 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20564.x4 
+#   nds:  https://nds.iaea.org/EXFOR/20564
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        2.5300E-08        0.0000E+00        3.8000E-05        7.0000E-06

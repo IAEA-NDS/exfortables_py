@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 50-SN-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 50 
+#   A: 0 
+#   Nuclide: 50-SN-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4910e+01 MeV - 3.7930e+01 MeV 
+# Residual: 
+#   Z: 52 
+#   A: 121 
+#   Nuclide: 52-TE-121-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4189-005-2 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-0(A,X)52-TE-121-M,,SIG) 
+#   First author: R.A.Rebeles 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,NIM/B,260,672,2007) 
+#   Year:  2007 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D41/D4189.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4189
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4910E+01        2.0300E+00        1.2020E-02        9.6000E-04
+        1.7810E+01        1.6400E+00        6.5940E-02        5.2800E-03
+        2.0430E+01        1.3500E+00        1.0867E-01        8.6900E-03
+        2.2830E+01        1.1300E+00        9.8040E-02        7.8400E-03
+        2.5070E+01        9.4000E-01        7.8860E-02        6.3100E-03
+        2.7180E+01        7.8000E-01        8.6480E-02        6.9200E-03
+        2.9170E+01        6.4000E-01        1.0938E-01        8.7500E-03
+        3.1060E+01        5.2000E-01        1.5648E-01        1.2520E-02
+        3.2880E+01        4.1000E-01        2.1950E-01        1.7560E-02
+        3.4620E+01        3.1000E-01        2.8065E-01        2.2450E-02
+        3.6310E+01        2.1000E-01        3.1881E-01        2.5500E-02
+        3.7930E+01        1.2000E-01        3.3175E-01        2.6540E-02

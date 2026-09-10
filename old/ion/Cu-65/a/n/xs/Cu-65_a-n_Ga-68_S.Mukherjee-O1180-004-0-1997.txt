@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 29-CU-65(A,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: A,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  2.6450e+01 MeV - 7.1560e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 68 
+#   Nuclide: 31-GA-68 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1180-004-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(A,N)31-GA-68,,SIG) 
+#   First author: S.Mukherjee 
+#   Institute:  (3INDBDA): M.S. University of Baroda, Baroda 
+#   Reference:  (J,PRM,49,253,1997) 
+#   Year:  1997 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O11/O1180.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1180
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        2.6450E+01        0.0000E+00        2.5344E-01        7.4063E-02
+        3.4470E+01        0.0000E+00        6.4508E-02        5.8218E-03
+        3.9410E+01        0.0000E+00        2.8341E-02        1.0574E-03
+        4.4490E+01        0.0000E+00        1.3007E-02        2.0889E-04
+        4.6630E+01        0.0000E+00        7.3200E-03        6.1781E-05
+        5.0370E+01        0.0000E+00        5.5100E-03        3.9948E-05
+        5.3510E+01        0.0000E+00        2.3690E-03        6.9175E-06
+        5.7380E+01        0.0000E+00        1.8360E-03        3.8923E-06
+        6.1930E+01        0.0000E+00        9.6700E-04        1.2281E-06
+        7.1560E+01        0.0000E+00        7.3900E-04        6.7249E-07

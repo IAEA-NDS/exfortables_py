@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 42-MO-94(P,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 42 
+#   A: 94 
+#   Nuclide: 42-MO-94 
+# Reaction: 
+#   Process: P,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4040e+01 MeV - 1.9060e+01 MeV 
+# Residual: 
+#   Z: 43 
+#   A: 93 
+#   Nuclide: 43-TC-93-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C2413-012-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-94(P,2N)43-TC-93-G,,SIG) 
+#   First author: E.Lamere 
+#   Institute:  (1USANOT): University of Notre Dame, Notre Dame, IN 
+#   Reference:  (J,PR/C,100,034614,2019) 
+#   Year:  2019 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C24/C2413.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C2413
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4040E+01        5.0000E-02        7.7000E-03        1.5000E-03
+        1.5040E+01        5.0000E-02        1.3400E-01        2.0000E-02
+        1.6060E+01        4.0000E-02        2.9200E-01        6.5000E-02
+        1.7060E+01        3.0000E-02        4.5700E-01        7.6000E-02
+        1.8050E+01        4.0000E-02        3.9100E-01        1.0200E-01
+        1.9060E+01        3.0000E-02        4.6700E-01        1.1600E-01

@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 39-Y-89(N,4N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Process: N,4N 
+#   MF-MT number: 3 - 37 
+#   Incident energy:  5.9000e+01 MeV - 8.9300e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 86 
+#   Nuclide: 39-Y-86 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 31714-043-0 (entry-subentry-pointer) 
+#   Reaction code: (39-Y-89(N,4N)39-Y-86,,SIG) 
+#   First author: J.Vrzalova 
+#   Institute:  (3CZRUJF): Nuclear Physics Institute of Czech Academy Sci., Rez 
+#   Reference:  (J,NIM/A,726,84,2013) 
+#   Year:  2013 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31714.x4 
+#   nds:  https://nds.iaea.org/EXFOR/31714
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.9000E+01        4.0000E-01        1.3300E-01        2.1000E-02
+        6.6400E+01        4.0000E-01        8.7000E-02        1.4000E-02
+        7.2800E+01        4.0000E-01        7.6000E-02        1.2000E-02
+        8.9300E+01        7.0000E-01        5.6000E-02        8.0000E-03

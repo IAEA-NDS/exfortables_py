@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 30-ZN-67(P,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 30 
+#   A: 67 
+#   Nuclide: 30-ZN-67 
+# Reaction: 
+#   Process: P,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.4730e+01 MeV - 2.5710e+01 MeV 
+# Residual: 
+#   Z: 31 
+#   A: 66 
+#   Nuclide: 31-GA-66 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0506-004-2 (entry-subentry-pointer) 
+#   Reaction code: (30-ZN-67(P,2N)31-GA-66,,SIG) 
+#   First author: F.Szelecsenyi 
+#   Institute:  (1USAMSM): Mount Sinai Medical Center, Miami Beach, FL 
+#   Reference:  (J,ARI,49,1005,1998) 
+#   Year:  1998 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C05/C0506.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0506
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4730E+01        6.4000E-01        9.4400E-02        1.2700E-02
+        1.5870E+01        6.0000E-01        2.2000E-01        2.6000E-02
+        1.7060E+01        5.7000E-01        2.9300E-01        3.4000E-02
+        1.8020E+01        5.4000E-01        3.6300E-01        3.9000E-02
+        1.8970E+01        5.1000E-01        3.3900E-01        3.8000E-02
+        1.9190E+01        5.0000E-01        4.0500E-01        4.5000E-02
+        1.9690E+01        4.9000E-01        4.0300E-01        4.4000E-02
+        2.0140E+01        4.8000E-01        4.2500E-01        4.6000E-02
+        2.0860E+01        4.5000E-01        4.0900E-01        4.5000E-02
+        2.1060E+01        4.5000E-01        4.2100E-01        4.8000E-02
+        2.1220E+01        4.4000E-01        4.4900E-01        5.0000E-02
+        2.1870E+01        4.2000E-01        4.2200E-01        4.5000E-02
+        2.1910E+01        4.2000E-01        4.0800E-01        4.4000E-02
+        2.3110E+01        3.9000E-01        4.1700E-01        4.5000E-02
+        2.3450E+01        3.8000E-01        3.9500E-01        4.3000E-02
+        2.3940E+01        3.6000E-01        3.8400E-01        4.2000E-02
+        2.4780E+01        3.4000E-01        3.4100E-01        3.6000E-02
+        2.5710E+01        3.1000E-01        3.0400E-01        3.2000E-02

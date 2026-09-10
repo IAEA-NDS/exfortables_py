@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 73-TA-181(HE3,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 73 
+#   A: 181 
+#   Nuclide: 73-TA-181 
+# Reaction: 
+#   Process: HE3,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.5500e+01 MeV - 3.2700e+01 MeV 
+# Residual: 
+#   Z: 73 
+#   A: 180 
+#   Nuclide: 73-TA-180-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: R0053-009-0 (entry-subentry-pointer) 
+#   Reaction code: (73-TA-181(HE3,X)73-TA-180-G,,SIG) 
+#   First author: N.E.Scott 
+#   Institute:  (1USAPUR): Purdue University, West Lafayette, IN 
+#   Reference:  (J,NP/A,119,131,1968) 
+#   Year:  1968 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/R00/R0053.x4 
+#   nds:  https://nds.iaea.org/EXFOR/R0053
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        2.5500E+01        0.0000E+00        2.5600E-02        0.0000E+00
+        2.8100E+01        0.0000E+00        2.4200E-02        0.0000E+00
+        3.0400E+01        0.0000E+00        2.1200E-02        0.0000E+00
+        3.2700E+01        0.0000E+00        2.3800E-02        0.0000E+00

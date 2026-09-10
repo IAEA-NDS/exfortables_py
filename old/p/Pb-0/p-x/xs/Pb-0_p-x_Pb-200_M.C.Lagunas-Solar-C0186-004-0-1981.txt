@@ -1,0 +1,45 @@
+# Header: 
+#   Title: 82-PB-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  5.4400e+01 MeV - 6.4400e+01 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 200 
+#   Nuclide: 82-PB-200 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: C0186-004-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(P,X)82-PB-200,CUM,SIG) 
+#   First author: M.C.Lagunas-Solar 
+#   Institute:  (1USADAV): University of California, Davis, CA 
+#   Reference:  (J,ARI,32,817,1981) 
+#   Year:  1981 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C01/C0186.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0186
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        5.4400E+01        8.0000E-02        6.5100E-03        8.4630E-04
+        5.5800E+01        8.0000E-02        7.0100E-03        9.1130E-04
+        5.7400E+01        8.0000E-02        6.8500E-03        8.9050E-04
+        5.8100E+01        8.0000E-02        7.0200E-03        9.1260E-04
+        5.8400E+01        8.0000E-02        1.2700E-02        1.6510E-03
+        5.9300E+01        8.0000E-02        1.2100E-02        1.5730E-03
+        5.9900E+01        8.0000E-02        1.4900E-02        1.9370E-03
+        6.0400E+01        8.0000E-02        2.3000E-02        2.9900E-03
+        6.0800E+01        8.0000E-02        2.4100E-02        3.1330E-03
+        6.1400E+01        8.0000E-02        2.9800E-02        3.8740E-03
+        6.2200E+01        8.0000E-02        3.9100E-02        5.0830E-03
+        6.2400E+01        8.0000E-02        4.0000E-02        5.2000E-03
+        6.3100E+01        8.0000E-02        3.7900E-02        4.9270E-03
+        6.3700E+01        8.0000E-02        5.0800E-02        6.6040E-03
+        6.3900E+01        8.0000E-02        6.1200E-02        7.9560E-03
+        6.4400E+01        8.0000E-02        6.6700E-02        8.6710E-03

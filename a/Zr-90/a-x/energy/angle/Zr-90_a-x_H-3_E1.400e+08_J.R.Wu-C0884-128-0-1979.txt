@@ -1,0 +1,39 @@
+# Header: 
+#   Title: 40-ZR-90(A,X)  Double differential cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 6 - None 
+#   Incident energy:  1.4000e+02 MeV 
+# Residual: 
+#   Z: 1 
+#   A: 3 
+#   Nuclide: 1-H-3 
+#   Outgoing energy:  9.6120e+00 MeV - 7.5610e+01 MeV 
+# EXFOR BIB:
+#   Entry id: C0884-128-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-90(A,X)1-H-3,,DA/DE) 
+#   First author: J.R.Wu 
+#   Institute:  (1USAMRY): University of Maryland, College Park, MD 
+#   Reference:  (J,PR/C,19,659,1979) 
+#   Year:  1979 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C08/C0884.x4 
+#   nds:  https://nds.iaea.org/EXFOR/C0884
+#
+#  E_out_lab(MeV)   dE_out_lab(MeV) Angle_lab(degrees) dAngle_lab(degrees)     data(B/SR/EV)    ddata(B/SR/EV)
+        9.6120E+00        0.0000E+00        1.2000E+02        0.0000E+00        1.5150E-11        0.0000E+00
+        1.4200E+01        0.0000E+00        1.2000E+02        0.0000E+00        6.2310E-12        0.0000E+00
+        1.9760E+01        0.0000E+00        1.2000E+02        0.0000E+00        2.9700E-12        0.0000E+00
+        2.8170E+01        0.0000E+00        1.2000E+02        0.0000E+00        1.5600E-12        0.0000E+00
+        3.8460E+01        0.0000E+00        1.2000E+02        0.0000E+00        7.7950E-13        0.0000E+00
+        5.0600E+01        0.0000E+00        1.2000E+02        0.0000E+00        3.1960E-13        0.0000E+00
+        5.9920E+01        0.0000E+00        1.2000E+02        0.0000E+00        1.3120E-13        0.0000E+00
+        6.5450E+01        0.0000E+00        1.2000E+02        0.0000E+00        5.1340E-14        0.0000E+00
+        7.1930E+01        0.0000E+00        1.2000E+02        0.0000E+00        2.1100E-14        0.0000E+00
+        7.5610E+01        0.0000E+00        1.2000E+02        0.0000E+00        1.1110E-14        0.0000E+00

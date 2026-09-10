@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 40-ZR-92(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 40 
+#   A: 92 
+#   Nuclide: 40-ZR-92 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 39 
+#   A: 92 
+#   Nuclide: 39-Y-92 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11896-011-0 (entry-subentry-pointer) 
+#   Reaction code: (40-ZR-92(N,P)39-Y-92,,SIG) 
+#   First author: C.H.Reed 
+#   Institute:  (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference:  ((R,TID-11929,1960)=(T,REED,1960)) 
+#   Year:  1960 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11896.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11896
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4100E+01        0.0000E+00        2.0700E-02        9.0000E-04

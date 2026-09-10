@@ -1,0 +1,32 @@
+# Header: 
+#   Title: 51-SB-121(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 51 
+#   A: 121 
+#   Nuclide: 51-SB-121 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.2500e+01 MeV - 1.8870e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 120 
+#   Nuclide: 51-SB-120-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 33181-002-0 (entry-subentry-pointer) 
+#   Reaction code: (51-SB-121(N,2N)51-SB-120-M,,SIG,,SPA) 
+#   First author: R.K.Singh 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,CPH/C,46,054002,2022) 
+#   Year:  2022.0 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/331/33181.x4 
+#   nds:  https://nds.iaea.org/EXFOR/33181
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.2500E+01        6.8000E-01        4.2447E-01        4.6350E-02
+        1.5790E+01        5.5000E-01        5.9625E-01        9.4370E-02
+        1.8870E+01        5.9000E-01        6.3368E-01        5.5170E-02

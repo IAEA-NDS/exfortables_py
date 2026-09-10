@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 66-DY-0(P,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 66 
+#   A: 0 
+#   Nuclide: 66-DY-0 
+# Reaction: 
+#   Process: P,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.1900e+01 MeV - 3.5300e+01 MeV 
+# Residual: 
+#   Z: 65 
+#   A: 156 
+#   Nuclide: 65-TB-156 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D4290-010-0 (entry-subentry-pointer) 
+#   Reaction code: (66-DY-0(P,X)65-TB-156,,SIG) 
+#   First author: F.Tarkanyi 
+#   Institute:  (3HUNDEB): Institute for Nuclear Research (ATOMKI), Debrecen 
+#   Reference:  (J,ANE,62,375,2013) 
+#   Year:  2013 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D42/D4290.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D4290
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.5300E+01        3.0000E-01        2.5700E-03        2.8000E-04
+        3.3800E+01        3.0000E-01        2.1400E-03        2.3000E-04
+        3.2300E+01        4.0000E-01        1.7900E-03        1.9000E-04
+        3.0800E+01        4.0000E-01        1.2700E-03        1.4000E-04
+        2.9200E+01        4.0000E-01        8.7000E-04        1.0000E-04
+        2.7500E+01        4.0000E-01        5.4000E-04        6.0000E-05
+        2.5700E+01        5.0000E-01        2.5000E-04        3.0000E-05
+        2.3800E+01        5.0000E-01        1.1000E-04        1.0000E-05
+        2.1900E+01        5.0000E-01        7.0000E-05        1.0000E-05

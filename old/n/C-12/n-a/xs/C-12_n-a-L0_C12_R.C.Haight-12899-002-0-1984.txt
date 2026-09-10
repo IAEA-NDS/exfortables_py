@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 6-C-12(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 800 
+#   Incident energy:  1.4100e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 9 
+#   Nuclide: 4-BE-9 
+#   Level energy: 0.0000e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 12899-002-0 (entry-subentry-pointer) 
+#   Reaction code: (6-C-12(N,A)4-BE-9,PAR,SIG) 
+#   First author: R.C.Haight 
+#   Institute:  (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference:  (J,NSE,87,41,198405) 
+#   Year:  1984 
+#   Facility:  (ICTR): Insulated core transformer accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12899.x4 
+#   nds:  https://nds.iaea.org/EXFOR/12899
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.4100E+01        1.5000E-01        7.2000E-02        9.0000E-03

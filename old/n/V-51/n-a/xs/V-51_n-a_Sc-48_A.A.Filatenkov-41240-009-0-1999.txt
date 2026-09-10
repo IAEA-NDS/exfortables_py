@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 23-V-51(N,A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 23 
+#   A: 51 
+#   Nuclide: 23-V-51 
+# Reaction: 
+#   Process: N,A 
+#   MF-MT number: 3 - 107 
+#   Incident energy:  1.3560e+01 MeV - 1.4780e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 48 
+#   Nuclide: 21-SC-48 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 41240-009-0 (entry-subentry-pointer) 
+#   Reaction code: (23-V-51(N,A)21-SC-48,,SIG) 
+#   First author: A.A.Filatenkov 
+#   Institute:  (4RUSRI): Khlopin Radievij Institute , St.Petersburg 
+#   Reference:  (R,RI-252,1999) 
+#   Year:  1999 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41240.x4 
+#   nds:  https://nds.iaea.org/EXFOR/41240
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3560E+01        0.0000E+00        1.4510E-02        4.5000E-04
+        1.3740E+01        0.0000E+00        1.5020E-02        5.5000E-04
+        1.3960E+01        0.0000E+00        1.4980E-02        5.7000E-04
+        1.4190E+01        0.0000E+00        1.6560E-02        5.4000E-04
+        1.4420E+01        0.0000E+00        1.6920E-02        5.6000E-04
+        1.4610E+01        0.0000E+00        1.7530E-02        6.5000E-04
+        1.4780E+01        0.0000E+00        1.8250E-02        6.0000E-04

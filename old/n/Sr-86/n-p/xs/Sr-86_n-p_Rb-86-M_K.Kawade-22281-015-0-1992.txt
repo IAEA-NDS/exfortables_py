@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 38-SR-86(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 38 
+#   A: 86 
+#   Nuclide: 38-SR-86 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.3400e+01 MeV - 1.4870e+01 MeV 
+# Residual: 
+#   Z: 37 
+#   A: 86 
+#   Nuclide: 37-RB-86-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22281-015-0 (entry-subentry-pointer) 
+#   Reaction code: (38-SR-86(N,P)37-RB-86-M,,SIG) 
+#   First author: K.Kawade 
+#   Institute:  (2JPNNAG): Nagoya University , Nagoya 
+#   Reference:  ((R,JAERI-M-92-020,1992)=(R,INDC(JPN)-154,1992)) 
+#   Year:  1992 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22281.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22281
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3400E+01        5.0000E-02        1.0100E-02        5.0500E-04
+        1.3650E+01        5.0000E-02        1.1100E-02        5.5500E-04
+        1.3880E+01        5.0000E-02        1.2700E-02        5.9690E-04
+        1.4280E+01        5.0000E-02        1.2100E-02        6.8970E-04
+        1.4580E+01        5.0000E-02        1.3200E-02        6.6000E-04
+        1.4870E+01        5.0000E-02        1.2900E-02        6.3210E-04

@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 28-NI-61(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 28 
+#   A: 61 
+#   Nuclide: 28-NI-61 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4 
+#   Incident energy:  7.0744e+00 MeV - 1.5005e+01 MeV 
+# Residual: 
+#   Z: 29 
+#   A: 61 
+#   Nuclide: 29-CU-61 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D6012-003-0 (entry-subentry-pointer) 
+#   Reaction code: (28-NI-61(P,N)29-CU-61,,SIG) 
+#   First author: B.P.Singh 
+#   Institute:  (3INDIND): India 
+#   Reference:  (J,NIM/A,562,717,2006) 
+#   Year:  2006 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6012.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D6012
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        7.0744E+00        5.3895E-01        2.9504E-01        3.8071E-02
+        8.9993E+00        5.0045E-01        3.6294E-01        4.6832E-02
+        1.0655E+01        5.3895E-01        4.0718E-01        6.8502E-02
+        1.2079E+01        5.0045E-01        4.0714E-01        5.2536E-02
+        1.3465E+01        5.0045E-01        2.2893E-01        3.8514E-02
+        1.5005E+01        5.0045E-01        1.8606E-01        2.4009E-02

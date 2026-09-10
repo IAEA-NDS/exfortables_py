@@ -1,0 +1,37 @@
+# Header: 
+#   Title: 14-SI-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 14 
+#   A: 0 
+#   Nuclide: 14-SI-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  4.0300e+01 MeV - 9.5000e+01 MeV 
+# Residual: 
+#   Z: 4 
+#   A: 7 
+#   Nuclide: 4-BE-7 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: A0423-002-0 (entry-subentry-pointer) 
+#   Reaction code: (14-SI-0(A,X)4-BE-7,,SIG) 
+#   First author: O.N.Vysotskiy 
+#   Institute:  (4UKRIFU): Institute Fiziki Ukrainskoi A.N., Kiev 
+#   Reference:  (J,IZK,,(2),43,1990) 
+#   Year:  1990 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A04/A0423.x4 
+#   nds:  https://nds.iaea.org/EXFOR/A0423
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        4.0300E+01        0.0000E+00        1.1000E-06        9.0000E-07
+        4.9400E+01        0.0000E+00        5.1000E-05        2.1000E-05
+        5.7600E+01        0.0000E+00        1.5000E-04        1.1000E-04
+        6.6400E+01        0.0000E+00        3.5000E-04        1.1000E-04
+        7.4600E+01        0.0000E+00        3.2000E-04        1.1000E-04
+        8.2000E+01        0.0000E+00        6.2000E-04        1.2000E-04
+        8.9200E+01        0.0000E+00        7.9000E-04        1.8000E-04
+        9.5000E+01        0.0000E+00        6.3000E-04        1.4000E-04

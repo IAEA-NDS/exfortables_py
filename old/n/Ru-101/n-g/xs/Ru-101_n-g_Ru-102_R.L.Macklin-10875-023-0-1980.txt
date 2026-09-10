@@ -1,0 +1,47 @@
+# Header: 
+#   Title: 44-RU-101(N,G)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 44 
+#   A: 101 
+#   Nuclide: 44-RU-101 
+# Reaction: 
+#   Process: N,G 
+#   MF-MT number: 3 - 102 
+#   Incident energy:  3.5000e-03 MeV - 6.5000e-01 MeV 
+# Residual: 
+#   Z: 44 
+#   A: 102 
+#   Nuclide: 44-RU-102 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 10875-023-0 (entry-subentry-pointer) 
+#   Reaction code: (44-RU-101(N,G)44-RU-102,,SIG,,AV) 
+#   First author: R.L.Macklin 
+#   Institute:  (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference:  (J,NSE,73,174,1980) 
+#   Year:  1980 
+#   Facility:  (LINAC): Linear accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10875.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10875
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        3.5000E-03        0.0000E+00        2.6128E+00        0.0000E+00
+        5.0000E-03        0.0000E+00        2.0430E+00        0.0000E+00
+        7.0000E-03        0.0000E+00        1.8524E+00        0.0000E+00
+        9.0000E-03        0.0000E+00        1.7200E+00        0.0000E+00
+        1.2500E-02        0.0000E+00        1.4896E+00        0.0000E+00
+        1.7500E-02        0.0000E+00        1.2797E+00        0.0000E+00
+        2.5000E-02        0.0000E+00        1.1107E+00        0.0000E+00
+        3.5000E-02        0.0000E+00        9.1940E-01        0.0000E+00
+        5.0000E-02        0.0000E+00        7.5120E-01        0.0000E+00
+        7.0000E-02        0.0000E+00        6.0120E-01        0.0000E+00
+        9.0000E-02        0.0000E+00        5.1830E-01        0.0000E+00
+        1.2500E-01        0.0000E+00        4.3460E-01        0.0000E+00
+        1.7500E-01        0.0000E+00        3.3730E-01        0.0000E+00
+        2.5000E-01        0.0000E+00        2.7350E-01        0.0000E+00
+        3.5000E-01        0.0000E+00        1.9360E-01        0.0000E+00
+        4.5000E-01        0.0000E+00        1.4690E-01        0.0000E+00
+        5.5000E-01        0.0000E+00        1.2150E-01        0.0000E+00
+        6.5000E-01        0.0000E+00        1.0010E-01        0.0000E+00

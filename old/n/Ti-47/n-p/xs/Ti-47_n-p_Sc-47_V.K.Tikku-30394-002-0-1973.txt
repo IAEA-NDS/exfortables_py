@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 22-TI-47(N,P)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 22 
+#   A: 47 
+#   Nuclide: 22-TI-47 
+# Reaction: 
+#   Process: N,P 
+#   MF-MT number: 3 - 103 
+#   Incident energy:  1.4700e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 47 
+#   Nuclide: 21-SC-47 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 30394-002-0 (entry-subentry-pointer) 
+#   Reaction code: (22-TI-47(N,P)21-SC-47,,SIG) 
+#   First author: V.K.Tikku 
+#   Institute:  (3INDSAH): Saha Institute of Nuclear Physics, Kolkata 
+#   Reference:  ((P,INDC(SEC)-35,98,197308)=(P,BARC-695,22,1973)) 
+#   Year:  1973 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30394.x4 
+#   nds:  https://nds.iaea.org/EXFOR/30394
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4700E+01        3.0000E-01        8.5000E-02        7.0000E-03

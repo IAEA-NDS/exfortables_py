@@ -1,0 +1,35 @@
+# Header: 
+#   Title: 80-HG-196(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 80 
+#   A: 196 
+#   Nuclide: 80-HG-196 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3360e+01 MeV - 1.4940e+01 MeV 
+# Residual: 
+#   Z: 80 
+#   A: 195 
+#   Nuclide: 80-HG-195-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 23018-003-0 (entry-subentry-pointer) 
+#   Reaction code: (80-HG-196(N,2N)80-HG-195-M,,SIG) 
+#   First author: Y.Kasugai 
+#   Institute:  (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference:  (J,NST,38,(12),1048,200112) 
+#   Year:  2001 
+#   Facility:  (CCW): Cockcroft-Walton accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23018.x4 
+#   nds:  https://nds.iaea.org/EXFOR/23018
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3360E+01        0.0000E+00        1.2700E+00        1.3000E-01
+        1.3680E+01        0.0000E+00        1.4000E+00        1.4000E-01
+        1.4020E+01        0.0000E+00        1.4200E+00        1.4000E-01
+        1.4370E+01        0.0000E+00        1.3900E+00        1.3000E-01
+        1.4680E+01        0.0000E+00        1.1900E+00        1.1000E-01
+        1.4940E+01        0.0000E+00        1.3100E+00        1.3000E-01

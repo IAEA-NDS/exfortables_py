@@ -1,0 +1,38 @@
+# Header: 
+#   Title: 92-U-235(P,F)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Process: P,F 
+#   MF-MT number: 3 - 18 
+#   Incident energy:  9.0000e+00 MeV - 1.8000e+01 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 92 
+#   Nuclide: 38-SR-92 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E1411-048-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-235(P,F)38-SR-92,(CUM),SIG) 
+#   First author: T.Ohtsuki 
+#   Institute:  (2JPNTMU): Tokyo Metropolitan University , Hachioji, Tokyo 
+#   Reference:  (J,PR/C,44,1405,1991) 
+#   Year:  1991 
+#   Facility:  (VDGT): Tandem van de Graaff 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E14/E1411.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E1411
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        9.0000E+00        0.0000E+00        2.6000E-04        2.0000E-05
+        1.0200E+01        0.0000E+00        1.6600E-03        9.0000E-05
+        1.1400E+01        0.0000E+00        4.0600E-03        2.4000E-04
+        1.2000E+01        0.0000E+00        5.4700E-03        1.4000E-04
+        1.2500E+01        0.0000E+00        9.6100E-03        5.9000E-04
+        1.3600E+01        0.0000E+00        1.2550E-02        5.1000E-04
+        1.4600E+01        0.0000E+00        1.8510E-02        6.6000E-04
+        1.5600E+01        0.0000E+00        2.4320E-02        1.3700E-03
+        1.8000E+01        0.0000E+00        3.3100E-02        1.6100E-03

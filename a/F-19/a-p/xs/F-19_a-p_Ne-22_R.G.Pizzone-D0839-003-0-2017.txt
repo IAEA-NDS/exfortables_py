@@ -1,14 +1,14 @@
 # Header: 
 #   Title: 9-F-19(A,P)  Cross section 
 #   Source: EXFOR 
-#   Date created: 2026-04-23 
+#   Date created: 2026-09-07 
 # Target: 
 #   Z: 9 
 #   A: 19 
 #   Nuclide: 9-F-19 
 # Reaction: 
 #   Process: A,P 
-#   MF-MT number: 3 - 103 
+#   MF-MT number: 3 - 103.0 
 #   Incident energy:  8.0000e-02 MeV - 8.8000e-01 MeV 
 # Residual: 
 #   Z: 10 
@@ -26,7 +26,7 @@
 #   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D08/D0839.x4 
 #   nds:  https://nds.iaea.org/EXFOR/D0839
 #
-#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+#    E_in_cm(MeV)     dE_in_cm(MeV)        data(B*EV)       ddata(B*EV)
         8.0000E-02        8.0000E-02        4.0200E+13        2.3200E+13
         1.6000E-01        8.0000E-02        8.4300E+13        3.1100E+13
         2.4000E-01        8.0000E-02        7.9100E+13        2.7000E+13

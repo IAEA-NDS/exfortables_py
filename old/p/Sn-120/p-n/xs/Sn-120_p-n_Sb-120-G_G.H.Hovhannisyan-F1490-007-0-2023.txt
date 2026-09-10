@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 50-SN-120(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 50 
+#   A: 120 
+#   Nuclide: 50-SN-120 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4.0 
+#   Incident energy:  1.1480e+01 MeV - 1.6570e+01 MeV 
+# Residual: 
+#   Z: 51 
+#   A: 120 
+#   Nuclide: 51-SB-120-G 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1490-007-0 (entry-subentry-pointer) 
+#   Reaction code: (50-SN-120(P,N)51-SB-120-G,,SIG) 
+#   First author: G.H.Hovhannisyan 
+#   Institute:  (4ARMARM): Armenia 
+#   Reference:  (J,EPJ/A,59,161,2023) 
+#   Year:  2023 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F14/F1490.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1490
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.6570E+01        8.5000E-01        1.0800E-01        1.5000E-02
+        1.4970E+01        7.7000E-01        1.3100E-01        1.8000E-02
+        1.3270E+01        6.9000E-01        2.1500E-01        2.0000E-02
+        1.1480E+01        6.1000E-01        5.5100E-01        5.5000E-02

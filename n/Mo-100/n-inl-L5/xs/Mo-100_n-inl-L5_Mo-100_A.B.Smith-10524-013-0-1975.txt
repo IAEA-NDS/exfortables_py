@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 42-MO-100(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 42 
+#   A: 100 
+#   Nuclide: 42-MO-100 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 55.0 
+#   Incident energy:  2.4000e+00 MeV - 3.8000e+00 MeV 
+# Residual: 
+#   Z: 42 
+#   A: 100 
+#   Nuclide: 42-MO-100 
+#   Level energy: 1.4600e+00 MeV 
+# EXFOR BIB:
+#   Entry id: 10524-013-0 (entry-subentry-pointer) 
+#   Reaction code: (42-MO-100(N,INL)42-MO-100,PAR,SIG) 
+#   First author: A.B.Smith 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (J,NP/A,244,213,197506) 
+#   Year:  1975 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10524.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10524
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        2.4000E+00        0.0000E+00        2.3410E-01        5.0730E-02
+        2.6000E+00        0.0000E+00        2.5830E-01        5.0660E-02
+        2.8000E+00        0.0000E+00        2.1050E-01        5.6840E-02
+        3.0000E+00        0.0000E+00        1.2620E-01        3.0100E-02
+        3.2000E+00        0.0000E+00        1.1780E-01        3.4240E-02
+        3.6000E+00        0.0000E+00        5.5140E-02        3.0110E-02
+        3.8000E+00        0.0000E+00        8.4090E-02        3.0270E-02

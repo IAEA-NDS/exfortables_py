@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 29-CU-65(N,N+A)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 29 
+#   A: 65 
+#   Nuclide: 29-CU-65 
+# Reaction: 
+#   Process: N,N+A 
+#   MF-MT number: 3 - 22 
+#   Incident energy:  1.3580e+01 MeV - 1.9800e+01 MeV 
+# Residual: 
+#   Z: 27 
+#   A: 61 
+#   Nuclide: 27-CO-61 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 11776-005-0 (entry-subentry-pointer) 
+#   Reaction code: (29-CU-65(N,N+A)27-CO-61,,SIG) 
+#   First author: D.C.Santry 
+#   Institute:  (1CANCRC): A.E.C.L., Chalk River, Ontario 
+#   Reference:  (J,CJP,44,1183,1966) 
+#   Year:  1966 
+#   Facility:  None 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/117/11776.x4 
+#   nds:  https://nds.iaea.org/EXFOR/11776
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3580E+01        6.0000E-02        3.0000E-04        1.0000E-04
+        1.4250E+01        8.0000E-02        1.1000E-03        5.0000E-04
+        1.4500E+01        6.0000E-02        1.6000E-03        2.0000E-04
+        1.4740E+01        6.0000E-02        1.6000E-03        2.0000E-04
+        1.6300E+01        6.0000E-01        6.4000E-03        9.0000E-04
+        1.7900E+01        6.0000E-01        1.2400E-02        9.0000E-04
+        1.9800E+01        3.0000E-01        1.8900E-02        9.0000E-04

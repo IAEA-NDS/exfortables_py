@@ -1,0 +1,41 @@
+# Header: 
+#   Title: 92-U-238(6-C-12,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-03 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: 6-C-12,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  6.4293e+01 MeV - 7.7945e+01 MeV 
+# Residual: 
+#   Z: 98 
+#   A: 245 
+#   Nuclide: 98-CF-245 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: F1385-003-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(6-C-12,X)98-CF-245,,SIG) 
+#   First author: V.V.Volkov 
+#   Institute:  (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
+#   Reference:  (J,ZET,36,762,1959) 
+#   Year:  1959 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F13/F1385.x4 
+#   nds:  https://nds.iaea.org/EXFOR/F1385
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        6.4293E+01        2.3000E-02        2.1089E-06        1.8322E-06
+        6.5978E+01        2.3000E-02        1.5524E-05        5.2349E-06
+        6.6345E+01        2.3000E-02        1.1874E-05        4.7114E-06
+        6.8513E+01        2.3000E-02        4.7295E-05        4.9731E-06
+        6.9002E+01        2.3000E-02        3.1609E-05        5.2329E-06
+        7.0545E+01        2.3000E-02        7.0670E-05        1.0210E-05
+        7.2008E+01        2.3000E-02        5.9995E-05        8.6375E-06
+        7.2533E+01        2.3000E-02        8.8547E-05        1.2827E-05
+        7.5013E+01        2.3000E-02        8.8905E-05        1.3351E-05
+        7.5224E+01        2.3000E-02        8.6558E-05        1.2304E-05
+        7.7911E+01        2.3000E-02        8.6662E-05        1.2825E-05
+        7.7945E+01        2.3000E-02        9.7919E-05        1.0208E-05

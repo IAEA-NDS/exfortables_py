@@ -1,0 +1,50 @@
+# Header: 
+#   Title: 68-ER-0(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 68 
+#   A: 0 
+#   Nuclide: 68-ER-0 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  2.9290e+01 MeV - 8.4460e+01 MeV 
+# Residual: 
+#   Z: 69 
+#   A: 168 
+#   Nuclide: 69-TM-168 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: O1357-004-0 (entry-subentry-pointer) 
+#   Reaction code: (68-ER-0(A,X)69-TM-168,,SIG,,DAM) 
+#   First author: A.A.Sonzogni 
+#   Institute:  (3ARGCNE): Comision Nacional de Energia Atomica, Buenos Aires 
+#   Reference:  (J,JRN/L,165,295,1992) 
+#   Year:  1992 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O13/O1357.x4 
+#   nds:  https://nds.iaea.org/EXFOR/O1357
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        8.4460E+01        0.0000E+00        2.7941E-04        4.1912E-05
+        8.2720E+01        0.0000E+00        2.8869E-04        4.3303E-05
+        8.0950E+01        0.0000E+00        3.0779E-04        4.6169E-05
+        7.9160E+01        0.0000E+00        2.7561E-04        4.1342E-05
+        7.7330E+01        0.0000E+00        3.2645E-04        4.8968E-05
+        7.6170E+01        0.0000E+00        2.9138E-04        4.3707E-05
+        7.4290E+01        0.0000E+00        3.1383E-04        4.7074E-05
+        7.3100E+01        0.0000E+00        2.9235E-04        4.3853E-05
+        7.1160E+01        0.0000E+00        2.7109E-04        4.0664E-05
+        6.8020E+01        0.0000E+00        2.9454E-04        4.4181E-05
+        6.4770E+01        0.0000E+00        2.5617E-04        3.8425E-05
+        6.1390E+01        0.0000E+00        2.6003E-04        3.9004E-05
+        5.7870E+01        0.0000E+00        2.3487E-04        3.5231E-05
+        5.6430E+01        0.0000E+00        2.5345E-04        3.8017E-05
+        5.2670E+01        0.0000E+00        1.9984E-04        2.9976E-05
+        5.1130E+01        0.0000E+00        1.8822E-04        2.8233E-05
+        4.7060E+01        0.0000E+00        1.7621E-04        2.6431E-05
+        4.2720E+01        0.0000E+00        1.1512E-04        1.7268E-05
+        3.8030E+01        0.0000E+00        8.9490E-05        1.3423E-05
+        3.2880E+01        0.0000E+00        4.3670E-05        6.5505E-06
+        2.9290E+01        0.0000E+00        5.3900E-06        8.0850E-07

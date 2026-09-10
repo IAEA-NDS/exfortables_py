@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 92-U-238(N,INL)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-09-07 
+# Target: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+# Reaction: 
+#   Process: N,INL 
+#   MF-MT number: 3 - 52.0 
+#   Incident energy:  1.5000e+00 MeV - 3.0000e+00 MeV 
+# Residual: 
+#   Z: 92 
+#   A: 238 
+#   Nuclide: 92-U-238 
+#   Level energy: 1.4800e-01 MeV 
+# EXFOR BIB:
+#   Entry id: 10560-008-0 (entry-subentry-pointer) 
+#   Reaction code: (92-U-238(N,INL)92-U-238,PAR,SIG) 
+#   First author: P.Guenther 
+#   Institute:  (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference:  (R,ANL-NDM-16,197509) 
+#   Year:  1975 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10560.x4 
+#   nds:  https://nds.iaea.org/EXFOR/10560
+#
+#   E_in_lab(MeV)    dE_in_lab(MeV)           data(B)          ddata(B)
+        1.5000E+00        0.0000E+00        3.5900E-01        5.3000E-02
+        1.8000E+00        0.0000E+00        2.3700E-01        4.0000E-02
+        1.8000E+00        0.0000E+00        3.1000E-01        4.9000E-02
+        2.1000E+00        0.0000E+00        3.1100E-01        6.2000E-02
+        2.4000E+00        0.0000E+00        1.3100E-01        2.0000E-02
+        2.7000E+00        0.0000E+00        1.2000E-01        2.0000E-02
+        3.0000E+00        0.0000E+00        1.7000E-01        3.1000E-02

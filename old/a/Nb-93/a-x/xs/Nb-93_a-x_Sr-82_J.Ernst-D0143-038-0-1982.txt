@@ -1,0 +1,33 @@
+# Header: 
+#   Title: 41-NB-93(A,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-04-23 
+# Target: 
+#   Z: 41 
+#   A: 93 
+#   Nuclide: 41-NB-93 
+# Reaction: 
+#   Process: A,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.2540e+02 MeV - 1.5580e+02 MeV 
+# Residual: 
+#   Z: 38 
+#   A: 82 
+#   Nuclide: 38-SR-82 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: D0143-038-0 (entry-subentry-pointer) 
+#   Reaction code: (41-NB-93(A,X)38-SR-82,CUM,SIG) 
+#   First author: J.Ernst 
+#   Institute:  (2GERBON): University of Bonn 
+#   Reference:  (J,ZP/A,308,301,1982) 
+#   Year:  1982 
+#   Facility:  (ISOCY): Isochronous cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D01/D0143.x4 
+#   nds:  https://nds.iaea.org/EXFOR/D0143
+#
+#       E_in(MeV)         dE_in(MeV)        XS(B)             dXS(B)
+        1.2540E+02        1.0000E+00        3.6000E-03        1.8000E-04
+        1.3530E+02        1.0000E+00        6.4000E-03        3.2000E-04
+        1.4510E+02        1.0000E+00        9.5000E-03        4.7500E-04
+        1.5580E+02        1.0000E+00        1.5800E-02        7.9000E-04

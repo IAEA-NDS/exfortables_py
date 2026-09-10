@@ -1,0 +1,30 @@
+# Header: 
+#   Title: 82-PB-0(N,X)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-07-31 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Process: N,X 
+#   MF-MT number: 3 - None 
+#   Incident energy:  1.4000e+01 MeV 
+# Residual: 
+#   Z: 82 
+#   A: 207 
+#   Nuclide: 82-PB-207-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22252-002-0 (entry-subentry-pointer) 
+#   Reaction code: (82-PB-0(N,X)82-PB-207-M,,SIG) 
+#   First author: J.Yamamoto 
+#   Institute:  (2JPNOSA): Osaka University , Osaka 
+#   Reference:  ((S,JAERI-M-90-025,259,199002)=(S,NEANDC(J)-149,259,199002)=(S,INDC(JPN)-136,259,199002)) 
+#   Year:  1990 
+#   Facility:  (ACCEL): Accelerator 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22252.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22252
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.4000E+01        0.0000E+00        1.0100E+00        5.2000E-01

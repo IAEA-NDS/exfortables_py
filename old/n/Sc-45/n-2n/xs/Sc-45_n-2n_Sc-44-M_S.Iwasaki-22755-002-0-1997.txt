@@ -1,0 +1,36 @@
+# Header: 
+#   Title: 21-SC-45(N,2N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-08-01 
+# Target: 
+#   Z: 21 
+#   A: 45 
+#   Nuclide: 21-SC-45 
+# Reaction: 
+#   Process: N,2N 
+#   MF-MT number: 3 - 16 
+#   Incident energy:  1.3378e+01 MeV - 1.8941e+01 MeV 
+# Residual: 
+#   Z: 21 
+#   A: 44 
+#   Nuclide: 21-SC-44-M 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: 22755-002-0 (entry-subentry-pointer) 
+#   Reaction code: (21-SC-45(N,2N)21-SC-44-M,,SIG) 
+#   First author: S.Iwasaki 
+#   Institute:  (2JPNTOH): Tohoku University , Sendai 
+#   Reference:  ((S,INDC(JPN)-179,169,1997)=(S,JAERI-C-97-005,169,1997)) 
+#   Year:  1997 
+#   Facility:  (DYNAM): Dynamitron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22755.x4 
+#   nds:  https://nds.iaea.org/EXFOR/22755
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.3378E+01        2.3568E-02        6.7801E-02        0.0000E+00
+        1.4338E+01        2.3568E-02        1.3184E-01        0.0000E+00
+        1.5648E+01        2.3568E-02        1.5365E-01        0.0000E+00
+        1.6919E+01        2.3568E-02        1.6220E-01        0.0000E+00
+        1.8004E+01        2.3568E-02        1.6206E-01        0.0000E+00
+        1.8688E+01        2.3568E-02        1.6857E-01        0.0000E+00
+        1.8941E+01        2.3568E-02        1.6395E-01        0.0000E+00

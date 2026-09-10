@@ -1,0 +1,52 @@
+# Header: 
+#   Title: 83-BI-209(P,N)  Cross section 
+#   Source: EXFOR 
+#   Date created: 2026-06-11 
+# Target: 
+#   Z: 83 
+#   A: 209 
+#   Nuclide: 83-BI-209 
+# Reaction: 
+#   Process: P,N 
+#   MF-MT number: 3 - 4.0 
+#   Incident energy:  1.1240e+01 MeV - 5.1950e+01 MeV 
+# Residual: 
+#   Z: 84 
+#   A: 209 
+#   Nuclide: 84-PO-209 
+#   Level energy: - 
+# EXFOR BIB:
+#   Entry id: E0058-002-0 (entry-subentry-pointer) 
+#   Reaction code: (83-BI-209(P,N)84-PO-209,,SIG) 
+#   First author: K.Miyano 
+#   Institute:  (2JPNNII): Niigata University , Niigata 
+#   Reference:  (J,JPJ,35,(4),953,197310) 
+#   Year:  1973 
+#   Facility:  (CYCLO): Cyclotron 
+#   Master file:  https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E00/E0058.x4 
+#   nds:  https://nds.iaea.org/EXFOR/E0058
+#
+#       E_in(MeV)        dE_in(MeV)           data(B)          ddata(B)
+        1.1240E+01        0.0000E+00        2.4870E-01        2.7590E-02
+        1.2130E+01        0.0000E+00        2.5610E-01        3.5010E-02
+        1.3010E+01        0.0000E+00        1.9470E-01        2.3290E-02
+        1.5220E+01        0.0000E+00        9.9990E-02        1.3670E-02
+        1.7530E+01        0.0000E+00        7.8260E-02        9.3610E-03
+        1.8410E+01        0.0000E+00        5.7200E-02        7.8180E-03
+        1.9910E+01        0.0000E+00        5.2880E-02        8.5520E-03
+        2.1510E+01        0.0000E+00        4.6110E-02        8.9410E-03
+        2.2390E+01        0.0000E+00        3.9800E-02        5.4410E-03
+        2.3360E+01        0.0000E+00        3.5040E-02        3.2710E-03
+        2.5580E+01        0.0000E+00        3.3370E-02        8.4990E-03
+        2.9380E+01        0.0000E+00        3.4030E-02        4.0700E-03
+        3.1420E+01        0.0000E+00        3.1770E-02        4.6100E-03
+        3.3100E+01        0.0000E+00        3.2720E-02        4.4720E-03
+        3.5050E+01        0.0000E+00        3.0850E-02        3.9550E-03
+        3.7440E+01        0.0000E+00        2.2990E-02        3.1430E-03
+        3.9470E+01        0.0000E+00        2.1470E-02        6.6750E-03
+        4.1510E+01        0.0000E+00        2.7430E-02        2.5600E-03
+        4.3370E+01        0.0000E+00        2.5860E-02        2.6430E-03
+        4.5670E+01        0.0000E+00        1.8530E-02        2.6900E-03
+        4.7610E+01        0.0000E+00        2.1890E-02        2.6190E-03
+        5.0180E+01        0.0000E+00        1.7480E-02        2.0900E-03
+        5.1950E+01        0.0000E+00        1.8530E-02        2.0560E-03
